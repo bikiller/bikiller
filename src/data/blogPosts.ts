@@ -6749,108 +6749,374 @@ export const blogPosts: BlogPost[] = [
  en: 'What do professional traders do daily? Detailed revelation of professional traders\' daily workflow and schedule.'
  },
  content: {
- zh: `<h1 class="text-4xl font-bold text-center mb-8 text-black dark:text-white">职业交易员的一天</h1>
+ zh: `<h1 class="text-4xl font-bold text-center mb-8 text-black dark:text-white">职业交易员的一天：日常工作流程详解</h1>
 
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">早晨（7:00-9:00）</h2>
+<p class="text-base leading-relaxed mb-8 text-center text-gray-700 dark:text-gray-300">深入了解职业交易员的真实工作状态，从早晨准备到深夜复盘，每个时段都有其独特的价值与挑战。</p>
 
-<h3 class="text-2xl font-bold mb-4 mt-8 text-black dark:text-white">7:00-8:00 晨间准备</h3>
-<ul class="space-y-3 mb-6">
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>查看隔夜新闻</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>分析亚洲市场开盘</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>检查持仓情况</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>制定当日计划</span></li>
+<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">一天概览</h2>
+
+<div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700"><div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center"><span class="text-2xl text-white dark:text-black font-bold">16</span></div>
+<p class="text-xl font-bold mb-2 text-black dark:text-white">工作时长</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">小时/天</p>
+</div>
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700"><div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center"><span class="text-2xl text-white dark:text-black font-bold">5</span></div>
+<p class="text-xl font-bold mb-2 text-black dark:text-white">市场时段</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">亚洲/欧洲/美洲</p>
+</div>
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700"><div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center"><span class="text-2xl text-white dark:text-black font-bold">3</span></div>
+<p class="text-xl font-bold mb-2 text-black dark:text-white">复盘次数</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">即时/日度/周度</p>
+</div>
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700"><div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center"><span class="text-2xl text-white dark:text-black font-bold">∞</span></div>
+<p class="text-xl font-bold mb-2 text-black dark:text-white">持续学习</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">市场不断变化</p>
+</div>
+</div>
+
+<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">完整时间轴</h2>
+
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700 mb-8">
+<div class="space-y-6">
+
+<div class="flex gap-4">
+<div class="flex-shrink-0 w-32">
+<div class="bg-black dark:bg-white text-white dark:text-black px-4 py-2 text-center font-bold">07:00</div>
+</div>
+<div class="flex-grow">
+<p class="text-xl font-bold mb-2 text-black dark:text-white">晨间准备</p>
+<p class="text-gray-600 dark:text-gray-400">查看隔夜新闻、分析亚洲市场开盘、检查持仓情况、制定当日计划</p>
+</div>
+</div>
+
+<div class="flex gap-4">
+<div class="flex-shrink-0 w-32">
+<div class="bg-gray-700 dark:bg-gray-300 text-white dark:text-black px-4 py-2 text-center font-bold">08:00</div>
+</div>
+<div class="flex-grow">
+<p class="text-xl font-bold mb-2 text-black dark:text-white">市场分析</p>
+<p class="text-gray-600 dark:text-gray-400">技术面、基本面、市场情绪综合分析，确定交易机会</p>
+</div>
+</div>
+
+<div class="flex gap-4">
+<div class="flex-shrink-0 w-32">
+<div class="bg-gray-600 dark:bg-gray-400 text-white dark:text-black px-4 py-2 text-center font-bold">09:00</div>
+</div>
+<div class="flex-grow">
+<p class="text-xl font-bold mb-2 text-black dark:text-white">欧洲开盘前</p>
+<p class="text-gray-600 dark:text-gray-400">最后确认交易计划、设置价格提醒、准备入场</p>
+</div>
+</div>
+
+<div class="flex gap-4 bg-gray-50 dark:bg-gray-900 p-4 rounded">
+<div class="flex-shrink-0 w-32">
+<div class="bg-black dark:bg-white text-white dark:text-black px-4 py-2 text-center font-bold">10:00</div>
+</div>
+<div class="flex-grow">
+<p class="text-xl font-bold mb-2 text-black dark:text-white">⚡ 活跃交易时段</p>
+<p class="text-gray-600 dark:text-gray-400"><strong class="font-bold text-black dark:text-white">欧洲-亚洲重叠</strong> - 执行交易计划、监控持仓、动态调整、记录交易</p>
+</div>
+</div>
+
+<div class="flex gap-4">
+<div class="flex-shrink-0 w-32">
+<div class="bg-gray-500 dark:bg-gray-500 text-white dark:text-black px-4 py-2 text-center font-bold">14:00</div>
+</div>
+<div class="flex-grow">
+<p class="text-xl font-bold mb-2 text-black dark:text-white">午休恢复</p>
+<p class="text-gray-600 dark:text-gray-400">短暂休息、避免疲劳交易、保持头脑清醒</p>
+</div>
+</div>
+
+<div class="flex gap-4">
+<div class="flex-shrink-0 w-32">
+<div class="bg-gray-600 dark:bg-gray-400 text-white dark:text-black px-4 py-2 text-center font-bold">15:00</div>
+</div>
+<div class="flex-grow">
+<p class="text-xl font-bold mb-2 text-black dark:text-white">欧洲盘</p>
+<p class="text-gray-600 dark:text-gray-400">继续监控市场、寻找新机会、调整现有持仓</p>
+</div>
+</div>
+
+<div class="flex gap-4 bg-gray-50 dark:bg-gray-900 p-4 rounded">
+<div class="flex-shrink-0 w-32">
+<div class="bg-black dark:bg-white text-white dark:text-black px-4 py-2 text-center font-bold">20:00</div>
+</div>
+<div class="flex-grow">
+<p class="text-xl font-bold mb-2 text-black dark:text-white">⚡ 美国盘 - 黄金时段</p>
+<p class="text-gray-600 dark:text-gray-400"><strong class="font-bold text-black dark:text-white">最活跃时段</strong> - 欧美重叠，重要数据发布，波动性最大，严格执行计划</p>
+</div>
+</div>
+
+<div class="flex gap-4">
+<div class="flex-shrink-0 w-32">
+<div class="bg-gray-700 dark:bg-gray-300 text-white dark:text-black px-4 py-2 text-center font-bold">24:00</div>
+</div>
+<div class="flex-grow">
+<p class="text-xl font-bold mb-2 text-black dark:text-white">交易复盘</p>
+<p class="text-gray-600 dark:text-gray-400">记录所有交易、分析成败、总结经验、准备明日</p>
+</div>
+</div>
+
+</div>
+</div>
+
+<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">市场时段特点对比</h2>
+
+<div class="overflow-x-auto mb-8">
+<table class="w-full border-2 border-black dark:border-white">
+<thead>
+<tr>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">市场时段</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">时间（北京）</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">波动性</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">特点</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">建议</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">亚洲盘</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">06:00-15:00</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">低-中</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">相对平静，适合准备</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">分析为主</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">欧洲盘</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">15:00-24:00</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">中-高</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">交易量大，趋势明显</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">把握趋势</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">美国盘</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">20:00-04:00</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">高-极高</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">最活跃，重要数据</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">重点时段</strong></td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">欧美重叠</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">20:00-24:00</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">极高</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">流动性最好</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">黄金时段</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="bg-black dark:bg-white text-white dark:text-black p-8 mb-8 border-2 border-black dark:border-white">
+<p class="text-2xl font-bold mb-4 text-white dark:text-black">⚡ 黄金交易时段：20:00-24:00</p>
+<p class="text-lg leading-relaxed mb-4 text-white dark:text-black">这是外汇市场最活跃的4小时，欧洲和美洲市场同时开放，流动性达到顶峰。</p>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+<div>
+<p class="text-xl font-bold mb-2 text-white dark:text-black">70%+</p>
+<p class="text-sm text-white dark:text-black">日交易量占比</p>
+</div>
+<div>
+<p class="text-xl font-bold mb-2 text-white dark:text-black">最高</p>
+<p class="text-sm text-white dark:text-black">价格波动性</p>
+</div>
+<div>
+<p class="text-xl font-bold mb-2 text-white dark:text-black">核心</p>
+<p class="text-sm text-white dark:text-black">数据发布时间</p>
+</div>
+</div>
+</div>
+
+<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">不同级别交易员对比</h2>
+
+<div class="overflow-x-auto mb-8">
+<table class="w-full border-2 border-black dark:border-white">
+<thead>
+<tr>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">对比项</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">初级交易员</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">中级交易员</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">高级交易员</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">工作时间</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">13:30-21:30（8小时）</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">10:00-24:00（14小时）</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">自由安排（关注关键时段）</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">交易品种</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">1-2个</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">2-4个</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">4-8个</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">复盘时间</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">每日30分钟</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">每日1小时</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">每日30分钟（高效）</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">仓位管理</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">20美金/手</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">50-100美金/手</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">100美金+矩阵</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">决策速度</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">需要思考</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">较快</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">本能反应</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">交易复盘检查清单</h2>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
+<p class="text-xl font-bold mb-4 text-black dark:text-white">📊 交易记录</p>
+<ul class="space-y-2">
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>记录所有进出场点位</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>标注交易品种和时间</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>记录盈亏金额和比例</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>附上截图和图表</span></li>
 </ul>
+</div>
 
-<h3 class="text-2xl font-bold mb-4 mt-8 text-black dark:text-white">8:00-9:00 市场分析</h3>
-<ul class="space-y-3 mb-6">
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>技术分析：关键支撑阻力</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>基本面分析：重要经济数据</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>市场情绪：资金流向</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>确定交易机会</span></li>
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
+<p class="text-xl font-bold mb-4 text-black dark:text-white">🔍 交易分析</p>
+<ul class="space-y-2">
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>为什么进场？</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>为什么出场？</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>执行是否符合计划？</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>有无违规操作？</span></li>
 </ul>
+</div>
 
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">上午（9:00-12:00）</h2>
-
-<h3 class="text-2xl font-bold mb-4 mt-8 text-black dark:text-white">9:00-10:00 欧洲开盘前</h3>
-<ul class="space-y-3 mb-6">
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>最后确认交易计划</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>设置价格提醒</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>准备入场</span></li>
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
+<p class="text-xl font-bold mb-4 text-black dark:text-white">💡 经验总结</p>
+<ul class="space-y-2">
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>今日最成功的交易</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>今日最失败的交易</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>可改进的地方</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>明日注意事项</span></li>
 </ul>
+</div>
 
-<h3 class="text-2xl font-bold mb-4 mt-8 text-black dark:text-white">10:00-12:00 活跃交易时段</h3>
-<ul class="space-y-3 mb-6">
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>执行交易计划</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>监控持仓</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>动态调整止损</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>记录交易原因</span></li>
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
+<p class="text-xl font-bold mb-4 text-black dark:text-white">📈 数据统计</p>
+<ul class="space-y-2">
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>胜率统计</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>盈亏比计算</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>最大回撤分析</span></li>
+<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">□</span><span>更新交易日志</span></li>
 </ul>
+</div>
+</div>
 
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">下午（14:00-18:00）</h2>
+<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">周度工作计划</h2>
 
-<h3 class="text-2xl font-bold mb-4 mt-8 text-black dark:text-white">14:00-15:00 午休恢复</h3>
-<ul class="space-y-3 mb-6">
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>短暂休息</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>避免疲劳交易</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>保持头脑清醒</span></li>
-</ul>
+<div class="overflow-x-auto mb-8">
+<table class="w-full border-2 border-black dark:border-white">
+<thead>
+<tr>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">星期</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">工作重点</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">时间安排</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">目标任务</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">周一</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">周初分析+谨慎交易</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">13:30-21:30</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">确定本周重点品种</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">周二</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">正常交易</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">13:30-21:30</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">执行交易计划</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">周三</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">中期复盘</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">13:30-21:30</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">周中总结调整</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">周四</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">正常交易</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">13:30-21:30</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">把握交易机会</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">周五</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">周末前整理</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">13:30-21:30</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">平仓或轻仓过周末</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">周六</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">周度复盘+学习</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">自由安排</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">统计数据、分析策略</td>
+</tr>
+<tr>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">周日</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">下周准备+休息</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">自由安排</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">制定下周计划、心理调整</td>
+</tr>
+</tbody>
+</table>
+</div>
 
-<h3 class="text-2xl font-bold mb-4 mt-8 text-black dark:text-white">15:00-18:00 欧洲盘</h3>
-<ul class="space-y-3 mb-6">
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>继续监控市场</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>寻找新机会</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>调整现有持仓</span></li>
-</ul>
+<div class="bg-black dark:bg-white text-white dark:text-black p-8 mb-8 border-2 border-black dark:border-white">
+<p class="text-2xl font-bold mb-4 text-white dark:text-black">💪 成功交易员的共同特征</p>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+<div>
+<p class="text-lg font-bold mb-2 text-white dark:text-black">纪律严明</p>
+<p class="text-white dark:text-black">严格遵守交易计划，不因情绪影响决策</p>
+</div>
+<div>
+<p class="text-lg font-bold mb-2 text-white dark:text-black">持续学习</p>
+<p class="text-white dark:text-black">市场不断变化，保持学习和适应能力</p>
+</div>
+<div>
+<p class="text-lg font-bold mb-2 text-white dark:text-black">风险管理</p>
+<p class="text-white dark:text-black">每笔交易都设置止损，控制整体风险敞口</p>
+</div>
+<div>
+<p class="text-lg font-bold mb-2 text-white dark:text-black">心态稳定</p>
+<p class="text-white dark:text-black">不因盈亏影响心态，保持平常心</p>
+</div>
+</div>
+</div>
 
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">晚上（20:00-24:00）</h2>
+<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">关键建议</h2>
 
-<h3 class="text-2xl font-bold mb-4 mt-8 text-black dark:text-white">20:00-24:00 美国盘</h3>
-<ul class="space-y-3 mb-6">
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span><strong class="font-bold text-black dark:text-white">最活跃时段</strong></span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>重要数据发布</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>波动性最大</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>严格执行计划</span></li>
-</ul>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
+<p class="text-xl font-bold mb-3 text-black dark:text-white">⏰ 时间管理</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">合理安排休息时间，避免过度疲劳导致决策失误</p>
+</div>
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
+<p class="text-xl font-bold mb-3 text-black dark:text-white">📝 记录习惯</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">详细记录每笔交易，建立自己的交易数据库</p>
+</div>
+<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
+<p class="text-xl font-bold mb-3 text-black dark:text-white">🎯 专注重点</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">集中精力在20:00-24:00黄金时段，其他时间可适当放松</p>
+</div>
+</div>
 
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">收盘后（24:00-）</h2>
-
-<h3 class="text-2xl font-bold mb-4 mt-8 text-black dark:text-white">交易复盘</h3>
-<ol class="space-y-3 mb-6">
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>记录所有交易</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>分析成功/失败原因</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>总结经验教训</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>更新交易日志</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>准备明日计划</span></li>
-</ol>
-
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">周末工作</h2>
-
-<h3 class="text-2xl font-bold mb-4 mt-8 text-black dark:text-white">周六</h3>
-<ul class="space-y-3 mb-6">
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>回顾本周交易</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>统计盈亏数据</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>分析策略有效性</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>学习新知识</span></li>
-</ul>
-
-<h3 class="text-2xl font-bold mb-4 mt-8 text-black dark:text-white">周日</h3>
-<ul class="space-y-3 mb-6">
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>分析下周市场</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>制定交易计划</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>心理调整</span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span>充分休息</span></li>
-</ul>
-
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">注意事项</h2>
-
-<ul class="space-y-3 mb-6">
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span><strong class="font-bold text-black dark:text-white">不要过度交易</strong></span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span><strong class="font-bold text-black dark:text-white">保持规律作息</strong></span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span><strong class="font-bold text-black dark:text-white">适当休息锻炼</strong></span></li>
- <li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2"><span class="text-black dark:text-white font-bold">•</span><span><strong class="font-bold text-black dark:text-white">保持身心健康</strong></span></li>
-</ul>
-
-<p class="text-base leading-relaxed mb-4 text-gray-700 dark:text-gray-300">*成功的交易员都有规律的作息和严格的纪律。*</p>`,
+<p class="text-base leading-relaxed mb-4 text-center text-gray-700 dark:text-gray-300 italic">交易不是百米冲刺，而是一场马拉松。规律的作息、严格的纪律、持续的学习，才是长期成功的关键。</p>`,
  en: `<h1 class="text-4xl font-bold text-center mb-8 text-black dark:text-white">A Day in the Life of a Professional Trader</h1>
 
 <h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">Morning (7:00-9:00)</h2>
