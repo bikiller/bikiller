@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 // Types
 interface QuestionOption {
@@ -36,14 +37,14 @@ interface ScoreResult {
   };
 }
 
-// Dimensions configuration
-const DIMENSIONS: Record<string, DimensionConfig> = {
-  risk: { name: "风险承受能力", icon: "R", color: "#000000" },
-  emotion: { name: "情绪控制能力", icon: "E", color: "#000000" },
-  decision: { name: "决策能力", icon: "D", color: "#000000" },
-  discipline: { name: "纪律性", icon: "D", color: "#000000" },
-  stress: { name: "压力管理", icon: "S", color: "#000000" },
-};
+// Dimensions configuration function
+const getDimensions = (t: (key: string) => string): Record<string, DimensionConfig> => ({
+  risk: { name: t('psytest.dimension.risk'), icon: "R", color: "#000000" },
+  emotion: { name: t('psytest.dimension.emotion'), icon: "E", color: "#000000" },
+  decision: { name: t('psytest.dimension.decision'), icon: "D", color: "#000000" },
+  discipline: { name: t('psytest.dimension.discipline'), icon: "D", color: "#000000" },
+  stress: { name: t('psytest.dimension.stress'), icon: "S", color: "#000000" },
+});
 
 // 20 questions data
 const QUESTIONS: Question[] = [
@@ -299,6 +300,10 @@ export default function PsychologyTestPage() {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [answers, setAnswers] = useState<number[]>(new Array(QUESTIONS.length).fill(-1));
   const [scores, setScores] = useState<ScoreResult | null>(null);
+  const { t } = useLanguage();
+
+  // Get dimensions with translations
+  const DIMENSIONS = getDimensions(t);
 
   const startTest = () => {
     setScreen('test');
@@ -358,26 +363,26 @@ export default function PsychologyTestPage() {
   const getScoreLevel = (percentage: number) => {
     if (percentage >= 85) {
       return {
-        level: "优秀交易员",
-        description: "您展现出了出色的交易心理素质。在风险控制、情绪管理、决策能力等方面都表现优异。继续保持这种专业的交易态度，您很可能成为一名成功的交易员。",
+        level: t('psytest.level.excellent'),
+        description: t('psytest.level.excellent.desc'),
         color: "#000000"
       };
     } else if (percentage >= 70) {
       return {
-        level: "良好交易员",
-        description: "您具备较好的交易心理素质，在多个维度上表现良好。通过持续学习和实践，关注弱项的改进，您有很大的提升空间。",
+        level: t('psytest.level.good'),
+        description: t('psytest.level.good.desc'),
         color: "#374151"
       };
     } else if (percentage >= 55) {
       return {
-        level: "合格交易员",
-        description: "您具备基本的交易心理素质，但在某些方面还需要加强。建议重点关注得分较低的维度，通过学习和训练来提升。",
+        level: t('psytest.level.pass'),
+        description: t('psytest.level.pass.desc'),
         color: "#6b7280"
       };
     } else {
       return {
-        level: "需要提升",
-        description: "您的交易心理素质还有很大的提升空间。建议在进行实盘交易前，先系统学习交易心理学，并通过模拟交易来锻炼心理素质。",
+        level: t('psytest.level.improve'),
+        description: t('psytest.level.improve.desc'),
         color: "#9ca3af"
       };
     }
@@ -405,41 +410,41 @@ export default function PsychologyTestPage() {
                   <path d="M14.5 2A2.5 2.5 0 0 0 12 4.5v15a2.5 2.5 0 0 0 4.96.44 2.5 2.5 0 0 0 2.96-3.08 3 3 0 0 0 .34-5.58 2.5 2.5 0 0 0-1.32-4.24 2.5 2.5 0 0 0-1.98-3A2.5 2.5 0 0 0 14.5 2Z"/>
                 </svg>
               </div>
-              <h1 className="text-4xl font-bold mb-3 text-gray-900 dark:text-white">交易员心理测试</h1>
-              <p className="text-xl text-gray-600 dark:text-gray-400 mb-10">全面评估您的交易心理素质</p>
+              <h1 className="text-4xl font-bold mb-3 text-gray-900 dark:text-white">{t('psytest.welcome.title')}</h1>
+              <p className="text-xl text-gray-600 dark:text-gray-400 mb-10">{t('psytest.welcome.subtitle')}</p>
 
               <div className="grid grid-cols-3 gap-6 mb-10">
                 <div className="flex items-center gap-4 p-4 bg-gray-50 dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-700">
                   <div className="w-10 h-10 bg-black dark:bg-white flex items-center justify-center border-2 border-black dark:border-white">
-                    <span className="text-white dark:text-black font-bold text-sm">时长</span>
+                    <span className="text-white dark:text-black font-bold text-sm">{t('psytest.welcome.duration.label')}</span>
                   </div>
                   <div className="text-left">
-                    <h3 className="text-xs font-semibold text-gray-600 dark:text-gray-400 uppercase">测试时长</h3>
-                    <p className="text-base font-semibold text-gray-900 dark:text-white">约 5-8 分钟</p>
+                    <h3 className="text-xs font-semibold text-gray-600 dark:text-gray-400 uppercase">{t('psytest.welcome.duration.title')}</h3>
+                    <p className="text-base font-semibold text-gray-900 dark:text-white">{t('psytest.welcome.duration.value')}</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4 p-4 bg-gray-50 dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-700">
                   <div className="w-10 h-10 bg-black dark:bg-white flex items-center justify-center border-2 border-black dark:border-white">
-                    <span className="text-white dark:text-black font-bold text-sm">题目</span>
+                    <span className="text-white dark:text-black font-bold text-sm">{t('psytest.welcome.questions.label')}</span>
                   </div>
                   <div className="text-left">
-                    <h3 className="text-xs font-semibold text-gray-600 dark:text-gray-400 uppercase">题目数量</h3>
-                    <p className="text-base font-semibold text-gray-900 dark:text-white">20 道题目</p>
+                    <h3 className="text-xs font-semibold text-gray-600 dark:text-gray-400 uppercase">{t('psytest.welcome.questions.title')}</h3>
+                    <p className="text-base font-semibold text-gray-900 dark:text-white">{t('psytest.welcome.questions.value')}</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4 p-4 bg-gray-50 dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-700">
                   <div className="w-10 h-10 bg-black dark:bg-white flex items-center justify-center border-2 border-black dark:border-white">
-                    <span className="text-white dark:text-black font-bold text-sm">维度</span>
+                    <span className="text-white dark:text-black font-bold text-sm">{t('psytest.welcome.dimensions.label')}</span>
                   </div>
                   <div className="text-left">
-                    <h3 className="text-xs font-semibold text-gray-600 dark:text-gray-400 uppercase">评估维度</h3>
-                    <p className="text-base font-semibold text-gray-900 dark:text-white">5 个核心维度</p>
+                    <h3 className="text-xs font-semibold text-gray-600 dark:text-gray-400 uppercase">{t('psytest.welcome.dimensions.title')}</h3>
+                    <p className="text-base font-semibold text-gray-900 dark:text-white">{t('psytest.welcome.dimensions.value')}</p>
                   </div>
                 </div>
               </div>
 
               <div className="bg-gray-50 dark:bg-gray-900 p-6 mb-10 text-left border-2 border-gray-200 dark:border-gray-700">
-                <h3 className="text-base font-bold mb-4 text-gray-900 dark:text-white">测试维度包括：</h3>
+                <h3 className="text-base font-bold mb-4 text-gray-900 dark:text-white">{t('psytest.welcome.includes')}</h3>
                 <div className="grid grid-cols-2 gap-3">
                   {Object.values(DIMENSIONS).map((dim, i) => (
                     <div key={i} className="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
@@ -454,10 +459,10 @@ export default function PsychologyTestPage() {
                 onClick={startTest}
                 className="px-10 py-4 bg-black dark:bg-white text-white dark:text-black text-lg font-semibold border-2 border-black dark:border-white hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white transition-colors"
               >
-                开始测试
+                {t('psytest.welcome.start')}
               </button>
 
-              <p className="mt-6 text-sm text-gray-500 dark:text-gray-400 italic">请根据您的真实感受作答，没有对错之分</p>
+              <p className="mt-6 text-sm text-gray-500 dark:text-gray-400 italic">{t('psytest.welcome.note')}</p>
             </motion.div>
           )}
 
@@ -472,7 +477,7 @@ export default function PsychologyTestPage() {
               {/* Progress Bar */}
               <div className="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700 mb-8">
                 <div className="flex justify-between mb-3 text-sm font-semibold text-gray-600 dark:text-gray-400">
-                  <span>问题 {currentQuestionIndex + 1} / {QUESTIONS.length}</span>
+                  <span>{t('psytest.progress.question')} {currentQuestionIndex + 1} / {QUESTIONS.length}</span>
                   <span className="text-black dark:text-white">{Math.round(progress)}%</span>
                 </div>
                 <div className="h-2 bg-gray-100 dark:bg-gray-700 overflow-hidden">
@@ -529,10 +534,10 @@ export default function PsychologyTestPage() {
             >
               <div className="text-center mb-12">
                 <div className="inline-block mb-4 px-6 py-3 bg-black dark:bg-white">
-                  <span className="text-white dark:text-black font-bold text-2xl">完成</span>
+                  <span className="text-white dark:text-black font-bold text-2xl">{t('psytest.result.complete')}</span>
                 </div>
-                <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-3">测试完成</h1>
-                <p className="text-lg text-gray-600 dark:text-gray-400">您的交易心理素质评估报告</p>
+                <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-3">{t('psytest.result.title')}</h1>
+                <p className="text-lg text-gray-600 dark:text-gray-400">{t('psytest.result.subtitle')}</p>
               </div>
 
               {/* Overall Score */}
@@ -557,7 +562,7 @@ export default function PsychologyTestPage() {
                   </svg>
                   <div className="absolute inset-0 flex flex-col items-center justify-center">
                     <div className="text-5xl font-bold text-black dark:text-white">{scores.percentage}</div>
-                    <div className="text-sm text-gray-500 dark:text-gray-400 mt-1">综合得分</div>
+                    <div className="text-sm text-gray-500 dark:text-gray-400 mt-1">{t('psytest.result.overall')}</div>
                   </div>
                 </div>
                 <div className="flex-1">
@@ -568,7 +573,7 @@ export default function PsychologyTestPage() {
 
               {/* Dimension Scores */}
               <div className="bg-white dark:bg-gray-800 p-10 border-2 border-gray-200 dark:border-gray-700 mb-8">
-                <h3 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">各维度得分</h3>
+                <h3 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">{t('psytest.result.dimensions.title')}</h3>
                 <div className="flex flex-col gap-6">
                   {Object.keys(DIMENSIONS).map((key, index) => {
                     const dim = DIMENSIONS[key];
@@ -598,13 +603,13 @@ export default function PsychologyTestPage() {
 
               {/* Recommendations */}
               <div className="bg-white dark:bg-gray-800 p-10 border-2 border-gray-200 dark:border-gray-700 mb-8">
-                <h3 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">改进建议</h3>
+                <h3 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white">{t('psytest.result.recommendations.title')}</h3>
                 <div className="flex flex-col gap-4">
                   {[
-                    { label: "学习", title: "系统学习", text: "深入学习交易心理学和行为金融学，理解交易中的心理陷阱和认知偏差。" },
-                    { label: "记录", title: "记录交易日志", text: "详细记录每笔交易的心理状态、决策过程和结果，定期回顾总结。" },
-                    { label: "训练", title: "模拟训练", text: "通过模拟交易来锻炼决策能力和情绪控制，在无风险环境中提升技能。" },
-                    { label: "专注", title: "冥想练习", text: "每天进行10-15分钟的冥想，提升专注力和情绪管理能力。" },
+                    { label: t('psytest.result.rec1.label'), title: t('psytest.result.rec1.title'), text: t('psytest.result.rec1.text') },
+                    { label: t('psytest.result.rec2.label'), title: t('psytest.result.rec2.title'), text: t('psytest.result.rec2.text') },
+                    { label: t('psytest.result.rec3.label'), title: t('psytest.result.rec3.title'), text: t('psytest.result.rec3.text') },
+                    { label: t('psytest.result.rec4.label'), title: t('psytest.result.rec4.title'), text: t('psytest.result.rec4.text') },
                   ].map((rec, index) => (
                     <div key={index} className="flex gap-4 p-5 bg-gray-50 dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-700">
                       <div className="flex-shrink-0 w-12 h-12 bg-black dark:bg-white flex items-center justify-center border-2 border-black dark:border-white">
@@ -623,13 +628,13 @@ export default function PsychologyTestPage() {
               <div className="flex justify-center">
                 <button
                   onClick={() => {
-                    if (confirm('确定要重新开始测试吗？当前结果将会丢失。')) {
+                    if (confirm(t('psytest.result.retry.confirm'))) {
                       startTest();
                     }
                   }}
                   className="px-8 py-4 bg-black dark:bg-white text-white dark:text-black font-semibold border-2 border-black dark:border-white hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white transition-colors"
                 >
-                  重新测试
+                  {t('psytest.result.retry')}
                 </button>
               </div>
             </motion.div>

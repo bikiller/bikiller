@@ -7,9 +7,11 @@ import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import EmailContactModal from '@/components/custom/EmailContactModal';
 import Image from 'next/image';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 const DummyContent = () => {
   const router = useRouter();
+  const { t } = useLanguage();
   const [isEmailModalOpen, setIsEmailModalOpen] = useState(false);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
@@ -52,14 +54,14 @@ const DummyContent = () => {
             <Flex width="100%" align="center" justify="center" direction="column">
               <div className="mb-4 flex justify-center">
                 <span className="px-4 py-2 bg-black text-white text-sm font-semibold border border-gray-800">
-                  Professional FX Trader Training Platform
+                  {t('hero.title')}
                 </span>
               </div>
               <h1 className="text-6xl md:text-8xl font-extrabold text-center text-gray-900 dark:text-white mb-8 tracking-tight">
                 <span className="font-black">FX</span> <span className="font-normal text-gray-600 dark:text-gray-400">Killer</span>
               </h1>
               <p className="text-2xl md:text-3xl text-center text-gray-700 dark:text-gray-200 mb-12 font-semibold">
-                精准、专业、高效 - 培养真正的外汇交易专家
+                {t('hero.subtitle')}
               </p>
             </Flex>
             <div className="flex flex-col md:flex-row gap-4 items-center justify-center">
@@ -67,13 +69,13 @@ const DummyContent = () => {
                 onClick={() => router.push('/splan/join-us')}
                 className="px-10 py-5 bg-black text-white text-lg font-bold border-2 border-black hover:bg-white hover:text-black transition-colors"
               >
-                了解外汇培训
+                {t('hero.cta.learn')}
               </button>
               <button
                 onClick={() => router.push('/dashboard')}
                 className="px-10 py-5 bg-white text-black text-lg font-bold border-2 border-black hover:bg-black hover:text-white transition-colors"
               >
-                进入交易系统
+                {t('hero.cta.dashboard')}
               </button>
             </div>
           </div>
@@ -83,10 +85,10 @@ const DummyContent = () => {
       {/* 为什么选择 FX Killer - 增强版 */}
       <div className="max-w-7xl mx-auto px-6 py-20">
         <h2 className="text-4xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">
-          为什么选择 FX Killer
+          {t('why.title')}
         </h2>
         <p className="text-center text-gray-600 dark:text-gray-400 mb-12 text-lg">
-          专注筛选和培养顶尖外汇交易员，培养真正适合的人，留下极少数，劝返大多数
+          {t('why.subtitle')}
         </p>
 
         {/* 核心优势 */}
@@ -95,27 +97,27 @@ const DummyContent = () => {
             <div className="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
               <span className="text-2xl text-white dark:text-black font-bold">1</span>
             </div>
-            <h3 className="text-2xl font-bold mb-4">精准筛选</h3>
+            <h3 className="text-2xl font-bold mb-4">{t('advantage.selection.title')}</h3>
             <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-              30个工作日内判断是否适合外汇交易，避免浪费时间。不适合我们会如实告知，适合则全力培养。
+              {t('advantage.selection.desc')}
             </p>
           </div>
           <div className="p-8 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700">
             <div className="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
               <span className="text-2xl text-white dark:text-black font-bold">2</span>
             </div>
-            <h3 className="text-2xl font-bold mb-4">快速成长</h3>
+            <h3 className="text-2xl font-bold mb-4">{t('advantage.growth.title')}</h3>
             <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-              科学避开错误定式，让合适的人在30个工作日内达到专家10-20年的外汇交易水平。
+              {t('advantage.growth.desc')}
             </p>
           </div>
           <div className="p-8 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700">
             <div className="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
               <span className="text-2xl text-white dark:text-black font-bold">3</span>
             </div>
-            <h3 className="text-2xl font-bold mb-4">高额分成</h3>
+            <h3 className="text-2xl font-bold mb-4">{t('advantage.commission.title')}</h3>
             <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-              战利品至少60%属于你，随能力提升最高可达90%以上。荣辱与共，合作共赢。
+              {t('advantage.commission.desc')}
             </p>
           </div>
         </div>
@@ -123,42 +125,42 @@ const DummyContent = () => {
         {/* 与传统培训对比 */}
         <div className="bg-gray-50 dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-800 p-8">
           <h3 className="text-2xl font-bold text-center mb-8 text-black dark:text-white">
-            <span className="bg-black dark:bg-white text-white dark:text-black px-4 py-2">VS 传统外汇培训</span>
+            <span className="bg-black dark:bg-white text-white dark:text-black px-4 py-2">{t('comparison.vs')}</span>
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {/* FX Killer */}
             <div className="bg-white dark:bg-gray-800 p-6 border-l-4 border-black dark:border-white">
               <h4 className="text-xl font-bold mb-4 text-black dark:text-white flex items-center gap-2">
-                <span className="text-2xl">✓</span> FX Killer
+                <span className="text-2xl">✓</span> {t('comparison.fxkiller')}
               </h4>
               <ul className="space-y-3 text-gray-700 dark:text-gray-300">
                 <li className="flex items-start gap-2">
                   <span className="text-black dark:text-white font-bold">•</span>
-                  <span><strong>完全免费</strong> - 无任何培训费用</span>
+                  <span>{t('comparison.free')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-black dark:text-white font-bold">•</span>
-                  <span><strong>实战培养</strong> - 30天系统化职业训练</span>
+                  <span>{t('comparison.practical')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-black dark:text-white font-bold">•</span>
-                  <span><strong>精准筛选</strong> - 不适合直接劝退，避免浪费时间</span>
+                  <span>{t('comparison.selection')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-black dark:text-white font-bold">•</span>
-                  <span><strong>资金支持</strong> - 通过考核后提供交易资金</span>
+                  <span>{t('comparison.funding')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-black dark:text-white font-bold">•</span>
-                  <span><strong>高额分成</strong> - 盈利60%-90%归你所有</span>
+                  <span>{t('comparison.share')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-black dark:text-white font-bold">•</span>
-                  <span><strong>职业发展</strong> - 培养独立交易员或基金经理</span>
+                  <span>{t('comparison.career')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-black dark:text-white font-bold">•</span>
-                  <span><strong>严格纪律</strong> - 军事化管理，培养职业素养</span>
+                  <span>{t('comparison.discipline')}</span>
                 </li>
               </ul>
             </div>
@@ -166,36 +168,36 @@ const DummyContent = () => {
             {/* 传统培训 */}
             <div className="bg-gray-100 dark:bg-gray-700 p-6 border-l-4 border-gray-400">
               <h4 className="text-xl font-bold mb-4 text-gray-700 dark:text-gray-300 flex items-center gap-2">
-                <span className="text-2xl">✗</span> 传统培训机构
+                <span className="text-2xl">✗</span> {t('comparison.traditional')}
               </h4>
               <ul className="space-y-3 text-gray-600 dark:text-gray-400">
                 <li className="flex items-start gap-2">
                   <span className="font-bold">•</span>
-                  <span><strong>高额学费</strong> - 动辄数万元培训费</span>
+                  <span>{t('comparison.highfee')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="font-bold">•</span>
-                  <span><strong>理论为主</strong> - 缺乏实战指导</span>
+                  <span>{t('comparison.theory')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="font-bold">•</span>
-                  <span><strong>来者不拒</strong> - 只要交钱就能学</span>
+                  <span>{t('comparison.acceptall')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="font-bold">•</span>
-                  <span><strong>自负盈亏</strong> - 交易全靠自己</span>
+                  <span>{t('comparison.selffunded')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="font-bold">•</span>
-                  <span><strong>无后续支持</strong> - 培训结束即结束</span>
+                  <span>{t('comparison.nosupport')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="font-bold">•</span>
-                  <span><strong>无职业规划</strong> - 学完后自己摸索</span>
+                  <span>{t('comparison.noplan')}</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="font-bold">•</span>
-                  <span><strong>松散管理</strong> - 容易养成不良交易习惯</span>
+                  <span>{t('comparison.loose')}</span>
                 </li>
               </ul>
             </div>
@@ -203,7 +205,7 @@ const DummyContent = () => {
 
           <div className="mt-8 bg-black dark:bg-gray-950 text-white p-6 text-center">
             <p className="text-lg font-semibold">
-              我们致力于用最短的时间从大量人群中<span className="text-xl font-bold underline">筛选</span>出少数适合做外汇交易的人才并进行<span className="text-xl font-bold underline">培养</span>并给予<span className="text-xl font-bold underline">支持</span>
+              {t('comparison.emphasis')}
             </p>
           </div>
         </div>
@@ -213,10 +215,10 @@ const DummyContent = () => {
       <div className="bg-gradient-to-b from-white to-gray-50 dark:from-gray-900 dark:to-black py-20 border-y-2 border-gray-200 dark:border-gray-800">
         <div className="max-w-7xl mx-auto px-6">
           <h2 className="text-4xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">
-            职业发展路径
+            {t('career.title')}
           </h2>
           <p className="text-center text-gray-600 dark:text-gray-400 mb-16 text-lg">
-            30个工作日系统化培养，从新手到职业外汇交易员的完整路径
+            {t('career.subtitle')}
           </p>
 
           {/* 发展阶梯 */}
@@ -229,15 +231,15 @@ const DummyContent = () => {
                 </div>
                 <div className="mt-4">
                   <div className="inline-block px-3 py-1 bg-black dark:bg-white text-white dark:text-black text-xs font-bold mb-3">
-                    第1-5个工作日
+                    {t('career.stage1.days')}
                   </div>
-                  <h3 className="text-xl font-bold mb-3 text-black dark:text-white">规则学习</h3>
+                  <h3 className="text-xl font-bold mb-3 text-black dark:text-white">{t('career.stage1.title')}</h3>
                   <p className="text-sm text-gray-600 dark:text-gray-400 mb-4">
-                    完成15个标准进场点练习，熟悉外汇交易系统基本规则
+                    {t('career.stage1.desc')}
                   </p>
                   <div className="bg-gray-100 dark:bg-gray-700 p-3 border-l-2 border-gray-400">
                     <p className="text-xs text-gray-700 dark:text-gray-300">
-                      ⚠️ 5天内未通过规则考核将被劝退
+                      {t('career.stage1.warning')}
                     </p>
                   </div>
                 </div>
@@ -252,15 +254,15 @@ const DummyContent = () => {
                 </div>
                 <div className="mt-4">
                   <div className="inline-block px-3 py-1 bg-gray-700 dark:bg-gray-400 text-white dark:text-black text-xs font-bold mb-3">
-                    第6-20个工作日
+                    {t('career.stage2.days')}
                   </div>
-                  <h3 className="text-xl font-bold mb-3 text-black dark:text-white">盈利练习</h3>
+                  <h3 className="text-xl font-bold mb-3 text-black dark:text-white">{t('career.stage2.title')}</h3>
                   <p className="text-sm text-gray-600 dark:text-gray-400 mb-4">
-                    找到适合自己的外汇交易品种，按照盈利考核标准进行练习
+                    {t('career.stage2.desc')}
                   </p>
                   <div className="bg-gray-100 dark:bg-gray-700 p-3 border-l-2 border-gray-600">
                     <p className="text-xs text-gray-700 dark:text-gray-300">
-                      💡 保持操作一致性，不错单、不漏单、不亏损
+                      {t('career.stage2.tip')}
                     </p>
                   </div>
                 </div>
@@ -275,15 +277,15 @@ const DummyContent = () => {
                 </div>
                 <div className="mt-4">
                   <div className="inline-block px-3 py-1 bg-gray-800 dark:bg-gray-300 text-white dark:text-black text-xs font-bold mb-3">
-                    第21-30个工作日
+                    {t('career.stage3.days')}
                   </div>
-                  <h3 className="text-xl font-bold mb-3 text-black dark:text-white">盈利考核</h3>
+                  <h3 className="text-xl font-bold mb-3 text-black dark:text-white">{t('career.stage3.title')}</h3>
                   <p className="text-sm text-gray-600 dark:text-gray-400 mb-4">
-                    连续10个工作日每天做到不错单、不漏单、不亏损
+                    {t('career.stage3.desc')}
                   </p>
                   <div className="bg-gray-100 dark:bg-gray-700 p-3 border-l-2 border-gray-700">
                     <p className="text-xs text-gray-700 dark:text-gray-300">
-                      ✅ 通过考核进入小额实盘阶段
+                      {t('career.stage3.success')}
                     </p>
                   </div>
                 </div>
@@ -298,15 +300,15 @@ const DummyContent = () => {
                 </div>
                 <div className="mt-4">
                   <div className="inline-block px-3 py-1 bg-white dark:bg-black text-black dark:text-white text-xs font-bold mb-3">
-                    小额实盘 → 大额矩阵
+                    {t('career.stage4.path')}
                   </div>
-                  <h3 className="text-xl font-bold mb-3 text-white dark:text-black">职业交易员</h3>
+                  <h3 className="text-xl font-bold mb-3 text-white dark:text-black">{t('career.stage4.title')}</h3>
                   <p className="text-sm text-gray-300 dark:text-gray-700 mb-4">
-                    20个工作日小额实盘固化后，进入大额矩阵
+                    {t('career.stage4.desc')}
                   </p>
                   <div className="bg-gray-800 dark:bg-gray-200 p-3 border-l-2 border-white dark:border-black">
                     <p className="text-xs text-white dark:text-black font-semibold">
-                      🎯 完全自由的工作时间，开始独立外汇交易员生涯
+                      {t('career.stage4.goal')}
                     </p>
                   </div>
                 </div>
@@ -320,10 +322,10 @@ const DummyContent = () => {
       {/* 你是否符合基本条件 - 全新设计 */}
       <div className="max-w-7xl mx-auto px-6 py-20">
         <h2 className="text-4xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">
-          你是否符合基本条件
+          {t('req.title')}
         </h2>
         <p className="text-center text-gray-600 dark:text-gray-400 mb-12 text-lg">
-          严格的准入标准，确保外汇培训质量 - <span className="text-black dark:text-white font-bold">每个人只有一次进入的机会</span>
+          {t('req.subtitle')}
         </p>
 
         {/* 条件卡片 */}
@@ -332,19 +334,19 @@ const DummyContent = () => {
           <div className="bg-gradient-to-br from-black to-gray-800 dark:from-white dark:to-gray-200 p-8 border-2 border-black dark:border-white">
             <div className="text-white dark:text-black">
               <div className="text-5xl mb-4">👤</div>
-              <h3 className="text-2xl font-bold mb-6">人群画像</h3>
+              <h3 className="text-2xl font-bold mb-6">{t('req.profile.title')}</h3>
               <div className="space-y-4">
                 <div className="border-l-4 border-white dark:border-black pl-4">
-                  <p className="font-bold text-lg">学历与年龄</p>
-                  <p className="text-sm text-gray-300 dark:text-gray-700">大专学历以上，35岁以下</p>
+                  <p className="font-bold text-lg">{t('req.profile.education')}</p>
+                  <p className="text-sm text-gray-300 dark:text-gray-700">{t('req.profile.education.desc')}</p>
                 </div>
                 <div className="border-l-4 border-white dark:border-black pl-4">
-                  <p className="font-bold text-lg">心理素质</p>
-                  <p className="text-sm text-gray-300 dark:text-gray-700">认真、细心、耐心、心理健康</p>
+                  <p className="font-bold text-lg">{t('req.profile.psychology')}</p>
+                  <p className="text-sm text-gray-300 dark:text-gray-700">{t('req.profile.psychology.desc')}</p>
                 </div>
                 <div className="border-l-4 border-white dark:border-black pl-4">
-                  <p className="font-bold text-lg">性格特质</p>
-                  <p className="text-sm text-gray-300 dark:text-gray-700">性格内向、稳重、纪律严明且执行力强</p>
+                  <p className="font-bold text-lg">{t('req.profile.character')}</p>
+                  <p className="text-sm text-gray-300 dark:text-gray-700">{t('req.profile.character.desc')}</p>
                 </div>
               </div>
             </div>
@@ -353,7 +355,7 @@ const DummyContent = () => {
           {/* 时间与环境 */}
           <div className="bg-white dark:bg-gray-800 p-8 border-2 border-gray-300 dark:border-gray-600">
             <div className="text-5xl mb-4">⏰</div>
-            <h3 className="text-2xl font-bold mb-6 text-black dark:text-white">时间与环境</h3>
+            <h3 className="text-2xl font-bold mb-6 text-black dark:text-white">{t('req.time.title')}</h3>
             <div className="space-y-4">
               <div className="flex items-start gap-3">
                 <div className="flex-shrink-0 w-8 h-8 bg-black dark:bg-white flex items-center justify-center">
@@ -362,8 +364,8 @@ const DummyContent = () => {
                   </svg>
                 </div>
                 <div>
-                  <p className="font-bold text-gray-900 dark:text-white">时间投入</p>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">连续30个工作日（约45天）</p>
+                  <p className="font-bold text-gray-900 dark:text-white">{t('req.time.commitment')}</p>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">{t('req.time.commitment.desc')}</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
@@ -373,8 +375,8 @@ const DummyContent = () => {
                   </svg>
                 </div>
                 <div>
-                  <p className="font-bold text-gray-900 dark:text-white">设备要求</p>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">Windows电脑</p>
+                  <p className="font-bold text-gray-900 dark:text-white">{t('req.time.equipment')}</p>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">{t('req.time.equipment.desc')}</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
@@ -384,8 +386,8 @@ const DummyContent = () => {
                   </svg>
                 </div>
                 <div>
-                  <p className="font-bold text-gray-900 dark:text-white">环境要求</p>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">独立的交易环境，专注不被打扰</p>
+                  <p className="font-bold text-gray-900 dark:text-white">{t('req.time.environment')}</p>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">{t('req.time.environment.desc')}</p>
                 </div>
               </div>
             </div>
@@ -394,7 +396,7 @@ const DummyContent = () => {
           {/* 在线时间 */}
           <div className="bg-white dark:bg-gray-800 p-8 border-2 border-gray-300 dark:border-gray-600">
             <div className="text-5xl mb-4">📅</div>
-            <h3 className="text-2xl font-bold mb-6 text-black dark:text-white">在线时间</h3>
+            <h3 className="text-2xl font-bold mb-6 text-black dark:text-white">{t('req.online.title')}</h3>
             <div className="space-y-4">
               <div className="flex items-start gap-3">
                 <div className="flex-shrink-0 w-8 h-8 bg-black dark:bg-white flex items-center justify-center">
@@ -403,8 +405,8 @@ const DummyContent = () => {
                   </svg>
                 </div>
                 <div>
-                  <p className="font-bold text-gray-900 dark:text-white">交易时段</p>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">周一到周五 13:30-21:30</p>
+                  <p className="font-bold text-gray-900 dark:text-white">{t('req.online.hours')}</p>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">{t('req.online.hours.desc')}</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
@@ -414,8 +416,8 @@ const DummyContent = () => {
                   </svg>
                 </div>
                 <div>
-                  <p className="font-bold text-gray-900 dark:text-white">团队复盘</p>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">每天20:00团队长会议室复盘</p>
+                  <p className="font-bold text-gray-900 dark:text-white">{t('req.online.debrief')}</p>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">{t('req.online.debrief.desc')}</p>
                 </div>
               </div>
             </div>
@@ -431,12 +433,12 @@ const DummyContent = () => {
               </svg>
             </div>
             <div className="flex-1">
-              <h4 className="text-2xl font-bold mb-3">重要提醒</h4>
+              <h4 className="text-2xl font-bold mb-3">{t('req.notice.title')}</h4>
               <p className="text-lg leading-relaxed mb-4">
-                每个人<span className="text-2xl font-black underline">只有一次进入的机会</span>。请在充分了解并确认自己符合全部条件后再申请。
+                {t('req.notice.once')}{t('req.notice.desc')}
               </p>
               <p className="text-gray-300 dark:text-gray-700">
-                我们专注培养真正适合外汇交易的人才。在外汇交易的世界里，有些人天生不适合。他们急于求成，却不知自己真正追求什么；他们只瞥一眼表象，便止步不前，无法洞察事物的深层本质。如果你属于这一类，或许其他行业更能发挥你的长处。
+                {t('req.notice.philosophy')}
               </p>
             </div>
           </div>
@@ -447,10 +449,10 @@ const DummyContent = () => {
       <div className="bg-gray-50 dark:bg-gray-900 py-20 border-y-2 border-gray-200 dark:border-gray-800">
         <div className="max-w-7xl mx-auto px-6">
           <h2 className="text-4xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">
-            了解交易员职业
+            {t('video.title')}
           </h2>
           <p className="text-center text-gray-600 dark:text-gray-400 mb-12 text-lg">
-            交易员是个自由职业，不受时间空间限制 - 通过纪录片深入了解这个职业
+            {t('video.subtitle')}
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -459,14 +461,14 @@ const DummyContent = () => {
               <div className="relative h-64 bg-black dark:bg-gray-700 flex items-center justify-center">
                 <div className="text-center text-white">
                   <div className="text-6xl mb-4">🎬</div>
-                  <p className="text-lg font-semibold">百万美金交易员</p>
-                  <p className="text-sm text-gray-400">豆瓣评分 8.7</p>
+                  <p className="text-lg font-semibold">{t('video.doc1.title')}</p>
+                  <p className="text-sm text-gray-400">{t('video.doc1.rating')}</p>
                 </div>
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold mb-3 text-black dark:text-white">百万美金交易员</h3>
+                <h3 className="text-xl font-bold mb-3 text-black dark:text-white">{t('video.doc1.title')}</h3>
                 <p className="text-gray-600 dark:text-gray-400 mb-4 text-sm leading-relaxed">
-                  这部纪录片展现了交易员培训的真实过程，从筛选到培养，再到成为职业交易员的完整路径。了解交易员这个职业的真实面貌，以及成为顶尖交易员需要具备的素质。
+                  {t('video.doc1.desc')}
                 </p>
                 <a
                   href="https://www.bilibili.com/video/BV19a411X7eY"
@@ -474,7 +476,7 @@ const DummyContent = () => {
                   rel="noopener noreferrer"
                   className="inline-block px-6 py-3 bg-black dark:bg-white text-white dark:text-black font-bold border-2 border-black dark:border-white hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white transition-colors"
                 >
-                  观看视频 →
+                  {t('video.doc1.cta')}
                 </a>
               </div>
             </div>
@@ -484,14 +486,14 @@ const DummyContent = () => {
               <div className="relative h-64 bg-black dark:bg-gray-700 flex items-center justify-center">
                 <div className="text-center text-white">
                   <div className="text-6xl mb-4">🎬</div>
-                  <p className="text-lg font-semibold">交易员：转瞬百万</p>
-                  <p className="text-sm text-gray-400">豆瓣评分 8.0</p>
+                  <p className="text-lg font-semibold">{t('video.doc2.title')}</p>
+                  <p className="text-sm text-gray-400">{t('video.doc2.rating')}</p>
                 </div>
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold mb-3 text-black dark:text-white">交易员：转瞬百万</h3>
+                <h3 className="text-xl font-bold mb-3 text-black dark:text-white">{t('video.doc2.title')}</h3>
                 <p className="text-gray-600 dark:text-gray-400 mb-4 text-sm leading-relaxed">
-                  深入展示交易员的日常工作和心理压力，揭示在二级市场中如何做出快速决策，以及职业交易员所需要的心理素质和专业技能。这是一个高压但充满机会的职业。
+                  {t('video.doc2.desc')}
                 </p>
                 <a
                   href="https://www.bilibili.com/video/BV1FZ4y1o734"
@@ -499,7 +501,7 @@ const DummyContent = () => {
                   rel="noopener noreferrer"
                   className="inline-block px-6 py-3 bg-black dark:bg-white text-white dark:text-black font-bold border-2 border-black dark:border-white hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white transition-colors"
                 >
-                  观看视频 →
+                  {t('video.doc2.cta')}
                 </a>
               </div>
             </div>
@@ -510,32 +512,32 @@ const DummyContent = () => {
       {/* 学员展示 - 收益滚动 */}
       <div className="max-w-7xl mx-auto px-6 py-20">
         <h2 className="text-4xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">
-          学员真实收益展示
+          {t('showcase.title')}
         </h2>
 
         {/* 收益统计 */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
           <div className="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700 text-center">
-            <div className="text-4xl font-black text-black dark:text-white mb-2">初级交易员</div>
+            <div className="text-4xl font-black text-black dark:text-white mb-2">{t('showcase.junior')}</div>
             <p className="text-2xl font-bold text-black dark:text-white">¥10,000 - ¥30,000</p>
-            <p className="text-sm text-gray-500 dark:text-gray-500 mt-2">月收入范围</p>
+            <p className="text-sm text-gray-500 dark:text-gray-500 mt-2">{t('showcase.income.range')}</p>
           </div>
           <div className="bg-white dark:bg-gray-800 p-6 border-2 border-black dark:border-white text-center">
-            <div className="text-4xl font-black text-black dark:text-white mb-2">中级交易员</div>
+            <div className="text-4xl font-black text-black dark:text-white mb-2">{t('showcase.intermediate')}</div>
             <p className="text-2xl font-bold text-black dark:text-white">¥30,000 - ¥60,000</p>
-            <p className="text-sm text-gray-500 dark:text-gray-500 mt-2">月收入范围</p>
+            <p className="text-sm text-gray-500 dark:text-gray-500 mt-2">{t('showcase.income.range')}</p>
           </div>
           <div className="bg-black dark:bg-white p-6 border-2 border-black dark:border-white text-center">
-            <div className="text-4xl font-black text-white dark:text-black mb-2">资深交易员</div>
+            <div className="text-4xl font-black text-white dark:text-black mb-2">{t('showcase.senior')}</div>
             <p className="text-2xl font-bold text-white dark:text-black">¥60,000 - ¥100,000+</p>
-            <p className="text-sm text-gray-400 dark:text-gray-600 mt-2">月收入范围</p>
+            <p className="text-sm text-gray-400 dark:text-gray-600 mt-2">{t('showcase.income.range')}</p>
           </div>
         </div>
 
         {/* 收益图片滚动展示 - 每次显示3张 */}
         <div className="bg-gray-100 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 p-8">
           <h3 className="text-2xl font-bold text-center mb-6 text-black dark:text-white">
-            学员实盘收益截图
+            {t('showcase.screenshots.title')}
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {[0, 1, 2].map((offset) => {
@@ -556,7 +558,7 @@ const DummyContent = () => {
           </div>
           <div className="mt-6 text-center">
             <p className="text-sm text-gray-600 dark:text-gray-400">
-              以上为学员真实交易收益截图
+              {t('showcase.screenshots.note')}
             </p>
           </div>
         </div>
@@ -566,10 +568,10 @@ const DummyContent = () => {
       <div className="bg-black dark:bg-gray-950 py-20 w-full border-y-2 border-gray-800">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h2 className="text-4xl font-bold text-white mb-6">
-            准备好开启你的外汇交易员生涯了吗？
+            {t('cta.title')}
           </h2>
           <p className="text-xl text-gray-300 mb-4">
-            记住：最大风险是淘汰，成本是时间。若明朗、准备就绪，预约面试。通过后，入训。
+            {t('cta.subtitle')}
           </p>
 
           {/* 通过率警告 - 重新设计 */}
@@ -584,36 +586,36 @@ const DummyContent = () => {
                     <path d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/>
                   </svg>
                 </div>
-                <h3 className="text-3xl font-black text-yellow-500 mb-2">特别提示</h3>
+                <h3 className="text-3xl font-black text-yellow-500 mb-2">{t('cta.notice.title')}</h3>
                 <div className="h-1 w-24 bg-yellow-500"></div>
               </div>
 
               <div className="text-center mb-8">
-                <p className="text-sm text-gray-400 mb-3">最终通过率</p>
+                <p className="text-sm text-gray-400 mb-3">{t('cta.passrate')}</p>
                 <p className="text-6xl font-black text-white mb-2">
                   <span className="text-yellow-500">10</span>-<span className="text-yellow-500">15</span><span className="text-4xl">%</span>
                 </p>
                 <p className="text-gray-300 text-lg">
-                  我们培养真正适合的人，留下极少数，劝返大多数
+                  {t('cta.passrate.desc')}
                 </p>
               </div>
 
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                 <div className="bg-black/50 backdrop-blur-sm p-4 border border-red-500/30">
-                  <p className="text-xs text-gray-500 mb-2">淘汰原因</p>
-                  <p className="text-sm text-white font-bold">不适合这一行业</p>
+                  <p className="text-xs text-gray-500 mb-2">{t('cta.elimination')}</p>
+                  <p className="text-sm text-white font-bold">{t('cta.elimination.reason')}</p>
                 </div>
                 <div className="bg-black/50 backdrop-blur-sm p-4 border border-red-500/30">
-                  <p className="text-xs text-gray-500 mb-2">机会次数</p>
-                  <p className="text-sm text-white font-bold">只有一次</p>
+                  <p className="text-xs text-gray-500 mb-2">{t('cta.opportunity')}</p>
+                  <p className="text-sm text-white font-bold">{t('cta.opportunity.value')}</p>
                 </div>
                 <div className="bg-black/50 backdrop-blur-sm p-4 border border-red-500/30">
-                  <p className="text-xs text-gray-500 mb-2">时间成本</p>
-                  <p className="text-sm text-white font-bold">45天</p>
+                  <p className="text-xs text-gray-500 mb-2">{t('cta.time.cost')}</p>
+                  <p className="text-sm text-white font-bold">{t('cta.time.value')}</p>
                 </div>
                 <div className="bg-black/50 backdrop-blur-sm p-4 border border-green-500/30">
-                  <p className="text-xs text-gray-500 mb-2">金钱成本</p>
-                  <p className="text-sm text-green-400 font-bold">完全免费</p>
+                  <p className="text-xs text-gray-500 mb-2">{t('cta.money.cost')}</p>
+                  <p className="text-sm text-green-400 font-bold">{t('cta.money.value')}</p>
                 </div>
               </div>
             </div>
@@ -624,10 +626,10 @@ const DummyContent = () => {
               onClick={() => setIsEmailModalOpen(true)}
               className="px-10 py-5 bg-white text-black font-bold text-lg border-2 border-white hover:bg-black hover:text-white transition-colors animate-shake"
             >
-              立即预约面试
+              {t('cta.button.interview')}
             </button>
             <p className="text-sm text-gray-500">
-              请在充分了解并确认自己符合全部条件后再申请
+              {t('cta.button.note')}
             </p>
           </div>
         </div>
