@@ -608,9 +608,9 @@ export default function CandlestickChart() {
         maxEma += emaPadding;
         const emaValueRange = maxEma - minEma;
 
-        // Draw EMA12 line (fast line - blue)
-        ctx.strokeStyle = 'rgba(59, 130, 246, 1)'; // Blue
-        ctx.lineWidth = 2;
+        // Draw EMA12 line (fast line - black 1px)
+        ctx.strokeStyle = 'rgba(0, 0, 0, 1)'; // Black
+        ctx.lineWidth = 1;
         ctx.beginPath();
         ema12.forEach((value, index) => {
           if (value > 0) {
@@ -625,9 +625,9 @@ export default function CandlestickChart() {
         });
         ctx.stroke();
 
-        // Draw EMA26 line (slow line - orange)
-        ctx.strokeStyle = 'rgba(249, 115, 22, 1)'; // Orange
-        ctx.lineWidth = 2;
+        // Draw EMA26 line (slow line - dark gray 4px)
+        ctx.strokeStyle = 'rgba(80, 80, 80, 1)'; // Dark gray
+        ctx.lineWidth = 4;
         ctx.beginPath();
         ema26.forEach((value, index) => {
           if (value > 0) {
@@ -649,17 +649,17 @@ export default function CandlestickChart() {
           const y = subChartTop + ((maxEma - ema12Value) / emaValueRange) * subChartHeight;
 
           if (cross.type === 'golden') {
-            // Golden Cross - green circle with up arrow
-            ctx.fillStyle = 'rgba(34, 197, 94, 0.8)';
+            // Golden Cross (做多) - hollow white circle with black border + black up arrow
+            ctx.fillStyle = 'rgba(255, 255, 255, 1)'; // White fill
             ctx.beginPath();
             ctx.arc(x, y, 6, 0, Math.PI * 2);
             ctx.fill();
-            ctx.strokeStyle = 'rgba(34, 197, 94, 1)';
+            ctx.strokeStyle = 'rgba(0, 0, 0, 1)'; // Black border
             ctx.lineWidth = 2;
             ctx.stroke();
 
-            // Up arrow
-            ctx.strokeStyle = 'rgba(34, 197, 94, 1)';
+            // Black up arrow
+            ctx.strokeStyle = 'rgba(0, 0, 0, 1)';
             ctx.lineWidth = 2;
             ctx.beginPath();
             ctx.moveTo(x, y - 15);
@@ -670,17 +670,14 @@ export default function CandlestickChart() {
             ctx.lineTo(x + 3, y - 12);
             ctx.stroke();
           } else {
-            // Death Cross - red circle with down arrow
-            ctx.fillStyle = 'rgba(239, 68, 68, 0.8)';
+            // Death Cross (做空) - solid black circle + black down arrow
+            ctx.fillStyle = 'rgba(0, 0, 0, 1)'; // Black fill
             ctx.beginPath();
             ctx.arc(x, y, 6, 0, Math.PI * 2);
             ctx.fill();
-            ctx.strokeStyle = 'rgba(239, 68, 68, 1)';
-            ctx.lineWidth = 2;
-            ctx.stroke();
 
-            // Down arrow
-            ctx.strokeStyle = 'rgba(239, 68, 68, 1)';
+            // Black down arrow
+            ctx.strokeStyle = 'rgba(0, 0, 0, 1)';
             ctx.lineWidth = 2;
             ctx.beginPath();
             ctx.moveTo(x, y + 15);
