@@ -103,7 +103,7 @@ export default function BlogPage() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.3, delay: index * 0.05 }}
-              onClick={() => router.push(`/splan/blog/${post.slug}`)}
+              onClick={() => router.push(`/${language}/splan/blog/${post.slug}`)}
               className="bg-white dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-800 hover:border-black dark:hover:border-white transition-all cursor-pointer group"
             >
               {/* Featured Badge */}
