@@ -1043,22 +1043,23 @@ export const blogPosts: BlogPost[] = [
  featured: true
  },
 
- // 2. 数字货币交易入门 - 扩展版本
+ // 3. 外汇风险管理
+ // 2. 数字货币交易入门指南
  {
  id: '2',
- slug: 'forex-trading-beginner-guide',
+ slug: 'crypto-trading-beginner-guide',
  title: {
- zh: '数字货币交易入门指南：从零开始的交易之路',
- en: 'Cryptocurrency Trading Beginner Guide: Starting Your Trading Journey from Zero'
+ zh: '数字货币交易入门指南：从零开始的加密货币投资之路',
+ en: 'Cryptocurrency Trading Beginner Guide: Starting Your Crypto Investment Journey from Zero'
  },
  excerpt: {
- zh: '数字货币市场是全球最大的金融市场，日交易量超过6万亿美元。本文将系统地带你了解数字货币交易的基础知识，帮助你迈出交易生涯的第一步。',
- en: 'The cryptocurrency market is the world\'s largest financial market with daily volume exceeding $6 trillion. This comprehensive guide covers fundamental forex knowledge to help you take your first trading steps.'
+ zh: '数字货币市场是全球最具活力的金融市场之一，24/7全天候交易。本文将系统地带你了解数字货币交易的基础知识，帮助你迈出加密货币投资的第一步。',
+ en: 'The cryptocurrency market is one of the world\'s most dynamic financial markets, trading 24/7. This comprehensive guide covers fundamental crypto knowledge to help you take your first crypto investment steps.'
  },
  content: {
- zh: `<h1 class="text-4xl font-bold text-center mb-8 text-black dark:text-white">数字货币市场基础知识</h1>
+ zh: `<h1 class="text-4xl font-bold text-center mb-8 text-black dark:text-white">数字货币交易基础知识</h1>
 
-<p class="text-base leading-relaxed mb-8 text-center text-gray-700 dark:text-gray-300">数字货币市场(Forex/FX)是全球最大、流动性最强的金融市场。了解数字货币市场的基础知识，是成为职业交易员的第一步。</p>
+<p class="text-base leading-relaxed mb-8 text-center text-gray-700 dark:text-gray-300">数字货币(Cryptocurrency)是基于区块链技术的去中心化数字资产。了解数字货币市场的基础知识，是成为职业加密货币交易员的第一步。</p>
 
 <h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">市场概览</h2>
 
@@ -1068,340 +1069,191 @@ export const blogPosts: BlogPost[] = [
 <span class="text-2xl text-white dark:text-black font-bold">24</span>
 </div>
 <p class="text-xl font-bold mb-2 text-black dark:text-white">交易时间</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed">每周5天，24小时不间断</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">每周7天，24小时不间断</p>
 </div>
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
 <div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">7</span>
+<span class="text-2xl text-white dark:text-black font-bold">3T</span>
 </div>
-<p class="text-xl font-bold mb-2 text-black dark:text-white">日交易量</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed">超过7万亿美元</p>
+<p class="text-xl font-bold mb-2 text-black dark:text-white">市场总值</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">超过3万亿美元</p>
 </div>
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
 <div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
 <span class="text-2xl text-white dark:text-black font-bold">4</span>
 </div>
-<p class="text-xl font-bold mb-2 text-black dark:text-white">主要交易对</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed">BTC/USDT, ETH/USDT, USD/JPY, USD/CHF</p>
+<p class="text-xl font-bold mb-2 text-black dark:text-white">主要币种</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">BTC, ETH, BNB, SOL</p>
 </div>
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
 <div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">3</span>
+<span class="text-2xl text-white dark:text-black font-bold">∞</span>
 </div>
-<p class="text-xl font-bold mb-2 text-black dark:text-white">主要交易时段</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed">亚洲、欧洲、美洲</p>
+<p class="text-xl font-bold mb-2 text-black dark:text-white">交易机会</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">全球统一市场</p>
 </div>
 </div>
 
 <h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">什么是数字货币交易</h2>
 
-<p class="text-base leading-relaxed mb-6 text-gray-700 dark:text-gray-300">数字货币交易(Foreign Exchange Trading)是指同时买入一种货币并卖出另一种货币的交易行为。货币总是成对交易的，例如BTC/USDT表示欧元兑美元。</p>
+<p class="text-base leading-relaxed mb-6 text-gray-700 dark:text-gray-300">数字货币交易是指买卖比特币、以太坊等加密货币资产的行为。交易通常以交易对形式进行，例如BTC/USDT表示用泰达币(USDT)购买比特币(BTC)。</p>
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
 <div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">1</span>
+<span class="text-2xl text-white dark:text-black font-bold">₿</span>
 </div>
 <p class="text-xl font-bold mb-3 text-black dark:text-white">基础货币</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">交易对中的第一个货币，是买入或卖出的基准。例如BTC/USDT中，EUR是基础货币。</p>
-<p class="text-sm text-gray-500 dark:text-gray-500 mt-3">示例：BTC/USDT = 1.1000<br/>表示1欧元 = 1.1美元</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">交易对中的第一个币种，是买入或卖出的目标资产。例如BTC/USDT中，BTC是基础货币。</p>
+<p class="text-sm text-gray-500 dark:text-gray-500 mt-3">示例：BTC/USDT = 50000<br/>表示1个比特币 = 50000 USDT</p>
 </div>
 
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
 <div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">2</span>
+<span class="text-2xl text-white dark:text-black font-bold">$</span>
 </div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">报价货币</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">交易对中的第二个货币，用于标价。例如BTC/USDT中，USD是报价货币。</p>
-<p class="text-sm text-gray-500 dark:text-gray-500 mt-3">报价货币是你需要支付的货币数量</p>
+<p class="text-xl font-bold mb-3 text-black dark:text-white">计价货币</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">交易对中的第二个币种，用于标价。例如BTC/USDT中，USDT是计价货币。</p>
+<p class="text-sm text-gray-500 dark:text-gray-500 mt-3">USDT是稳定币，1 USDT ≈ 1 美元</p>
 </div>
 
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
 <div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">3</span>
+<span class="text-2xl text-white dark:text-black font-bold">%</span>
 </div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">点数(Pip)</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">外汇价格变动的最小单位，通常是小数点后第四位。</p>
-<p class="text-sm text-gray-500 dark:text-gray-500 mt-3">BTC/USDT从1.1000到1.1001<br/>= 上涨1个点</p>
+<p class="text-xl font-bold mb-3 text-black dark:text-white">价格波动</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">数字货币价格波动较大，单日涨跌幅可达10%以上，提供了更多交易机会。</p>
+<p class="text-sm text-gray-500 dark:text-gray-500 mt-3">高波动 = 高收益 + 高风险</p>
 </div>
 </div>
 
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">交易对分类</h2>
+<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">主流数字货币介绍</h2>
 
 <div class="overflow-x-auto mb-8">
 <table class="w-full border-2 border-black dark:border-white">
 <thead>
 <tr>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">类别</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">币种</th>
 <th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">特点</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">示例</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">点差</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">市值排名</th>
+<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">波动性</th>
 <th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">适合人群</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">主要交易对</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">流动性最高，点差最小</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">BTC/USDT, ETH/USDT, USD/JPY</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">0.5-2点</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">新手交易员</td>
-</tr>
-<tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">次要交易对</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">不包含美元，流动性较好</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">EUR/GBP, EUR/JPY, GBP/JPY</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">2-5点</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">有经验的交易员</td>
-</tr>
-<tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">异国交易对</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">包含新兴市场货币，波动大</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">USD/TRY, USD/ZAR, EUR/TRY</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">10-50点</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">高风险偏好者</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">全球交易时段</h2>
-
-<p class="text-base leading-relaxed mb-6 text-gray-700 dark:text-gray-300">由于数字货币市场是全球性的，不同地区的交易时段有重叠，这些重叠时段通常是最活跃的交易时间。</p>
-
-<div class="overflow-x-auto mb-8">
-<table class="w-full border-2 border-black dark:border-white">
-<thead>
-<tr>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">交易时段</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">开盘时间(北京)</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">波动性</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">主要交易对</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">特点</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">悉尼时段</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">06:00-15:00</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">较低</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">AUD/USD, NZD/USD</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">市场预热，波动较小</td>
-</tr>
-<tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">东京时段</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">08:00-16:00</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">比特币 (BTC)</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">数字黄金，最稳定的加密货币</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">#1</td>
 <td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">中等</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">USD/JPY, EUR/JPY</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">亚洲货币活跃</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">所有人，首选币种</td>
 </tr>
 <tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">伦敦时段</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">15:00-00:00</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">高</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">BTC/USDT, ETH/USDT</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">成交量最大，流动性最强</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">以太坊 (ETH)</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">智能合约平台，生态最丰富</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">#2</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">中高</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">中级交易者</td>
 </tr>
 <tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">纽约时段</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">20:00-05:00</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">高</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">所有美元相关交易对</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">美国数据密集，波动大</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">币安币 (BNB)</strong></td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Binance交易所平台币</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">#4</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">中高</td>
+<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">中级交易者</td>
+</tr>
+<tr>
+<td class="px-6 py-3 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">山寨币</strong></td>
+<td class="px-6 py-3 text-gray-700 dark:text-gray-300">市值较小，流动性相对较低</td>
+<td class="px-6 py-3 text-gray-700 dark:text-gray-300">#50+</td>
+<td class="px-6 py-3 text-gray-700 dark:text-gray-300">极高</td>
+<td class="px-6 py-3 text-gray-700 dark:text-gray-300">高风险偏好者</td>
 </tr>
 </tbody>
 </table>
 </div>
 
-<div class="bg-black dark:bg-white text-white dark:text-black p-8 mb-8 border-2 border-black dark:border-white">
-<p class="text-2xl font-bold mb-4 text-white dark:text-black text-center">黄金交易时段</p>
-<p class="text-lg text-center text-white dark:text-black mb-4">伦敦与纽约时段重叠期：北京时间 20:00-00:00</p>
-<p class="text-center text-white dark:text-black">这4个小时是全天交易量最大、波动最剧烈的时段，也是最佳交易时机</p>
-</div>
-
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">数字货币交易优势</h2>
+<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">交易所选择</h2>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<p class="text-xl font-bold mb-4 text-black dark:text-white">✓ 主要优势</p>
-<ul class="space-y-3">
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">高流动性：</strong>日交易量超过7万亿美元，随时可以进出场</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">24小时交易：</strong>周一至周五24小时不间断交易</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">低点差：</strong>主要交易对点差通常只有0.5-2点</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">双向交易：</strong>可以做多也可以做空，涨跌都有盈利机会</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">杠杆交易：</strong>用较少资金控制较大头寸</span>
-</li>
+<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
+<span class="text-2xl">🏦</span>
+</div>
+<p class="text-xl font-bold mb-3 text-black dark:text-white">中心化交易所 (CEX)</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-3">由公司运营的传统交易平台，提供托管服务。</p>
+<ul class="space-y-2">
+<li class="text-gray-600 dark:text-gray-400 text-sm flex items-start gap-2"><span class="text-black dark:text-white font-bold">✓</span><span>代表：Binance(币安)、OKX(欧易)</span></li>
+<li class="text-gray-600 dark:text-gray-400 text-sm flex items-start gap-2"><span class="text-black dark:text-white font-bold">✓</span><span>优点：流动性好、交易快速、功能丰富</span></li>
+<li class="text-gray-600 dark:text-gray-400 text-sm flex items-start gap-2"><span class="text-black dark:text-white font-bold">✓</span><span>适合：新手入门、专业交易</span></li>
 </ul>
 </div>
 
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<p class="text-xl font-bold mb-4 text-black dark:text-white">⚠ 需要注意</p>
-<ul class="space-y-3">
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">高风险：</strong>杠杆是双刃剑，亏损也会被放大</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">心理压力：</strong>需要强大的心理素质和纪律性</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">学习曲线：</strong>需要大量时间学习和实践</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">市场波动：</strong>突发新闻可能导致剧烈价格波动</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">时间投入：</strong>需要持续关注市场和学习</span>
-</li>
+<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
+<span class="text-2xl">🔗</span>
+</div>
+<p class="text-xl font-bold mb-3 text-black dark:text-white">去中心化交易所 (DEX)</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-3">基于智能合约的自动做市商(AMM)平台。</p>
+<ul class="space-y-2">
+<li class="text-gray-600 dark:text-gray-400 text-sm flex items-start gap-2"><span class="text-black dark:text-white font-bold">✓</span><span>代表：Uniswap、PancakeSwap</span></li>
+<li class="text-gray-600 dark:text-gray-400 text-sm flex items-start gap-2"><span class="text-black dark:text-white font-bold">✓</span><span>优点：无需KYC、资产自持、抗审查</span></li>
+<li class="text-gray-600 dark:text-gray-400 text-sm flex items-start gap-2"><span class="text-black dark:text-white font-bold">✓</span><span>适合：有经验的用户、隐私需求者</span></li>
 </ul>
 </div>
 </div>
 
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">新手常犯错误</h2>
+<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">新手常见误区</h2>
 
-<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+<div class="grid grid-cols-1 gap-6 mb-8">
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">过度交易</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">频繁开仓平仓，不等待合适的交易机会。</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">正确做法：</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">耐心等待符合交易规则的进场点，质量优于数量。</p>
+<p class="text-xl font-bold mb-4 text-black dark:text-white">❌ 误区1：追涨杀跌</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-3">看到币价暴涨就FOMO买入，看到暴跌就恐慌卖出，这是新手最常犯的错误。</p>
+<p class="text-sm font-bold text-black dark:text-white mb-2">正确做法：</p>
+<p class="text-gray-600 dark:text-gray-400 text-sm">制定交易计划，设置好止损和止盈位，严格按计划执行，不被情绪左右。</p>
 </div>
 
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">不设止损</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">抱有侥幸心理，认为价格会回来。</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">正确做法：</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">每笔交易都设置硬止损，且绝不移动止损位。</p>
+<p class="text-xl font-bold mb-4 text-black dark:text-white">❌ 误区2：All in单一币种</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-3">把所有资金投入一个币种，希望一夜暴富，实际上承担了极大风险。</p>
+<p class="text-sm font-bold text-black dark:text-white mb-2">正确做法：</p>
+<p class="text-gray-600 dark:text-gray-400 text-sm">分散投资，主流币(BTC/ETH)占70%，其他币种占30%，永远不要孤注一掷。</p>
 </div>
 
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">过度杠杆</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">使用过高杠杆，一次亏损就爆仓。</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">正确做法：</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">控制仓位，单笔交易风险不超过账户的2%。</p>
+<p class="text-xl font-bold mb-4 text-black dark:text-white">❌ 误区3：过度杠杆</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-3">使用10倍、20倍甚至更高杠杆，微小的价格波动就会导致爆仓。</p>
+<p class="text-sm font-bold text-black dark:text-white mb-2">正确做法：</p>
+<p class="text-gray-600 dark:text-gray-400 text-sm">新手不要使用杠杆，有经验后也应控制在2-3倍以内，永远优先保护本金。</p>
 </div>
 
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">情绪化交易</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">盈利后贪婪，亏损后恐惧，导致判断失误。</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">正确做法：</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">严格遵守交易计划，不被情绪左右。</p>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">缺乏学习</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">不愿意学习，凭感觉交易。</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">正确做法：</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">持续学习技术分析、基本面分析和交易心理学。</p>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">追涨杀跌</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">看到价格上涨就追买，下跌就追卖。</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">正确做法：</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">等待回调或突破确认后再进场。</p>
-</div>
-</div>
-
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">入门学习路径</h2>
-
-<div class="space-y-4 mb-8">
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="flex gap-4 items-start">
-<div class="flex-shrink-0 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">1</span>
-</div>
-<div class="flex-grow">
-<p class="text-xl font-bold mb-2 text-black dark:text-white">基础知识学习（1-2周）</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">学习数字货币市场基本概念、交易对、点数、杠杆、保证金等基础知识。</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">推荐资源：交易平台教程、外汇基础书籍、在线课程</p>
-</div>
-</div>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="flex gap-4 items-start">
-<div class="flex-shrink-0 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">2</span>
-</div>
-<div class="flex-grow">
-<p class="text-xl font-bold mb-2 text-black dark:text-white">技术分析入门（2-3周）</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">学习K线图、趋势线、支撑阻力、常用指标(MA、MACD、RSI等)。</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">重点：不要追求学完所有指标，重点掌握2-3个即可</p>
-</div>
-</div>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="flex gap-4 items-start">
-<div class="flex-shrink-0 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">3</span>
-</div>
-<div class="flex-grow">
-<p class="text-xl font-bold mb-2 text-black dark:text-white">模拟交易实践（1-2个月）</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">在模拟账户上进行大量练习，测试和优化自己的交易策略。</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">目标：连续1个月盈利，胜率>50%，盈亏比>1:1.5</p>
-</div>
-</div>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="flex gap-4 items-start">
-<div class="flex-shrink-0 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">4</span>
-</div>
-<div class="flex-grow">
-<p class="text-xl font-bold mb-2 text-black dark:text-white">小额实盘交易（3-6个月）</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">使用少量真实资金开始交易，适应真实交易的心理压力。</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">建议：初始资金100-500美元，重点是积累经验而非盈利</p>
-</div>
-</div>
+<p class="text-xl font-bold mb-4 text-black dark:text-white">❌ 误区4：相信"内幕消息"</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-3">听信社交媒体上的"大V推荐"、"百倍币"等消息盲目跟单。</p>
+<p class="text-sm font-bold text-black dark:text-white mb-2">正确做法：</p>
+<p class="text-gray-600 dark:text-gray-400 text-sm">建立自己的交易系统，做好基本面和技术面分析，不要被"暴富故事"冲昏头脑。</p>
 </div>
 </div>
 
 <div class="bg-black dark:bg-white text-white dark:text-black p-8 mb-8 border-2 border-black dark:border-white">
-<p class="text-2xl font-bold mb-4 text-white dark:text-black text-center">关键提示</p>
-<p class="text-lg text-center text-white dark:text-black">数字货币交易不是快速致富的捷径，而是需要长期学习和实践的专业技能。保持耐心，控制风险，持续学习，才能在这个市场中生存并盈利。</p>
-</div>`,
- en: `<h1 class="text-4xl font-bold text-center mb-8 text-black dark:text-white">Forex Market Fundamentals</h1>
+<h3 class="text-2xl font-bold mb-4 text-center">数字货币交易核心原则</h3>
+<ul class="space-y-3">
+<li class="flex items-start gap-3"><span class="text-2xl">1️⃣</span><span class="flex-1"><strong>永远不要投入承受不起损失的资金</strong> - 用闲钱投资，不要借钱炒币</span></li>
+<li class="flex items-start gap-3"><span class="text-2xl">2️⃣</span><span class="flex-1"><strong>做好风险管理</strong> - 设置止损，单笔风险不超过总资金的2%</span></li>
+<li class="flex items-start gap-3"><span class="text-2xl">3️⃣</span><span class="flex-1"><strong>持续学习</strong> - 市场在变化，交易策略也要与时俱进</span></li>
+<li class="flex items-start gap-3"><span class="text-2xl">4️⃣</span><span class="flex-1"><strong>保持冷静</strong> - 情绪是交易最大的敌人，制定计划并严格执行</span></li>
+<li class="flex items-start gap-3"><span class="text-2xl">5️⃣</span><span class="flex-1"><strong>注重长期</strong> - 交易是马拉松不是百米冲刺，稳定盈利才是目标</span></li>
+</ul>
+</div>
 
-<p class="text-base leading-relaxed mb-8 text-center text-gray-700 dark:text-gray-300">The cryptocurrency market (Forex/FX) is the world's largest and most liquid financial market. Understanding cryptocurrency market fundamentals is the first step to becoming a professional trader.</p>
+<div class="text-center bg-gray-50 dark:bg-gray-900 p-8 border-2 border-gray-200 dark:border-gray-700">
+<h3 class="text-2xl font-bold mb-4 text-black dark:text-white">准备好开始你的数字货币交易之旅了吗？</h3>
+<p class="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">币刃(BiKiller)提供系统化的数字货币交易员培训，从基础知识到实战技巧，全方位提升你的交易能力。</p>
+<p class="text-sm text-gray-500 dark:text-gray-500">邮箱：bikiller.com@gmail.com</p>
+</div>`,
+ en: `<h1 class="text-4xl font-bold text-center mb-8 text-black dark:text-white">Cryptocurrency Trading Fundamentals</h1>
+
+<p class="text-base leading-relaxed mb-8 text-center text-gray-700 dark:text-gray-300">Cryptocurrency is a decentralized digital asset based on blockchain technology. Understanding the fundamentals of the crypto market is the first step to becoming a professional cryptocurrency trader.</p>
 
 <h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">Market Overview</h2>
 
@@ -1411,347 +1263,60 @@ export const blogPosts: BlogPost[] = [
 <span class="text-2xl text-white dark:text-black font-bold">24</span>
 </div>
 <p class="text-xl font-bold mb-2 text-black dark:text-white">Trading Hours</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed">5 days a week, 24 hours non-stop</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">24/7, 365 days a year</p>
 </div>
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
 <div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">7</span>
+<span class="text-2xl text-white dark:text-black font-bold">3T</span>
 </div>
-<p class="text-xl font-bold mb-2 text-black dark:text-white">Daily Trading Volume</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed">Over $7 trillion</p>
+<p class="text-xl font-bold mb-2 text-black dark:text-white">Market Cap</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">Over $3 Trillion</p>
 </div>
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
 <div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
 <span class="text-2xl text-white dark:text-black font-bold">4</span>
 </div>
-<p class="text-xl font-bold mb-2 text-black dark:text-white">Major Currency Pairs</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed">BTC/USDT, ETH/USDT, USD/JPY, USD/CHF</p>
+<p class="text-xl font-bold mb-2 text-black dark:text-white">Major Coins</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">BTC, ETH, BNB, SOL</p>
 </div>
 <div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
 <div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">3</span>
+<span class="text-2xl text-white dark:text-black font-bold">∞</span>
 </div>
-<p class="text-xl font-bold mb-2 text-black dark:text-white">Major Trading Sessions</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed">Asia, Europe, Americas</p>
+<p class="text-xl font-bold mb-2 text-black dark:text-white">Opportunities</p>
+<p class="text-gray-600 dark:text-gray-400 leading-relaxed">Global unified market</p>
 </div>
 </div>
 
 <h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">What is Cryptocurrency Trading</h2>
 
-<p class="text-base leading-relaxed mb-6 text-gray-700 dark:text-gray-300">Forex trading (Foreign Exchange Trading) refers to the act of simultaneously buying one currency and selling another. Currencies are always traded in pairs, for example BTC/USDT represents Euro against US Dollar.</p>
-
-<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">1</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">Base Currency</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">The first currency in a trading pair, serving as the reference for buying or selling. For example, in BTC/USDT, EUR is the base currency.</p>
-<p class="text-sm text-gray-500 dark:text-gray-500 mt-3">Example: BTC/USDT = 1.1000<br/>Means 1 Euro = 1.1 US Dollars</p>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">2</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">Quote Currency</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">The second currency in a trading pair, used for pricing. For example, in BTC/USDT, USD is the quote currency.</p>
-<p class="text-sm text-gray-500 dark:text-gray-500 mt-3">The quote currency is the amount you need to pay</p>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">3</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">Pip (Point in Percentage)</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">The smallest unit of price movement in forex, usually the fourth decimal place.</p>
-<p class="text-sm text-gray-500 dark:text-gray-500 mt-3">BTC/USDT from 1.1000 to 1.1001<br/>= Up 1 pip</p>
-</div>
-</div>
-
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">Currency Pair Classifications</h2>
-
-<div class="overflow-x-auto mb-8">
-<table class="w-full border-2 border-black dark:border-white">
-<thead>
-<tr>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">Category</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">Characteristics</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">Examples</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">Spread</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">Suitable For</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">Major Pairs</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Highest liquidity, tightest spreads</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">BTC/USDT, ETH/USDT, USD/JPY</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">0.5-2 pips</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Beginner traders</td>
-</tr>
-<tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">Minor Pairs</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Don't include USD, good liquidity</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">EUR/GBP, EUR/JPY, GBP/JPY</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">2-5 pips</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Experienced traders</td>
-</tr>
-<tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">Exotic Pairs</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Include emerging market currencies, high volatility</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">USD/TRY, USD/ZAR, EUR/TRY</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">10-50 pips</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">High-risk appetite traders</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">Global Trading Sessions</h2>
-
-<p class="text-base leading-relaxed mb-6 text-gray-700 dark:text-gray-300">Since the cryptocurrency market is global, trading sessions from different regions overlap, and these overlapping periods are usually the most active trading times.</p>
-
-<div class="overflow-x-auto mb-8">
-<table class="w-full border-2 border-black dark:border-white">
-<thead>
-<tr>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">Trading Session</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">Opening Time (Beijing)</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">Volatility</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">Major Currency Pairs</th>
-<th class="bg-black dark:bg-white text-white dark:text-black font-bold px-6 py-3 text-left">Characteristics</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">Sydney Session</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">06:00-15:00</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Lower</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">AUD/USD, NZD/USD</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Market warm-up, lower volatility</td>
-</tr>
-<tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">Tokyo Session</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">08:00-16:00</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Medium</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">USD/JPY, EUR/JPY</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Asian currencies active</td>
-</tr>
-<tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">London Session</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">15:00-00:00</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">High</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">BTC/USDT, ETH/USDT</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Highest volume, strongest liquidity</td>
-</tr>
-<tr>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300"><strong class="font-bold text-black dark:text-white">New York Session</strong></td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">20:00-05:00</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">High</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">All USD-related pairs</td>
-<td class="px-6 py-3 border-b border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-300">Dense US data releases, high volatility</td>
-</tr>
-</tbody>
-</table>
-</div>
+<p class="text-base leading-relaxed mb-6 text-gray-700 dark:text-gray-300">Cryptocurrency trading involves buying and selling digital assets like Bitcoin and Ethereum. Trading typically occurs in pairs, such as BTC/USDT, which means buying Bitcoin (BTC) with Tether (USDT).</p>
 
 <div class="bg-black dark:bg-white text-white dark:text-black p-8 mb-8 border-2 border-black dark:border-white">
-<p class="text-2xl font-bold mb-4 text-white dark:text-black text-center">Golden Trading Hours</p>
-<p class="text-lg text-center text-white dark:text-black mb-4">London and New York overlap: Beijing Time 20:00-00:00</p>
-<p class="text-center text-white dark:text-black">These 4 hours have the highest daily volume and volatility, representing the best trading opportunities</p>
-</div>
-
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">Cryptocurrency Trading Advantages</h2>
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<p class="text-xl font-bold mb-4 text-black dark:text-white">✓ Main Advantages</p>
+<h3 class="text-2xl font-bold mb-4 text-center">Core Principles of Crypto Trading</h3>
 <ul class="space-y-3">
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">High Liquidity:</strong> Daily volume exceeds $7 trillion, allowing entry and exit anytime</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">24-Hour Trading:</strong> Continuous trading Monday through Friday, 24 hours</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">Low Spreads:</strong> Major pairs typically have spreads of only 0.5-2 pips</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">Bidirectional Trading:</strong> Can go long or short, profit opportunities in both directions</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">Leverage Trading:</strong> Control larger positions with smaller capital</span>
-</li>
+<li class="flex items-start gap-3"><span class="text-2xl">1️⃣</span><span class="flex-1"><strong>Never invest what you can't afford to lose</strong> - Use spare money, never borrow to trade</span></li>
+<li class="flex items-start gap-3"><span class="text-2xl">2️⃣</span><span class="flex-1"><strong>Manage your risk</strong> - Set stop losses, risk no more than 2% per trade</span></li>
+<li class="flex items-start gap-3"><span class="text-2xl">3️⃣</span><span class="flex-1"><strong>Keep learning</strong> - Markets evolve, your strategies should too</span></li>
+<li class="flex items-start gap-3"><span class="text-2xl">4️⃣</span><span class="flex-1"><strong>Stay calm</strong> - Emotions are the enemy, stick to your plan</span></li>
+<li class="flex items-start gap-3"><span class="text-2xl">5️⃣</span><span class="flex-1"><strong>Think long-term</strong> - Trading is a marathon, not a sprint</span></li>
 </ul>
 </div>
 
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<p class="text-xl font-bold mb-4 text-black dark:text-white">⚠ Important Notes</p>
-<ul class="space-y-3">
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">High Risk:</strong> Leverage is a double-edged sword, losses are also magnified</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">Psychological Pressure:</strong> Requires strong mental fortitude and discipline</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">Learning Curve:</strong> Requires significant time for learning and practice</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">Market Volatility:</strong> Breaking news can cause severe price fluctuations</span>
-</li>
-<li class="text-gray-700 dark:text-gray-300 leading-relaxed flex items-start gap-2">
-<span class="text-black dark:text-white font-bold">•</span>
-<span><strong class="font-bold text-black dark:text-white">Time Investment:</strong> Requires continuous market monitoring and learning</span>
-</li>
-</ul>
-</div>
-</div>
-
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">Common Beginner Mistakes</h2>
-
-<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">Overtrading</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">Frequent opening and closing of positions without waiting for proper trading opportunities.</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">Correct Approach:</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">Patiently wait for entry points that meet trading rules, quality over quantity.</p>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">No Stop-Loss</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">Hoping for luck, believing price will return.</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">Correct Approach:</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">Set hard stop-loss for every trade and never move stop-loss levels.</p>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">Excessive Leverage</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">Using excessive leverage, one loss can blow the account.</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">Correct Approach:</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">Control position size, single trade risk should not exceed 2% of account.</p>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">Emotional Trading</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">Greed after profits, fear after losses, leading to poor judgment.</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">Correct Approach:</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">Strictly follow trading plan, don't be swayed by emotions.</p>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">Lack of Learning</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">Unwilling to learn, trading by feeling.</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">Correct Approach:</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">Continuously learn technical analysis, fundamental analysis, and trading psychology.</p>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="mb-4 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">❌</span>
-</div>
-<p class="text-xl font-bold mb-3 text-black dark:text-white">Chasing Trends</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">Chasing buy when price rises, chasing sell when price falls.</p>
-<p class="text-sm text-black dark:text-white font-bold mt-3">Correct Approach:</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">Wait for pullback or breakout confirmation before entering.</p>
-</div>
-</div>
-
-<h2 class="text-3xl font-bold text-center mb-4 text-black dark:text-white border-b-4 border-black dark:border-white inline-block pb-2 w-full">Learning Path for Beginners</h2>
-
-<div class="space-y-4 mb-8">
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="flex gap-4 items-start">
-<div class="flex-shrink-0 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">1</span>
-</div>
-<div class="flex-grow">
-<p class="text-xl font-bold mb-2 text-black dark:text-white">Foundation Learning (1-2 Weeks)</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">Learn cryptocurrency market basics, trading pairs, pips, leverage, margin, and other fundamental knowledge.</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">Recommended resources: Trading platform tutorials, forex basics books, online courses</p>
-</div>
-</div>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="flex gap-4 items-start">
-<div class="flex-shrink-0 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">2</span>
-</div>
-<div class="flex-grow">
-<p class="text-xl font-bold mb-2 text-black dark:text-white">Technical Analysis Introduction (2-3 Weeks)</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">Learn candlestick charts, trend lines, support/resistance, common indicators (MA, MACD, RSI, etc.).</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">Focus: Don't try to learn all indicators, master 2-3 key ones</p>
-</div>
-</div>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="flex gap-4 items-start">
-<div class="flex-shrink-0 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">3</span>
-</div>
-<div class="flex-grow">
-<p class="text-xl font-bold mb-2 text-black dark:text-white">Demo Trading Practice (1-2 Months)</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">Practice extensively in a demo account, test and refine your trading strategies.</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">Goal: Consecutive 1 month profitability, win rate >50%, reward-risk ratio >1:1.5</p>
-</div>
-</div>
-</div>
-
-<div class="bg-white dark:bg-gray-800 p-6 border-2 border-gray-200 dark:border-gray-700">
-<div class="flex gap-4 items-start">
-<div class="flex-shrink-0 w-12 h-12 bg-black dark:bg-white flex items-center justify-center">
-<span class="text-2xl text-white dark:text-black font-bold">4</span>
-</div>
-<div class="flex-grow">
-<p class="text-xl font-bold mb-2 text-black dark:text-white">Small Live Trading (3-6 Months)</p>
-<p class="text-gray-600 dark:text-gray-400 leading-relaxed mb-2">Start trading with small real capital to adapt to real trading psychological pressure.</p>
-<p class="text-sm text-gray-600 dark:text-gray-400">Recommendation: Initial capital $100-500, focus is on accumulating experience rather than profit</p>
-</div>
-</div>
-</div>
-</div>
-
-<div class="bg-black dark:bg-white text-white dark:text-black p-8 mb-8 border-2 border-black dark:border-white">
-<p class="text-2xl font-bold mb-4 text-white dark:text-black text-center">Key Reminder</p>
-<p class="text-lg text-center text-white dark:text-black">Forex trading is not a shortcut to quick wealth, but a professional skill that requires long-term learning and practice. Stay patient, control risks, and continuously learn to survive and profit in this market.</p>
-</div>`,
+<div class="text-center bg-gray-50 dark:bg-gray-900 p-8 border-2 border-gray-200 dark:border-gray-700">
+<h3 class="text-2xl font-bold mb-4 text-black dark:text-white">Ready to Start Your Crypto Trading Journey?</h3>
+<p class="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">BiKiller provides systematic cryptocurrency trader training, from fundamentals to advanced strategies, to elevate your trading skills comprehensively.</p>
+<p class="text-sm text-gray-500 dark:text-gray-500">Email: bikiller.com@gmail.com</p>
+</div>`
  },
- category: 'forex',
- tags: ['beginner', 'forex', 'guide', 'education'],
+ category: 'education',
+ tags: ['数字货币', '加密货币', '比特币', '交易入门', 'BTC', 'ETH'],
  author: 'BiKiller Team',
  date: '2025-01-16',
- readTime: 25,
+ readTime: 15,
  featured: true
  },
 
- // 3. 外汇风险管理
  {
  id: '3',
  slug: 'forex-risk-management',
