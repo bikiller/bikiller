@@ -2,7 +2,6 @@
 
 import { useState } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { config } from '@/lib/config';
 
 export default function FloatingContactForm() {
   const [isOpen, setIsOpen] = useState(false);
@@ -14,6 +13,9 @@ export default function FloatingContactForm() {
   });
   const { language } = useLanguage();
   const isZh = language === 'zh';
+
+  const emailAddress = "x.stark.dylan@gmail.com";
+  const siteUrl = "https://fxkiller.com";
 
   const handleSubmit = (e: React.FormEvent) => {
     // Form will be submitted by FormSubmit.co
@@ -87,7 +89,7 @@ export default function FloatingContactForm() {
 
             {/* Form */}
             <form
-              action={`https://formsubmit.co/${config.contact.email}`}
+              action={`https://formsubmit.co/${emailAddress}`}
               method="POST"
               onSubmit={handleSubmit}
               className="p-6 space-y-4"
@@ -96,7 +98,7 @@ export default function FloatingContactForm() {
               <input
                 type="hidden"
                 name="_next"
-                value={`${config.site.url}/${language}/thank-you`}
+                value={`${siteUrl}/${language}/thank-you`}
               />
               <input
                 type="hidden"
