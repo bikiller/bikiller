@@ -240,16 +240,6 @@ export default function SplanFooter() {
                   TradingView
                 </a>
               </li>
-              <li>
-                <a
-                  href="https://www.coingecko.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-400 hover:text-white transition-colors"
-                >
-                  CoinGecko
-                </a>
-              </li>
             </ul>
           </div>
         </div>
