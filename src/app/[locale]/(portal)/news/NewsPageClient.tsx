@@ -24,6 +24,8 @@ export default function NewsPageClient({ initialNews }: NewsPageClientProps) {
 
   const [selectedMonth, setSelectedMonth] = useState<string>('');
   const [selectedTag, setSelectedTag] = useState<string>('all');
+  const [currentPage, setCurrentPage] = useState<number>(1);
+  const itemsPerPage = 12;
 
   // 获取所有月份
   const availableMonths = useMemo(() => {
@@ -64,6 +66,53 @@ export default function NewsPageClient({ initialNews }: NewsPageClientProps) {
       return monthMatch && tagMatch;
     });
   }, [initialNews, selectedMonth, selectedTag]);
+
+  // 重置筛选条件时回到第一页
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [selectedMonth, selectedTag]);
+
+  // 分页计算
+  const totalPages = Math.ceil(filteredNews.length / itemsPerPage);
+  const paginatedNews = useMemo(() => {
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const endIndex = startIndex + itemsPerPage;
+    return filteredNews.slice(startIndex, endIndex);
+  }, [filteredNews, currentPage, itemsPerPage]);
+
+  // 生成页码数组
+  const pageNumbers = useMemo(() => {
+    const pages: (number | string)[] = [];
+    const showEllipsisThreshold = 7;
+
+    if (totalPages <= showEllipsisThreshold) {
+      // 页数少，显示所有页码
+      for (let i = 1; i <= totalPages; i++) {
+        pages.push(i);
+      }
+    } else {
+      // 页数多，显示省略号
+      if (currentPage <= 3) {
+        // 当前在前面
+        for (let i = 1; i <= 4; i++) pages.push(i);
+        pages.push('...');
+        pages.push(totalPages);
+      } else if (currentPage >= totalPages - 2) {
+        // 当前在后面
+        pages.push(1);
+        pages.push('...');
+        for (let i = totalPages - 3; i <= totalPages; i++) pages.push(i);
+      } else {
+        // 当前在中间
+        pages.push(1);
+        pages.push('...');
+        for (let i = currentPage - 1; i <= currentPage + 1; i++) pages.push(i);
+        pages.push('...');
+        pages.push(totalPages);
+      }
+    }
+    return pages;
+  }, [totalPages, currentPage]);
 
   // 最近10条新闻用于侧边栏
   const recentNews = useMemo(() => {
@@ -150,8 +199,16 @@ export default function NewsPageClient({ initialNews }: NewsPageClientProps) {
           </div>
 
           {/* Filter Summary */}
-          <div className="mt-4 text-sm text-gray-600 dark:text-gray-400">
-            {isZh ? '找到' : 'Found'} <span className="font-bold text-gray-900 dark:text-white">{filteredNews.length}</span> {isZh ? '篇文章' : 'articles'}
+          <div className="mt-4 flex items-center justify-between flex-wrap gap-2">
+            <div className="text-sm text-gray-600 dark:text-gray-400">
+              {isZh ? '找到' : 'Found'} <span className="font-bold text-gray-900 dark:text-white">{filteredNews.length}</span> {isZh ? '篇文章' : 'articles'}
+              {totalPages > 1 && (
+                <>
+                  {' · '}
+                  {isZh ? `第 ${currentPage} / ${totalPages} 页` : `Page ${currentPage} of ${totalPages}`}
+                </>
+              )}
+            </div>
           </div>
         </div>
       </div>
@@ -171,7 +228,7 @@ export default function NewsPageClient({ initialNews }: NewsPageClientProps) {
             {/* Main News List */}
             <div className="flex-1 min-w-0">
               <div className="grid gap-6">
-                {filteredNews.map((item) => (
+                {paginatedNews.map((item) => (
                   <div
                     key={item.slug}
                     className="bg-white dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-800 p-6 hover:border-black dark:hover:border-white transition-colors"
@@ -227,6 +284,60 @@ export default function NewsPageClient({ initialNews }: NewsPageClientProps) {
                   </div>
                 ))}
               </div>
+
+              {/* Pagination */}
+              {totalPages > 1 && (
+                <div className="mt-12 flex flex-col items-center gap-4">
+                  <div className="flex items-center gap-2 flex-wrap justify-center">
+                    {/* Previous Button */}
+                    <button
+                      onClick={() => setCurrentPage(prev => Math.max(1, prev - 1))}
+                      disabled={currentPage === 1}
+                      className="px-4 py-2 bg-white dark:bg-gray-900 border-2 border-gray-300 dark:border-gray-700 text-gray-900 dark:text-white font-semibold disabled:opacity-50 disabled:cursor-not-allowed hover:border-black dark:hover:border-white transition-colors"
+                    >
+                      {isZh ? '上一页' : 'Previous'}
+                    </button>
+
+                    {/* Page Numbers */}
+                    {pageNumbers.map((page, index) => (
+                      page === '...' ? (
+                        <span key={`ellipsis-${index}`} className="px-2 text-gray-500 dark:text-gray-400">
+                          ...
+                        </span>
+                      ) : (
+                        <button
+                          key={page}
+                          onClick={() => setCurrentPage(page as number)}
+                          className={`px-4 py-2 border-2 font-semibold transition-colors ${
+                            currentPage === page
+                              ? 'bg-black dark:bg-white text-white dark:text-black border-black dark:border-white'
+                              : 'bg-white dark:bg-gray-900 border-gray-300 dark:border-gray-700 text-gray-900 dark:text-white hover:border-black dark:hover:border-white'
+                          }`}
+                        >
+                          {page}
+                        </button>
+                      )
+                    ))}
+
+                    {/* Next Button */}
+                    <button
+                      onClick={() => setCurrentPage(prev => Math.min(totalPages, prev + 1))}
+                      disabled={currentPage === totalPages}
+                      className="px-4 py-2 bg-white dark:bg-gray-900 border-2 border-gray-300 dark:border-gray-700 text-gray-900 dark:text-white font-semibold disabled:opacity-50 disabled:cursor-not-allowed hover:border-black dark:hover:border-white transition-colors"
+                    >
+                      {isZh ? '下一页' : 'Next'}
+                    </button>
+                  </div>
+
+                  {/* Page Info */}
+                  <div className="text-sm text-gray-600 dark:text-gray-400">
+                    {isZh
+                      ? `显示第 ${(currentPage - 1) * itemsPerPage + 1} - ${Math.min(currentPage * itemsPerPage, filteredNews.length)} 条，共 ${filteredNews.length} 条`
+                      : `Showing ${(currentPage - 1) * itemsPerPage + 1} - ${Math.min(currentPage * itemsPerPage, filteredNews.length)} of ${filteredNews.length} articles`
+                    }
+                  </div>
+                </div>
+              )}
             </div>
 
             {/* Sidebar - Recent News (10 items) */}
