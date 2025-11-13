@@ -1,11 +1,39 @@
-        allow: '*',
+import { MetadataRoute } from 'next'
+
+export default function robots(): MetadataRoute.Robots {
+  const baseUrl = 'https://bikiller.com'
+
+  return {
+    rules: [
+      {
+        userAgent: '*',
+        allow: '/',
+        disallow: [
+          '/api/',
+          '/animation-test',
+          '/particle-test',
+          '/_next/',
+          '/admin',
+        ],
       },
-      // 针对百度爬虫的特殊规则
+      // 针对百度爬虫
       {
         userAgent: 'Baiduspider',
-        allow: '*',
+        allow: '/',
+        crawlDelay: 1,
       },
-      // 针对Google爬虫的特殊规则
+      // 针对Google爬虫
       {
         userAgent: 'Googlebot',
-        allow: '*',
+        allow: '/',
+      },
+      // 针对Bing爬虫
+      {
+        userAgent: 'bingbot',
+        allow: '/',
+      },
+    ],
+    sitemap: `${baseUrl}/sitemap.xml`,
+    host: baseUrl,
+  }
+}
