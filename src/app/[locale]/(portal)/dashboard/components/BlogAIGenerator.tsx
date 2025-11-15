@@ -69,10 +69,11 @@ export default function BlogAIGenerator({ onGenerated, onClose }: BlogAIGenerato
 
       const decoder = new TextDecoder();
       let fullContent = '';
+      let completed = false;
 
       while (true) {
         const { done, value } = await reader.read();
-        if (done) break;
+        if (done || completed) break;
 
         const chunk = decoder.decode(value, { stream: true });
         const lines = chunk.split('\n');
@@ -81,6 +82,7 @@ export default function BlogAIGenerator({ onGenerated, onClose }: BlogAIGenerato
           if (line.startsWith('data: ')) {
             try {
               const data = JSON.parse(line.slice(6));
+              console.log('[BlogAI] Received data type:', data.type);
 
               if (data.type === 'content') {
                 fullContent += data.data;
@@ -89,14 +91,18 @@ export default function BlogAIGenerator({ onGenerated, onClose }: BlogAIGenerato
                 const estimatedTotal = 5000; // Rough estimate for full JSON
                 setProgress(Math.min(90, (fullContent.length / estimatedTotal) * 100));
               } else if (data.type === 'complete') {
+                console.log('[BlogAI] Complete data received:', data.data);
                 setProgress(100);
                 // Let parent component handle both data and closing
-                onGenerated({ ...data.data, author: 'BI Killer Team' });
+                onGenerated(data.data);
+                completed = true;
+                break; // Exit the for loop
               } else if (data.type === 'error') {
                 throw new Error(data.data);
               }
             } catch (e) {
-              // Ignore JSON parse errors for incomplete chunks
+              // Log parse errors for debugging
+              console.warn('[BlogAI] JSON parse error:', e, 'Line:', line.slice(0, 100));
             }
           }
         }
