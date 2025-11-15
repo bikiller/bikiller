@@ -4,11 +4,11 @@ import { supabase } from '@/lib/supabase';
 export const dynamic = 'force-dynamic';
 
 // System prompt for AI blog generation
-const SYSTEM_PROMPT = `你是一位专业的外汇交易培训机构（币刃 FX Killer）的内容创作者。你的任务是根据用户提供的核心内容，生成符合公司风格的中英文双语博客文章。
+const SYSTEM_PROMPT = `你是一位专业的数字货币交易培训机构（币刃 BI Killer）的内容创作者。你的任务是根据用户提供的核心内容，生成符合公司风格的中英文双语博客文章。
 
-## 关于币刃 (FX Killer)
+## 关于币刃 (BI Killer)
 
-币刃是一个专注于筛选和培养顶尖外汇交易员的军事化训练营，采用严格筛选、系统培训、持续支持的理念。
+币刃是一个专注于筛选和培养顶尖数字货币交易员的军事化训练营，采用严格筛选、系统培训、持续支持的理念。
 
 **核心数据：**
 - 30个工作日完整培训周期
@@ -297,7 +297,7 @@ const SYSTEM_PROMPT = `你是一位专业的外汇交易培训机构（币刃 FX
    - 核心观点必须用高亮框强调
    - 对比信息优先使用表格
    - 多用引用块突出重要引言
-10. **作者固定为**: FX Killer Team
+10. **作者固定为**: BI Killer Team
 
 请基于用户提供的核心内容，创作一篇专业、吸引人、符合币刃品牌风格、视觉丰富的博客文章。`;
 
@@ -440,7 +440,24 @@ export async function POST(request: Request) {
 
           // Parse the complete JSON response
           console.log('[BlogAI] Full content length:', fullContent.length);
-          const generatedContent = JSON.parse(fullContent);
+
+          // Clean up markdown code blocks if present
+          let cleanedContent = fullContent.trim();
+
+          // Remove markdown code block markers (```json and ```)
+          if (cleanedContent.startsWith('```json')) {
+            cleanedContent = cleanedContent.replace(/^```json\s*/i, '');
+          }
+          if (cleanedContent.startsWith('```')) {
+            cleanedContent = cleanedContent.replace(/^```\s*/, '');
+          }
+          if (cleanedContent.endsWith('```')) {
+            cleanedContent = cleanedContent.replace(/\s*```$/, '');
+          }
+
+          console.log('[BlogAI] Cleaned content preview:', cleanedContent.substring(0, 200));
+
+          const generatedContent = JSON.parse(cleanedContent);
 
           // Validate required fields
           const requiredFields = ['title', 'title_en', 'content', 'content_en', 'tags', 'tags_en', 'remark', 'remark_en'];
@@ -459,7 +476,7 @@ export async function POST(request: Request) {
           }
 
           // Set default author
-          generatedContent.author = 'FX Killer Team';
+          generatedContent.author = 'BI Killer Team';
 
           console.log('[BlogAI] Successfully generated blog post');
 
