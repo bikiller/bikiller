@@ -81,9 +81,8 @@ export default function TopTradersManager() {
         // Update: include id
         body = { ...formData, id: editingTrader.id };
       } else {
-        // Create: auto-generate rank as next available number
-        const maxRank = traders.length > 0 ? Math.max(...traders.map(t => t.rank)) : 0;
-        body = { ...formData, rank: maxRank + 1 };
+        // Create: use rank as id
+        body = { ...formData, id: formData.rank };
       }
 
       console.log('[TopTradersManager] Method:', method);
@@ -236,7 +235,7 @@ export default function TopTradersManager() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
               <div>
                 <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
-                  {language === 'zh' ? '排名' : 'Rank'} {!editingTrader && <span className="text-xs text-gray-500">({language === 'zh' ? '自动生成' : 'Auto-generated'})</span>}
+                  {language === 'zh' ? '排名 (同时作为ID)' : 'Rank (also used as ID)'}
                 </label>
                 <input
                   type="number"
@@ -244,8 +243,6 @@ export default function TopTradersManager() {
                   onChange={(e) => setFormData({ ...formData, rank: parseInt(e.target.value) })}
                   className="w-full px-4 py-2 border-2 border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900 text-black dark:text-white"
                   required
-                  readOnly={!editingTrader}
-                  disabled={!editingTrader}
                 />
               </div>
 
