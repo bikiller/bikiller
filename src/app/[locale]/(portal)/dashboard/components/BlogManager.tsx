@@ -207,6 +207,10 @@ export default function BlogManager() {
     remark_en: string;
     author: string;
   }) => {
+    // Close AI generator first
+    setShowAIGenerator(false);
+
+    // Then set form data and show form
     setFormData({
       ...formData,
       title: data.title,
@@ -217,9 +221,13 @@ export default function BlogManager() {
       tags_en: data.tags_en,
       remark: data.remark,
       remark_en: data.remark_en,
-      author: data.author || 'FX Killer Team',
+      author: data.author || 'BI Killer Team',
     });
-    setShowForm(true);
+
+    // Make sure form is shown after a short delay
+    setTimeout(() => {
+      setShowForm(true);
+    }, 50);
   };
 
   useEffect(() => {
