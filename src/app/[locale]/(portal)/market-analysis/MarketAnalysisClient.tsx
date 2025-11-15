@@ -81,8 +81,8 @@ export default function MarketAnalysisClient({ analyses, language }: MarketAnaly
             </h1>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed mb-8">
               {isZh
-                ? '每 90 分钟自动更新 · 8 大主流货币对 · 专业技术指标分析'
-                : 'Auto-Updated Every 90 Minutes · 8 Major Pairs · Professional Technical Analysis'}
+                ? '每 90 分钟自动更新 · 8 大主流数字货币 · 专业技术指标分析'
+                : 'Auto-Updated Every 90 Minutes · 8 Major Cryptocurrencies · Professional Technical Analysis'}
             </p>
 
             {/* 更新时间 */}
@@ -146,7 +146,12 @@ export default function MarketAnalysisClient({ analyses, language }: MarketAnaly
                       {/* 价格 */}
                       <div className="mb-4">
                         <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">
-                          {parseFloat(analysis.price.close).toFixed(analysis.symbol.includes('JPY') ? 2 : 5)}
+                          ${parseFloat(analysis.price.close).toLocaleString(undefined, {
+                            minimumFractionDigits: 2,
+                            maximumFractionDigits: analysis.symbol.includes('BTC') ? 2 :
+                                                   analysis.symbol.includes('ETH') || analysis.symbol.includes('BNB') || analysis.symbol.includes('SOL') ? 2 :
+                                                   analysis.symbol.includes('AVAX') ? 2 : 4
+                          })}
                         </div>
                         <div className={`flex items-center gap-1 text-sm font-semibold ${
                           isPositive ? 'text-green-600 dark:text-green-400' : 'text-red-600 dark:text-red-400'

@@ -84,7 +84,12 @@ export default function MarketDetailClient({ analysis, language }: MarketDetailC
           <div className="flex flex-wrap items-end gap-6">
             <div>
               <div className="text-5xl font-bold text-gray-900 dark:text-white">
-                {parseFloat(analysis.price.close).toFixed(analysis.symbol.includes('JPY') ? 2 : 5)}
+                ${parseFloat(analysis.price.close).toLocaleString(undefined, {
+                  minimumFractionDigits: 2,
+                  maximumFractionDigits: analysis.symbol.includes('BTC') ? 2 :
+                                         analysis.symbol.includes('ETH') || analysis.symbol.includes('BNB') || analysis.symbol.includes('SOL') ? 2 :
+                                         analysis.symbol.includes('AVAX') ? 2 : 4
+                })}
               </div>
               <div className={`flex items-center gap-2 text-lg font-semibold mt-2 ${
                 isPositive ? 'text-green-600 dark:text-green-400' : 'text-red-600 dark:text-red-400'

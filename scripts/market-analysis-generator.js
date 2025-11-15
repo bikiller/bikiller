@@ -9,16 +9,16 @@ const OPENAI_API_KEY = process.env.SKEY;
 const OPENAI_BASE_URL = 'https://api.oneabc.org';
 const ANALYSIS_DIR = path.join(__dirname, '../src/content/analysis');
 
-// 主要外汇品种配置
-const FOREX_PAIRS = [
-  { symbol: 'EUR/USD', name: 'Euro vs US Dollar', nameCn: '欧元/美元' },
-  { symbol: 'GBP/USD', name: 'British Pound vs US Dollar', nameCn: '英镑/美元' },
-  { symbol: 'USD/JPY', name: 'US Dollar vs Japanese Yen', nameCn: '美元/日元' },
-  { symbol: 'AUD/USD', name: 'Australian Dollar vs US Dollar', nameCn: '澳元/美元' },
-  { symbol: 'USD/CAD', name: 'US Dollar vs Canadian Dollar', nameCn: '美元/加元' },
-  { symbol: 'NZD/USD', name: 'New Zealand Dollar vs US Dollar', nameCn: '纽元/美元' },
-  { symbol: 'USD/CHF', name: 'US Dollar vs Swiss Franc', nameCn: '美元/瑞郎' },
-  { symbol: 'XAU/USD', name: 'Gold vs US Dollar', nameCn: '黄金/美元' }
+// 主流数字货币配置（8个主流币种）
+const CRYPTO_PAIRS = [
+  { symbol: 'BTC/USD', name: 'Bitcoin vs US Dollar', nameCn: '比特币/美元' },
+  { symbol: 'ETH/USD', name: 'Ethereum vs US Dollar', nameCn: '以太坊/美元' },
+  { symbol: 'BNB/USD', name: 'Binance Coin vs US Dollar', nameCn: '币安币/美元' },
+  { symbol: 'SOL/USD', name: 'Solana vs US Dollar', nameCn: 'Solana/美元' },
+  { symbol: 'XRP/USD', name: 'Ripple vs US Dollar', nameCn: '瑞波币/美元' },
+  { symbol: 'ADA/USD', name: 'Cardano vs US Dollar', nameCn: '艾达币/美元' },
+  { symbol: 'DOGE/USD', name: 'Dogecoin vs US Dollar', nameCn: '狗狗币/美元' },
+  { symbol: 'AVAX/USD', name: 'Avalanche vs US Dollar', nameCn: '雪崩币/美元' }
 ];
 
 // 从 Twelve Data 获取价格数据
@@ -79,7 +79,7 @@ async function generateAnalysisZh(pairInfo, marketData) {
   const { symbol, nameCn } = pairInfo;
   const { price, rsi, macd, sma } = marketData;
 
-  const prompt = `你是专业的外汇交易分析师。请对 ${nameCn}(${symbol}) 进行技术分析。
+  const prompt = `你是专业的数字货币交易分析师。请对 ${nameCn}(${symbol}) 进行技术分析。
 
 当前市场数据：
 - 最新价格: ${price.close}
@@ -133,7 +133,7 @@ async function generateAnalysisEn(pairInfo, marketData) {
   const { symbol, name } = pairInfo;
   const { price, rsi, macd, sma } = marketData;
 
-  const prompt = `You are a professional forex analyst. Provide technical analysis for ${name} (${symbol}).
+  const prompt = `You are a professional cryptocurrency analyst. Provide technical analysis for ${name} (${symbol}).
 
 Current Market Data:
 - Latest Price: ${price.close}
@@ -205,7 +205,7 @@ async function generateMarketAnalysis() {
 
   console.log(`\n📊 开始生成市场分析 - ${dayjs().format('YYYY-MM-DD HH:mm')}\n`);
 
-  for (const pair of FOREX_PAIRS) {
+  for (const pair of CRYPTO_PAIRS) {
     console.log(`\n🔍 分析 ${pair.symbol} (${pair.nameCn})...`);
 
     try {
@@ -307,8 +307,8 @@ async function generateMarketAnalysis() {
   }
 
   console.log(`\n📊 统计:`);
-  console.log(`  ✅ 成功: ${totalGenerated} 个货币对`);
-  console.log(`  ❌ 失败: ${totalFailed} 个货币对`);
+  console.log(`  ✅ 成功: ${totalGenerated} 个数字货币`);
+  console.log(`  ❌ 失败: ${totalFailed} 个数字货币`);
   console.log(`\n✨ 完成！`);
 }
 
