@@ -11,20 +11,37 @@ interface AdminLoginProps {
 export default function AdminLogin({ onAuthenticate }: AdminLoginProps) {
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
+  const [loading, setLoading] = useState(false);
   const { t } = useLanguage();
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setLoading(true);
+    setError('');
 
-    const adminPassword = process.env.NEXT_PUBLIC_ADMIN_PASSWORD || 'Life@1949..';
+    try {
+      // Call server-side API to verify password
+      const response = await fetch('/api/auth/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ password }),
+      });
 
-    if (password === adminPassword) {
-      // Store authentication in localStorage for persistent login
-      localStorage.setItem('dashboard_authenticated', 'true');
-      onAuthenticate();
-    } else {
+      if (response.ok) {
+        // Store authentication in localStorage for persistent login
+        localStorage.setItem('dashboard_authenticated', 'true');
+        onAuthenticate();
+      } else {
+        const data = await response.json();
+        setError(data.error || t('login.error'));
+        setPassword('');
+      }
+    } catch (err) {
+      console.error('[AdminLogin] Error:', err);
       setError(t('login.error'));
       setPassword('');
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -67,9 +84,10 @@ export default function AdminLogin({ onAuthenticate }: AdminLoginProps) {
 
             <button
               type="submit"
-              className="w-full py-3 px-4 bg-black dark:bg-white text-white dark:text-black font-semibold border-2 border-black dark:border-white hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white transition-all"
+              disabled={loading}
+              className="w-full py-3 px-4 bg-black dark:bg-white text-white dark:text-black font-semibold border-2 border-black dark:border-white hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white transition-all disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              {t('login.button')}
+              {loading ? (t('login.loading') || 'Verifying...') : t('login.button')}
             </button>
           </form>
 
