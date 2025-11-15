@@ -18,6 +18,8 @@ export default function LivestreamManager() {
     remark: '',
   });
   const [revalidating, setRevalidating] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [deleting, setDeleting] = useState<number | null>(null);
 
   // Fetch livestreams
   const fetchStreams = async () => {
@@ -42,6 +44,7 @@ export default function LivestreamManager() {
   // Handle create/update
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setSubmitting(true);
 
     try {
       const url = '/api/livestreams';
@@ -62,6 +65,8 @@ export default function LivestreamManager() {
       }
     } catch (error) {
       console.error('Failed to save livestream:', error);
+    } finally {
+      setSubmitting(false);
     }
   };
 
@@ -71,6 +76,7 @@ export default function LivestreamManager() {
       return;
     }
 
+    setDeleting(id);
     try {
       const response = await fetch(`/api/livestreams?id=${id}`, {
         method: 'DELETE',
@@ -83,6 +89,8 @@ export default function LivestreamManager() {
       }
     } catch (error) {
       console.error('Failed to delete livestream:', error);
+    } finally {
+      setDeleting(null);
     }
   };
 
@@ -209,14 +217,18 @@ export default function LivestreamManager() {
             <div className="flex gap-4">
               <button
                 type="submit"
-                className="px-6 py-2 bg-black dark:bg-white text-white dark:text-black font-bold hover:opacity-80"
+                disabled={submitting}
+                className="px-6 py-2 bg-black dark:bg-white text-white dark:text-black font-bold hover:opacity-80 disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                {editingStream ? (language === 'zh' ? '更新' : 'Update') : (language === 'zh' ? '创建' : 'Create')}
+                {submitting
+                  ? (editingStream ? (language === 'zh' ? '更新中...' : 'Updating...') : (language === 'zh' ? '创建中...' : 'Creating...'))
+                  : (editingStream ? (language === 'zh' ? '更新' : 'Update') : (language === 'zh' ? '创建' : 'Create'))}
               </button>
               <button
                 type="button"
                 onClick={resetForm}
-                className="px-6 py-2 border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                disabled={submitting}
+                className="px-6 py-2 border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
               >
                 {language === 'zh' ? '取消' : 'Cancel'}
               </button>
@@ -270,15 +282,19 @@ export default function LivestreamManager() {
                     <td className="px-6 py-4 text-right">
                       <button
                         onClick={() => startEdit(stream)}
-                        className="text-blue-600 dark:text-blue-400 hover:underline mr-4"
+                        disabled={deleting !== null}
+                        className="text-blue-600 dark:text-blue-400 hover:underline mr-4 disabled:opacity-50 disabled:cursor-not-allowed"
                       >
                         {language === 'zh' ? '编辑' : 'Edit'}
                       </button>
                       <button
                         onClick={() => stream.id && handleDelete(stream.id)}
-                        className="text-red-600 dark:text-red-400 hover:underline"
+                        disabled={deleting !== null}
+                        className="text-red-600 dark:text-red-400 hover:underline disabled:opacity-50 disabled:cursor-not-allowed"
                       >
-                        {language === 'zh' ? '删除' : 'Delete'}
+                        {deleting === stream.id
+                          ? (language === 'zh' ? '删除中...' : 'Deleting...')
+                          : (language === 'zh' ? '删除' : 'Delete')}
                       </button>
                     </td>
                   </tr>

@@ -12,6 +12,8 @@ export default function TopTradersManager() {
   const [loading, setLoading] = useState(true);
   const [editingTrader, setEditingTrader] = useState<DbTrader | null>(null);
   const [showForm, setShowForm] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [deleting, setDeleting] = useState<number | null>(null);
 
   const [formData, setFormData] = useState<Omit<DbTrader, 'id' | 'created_at' | 'updated_at'>>({
     rank: 1,
@@ -68,6 +70,7 @@ export default function TopTradersManager() {
   // Handle create/update
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setSubmitting(true);
 
     try {
       const url = '/api/top-traders';
@@ -86,6 +89,8 @@ export default function TopTradersManager() {
       }
     } catch (error) {
       console.error('Failed to save trader:', error);
+    } finally {
+      setSubmitting(false);
     }
   };
 
@@ -95,6 +100,7 @@ export default function TopTradersManager() {
       return;
     }
 
+    setDeleting(id);
     try {
       const response = await fetch(`/api/top-traders?id=${id}`, {
         method: 'DELETE',
@@ -105,6 +111,8 @@ export default function TopTradersManager() {
       }
     } catch (error) {
       console.error('Failed to delete trader:', error);
+    } finally {
+      setDeleting(null);
     }
   };
 
@@ -430,9 +438,12 @@ export default function TopTradersManager() {
             <div className="flex gap-4">
               <button
                 type="submit"
-                className="px-6 py-2 bg-black dark:bg-white text-white dark:text-black font-bold hover:opacity-80"
+                disabled={submitting}
+                className="px-6 py-2 bg-black dark:bg-white text-white dark:text-black font-bold hover:opacity-80 disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                {editingTrader ? (language === 'zh' ? '更新' : 'Update') : (language === 'zh' ? '创建' : 'Create')}
+                {submitting
+                  ? (language === 'zh' ? '提交中...' : 'Submitting...')
+                  : editingTrader ? (language === 'zh' ? '更新' : 'Update') : (language === 'zh' ? '创建' : 'Create')}
               </button>
               <button
                 type="button"
@@ -495,9 +506,12 @@ export default function TopTradersManager() {
                       </button>
                       <button
                         onClick={() => trader.id && handleDelete(trader.id)}
-                        className="text-red-600 dark:text-red-400 hover:underline"
+                        disabled={deleting === trader.id}
+                        className="text-red-600 dark:text-red-400 hover:underline disabled:opacity-50 disabled:cursor-not-allowed"
                       >
-                        {language === 'zh' ? '删除' : 'Delete'}
+                        {deleting === trader.id
+                          ? (language === 'zh' ? '删除中...' : 'Deleting...')
+                          : (language === 'zh' ? '删除' : 'Delete')}
                       </button>
                     </td>
                   </tr>

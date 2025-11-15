@@ -17,6 +17,8 @@ export default function BlogManager() {
   const [editingBlog, setEditingBlog] = useState<BlogPost | null>(null);
   const [showForm, setShowForm] = useState(false);
   const [showAIGenerator, setShowAIGenerator] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [deleting, setDeleting] = useState<number | null>(null);
 
   // Refs for textarea elements to insert templates
   const contentZhRef = useRef<HTMLTextAreaElement>(null);
@@ -246,6 +248,7 @@ export default function BlogManager() {
   // Handle create/update
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setSubmitting(true);
 
     try {
       const url = '/api/blogs';
@@ -265,6 +268,8 @@ export default function BlogManager() {
       }
     } catch (error) {
       console.error('Failed to save blog:', error);
+    } finally {
+      setSubmitting(false);
     }
   };
 
@@ -274,6 +279,7 @@ export default function BlogManager() {
       return;
     }
 
+    setDeleting(id);
     try {
       const response = await fetch(`/api/blogs?id=${id}`, {
         method: 'DELETE',
@@ -285,6 +291,8 @@ export default function BlogManager() {
       }
     } catch (error) {
       console.error('Failed to delete blog:', error);
+    } finally {
+      setDeleting(null);
     }
   };
 
@@ -634,14 +642,18 @@ export default function BlogManager() {
             <div className="flex gap-4">
               <button
                 type="submit"
-                className="px-6 py-2 bg-black dark:bg-white text-white dark:text-black font-bold hover:opacity-80"
+                disabled={submitting}
+                className="px-6 py-2 bg-black dark:bg-white text-white dark:text-black font-bold hover:opacity-80 disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                {editingBlog ? (language === 'zh' ? '更新' : 'Update') : (language === 'zh' ? '创建' : 'Create')}
+                {submitting
+                  ? (editingBlog ? (language === 'zh' ? '更新中...' : 'Updating...') : (language === 'zh' ? '创建中...' : 'Creating...'))
+                  : (editingBlog ? (language === 'zh' ? '更新' : 'Update') : (language === 'zh' ? '创建' : 'Create'))}
               </button>
               <button
                 type="button"
                 onClick={resetForm}
-                className="px-6 py-2 border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                disabled={submitting}
+                className="px-6 py-2 border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
               >
                 {language === 'zh' ? '取消' : 'Cancel'}
               </button>
@@ -710,15 +722,19 @@ export default function BlogManager() {
                     <td className="px-6 py-4 text-right">
                       <button
                         onClick={() => startEdit(blog)}
-                        className="text-blue-600 dark:text-blue-400 hover:underline mr-4"
+                        disabled={deleting !== null}
+                        className="text-blue-600 dark:text-blue-400 hover:underline mr-4 disabled:opacity-50 disabled:cursor-not-allowed"
                       >
                         {language === 'zh' ? '编辑' : 'Edit'}
                       </button>
                       <button
                         onClick={() => blog.id && handleDelete(blog.id)}
-                        className="text-red-600 dark:text-red-400 hover:underline"
+                        disabled={deleting !== null}
+                        className="text-red-600 dark:text-red-400 hover:underline disabled:opacity-50 disabled:cursor-not-allowed"
                       >
-                        {language === 'zh' ? '删除' : 'Delete'}
+                        {deleting === blog.id
+                          ? (language === 'zh' ? '删除中...' : 'Deleting...')
+                          : (language === 'zh' ? '删除' : 'Delete')}
                       </button>
                     </td>
                   </tr>
