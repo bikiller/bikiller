@@ -77,6 +77,9 @@ export default function TopTradersManager() {
       const method = editingTrader ? 'PUT' : 'POST';
       const body = editingTrader ? { ...formData, id: editingTrader.id } : formData;
 
+      console.log('[TopTradersManager] Method:', method);
+      console.log('[TopTradersManager] editingTrader:', editingTrader);
+      console.log('[TopTradersManager] editingTrader.id:', editingTrader?.id);
       console.log('[TopTradersManager] Submitting:', method, body);
 
       const response = await fetch(url, {
@@ -160,6 +163,9 @@ export default function TopTradersManager() {
   };
 
   const startEdit = (trader: DbTrader) => {
+    console.log('[TopTradersManager] Starting edit for trader:', trader);
+    console.log('[TopTradersManager] Trader ID:', trader.id);
+
     setFormData({
       rank: trader.rank,
       trader_id: trader.trader_id,
