@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-15T21:30:44.785Z",
+  "price": {
+    "close": "95426.47",
+    "high": "95615.71",
+    "low": "95103",
+    "open": "95211.36",
+    "change": "0.23",
+    "datetime": "2025-11-15 21:00:00"
+  },
+  "indicators": {
+    "rsi": 41.96648,
+    "macd": -239.68486,
+    "macd_signal": -258.93369,
+    "sma20": 95984.123
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币/美元(BTC/USD)的走势表现出一定的震荡整理特征。最新价格为95426.47，虽然24小时变化仅为0.23%，但市场的高点和低点分别为95615.71和95103，显示出短期内买卖双方的博弈仍在持续。若价格突破95615.71，可能会引发进一步的上涨动能。\n\n从技术指标来看，MACD值为-239.68486，表明市场仍处于弱势，短期内缺乏强烈的上涨信号。RSI(14)未提供具体数值，但若处于30以下，则可能表示超卖，反之则为超买。SMA(20)的值为95984.12300，显示出当前价格相对均线偏低，可能成为短期的阻力位。\n\n在支撑和阻力位方面，95103可视为重要支撑位，一旦跌破，可能会引发更大幅度的调整。相反，95615.71则是关键的阻力位，突破后有望重新测试96000大关。投资者需谨慎关注这些价位，以制定相应的交易策略。\n\n综合来看，建议投资者在当前市场震荡整理的情况下，保持观望态度，待价格突破关键支撑或阻力位后再做进一步决策。同时，风险管理不可忽视，确保合理控制仓位，以应对市场的潜在波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at 95,426.47, reflecting a modest 24-hour change of 0.23%. This slight movement indicates a period of consolidation after recent volatility, with the price oscillating between a high of 95,615.71 and a low of 95,103. Given this tight range, it appears that Bitcoin is currently experiencing indecision, which traders may want to monitor closely for a potential breakout.\n\nIn terms of trend analysis, the SMA(20) at 95,984.12 suggests that short-term momentum is still leaning towards a bearish sentiment as the price is trading below this moving average. This situation warrants caution, as further declines may occur if the momentum does not shift. The absence of a clear upward trend coupled with the current MACD reading of -239.68 reinforces the bearish outlook, indicating that selling pressure has been prevalent in the market.\n\nKey support levels are identified around the recent low of 95,103, which may provide a safety net for buyers. Conversely, resistance is evident at the SMA(20) level, around 95,984, which traders may find challenging to surpass without a significant influx of buying pressure. A decisive break above this resistance could signal a potential recovery phase, while a drop below support could open the door for further declines.\n\nTraders should consider adopting a cautious approach. A breakout above the SMA(20) could offer a buying opportunity, while a failure to hold the support level may necessitate short positions. Monitoring RSI and additional indicators as they become available will provide further insights into market sentiment and potential price movements, enabling informed trading decisions in this dynamic environment."
+    }
+  }
+}
