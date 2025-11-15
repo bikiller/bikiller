@@ -90,9 +90,8 @@ export default function BlogAIGenerator({ onGenerated, onClose }: BlogAIGenerato
                 setProgress(Math.min(90, (fullContent.length / estimatedTotal) * 100));
               } else if (data.type === 'complete') {
                 setProgress(100);
+                // Let parent component handle both data and closing
                 onGenerated({ ...data.data, author: 'BI Killer Team' });
-                // Don't close immediately, let the parent component handle it
-                setTimeout(() => onClose(), 100);
               } else if (data.type === 'error') {
                 throw new Error(data.data);
               }

@@ -207,10 +207,7 @@ export default function BlogManager() {
     remark_en: string;
     author: string;
   }) => {
-    // Close AI generator first
-    setShowAIGenerator(false);
-
-    // Then set form data and show form
+    // Update form data
     setFormData({
       ...formData,
       title: data.title,
@@ -224,10 +221,9 @@ export default function BlogManager() {
       author: data.author || 'BI Killer Team',
     });
 
-    // Make sure form is shown after a short delay
-    setTimeout(() => {
-      setShowForm(true);
-    }, 50);
+    // Close AI generator and show form
+    setShowAIGenerator(false);
+    setShowForm(true);
   };
 
   useEffect(() => {
