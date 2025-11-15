@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-15T12:59:52.825Z",
+  "price": {
+    "close": "95715.5",
+    "high": "95811.41",
+    "low": "95503.74",
+    "open": "95627.99",
+    "change": "0.09",
+    "datetime": "2025-11-15 12:00:00"
+  },
+  "indicators": {
+    "rsi": 44.521,
+    "macd": -392.92293,
+    "macd_signal": -543.61628,
+    "sma20": 95610.3905
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理趋势]",
+      "content": "当前比特币/美元(BTC/USD)的价格在95715.5附近，表现出震荡整理的趋势。过去24小时内价格变动较小，仅上涨0.09%。高点和低点的区间较为狭窄，表明市场参与者的观望情绪较浓，短期内可能缺乏方向性突破。\n\n从技术指标来看，当前RSI值尚未提供，无法判断超买或超卖状态。MACD指标为-392.92293，显示出市场可能处于下行压力中，但尚未形成明显的卖出信号。SMA(20)在95610.39附近，价格在其上方运行，表明短期内仍有一定的支撑。\n\n从支撑和阻力位来看，当前支撑位在95503.74，若跌破该水平可能会引发进一步下行。而阻力位则在95811.41，突破该位置可能会引发短期的反弹。综合考虑，建议在操作上采取观望策略，耐心等待更明确的趋势信号再做决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at 95,715.5, reflecting a slight 24-hour change of 0.09%. This stability suggests a period of consolidation after recent volatility. The price is hovering near the 20-day simple moving average (SMA) of 95,610.39, indicating that the market sentiment is neutral. A sustained hold above this SMA could signal potential bullish momentum, while a drop below may prompt a reassessment of market strength. \n\nThe absence of a clear Relative Strength Index (RSI) reading limits our ability to gauge overbought or oversold conditions. However, the MACD is currently negative at -392.92293, highlighting a bearish trend. Traders should monitor the MACD closely for signs of a crossover that could indicate a shift in momentum. A rising MACD could provide a bullish signal, while a continued decline may validate a bearish outlook.\n\nKey support levels are identified at 95,503.74, which is the recent low, while resistance is seen near 95,811.41. If Bitcoin can break above the resistance level, it may test higher price points, potentially leading to a rally towards the psychological level of 100,000. Conversely, if the price falls below support, it may trigger further selling pressure, with the next key support levels to watch being in the range of 94,500 to 94,000.\n\nGiven the current market dynamics, traders may consider a cautious approach. A buy position could be justified if the price breaks above resistance with strong volume, while a sell position may be warranted should the price breach support. Additionally, employing stop-loss orders around critical support levels can help mitigate risks in this uncertain environment."
+    }
+  }
+}
