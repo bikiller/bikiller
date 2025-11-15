@@ -2,6 +2,7 @@ import { createClient } from '@supabase/supabase-js';
 
 const supabaseUrl = process.env.SUPABASE_URL || process.env.NEXT_PUBLIC_SUPABASE_URL || '';
 const supabaseKey = process.env.SUPABASE_KEY || process.env.NEXT_PUBLIC_SUPABASE_KEY || '';
+const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY || '';
 
 if (!supabaseUrl) {
   console.warn('SUPABASE_URL is not defined in environment variables');
@@ -11,7 +12,18 @@ if (!supabaseKey) {
   console.warn('SUPABASE_KEY is not defined in environment variables');
 }
 
+// Regular client with RLS
 export const supabase = createClient(supabaseUrl, supabaseKey);
+
+// Admin client that bypasses RLS (use only in server-side API routes)
+export const supabaseAdmin = supabaseServiceKey
+  ? createClient(supabaseUrl, supabaseServiceKey, {
+      auth: {
+        autoRefreshToken: false,
+        persistSession: false
+      }
+    })
+  : supabase; // Fallback to regular client if service key not available
 
 // Type definitions for database tables
 export interface LiveStream {

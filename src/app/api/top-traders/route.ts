@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { supabase } from '@/lib/supabase';
+import { supabaseAdmin } from '@/lib/supabase';
 import type { TopTrader } from '@/lib/supabase';
 
 export const dynamic = 'force-dynamic';
@@ -22,7 +22,7 @@ export async function GET(request: Request) {
     }
 
     console.log('[TopTraders API] Fetching from database');
-    const { data, error } = await supabase
+    const { data, error } = await supabaseAdmin
       .from('TopTraders')
       .select('*')
       .order('rank', { ascending: true });
@@ -53,7 +53,7 @@ export async function POST(request: Request) {
 
     console.log('[TopTraders API] Creating trader:', body);
 
-    const { data, error } = await supabase
+    const { data, error } = await supabaseAdmin
       .from('TopTraders')
       .insert([body])
       .select();
@@ -96,7 +96,7 @@ export async function PUT(request: Request) {
 
     console.log('[TopTraders API] Updating trader:', id, updateData);
 
-    const { data, error } = await supabase
+    const { data, error } = await supabaseAdmin
       .from('TopTraders')
       .update(updateData)
       .eq('id', id)
@@ -141,7 +141,7 @@ export async function DELETE(request: Request) {
     console.log('[TopTraders API] Deleting trader with id:', id, 'type:', typeof id);
 
     // First, check if the trader exists
-    const { data: existingTrader, error: checkError } = await supabase
+    const { data: existingTrader, error: checkError } = await supabaseAdmin
       .from('TopTraders')
       .select('*')
       .eq('id', parseInt(id));
@@ -159,7 +159,7 @@ export async function DELETE(request: Request) {
     }
 
     // Now delete
-    const { data, error } = await supabase
+    const { data, error } = await supabaseAdmin
       .from('TopTraders')
       .delete()
       .eq('id', parseInt(id))
