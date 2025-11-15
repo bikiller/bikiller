@@ -17,6 +17,7 @@ export default function LivestreamManager() {
     live_url: '',
     remark: '',
   });
+  const [revalidating, setRevalidating] = useState(false);
 
   // Fetch livestreams
   const fetchStreams = async () => {
@@ -56,6 +57,8 @@ export default function LivestreamManager() {
       if (response.ok) {
         await fetchStreams();
         resetForm();
+        // Auto clear cache after successful save
+        handleClearCache();
       }
     } catch (error) {
       console.error('Failed to save livestream:', error);
@@ -75,6 +78,8 @@ export default function LivestreamManager() {
 
       if (response.ok) {
         await fetchStreams();
+        // Auto clear cache after successful delete
+        handleClearCache();
       }
     } catch (error) {
       console.error('Failed to delete livestream:', error);
@@ -93,18 +98,54 @@ export default function LivestreamManager() {
     setShowForm(true);
   };
 
+  // Handle cache clear
+  const handleClearCache = async () => {
+    setRevalidating(true);
+    try {
+      const secret = process.env.NEXT_PUBLIC_REVALIDATE_SECRET || 'dev_secret_change_in_production';
+
+      // Clear cache for all locale versions of live-trading page
+      const paths = ['/zh/live-trading', '/en/live-trading'];
+
+      for (const path of paths) {
+        const response = await fetch(`/api/revalidate?path=${encodeURIComponent(path)}&secret=${secret}`);
+        if (!response.ok) {
+          console.error(`Failed to revalidate ${path}`);
+        }
+      }
+
+      alert(language === 'zh' ? '缓存已清除！前端页面将在下次访问时更新。' : 'Cache cleared! Frontend page will update on next visit.');
+    } catch (error) {
+      console.error('Failed to clear cache:', error);
+      alert(language === 'zh' ? '清除缓存失败' : 'Failed to clear cache');
+    } finally {
+      setRevalidating(false);
+    }
+  };
+
   return (
     <div className="p-8">
       <div className="mb-6 flex justify-between items-center">
         <h1 className="text-3xl font-black text-black dark:text-white">
           {language === 'zh' ? '实时直播管理' : 'Livestream Management'}
         </h1>
-        <button
-          onClick={() => setShowForm(!showForm)}
-          className="px-6 py-3 bg-black dark:bg-white text-white dark:text-black font-bold hover:opacity-80 transition-opacity"
-        >
-          {showForm ? (language === 'zh' ? '取消' : 'Cancel') : (language === 'zh' ? '添加新直播' : 'Add New Stream')}
-        </button>
+        <div className="flex gap-3">
+          <button
+            onClick={handleClearCache}
+            disabled={revalidating}
+            className="px-6 py-3 bg-blue-600 dark:bg-blue-500 text-white font-bold hover:opacity-80 transition-opacity disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            {revalidating
+              ? (language === 'zh' ? '清除中...' : 'Clearing...')
+              : (language === 'zh' ? '清除缓存' : 'Clear Cache')}
+          </button>
+          <button
+            onClick={() => setShowForm(!showForm)}
+            className="px-6 py-3 bg-black dark:bg-white text-white dark:text-black font-bold hover:opacity-80 transition-opacity"
+          >
+            {showForm ? (language === 'zh' ? '取消' : 'Cancel') : (language === 'zh' ? '添加新直播' : 'Add New Stream')}
+          </button>
+        </div>
       </div>
 
       {showForm && (

@@ -47,6 +47,19 @@ export default function MarketAnalysisClient({ analyses, language }: MarketAnaly
 
   const getSlug = (symbol: string) => symbol.toLowerCase().replace(/\//g, '');
 
+  // 根据价格大小动态确定小数位数
+  const getPriceDecimals = (price: number, symbol: string) => {
+    if (symbol.includes('BTC')) return 2;      // BTC: 95,000+ -> 2位小数
+    if (symbol.includes('ETH')) return 2;      // ETH: 3,000+ -> 2位小数
+    if (symbol.includes('BNB')) return 2;      // BNB: 600+ -> 2位小数
+    if (symbol.includes('SOL')) return 2;      // SOL: 200+ -> 2位小数
+    if (symbol.includes('AVAX')) return 2;     // AVAX: 35+ -> 2位小数
+    if (symbol.includes('XRP')) return 4;      // XRP: ~2 -> 4位小数
+    if (symbol.includes('ADA')) return 4;      // ADA: ~0.7 -> 4位小数
+    if (symbol.includes('DOGE')) return 5;     // DOGE: ~0.16 -> 5位小数
+    return 4; // 默认4位小数
+  };
+
   const getRSIStatus = (rsi?: number) => {
     if (!rsi) return { text: 'N/A', color: 'text-gray-500' };
     if (rsi >= 70) return { text: isZh ? '超买' : 'Overbought', color: 'text-red-500' };
@@ -148,9 +161,7 @@ export default function MarketAnalysisClient({ analyses, language }: MarketAnaly
                         <div className="text-3xl font-bold text-gray-900 dark:text-white mb-1">
                           ${parseFloat(analysis.price.close).toLocaleString(undefined, {
                             minimumFractionDigits: 2,
-                            maximumFractionDigits: analysis.symbol.includes('BTC') ? 2 :
-                                                   analysis.symbol.includes('ETH') || analysis.symbol.includes('BNB') || analysis.symbol.includes('SOL') ? 2 :
-                                                   analysis.symbol.includes('AVAX') ? 2 : 4
+                            maximumFractionDigits: getPriceDecimals(parseFloat(analysis.price.close), analysis.symbol)
                           })}
                         </div>
                         <div className={`flex items-center gap-1 text-sm font-semibold ${
