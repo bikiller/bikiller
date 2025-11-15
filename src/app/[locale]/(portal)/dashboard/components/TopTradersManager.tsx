@@ -77,18 +77,27 @@ export default function TopTradersManager() {
       const method = editingTrader ? 'PUT' : 'POST';
       const body = editingTrader ? { ...formData, id: editingTrader.id } : formData;
 
+      console.log('[TopTradersManager] Submitting:', method, body);
+
       const response = await fetch(url, {
         method,
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(body),
       });
 
+      const result = await response.json();
+      console.log('[TopTradersManager] Response:', response.status, result);
+
       if (response.ok) {
         await fetchTraders();
         resetForm();
+        alert(language === 'zh' ? '保存成功！' : 'Saved successfully!');
+      } else {
+        alert(language === 'zh' ? `保存失败：${result.error || '未知错误'}` : `Failed to save: ${result.error || 'Unknown error'}`);
       }
     } catch (error) {
       console.error('Failed to save trader:', error);
+      alert(language === 'zh' ? `保存失败：${error}` : `Failed to save: ${error}`);
     } finally {
       setSubmitting(false);
     }
@@ -102,15 +111,24 @@ export default function TopTradersManager() {
 
     setDeleting(id);
     try {
+      console.log('[TopTradersManager] Deleting trader:', id);
+
       const response = await fetch(`/api/top-traders?id=${id}`, {
         method: 'DELETE',
       });
 
+      const result = await response.json();
+      console.log('[TopTradersManager] Delete response:', response.status, result);
+
       if (response.ok) {
         await fetchTraders();
+        alert(language === 'zh' ? '删除成功！' : 'Deleted successfully!');
+      } else {
+        alert(language === 'zh' ? `删除失败：${result.error || '未知错误'}` : `Failed to delete: ${result.error || 'Unknown error'}`);
       }
     } catch (error) {
       console.error('Failed to delete trader:', error);
+      alert(language === 'zh' ? `删除失败：${error}` : `Failed to delete: ${error}`);
     } finally {
       setDeleting(null);
     }
