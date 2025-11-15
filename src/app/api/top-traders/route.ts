@@ -51,22 +51,30 @@ export async function POST(request: Request) {
   try {
     const body = await request.json();
 
+    console.log('[TopTraders API] Creating trader:', body);
+
     const { data, error } = await supabase
       .from('TopTraders')
       .insert([body])
-      .select()
-      .single();
+      .select();
 
     if (error) {
       console.error('[TopTraders API] Insert error:', error);
       return NextResponse.json({ error: error.message }, { status: 500 });
     }
 
+    if (!data || data.length === 0) {
+      console.error('[TopTraders API] No data returned after insert');
+      return NextResponse.json({ error: 'Failed to create trader' }, { status: 500 });
+    }
+
+    console.log('[TopTraders API] Created successfully:', data[0]);
+
     // Clear cache
     cachedTraders = null;
     cacheTimestamp = null;
 
-    return NextResponse.json(data);
+    return NextResponse.json(data[0]);
   } catch (error) {
     console.error('[TopTraders API] Error:', error);
     return NextResponse.json(
@@ -86,23 +94,31 @@ export async function PUT(request: Request) {
       return NextResponse.json({ error: 'ID is required' }, { status: 400 });
     }
 
+    console.log('[TopTraders API] Updating trader:', id, updateData);
+
     const { data, error } = await supabase
       .from('TopTraders')
       .update(updateData)
       .eq('id', id)
-      .select()
-      .single();
+      .select();
 
     if (error) {
       console.error('[TopTraders API] Update error:', error);
       return NextResponse.json({ error: error.message }, { status: 500 });
     }
 
+    if (!data || data.length === 0) {
+      console.error('[TopTraders API] No rows updated for id:', id);
+      return NextResponse.json({ error: 'Trader not found' }, { status: 404 });
+    }
+
+    console.log('[TopTraders API] Updated successfully:', data[0]);
+
     // Clear cache
     cachedTraders = null;
     cacheTimestamp = null;
 
-    return NextResponse.json(data);
+    return NextResponse.json(data[0]);
   } catch (error) {
     console.error('[TopTraders API] Error:', error);
     return NextResponse.json(
@@ -122,21 +138,31 @@ export async function DELETE(request: Request) {
       return NextResponse.json({ error: 'ID is required' }, { status: 400 });
     }
 
-    const { error } = await supabase
+    console.log('[TopTraders API] Deleting trader with id:', id);
+
+    const { data, error } = await supabase
       .from('TopTraders')
       .delete()
-      .eq('id', parseInt(id));
+      .eq('id', parseInt(id))
+      .select();
 
     if (error) {
       console.error('[TopTraders API] Delete error:', error);
       return NextResponse.json({ error: error.message }, { status: 500 });
     }
 
+    if (!data || data.length === 0) {
+      console.error('[TopTraders API] No rows deleted for id:', id);
+      return NextResponse.json({ error: 'Trader not found' }, { status: 404 });
+    }
+
+    console.log('[TopTraders API] Deleted successfully:', data[0]);
+
     // Clear cache
     cachedTraders = null;
     cacheTimestamp = null;
 
-    return NextResponse.json({ success: true });
+    return NextResponse.json({ success: true, deleted: data[0] });
   } catch (error) {
     console.error('[TopTraders API] Error:', error);
     return NextResponse.json(

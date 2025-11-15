@@ -201,7 +201,10 @@ export default function TopTradersManager() {
             {language === 'zh' ? '清除缓存' : 'Clear Cache'}
           </button>
           <button
-            onClick={() => setShowForm(!showForm)}
+            onClick={() => {
+              resetForm(); // Clear form first
+              setShowForm(!showForm);
+            }}
             className="px-6 py-3 bg-black dark:bg-white text-white dark:text-black font-bold hover:opacity-80 transition-opacity"
           >
             {showForm ? (language === 'zh' ? '取消' : 'Cancel') : (language === 'zh' ? '添加交易员' : 'Add Trader')}
