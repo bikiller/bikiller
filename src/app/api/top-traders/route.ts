@@ -138,8 +138,27 @@ export async function DELETE(request: Request) {
       return NextResponse.json({ error: 'ID is required' }, { status: 400 });
     }
 
-    console.log('[TopTraders API] Deleting trader with id:', id);
+    console.log('[TopTraders API] Deleting trader with id:', id, 'type:', typeof id);
 
+    // First, check if the trader exists
+    const { data: existingTrader, error: checkError } = await supabase
+      .from('TopTraders')
+      .select('*')
+      .eq('id', parseInt(id));
+
+    console.log('[TopTraders API] Check query result:', existingTrader, 'error:', checkError);
+
+    if (checkError) {
+      console.error('[TopTraders API] Check error:', checkError);
+      return NextResponse.json({ error: checkError.message }, { status: 500 });
+    }
+
+    if (!existingTrader || existingTrader.length === 0) {
+      console.error('[TopTraders API] Trader not found in database, id:', id);
+      return NextResponse.json({ error: 'Trader not found in database' }, { status: 404 });
+    }
+
+    // Now delete
     const { data, error } = await supabase
       .from('TopTraders')
       .delete()
@@ -153,7 +172,7 @@ export async function DELETE(request: Request) {
 
     if (!data || data.length === 0) {
       console.error('[TopTraders API] No rows deleted for id:', id);
-      return NextResponse.json({ error: 'Trader not found' }, { status: 404 });
+      return NextResponse.json({ error: 'Failed to delete trader' }, { status: 500 });
     }
 
     console.log('[TopTraders API] Deleted successfully:', data[0]);
