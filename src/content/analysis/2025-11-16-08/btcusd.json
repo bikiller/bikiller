@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-16T08:48:37.659Z",
+  "price": {
+    "close": "95978.4",
+    "high": "96141.99",
+    "low": "95780.08",
+    "open": "96018.09",
+    "change": "-0.04",
+    "datetime": "2025-11-16 08:00:00"
+  },
+  "indicators": {
+    "rsi": 51.61783,
+    "macd": -83.31811,
+    "macd_signal": -166.73453,
+    "sma20": 95794.9645
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡趋势]",
+      "content": "当前比特币/美元(BTC/USD)的价格为95978.4，表现出轻微的震荡趋势。过去24小时内价格变化仅为-0.04%，显示出市场缺乏强烈的方向性。高点96141.99和低点95780.08的区间表明短期内买卖双方势均力敌，市场情绪较为谨慎。\n\n从技术指标来看，MACD为负值(-83.31811)，这可能暗示短期内市场依然承压。虽然无法获得RSI(14)的具体数值，但通常情况下，RSI低于30被视为超卖，超出70则为超买。结合当前价格走势，市场可能处于一种盘整状态，投资者需保持关注。\n\n支撑位方面，当前的关键支撑区间在95780附近，若价格跌破此位，则可能引发更大幅度的回调。阻力位则在96140附近，若突破该水平，可能会引发买盘的进一步介入。\n\n鉴于当前市场的震荡特征，建议投资者采取谨慎的态度，关注支撑和阻力位的突破情况。在未出现明显的趋势信号之前，可以考虑短期内的横盘交易策略，避免过早进场。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market for Bitcoin against the US Dollar shows a slight bearish sentiment, with the latest price at 95,978.4 and a minimal 24-hour change of -0.04%. The price has fluctuated between a high of 96,141.99 and a low of 95,780.08, indicating a relatively tight trading range. This consolidation phase suggests that traders are uncertain about the next significant move. A sustained break below the 95,780 level could signal further downside pressure, while a rally above 96,141 may initiate a bullish reversal.\n\nIn terms of technical indicators, the Simple Moving Average (SMA) of 20 periods is currently at 95,794.96, acting as a potential support level. If the price sustains above this SMA, it could indicate a bullish continuation. Conversely, the MACD is currently negative at -83.31811, which reinforces the bearish sentiment, suggesting that momentum is favoring sellers. Traders should monitor for potential divergence in MACD as it may indicate a shift in momentum.\n\nKey support levels to watch are the recent low of 95,780, which, if breached, could open the door to further declines toward the next significant support around 95,000. On the resistance side, the 96,141.99 high will be critical; a breakout above this level could provide a clearer path toward higher targets, possibly retesting 97,000. \n\nFor trading strategies, cautious investors may consider waiting for confirmation of a breakout above resistance or a bounce off support before taking positions. A stop-loss just below the SMA or key support can help manage risk. In a volatile market like Bitcoin, maintaining a disciplined approach is essential to navigating potential fluctuations effectively."
+    }
+  }
+}
