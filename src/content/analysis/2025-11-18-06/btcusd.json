@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-18T06:59:21.401Z",
+  "price": {
+    "close": "89488.22",
+    "high": "90118.5",
+    "low": "89247.87",
+    "open": "90109.74",
+    "change": "-0.69",
+    "datetime": "2025-11-18 06:00:00"
+  },
+  "indicators": {
+    "rsi": 22.20662,
+    "macd": -1225.85218,
+    "macd_signal": -982.6258,
+    "sma20": 92329.9145
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡，关注支撑位]",
+      "content": "当前比特币在89488.22美元附近交易，呈现出短期震荡的趋势。24小时内价格微幅下跌0.69%，显示出市场动能不足。在高点90118.5美元和低点89247.87美元之间的波动表明，投资者对当前价格水平的分歧可能导致价格在短期内保持区间震荡。\n\n从技术指标来看，MACD目前为负值-1225.85218，表明卖方力量仍然占优，短期内反弹的可能性较小。虽然RSI指标数据缺失，但一般来说，若RSI接近30则可能出现超卖信号，而接近70则可能出现超买信号。因此，投资者需密切关注未来RSI的变化，以判断市场情绪。\n\n支撑位方面，89247.87美元是关键的短期支撑位，若跌破该水平，可能会引发进一步的下行压力，目标可能指向86000美元附近。而在上方，90118.5美元则是重要的阻力位，突破该水平或将吸引更多买盘。因此，交易者需要密切关注这两个关键价位的突破情况。\n\n综合来看，建议投资者在当前市场保持谨慎，关注支撑位的表现。若价格反弹至90118.5美元，可考虑适度减仓；若跌破89247.87美元，则可寻求适时入场的机会，捕捉后续的反弹潜力。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin at $89,488.22 indicates a slight downward trend over the past 24 hours, with a change of -0.69%. This negative movement could suggest a loss of bullish momentum after the recent highs of $90,118.5. Traders should be cautious, as sustained selling pressure could lead to further declines. The recent high and low create a potential range that could serve as a guide for short-term price movements.\n\nIn terms of technical indicators, the absence of a current RSI value makes it challenging to assess overbought or oversold conditions. However, the MACD reading of -1,225.85218 indicates bearish momentum, suggesting that sellers are currently in control. The SMA(20) at $92,329.91 further reinforces the bearish sentiment, as the price is significantly below this moving average, indicating a weak short-term trend. Traders should watch for potential reversals as the price approaches this moving average.\n\nKey support levels to watch include the recent low of $89,247.87, which, if broken, could signal further declines towards deeper support areas. On the resistance side, the recent high of $90,118.5 will likely serve as a significant barrier to upward movement. A break above this level could indicate a return to bullish sentiment and possibly trigger a rally back towards the SMA and beyond.\n\nFor trading strategies, short-term traders might consider short positions if the price breaks below the support level, targeting lower levels with appropriate stop-loss orders to manage risk. Conversely, if the price manages to reclaim the resistance level, a cautious long position may be warranted, especially if accompanied by a bullish signal from the MACD or RSI indicators. Overall, maintaining a disciplined approach and closely monitoring market developments is crucial in the current environment."
+    }
+  }
+}
