@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-19T18:55:58.159Z",
+  "price": {
+    "close": "88897.11",
+    "high": "89636.58",
+    "low": "88650.28",
+    "open": "89422.1",
+    "change": "-0.59",
+    "datetime": "2025-11-19 18:00:00"
+  },
+  "indicators": {
+    "rsi": 30.42582,
+    "macd": -644.79649,
+    "macd_signal": -400.29125,
+    "sma20": 91221.7765
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡趋势]",
+      "content": "当前比特币价格为88897.11美元，24小时内小幅下跌0.59%。从高点89636.58美元和低点88650.28美元来看，市场正处于短期震荡状态。整体趋势偏向于整理，投资者需关注突破方向以寻找进一步的交易机会。\n\n从技术指标来看，MACD值为-644.79649，显示出市场的疲软信号，尽管RSI数据缺失，但可以推测市场可能仍处于超卖区域。20日简单移动平均线(SMA)为91221.77650，价格远低于该水平，说明短期内卖压较重，反弹力度仍需观察。\n\n支撑位方面，88650.28美元是近期低点，若跌破该水平，可能会引发进一步的卖盘，测试更低的支撑位。而89636.58美元的高点则构成了初步的阻力位，若价格企稳并突破该水平，则可能迎来反弹。\n\n建议投资者在当前区间内保持谨慎，若价格突破89636.58美元可考虑短线做多，反之若跌破88650.28美元则需考虑做空策略。同时，保持对市场情绪的敏感，以便及时调整交易计划。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently facing a slight downtrend, trading at $88,897.11 after a 24-hour change of -0.59%. The recent high of $89,636.58 and low of $88,650.28 indicate a narrow trading range, suggesting potential consolidation. The price has failed to maintain momentum above key resistance levels, specifically the SMA(20) at $91,221.77, which further emphasizes the bearish sentiment in the short term. \n\nThe MACD reading of -644.80 suggests a weakening momentum, indicating that sellers have started to gain control. Without a significant bullish crossover, the market may remain under pressure unless it can reclaim the SMA(20). The RSI is not available, but generally, a reading below 30 would indicate oversold conditions, while above 70 indicates overbought. Investors should keep an eye on these indicators for potential reversals.\n\nSupport levels are currently identified around the recent low of $88,650.28 and further down at $88,000, which could serve as critical points for buyers to step in. Conversely, resistance is evident at the $89,000 mark, and a decisive break above $91,000 could signal a shift in market sentiment. Traders should watch these levels closely to gauge whether Bitcoin can establish a new trend.\n\nIn terms of trading strategy, it may be prudent to adopt a cautious approach. Consider placing buy orders near support levels with tight stop-loss orders to manage risk. Alternatively, if the price rallies above the SMA(20), traders could look for short-term buy opportunities, as this might suggest a potential recovery. Overall, maintaining vigilance around key levels and indicators will be essential for navigating the current market conditions."
+    }
+  }
+}
