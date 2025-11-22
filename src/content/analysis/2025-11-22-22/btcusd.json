@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-22T22:47:53.518Z",
+  "price": {
+    "close": "84703.53",
+    "high": "84742",
+    "low": "84217.87",
+    "open": "84358.15",
+    "change": "0.41",
+    "datetime": "2025-11-22 22:00:00"
+  },
+  "indicators": {
+    "rsi": 52.20318,
+    "macd": -80.85148,
+    "macd_signal": -190.87451,
+    "sma20": 84276.3975
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前横盘整理状态]",
+      "content": "近期比特币/美元的价格走势显示出一定的横盘整理特征。当前价格为84703.53美元，较24小时前仅上涨0.41%。在高点84742美元与低点84217.87美元之间的波动，说明市场暂时缺乏明确的方向性，投资者情绪较为谨慎。\n\n从技术指标来看，RSI未提供数据，但当前MACD值为-80.85148，表明目前市场可能处于弱势状态。此外，20日简单移动平均线(SMA)在84276.40美元附近，为价格提供了短期支撑。若价格能够突破这一水平，可能会引发买盘回升。\n\n在支撑与阻力方面，当前支撑位位于84200美元附近，而阻力位则在84750美元附近。若价格突破84750美元，可能会引发更强的上涨动能；反之，跌破84200美元则可能加剧下行压力。因此，投资者需密切关注这两个关键价位的变动。\n\n建议短期内保持观望，等待价格突破关键支撑或阻力位后再做决策。如果价格成功突破84750美元，可以考虑适度进场做多；若跌破84200美元，则应考虑止损或做空策略，以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at 84,703.53, reflecting a modest 0.41% increase over the past 24 hours. The price action has been contained within a range defined by a high of 84,742 and a low of 84,217. This narrow range suggests a period of consolidation, indicating that traders may be awaiting a catalyst to drive the market in either direction. A breakout above the recent high could signal a bullish trend, while a drop below the low may prompt a bearish sentiment.\n\nThe technical indicators paint a mixed picture. The MACD is currently negative at -80.85148, suggesting bearish momentum, but without a signal line for comparison, it’s difficult to assess the strength of this trend. The absence of an RSI reading makes it challenging to determine whether Bitcoin is overbought or oversold. However, the SMA(20) at 84,276 indicates that the price is above this average, which could serve as a potential support level. Traders should monitor these indicators closely for signs of a reversal or confirmation of the current trend.\n\nSupport levels are seen around the 84,217 mark, where buyers may step in to prevent further declines. Should this level hold, the next resistance to watch is at 84,742, aligning with the recent high. A decisive move past this resistance could open the door to further upside, potentially targeting the psychological level of 85,000. Conversely, if the support breaks, traders should be prepared for a move towards lower support levels, such as 83,000.\n\nIn terms of trading strategy, a cautious approach is warranted. Traders might consider buying on a breakout above 84,742 with a stop-loss below 84,217 to manage risk. Alternatively, a short position could be considered if the price breaks below the support level, targeting a move towards 83,000. Maintaining flexibility and adhering to risk management strategies will be crucial in navigating the current market conditions."
+    }
+  }
+}
