@@ -2,6 +2,7 @@
   "symbol": "BTC/USD",
   "name": "Bitcoin vs US Dollar",
   "nameCn": "比特币/美元",
+<<<<<<< Updated upstream
   "timestamp": "2025-11-25T13:48:22.560Z",
   "price": {
     "close": "86925",
@@ -25,6 +26,31 @@
     "en": {
       "title": "Bitcoin vs US Dollar Technical Analysis",
       "content": "The current market data for BTC/USD indicates a slight downtrend, as the price has decreased by 0.63% over the past 24 hours. The price is currently positioned at 86,925, having peaked at 87,701 within the same period. This suggests that the market is experiencing selling pressure, which could be a reaction to profit-taking or broader market sentiments. A further decline could lead to a test of lower support levels, particularly around the 85,000 mark, which serves as a psychological barrier.\n\nIn terms of technical indicators, the absence of an RSI reading limits our ability to assess overbought or oversold conditions. However, the MACD value of -9.70969 indicates bearish momentum, suggesting that sellers are in control at this stage. The Simple Moving Average (SMA) of 20 days at 87,910 highlights a potential resistance level. If the price cannot break above this SMA, we may see continued downward pressure, reinforcing the existing bearish trend.\n\nTraders should closely monitor key support levels, particularly around 85,000 and further down at 83,500. If the price manages to hold above these levels, it may present a buying opportunity for those looking to capitalize on potential reversals. Conversely, if Bitcoin breaks below these support levels, it could trigger further selling and possibly lead to a more significant decline. Setting stop-loss orders just below these critical levels would help manage risk.\n\nIn summary, while the current trend appears bearish, the market's dynamics can shift quickly. Traders should remain vigilant for any signs of reversal, particularly if price action approaches the critical support zones. Additionally, monitoring the SMA and MACD for changes may offer insights into potential buying or selling opportunities in the near future."
+=======
+  "timestamp": "2025-11-25T13:54:14.366Z",
+  "price": {
+    "close": "86996.02",
+    "high": "87701",
+    "low": "86837.51",
+    "open": "87478.17",
+    "change": "-0.55",
+    "datetime": "2025-11-25 13:00:00"
+  },
+  "indicators": {
+    "rsi": 44.23493,
+    "macd": -2.71288,
+    "macd_signal": 139.51767,
+    "sma20": 87910.809
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前震荡整理，需关注支撑位]",
+      "content": "当前比特币/美元（BTC/USD）市场处于震荡整理阶段，价格在86996.02附近波动。近期高点87701与低点86837.51的区间反映出市场的谨慎情绪。若价格突破87701，将可能开启进一步上涨的空间；反之，若跌破86837.51，则需警惕更深的回调风险。\n\n从技术指标来看，MACD值为-2.71288，表明当前市场仍处于空头趋势中，未见明显的反转信号。RSI指标未提供，但若其出现超卖情况，可能会为短期反弹提供支撑。需要密切关注这些技术指标的变化，以便及时调整策略。\n\n分析支撑与阻力位，当前支撑位可设在86837.51附近，若价格跌破此位，可能会探向更低的支撑区间。阻力位在87701，若能突破，市场情绪将有望改善，可能吸引更多买盘进入。短期内，价格在这两个关键水平之间波动的可能性较大。\n\n建议投资者采取观望态度，若价格接近支撑位，可考虑小额买入以捕捉反弹机会；但若跌破支撑位则应及时止损，避免更大损失。同时，保持对市场情绪和消息面的关注，以便适时调整交易策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is positioned at 86,996.02, reflecting a slight decline of 0.55% over the past 24 hours. This minor pullback comes after a recent high of 87,701, suggesting the market is experiencing some selling pressure. The overall trend appears to be consolidating, as Bitcoin has not maintained momentum above the recent highs. Investors should be cautious as this consolidation may indicate indecision among traders.\n\nAnalyzing the key indicators, the MACD is currently at -2.71288, indicating bearish momentum. The lack of a clear signal line further complicates the outlook, suggesting that traders should remain vigilant. The absence of an RSI reading limits our ability to assess overbought or oversold conditions, which typically provide insight into potential reversal points. Nonetheless, the MACD indicates a need for caution, as the market could continue to face downward pressure if selling persists.\n\nIn terms of support and resistance levels, the immediate support is found near the recent low of 86,837.51. If this level holds, it could present a buying opportunity for traders looking for a rebound. Conversely, the resistance at 87,701 must be broken decisively for a bullish outlook to gain traction. A failure to breach this level may result in further declines, with potential targets around 85,000 if selling intensifies.\n\nGiven the current market conditions, a cautious approach is advisable. Traders might consider waiting for clearer signals from technical indicators before entering new positions. If the price stabilizes above the SMA of 87,910.809, it could indicate a potential reversal. Conversely, if the price breaks below 86,837.51, it may signal a continuation of the bearish trend, prompting short positions or protective stops for existing long positions."
+>>>>>>> Stashed changes
     }
   }
 }
