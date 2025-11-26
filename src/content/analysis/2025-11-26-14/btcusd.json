@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-26T14:56:15.264Z",
+  "price": {
+    "close": "87320.34",
+    "high": "87670.85",
+    "low": "86904.16",
+    "open": "87097.99",
+    "change": "0.26",
+    "datetime": "2025-11-26 14:00:00"
+  },
+  "indicators": {
+    "rsi": 50.55955,
+    "macd": -83.56662,
+    "macd_signal": -51.1204,
+    "sma20": 87283.1205
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期整理，等待突破]",
+      "content": "当前比特币/美元（BTC/USD）价格为87320.34，24小时内小幅上涨0.26%。从价格走势来看，BTC/USD在近期维持在一个相对窄幅的区间内波动，显示出市场的谨慎态度。当前的高点87670.85和低点86904.16表明，短期内价格尚未形成明确的方向。\n\n在技术指标方面，MACD显示出负值（-83.56662），这暗示着短期内可能存在卖压，但由于没有信号线的数据，难以进行进一步的趋势确认。SMA(20)为87283.12050，价格略高于该均线，表明短期内可能存在一定的支撑。RSI(14)数据缺失，无法判断市场的超买或超卖状态。\n\n支撑位方面，86900附近可能成为重要的支撑区域，若价格跌破此位，可能会引发更大的下行压力。阻力位则在87670附近，若突破该水平，市场可能会重新评估上涨动能。建议投资者在此阶段保持观望，关注价格突破的信号，选择在确认趋势后再进行交易决策，以降低风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at 87,320.34, reflecting a modest 24-hour change of 0.26%. This stability suggests a consolidation phase, with recent highs reaching 87,670.85 and lows at 86,904.16. The price action appears to be tightly bound within this range, indicating indecision among traders. A decisive break above 87,670 could signal a bullish extension towards the next resistance level, while a drop below 86,904 may invite a bearish trend, warranting caution.\n\nIn terms of technical indicators, the absence of a current RSI value limits our ability to gauge momentum effectively. However, the MACD shows a negative reading at -83.56662, which may indicate bearish pressure in the short term. Traders should keep an eye on the MACD line for any potential crossovers that could signal a shift in momentum. The SMA(20) at 87,283 provides a short-term reference point; if the price remains above this level, it may suggest upward momentum, while a fall below could reinforce bearish sentiment.\n\nSupport and resistance levels are crucial for guiding trading strategies. The immediate support level is established around 86,904, providing a cushion against further declines. Conversely, resistance at 87,670 presents a critical barrier for upward movement. Traders may consider setting buy orders just above resistance or employing stop-loss orders slightly below support to manage risk effectively. Monitoring these levels will be essential for making informed trading decisions in the current market landscape.\n\nIn summary, the BTC/USD market is currently experiencing a consolidation phase, with key levels of support and resistance in place. Traders should remain vigilant for any breakout or breakdown scenarios that could provide clearer direction. Utilizing indicators like the MACD and SMA can enhance decision-making, while adhering to established support and resistance levels will help mitigate risk in this volatile environment."
+    }
+  }
+}
