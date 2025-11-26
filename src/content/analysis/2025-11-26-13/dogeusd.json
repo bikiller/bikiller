@@ -2,6 +2,7 @@
   "symbol": "DOGE/USD",
   "name": "Dogecoin vs US Dollar",
   "nameCn": "狗狗币/美元",
+<<<<<<< Updated upstream
   "timestamp": "2025-11-26T13:54:22.276Z",
   "price": {
     "close": "0.15054",
@@ -25,6 +26,31 @@
     "en": {
       "title": "Dogecoin vs US Dollar Technical Analysis",
       "content": "The current price of Dogecoin against the US Dollar is trading at 0.15054, with a slight 24-hour change of 0.73%. The price has experienced a high of 0.15097 and a low of 0.14914 within this period. This indicates a relatively stable trading range, suggesting a consolidation phase. The market sentiment appears cautiously optimistic, as the price hovers near the upper range, indicating potential upward momentum if buying pressure increases.\n\nIn terms of technical indicators, the absence of a current RSI value limits our ability to gauge overbought or oversold conditions. However, the MACD reading at -0.0000094857221 indicates bearish momentum, albeit very slight. The 20-day Simple Moving Average (SMA) at 0.15146400 serves as a nearby resistance level. A sustained price move above this SMA could signify a bullish reversal, while a failure to hold above this level may invite further downside.\n\nSupport levels can be identified around the recent low of 0.14914, which provides a critical floor for price action. A breach below this support could trigger further selling pressure and potentially lead the price towards the next significant support level. Conversely, resistance remains firmly at the upper range of 0.15097. A successful breakout above this level could attract more buyers, suggesting a shift in market sentiment towards a more bullish outlook.\n\nTraders may consider a strategy focused on monitoring price action closely around these key levels. A buy signal could be issued if Dogecoin breaks above the 20-day SMA with strong volume, while setting a stop-loss slightly below the identified support level. Conversely, if the price tests support and fails to hold, a short position may be justified with a target toward the next lower support area. This tactical approach aims to capitalize on Dogecoin's current volatility and evolving market trends."
+=======
+  "timestamp": "2025-11-26T14:00:34.752Z",
+  "price": {
+    "close": "0.1506",
+    "high": "0.15097",
+    "low": "0.14914",
+    "open": "0.1494",
+    "change": "0.77",
+    "datetime": "2025-11-26 13:00:00"
+  },
+  "indicators": {
+    "rsi": 49.50824,
+    "macd": 8.8464824e-7,
+    "macd_signal": 0.00029343987,
+    "sma20": 0.1514705
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：[震荡整理，谨慎看涨]",
+      "content": "当前狗狗币/USD的价格为0.1506，近期表现出震荡整理的趋势。虽然24小时内上涨了0.77%，但整体走势仍然显示出一定的区间波动，投资者需关注市场情绪和消息面变化，以判断后续走势。\n\n在技术指标方面，MACD显示出微弱的看涨信号，但由于信号线数据缺失，难以做出更明确的判断。RSI指标尚未提供，因此需关注其后续变化以判断超买或超卖状态。20日简单移动平均线(SMA)为0.15147050，当前价格略低于该水平，显示出短期内的弱势。\n\n支撑位方面，0.14914的低点提供了较强的支撑，若价格跌破该水平，可能会引发更大幅度的回调。阻力位则在0.15097附近，突破该点位有望进一步上涨至0.1520。建议投资者在接近支撑位时考虑逢低买入，但需设定止损以控制风险。保持谨慎，随时关注市场动态。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current price of Dogecoin (DOGE) against the US Dollar stands at 0.1506, reflecting a modest 24-hour change of 0.77%. The price action has been constrained between a high of 0.15097 and a low of 0.14914, indicating a period of consolidation. This sideways movement suggests that traders are currently weighing the potential for upward momentum against the overhead resistance near 0.1515, a level that has previously presented challenges.\n\nIn terms of technical indicators, the absence of a current Relative Strength Index (RSI) value makes it difficult to assess overbought or oversold conditions. However, the MACD, while showing a slight positive value, indicates a potential bullish sentiment among traders. The Simple Moving Average (SMA) at 0.15147050 serves as a critical level; if the price can maintain above this point, it may bolster confidence for a bullish breakout. Conversely, a drop below this SMA could signal further weakness.\n\nSupport levels are identified at around 0.1490, where buying interest may emerge if prices decline. Should DOGE break below this threshold, the next significant support appears to be at 0.1475. Traders should remain vigilant for price reactions near these levels. Resistance continues to loom at 0.1515, and a sustained breach above this could open the door to further gains, potentially targeting 0.1550 in the near term.\n\nFor traders considering positions, a cautious approach may be prudent. Entering long positions above 0.1515 could align with bullish sentiment, while stops could be placed below the 0.1490 support level to manage risk. Alternatively, short positions may be considered if DOGE fails to reclaim 0.1515 and shows signs of weakness below the SMA. Monitoring market sentiment and volume will be essential in making informed trading decisions in this dynamic environment."
+>>>>>>> Stashed changes
     }
   }
 }

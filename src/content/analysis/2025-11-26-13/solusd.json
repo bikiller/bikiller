@@ -2,6 +2,7 @@
   "symbol": "SOL/USD",
   "name": "Solana vs US Dollar",
   "nameCn": "Solana/美元",
+<<<<<<< Updated upstream
   "timestamp": "2025-11-26T13:51:29.107Z",
   "price": {
     "close": "136.67",
@@ -25,6 +26,31 @@
     "en": {
       "title": "Solana vs US Dollar Technical Analysis",
       "content": "The current price of Solana against the US Dollar is $136.67, showing a modest 0.77% increase over the last 24 hours. This slight upward movement may indicate a consolidation phase following recent volatility. The price has fluctuated between a high of $136.87 and a low of $135.45, suggesting a tight range that could either precede a breakout or a pullback. Observing the price action within this range will be crucial for determining the next potential move.\n\nLooking at the indicators, the SMA(20) is positioned at $137.9515, which is above the current price. This could imply that the asset is experiencing a short-term bearish sentiment, as it has not been able to break above the 20-period moving average. The MACD value of 0.054221526 suggests a potential bullish crossover, but without the signal line's data, it's challenging to confirm the momentum's strength. Traders should remain cautious and monitor these indicators closely for signs of a shift.\n\nIn terms of support and resistance levels, immediate support is likely found around the recent low of $135.45, while resistance is identified near the SMA(20) level of $137.9515. A break above this resistance could lead to a rally towards higher targets, potentially testing $140. Conversely, if the price fails to hold above the support level, a decline towards $134 or lower could become likely. \n\nTraders may consider a strategy that involves buying on a confirmed breakout above the SMA(20) while using the support level for a stop-loss. On the other hand, if the market shows weakness and approaches the support level, it may be prudent to adopt a wait-and-see approach, observing for signs of reversal or further decline before entering new positions."
+=======
+  "timestamp": "2025-11-26T13:58:11.026Z",
+  "price": {
+    "close": "136.37",
+    "high": "136.87",
+    "low": "135.45",
+    "open": "135.61",
+    "change": "0.55",
+    "datetime": "2025-11-26 13:00:00"
+  },
+  "indicators": {
+    "rsi": 45.64427,
+    "macd": 0.034278506,
+    "macd_signal": 0.4403203,
+    "sma20": 137.939
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理趋势]",
+      "content": "当前，Solana（SOL/USD）在136.37美元附近震荡整理，日内波动幅度相对较小，显示出市场短期内缺乏明确方向。尽管24小时变化仅为0.55%，但高点和低点的相对接近表明多空双方的力量相对平衡，投资者需保持警惕，观察后续价格走势。\n\n从技术指标来看，MACD值为0.034278506，虽然信号线数据缺失，但这一数值暗示出短期内可能存在一定的上涨动能。此外，20日简单移动平均线（SMA）为137.939，当前价格略低于此水平，意味着短期内可能面临一定的阻力。相对强弱指数（RSI）尚不可用，但需关注其后续走势以判断超买或超卖状态。\n\n在支撑与阻力方面，136美元附近形成了重要支撑位，而137.5美元至138美元区间则构成了明显的阻力区域。如果价格突破138美元，可能引发进一步的上涨趋势。建议投资者在此区间内寻找合适的买入和卖出时机，保持灵活应变的策略，以应对市场的波动。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current price of Solana at 136.37 indicates a slight bullish sentiment, as it has shown a modest 24-hour change of 0.55%. This price action suggests that the market is stabilizing, but traders should remain cautious given the proximity to the recent high of 136.87. A break above this level could signal a stronger upward trend, while a drop below 135.45, the recent low, may indicate a shift towards bearish sentiment. Overall, the trend appears neutral to slightly bullish in the short term.\n\nIn terms of technical indicators, the lack of an available RSI(14) complicates a complete momentum analysis. However, the MACD value of 0.034278506 suggests that the momentum is positive, albeit weak. Traders would benefit from monitoring the MACD closely for potential crossovers that could indicate a change in momentum. The SMA(20) at 137.93900 serves as a critical reference point; if Solana can reclaim this moving average, it may provide a stronger bullish signal, reinforcing the upward trend.\n\nSupport levels are firmly established at 135.45, while resistance is evident near the 137.94 area, defined by the SMA(20). If the price breaks below the support, traders may consider short positions, targeting the next support level. Conversely, a successful test of resistance could trigger buying opportunities, with targets set at the next psychological level of 140. Traders should also keep an eye on broader market trends and volume for additional confirmation of price movements.\n\nGiven the current market conditions, a cautious approach is advisable. Day traders may look for short-term opportunities within the established range, while swing traders could wait for clearer signals from the indicators. Keeping a close watch on volume and price action around the support and resistance levels will provide key insights into future movements and potential trading strategies."
+>>>>>>> Stashed changes
     }
   }
 }

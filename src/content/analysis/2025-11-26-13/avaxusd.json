@@ -2,6 +2,7 @@
   "symbol": "AVAX/USD",
   "name": "Avalanche vs US Dollar",
   "nameCn": "雪崩币/美元",
+<<<<<<< Updated upstream
   "timestamp": "2025-11-26T13:55:09.381Z",
   "price": {
     "close": "13.9658",
@@ -25,6 +26,31 @@
     "en": {
       "title": "Avalanche vs US Dollar Technical Analysis",
       "content": "The current price of Avalanche (AVAX) against the US Dollar stands at 13.9658, reflecting a modest 24-hour change of 0.25%. This slight upward movement suggests that AVAX is experiencing consolidation within a narrow range as it approaches the recent high of 14.0031. In the broader context, the price remains below the 20-day Simple Moving Average (SMA) of 14.058375, indicating a potential bearish sentiment that could persist if the price fails to break above this level. \n\nThe absence of a calculated Relative Strength Index (RSI) makes it challenging to gauge overbought or oversold conditions accurately. However, the MACD value of 0.018208440 implies a potential bullish crossover, suggesting that upward momentum could be building. Traders should monitor the MACD closely for further signals of strength, particularly if the price can hold above the 14.00 mark, which is crucial for a potential rally.\n\nSupport levels are currently identified around 13.9234, the recent low, which could serve as a safety net for buyers. A sustained price drop below this level may lead to further declines, potentially testing lower support at 13.80. Conversely, resistance is established at approximately 14.00, and breaking above this barrier could open the door for a more substantial move towards the upper range near the SMA of 14.058375.\n\nFor traders, a prudent strategy may involve waiting for confirmation of a breakout above 14.00 before entering long positions, ensuring that risk management protocols are in place. Conversely, if the price dips below the 13.9234 support level, it may be wise to consider short positions, as further bearish momentum could follow. Monitoring volume trends will also be crucial in confirming the strength of any breakout or breakdown."
+=======
+  "timestamp": "2025-11-26T14:01:35.858Z",
+  "price": {
+    "close": "13.9764",
+    "high": "14.0031",
+    "low": "13.9234",
+    "open": "13.9266",
+    "change": "0.32",
+    "datetime": "2025-11-26 13:00:00"
+  },
+  "indicators": {
+    "rsi": 48.61455,
+    "macd": 0.018798754,
+    "macd_signal": 0.045579856,
+    "sma20": 14.058745
+  },
+  "analysis": {
+    "zh": {
+      "title": "雪崩币/美元技术分析：[震荡走势中的支撑与阻力]",
+      "content": "当前雪崩币（AVAX）在13.9764的价格附近波动，整体呈现震荡走势。虽然24小时变化仅为0.32%，但高点14.0031与低点13.9234的区间显示出市场的短期不确定性。投资者需关注市场情绪，以判断后市方向。\n\n从技术指标来看，MACD指标当前为0.0188，显示出多头力量的微弱增强，尽管信号线数据缺失。SMA(20)为14.0587，价格在其下方，表明短期内可能面临一定压力。RSI尚不可用，但这通常是判断超买或超卖状态的重要工具。\n\n支撑位方面，13.9234是关键支撑线，若跌破可能引发更大幅度的回调。相对的，14.0031为短期阻力位，突破后有望恢复上涨动能。投资者可以在支撑位附近寻求买入机会，而在接近阻力位时则考虑减仓或止盈。\n\n综合考虑，当前市场表现出震荡特征，投资者应保持谨慎，密切关注技术指标的变化。在支撑位附近逢低布局，同时在阻力位时做好风险控制，以应对可能的市场波动。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "Avalanche (AVAX) is currently trading at $13.9764, reflecting a modest 24-hour change of 0.32%. The price has recently touched a high of $14.0031 and a low of $13.9234, indicating some consolidation within this range. This behavior suggests a period of indecision among traders, as they weigh the potential for upward movement against the risk of a decline. The proximity to the recent high may signal a bullish sentiment if it can break above that level with strong volume.\n\nThe absence of a current RSI reading complicates the analysis, but the MACD value of 0.018798754 indicates that the momentum is slightly bullish. Traders should watch for any divergence between the price action and MACD, as this could reveal shifts in momentum. The 20-period Simple Moving Average (SMA) is positioned at $14.058745, acting as a dynamic resistance level. A sustained move above this SMA could confirm a bullish trend, while a failure to breach it might lead to a pullback.\n\nSupport levels are critical in this analysis, with the recent low of $13.9234 serving as a key level to watch. If the price breaks below this support, it could signal a more significant downtrend, with potential targets at lower psychological levels like $13.80. Conversely, maintaining above this level could reinforce bullish sentiment, especially if coupled with increased buying volume. \n\nFor traders considering entry points, observing price action around the support and resistance levels is essential. A breakout above $14.0031 could present a buying opportunity, while a failure to hold above the $13.9234 support might encourage short positions. The current market dynamics suggest a cautious approach, with an emphasis on waiting for clearer signals before committing to a direction."
+>>>>>>> Stashed changes
     }
   }
 }
