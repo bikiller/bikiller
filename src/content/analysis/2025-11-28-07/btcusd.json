@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-28T07:01:03.329Z",
+  "price": {
+    "close": "91302.03",
+    "high": "91598.74",
+    "low": "91142.82",
+    "open": "91598.74",
+    "change": "-0.32",
+    "datetime": "2025-11-28 06:00:00"
+  },
+  "indicators": {
+    "rsi": 55.27216,
+    "macd": 263.89031,
+    "macd_signal": 349.22036,
+    "sma20": 91253.144
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币/美元的价格为91302.03，24小时内小幅下跌0.32%。从价格走势来看，目前比特币处于震荡整理阶段，未能突破91598.74的高点，也未跌破91142.82的低点。因此，短期内的趋势较为模糊，需关注价格在这些关键支撑与阻力区间的表现。\n\n技术指标方面，虽然RSI(14)数据缺失，但MACD显示出263.89031的值，表明市场动能仍然存在，可能支撑价格维持在当前水平。然而，随着市场情绪的变化，投资者应保持警惕，密切关注后续的信号变化，特别是RSI和信号线的交叉情况。\n\n在支撑与阻力方面，当前的主要支撑位在91142.82，而阻力位则在91598.74。如果价格突破91598.74，可能会引发进一步上涨，反之若跌破91142.82，则可能预示着下行趋势的开始。投资者应重点关注这些关键价格水平。\n\n综合分析，建议投资者在当前震荡行情中采取观望策略，避免过度交易。如果价格突破关键阻力或支撑位，则可以考虑适时进场或止损，以应对市场的波动风险。保持灵活应变的策略是当前市场环境中的重要投资原则。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $91,302.03, reflecting a slight decline of 0.32% over the last 24 hours. This modest downturn suggests a potential consolidation phase following recent volatility. The price has established a range between the recent high of $91,598.74 and low of $91,142.82, indicating that market participants are currently in a wait-and-see mode. Traders should monitor this range closely for potential breakout or breakdown scenarios.\n\nFrom a technical perspective, the SMA(20) at $91,253.14 provides a short-term trend reference, indicating that the price is currently hovering just above this moving average. The absence of a clear trend in the RSI and MACD makes it challenging to ascertain momentum. However, the MACD being at 263.89031 suggests a bullish sentiment in the medium term, but without a corresponding signal line, caution is warranted. Traders may look for confirmation from other indicators before entering positions.\n\nSupport levels appear to rest near the recent low of $91,142.82, which, if breached, could lead to further selling pressure. Conversely, resistance is likely positioned around the recent high of $91,598.74. A breakout above this level could signal renewed buying interest, opening the door for further gains. It’s crucial for traders to set stop-loss orders near these levels to manage risk effectively.\n\nIn summary, the current market for BTC/USD indicates a period of indecision with potential for movement in either direction. Traders should remain vigilant, utilizing both technical indicators and price levels to inform their strategies. Observing volume trends will also be essential, as increased volume during a breakout may provide confirmation for either a bullish or bearish trend."
+    }
+  }
+}
