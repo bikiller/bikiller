@@ -2,6 +2,7 @@
   "symbol": "SOL/USD",
   "name": "Solana vs US Dollar",
   "nameCn": "Solana/美元",
+<<<<<<< Updated upstream
   "timestamp": "2025-11-28T03:53:09.644Z",
   "price": {
     "close": "139.56",
@@ -16,15 +17,39 @@
     "macd": -0.37628105,
     "macd_signal": 0.032310138,
     "sma20": 141.4285
+=======
+  "timestamp": "2025-11-28T03:59:58.094Z",
+  "price": {
+    "close": "139.65",
+    "high": "139.77",
+    "low": "139.14",
+    "open": "139.45",
+    "change": "0.14",
+    "datetime": "2025-11-28 03:00:00"
+  },
+  "indicators": {
+    "rsi": 40.60064,
+    "macd": -0.36910156,
+    "macd_signal": 0.033746035,
+    "sma20": 141.432
+>>>>>>> Stashed changes
   },
   "analysis": {
     "zh": {
       "title": "Solana/美元技术分析：[短期震荡整理趋势]",
+<<<<<<< Updated upstream
       "content": "当前SOL/USD的走势表现为短期震荡整理，最新价格为139.56美元，24小时变化仅为0.08%。尽管价格在139.14至139.71的区间内波动，但缺乏明确的方向性，市场情绪相对谨慎。投资者需要关注即将到来的市场动态，以便把握潜在的交易机会。\n\n在技术指标方面，MACD目前显示为负值，表明短期内卖盘压力较大，虽然信号线数据尚未提供，但MACD的负值通常意味着价格可能面临进一步的下行风险。此外，SMA(20)的值为141.4285，价格目前处于其下方，显示出短期内价格承压。\n\n支撑位方面，139.14美元是关键支撑，若跌破该水平，可能会引发进一步的卖盘，导致价格回调。而阻力位则位于141.50美元附近，突破该区域将可能重启上涨动能。当前市场需密切关注这些关键价位，以制定相应的交易策略。\n\n交易建议方面，短期内可考虑在139.14附近寻找买入机会，止损设在138.50美元下方。同时，如果价格突破141.50美元，可考虑趋势跟随策略，寻找进一步上涨的机会。保持灵活应变的策略，将有助于在波动的市场中获得理想的收益。"
     },
     "en": {
       "title": "Solana vs US Dollar Technical Analysis",
       "content": "The current price of Solana (SOL) against the US Dollar is $139.56, reflecting a slight 24-hour change of 0.08%. This stability in price suggests a period of consolidation following previous volatility. The recent high of $139.71 and low of $139.14 indicates a tight trading range, which may signal indecision among traders. A breakout above the recent high could lead to bullish momentum, while a drop below the low may trigger bearish sentiment.\n\nAnalyzing the indicators, the MACD shows a value of -0.37628105, indicating a bearish divergence, although the absence of a signal line complicates the overall interpretation. The lack of an RSI value limits our ability to gauge overbought or oversold conditions, but the price’s proximity to the SMA(20) of 141.4285 suggests that the market is currently trading below its short-term average. This could indicate a potential for upward movement if buying pressure increases.\n\nIn terms of support and resistance levels, the immediate resistance can be identified around $141.43, which aligns with the SMA(20). A successful breach of this level could open the door for further price appreciation, possibly targeting the next resistance at around $145. Conversely, the support level is evident near $139.14. If this level is breached, it could lead to a sell-off, with further support found around the psychological level of $135.\n\nFor traders, the current market conditions may favor a cautious approach. A buy signal could be considered if SOL breaks above the SMA and the recent high, suggesting a potential upward trend. Conversely, should the price fall below the support level, it may be prudent to adopt a short position or to exit existing trades to minimize potential losses. Monitoring volume and market sentiment will be crucial in making informed decisions in this relatively stable environment."
+=======
+      "content": "当前Solana（SOL）对美元的价格维持在139.65附近，整体呈现出短期震荡整理的趋势。虽然24小时变化幅度较小，仅为0.14%，但这种小幅波动表明市场参与者尚未形成明确的方向。高点139.77和低点139.14的区间显示出市场在此价位附近的犹豫。\n\n从技术指标来看，虽然RSI值尚不可用，但MACD指标为-0.369，表明当前市场略显疲软，短期内可能会面临一定的卖压。此外，20日简单移动平均线（SMA）处于141.432，显示出潜在的阻力位，若价格突破该水平，可能会引发更强的上行动能。\n\n在支撑方面，建议关注138.50和138.00两个关键水平，若价格跌破这些支撑位，可能会加剧下行风险。相反，若价格能够有效突破140.00，投资者可考虑适量增持以把握反弹机会。在当前市场环境下，建议保持谨慎，关注市场动态，以灵活调整策略。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current price of Solana (SOL) against the US Dollar stands at 139.65, showing a modest 24-hour change of 0.14%. In terms of trend analysis, the price action is relatively stable, oscillating between the recent high of 139.77 and the low of 139.14. This tight trading range suggests a period of consolidation, where buyers and sellers are finding equilibrium. A breakout beyond this range could signal the next directional move for SOL, either toward higher resistance levels or back into a bearish trend.\n\nExamining the technical indicators, the lack of an available RSI(14) might limit momentum analysis. However, the MACD value of -0.369 indicates bearish pressure, suggesting that sellers have a slight advantage at this moment. The Simple Moving Average (SMA) of 20 days at 141.43 serves as a critical resistance level. If SOL can reclaim this SMA, it may encourage bullish sentiment and attract additional buying interest, while failure to do so could lead to further downward pressure.\n\nSupport levels are essential to monitor, with the recent low of 139.14 acting as a crucial point to watch. A drop below this level could open the door to further declines, potentially testing lower support near 137.00. Conversely, resistance above the current price is observed around the SMA and the psychological level of 142. If SOL can breach these levels convincingly, it may indicate a shift in sentiment and initiate a rally toward higher targets.\n\nFor trading suggestions, monitoring the price action around the identified support and resistance levels is vital. Traders might consider setting buy orders near the support level of 139.14, with a stop-loss below this level to manage risk. On the flip side, those looking to short SOL might find an entry point near the SMA at 141.43, provided confirmation of bearish momentum is evident. Keeping an eye on volume trends will also enhance decision-making and improve the chances of successful trades."
+>>>>>>> Stashed changes
     }
   }
 }

@@ -2,6 +2,7 @@
   "symbol": "AVAX/USD",
   "name": "Avalanche vs US Dollar",
   "nameCn": "雪崩币/美元",
+<<<<<<< Updated upstream
   "timestamp": "2025-11-28T03:57:07.031Z",
   "price": {
     "close": "15.0476",
@@ -25,6 +26,31 @@
     "en": {
       "title": "Avalanche vs US Dollar Technical Analysis",
       "content": "Avalanche (AVAX) is currently trading at $15.0476, showing a slight 24-hour change of 0.03%. The price action suggests a consolidation phase, with the recent high at $15.0555 and low at $15.015, indicating a tight trading range. This stability may reflect market indecision, which could precede a breakout or breakdown. Traders should monitor this range closely, as a confirmed break above $15.0555 could target the next resistance level, potentially leading to more bullish momentum.\n\nAnalyzing the technical indicators, the absence of an RSI value makes it challenging to gauge overbought or oversold conditions. However, the MACD reading of 0.097381223 suggests a mild bullish momentum, although it would be useful to have a signal line for a clearer picture. The SMA(20) at $15.014450 serves as a dynamic support level, reinforcing the notion that AVAX is trading near its short-term average. A breach below this level may trigger further selling pressure, highlighting the importance of this moving average in the current context.\n\nSupport levels can be identified around the recent low of $15.015 and further below at $15.000, a psychologically significant round number. Resistance appears at the recent high of $15.0555, with additional resistance potentially forming around $15.10. These levels should be monitored as they may serve as key points for potential reversals or continuation of the trend. \n\nTraders may consider employing a range-bound strategy, buying near support at $15.015 and selling near resistance at $15.0555. Additionally, a wait-and-see approach could be prudent until a clear breakout or breakdown occurs, allowing for a more informed trading decision. Keeping an eye on broader market sentiment and external factors affecting the cryptocurrency landscape will also be essential in making strategic trading choices."
+=======
+  "timestamp": "2025-11-28T04:03:14.110Z",
+  "price": {
+    "close": "15.049",
+    "high": "15.0555",
+    "low": "15.015",
+    "open": "15.0412",
+    "change": "0.04",
+    "datetime": "2025-11-28 03:00:00"
+  },
+  "indicators": {
+    "rsi": 64.2279,
+    "macd": 0.097492904,
+    "macd_signal": 0.12543101,
+    "sma20": 15.01452
+  },
+  "analysis": {
+    "zh": {
+      "title": "雪崩币/美元技术分析：[震荡整理阶段]",
+      "content": "当前雪崩币(AVAX)的价格在15.049附近波动，整体趋势表现为震荡整理。过去24小时内，价格波动幅度较小，最高点为15.0555，最低点为15.015，表明市场缺乏方向性动能。投资者需关注后市是否能够打破这一区间，形成明确的趋势。\n\n在技术指标方面，MACD显示出0.097492904的正值，暗示短期内可能存在一定的买入压力。然而，RSI尚未提供相关数据，无法确认市场的超买或超卖状态。结合20日简单移动平均线(SMA)的值15.014520，当前价格略高于该均线，可能预示着短期内的支撑位。\n\n支撑位方面，15.015是一个重要的支撑线，如果价格跌破，将可能引发进一步下探的风险。相应地，15.0555则是一个关键的阻力位，突破后可能会吸引更多买盘介入，推动价格上行。投资者应密切关注这两个价格水平的变动，以规避风险。\n\n综合来看，当前市场仍处于震荡整理阶段，建议投资者保持观望，等待价格突破关键支撑或阻力位后再作出决策。若突破15.0555，可考虑适度加仓；若跌破15.015，则需谨慎操作，避免损失。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "Avalanche (AVAX) is currently trading at $15.049, exhibiting a modest 24-hour change of 0.04%. This stability suggests a period of consolidation following a recent price fluctuation. The price has tested the range between its high of $15.0555 and low of $15.015, indicating a tight trading range. This price action may signify indecision in the market, with traders waiting for a clearer breakout direction. Observing this range is crucial for understanding potential future movements.\n\nThe Simple Moving Average (SMA) of 20 periods stands at $15.014520, reinforcing the idea of a sideways trend as the price hovers around this level. A sustained move above the SMA could indicate a bullish sentiment, potentially targeting the recent high of $15.0555. Conversely, a drop below the SMA and the recent low of $15.015 might trigger bearish momentum, leading to further declines. Monitoring these levels will provide insight into market sentiment and potential future price action.\n\nThe lack of RSI data means we cannot gauge overbought or oversold conditions, but the MACD is positive at 0.097492904, which may imply underlying bullish momentum. Traders should observe the MACD for any signs of divergence or crossover, as these can signal potential reversals or continuations. In a low-volatility environment, patience may be key, but traders should remain vigilant for any shifts in momentum.\n\nFor trading strategy, consider placing buy orders slightly above the recent high to capitalize on potential upward movement, with stop-loss orders below the recent low to manage risk. Conversely, if bearish signals emerge, short positions could be considered below the SMA, targeting the next support level. Keeping an eye on broader market trends and developments in the Avalanche ecosystem will also be crucial for informed trading decisions."
+>>>>>>> Stashed changes
     }
   }
 }
