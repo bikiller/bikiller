@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-28T18:56:34.285Z",
+  "price": {
+    "close": "90720.11",
+    "high": "90976",
+    "low": "90426.4",
+    "open": "90685.94",
+    "change": "0.05",
+    "datetime": "2025-11-28 18:00:00"
+  },
+  "indicators": {
+    "rsi": 43.45121,
+    "macd": 88.33322,
+    "macd_signal": 229.072547,
+    "sma20": 91402.4745
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前比特币/美元（BTC/USD）价格维持在90720.11附近，市场呈现震荡整理的状态。24小时内价格波动较小，仅变动0.05%。高点为90976，而低点则为90426.4，表明市场在这一区间内反复震荡，尚未形成明确的方向。\n\n从技术指标来看，MACD值为88.33322，显示出仍旧存在一定的上行动能，但由于信号线数据缺失，无法全面评估趋势强度。SMA(20)位于91402.47，价格在其下方，表明短期内可能面临进一步回调的压力。RSI数据缺失，但通常情况下，RSI若高于70则表示超买，低于30则表示超卖。\n\n支撑位方面，90426.4是一个关键支撑点，如果价格跌破该位置，可能会引发进一步的下行压力。反之，90976是当前的阻力位，突破后可能会吸引更多买盘。建议交易者密切关注这两个关键价位，并在突破时采取相应的交易策略，以把握潜在的获利机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at 90,720.11, showing a modest 24-hour change of 0.05%. The price has tested the high of 90,976 and the low of 90,426. This range indicates a consolidation phase, suggesting that the market is in a state of indecision. As traders await further momentum, the price action is crucial for identifying potential breakout or breakdown scenarios. A sustained move above the recent high could signal bullish sentiment, while a drop below the low may indicate bearish pressure.\n\nThe SMA(20) is currently positioned at 91,402.47, acting as a dynamic resistance level. Should the price approach this level, traders may look for signs of rejection, indicating a possible short opportunity. Conversely, if Bitcoin manages to break above this resistance, it could pave the way for a bullish trend, targeting higher levels. A focus on volume will be essential during this time, as increased buying pressure could confirm a breakout.\n\nFrom an indicator standpoint, the MACD value of 88.33322 suggests that momentum is currently positive, though without a signal line to compare, it is difficult to gauge potential reversals. The absence of RSI data limits our ability to assess overbought or oversold conditions. Traders should monitor these indicators closely, especially during periods of increased volatility, as they can provide essential insights into market sentiment.\n\nIn terms of trading suggestions, maintaining a watchful eye on the support level around 90,426 is critical. If this level holds, it could present a buying opportunity for short-term traders looking to capitalize on a bounce back toward the SMA resistance. Conversely, breaking this support may signal a bearish trend, prompting traders to consider short positions. Overall, the current market conditions require a cautious approach, with a focus on key levels and indicators for informed decision-making."
+    }
+  }
+}
