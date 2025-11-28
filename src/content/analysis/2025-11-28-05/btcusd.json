@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-28T05:47:36.024Z",
+  "price": {
+    "close": "91554.65",
+    "high": "91587.6",
+    "low": "91285.74",
+    "open": "91405.01",
+    "change": "0.16",
+    "datetime": "2025-11-28 05:00:00"
+  },
+  "indicators": {
+    "rsi": 60.99086,
+    "macd": 280.82486,
+    "macd_signal": 369.84944,
+    "sma20": 91266.3945
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "目前比特币/美元(BTC/USD)的价格为91554.65，整体呈现出震荡整理的态势。24小时内变化仅为0.16%，显示出市场情绪相对平稳。高点91587.6与低点91285.74的波动范围较小，表明买卖双方尚未形成明确的趋势。\n\n从技术指标来看，当前RSI尚未提供可用数据，但MACD值为280.82486，虽然信号线缺失，但这一数值暗示出市场的潜在强势。SMA(20)在91266.3945处，为价格提供了短期支撑。若价格持续在此均线之上运行，则短期内可能维持偏多的态势。\n\n支撑位方面，91266.39的SMA(20)构成了重要支撑线，如价格跌破此位，则需关注91000的心理关口。而在阻力位方面，91587.6的高点将是短期内的关键阻力，若突破将有望进一步上探92000的水平。\n\n基于当前市场情况，建议交易者采取观望策略，等待价格突破关键支撑或阻力位后再做进一步决策。若价格突破91587.6，则可考虑短期多单；反之，则可考虑适度做空，控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC) is currently trading at $91,554.65, showcasing a slight upward movement of 0.16% over the past 24 hours. The price has been confined within a narrow range, with intraday highs of $91,587.6 and lows of $91,285.74. This indicates a period of consolidation, suggesting that traders are waiting for a decisive breakout. If the price can sustain above the recent high, it may signal renewed bullish momentum, while a drop below the low could trigger a bearish trend.\n\nThe absence of the Relative Strength Index (RSI) data limits our ability to assess overbought or oversold conditions. However, the Moving Average Convergence Divergence (MACD) reading of 280.82 suggests that the momentum is currently bullish. Traders should watch for a potential crossover in the MACD for confirmation of a sustained trend. The 20-period Simple Moving Average (SMA) stands at $91,266.39, providing a short-term support level. A close below this SMA may indicate a shift in sentiment.\n\nSupport levels can be identified at $91,285.74 and further down at $91,000, while resistance is seen at the recent high of $91,587.6 and potentially at psychological levels like $92,000. A break above these resistance levels could attract more buyers, pushing Bitcoin towards the next target range. Conversely, if the price fails to hold above the support levels, we may see a deeper retracement, potentially testing lower support.\n\nTraders are advised to adopt a cautious approach in this environment. A breakout above $91,600 could present a buying opportunity, while a close below $91,200 may warrant a reevaluation of long positions. Employing stop-loss orders around these key levels can help manage risk effectively. It is essential to remain vigilant, as market sentiment can shift rapidly, especially in the highly volatile cryptocurrency space."
+    }
+  }
+}
