@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-29T09:40:52.944Z",
+  "price": {
+    "close": "90604.63",
+    "high": "90691.34",
+    "low": "90509.86",
+    "open": "90655.09",
+    "change": "-0.04",
+    "datetime": "2025-11-29 09:00:00"
+  },
+  "indicators": {
+    "rsi": 42.71282,
+    "macd": -166.089444,
+    "macd_signal": -113.0026147,
+    "sma20": 90986.6005
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，谨防回调]",
+      "content": "当前比特币/美元的价格为90604.63，24小时内略微下跌0.04%。从高点90691.34和低点90509.86的波动来看，市场处于震荡整理的状态。短期内，价格未能有效突破91000美元的心理阻力位，显示出多头动能不足，投资者需保持警惕。\n\n技术指标方面，MACD呈现负值（-166.089444），表明空头力量仍在主导市场，短期内缺乏反弹动力。虽然RSI指标尚不可用，但考虑到当前价格走势，市场情绪可能偏向谨慎，进一步的下行风险不容忽视。SMA(20)的水平为90986.6005，意味着价格若再次反弹，需突破这一均线以确认上行趋势。\n\n在支撑位方面，90509.86的低点将成为关键支撑，若跌破此水平，可能引发更大幅度的回调，投资者应密切关注。此外，91000美元则是重要的阻力位，若能突破并站稳其上，可能会引发买盘的集中涌入。建议交易者在该区间内谨慎操作，适时设置止损，避免不必要的损失。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at 90,604.63, reflecting a slight decline of 0.04% over the last 24 hours. The market has exhibited a range between 90,509.86 and 90,691.34, indicating a period of consolidation. This tightening price action could suggest that traders are awaiting a catalyst for a breakout. Overall, the trend appears neutral, with no strong momentum in either direction, signaling potential indecision among market participants.\n\nIn terms of technical indicators, the absence of a recent RSI value complicates momentum analysis, but the MACD reading of -166.089444 indicates bearish pressure. This negative MACD suggests that sellers may have the upper hand in the short term. Moreover, the 20-period Simple Moving Average (SMA) at 90,986.60 acts as a resistance level, where price action may struggle to break above. A sustained trade below the SMA could reinforce bearish sentiment, while a move above it might indicate a potential reversal.\n\nKey support is observed at 90,509.86, the recent low, which, if breached, could signal further downside potential towards lower support levels. Conversely, a breakout above the high of 90,691.34 could open the door to test the SMA and potentially higher resistance levels. Traders should monitor these levels closely, as they represent critical points for potential entries or exits in their positions.\n\nFor trading strategies, it may be prudent to adopt a wait-and-see approach until a clearer directional bias emerges. A short position may be considered if the price approaches the SMA and fails to break above, with a target near the support level at 90,509.86. Conversely, if the price rallies past the SMA, a long position could be warranted, targeting higher resistance levels with a stop-loss set below the recent low. As always, risk management is essential in this volatile market."
+    }
+  }
+}
