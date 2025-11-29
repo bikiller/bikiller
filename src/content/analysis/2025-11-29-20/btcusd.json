@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-29T20:37:32.907Z",
+  "price": {
+    "close": "90776.03",
+    "high": "90778.09",
+    "low": "90428.65",
+    "open": "90668.71",
+    "change": "0.11",
+    "datetime": "2025-11-29 20:00:00"
+  },
+  "indicators": {
+    "rsi": 48.80174,
+    "macd": -80.88804,
+    "macd_signal": -99.55263,
+    "sma20": 90729.6465
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理趋势]",
+      "content": "当前比特币/美元（BTC/USD）市场表现出震荡整理的趋势。最新价格90776.03美元，与24小时变化0.11%相对平稳，显示出市场缺乏强烈的方向性动能。在高点90778.09美元和低点90428.65美元间的波动表明，短期内投资者情绪谨慎，可能在等待更明确的市场信号。\n\n从技术指标来看，MACD值为-80.88804，表明当前处于弱势状态，虽然并未显示出强烈的卖出信号。由于RSI数据缺失，无法判断超买或超卖的状态，但SMA(20)为90729.64650，显示出短期均线支撑在90730附近。投资者需关注价格在这一水平的表现，以判断后续走势。\n\n支撑位方面，90430美元附近是关键支撑，若价格跌破该水平，可能引发进一步的回调。而在阻力位方面，90780美元和91000美元是短期阻力的关键区域。如果价格有效突破这些阻力位，可能会引发新的上涨动能。\n\n基于当前市场情况，建议投资者采取观望策略，待市场出现明确的突破信号后再做决策。如果价格持续在支撑位之上，则可考虑小幅建仓，反之则应保持谨慎。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market data for Bitcoin against the US Dollar indicates a relatively stable environment, with the latest price hovering around $90,776.03. The slight 24-hour change of 0.11% suggests a period of consolidation, which may imply that traders are waiting for a clear directional signal. The recent high of $90,778.09 and low of $90,428.65 indicate that the price is currently oscillating within a tight range, reinforcing the notion of indecision in the market.\n\nFrom a trend analysis perspective, the absence of a clear upward or downward trajectory indicates that Bitcoin may be in a short-term consolidation phase. The 20-period Simple Moving Average (SMA) at $90,729.65 provides a reference point for potential support. If the price remains above this level, it could suggest a continuation of bullish momentum. Conversely, a drop below the 20 SMA might signal an incoming bearish trend, prompting traders to reassess their positions.\n\nTechnical indicators such as the MACD, currently at -80.88804, reflect a bearish sentiment in the market. The lack of a signal line exacerbates this uncertainty. Traders should monitor for potential divergence or convergence in the MACD that could indicate a shift in momentum. The Relative Strength Index (RSI) is unavailable, but once calculated, it will provide further insights into overbought or oversold conditions, aiding in decision-making.\n\nIn terms of support and resistance levels, the recent low of $90,428.65 serves as a critical support level, while the high of $90,778.09 acts as immediate resistance. Traders may consider placing buy orders near the support level, anticipating a bounce, while sell orders could be strategically placed just below the resistance level to capture any potential retracement. Overall, maintaining vigilance and readiness to adapt to market movements will be key in navigating the current landscape of BTC/USD."
+    }
+  }
+}
