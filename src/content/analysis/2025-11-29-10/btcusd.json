@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-11-29T10:50:26.656Z",
+  "price": {
+    "close": "90584.04",
+    "high": "90681.81",
+    "low": "90400",
+    "open": "90587.95",
+    "change": "-0.00",
+    "datetime": "2025-11-29 10:00:00"
+  },
+  "indicators": {
+    "rsi": 42.6866,
+    "macd": -169.43768,
+    "macd_signal": -124.25721,
+    "sma20": 90903.424
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前比特币/美元（BTC/USD）价格在90584.04附近波动，24小时变化为-0.00%，显示出市场情绪较为平稳，短期内缺乏明显的趋势。高点90681.81和低点90400的区间显示出市场在此价格区间内整理，投资者需保持警惕。\n\n从技术指标来看，MACD值为-169.43768，表明空头力量仍在，但未出现明显的卖出信号。RSI（14）数据缺失，无法提供超买或超卖的进一步信息。20日简单移动平均线（SMA）在90903.42400，显示出价格在此水平上方有一定的抵抗力。\n\n支撑位方面，90400是关键心理价位，若跌破该水平，可能引发进一步的下行压力。而在阻力位方面，90681.81如能突破，则有望进一步测试91000的心理关口。建议投资者在当前震荡行情中保持观望，待价格突破关键支撑或阻力位后再进行操作，以降低风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at 90,584.04, reflecting a stable market with a negligible 24-hour change of -0.00%. This price stability is notable given the recent high of 90,681.81 and a low of 90,400, suggesting a tight trading range. Analyzing the trend, Bitcoin appears to be consolidating, indicating potential indecision among traders. A breakout above the recent high could signal a bullish momentum, while a dip below the low may lead to further bearish pressure.\n\nIn terms of technical indicators, the absence of an RSI reading may limit our ability to gauge overbought or oversold conditions. However, the MACD shows a negative value at -169.43768, indicating bearish momentum. Traders should watch closely for any crossover signals in the MACD, which could provide insights into potential reversals or continuations of the current trend. The SMA(20) at 90,903.42 serves as a short-term moving average and may act as a dynamic resistance level if the price attempts to rally.\n\nSupport levels are evident around the recent low of 90,400, which could act as a safety net for buyers. Conversely, if the price breaks above the SMA(20), traders may look for resistance near the recent high of 90,681.81. A sustained move above this level could attract more bullish sentiment and open the door for higher price targets. \n\nFor traders, a cautious approach is advisable given the current market conditions. Long positions may be considered on a confirmed breakout above resistance levels, while short positions could be contemplated if the price breaks below support. Employing stop-loss orders around these critical levels can help manage risk effectively in this volatile environment."
+    }
+  }
+}
