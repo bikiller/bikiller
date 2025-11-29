@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2025-11-29T13:45:07.326Z",
+  "price": {
+    "close": "3000.17",
+    "high": "3001.26",
+    "low": "2992.92",
+    "open": "2998.11",
+    "change": "0.07",
+    "datetime": "2025-11-29 13:00:00"
+  },
+  "indicators": {
+    "rsi": 41.11123,
+    "macd": -9.39976,
+    "macd_signal": -5.55204,
+    "sma20": 3023.845
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理趋势]",
+      "content": "当前以太坊/美元（ETH/USD）价格为3000.17，整体呈现出震荡整理的趋势。尽管24小时内的波动幅度较小，仅为0.07%，但市场仍然保持在2992.92至3001.26的区间内。短期内，投资者需关注该区间的突破情况，以判断未来的价格走向。\n\n在技术指标方面，MACD显示出-9.39976的值，表明当前市场的卖压仍然存在，但尚未形成明显的卖出信号。由于RSI(14)数据缺失，无法提供相对强弱的判断。20日简单移动平均线（SMA）位于3023.845，若价格能够突破该水平，可能会吸引更多买盘。\n\n支撑位方面，2992.92是关键支撑点，若价格跌破，将可能引发更深层次的调整。相反，3001.26则是重要的阻力位，突破后可能会带动价格向上反弹。因此，投资者应密切关注这些关键水平的突破情况。\n\n综合来看，当前市场处于整理阶段，建议投资者采取观望策略，等待价格突破关键支撑或阻力位后再做进一步决策。同时，风险管理不可忽视，合理设置止损以降低潜在损失。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $3000.17, showing minimal change over the past 24 hours. Given the high of $3001.26 and a low of $2992.92 during this period, the market appears to be consolidating within a tight range. This suggests a phase of indecision among traders, and a breakout could potentially signal the next directional move. A sustained close above $3003 may open the path toward resistance at $3025, while a drop below $2990 could indicate further bearish pressure.\n\nThe absence of an available RSI value makes it challenging to assess momentum; however, the current MACD reading of -9.39976 indicates bearish momentum. Traders should be cautious as this suggests that sellers are currently in control. Until the MACD crosses back into positive territory, it may be prudent to adopt a neutral stance. The SMA(20) at $3023.85 also emphasizes that the price is trading below this short-term moving average, reinforcing a bearish outlook.\n\nKey support levels to watch include $2990 and $2975, where buyers may step in to prevent further declines. Conversely, resistance is evident around $3025 and $3050, which could act as significant barriers for upward momentum. A close above the SMA(20) could encourage bullish sentiment, while failure to hold above these support levels may trigger a deeper correction.\n\nTraders should consider adopting a cautious approach in the current environment. If the price breaks above $3025, a long position could be initiated, with a target near $3050. On the other hand, if the price breaks below $2990, it would be wise to consider short positions, targeting the next support level around $2975. Position sizing and risk management should be prioritized in this uncertain market phase."
+    }
+  }
+}
