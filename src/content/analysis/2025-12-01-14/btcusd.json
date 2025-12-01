@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-01T14:59:52.611Z",
+  "price": {
+    "close": "86180.61",
+    "high": "86666.67",
+    "low": "85856.54",
+    "open": "85970.23",
+    "change": "0.24",
+    "datetime": "2025-12-01 14:00:00"
+  },
+  "indicators": {
+    "rsi": 32.81643,
+    "macd": -1209.62485,
+    "macd_signal": -1182.63586,
+    "sma20": 87562.528
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期关注支撑与阻力]",
+      "content": "当前比特币/美元市场呈现出震荡整理的趋势，价格在86180.61附近波动，交易者需关注高点86666.67和低点85856.54的突破情况。若价格能够突破86666.67，可能会引发进一步的上涨动能，而若跌破85856.54，则需警惕短期的下行风险。\n\n技术指标方面，MACD处于负值区域，显示出市场乏力的迹象，虽然RSI未提供，但结合当前价格走势，可能呈现出超卖的状态。短期内，价格若未能站稳在87562.528的SMA之上，将面临进一步的回调压力。市场情绪相对谨慎，需防范波动加剧的可能性。\n\n在支撑与阻力方面，当前主要支撑位为85856.54，若跌破该水平，可能加速下行。而阻力位则集中在87562.528和86666.67，若突破阻力位则有望重新测试88000的心理关口。交易者应密切关注这些关键价位，制定相应的交易策略。\n\n综合来看，建议投资者在当前市场环境中保持观望，耐心等待明确的方向性信号。可以考虑在接近支撑位时适度布局，若突破阻力位则可以适量加仓，务必设置好止损，控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at 86180.61, showing a slight upward movement of 0.24% over the last 24 hours. This modest increase suggests a period of consolidation following the recent volatility. The price has fluctuated between a high of 86666.67 and a low of 85856.54, indicating a narrow trading range. Such price action often signifies indecision within the market, making it crucial for traders to monitor key levels closely to identify potential breakouts or reversals.\n\nThe absence of a calculated RSI(14) means we cannot gauge the momentum accurately at this time. However, the MACD indicator shows a negative value of -1209.62, which may suggest bearish sentiment prevailing in the short term. This negative MACD reading indicates that selling pressure may be dominating, with a potential for further downside if the trend does not reverse. Traders should remain cautious, as prolonged negative momentum could lead to a retest of lower support levels.\n\nSupport is currently seen around 85856.54, which acted as a floor recently. If this level holds, it may provide a buying opportunity for traders looking for a rebound. Conversely, resistance is identified at 87562.53, the 20-day Simple Moving Average. A decisive breakout above this resistance could trigger further bullish momentum, attracting more buyers into the market. Conversely, a sustained move below support could lead to deeper corrections.\n\nIn terms of trading strategies, traders might consider implementing a wait-and-see approach until the price decisively breaks either support or resistance. If a rebound occurs from the support level, it could be a viable entry point for long positions with a target near the 20-day SMA. Conversely, if the price breaks below support, short positions may become favorable, targeting lower price levels while managing risk with appropriate stop-loss orders."
+    }
+  }
+}
