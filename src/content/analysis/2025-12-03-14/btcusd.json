@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-03T14:59:58.801Z",
+  "price": {
+    "close": "92638.26",
+    "high": "93716.63",
+    "low": "91702.36",
+    "open": "93157.05",
+    "change": "-0.56",
+    "datetime": "2025-12-03 14:00:00"
+  },
+  "indicators": {
+    "rsi": 59.47165,
+    "macd": 970.64295,
+    "macd_signal": 1168.41328,
+    "sma20": 92576.972
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前震荡走势]",
+      "content": "当前比特币/美元（BTC/USD）价格为92638.26，市场呈现出震荡整理的趋势。过去24小时内，价格微幅下跌0.56%，在93716.63的高点和91702.36的低点之间波动。这种价格区间的形成表明市场参与者对当前价格水平的谨慎态度，短期内缺乏明确的方向性。\n\n从技术指标来看，RSI（相对强弱指数）目前无法提供具体数据，但结合当前价格走势，我们可以推测市场情绪可能趋近于超买或超卖的边缘。MACD的值为970.64295，表明短期内可能存在回调的风险，而20日简单移动平均线（SMA）在92576.972附近提供了初步支撑，这一水平若被有效跌破，可能会引发进一步下行。\n\n在支撑和阻力方面，91702.36被视为强支撑位，一旦跌破，将可能加大市场的看空情绪。而93716.63则是主要的阻力位，若能够突破并站稳该水平，有望引发新的上涨动能。在此情况下，建议投资者保持谨慎，关注价格在关键支撑和阻力位的表现，及时调整仓位以应对市场波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is 92638.26, reflecting a slight decline of 0.56% over the past 24 hours. This minor pullback follows a recent peak at 93716.63, suggesting that Bitcoin may be facing resistance at this level. The price has established a range between 91702.36 and 93716.63, indicating that traders should closely monitor these boundaries for potential breakout or reversal opportunities.\n\nThe Simple Moving Average (SMA) for the last 20 periods stands at 92576.972, which serves as a crucial support level. If Bitcoin’s price dips below this SMA, it could indicate a bearish trend, prompting traders to reassess their positions. Conversely, maintaining prices above this level could validate a bullish sentiment, offering a foundation for upward momentum. It is vital for traders to watch for price action around this SMA to gauge market sentiment.\n\nWhile the Relative Strength Index (RSI) is currently unavailable, the MACD indicator shows a value of 970.64295. This implies a bullish momentum, although the absence of a signal line makes it difficult to determine the strength of this trend. Traders should remain cautious; if the MACD starts to converge towards the zero line, it could indicate a weakening bullish momentum, warranting a reassessment of long positions.\n\nIn terms of trading strategies, a prudent approach would involve setting buy orders near the support level around 91702.36, coupled with sell orders near the resistance at 93716.63. Additionally, employing stop-loss orders just below the SMA would help manage risk in the event of a downward breakout. Monitoring key indicators and price levels will be essential to capitalize on potential opportunities in the volatile Bitcoin market."
+    }
+  }
+}
