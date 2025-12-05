@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-05T14:52:07.109Z",
+  "price": {
+    "close": "90120.29",
+    "high": "90784",
+    "low": "89927",
+    "open": "90491.92",
+    "change": "-0.41",
+    "datetime": "2025-12-05 14:00:00"
+  },
+  "indicators": {
+    "rsi": 28.15105,
+    "macd": -497.014372,
+    "macd_signal": -308.095565,
+    "sma20": 91846.167
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，谨慎观望]",
+      "content": "当前比特币价格为90120.29美元，24小时内小幅下跌0.41%。从高点90784美元回落至低点89927美元，显示出市场情绪略显谨慎。目前走势呈现震荡整理态势，投资者需要密切关注价格的波动，以把握入场时机。\n\n技术指标方面，MACD值为-497.01，表明短期内卖压较重，市场动能偏弱。由于RSI数据缺失，无法全面分析超买或超卖情况，但结合SMA(20)的91846.167，我们可以看出价格仍在该均线下方，可能面临额外的下行压力。\n\n支撑位方面，在89927美元附近形成初步支撑，若价格跌破将可能加速回调，进一步支撑位在88500美元。阻力位则在91846.167美元附近，价格若反弹至此处，则需关注能否突破该均线，从而恢复上涨动能。\n\n总体而言，当前比特币市场表现出一定的疲态，建议投资者保持谨慎，短期内可考虑观望，等待价格突破重要支撑或阻力位后再做进一步决策。保持警惕，合理控制风险，避免追高。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently exhibiting a slight bearish trend, with the latest price at $90,120.29 and a 24-hour change of -0.41%. The recent high of $90,784 and low of $89,927 indicates a tight trading range, suggesting that market participants are cautious. The downward movement below the 20-day Simple Moving Average (SMA) of $91,846.167 reinforces this bearish sentiment. A sustained decline below this SMA could signal further downward momentum, potentially dragging the price to test lower support levels.\n\nIn terms of technical indicators, the MACD value of -497.01 suggests a bearish momentum, although without the signal line data, it's challenging to assess the strength of this trend comprehensively. The absence of RSI data prevents an evaluation of whether the market is oversold or overbought. Traders should monitor the MACD closely for potential crossovers that could indicate a change in momentum. A move towards the zero line may provide a clearer picture of a potential trend reversal or continuation.\n\nFrom a support and resistance perspective, immediate support appears to be around the recent low of $89,927. A breach below this level could open the door to further declines, possibly targeting psychological support at $89,000. Conversely, resistance is identified at the recent high of $90,784 and the SMA of $91,846. A breakout above these levels could signal a bullish reversal, inviting buying interest and potentially leading to higher price targets.\n\nTraders may consider employing a cautious approach. If the price approaches support levels, a potential long position could be established, particularly if bullish reversal patterns emerge. Conversely, if Bitcoin breaks below support, short positions could be warranted. Maintaining a close watch on volume and market sentiment will be crucial in making informed trading decisions in this volatile environment."
+    }
+  }
+}
