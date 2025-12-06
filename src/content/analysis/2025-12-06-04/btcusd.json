@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-06T04:41:26.221Z",
+  "price": {
+    "close": "89614.36",
+    "high": "89732.83",
+    "low": "89490.83",
+    "open": "89701.44",
+    "change": "-0.10",
+    "datetime": "2025-12-06 04:00:00"
+  },
+  "indicators": {
+    "rsi": 40.47135,
+    "macd": -619.83313,
+    "macd_signal": -706.88223,
+    "sma20": 89891.0615
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币/美元（BTC/USD）价格为89614.36，24小时变化仅为-0.10%。从高点89732.83和低点89490.83来看，市场似乎处于震荡整理的状态。价格未能突破关键阻力位90000，显示出短期内买卖双方力量趋于平衡，市场情绪较为谨慎。\n\n技术指标方面，当前未提供RSI(14)的数值，但MACD值为-619.83313，表明市场仍处于弱势，可能面临进一步下行风险。SMA(20)为89891.06，价格低于此水平，暗示短期内可能继续承压。因此，投资者需密切关注后市动向，以便及时调整策略。\n\n支撑位方面，89490.83是当前的关键支撑区域，若价格进一步跌破该水平，可能引发更多抛售压力，向下目标看向89000。而阻力位则在89891.06附近，若成功突破该阻力，可能会带来新的上涨机会。投资者在操作时应设置合理的止损。\n\n综合来看，BTC/USD在当前价位震荡整理，短期内存在一定的下行风险。建议投资者保持观望，待市场突破关键支撑或阻力位后再考虑入场交易。同时，做好风险管理，避免在波动较大的市场中过度交易。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $89,614.36, reflecting a slight decline of 0.10% over the past 24 hours. This minor change indicates a period of consolidation, as the price has been oscillating between the established high of $89,732.83 and the low of $89,490.83. The lack of significant momentum suggests that traders may be awaiting clearer signals to dictate the next move, which could lead to a breakout or a further retracement.\n\nIn terms of trend analysis, the recent price action is indicative of a neutral to bearish sentiment, given the proximity to the simple moving average (SMA) of $89,891.06. If Bitcoin fails to reclaim the SMA, it could signal a continuation of the downward pressure. Conversely, a sustained move above this level may reinvigorate buying interest and potentially target higher resistance levels. Therefore, keeping a close watch on the SMA and the surrounding price action is crucial for determining short-term directional bias.\n\nThe Relative Strength Index (RSI) is currently unavailable; however, the MACD shows a value of -619.83313, which hints at bearish momentum. This suggests that selling pressure may be building. Should the MACD cross above its signal line in the future, it could present a buying opportunity. Traders should also monitor support levels around $89,490.83, as a breach below this point could trigger further selling and open the door to lower targets.\n\nFor trading strategies, a conservative approach would involve waiting for confirmation of either a breakout above the SMA or a breakdown below the support level. A successful breakout could offer a buying opportunity with targets set toward the next resistance level, while a breakdown may present a shorting opportunity to capitalize on downside momentum. As always, risk management remains essential in navigating the volatile cryptocurrency landscape."
+    }
+  }
+}
