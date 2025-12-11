@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-11T16:25:28.779Z",
+  "price": {
+    "close": "89645.9",
+    "high": "90008.37",
+    "low": "89328.96",
+    "open": "89874.65",
+    "change": "-0.25",
+    "datetime": "2025-12-11 16:00:00"
+  },
+  "indicators": {
+    "rsi": 33.38371,
+    "macd": -558.29838,
+    "macd_signal": -517.90822,
+    "sma20": 90535.1115
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期承压]",
+      "content": "当前比特币/美元(BTC/USD)的价格为89645.9，显示出市场在90000美元关口附近的震荡整理态势。尽管24小时变化仅为-0.25%，但高点90008.37与低点89328.96的幅度表明市场情绪尚未决定，买卖双方在此区域存在明显的博弈。\n\n从技术指标来看，MACD目前呈现负值，显示出短期内卖方力量占据主导地位，而SMA(20)的数值为90535.11，表明价格运行在短期均线下方，进一步确认了短期内的下行压力。尽管RSI(14)数据缺失，但通常在这种情况下若RSI接近超卖区，可能会为反弹提供机会。\n\n支撑位方面，89328.96是关键支撑区域，若价格跌破该水平，可能会引发进一步的下行趋势。阻力位则设在90000美元附近，若价格有效突破该水平，将有望重新测试90500美元区间。整体来看，短期内建议采取观望态度，待市场明确方向后再进行交易决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD market is currently experiencing a slight downtrend, with a latest price of 89,645.9, reflecting a 24-hour change of -0.25%. The recent high of 90,008.37 and low of 89,328.96 indicate a tightening trading range, suggesting that traders are uncertain about the next significant move. The prevailing trend appears bearish, especially as the price has consistently failed to reclaim the 90,000 level, highlighting resistance in that area.\n\nThe absence of an available RSI value limits our ability to assess overbought or oversold conditions. However, the MACD is currently negative at -558.29838, which suggests that bearish momentum is present. As the market continues to trade below the 20-day simple moving average (SMA) of 90,535.11150, it reinforces the current bearish sentiment. Traders should closely monitor the MACD for potential crossovers that might indicate a shift in momentum.\n\nKey support levels to watch are around 89,328.96, which was the recent low, and further below at 88,500, where buying interest may become significant. Conversely, resistance is evident at 90,000, and a break above the SMA could signal a bullish reversal. If the price manages to hold above these support levels, it may attract buyers looking for a potential bounce back towards the resistance zone.\n\nIn terms of trading strategy, a cautious approach is advisable. Short positions may be appropriate as long as the price remains below the 20-day SMA. However, traders should consider potential long entries if the price breaks above 90,000 with strong volume. Setting stop-loss orders below key support levels can help manage risk in this volatile environment, ensuring a disciplined trading approach amid uncertainty."
+    }
+  }
+}
