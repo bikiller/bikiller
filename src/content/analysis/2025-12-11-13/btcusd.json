@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-11T13:53:08.405Z",
+  "price": {
+    "close": "90002.02",
+    "high": "90157.86",
+    "low": "89871",
+    "open": "90038.35",
+    "change": "-0.04",
+    "datetime": "2025-12-11 13:00:00"
+  },
+  "indicators": {
+    "rsi": 32.93926,
+    "macd": -533.60164,
+    "macd_signal": -482.52907,
+    "sma20": 90977.228
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡趋弱]",
+      "content": "当前比特币价格为90002.02美元，24小时内微幅下跌0.04%。从近期价格走势来看，比特币在89871至90157.86美元区间内波动，显示出短期震荡的特征。市场似乎缺乏明确的方向，投资者情绪较为谨慎。\n\n技术指标方面，MACD显示出负值，表明短期内卖压可能较强，目前信号线尚未形成，进一步确认了市场的不确定性。同时，SMA(20)在90977.23美元，作为一个重要的参考水平，价格若突破该均线，可能会引发短期的反弹。\n\n从支撑和阻力位来看，89871美元是当前的重要支撑位，若跌破该水平，价格可能进一步回调至88500美元附近。相对的，90157.86美元则是短期阻力位，若能有效突破该位置，可能会重启上涨趋势。\n\n基于当前市场状况，建议投资者保持观望，待市场走势明确后再做决策。如价格持续维持在89871美元之上，可以考虑适量入场，但若跌破支撑位，则需谨慎应对，防止损失扩大。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market data for Bitcoin against the US Dollar indicates a slight bearish sentiment, with the price hovering around $90,002.02. The recent 24-hour change of -0.04% suggests a consolidation phase, following the recent high of $90,157.86 and low of $89,871. This range-bound movement indicates a lack of strong buying or selling pressure, which could lead to a potential breakout in either direction as traders await clearer signals.\n\nFrom a technical perspective, the absence of a reported RSI complicates momentum analysis; however, the MACD value of -533.60164 indicates a bearish trend, suggesting that selling pressure may be dominating the market. The Simple Moving Average (SMA) of 20 periods at $90,977.23 further reinforces this bearish outlook, as the current price is trading significantly below this average. Traders should monitor these indicators closely for potential reversals or continued downtrends.\n\nIdentifying key support and resistance levels is crucial for developing trading strategies. The immediate support level can be observed around $89,871, which, if breached, could open the door for further declines. Conversely, resistance is noted at the SMA level of $90,977.23, which traders might consider as a target for potential short-squeeze scenarios. A decisive break above this resistance could reignite bullish momentum, while a breakdown below support could trigger more significant selling.\n\nFor traders, maintaining a cautious approach is advisable. Those with long positions may consider setting stop-loss orders just below the support level to mitigate risks. Meanwhile, short positions could be explored if the price fails to reclaim the SMA, especially if additional bearish signals materialize. Overall, a wait-and-see strategy, combined with close monitoring of market indicators, appears prudent in the current environment."
+    }
+  }
+}
