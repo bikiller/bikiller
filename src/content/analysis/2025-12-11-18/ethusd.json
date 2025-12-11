@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2025-12-11T19:00:44.127Z",
+  "price": {
+    "close": "3219.44",
+    "high": "3233.58",
+    "low": "3179.93",
+    "open": "3180.37",
+    "change": "1.22",
+    "datetime": "2025-12-11 18:00:00"
+  },
+  "indicators": {
+    "rsi": 48.0038992,
+    "macd": -26.81579,
+    "macd_signal": -28.3158,
+    "sma20": 3209.3505
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理趋势]",
+      "content": "当前以太坊在3219.44美元附近交易，日内波动幅度较小，显示出震荡整理的趋势。相较于前一个交易日，价格上升了1.22%，但仍未突破3233.58美元的高点，表明市场情绪相对谨慎。短期内，市场可能会在3200至3250美元区间内波动，投资者需密切关注这一动态。\n\n从技术指标来看，虽然RSI(14)数据缺失，MACD显示为负值(-26.81579)，这表明市场可能处于弱势状态，卖方压力依然存在。SMA(20)位于3209.35美元，稍高于当前价格，可能成为短期支撑位。如果价格有效突破此均线，将有助于提振市场信心。\n\n在支撑和阻力位方面，3179.93美元是近期的低点，可能会为价格提供支撑。若突破该支撑位，可能会引发进一步的下行调整。与此同时，3233.58美元则是关键的阻力位，若价格突破该水平，可能会重新点燃多头的希望。\n\n基于当前的市场状况，建议投资者采取观望策略，等待价格突破关键阻力位或支撑位后再做决策。如果市场表现出强劲的反弹信号，可以考虑适量布局，但需设置止损以控制风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum against the US Dollar stands at $3,219.44, reflecting a modest daily increase of 1.22%. Observing the recent price action, ETH has demonstrated resilience as it approaches the recent high of $3,233.58. This level may act as a key resistance point; if ETH can break above it, we could see a rally toward the next psychological level around $3,300. Conversely, the recent low at $3,179.93 serves as a crucial support level, and a drop below this could signal a bearish trend.\n\nTechnical indicators present a mixed picture. The MACD is currently negative at -26.81579, indicating bearish momentum in the short term. However, without the signal line data, it is challenging to gauge the precise momentum shift. The absence of a Relative Strength Index (RSI) also limits our ability to assess overbought or oversold conditions. Traders should remain cautious, as a sustained MACD reading could suggest continued downward pressure if confirmation of further selling emerges.\n\nThe 20-day Simple Moving Average (SMA) is currently at $3,209.35, indicating a slight bullish lean as the price hovers above this level. A close above the SMA could signify a potential uptrend, encouraging buyers to enter the market. Traders might consider setting buy orders above the recent high, while placing stop-loss orders just below the support level to manage risk effectively.\n\nIn summary, ETH/USD is at a pivotal point. The market appears to consolidate between key support and resistance levels, creating an opportunity for traders to capitalize on potential price movements. Monitoring the breakout above resistance or a drop below support will be essential in determining the next steps in this market."
+    }
+  }
+}
