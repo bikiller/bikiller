@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-12T13:48:55.864Z",
+  "price": {
+    "close": "92308.68",
+    "high": "92527.31",
+    "low": "92250.01",
+    "open": "92444",
+    "change": "-0.15",
+    "datetime": "2025-12-12 13:00:00"
+  },
+  "indicators": {
+    "rsi": 55.78902,
+    "macd": 341.93875,
+    "macd_signal": 353.36565,
+    "sma20": 92216.4075
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理趋势]",
+      "content": "当前比特币/美元（BTC/USD）价格在92308.68美元附近，近期表现出轻微的震荡整理趋势。从24小时变化来看，价格下跌0.15%，高点为92527.31美元，低点为92250.01美元，显示出市场缺乏明确方向。短期内，若能突破92500美元的阻力位，可能会吸引更多买盘。\n\n在技术指标方面，SMA(20)显示出当前价格略高于92216.4075，反映出短期内的上行趋势受到支撑。然而，RSI和MACD的数据尚不可用，导致对动量的判断存在一定的不确定性。密切关注MACD信号线的变化，将有助于识别潜在的买入或卖出时机。\n\n从支撑和阻力位来看，92250美元是一个重要的支撑位，若跌破此位，可能会引发更大幅度的下跌。相对的，92500美元及92527.31美元则构成了主要的阻力位。因此，交易者应在这些关键价位附近观察价格反应，以制定相应的交易策略。\n\n综合来看，建议交易者在当前震荡整理的市场环境中保持谨慎，若价格突破92500美元则考虑适度进场做多，而若跌破92250美元则可考虑止损或观望，以降低风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is positioned at 92308.68, reflecting a slight decline of 0.15% over the past 24 hours. This minor retracement suggests a period of consolidation following recent fluctuations. The high and low for the day, 92527.31 and 92250.01 respectively, indicate a narrow trading range, which may signal reduced volatility. A sustained break above the recent high could indicate bullish momentum, while a drop below the low may lead to further downside pressure.\n\nFrom a technical perspective, the absence of a calculated RSI complicates the analysis, but the MACD reading of 341.93875 suggests a bullish trend, albeit with limited momentum at this point. The simple moving average (SMA) of 20 periods at 92216.4075 provides a dynamic support level. If price action can remain above this SMA, it may indicate a continuation of the current trend. However, traders should closely monitor the market for any signs of a bearish crossover in the MACD, which could signify a shift in momentum.\n\nIn terms of support and resistance levels, the immediate support appears to be around 92250, which aligns with the daily low. Conversely, the resistance level is situated at 92527, where the price previously encountered selling pressure. A successful breach of this resistance could open the door to further gains, while a failure to hold above the support level may necessitate reevaluation of bullish positions.\n\nFor traders, a cautious approach is advisable. Entering long positions above the resistance level of 92527 could capitalize on upward momentum, while setting stop-loss orders just below the support level at 92250 can help manage risk. Conversely, if the price breaks below the SMA, short positions may be considered, targeting a retest of lower supports. Monitoring additional indicators and market sentiment will be crucial for informed decision-making in this dynamic environment."
+    }
+  }
+}
