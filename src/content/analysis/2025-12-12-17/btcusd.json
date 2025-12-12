@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-12T17:39:04.418Z",
+  "price": {
+    "close": "90159.45",
+    "high": "90664",
+    "low": "89839.69",
+    "open": "90067.22",
+    "change": "0.10",
+    "datetime": "2025-12-12 17:00:00"
+  },
+  "indicators": {
+    "rsi": 34.95327,
+    "macd": -158.53211,
+    "macd_signal": 154.047109,
+    "sma20": 92038.352
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡，关注支撑与阻力]",
+      "content": "当前比特币价格90159.45，呈现出短期震荡的趋势。虽然价格在24小时内微幅上涨0.10%，但整体波动幅度较小，显示出市场参与者的谨慎态度。高点90664与低点89839.69的区间表明，投资者仍在寻求明确的方向。\n\n从技术指标来看，MACD为负值-158.53211，说明当前市场可能处于下行压力中。尽管RSI(14)数据缺失，但通常情况下，RSI低于30会显示超卖状态，而高于70则表示超买。因此，需密切关注RSI的变动，以便判断未来的反弹或下行机会。\n\n支撑位方面，89839.69是近期低点，若价格跌破此水平，可能会引发更大的抛售压力；而在阻力位方面，92038.352的20日简单移动平均线(SMA)将是关键的压力区。如果价格能够突破此阻力，可能会引发新的买盘。\n\n基于当前市场情况，建议投资者保持谨慎，考虑在89839.69附近建立多单，目标可设定在92038.352附近。同时，设置止损位在89800以下，以控制风险。整体而言，市场仍需更多的买盘力量以确认反弹趋势。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market data for Bitcoin against the US Dollar indicates a cautious trading environment, with the price hovering around 90,159.45. This level reflects a slight increase of 0.10% over the past 24 hours, suggesting that buyers are maintaining a degree of control. However, the price remains below the 20-day Simple Moving Average (SMA) of 92,038.35, indicating that the short-term trend is bearish. A sustained movement below this SMA could lead to further downside pressure, while a reversal above it may signal a potential bullish trend.\n\nSupport levels are critical to monitor, particularly the recent low of 89,839.69, which could act as a psychological barrier for traders. If Bitcoin breaks below this support, it may catalyze further selling, potentially targeting the next significant support around 88,000. Conversely, the recent high of 90,664 serves as immediate resistance. A successful breach above this level may set the stage for a more robust upward movement, possibly aiming for the SMA and beyond.\n\nThe MACD indicator currently shows a negative value of -158.53211, suggesting a bearish momentum. However, without the signal line data, it's challenging to draw definitive conclusions about potential crossover points. Traders should remain vigilant for any shifts in momentum that could indicate a reversal. Additionally, the Relative Strength Index (RSI) is currently unavailable, but it will be crucial for assessing overbought or oversold conditions in future analyses.\n\nFor trading strategies, a cautious approach is advisable. Traders may consider short positions if Bitcoin fails to maintain above 90,000, particularly if the price approaches the identified support levels. Conversely, those looking for long positions should wait for a clear breakout above 90,664, ideally accompanied by increased volume. This strategy allows traders to manage risk effectively while positioning themselves for potential gains in either direction."
+    }
+  }
+}
