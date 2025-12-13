@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-13T21:31:43.685Z",
+  "price": {
+    "close": "89985.96",
+    "high": "90129.59",
+    "low": "89933.69",
+    "open": "90110.05",
+    "change": "-0.14",
+    "datetime": "2025-12-13 21:00:00"
+  },
+  "indicators": {
+    "rsi": 36.019393,
+    "macd": -204.78413,
+    "macd_signal": -221.1276,
+    "sma20": 90269.615
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前市场平稳，短期震荡]",
+      "content": "当前比特币/美元(BTC/USD)价格为89985.96，处于近期高点90129.59和低点89933.69之间，显示出市场的短期震荡趋势。虽然24小时变化仅为-0.14%，但价格未能突破关键阻力位90269.61500，可能导致进一步的回调。\n\n从技术指标来看，MACD目前为负值-204.78413，显示出卖方力量的占优，短期内可能持续承压。由于RSI(14)数据缺失，我们无法准确判断超买或超卖状态，但价格未能有效突破前高，可能暗示市场情绪谨慎。\n\n支撑位方面，89933.69将是短期关键支撑，一旦跌破，可能引发更大幅度的回调，甚至测试88500的心理关口。阻力位则聚焦于90269.61500，一旦突破，可能重新点燃多头的希望，引发新一轮上涨。\n\n基于当前市场状况，建议投资者保持谨慎，观望为主。若价格回撤至支撑位附近，可以考虑逢低布局，反之若突破阻力位则可适当加仓，利用短期波动进行交易。务必设置止损以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $89,985.96, reflecting a slight decline of 0.14% over the past 24 hours. This minor pullback suggests a consolidation phase after reaching a recent high of $90,129.59. Observing the price action, we note that Bitcoin is currently testing a critical support level around $89,933.69. A strong bounce from this level could indicate bullish sentiment, while a break below may signal further downside potential.\n\nThe 20-day Simple Moving Average (SMA) is positioned at $90,269.62, acting as a dynamic resistance level. Should the price surpass this SMA, it may open the door for a retest of higher levels, potentially approaching the $91,000 mark. Conversely, if Bitcoin struggles to reclaim this SMA, it could lead to increased selling pressure, reinforcing the importance of the $89,933 support level. \n\nCurrently, the RSI is not available, but the MACD shows a negative reading of -204.78413, hinting at bearish momentum. A crossover of the MACD line above the signal line in the future could provide a bullish signal, indicating a potential reversal in trend. Traders should closely monitor these indicators for signs of market strength or weakness. \n\nIn terms of trading strategy, investors may consider establishing long positions if Bitcoin decisively breaks above $90,269. Conversely, if the price drops below $89,933, a short position could be warranted, with targets set at lower support levels. Risk management remains crucial, especially in a volatile market like cryptocurrency, where rapid fluctuations can lead to significant gains or losses."
+    }
+  }
+}
