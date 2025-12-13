@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-13T04:23:24.160Z",
+  "price": {
+    "close": "90291.36",
+    "high": "90369.99",
+    "low": "90282.24",
+    "open": "90351.96",
+    "change": "-0.07",
+    "datetime": "2025-12-13 04:00:00"
+  },
+  "indicators": {
+    "rsi": 39.21361,
+    "macd": -379.84061,
+    "macd_signal": -342.94201,
+    "sma20": 90895.6335
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[下行趋势待确认]",
+      "content": "当前比特币/美元（BTC/USD）交易价格为90291.36，整体呈现出轻微的下行趋势。最近24小时内价格变化不大，仅为-0.07%。虽然当前价格接近日内低点90282.24，但尚未出现明确的下行破位信号。因此，短期内仍需关注市场的进一步动态，以确认趋势的延续或反转。\n\n从技术指标来看，MACD值为-379.84061，暗示出市场处于卖方主导的状态。由于RSI未提供，无法准确判断是否存在超卖或超买情况，但结合SMA(20)的90895.63，可以推测当前价格在短期内面临一定的下行压力。若价格持续低于这一均线，则可能会加强下行趋势。\n\n支撑位方面，90282.24将作为近期的关键支撑位，若突破此位，可能会导致更大幅度的下跌。相对的，90369.99则为短期阻力位，若价格能够突破此阻力，将可能吸引更多买盘进场，推动价格反弹。\n\n基于当前市场状况，建议投资者保持谨慎，关注价格在关键支撑位的表现。如果价格持续低于90282.24，可以考虑适度减仓或观望，而若有反弹至90369.99以上，则可适当介入多头交易。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $90,291.36, reflecting a slight 0.07% decline over the past 24 hours. This stagnation in price movement indicates a consolidation phase, suggesting that traders may be awaiting clearer directional signals. The recent high of $90,369.99 and low of $90,282.24 delineate a narrow trading range, which often precedes a breakout. Investors should closely monitor this range for potential volatility as price approaches either end.\n\nThe absence of a calculated RSI makes it challenging to gauge the momentum, but the MACD reading of -379.84061 implies bearish sentiment, with the market potentially favoring sellers. The simple moving average (SMA) of $90,895.63 indicates that the price is currently below this key level, which may act as a resistance point. Should the price breach this SMA, it could signal a bullish reversal, enticing buyers to enter the market.\n\nIn terms of support and resistance levels, immediate support appears to be around the recent low of $90,282.24. A break below this level could lead to further downside, potentially targeting the next support near $90,000. Conversely, resistance is established at the recent high of $90,369.99, and a move above this could suggest a short-term bullish trend, making it crucial for traders to set alerts around these key levels.\n\nFor trading strategies, maintaining a neutral stance until a clear breakout occurs may be prudent. Traders might consider placing buy orders just above the resistance level of $90,369.99 while monitoring for a stop-loss just below the support level of $90,282.24. This strategy can offer a favorable risk-reward ratio, especially if the market begins to show stronger momentum following this period of consolidation."
+    }
+  }
+}
