@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-14T09:34:41.393Z",
+  "price": {
+    "close": "90054.64",
+    "high": "90176.01",
+    "low": "90012.38",
+    "open": "90130.85",
+    "change": "-0.08",
+    "datetime": "2025-12-14 09:00:00"
+  },
+  "indicators": {
+    "rsi": 38.82534,
+    "macd": -90.79271,
+    "macd_signal": -103.48282,
+    "sma20": 90186.941
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡调整]",
+      "content": "当前比特币/美元(BTC/USD)价格为90054.64美元，市场表现出短期震荡的趋势。过去24小时内价格波动不大，仅下降了0.08%。高点90176.01美元和低点90012.38美元显示出市场的窄幅整理，短期内缺乏明显的方向性。\n\n技术指标方面，尽管RSI(14)数据缺失，但MACD值为-90.79271，表明市场可能处于弱势状态。此时，20日简单移动平均线(SMA)为90186.94100，进一步确认了当前的阻力位在90186附近。若价格持续低于这一水平，可能会进一步承压。\n\n支撑位方面，90012.38美元是近期的低点，若价格跌破此位，可能会引发更大的卖压，测试更低支撑。而若能企稳于此支撑之上，则有望迎来反弹机会。投资者应关注这些关键价位，以便及时调整策略。\n\n建议投资者在当前震荡行情中采取观望态度，等待更明确的入场信号。如果价格突破90186.94美元阻力位，则可考虑小幅做多；反之，若跌破90012.38美元支撑位，则应谨慎处理，避免损失。保持灵活的交易策略是应对当前市场的关键。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $90,054.64, reflecting a slight 24-hour decline of 0.08%. Recent trading activity shows a high of $90,176.01 and a low of $90,012.38, indicating a tight range that suggests consolidation. This period of sideways movement may point to indecision among traders, highlighting the need for a decisive breakout to establish a new trend direction. A sustained move above the recent high could signal bullish momentum, while a drop below the low could trigger further selling pressure.\n\nIn terms of technical indicators, the moving average convergence divergence (MACD) is currently negative at -90.79271, suggesting bearish momentum. The absence of a signal line makes it challenging to derive a clear trading signal. Meanwhile, the 20-period simple moving average (SMA) at $90,186.94 serves as a critical resistance level. If the price can close above this SMA, it could indicate a potential shift in momentum, while failure to do so may reinforce bearish sentiment.\n\nKey support and resistance levels are crucial for traders to monitor. The immediate support level lies around $90,012.38, which, if breached, could lead to further downside towards psychological support at $90,000. Conversely, resistance is established at the recent high of $90,176.01, where sellers may emerge. A breakout above this level could attract bullish traders, while a drop below support would likely lead to increased volatility and potential capitulation.\n\nFor trading strategies, consideration should be given to a cautious approach due to the current market conditions. Traders may look for confirmation of a breakout above resistance before entering long positions, while short positions could be considered if the price breaks below support. Utilizing stop-loss orders can help manage risk effectively in this environment of uncertainty, allowing for strategic entries and exits based on price action."
+    }
+  }
+}
