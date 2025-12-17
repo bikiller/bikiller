@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-17T21:36:24.166Z",
+  "price": {
+    "close": "85742.85",
+    "high": "86024",
+    "low": "85627.17",
+    "open": "85857.39",
+    "change": "-0.13",
+    "datetime": "2025-12-17 21:00:00"
+  },
+  "indicators": {
+    "rsi": 40.94812,
+    "macd": -297.67192,
+    "macd_signal": -128.73052,
+    "sma20": 86811.185
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡调整中]",
+      "content": "当前比特币在85742.85美元附近波动，24小时变化仅为-0.13%，显示出短期内市场情绪较为谨慎。观察高点86024和低点85627.17，可以看出当前价格在一个狭窄的区间内震荡，短期趋势偏向横盘整理。若价格持续在该区间内，可能会导致进一步的方向性突破。\n\n从技术指标来看，虽然RSI和MACD的具体数值尚未提供，但MACD值为负，显示出卖方力量仍然较强。20日简单移动平均线(SMA)在86811.185附近形成了阻力，价格未能突破这一水平，可能会在短期内继续施加压力。若无法有效站稳在这一均线之上，后市将面临进一步下探的风险。\n\n支撑位方面，当前的低点85627.17为重要支撑区域，若价格跌破此位，可能会引发更多的抛售压力，进一步向下测试85400和85000的心理关口。相反，若价格突破86024的高点，可能会开启反弹行情，重新测试86811的阻力位。\n\n因此，建议交易者在当前市场条件下保持谨慎，关注关键支撑和阻力水平的突破情况。如果突破86024，可以考虑短线反弹策略；若跌破85627.17，则需警惕可能的下行风险，适时调整持仓策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $85,742.85, reflecting a slight decline of 0.13% over the past 24 hours. This minor pullback follows a recent high of $86,024, suggesting that the market is experiencing some short-term resistance in this range. The inability to break above this level could indicate a bearish sentiment in the immediate term, potentially leading to further consolidation or a slight downward trend.\n\nAnalyzing the technical indicators, the MACD is currently at -297.67192, indicating bearish momentum. However, the absence of a signal line makes it difficult to assess the strength of this trend. The RSI is also unavailable, which limits our understanding of market momentum. The 20-day Simple Moving Average (SMA) at $86,811.19 further reinforces the resistance at $86,000, suggesting that sellers may emerge strongly if prices approach this level again.\n\nSupport levels appear to be forming near the recent low of $85,627.17. If this price point holds, it could provide a foundation for a potential bullish reversal. However, if the price breaks below this support level, we may see further declines and a test of the next support around $84,500. Traders should remain cautious, as the current market conditions favor a possible downward correction if selling pressure increases.\n\nIn terms of trading strategy, it may be prudent to wait for clearer signals before entering new positions. A break above the $86,000 resistance could trigger a buying opportunity, while a confirmation of support at $85,627 could suggest a short-term buy. Conversely, if the price falls below this support, it would be wise to consider short positions or to exit existing long positions to mitigate risk."
+    }
+  }
+}
