@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-20T05:39:13.862Z",
+  "price": {
+    "close": "88429.45",
+    "high": "88469.11",
+    "low": "88227.78",
+    "open": "88258.02",
+    "change": "0.19",
+    "datetime": "2025-12-20 05:00:00"
+  },
+  "indicators": {
+    "rsi": 60.45261,
+    "macd": 308.35138,
+    "macd_signal": 295.1646,
+    "sma20": 87953.881
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前比特币的交易价格为88429.45美元，24小时内微幅上涨0.19%。近期价格在88227.78至88469.11的区间内震荡整理，显示出市场参与者的谨慎态度。短期内，若价格能突破88470美元的阻力位，可能会引发进一步的上涨动能。\n\n从技术指标来看，尽管RSI(14)数据缺失，但根据当前的价格走势，市场可能处于超买状态，需关注潜在的回调风险。MACD指标为308.35138，表明短期内仍有上涨的动能，但需警惕信号线的变化，以免错失最佳入场时机。\n\n支撑位方面，主要关注87953.88的20日简单移动平均线(SMA)。若价格回落至该水平，可能会吸引买盘进入，形成支撑。而在上方88470美元的阻力位则是关键，突破后将有可能测试更高的价位。\n\n建议交易者在当前区间内保持谨慎，可考虑在支撑位附近寻找买入机会，同时在接近阻力位时锁定利润，避免因市场震荡而导致的损失。保持关注市场动态，灵活调整交易策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin at 88,429.45 has shown a modest increase of 0.19% over the past 24 hours, reflecting a stable market sentiment. This price level is crucial as it tests the recent resistance at 88,469.11, which, if breached, could signal a potential continuation of the bullish trend. Conversely, the low of 88,227.78 serves as a key support level. A drop below this mark may indicate weakness, possibly leading to further declines.\n\nThe absence of a calculated RSI(14) makes it challenging to assess overbought or oversold conditions, but the MACD value of 308.35 suggests bullish momentum in the short term. Investors should watch for a crossover in the MACD and its signal line for confirmation of a trend change. Coupled with the SMA(20) at 87,953.88, this indicates that the price is currently above the short-term average, reinforcing the bullish outlook. \n\nAs for support and resistance levels, the immediate resistance is identified at 88,469.11, while the significant support level is around 88,227.78. A sustained move above the resistance could lead to price targets around 89,000. Conversely, a breakdown below the support may open the door to re-test lower levels, potentially down to the SMA(20). \n\nTraders should consider a cautious approach, monitoring the price action closely. A breakout above resistance could prompt long positions, while a drop below support may warrant short positions or caution. Employing stop-loss orders around these critical levels can help manage risk effectively in this volatile environment."
+    }
+  }
+}
