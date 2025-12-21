@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-21T03:09:42.982Z",
+  "price": {
+    "close": "88044.02",
+    "high": "88082.27",
+    "low": "87901.21",
+    "open": "87923.24",
+    "change": "0.14",
+    "datetime": "2025-12-21 03:00:00"
+  },
+  "indicators": {
+    "rsi": 48.73089,
+    "macd": 50.27276,
+    "macd_signal": 104.28592,
+    "sma20": 88180.778
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，谨慎观望]",
+      "content": "当前比特币/美元（BTC/USD）价格为88044.02，市场呈现出震荡整理的态势。过去24小时价格变化仅为0.14%，显示出市场参与者的观望情绪较重。高点88082.27与低点87901.21的波动幅度有限，反映出短期内多空力量相对平衡。\n\n从技术指标来看，MACD当前值为50.27276，尽管未提供信号线数据，但该值接近零轴，暗示市场缺乏明确的趋势方向。同时，20日简单移动平均线（SMA）为88180.778，价格在其下方运行，可能预示着短期内的压力位。RSI指标尚未提供，但若在未来几天内超过70，则可能表明超买状态。\n\n支撑位方面，87900附近可视为短期支撑，若突破则可能向下测试87000关口。阻力位在88200及88500区域，突破后将可能推动价格向上。建议交易者在当前区间内保持谨慎，等待更明确的趋势信号再进行操作，避免在不确定的市场环境中盲目入场。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is at 88044.02, showing a modest increase of 0.14% over the last 24 hours. This stability suggests that BTC/USD is currently in a consolidation phase. The price remains within the recent high of 88082.27 and a low of 87901.21, indicating a tight range. Traders should monitor these levels closely, as a break above 88082 could signal a bullish momentum, while a drop below 87901 might trigger bearish sentiment.\n\nIn terms of technical indicators, the MACD shows a value of 50.27276, suggesting that the momentum is currently neutral. However, without a signal line for reference, it’s challenging to draw definitive conclusions. The absence of an RSI reading complicates the analysis of overbought or oversold conditions. Traders should consider waiting for additional indicators or confirmation from price action before making significant positions.\n\nThe 20-day Simple Moving Average (SMA) is currently positioned at 88180.778, acting as a key resistance level. If the price can break above this moving average, it may encourage more bullish trades and potentially lead to a retest of higher levels. Conversely, if the price fails to maintain above this SMA and drops below the support level around 87901, traders may want to consider short positions.\n\nOverall, given the current market conditions, a cautious trading approach is advisable. Traders should look for confirmation of a breakout or breakdown from the established range. Utilizing stop-loss orders can help manage risk in this uncertain environment, while waiting for clearer signals from both the price action and indicators will be crucial for making informed trading decisions."
+    }
+  }
+}
