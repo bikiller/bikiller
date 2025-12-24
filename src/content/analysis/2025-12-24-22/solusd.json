@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2025-12-24T22:53:03.031Z",
+  "price": {
+    "close": "123.03",
+    "high": "123.24",
+    "low": "122.83",
+    "open": "122.9",
+    "change": "0.11",
+    "datetime": "2025-12-24 22:00:00"
+  },
+  "indicators": {
+    "rsi": 54.17749,
+    "macd": -0.14655891,
+    "macd_signal": -0.37990867,
+    "sma20": 122.056
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[短期震荡趋势]",
+      "content": "当前Solana（SOL/USD）价格为123.03，整体市场表现出轻微的震荡趋势。在过去24小时内，价格仅上涨了0.11%，显示出市场缺乏明显的方向性。高点和低点分别为123.24和122.83，进一步确认了短期内的横盘整理状态。\n\n从技术指标来看，当前RSI数据缺失，但MACD显示为-0.14655891，暗示短期内卖压略强。同时，20日简单移动平均线（SMA）为122.056，提供了潜在的支撑位，表明在此水平附近有买盘介入的可能性。若价格跌破该支撑位，可能会引发更大的卖盘压力。\n\n在支撑和阻力水平方面，当前的支撑位在122.83附近，而阻力位则在123.24。若价格突破123.24，可能会引发进一步的买入动能，反之，则需关注下方支撑的有效性。建议交易者在短期内保持观望，制定合理的止损策略，以应对市场波动。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current price of Solana (SOL) against the US Dollar is $123.03, reflecting a slight increase of 0.11% over the last 24 hours. This minor change suggests a consolidation phase, as the price has remained within a narrow range between the high of $123.24 and the low of $122.83. This price action indicates that the market is currently indecisive, which could lead to a breakout in either direction. A sustained movement above the recent high may signal bullish momentum, while a drop below the recent low could trigger bearish sentiment.\n\nFrom a technical perspective, the Simple Moving Average (SMA) of 20 periods stands at $122.056, providing a crucial support level. The proximity of the current price to this SMA suggests that buyers might step in near this level, potentially leading to a bounce. However, if the price breaks below the SMA, the next support could be found at previous lows, possibly around the $120 mark. Conversely, resistance is likely to be encountered at the $124 level, where selling pressure could increase, especially if the price approaches this threshold for the second time.\n\nThe MACD shows a negative value of -0.14655891, indicating that the momentum is currently bearish. However, without the signal line data, it's challenging to ascertain whether a crossover is imminent. Traders should closely monitor the MACD for any signs of reversal as it can provide critical insights into potential price movements. Additionally, the RSI is not available, but traders should consider incorporating it in future analyses to gauge overbought or oversold conditions.\n\nIn terms of trading strategy, a cautious approach is advisable given the current market dynamics. Traders might consider placing buy orders near the SMA at $122.056, with a stop-loss just below this level to manage risk. Conversely, those looking to short should wait for a confirmed break below this support level. For aggressive traders, a breakout above $124 could present a compelling buying opportunity, with targets set at higher resistance levels."
+    }
+  }
+}
