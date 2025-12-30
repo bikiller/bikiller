@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-30T12:36:48.160Z",
+  "price": {
+    "close": "87887.84",
+    "high": "87971.19",
+    "low": "87781.07",
+    "open": "87791.98",
+    "change": "0.11",
+    "datetime": "2025-12-30 12:00:00"
+  },
+  "indicators": {
+    "rsi": 57.23954,
+    "macd": -3.76684,
+    "macd_signal": -114.9385,
+    "sma20": 87384.5495
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币在87887.84美元附近交易，24小时内微幅上涨0.11%。从近期的价格波动来看，比特币似乎正处于震荡整理阶段，未能突破87971.19的高点，也未跌破87781.07的低点。短期内，市场情绪相对谨慎，投资者可能在等待更明确的市场信号。\n\n从技术指标来看，当前无法计算RSI值，MACD呈现负值（-3.76684），这可能表明短期内卖压较重。尽管SMA(20)为87384.5495，显示出一定的上升趋势，但当前价格仍低于该水平，暗示短期内可能面临技术性调整的风险。\n\n支撑位方面，87781.07美元将是关键支撑线，若跌破该水平，可能引发更大的抛售。阻力位则在87971.19美元，突破后有望进一步上行。若价格持续在这一区间波动，交易者可考虑在支撑位附近建立多头头寸，在阻力位附近寻求获利了结。\n\n综合来看，建议投资者保持谨慎，密切关注关键技术指标的变化。若价格突破阻力位，短期内可考虑参与多头交易；反之，若跌破支撑位，则应考虑适时止损，规避风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at 87,887.84, showing a minor 24-hour change of 0.11%. The price has fluctuated between a high of 87,971.19 and a low of 87,781.07, indicating a tight trading range. This stability suggests a consolidation phase, which could be indicative of an impending breakout. Traders should closely monitor the price action around these levels to identify potential entry or exit points.\n\nThe absence of the Relative Strength Index (RSI) value limits our ability to assess the momentum directly; however, the current MACD reading of -3.76684 suggests that momentum is bearish. This could indicate a continuation of downward pressure unless a clear reversal pattern emerges. Meanwhile, the Simple Moving Average (SMA) of 20 periods at 87,384.55 serves as a key support level. A sustained move below this average may trigger further selling, while a bounce off this level could provide a buying opportunity.\n\nSupport is currently positioned around the SMA at 87,384.55, while resistance can be seen near the recent high of 87,971.19. Traders should watch for breakouts above this resistance, which could initiate a rally toward higher targets. Conversely, if the price breaks below the support level, it may signal a shift in sentiment, leading to further declines. \n\nIn terms of trading strategy, a cautious approach is advisable. Short-term traders might consider setting buy orders near the support level and sell orders near resistance. Longer-term investors should wait for a definitive breakout above 87,971.19 or a rebound from the SMA before committing further capital. This strategy allows for risk management while capitalizing on potential price movements in either direction."
+    }
+  }
+}
