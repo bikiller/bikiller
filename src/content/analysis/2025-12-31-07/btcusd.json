@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2025-12-31T07:00:58.687Z",
+  "price": {
+    "close": "88401.81",
+    "high": "88463.2",
+    "low": "88342.05",
+    "open": "88347.98",
+    "change": "0.06",
+    "datetime": "2025-12-31 06:00:00"
+  },
+  "indicators": {
+    "rsi": 55.27263,
+    "macd": 150.8148,
+    "macd_signal": 161.25754,
+    "sma20": 88306.2785
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币/美元的价格为88401.81，24小时内变化不大，显示出市场的震荡整理特征。价格在88463.2和88342.05之间波动，表明短期内买卖力量相对均衡。若价格持续在此区间内震荡，可能会为后续的方向性突破做好准备。\n\n从技术指标来看，MACD显示出正向动能，当前值为150.81480，表明市场存在一定的上行动能，但由于缺乏信号线数据，尚需谨慎解读。SMA(20)为88306.27850，当前价格略高于此均线，进一步增强了短期内看涨的信号。\n\n支撑位方面，88342.05附近的低点将是关键的支撑线，一旦跌破可能会引发进一步的调整。相反，88463.2的高点则是重要的阻力位，突破后可能激发更多的买入兴趣。投资者需密切关注这些关键价位的变化。\n\n建议短线交易者可以在支撑位附近寻求买入机会，止损设在88300下方，目标则可以设定在88463.2附近。对于长线投资者而言，当前价格区间提供了一个相对安全的观望机会，等待更明确的市场信号再做决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar (BTC/USD) is positioned at 88,401.81, reflecting a modest 24-hour change of 0.06%. This slight fluctuation indicates a consolidative phase, where the market is attempting to find direction. The high and low for the day at 88,463.2 and 88,342.05 respectively suggest a tight trading range, which often precedes a breakout. Traders should closely monitor price movements within this range for potential trading signals.\n\nAnalyzing the indicators, the absence of the RSI(14) limits the ability to gauge overbought or oversold conditions. However, the MACD value of 150.81480 hints at positive momentum, suggesting bullish sentiment in the short term. The Simple Moving Average (SMA) at 88,306.28 serves as a critical support level. A sustained price above this level could reinforce bullish sentiment, while a drop below may trigger bearish signals.\n\nKey support is established around the SMA and the recent low of 88,342.05. Should BTC/USD breach this support, the next significant level to watch would be 88,000, which has historically shown to be a psychological barrier. On the resistance side, the recent high of 88,463.2 serves as an immediate target. A breakout above this level could pave the way for a more substantial rally, possibly targeting 89,000 or higher.\n\nIn terms of trading strategies, a cautious approach may be warranted given the current market's tight range. Traders might consider placing buy orders near support levels while setting stop-loss orders below these points to manage risk. Conversely, short-term traders may look for breakout opportunities above the resistance level, with profit targets set at higher intervals. Keeping an eye on volume trends will also be crucial to confirm any breakout or reversal signals."
+    }
+  }
+}
