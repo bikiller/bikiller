@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-01T22:51:55.975Z",
+  "price": {
+    "close": "88497.99",
+    "high": "88498",
+    "low": "88277.99",
+    "open": "88278",
+    "change": "0.25",
+    "datetime": "2026-01-01 22:00:00"
+  },
+  "indicators": {
+    "rsi": 64.84529,
+    "macd": 122.7812,
+    "macd_signal": 39.19406,
+    "sma20": 87864.904
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币价格88497.99美元，显示出微弱的上涨趋势，24小时变化仅为0.25%。在经历了近期的高点88498美元后，市场似乎正在进行震荡整理，短期内价格波动有限。投资者需关注价格是否能突破这一区间，若能有效突破，将可能引发进一步上涨。\n\n根据当前的技术指标，MACD显示出122.78120的正值，表明短期内买方力量依然存在。然而，RSI数据缺失使得我们无法全面评估超买或超卖的状态。简单移动平均线(SMA)的20日平均值为87864.904，提供了一个潜在的支撑位，若价格下跌至该水平，可能会吸引买盘。\n\n支撑位方面，88277.99美元是短期内的重要支撑，若价格跌破该点位，可能会引发进一步的调整。相反，88498美元的高点则是关键阻力位，突破此点位可能会推动价格向更高目标发展。建议交易者在88277.99美元附近寻找买入机会，若突破88498美元则可考虑加仓。保持关注市场走势，适时调整策略以应对变化。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $88,497.99, reflecting a modest 24-hour change of 0.25%. This slight upward movement indicates a consolidation phase, following recent volatility. The price has established a high of $88,498 and a low of $88,277.99, suggesting a tight trading range. To gain a clearer picture, traders will need to watch for breakouts beyond these levels. A sustained move above the recent high could signal renewed bullish momentum, while a drop below the low may indicate bearish sentiment.\n\nThe absence of an RSI reading makes it difficult to evaluate overbought or oversold conditions, but the MACD shows a positive value of 122.78120, indicating that bullish momentum is present. Traders should monitor the MACD closely for potential crossovers with moving averages, which can provide additional confirmation of trend direction. Furthermore, the SMA(20) at $87,864 serves as a short-term support level, providing a buffer against downward price movements. A pullback towards this level could present a buying opportunity for those looking to enter.\n\nIn terms of support and resistance, the immediate support level lies around $88,277.99, while a psychological resistance level can be observed at $90,000. If Bitcoin can break above this resistance, it may attract further institutional interest and drive prices higher. Conversely, if the price fails to hold above the support level and breaches the SMA, it could trigger a sell-off, leading to further declines.\n\nFor traders, maintaining a watchful eye on volume trends will be crucial, as increased volume during price movements could signal stronger conviction behind the moves. A strategy could involve setting buy orders near the support level while placing stop-loss orders just below it to manage risk. Conversely, those looking to sell might consider taking profits as Bitcoin approaches the resistance level, especially if momentum indicators show signs of weakening."
+    }
+  }
+}
