@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-01T12:36:20.778Z",
+  "price": {
+    "close": "2983.62",
+    "high": "2990.17",
+    "low": "2983.55",
+    "open": "2989.97",
+    "change": "-0.21",
+    "datetime": "2026-01-01 12:00:00"
+  },
+  "indicators": {
+    "rsi": 52.6097,
+    "macd": 2.11316,
+    "macd_signal": 1.64338,
+    "sma20": 2979.803
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理趋势]",
+      "content": "当前以太坊/美元（ETH/USD）价格为2983.62，市场呈现出震荡整理的趋势。过去24小时内，价格变化不大，微幅下跌0.21%。从高点2990.17和低点2983.55来看，市场在此区间内进行横盘整理，短期内缺乏明显的方向性信号。\n\n技术指标方面，MACD显示出2.11316的正值，表明短期内仍有买方力量，但由于信号线数据缺失，需谨慎解读。同时，SMA(20)位于2979.80，作为短期支撑位，若价格跌破该水平，可能引发更大的下行压力。RSI数据缺失，无法判断超买超卖状态。\n\n在支撑和阻力位方面，2980附近形成了初步支撑，而2990则是关键阻力位。如果价格突破2990，可能会吸引更多买盘，推动价格上涨。反之，若跌破支撑位2980，则需警惕可能的回调风险。\n\n综合来看，建议投资者在当前区间内保持观望，等待更明确的价格突破信号再进行操作。如果价格有效突破2990，可考虑逢高布局；若跌破2980，则需谨慎止损，避免进一步损失。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current market situation for Ethereum against the US dollar shows a slight bearish sentiment, as indicated by the minimal 24-hour change of -0.21%. The price is hovering around the crucial level of $2983.62, which appears to be a significant pivot point. The high and low for the day, at $2990.17 and $2983.55 respectively, suggest a narrow trading range. This consolidation phase may precede a breakout, and traders should closely monitor price action around these levels to identify potential directional moves.\n\nIn terms of technical indicators, the absence of a current Relative Strength Index (RSI) limits our ability to assess overbought or oversold conditions. However, the MACD value of 2.11316 indicates bullish momentum, suggesting that there is still potential for upward movement if buying pressure persists. The 20-day Simple Moving Average (SMA) at $2979.80 serves as a key support level. A sustained breach below this level could signal a bearish trend, while maintaining above might provide a bullish outlook.\n\nTraders should watch for a clear breakout above the $2990 mark, as this could trigger further buying interest and potentially lead to a rally towards higher resistance levels. Conversely, if the price fails to hold above the SMA and dips below $2979, it may indicate a shift in market sentiment and lead to further declines. A prudent strategy would involve setting stop-loss orders just below these critical levels to manage risk effectively.\n\nOverall, the current market dynamics suggest a cautious approach. While the bullish MACD and support from the SMA indicate potential for upward movement, the tight trading range also highlights the risk of volatility. Traders should remain vigilant and prepared to adapt their strategies based on real-time price action and any emerging market news."
+    }
+  }
+}
