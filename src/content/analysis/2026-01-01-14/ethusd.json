@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-01T14:53:14.164Z",
+  "price": {
+    "close": "2985.39",
+    "high": "2986.4",
+    "low": "2977.88",
+    "open": "2983.3",
+    "change": "0.07",
+    "datetime": "2026-01-01 14:00:00"
+  },
+  "indicators": {
+    "rsi": 53.80029,
+    "macd": 2.24176,
+    "macd_signal": 1.89772,
+    "sma20": 2980.9485
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理趋势]",
+      "content": "当前以太坊对美元的价格为2985.39，整体趋势显示出震荡整理的特征。在过去24小时内，价格变化微小，仅上涨0.07%。高点和低点分别为2986.4和2977.88，表明市场处于一个相对狭窄的区间内，短期内可能缺乏明显的方向性。\n\n从技术指标来看，MACD值为2.24176，显示出一定的上涨动能，但由于信号线数据缺失，无法全面评估趋势的强度。SMA(20)位于2980.9485，反映出短期内价格走势较为平稳，未出现显著的多头或空头信号。\n\n支撑位方面，2977.88是一个关键的支撑区域，若价格跌破此位，可能会引发更大幅度的回调。而2986.4则是当前的阻力位，突破此水平将有助于进一步上涨。建议交易者密切关注这两个关键价位，并在价格接近支撑位时考虑逢低买入，而在接近阻力位时则考虑获利了结或短期做空。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently trading at $2985.39, displaying a slight 24-hour change of 0.07%. This stability suggests a consolidation phase following recent fluctuations. The high of $2986.40 indicates resistance at this level, while the low of $2977.88 establishes a near-term support. Traders should watch these levels closely, as a breakout above resistance could signal bullish momentum, whereas a drop below support might indicate a bearish trend.\n\nThe 20-day Simple Moving Average (SMA) is positioned at $2980.95, which provides a dynamic support level. With the current price hovering just above this SMA, it indicates a short-term bullish sentiment. The MACD reading of 2.24176 suggests that the bullish momentum may continue; however, without a corresponding signal line, caution is warranted. Traders should remain vigilant for any divergence in these indicators that could signify a shift in momentum.\n\nGiven the absence of the RSI(14), it’s essential to monitor other momentum indicators for further insights. A sustained move above the recent high at $2986.40, alongside increasing volume, would bolster the case for an upward trend towards the psychological level of $3000. Conversely, if the price breaks below the $2977.88 support and the SMA, it could open the door for a retracement towards the next support zone around $2950.\n\nIn this environment, traders may consider employing a range trading strategy, buying near support and selling near resistance. Risk management is crucial; therefore, setting stop-loss orders just below established support levels can help minimize potential losses. Overall, maintaining a watchful eye on price action and market sentiment will be key in navigating the ETH/USD landscape effectively."
+    }
+  }
+}
