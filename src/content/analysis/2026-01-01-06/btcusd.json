@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-01T07:00:43.701Z",
+  "price": {
+    "close": "87488.95",
+    "high": "87536.03",
+    "low": "87460.25",
+    "open": "87534.02",
+    "change": "-0.05",
+    "datetime": "2026-01-01 06:00:00"
+  },
+  "indicators": {
+    "rsi": 41.69301,
+    "macd": -170.94066,
+    "macd_signal": -153.033083,
+    "sma20": 87812.159
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[横盘整理，谨慎观望]",
+      "content": "当前比特币/美元（BTC/USD）价格为87488.95，整体市场表现较为平稳，24小时变化仅为-0.05%。从近期走势来看，价格在87500附近徘徊，显示出市场短期内缺乏方向性，投资者情绪相对谨慎。\n\n在技术指标方面，虽然RSI和SMA的数据尚不完整，但SMA(20)显示出当前价格低于其20日均线87812.16，表明短期内可能存在进一步下行的风险。MACD处于负值区间，说明当前多头势能不足，空头可能占据主导。\n\n支撑位方面，87460.25为近期低点，若价格跌破此位，可能会引发进一步的抛售；反之，87536.03为短期阻力位，若价格突破该水平，则有望恢复上涨动力。密切关注这两个关键价位将有助于判断后市走势。\n\n综合来看，当前市场走势偏向于横盘整理，建议投资者在未突破主要支撑和阻力位之前，保持观望态度，避免过度交易。同时，做好风险管理，设置合适的止损位，以应对潜在的市场波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at 87488.95, reflecting a slight decline of 0.05% over the past 24 hours. The price oscillated between a high of 87536.03 and a low of 87460.25, suggesting a consolidation phase. The lack of significant movement indicates that investors are currently cautious, with a potential wait-and-see approach as they assess market conditions. A continued close observation of price action in this range will be critical for determining the next major move.\n\nThe absence of the RSI value complicates momentum interpretation, but the MACD at -170.94066 suggests a bearish trend, indicating that sellers may be gaining control. This negative momentum could lead to further downside if BTC fails to reclaim levels above the SMA(20), which currently sits at 87812.15900. Traders should be wary of potential sell signals if the price continues to linger below this moving average, as it may reinforce bearish sentiment.\n\nSupport levels are observed around the recent low of 87460.25, which may act as a critical point for buyers to step in. If this level is breached, further declines could be expected, with the next support potentially emerging around 87000. Conversely, resistance is highlighted at the SMA(20) and the previous high of 87536.03. A breakout above these levels may signal a shift in momentum, providing traders with opportunities to capitalize on upward price movements.\n\nIn the current environment, traders might consider a cautious approach. A breakout above the SMA(20) could present a buying opportunity, while a failure to hold the support level at 87460.25 may warrant short positions. Given the current volatility, employing stop-loss orders would be prudent to manage risk effectively. Monitoring the broader market sentiment and global economic indicators will also be essential in making informed trading decisions."
+    }
+  }
+}
