@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-01T05:45:52.437Z",
+  "price": {
+    "close": "87544.97",
+    "high": "87580.49",
+    "low": "87416.03",
+    "open": "87418.55",
+    "change": "0.14",
+    "datetime": "2026-01-01 05:00:00"
+  },
+  "indicators": {
+    "rsi": 42.85044,
+    "macd": -167.82762,
+    "macd_signal": -148.38133,
+    "sma20": 87874.861
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，谨慎观望]",
+      "content": "当前比特币/美元的价格保持在87544.97，24小时内变化幅度较小，仅为0.14%。这一价格水平反映出市场的震荡整理状态，缺乏明确的方向性。短期内，投资者应保持警惕，可能会面临进一步的区间波动。\n\n从技术指标来看，当前的MACD值为-167.82762，说明市场动能偏弱，尚未出现明显的买入信号。由于RSI(14)数据缺失，无法准确判断超买或超卖状态，但结合SMA(20)的分析，价格当前低于20日均线，进一步确认了市场的疲软趋势。\n\n在支撑和阻力位方面，87416.03为短期支撑位，若价格跌破这一水平，可能会引发进一步的卖压。而87580.49则是当前的阻力位，若能突破此价位，将可能带动一波反弹行情。投资者应关注这两个关键价格水平，以制定相应的交易策略。\n\n综合来看，当前市场缺乏明确的趋势指引，建议投资者在没有明显信号时采取观望态度，避免过早进场。同时，密切关注支撑和阻力位的变化，以便于及时调整交易策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar (BTC/USD) stands at 87,544.97, reflecting a marginal 24-hour change of 0.14%. The market appears to be in a consolidation phase, with recent trading confined between the high of 87,580.49 and the low of 87,416.03. This price range suggests that traders are awaiting a breakout in either direction, with the potential for volatility if the market sentiment shifts. \n\nIn terms of technical indicators, the absence of an available RSI and MACD signal limits the depth of our analysis. However, the MACD value of -167.82762 indicates a bearish momentum, which could suggest caution for long positions. The SMA(20) at 87,874.86 further reinforces the notion of a downward trend, as the current price sits below this moving average, indicating that the selling pressure might continue in the near term.\n\nKey support levels can be identified around 87,416.03, which is the recent low, while resistance is likely to be encountered at 87,580.49. A break below the support level may trigger further selling, potentially leading towards a test of lower levels. Conversely, a move above the resistance could open the door for a rally towards the SMA(20) and beyond, as bullish sentiment may return if buyers step in.\n\nTraders should consider employing a cautious approach in the current market environment. A wait-and-see strategy could be prudent, monitoring for a confirmed breakout before entering positions. Establishing stop-loss orders near support levels can help manage risk, while those looking for upside may consider positions only upon a decisive move above resistance, ideally supported by stronger buying volume."
+    }
+  }
+}
