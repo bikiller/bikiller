@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-02T05:45:00.458Z",
+  "price": {
+    "close": "88584.45",
+    "high": "88654",
+    "low": "88458.5",
+    "open": "88531.22",
+    "change": "0.06",
+    "datetime": "2026-01-02 05:00:00"
+  },
+  "indicators": {
+    "rsi": 59.13497,
+    "macd": 215.8971,
+    "macd_signal": 175.66197,
+    "sma20": 88243.249
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币/美元(BTC/USD)的价格为88584.45，近期波动较小，24小时变化仅为0.06%。根据市场数据，价格在88654的高点和88458.5的低点之间震荡整理，显示出短期内市场缺乏明确方向。整体趋势呈现出一定的横盘整理特征，投资者需密切关注后续价格动向。\n\n在技术指标方面，虽然RSI(14)数据缺失，但MACD显示出215.89710的正值，暗示出短期内买方力量仍在。20日简单移动平均线(SMA)为88243.24900，价格在此之上运行，表明市场可能保持一定的牛市情绪。然而，若价格跌破该支撑位，可能会引发进一步的回调。\n\n支撑位方面，88458.5是重要的短期支撑，若该水平被有效突破，可能会导致进一步下行。阻力位则在88654，若突破此位，可能会吸引更多买入资金，推动价格上涨。投资者在操作时应关注这两个关键水平。\n\n综合来看，目前市场处于震荡整理状态，建议投资者保持观望，等待价格突破关键支撑或阻力位后再进行交易。同时，要灵活运用止损策略，以控制潜在风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $88,584.45, reflecting a modest 24-hour change of 0.06%. This stability suggests a consolidation phase, as the price fluctuated between a high of $88,654 and a low of $88,458. The lack of significant momentum indicates that traders are awaiting stronger signals to dictate the next movement, pointing to an ongoing battle between buyers and sellers at this crucial price point.\n\nFrom a trend analysis perspective, Bitcoin appears to be in a short-term bullish phase, given its proximity to the 20-day Simple Moving Average (SMA) of $88,243. This SMA can act as a dynamic support level, providing a cushion against potential downward pressure. If the price holds above this level, it may attract more buyers, leading to a potential breakout above recent highs. Conversely, a drop below the SMA could signal a shift in sentiment, prompting caution among traders.\n\nThe current MACD reading of 215.89710 suggests positive momentum, although the absence of a signal line makes it challenging to gauge the strength of this trend. Traders should monitor for potential crossovers that could provide clearer buy or sell signals. Additionally, the Relative Strength Index (RSI) is not available, but it is crucial to track this indicator as it can reveal overbought or oversold conditions that may impact future price action.\n\nKey support levels to watch include the SMA at $88,243 and the recent low of $88,458. Should these levels hold, a challenge of the resistance at $88,654 may ensue, opening the door for further upside. Traders may consider buying on dips near the SMA or at the support levels, while setting tight stop-loss orders to manage risk effectively. Conversely, if the price breaks through support, a more cautious approach may be warranted until a clearer trend emerges."
+    }
+  }
+}
