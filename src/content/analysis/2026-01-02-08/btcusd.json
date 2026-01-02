@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-02T08:24:51.375Z",
+  "price": {
+    "close": "88954.01",
+    "high": "88989.68",
+    "low": "88673.49",
+    "open": "88758.23",
+    "change": "0.22",
+    "datetime": "2026-01-02 08:00:00"
+  },
+  "indicators": {
+    "rsi": 64.93536,
+    "macd": 251.5216,
+    "macd_signal": 208.21053,
+    "sma20": 88405.443
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币/美元的价格为88954.01，24小时变化仅为0.22%，显示出市场的震荡整理态势。价格在高点88989.68和低点88673.49之间波动，表明买卖双方目前缺乏明确方向。短期内，若价格持续在此区间内运行，可能会导致市场参与者的观望情绪加重。\n\n从技术指标来看，SMA(20)为88405.443，显示出短期内的支撑位在这个水平附近。虽然RSI(14)数据缺失，但通常在震荡行情中，RSI会处于中性区间，显示出超买或超卖的风险较低。MACD指标为251.52160，表明短期内可能存在一定的上涨动能，但信号线的缺失可能限制了进一步的分析。\n\n支撑位方面，88900附近可能成为短期支撑位，而如果跌破88400，则可能引发进一步的调整。阻力位则在89000上方，若价格突破此水平，可能会吸引更多的买盘入场。投资者需密切关注此区间的突破情况。\n\n建议投资者在当前震荡区间内采取谨慎策略，建议短线交易者关注支撑和阻力位的突破情况，适时进出场。同时，长期投资者可以考虑在支撑位附近逐步建仓，等待市场趋势的进一步明朗。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at 88,954.01, reflecting a modest 24-hour change of 0.22%. This stability suggests a consolidation phase following recent volatility. The price has established a high of 88,989.68 and a low of 88,673.49, indicating a tight trading range. Traders should monitor this range closely, as a breakout above the recent high could signal a bullish trend, while a drop below the low could suggest bearish momentum.\n\nFrom a technical indicator perspective, the lack of available RSI data makes it challenging to assess overbought or oversold conditions. However, the MACD at 251.52160 indicates a potential bullish momentum, particularly if it continues to rise. The Simple Moving Average (SMA) of 20 periods at 88,405.443 serves as a critical support level; maintaining price above this level could reinforce bullish sentiment. Conversely, a sustained breach below this SMA may prompt a reevaluation of bullish positions.\n\nSupport levels are currently established around the SMA at 88,405, while resistance is identified near the recent high of 88,989.68. A decisive movement above this resistance could attract additional buying interest, further pushing the price upwards. Conversely, if the price fails to hold above the support level, it could lead to increased selling pressure and a potential test of lower support levels.\n\nTraders may consider entering long positions if Bitcoin breaks above the resistance level with significant volume, suggesting a strong upward trend. Conversely, for those looking to short, observing price action around the SMA and the recent lows will be crucial. It is advisable to use stop-loss orders to manage risk effectively, given the potential for rapid price fluctuations in the cryptocurrency market."
+    }
+  }
+}
