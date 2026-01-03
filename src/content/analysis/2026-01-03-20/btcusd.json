@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-03T20:18:56.144Z",
+  "price": {
+    "close": "90048",
+    "high": "90083.8",
+    "low": "89974",
+    "open": "90080.13",
+    "change": "-0.04",
+    "datetime": "2026-01-03 20:00:00"
+  },
+  "indicators": {
+    "rsi": 56.54343,
+    "macd": 137.82261,
+    "macd_signal": 157.70219,
+    "sma20": 89972.1255
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前震荡走势]",
+      "content": "当前比特币价格在90000附近徘徊，表现出一定的震荡格局。虽然24小时内价格变化不大，但高点和低点的微幅波动表明市场情绪较为谨慎。短期内，市场可能会继续维持这种横盘状态，等待更明确的方向。\n\n从技术指标来看，MACD显示出正值，表明短期内多头力量依然存在，但RSI数据缺失使得超买或超卖的判断受到限制。当前的SMA(20)在89972.1255附近，提供了一个重要的支撑位，若价格跌破此水平，可能会引发更大的下行压力。\n\n在支撑和阻力方面，90000至90083.8区域构成了当前的关键阻力位，而89974则是重要的支撑位。若比特币价格突破90083.8，可能引发进一步上涨，但若跌破89974，则需谨慎应对，可能会面临更深的调整。\n\n基于当前的市场情况，建议投资者保持观望，密切关注价格行为的变化。如果价格稳定在90000以上，可以考虑适度建仓，但若跌破89974，建议及时止损，避免更大的损失。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market data for Bitcoin (BTC) against the US Dollar (USD) presents a relatively stable environment, with the latest price hovering around $90,048. The minor 24-hour change of -0.04% indicates a consolidation phase, suggesting that traders are waiting for a clearer direction. Given the high and low range of $90,083.8 and $89,974, respectively, BTC appears to be trading within a narrow band, highlighting a potential accumulation period as investors assess market sentiment.\n\nFrom a technical standpoint, the SMA(20) at $89,972.1255 serves as a crucial indicator of short-term price action. Since the current price is slightly above this moving average, it could act as a support level in case of a downturn. However, the absence of a defined RSI(14) and a signal line for the MACD limits our ability to gauge momentum and trend strength effectively. The MACD value of 137.82261 suggests that there may be bullish momentum, but without the signal line, caution is advised.\n\nIn terms of support and resistance levels, the recent low of $89,974 could be a crucial support barrier; a significant break below this level could invite further selling pressure. Conversely, the high of $90,083.8 may act as an immediate resistance point. A sustained move above this level could signal a bullish breakout, potentially targeting higher levels. Traders should closely monitor these key levels to position themselves effectively.\n\nGiven the current market dynamics, a cautious approach is advisable. For short-term traders, engaging in range-bound trading between the support and resistance levels may yield opportunities. A buy position near the support level with a tight stop-loss could be prudent. Conversely, if the price breaks decisively above $90,083.8, a breakout strategy could be implemented, targeting higher resistance levels while maintaining risk management strategies. Overall, vigilance and adaptability will be crucial as market conditions evolve."
+    }
+  }
+}
