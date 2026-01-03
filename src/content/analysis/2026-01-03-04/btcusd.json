@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-03T04:29:38.179Z",
+  "price": {
+    "close": "90271.99",
+    "high": "90465",
+    "low": "90208.78",
+    "open": "90293.58",
+    "change": "-0.02",
+    "datetime": "2026-01-03 04:00:00"
+  },
+  "indicators": {
+    "rsi": 64.45889,
+    "macd": 404.55755,
+    "macd_signal": 412.3048,
+    "sma20": 89858.1715
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币/美元(BTC/USD)价格为90271.99，24小时内微幅下跌0.02%。在高点90465与低点90208.78之间的波动显示出市场正处于震荡整理阶段。短期内，市场情绪相对谨慎，投资者可能在等待更明确的趋势信号。\n\n技术指标方面，MACD显示出404.55755的正值，表明短期内仍有一定的上行动能。然而，由于RSI尚不可用，无法进一步确认超买或超卖的状态。20日简单移动平均线(SMA)位于89858.17，作为潜在的支撑位，若价格回落至此水平，可能会吸引买盘介入。\n\n支撑位方面，89858.17的SMA和90208.78的低点构成了重要的支撑区域，而90465则是近期的阻力位。突破此阻力位可能引发新的买盘，从而推动价格进一步上涨。反之，若价格跌破89858.17，将可能加大下行风险。\n\n综合来看，建议投资者在当前区间内保持谨慎，关注价格在支撑位和阻力位之间的波动。若价格突破90465，可以考虑适度增仓；若跌破89858.17，则需考虑减仓或止损策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at 90,271.99, having experienced a minor decline of 0.02% over the past 24 hours. The high and low during this period were 90,465 and 90,208.78, respectively, indicating a relatively narrow trading range. This price action suggests that Bitcoin is in a consolidation phase, with buyers and sellers at an impasse. Traders should closely monitor this range, as a breakout above 90,465 could signal a bullish momentum, while a drop below 90,208.78 might trigger bearish sentiment.\n\nThe absence of a current RSI reading complicates the analysis, but the MACD value of 404.55755 indicates a potential upward trend, provided that the signal line aligns favorably in the near future. The SMA(20) at 89,858.17 serves as a crucial support level; if the price holds above this line, it could reinforce bullish sentiment. Conversely, a move below this average may attract selling pressure, prompting traders to reassess their positions.\n\nFor support levels, the 89,858.17 SMA acts as a primary line to watch, while further support can be identified near 89,500. On the resistance side, the immediate level is 90,465, followed by a psychological barrier around 91,000. A decisive breach of these levels may open the door for new trading opportunities, either to the upside or downside, depending on market sentiment.\n\nIn terms of trading strategy, it may be prudent to adopt a wait-and-see approach until the price clearly breaks out of the current range. Traders could consider setting limit orders just above 90,465 for potential long positions, while short positions might be viable if the price convincingly dips below 90,208.78. Risk management should remain a priority, with stop-loss orders in place to mitigate potential losses from unexpected market moves."
+    }
+  }
+}
