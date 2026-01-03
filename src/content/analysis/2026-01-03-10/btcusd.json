@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-03T10:51:40.787Z",
+  "price": {
+    "close": "89774.14",
+    "high": "89840",
+    "low": "89674.25",
+    "open": "89763.99",
+    "change": "0.01",
+    "datetime": "2026-01-03 10:00:00"
+  },
+  "indicators": {
+    "rsi": 52.68841,
+    "macd": 172.32038,
+    "macd_signal": 277.79145,
+    "sma20": 89953.8695
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，待突破]",
+      "content": "当前比特币/美元（BTC/USD）价格在89774.14附近，近期价格走势表现出震荡整理的特征。从24小时变化来看，价格波动幅度非常小，仅为0.01%，显示出市场参与者的观望情绪。高点89840和低点89674.25的区间表明，短期内价格未能突破明显的支撑和阻力。\n\n在技术指标方面，目前的MACD为172.32038，虽然没有信号线数据可供参考，但这一数值表明市场可能处于多头趋势中。由于RSI(14)数据缺失，无法全面评估超买或超卖情况。不过，SMA(20)在89953.8695的位置上，提供了短期的支撑，若价格跌破这一水平，可能会引发更大的下行压力。\n\n从支撑和阻力位来看，当前支撑位位于89674.25，而阻力位则在89840附近。如果价格能突破89840，将有可能形成新的上涨趋势，反之则可能回调至支撑区间。建议交易者关注这些关键价格水平，设置适当的止损点，并灵活调整仓位，以应对市场波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at 89,774.14, showing a slight upward movement of 0.01% over the last 24 hours. The price is consolidating within a narrow range, with a high of 89,840 and a low of 89,674. This price action suggests a period of indecision among traders, indicating that the market might be preparing for a breakout. The recent trading range highlights the importance of monitoring key levels, as a decisive move above 89,840 could signal a bullish trend, while a drop below 89,674 might indicate bearish pressure.\n\nThe technical indicators paint a mixed picture. The MACD value of 172.32 suggests potential bullish momentum; however, the absence of RSI data limits a complete assessment of overbought or oversold conditions. Traders should be cautious, as the lack of significant momentum might lead to a continuation of the current range-bound activity. The SMA(20) is positioned at 89,953.87, which acts as a critical resistance level. If Bitcoin can break and hold above this level, it may attract further buying interest.\n\nSupport levels are found at 89,674, which could provide a buffer against downward price movements. Should this level fail to hold, the next significant support could be around 89,500. Conversely, if the price breaks above 89,840, the market might aim for the 90,000 psychological level, which could serve as a key resistance area. Traders should consider employing a wait-and-see approach, monitoring price action around these levels for a clearer directional bias.\n\nIn this context, a short-term trading strategy could involve buying on a confirmed breakout above the SMA(20) or the recent high, while setting stop-loss orders just below the nearest support level to manage risk. Alternatively, if the price breaks down below 89,674, traders might consider shorting with targets set around 89,500. Overall, patience and vigilance are essential as the market seeks direction in this phase of consolidation."
+    }
+  }
+}
