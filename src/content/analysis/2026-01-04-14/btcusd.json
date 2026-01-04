@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-04T14:49:28.600Z",
+  "price": {
+    "close": "91196.01",
+    "high": "91386.28",
+    "low": "91102.51",
+    "open": "91228.78",
+    "change": "-0.04",
+    "datetime": "2026-01-04 14:00:00"
+  },
+  "indicators": {
+    "rsi": 58.19513,
+    "macd": 307.77818,
+    "macd_signal": 359.59285,
+    "sma20": 91072.156
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币价格在91196.01附近，显示出短期内的震荡整理趋势。从24小时变化来看，仅下降了0.04%，说明市场参与者对当前价格水平持谨慎态度。高点和低点分别为91386.28和91102.51，表明市场尚未形成明确的方向性突破。\n\n技术指标方面，虽然RSI(14)未提供，但MACD的值为307.77818，显示出一定的上升动能。不过，缺乏信号线的数据使得这一指标的解读受到限制。SMA(20)在91072.15600，进一步确认了当前价格略高于短期均线，反映出短期内的支撑可能位于91070附近。\n\n在支撑和阻力位方面，当前的支撑位在91100附近，而阻力位则在91300到91400区间。如果价格突破91300，可能会引发一波上涨；相反，若跌破91100，则可能继续下行。基于当前市场情况，投资者应保持观望，等待确认信号后再进行操作。建议在支撑位附近寻找买入机会，而在阻力位附近考虑获利了结。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin price of 91196.01 indicates a relatively stable market, with a slight 24-hour change of -0.04%. The recent high of 91386.28 suggests a resistance level that traders should monitor closely. If the price manages to break above this level, it could signal a bullish momentum, potentially leading to a push toward higher targets. Conversely, the low of 91102.51 acts as immediate support, and a drop below this point could trigger further selling pressure.\n\nThe MACD value of 307.77818 indicates some bullish momentum, although the absence of a signal line makes it difficult to draw definitive conclusions about the trend's strength. Traders should keep an eye on the MACD for any potential crossover that could lend itself to clearer buy or sell signals. Additionally, the RSI is currently unavailable; however, tracking this indicator once it becomes available will be crucial for assessing overbought or oversold conditions.\n\nThe 20-day Simple Moving Average (SMA) at 91072.15600 serves as a critical level of support in this context. A price drop below this SMA could trigger further bearish sentiment, while a bounce off this level could provide a buying opportunity for those looking for potential short-term gains. Traders should consider the overall market sentiment and volume when making decisions, as these can provide additional context to the price movements.\n\nIn summary, Bitcoin's current price action reflects a consolidation phase, with key support and resistance levels established. Traders may consider buying near the support levels or selling near the resistance, depending on market sentiment and accompanying indicators. Watching for any significant breakout or breakdown will be essential to capitalize on the next potential price movement."
+    }
+  }
+}
