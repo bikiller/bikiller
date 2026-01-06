@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-06T10:55:39.618Z",
+  "price": {
+    "close": "93506.45",
+    "high": "93634",
+    "low": "93371.52",
+    "open": "93424.01",
+    "change": "0.09",
+    "datetime": "2026-01-06 10:00:00"
+  },
+  "indicators": {
+    "rsi": 52.77006,
+    "macd": 165.2004,
+    "macd_signal": 304.44129,
+    "sma20": 93823.808
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期缺乏方向]",
+      "content": "目前，比特币/美元在93506.45附近震荡整理，24小时变化幅度较小，仅为0.09%。这一价格区间显示出市场缺乏明确的方向，投资者情绪谨慎。短期内，若无法突破93634的高点，可能会继续在93371.52至93634之间震荡。\n\n技术指标方面，MACD显示出一定的上涨动能，但由于信号线缺失，无法准确判断趋势强度。SMA(20)位于93823.80800，表明当前价格低于短期均线，可能暗示卖方占据主导地位。RSI(14)数据缺失，使得超买或超卖的判断受到限制。\n\n支撑位方面，93371.52是关键支撑位，若跌破将可能引发进一步回调。相对的，93634的阻力位则是短期内多头突破的关键。投资者应关注这些水平，确定进出场时机。\n\n基于当前市场情况，建议短期交易者保持谨慎，尽量避免在没有明确信号的情况下进场。若价格突破93634，可以考虑短线做多；反之，若跌破93371.52，则应考虑做空以控制风险。保持灵活应对市场变化是关键。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market data for Bitcoin against the US Dollar (BTC/USD) indicates a relatively stable trading environment, with the price hovering around 93,506.45. The 24-hour change of 0.09% suggests a consolidation phase, as Bitcoin experiences minimal volatility. The recent high of 93,634 and low of 93,371.52 highlight a tight trading range, which could indicate indecision among traders. This consolidation could be a precursor to a breakout, either upwards or downwards, depending on market sentiment.\n\nFrom a trend analysis perspective, the price is currently below the 20-day Simple Moving Average (SMA) of 93,823.808, suggesting a bearish bias in the short term. Should the price manage to break above the SMA, it might signal a potential reversal, attracting bullish momentum. Conversely, if the price continues to stay below this level, the bearish sentiment may persist, leading to further tests of lower support levels. Traders should monitor these dynamics closely to gauge the next potential move.\n\nIn terms of support and resistance levels, immediate support can be identified around the recent low of 93,371.52. A break below this level could open the door to further declines, with the next significant support potentially around 92,500. On the resistance side, the high of 93,634 serves as a crucial barrier; a sustained breakout above this level could trigger increased buying activity, pushing the price toward the next resistance zone, which may be around 94,000.\n\nFor trading strategies, traders are advised to adopt a cautious approach. A breakout above the SMA could present a buying opportunity, especially if accompanied by increased volume and positive market sentiment. Conversely, positioning for a short trade could be considered if the price breaks below the support level of 93,371.52, with the potential to target lower support areas. Overall, maintaining a flexible strategy based on price action will be essential in navigating this current market phase."
+    }
+  }
+}
