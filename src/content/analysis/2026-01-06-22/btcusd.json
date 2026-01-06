@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-06T22:53:36.125Z",
+  "price": {
+    "close": "93239.03",
+    "high": "93495.06",
+    "low": "92917.45",
+    "open": "93218.65",
+    "change": "0.02",
+    "datetime": "2026-01-06 22:00:00"
+  },
+  "indicators": {
+    "rsi": 51.82479,
+    "macd": -168.63128,
+    "macd_signal": -101.76792,
+    "sma20": 93207.6945
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理趋势]",
+      "content": "当前比特币价格在93239.03美元附近震荡整理，24小时变化幅度微小，显示出市场的观望态度。价格在93495.06的高点和92917.45的低点之间波动，表明短期内缺乏明显的方向性。投资者需关注市场情绪和消息面变化，以便把握潜在的突破机会。\n\n技术指标方面，当前的MACD值为-168.63128，表明短期内处于弱势区域，且未出现明显的反弹信号。虽然RSI数据缺失，但结合SMA(20)的93207.69450，价格仍在其附近波动，暗示市场短期内可能保持整理态势，需警惕进一步下行风险。\n\n支撑位方面，92917.45是较为重要的支撑区域，若价格跌破此位，可能会引发更大的抛售压力，导致进一步回调。相对的，93495.06则是关键阻力位，若能突破该水平，市场可能会重拾上涨动能。投资者应密切关注这两个水平的表现。\n\n建议方面，短期内可考虑在支撑位附近寻找买入机会，同时在阻力位附近设置止盈策略。保持灵活应变，若出现突破或跌破上述关键价位，应及时调整交易策略，以应对市场波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $93,239.03, showing a marginal 24-hour change of 0.02%. The price has fluctuated between a high of $93,495.06 and a low of $92,917.45, indicating a relatively tight trading range. This narrow band suggests a period of consolidation, which could precede a breakout in either direction. Traders should monitor the price closely, as breaking above the recent high could signal bullish momentum, while a drop below the low may indicate a bearish sentiment.\n\nThe SMA (20) is currently at $93,207.69, providing a short-term trend reference. With the current price hovering just above this moving average, it signifies a neutral to slightly bullish stance. However, the absence of a recent RSI reading limits the ability to assess overbought or oversold conditions. Monitoring the MACD, which shows a negative value of -168.63, suggests that the momentum is currently bearish. If the MACD begins to show signs of convergence towards the zero line, it may indicate a potential reversal.\n\nKey support is established around $92,917.45, which, if breached, could lead to further downside with the next support level potentially at $92,500. Conversely, resistance is found at $93,495.06. A breakout above this level may attract additional buying interest, with possible targets at $94,000 and beyond. Traders should exercise caution, considering both levels as critical points for potential entry or exit strategies.\n\nFor those looking to trade, a conservative approach would involve waiting for confirmation of a breakout above resistance or a breakdown below support. Setting stop-loss orders just below support levels or above resistance can help manage risk. Additionally, incorporating volume analysis could provide further insights into the strength of any potential moves, ensuring that traders make informed decisions based on market dynamics."
+    }
+  }
+}
