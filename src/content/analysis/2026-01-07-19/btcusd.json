@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-07T19:00:55.595Z",
+  "price": {
+    "close": "90731.46",
+    "high": "91358.75",
+    "low": "90645.42",
+    "open": "91151.27",
+    "change": "-0.46",
+    "datetime": "2026-01-07 18:00:00"
+  },
+  "indicators": {
+    "rsi": 30.4023,
+    "macd": -495.67134,
+    "macd_signal": -365.25982,
+    "sma20": 92161.891
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币/美元的价格为90731.46，较24小时前小幅下跌0.46%。在近期的价格波动中，BTC/USD在91358.75的高点和90645.42的低点之间震荡整理，显示出市场尚未形成明确的趋势。短期内，价格可能继续在这一区间内波动，投资者需保持警惕。\n\n技术指标方面，尽管RSI尚不可用，但MACD值为-495.67，显示出当前市场处于弱势状态。若MACD持续低于零线，可能暗示短期内价格将继续承压。同时，SMA(20)为92161.89，表明短期均线处于下降趋势，进一步确认了当前的弱势格局。\n\n支撑位方面，90645.42是关键支撑位，若跌破该水平，可能引发更多卖盘，导致价格走低。相对的，91358.75则是重要的阻力位，若价格能突破该水平，可能会引发空头回补，推动价格上扬。投资者应密切关注这两个关键价位的突破情况。\n\n基于当前市场状况，建议投资者采取观望策略，等待价格突破关键支撑或阻力位后再做决策。如果短期内能确认反弹信号，可以考虑低位买入；反之，若继续下跌则需谨慎止损，以降低风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at 90,731.46, reflecting a slight decline of 0.46% over the past 24 hours. The recent trading range indicates a high of 91,358.75 and a low of 90,645.42, suggesting a consolidation phase. This behavior may indicate market indecision, as traders assess the next significant move. The price remains below the 20-day simple moving average (SMA) of 92,161.89, indicating a bearish trend in the short term.\n\nDespite the absence of a current RSI reading, the MACD shows a negative value of -495.67134, which suggests bearish momentum. This negative MACD reading indicates that sellers are currently in control, and if the trend continues, we may see further declines. However, it is essential to monitor for potential bullish reversals, particularly if the price approaches key support levels. A close above the 20-day SMA would be a positive signal and could lead to renewed buying interest.\n\nSupport levels are critical in this analysis, with the immediate support identified around 90,645.42, which aligns with the recent low. A breakdown below this level could open the door for a test of the next support at around 89,500. Conversely, resistance is currently found at the 91,358.75 level. A break above this resistance could indicate a potential shift in momentum, allowing for a retest of the 92,161.89 SMA and possibly higher levels.\n\nTraders should remain cautious in the current market environment. A prudent approach would be to wait for confirmation of a reversal pattern or a breakout above the SMA before entering long positions. Conversely, those looking to short should watch for sustained breaks below the identified support levels. As always, risk management remains crucial in navigating this volatile market."
+    }
+  }
+}
