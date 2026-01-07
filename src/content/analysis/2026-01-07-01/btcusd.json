@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-07T01:21:02.755Z",
+  "price": {
+    "close": "92471.1",
+    "high": "92845.52",
+    "low": "92426.41",
+    "open": "92652.02",
+    "change": "-0.20",
+    "datetime": "2026-01-07 01:00:00"
+  },
+  "indicators": {
+    "rsi": 43.30174,
+    "macd": -150.47521,
+    "macd_signal": -110.77331,
+    "sma20": 93095.3695
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前震荡趋势]",
+      "content": "当前比特币/美元(BTC/USD)价格在92471.1，显示出市场处于震荡调整阶段。24小时内价格微幅下降0.20%，而高点92845.52与低点92426.41之间的波动幅度相对较小，表明市场参与者的观望情绪较浓，缺乏明确的方向性。\n\n从技术指标来看，RSI(14)尚未提供数据，无法判断超买或超卖状态。MACD处于负值区域，显示出短期内卖方力量占据优势，市场情绪偏向谨慎。20日简单移动平均线(SMA)为93095.37，当前价格低于该水平，进一步印证了短期看空的趋势。\n\n在支撑与阻力位方面，当前支撑位可以设定在92426.41附近，而阻力位则在92845.52一线。若价格突破92845.52，则可能迎来短期反弹。反之，若跌破92426.41，可能会进一步下探至更低的支撑区域。\n\n建议交易者采取观望策略，待市场明确方向后再做决策。如果价格突破阻力位，可以考虑短线做多；反之，则可考虑做空策略，以应对可能的下行风险。保持灵活应变，合理控制风险是关键。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market data for Bitcoin against the US Dollar reveals a slight downward trend, with the latest price at 92,471.1. The 24-hour change of -0.20% indicates a minor correction following recent volatility. The price has oscillated between a high of 92,845.52 and a low of 92,426.41, suggesting a narrow trading range. This behavior may indicate consolidation, with traders assessing the next major move. A sustained break below the recent low could signal further bearish sentiment.\n\nIn terms of technical indicators, the absence of a current RSI reading limits our ability to assess overbought or oversold conditions effectively. The MACD at -150.47521 suggests a bearish momentum, reinforcing the concerns about the recent price action. The Simple Moving Average (SMA) of 20 periods at 93,095.37 serves as a dynamic resistance level, with the price currently trading below this benchmark. A move back above the SMA could signal a potential reversal or upward trend, attracting bullish traders.\n\nKey support levels are evident around the recent low of 92,426.41. A decisive drop below this level could open the door for further declines, potentially targeting the next support zone near 91,800. Conversely, the resistance is firmly placed at the SMA level of 93,095.37. A breakout above this threshold might indicate renewed buying interest and could pave the way for a retest of the recent high.\n\nFor traders, the current environment suggests a cautious approach. Short-term traders may consider scalping within the defined range, while longer-term investors should monitor key support and resistance levels closely. A clear breakout or breakdown could provide a more definitive trading signal, warranting either a long or short position depending on market developments. As always, risk management remains crucial in navigating the inherent volatility of cryptocurrency markets."
+    }
+  }
+}
