@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-07T22:53:22.530Z",
+  "price": {
+    "close": "90909.89",
+    "high": "91277.3",
+    "low": "90786.44",
+    "open": "90995.83",
+    "change": "-0.09",
+    "datetime": "2026-01-07 22:00:00"
+  },
+  "indicators": {
+    "rsi": 34.63347,
+    "macd": -513.82268,
+    "macd_signal": -450.94754,
+    "sma20": 91773.9895
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，关注关键支撑位]",
+      "content": "当前比特币/美元交易对呈现出震荡整理的趋势，最新价格为90909.89美元。24小时内价格变化微幅下跌0.09%，显示出市场缺乏明显的方向性。高点91277.3和低点90786.44的区间波动，表明投资者情绪较为谨慎，等待更明确的市场信号。\n\n从技术指标来看，MACD当前为负值-513.82268，表明短期内卖方力量占优，且RSI尚未提供，无法评估超买或超卖状态。短期简单移动平均线(SMA)为91773.9895，价格持续低于这一水平，进一步确认了当前的看跌趋势。\n\n在支撑和阻力方面，关键支撑位在90786.44附近，若价格跌破该水平，可能会引发进一步下跌。反之，91277.3将成为近期的主要阻力位，突破后有望重新测试SMA水平。投资者应密切关注这两个关键价位，以便制定相应的交易策略。\n\n建议投资者在当前市场环境中保持谨慎，若价格接近支撑位，可以考虑适度布局，捕捉反弹机会；但若价格跌破支撑位，则应考虑止损出局。同时，关注市场消息和技术指标的变化，为后续交易决策提供依据。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $90,909.89, reflecting a slight decline of 0.09% over the past 24 hours. This minor drop indicates a period of consolidation following recent volatility. The price has oscillated between a high of $91,277.3 and a low of $90,786.44, suggesting that traders are currently finding a balance between buying and selling pressures. A closer look reveals that the market sentiment remains cautious, as it appears to be probing support levels.\n\nIn terms of trend analysis, the price is below the 20-day Simple Moving Average (SMA) of $91,773.99, which typically signals a bearish trend in the short term. The SMA can serve as a dynamic resistance level, indicating that any upward movement may face challenges around this threshold. Traders should be vigilant for a sustained breakout above the SMA, which could signal a potential reversal in momentum. Conversely, persistent trading below this level may reinforce bearish sentiment and lead to further declines.\n\nThe absence of an available Relative Strength Index (RSI) complicates the analysis of overbought or oversold conditions. However, the negative MACD value of -513.82268 suggests that there is bearish momentum in the market. Traders should monitor the MACD closely; a crossover into positive territory could signal a potential shift. Identifying key support levels becomes crucial, with immediate support observed around $90,786.44. A break below this level could open the door for further downside, while maintaining above it could bolster bullish retracement efforts.\n\nIn light of the current market dynamics, traders may consider employing a cautious approach. Those holding long positions might look for opportunities to reinforce their stance should the price reclaim the 20-day SMA, while short-term traders could capitalize on fluctuations around established support levels. Implementing stop-loss orders just below critical support can mitigate risk in this uncertain environment. Overall, vigilance and adaptability will be key in navigating the current Bitcoin market landscape."
+    }
+  }
+}
