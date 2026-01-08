@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-08T08:26:02.595Z",
+  "price": {
+    "close": "90466.02",
+    "high": "90565.3",
+    "low": "90321.62",
+    "open": "90415.5",
+    "change": "0.06",
+    "datetime": "2026-01-08 08:00:00"
+  },
+  "indicators": {
+    "rsi": 40.0032115,
+    "macd": -475.28081,
+    "macd_signal": -454.832,
+    "sma20": 91006.97
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币/美元（BTC/USD）价格为90466.02，显示出市场在高位附近的震荡整理。24小时内价格变化微小，仅为0.06%。短期内，价格在90565.3和90321.62之间波动，表明市场参与者对当前价格区间的接受度较高，可能等待进一步的市场信号来决定方向。\n\n从技术指标来看，RSI尚未提供，因为数据缺失，但MACD的负值（-475.28081）暗示出市场短期内可能存在一定的卖压。虽然价格未能突破20日简单移动平均线（SMA 91006.97），但若能有效突破这一阻力位，可能会引发新的上涨动能。\n\n支撑位方面，90321.62是当前的重要支撑线，若价格跌破该水平，可能会引发更大的卖盘。反之，若价格重新向上测试90565.3并成功突破，将可能引导价格向91000美元以上进发。在此背景下，投资者应保持警惕，关注市场动态，适时调整交易策略。\n\n综合考虑，建议投资者在当前区间内进行区间交易，短期内可在支撑位附近寻找买入机会，而在接近阻力位时则考虑获利了结。同时，关注市场消息和技术指标的变化，以便及时调整策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $90,466.02, reflecting a slight 24-hour change of 0.06%. The price remains within a narrow range, having reached a high of $90,565.3 and a low of $90,321.62 in the same period. This tight trading range suggests indecision in the market, indicating that traders are currently weighing their options before making significant moves. A breakout above the recent high could signal a bullish trend, while a drop below the low may indicate a bearish sentiment.\n\nFrom a technical perspective, the absence of a calculated RSI(14) limits our ability to assess overbought or oversold conditions effectively. However, the MACD at -475.28081 suggests a bearish momentum, indicating that sellers currently dominate the market. Without a positive crossover in the MACD or a significant shift in momentum, traders should remain cautious. The SMA(20) at $91,006.97 also indicates a downward trend, reinforcing a potential resistance level around this price point.\n\nKey support levels can be identified just below the current price, particularly around $90,321.62. Should Bitcoin manage to hold above this level, it may create a foundation for a rebound. Conversely, a sustained move below this support could lead to further declines, with the next significant support level potentially around $89,000. Traders should monitor these levels closely for signs of price rejection or confirmation.\n\nIn terms of trading strategy, a conservative approach may be prudent. Traders could consider waiting for a clearer signal, such as a breakout above the SMA(20) or a rebound off the support level, before entering new positions. For those with a higher risk tolerance, shorting near the resistance level could be considered, but with tight stop-loss orders to manage risk. Overall, maintaining vigilance in the current market environment will be crucial for effective trading decisions."
+    }
+  }
+}
