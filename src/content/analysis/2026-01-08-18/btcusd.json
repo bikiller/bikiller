@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-08T18:59:18.416Z",
+  "price": {
+    "close": "90974.42",
+    "high": "91403.97",
+    "low": "90864.45",
+    "open": "91304.01",
+    "change": "-0.36",
+    "datetime": "2026-01-08 18:00:00"
+  },
+  "indicators": {
+    "rsi": 51.908,
+    "macd": -210.021398,
+    "macd_signal": -383.87727,
+    "sma20": 90554.209
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前市场偏弱，需谨慎操作]",
+      "content": "当前比特币对美元的价格为90974.42，24小时内小幅下跌0.36%。在短期内，价格在91403.97的高点和90864.45的低点之间波动，显示出市场缺乏明确的方向。整体趋势偏向于震荡整理，投资者应保持警惕。\n\n技术指标方面，MACD显示为负值-210.021398，表明当前市场动能较弱。尽管RSI(14)数据缺失，但可以推测，市场情绪可能处于超卖区间。SMA(20)为90554.21，价格略高于该均线，显示出短期可能存在一定的支撑。\n\n在支撑和阻力位方面，90864.45是近期的重要支撑位，若跌破该水平，可能引发进一步的下行压力。相对的，91403.97则是短期内的阻力位，突破后可能带来反弹机会。投资者需关注这些关键价位的突破情况。\n\n综上所述，现阶段建议投资者保持谨慎，避免盲目追涨。可考虑在支撑位附近适量布局，但需设定止损，以应对可能的市场波动。同时，关注市场情绪和技术指标的变化，灵活调整策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's recent price action shows a slight bearish trend, currently trading at 90,974.42, reflecting a decrease of 0.36% over the last 24 hours. The high and low during this period indicate a tight range, with the market unable to maintain upward momentum beyond 91,403.97. This lack of strength suggests the market may be consolidating before making a more decisive move, highlighting the importance of monitoring key support and resistance levels in the near term.\n\nThe absence of a reliable RSI value makes it challenging to assess overbought or oversold conditions; however, the current MACD reading of -210.021398 indicates a bearish momentum. This negative value suggests that sellers may have the upper hand, with the likelihood of further downside if the price fails to reclaim the recent high. Traders should remain cautious, as the MACD could signal a continuation of this bearish trend if it stays below zero.\n\nThe 20-period Simple Moving Average (SMA) at 90,554.21 serves as a critical support level in the immediate term. If Bitcoin breaches this level, it could trigger further selling pressure, potentially targeting the next support zone around 90,000. Conversely, a successful test of this SMA could lead to a bounce, offering a potential trading opportunity for short-term bullish positions, especially if the price retests the recent high near 91,403.97.\n\nIn light of the current market conditions, traders should consider a cautious approach. A break below 90,554 could signal a bearish continuation, while a rebound might present a buying opportunity. Utilizing stop-loss orders below key support levels can help manage risk, while identifying potential entry points for short positions may also be prudent for those looking to capitalize on the prevailing bearish sentiment."
+    }
+  }
+}
