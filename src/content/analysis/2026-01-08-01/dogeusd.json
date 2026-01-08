@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-01-08T01:25:51.753Z",
+  "price": {
+    "close": "0.14701",
+    "high": "0.14716",
+    "low": "0.14639",
+    "open": "0.14707",
+    "change": "-0.02",
+    "datetime": "2026-01-08 01:00:00"
+  },
+  "indicators": {
+    "rsi": 47.35152,
+    "macd": -0.00062282505,
+    "macd_signal": -0.00064476283,
+    "sma20": 0.147556
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：[震荡整理趋势]",
+      "content": "当前狗狗币/美元（DOGE/USD）在0.14701附近波动，显示出震荡整理的趋势。24小时变化为-0.02%，表明市场情绪相对平稳，但缺乏明显的买入或卖出信号。高点和低点分别为0.14716和0.14639，显示出当前价格区间的窄幅波动。\n\n从技术指标来看，MACD显示出微弱的负值（-0.00062282505），这表明短期内卖压略占优势，但尚未形成明确的趋势信号。由于RSI(14)数据缺失，无法全面评估超买或超卖状态。然而，根据20日简单移动平均线（SMA）为0.147556，当前价格略低于这一水平，可能进一步支持短期内的震荡整理。\n\n在支撑位方面，0.14639是一个关键支持区域，若价格跌破此位，可能会引发更深的回调。阻力位则在0.14756附近，若突破该水平，有望吸引更多买盘。因此，建议交易者关注这两个关键价位，短期内采取观望策略，待趋势明朗后再考虑进场。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin (DOGE) is currently trading at 0.14701, showing a slight decline of 0.02% over the last 24 hours. The price has oscillated between a high of 0.14716 and a low of 0.14639, indicating a relatively narrow trading range. This stability suggests that DOGE is consolidating, which could be a precursor to a breakout or breakdown. Traders should monitor this range closely as it may establish key support and resistance levels that will dictate future price movements.\n\nThe absence of a calculated RSI(14) limits our ability to assess overbought or oversold conditions; however, the MACD value of -0.00062282505 indicates a bearish sentiment, as the MACD line is below the signal line. This negative divergence suggests that the momentum might be shifting towards the downside. Traders may want to remain cautious, as the current trend could lead to further declines unless significant buying pressure emerges to reverse the trend.\n\nLooking at the 20-day Simple Moving Average (SMA), which currently sits at 0.147556, we can see that the price is trading slightly below this average. This positioning typically signals a bearish trend, reinforcing the potential for downward movement. A break below the support level of 0.14639 could expose DOGE to further downside, while a rally above the SMA could indicate renewed bullish sentiment and a possible retest of the recent high at 0.14716.\n\nFor traders, a prudent approach would be to employ a wait-and-see strategy. Short positions could be considered if the price breaks below 0.14639, with targets set around 0.14500. Conversely, if DOGE manages to rally above 0.14756, a long position may be warranted, targeting the upper resistance near 0.14800. Monitoring volume closely will also be crucial, as an increase could validate any breakout or breakdown scenarios."
+    }
+  }
+}

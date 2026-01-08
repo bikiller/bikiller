@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-08T01:21:44.251Z",
+  "price": {
+    "close": "91228",
+    "high": "91333",
+    "low": "91194.57",
+    "open": "91296.02",
+    "change": "-0.07",
+    "datetime": "2026-01-08 01:00:00"
+  },
+  "indicators": {
+    "rsi": 40.33725,
+    "macd": -412.48421,
+    "macd_signal": -441.74072,
+    "sma20": 91580.555
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[横盘整理中的调整走势]",
+      "content": "当前比特币/美元市场价格为91228，24小时内变化不大，显示出市场在高位附近的横盘整理特征。短期内，价格在91333和91194.57之间波动，表明市场缺乏明显的方向性。投资者应关注后续价格突破的可能性，以评估趋势的进一步发展。\n\n从技术指标来看，当前RSI数据缺失，无法判断超买或超卖状态，而MACD处于负值区域，显示出市场情绪相对疲弱。SMA(20)线在91580.555附近，提示短期均线的下行趋势可能导致价格进一步回调。整体来看，若价格持续低于SMA(20)，可能会加大下行风险。\n\n在支撑和阻力位方面，当前的支撑位在91194.57，而阻力位则在91333。若价格向下突破支撑位，可能会引发更大的抛售压力，反之，则可能重返92000以上的水平。投资者应密切关注这两个关键价位，以便及时调整交易策略。\n\n建议交易者在当前市场环境中保持谨慎，避免大额仓位操作。若价格突破阻力位，可以考虑适度入场，但需设置止损以防止风险扩大。反之，若突破支撑位，则应及时平仓，以保护资本。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar (BTC/USD) is situated at 91,228, reflecting a slight decline of 0.07% over the past 24 hours. This minor shift suggests a period of consolidation following recent volatility. The high and low for the day have been 91,333 and 91,194.57, respectively, indicating a relatively tight trading range. Traders should remain vigilant, as the market appears to be in a sideways trend, which can often precede significant price movements.\n\nAnalyzing the technical indicators, the absence of an available RSI (Relative Strength Index) limits our ability to gauge the market's momentum. However, the MACD shows a negative value of -412.48, indicating bearish momentum. This may suggest that sellers are currently in control, although without a signal line to compare, caution is warranted. Furthermore, the SMA(20) at 91,580.56 serves as a key resistance level, and traders should observe how the price reacts around this area.\n\nSupport levels can be derived from the recent low of 91,194.57, which may serve as a critical point for buyers to step in. If BTC/USD breaks below this support, further declines could be anticipated, potentially targeting lower support around 90,500. Conversely, if the price can reclaim the SMA(20) and establish a foothold above it, this could trigger renewed buying interest, possibly pushing the price towards the next resistance at 92,000.\n\nFor traders, the current market presents an opportunity to adopt a cautious approach. A strategy could involve monitoring the price action around the defined support and resistance levels. Buying on dips near the support of 91,194.57 could be advantageous, while setting a stop-loss just below this level may help to manage risk. Conversely, a short position could be considered if the price fails to breach the SMA(20), particularly if bearish momentum continues to manifest in the MACD readings."
+    }
+  }
+}
