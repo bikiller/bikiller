@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-09T01:21:37.269Z",
+  "price": {
+    "close": "91200",
+    "high": "91255.55",
+    "low": "91161.24",
+    "open": "91207.89",
+    "change": "-0.01",
+    "datetime": "2026-01-09 01:00:00"
+  },
+  "indicators": {
+    "rsi": 54.51762,
+    "macd": 25.057768,
+    "macd_signal": -108.98752,
+    "sma20": 90578.717
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，关注支撑与阻力]",
+      "content": "当前比特币/美元(BTC/USD)价格在91200附近，显示出震荡整理的趋势。24小时变化仅为-0.01%，表明市场情绪较为平稳。在高点91255.55和低点91161.24之间的波动，暗示市场尚未形成明确的方向，投资者需谨慎应对。\n\n从技术指标来看，MACD值为25.057768，虽然信号线数据缺失，但当前MACD处于较高水平，显示出潜在的上涨动力。由于RSI(14)数据缺失，暂时无法全面评估超买或超卖的状态。结合20日简单移动平均线(SMA)在90578.717附近，价格目前在该水平之上，反映出短期内的上行趋势。\n\n支撑位可以设定在91160附近，而阻力位则在91255附近。若价格突破91255，可能会进一步向92000挑战。反之，若跌破91160，可能会测试更低的支撑区域。建议投资者在此区间内进行短线交易，若价格回调至支撑位附近可考虑逢低吸纳，同时设定止损以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar (BTC/USD) is positioned at $91,200, showing a minimal 24-hour change of -0.01%. The price has recently fluctuated between a high of $91,255.55 and a low of $91,161.24, indicating a narrow trading range. This consolidation phase suggests that the market is currently indecisive, with traders awaiting a clearer directional signal. The overall trend appears to be neutral, as the price remains within this tight range, making it crucial to monitor for breakout opportunities.\n\nLooking at the Simple Moving Average (SMA) of the last 20 periods, which is at $90,578.72, it indicates a supportive baseline for potential upward movements. If the price can establish a solid footing above this SMA level, it may attract bullish sentiment. Conversely, a decisive move below this indicator could indicate a bearish reversal, prompting traders to adjust their strategies accordingly. The absence of a defined RSI and the signal line for MACD limits the analysis of momentum, but the current MACD value of 25.057768 indicates a bullish trend, suggesting that upward momentum could still persist if supported by volume.\n\nKey support levels to watch are around $90,578, as indicated by the SMA, and further down at $90,000, which could act as a psychological barrier. Resistance levels are noted at the recent high of $91,255.55; a breakout above this level could lead to further gains, potentially targeting the $92,000 mark. Traders should consider placing buy orders above resistance and watch for sell signals if the price dips below SMA support, thereby employing a strategy based on price action and market sentiment.\n\nIn summary, the BTC/USD pair is currently in a tight range, characterized by indecision in the market. Traders should remain vigilant for key breakout points above resistance or breakdowns below support. Given the current technical indicators, a cautious approach involving close monitoring of price movements and adjusting positions based on volatility could be prudent. As always, risk management is essential in this highly volatile market."
+    }
+  }
+}
