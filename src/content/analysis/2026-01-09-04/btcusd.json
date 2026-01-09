@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-09T04:37:28.453Z",
+  "price": {
+    "close": "90849.61",
+    "high": "91141.5",
+    "low": "90849.6",
+    "open": "91119.5",
+    "change": "-0.30",
+    "datetime": "2026-01-09 04:00:00"
+  },
+  "indicators": {
+    "rsi": 48.62998,
+    "macd": 14.3128,
+    "macd_signal": -49.81025,
+    "sma20": 90698.293
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前趋势偏弱]",
+      "content": "当前比特币/美元（BTC/USD）价格为90849.61，24小时内小幅下跌0.30%。从价格走势来看，市场整体呈现出弱势态势，交易者需保持警惕。高点91141.5和低点90849.6显示出市场缺乏明显的方向性，短期内可能会面临震荡整理的格局。\n\n在技术指标方面，由于RSI（相对强弱指数）数据尚不可用，MACD显示出14.31280的数值，暗示市场可能处于卖出信号区域。SMA（20日简单移动平均线）为90698.293，当前价格已接近这一水平，进一步验证了短期内的支撑位。\n\n支撑位方面，90698.293是关键支撑区域，若价格跌破此位，可能进一步下探至90000心理关口。而上方阻力位则位于91141.5，若突破，则有可能恢复部分升势。投资者应密切关注这些关键价位，以确定入场及止损策略。\n\n建议短期内保持观望，等待市场进一步确认方向。同时可以考虑在接近支撑位时布局小额多单，若价格反弹至阻力位附近，则可以考虑获利了结或设置止损以规避风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $90,849.61, reflecting a slight decline of 0.30% over the past 24 hours. The price has established a narrow trading range, with a high of $91,141.50 and a low at $90,849.60. This consolidation suggests market indecision, but the price's proximity to the recent low indicates a potential downward bias unless a breakout occurs. Traders should watch for clear signals that could provide direction, especially in the context of broader market trends.\n\nThe absence of a calculated RSI and signal line for the MACD limits our ability to gauge overbought or oversold conditions accurately. However, the MACD value of 14.31280 suggests upward momentum, albeit without confirmation from the signal line. The short-term SMA(20) at $90,698.29 provides a crucial support level. A sustained move below this level could trigger further selling pressure, while a bounce off this support could signal a potential reversal.\n\nIn terms of support and resistance, the immediate support level resides at the SMA(20) around $90,698. A break below this level could see the price test more substantial support at $90,000. Conversely, resistance stands at the recent high of $91,141.50. A decisive move above this level, accompanied by increased volume, could pave the way for further gains, possibly targeting the psychological level of $92,000.\n\nFor traders, maintaining a cautious stance is advisable. Short positions may be considered below the SMA(20) with a stop-loss just above the recent high. Conversely, for those looking to take long positions, waiting for a confirmed breakout above resistance levels, supplemented by additional bullish indicators, could result in a more favorable risk-reward scenario. Ultimately, staying attuned to market developments and broader sentiment will be critical in navigating this volatile landscape."
+    }
+  }
+}
