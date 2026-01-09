@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-09T20:20:31.171Z",
+  "price": {
+    "close": "90275.97",
+    "high": "90353.32",
+    "low": "90114.9",
+    "open": "90217.88",
+    "change": "0.06",
+    "datetime": "2026-01-09 20:00:00"
+  },
+  "indicators": {
+    "rsi": 44.58829,
+    "macd": -62.62664,
+    "macd_signal": -53.66643,
+    "sma20": 90677.4995
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理趋势]",
+      "content": "当前比特币/美元的价格在90275.97美元附近，显示出震荡整理的趋势。虽然24小时变化仅为0.06%，但价格在90353.32和90114.9之间波动，表明市场情绪较为谨慎，投资者在等待更明确的方向信号。\n\n从技术指标来看，RSI尚未提供数据，但MACD值为-62.62664，显示出卖方力量较强。短期内，SMA(20)为90677.49950，价格未能有效突破该均线，可能进一步限制上涨空间，投资者需关注价格是否能突破该均线以确认短期反弹信号。\n\n在支撑与阻力位方面，90114.9构成短期支撑，而90353.32则为关键阻力位。如果价格持续在支撑位之上，则有可能出现反弹，反之则可能跌破支撑位，导致进一步下行风险。因此，密切关注这些关键点位的突破情况非常重要。\n\n基于当前市场状况，建议投资者采取观望策略，避免在震荡区间内进行大额交易。如果价格成功突破90353.32，则可考虑适度进场以获取短期利润。反之，在跌破90114.9时，需谨慎应对市场波动，考虑止损策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market data for Bitcoin against the US Dollar indicates a period of consolidation, with the price hovering around $90,275.97. The minimal 24-hour change of 0.06% suggests a lack of significant momentum in either direction. The recent high at $90,353.32 and low at $90,114.90 indicate a tight trading range, which may set the stage for either a breakout or breakdown in the near future. Traders should monitor this range closely, as a decisive move beyond these levels could signal the next trend direction.\n\nThe absence of a current RSI value limits our ability to assess overbought or oversold conditions, but the MACD reading of -62.62664 suggests bearish momentum. A negative MACD indicates that sellers may be in control, particularly if the price fails to reclaim the SMA(20) at $90,677.50. This moving average may serve as a crucial resistance level, and a failure to break above it could reinforce the bearish sentiment. Conversely, if the price stabilizes and regains the SMA, it could attract buying interest.\n\nSupport levels are critical in this analysis, with the recent low of $90,114.90 acting as a potential floor. A breach below this level could lead to further selling pressure, possibly targeting lower support levels around $89,800. On the other hand, should the price bounce off this support, traders might look for a retest of the SMA(20) as a point of entry for long positions. Establishing a clear strategy will be essential in capitalizing on these potential movements.\n\nIn terms of trading suggestions, cautious positioning is advisable given the current market dynamics. Traders might consider setting buy orders slightly above the SMA(20) to catch potential upward momentum, while also placing stop-loss orders just below the lower support level to manage risk effectively. Conversely, for those who are more bearish, short positions could be contemplated if the price decisively breaks below $90,114.90, with profit targets aligned to lower support levels. Maintaining a close watch on market sentiment and volume will be essential in navigating these trades."
+    }
+  }
+}
