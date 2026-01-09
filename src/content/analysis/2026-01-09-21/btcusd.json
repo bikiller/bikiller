@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-09T21:36:27.007Z",
+  "price": {
+    "close": "90349.8",
+    "high": "90550",
+    "low": "90000",
+    "open": "90188.01",
+    "change": "0.17",
+    "datetime": "2026-01-09 21:00:00"
+  },
+  "indicators": {
+    "rsi": 45.70777,
+    "macd": -86.17451,
+    "macd_signal": -61.18887,
+    "sma20": 90642.703
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，待突破]",
+      "content": "当前比特币/美元市场表现出震荡整理的趋势。最新价格90349.8美元，24小时内上涨0.17%。高点和低点分别为90550美元和90000美元，表明价格在这一区域内波动，缺乏明显的方向性。投资者可能在等待更强的价格信号。\n\n从技术指标来看，MACD显示出负值，表明短期内可能存在卖压，市场情绪偏向谨慎。然而，由于RSI数据缺失，无法全面评估超买或超卖情况。简单移动平均线(SMA)的20日均线在90642.7美元，若价格能突破该水平，短期反弹的可能性将增加。\n\n支撑位方面，90000美元是一个重要的心理关口，若跌破则可能引发进一步的抛售。上方阻力位在90550美元，如能有效突破该点位，可能会吸引更多买盘进场。综合考虑，建议投资者在90000美元附近寻找买入机会，同时设定止损以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is positioned at 90,349.8, reflecting a slight 24-hour increase of 0.17%. This modest uptick suggests a period of consolidation following recent volatility, with the price oscillating between a high of 90,550 and a low of 90,000. Analyzing this range indicates that the market is currently in a neutral phase, with the potential for breakout scenarios in either direction if sufficient momentum emerges.\n\nIn terms of trend analysis, the presence of the SMA(20) at 90,642.70 indicates a short-term bearish sentiment, as the current price is trading below this moving average. A sustained move below this level could reinforce the bearish outlook, while a breakout above the SMA may signal a potential reversal, attracting buyers. Traders should monitor this moving average closely, as it could serve as a pivotal point for trend direction.\n\nThe RSI(14) is currently not available, which limits the ability to gauge overbought or oversold conditions. However, the negative MACD reading of -86.17451 suggests that the bearish momentum is still prevalent in the market. If the MACD crosses above the signal line in future sessions, it could indicate a shift towards bullish sentiment, prompting a reassessment of trading strategies. \n\nSupport is firmly established at the 90,000 level, while the resistance is noted at 90,550. Traders may consider setting buy orders near the support level to capitalize on potential rebounds, while sell orders could be placed just below the resistance to capture profits on upward moves. Active monitoring of price action around these key levels will be essential for executing informed trading decisions in the current market landscape."
+    }
+  }
+}
