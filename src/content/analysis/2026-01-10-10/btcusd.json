@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-10T10:51:47.063Z",
+  "price": {
+    "close": "90693.99",
+    "high": "90698",
+    "low": "90599.6",
+    "open": "90642",
+    "change": "0.06",
+    "datetime": "2026-01-10 10:00:00"
+  },
+  "indicators": {
+    "rsi": 52.4918,
+    "macd": -31.89554,
+    "macd_signal": -61.81873,
+    "sma20": 90611.3495
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期关注支撑位]",
+      "content": "当前比特币/美元(BTC/USD)价格在90693.99附近，整体呈现震荡整理的态势。市场在90698至90599.6的区间内波动，显示出多空力量暂时平衡。短期内，若价格突破90698，将可能引发小幅上涨，而若跌破90599.6，则可能加剧下行压力。\n\n从技术指标来看，MACD处于负值区域，显示出卖方力量依然较强，尽管RSI数据尚不可用，但一般来说，RSI若低于30则表明超卖状态，可能为反弹提供机会。结合SMA(20)的值90611.34950，价格若回测此均线并获得支撑，则可能会吸引买盘入场。\n\n在支撑和阻力方面，当前的关键支撑位在90599.6附近，若跌破此位，则可能测试更低的支撑区间，例如90000大关。阻力位则在90698和91000附近，突破这些水平可能会激发进一步的买入兴趣。在这样的市场环境下，建议投资者可考虑在支撑位附近逐步建仓，并设定合理的止损以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently exhibiting a slight upward trend with the latest price at $90,693.99. The modest 24-hour change of 0.06% suggests a period of consolidation after recent volatility. The high and low prices of $90,698 and $90,599.6 respectively indicate a tight trading range, which could signal indecision among traders. If the upward momentum persists, we might see a test of higher resistance levels, particularly around $91,000, which can act as a psychological barrier.\n\nWhen analyzing technical indicators, the lack of an RSI reading makes it difficult to assess overbought or oversold conditions. However, the MACD shows a negative value of -31.89554, suggesting bearish momentum in the short term. This could imply that the market is lacking strong buying pressure. Traders should be cautious, as a crossover of the MACD with a subsequent signal line could hint at a potential reversal or continuation of the trend.\n\nThe simple moving average (SMA) of 20 periods stands at $90,611.35, providing a dynamic support level in the current market structure. This level is critical for maintaining bullish sentiment; a breach below could lead to further downside potential. Conversely, if prices hold above this SMA, it could lead to a renewed interest from buyers, potentially pushing prices back toward recent highs.\n\nFor trading strategies, short-term traders may consider buying around the SMA level, looking for confirmation of support, while setting stop-loss orders just below $90,600 to manage risk. On the flip side, if prices break through the resistance at $91,000, it might present an opportunity for momentum traders to enter long positions, targeting further highs while closely monitoring momentum indicators for signs of exhaustion."
+    }
+  }
+}
