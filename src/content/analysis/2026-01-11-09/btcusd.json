@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-11T09:37:15.126Z",
+  "price": {
+    "close": "90571.98",
+    "high": "90695.48",
+    "low": "90568.17",
+    "open": "90665.38",
+    "change": "-0.10",
+    "datetime": "2026-01-11 09:00:00"
+  },
+  "indicators": {
+    "rsi": 50.70671,
+    "macd": 20.12981,
+    "macd_signal": 2.85224,
+    "sma20": 90523.123
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡趋势]",
+      "content": "当前比特币价格在90571.98美元附近，整体表现出小幅震荡的趋势。24小时内价格变化仅为-0.10%，显示出市场缺乏明显动能。高点和低点之间的微小波动表明，投资者在当前价格附近进行谨慎操作，可能在等待更明确的市场信号。\n\n从技术指标来看，虽然RSI尚不可用，但MACD显示出20.12981的值，暗示出潜在的上行动能。SMA(20)位于90523.12300，作为短期支撑位。然而，由于价格接近该水平，若跌破，可能会引发更多卖盘压力。\n\n支撑位方面，主要关注90568.17美元的低点，若有效跌破此位，可能会导致进一步下探至90200美元附近。阻力位则在90695.48美元，突破该位置或将吸引更多买盘，促使价格上涨至91000美元的心理关口。\n\n基于当前的市场情况，建议投资者采取观望态度，短期内关注价格在支撑和阻力位的表现。若价格持续在90568美元之上，考虑小幅加仓；反之，若跌破支撑位，则应谨慎止损，避免损失扩大。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at 90,571.98, experiencing a slight decline of 0.10% over the past 24 hours. The price has shown minor fluctuations, with a high of 90,695.48 and a low of 90,568.17. This tight trading range suggests a period of consolidation, indicating that market participants are uncertain about the next directional move. The overall trend appears neutral, necessitating close monitoring for potential breakouts or breakdowns in the near term.\n\nThe absence of a recent RSI reading complicates the assessment of market momentum. However, the MACD at 20.12981 indicates bullish momentum, as it remains positive, suggesting that there is still buying interest in the market. Traders should remain cautious, as a weakening MACD signal could foreshadow a downturn. The SMA(20) at 90,523.12300 acts as a short-term support level, reinforcing the significance of this price point in the context of potential pullbacks.\n\nSupport levels are positioned around 90,523, with the possibility of further support at 90,000 if bearish sentiment escalates. Conversely, resistance is identified at the recent high of 90,695, followed by psychological resistance at 91,000. A breakout above this level could rejuvenate bullish sentiment, while a drop below 90,523 would likely trigger additional selling pressure, warranting a reassessment of market conditions.\n\nFor traders, maintaining a watchful eye on key support and resistance levels is crucial. A buy signal could be considered if BTC/USD breaks above 90,695 with strong volume, while a sell signal may be warranted if the price falls below 90,523. The current market environment requires a balanced approach, combining technical indicators with fundamental news to navigate potential volatility in the cryptocurrency space."
+    }
+  }
+}
