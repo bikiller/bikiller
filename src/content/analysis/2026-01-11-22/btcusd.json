@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-11T22:51:32.064Z",
+  "price": {
+    "close": "90505.28",
+    "high": "90618",
+    "low": "90295.56",
+    "open": "90618",
+    "change": "-0.12",
+    "datetime": "2026-01-11 22:00:00"
+  },
+  "indicators": {
+    "rsi": 44.50984,
+    "macd": 13.09043,
+    "macd_signal": 42.3605,
+    "sma20": 90684.5235
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡整理，等待突破信号]",
+      "content": "当前比特币/美元(BTC/USD)的价格在90505.28附近，呈现出短期震荡整理的态势。24小时变化为-0.12%，显示出市场缺乏方向性。在高点90618和低点90295.56之间的波动，表明投资者正在等待进一步的市场信号来决定下一步的行动。\n\n从技术指标来看，虽然RSI(14)值暂时缺失，但MACD指标显示出13.090430的正值，暗示当前的买盘动能仍然存在。SMA(20)为90684.52350，若价格能够突破这一均线，将可能引发进一步的上涨走势。市场情绪依然谨慎，投资者需密切关注后续动向。\n\n支撑位方面，90295.56将是关键的看跌支撑区域，若价格跌破该位，可能会引发更大幅度的回调。而上方的阻力位在90618附近，若突破该水平，可能会刺激多头进一步进攻。整体来看，当前市场处于观望期，投资者应谨慎操作，待确认趋势后再采取行动。\n\n建议投资者保持谨慎，关注价格在支撑和阻力位之间的表现，切勿盲目追涨或杀跌。可以考虑在接近支撑位时分批建仓，或在阻力位附近设置止损，以控制风险。同时，密切关注市场消息面，以获取可能影响价格波动的因素。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has recently exhibited a slight bearish movement, currently trading at $90,505.28, reflecting a 24-hour change of -0.12%. The price approached the high of $90,618 but faced resistance in maintaining momentum, ultimately retreating towards the lower boundary of the recent range at $90,295.56. This fluctuation indicates a consolidation phase, suggesting traders may be awaiting clearer market signals before committing to larger positions. \n\nIn terms of technical indicators, the absence of a clear Relative Strength Index (RSI) reading limits our ability to gauge overbought or oversold conditions. However, the MACD value of 13.090430 suggests that the bullish momentum remains intact, albeit weakening. The Simple Moving Average (SMA) of $90,684.52 serves as a critical benchmark; sustaining prices above this level could indicate a continuation of the uptrend, while a break below may signify a shift towards bearish sentiment.\n\nKey support levels appear robust around $90,295, which, if breached, could trigger further declines, potentially testing psychological levels near $90,000. Conversely, resistance remains firmly established around $90,618. A break above this level could reignite bullish interest and pave the way towards the next resistance zones. Traders should closely monitor these levels, as they will be crucial in determining the short-term direction of Bitcoin.\n\nFor trading strategies, a cautious approach is advisable. A potential long position may be warranted should Bitcoin reclaim and hold above the SMA, with stop-loss orders placed just below the support level of $90,295. Conversely, if Bitcoin fails to maintain its current range and falls below this support, short positions could be considered, targeting lower price levels. As always, risk management should remain a priority in this volatile market."
+    }
+  }
+}
