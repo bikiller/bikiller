@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-12T20:20:51.247Z",
+  "price": {
+    "close": "91693.89",
+    "high": "91981.1",
+    "low": "91652.44",
+    "open": "91784.13",
+    "change": "-0.10",
+    "datetime": "2026-01-12 20:00:00"
+  },
+  "indicators": {
+    "rsi": 57.1416,
+    "macd": 193.0066066,
+    "macd_signal": 119.62007,
+    "sma20": 91309.799
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币/美元（BTC/USD）价格为91693.89，市场呈现出震荡整理的趋势。尽管24小时变化较小，仅为-0.10%，但价格维持在高点91981.1与低点91652.44之间，显示出市场参与者在此区间内的犹豫。短期内，若突破91981.1，可能开启进一步上涨的空间；反之，如跌破91652.44，则需警惕回调风险。\n\n技术指标方面，虽然RSI(14)数据缺失，但MACD显示出193.0066066的数值，表明当前市场存在一定的买入动能。20日简单移动平均线（SMA）为91309.799，价格位于此线之上，可能暗示出短期内的上涨趋势。不过，需关注MACD信号线的变化，以判断市场动能的持续性。\n\n支撑位方面，91309.799的SMA为关键支撑，若价格回落至此水平并获得支撑，有助于后续反弹。而在阻力位方面，91981.1则是近期的重要阻力，突破后有望进一步上行至93000的心理关口。交易者应密切关注这两个关键价位的表现。\n\n综合来看，建议投资者在当前区间内灵活操作。在价格接近支撑位时考虑低吸，而在触及阻力位时可适当获利了结。保持警惕，及时调整策略，以应对市场的波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $91,693.89, reflecting a slight decline of 0.10% over the past 24 hours. This marginal change indicates a period of consolidation following recent volatility. The high of $91,981.10 and low of $91,652.44 suggest that the market is oscillating within a narrow range, signaling indecision among traders. If this trend continues, it may lead to a breakout or breakdown, making it crucial to watch for price action beyond these boundaries.\n\nIn terms of technical indicators, the Simple Moving Average (SMA) at 20 periods is positioned at $91,309.80, acting as a potential support level. If the price dips below this level, it could trigger bearish sentiment and lead to further declines. Conversely, if Bitcoin holds above this SMA, it may attract buyers, reinforcing the bullish trend. The MACD value of 193.0066066 could indicate underlying strength, but the absence of a signal line complicates interpretation, necessitating further observation.\n\nSupport levels are established at $91,309.80 (SMA) and potentially $91,000, while resistance is apparent near the recent high of $91,981.10. Traders should closely monitor these levels for signs of breakout or reversal. A sustained movement above the resistance could signal a bullish trend, while a failure to maintain above the support might open the door for a more significant retracement. \n\nFor trading strategies, consider setting buy orders near the support level if price action shows signs of stabilization. Conversely, placing sell orders near resistance could capitalize on potential reversals. It's essential to incorporate risk management techniques, such as stop-loss orders, to protect against unforeseen market volatility. Monitoring volume alongside these levels will provide further context for potential price movements in the near term."
+    }
+  }
+}
