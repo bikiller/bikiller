@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-12T16:23:18.682Z",
+  "price": {
+    "close": "91569.24",
+    "high": "91825.01",
+    "low": "91546.39",
+    "open": "91577.04",
+    "change": "-0.01",
+    "datetime": "2026-01-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 58.9161,
+    "macd": 60.80143,
+    "macd_signal": 46.69697,
+    "sma20": 91108.768
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，谨慎操作]",
+      "content": "当前比特币/美元（BTC/USD）价格在91569.24附近，整体表现出一定的震荡整理趋势。在过去24小时内，价格波动微小，仅下降0.01%。高点91825.01和低点91546.39的差距较小，显示出市场的短期不确定性，投资者情绪较为谨慎。\n\n从技术指标来看，MACD值为60.80143，表明多头市场依然强劲，但缺乏信号线的数据使得判断趋势的持续性变得困难。SMA(20)处于91108.77，显示出短期均线的支撑作用。若价格跌破此水平，可能会引发更多卖盘，需密切关注市场动向。\n\n支撑位方面，91108.77是重要的短期支撑，而91825.01则构成了阻力位。如果价格突破91825.01，并且伴随成交量放大，可能会引发进一步的上涨行情。反之，如果跌破支撑位，则可能会出现一波调整。\n\n综合来看，当前市场处于震荡整理阶段，建议投资者保持谨慎，关注技术指标的变化，选择合适的入场时机。在未能确认趋势反转之前，建议采用短线交易策略，控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is 91,569.24, reflecting a minimal 24-hour change of -0.01%. This stability suggests a consolidation phase, which often precedes significant price movements. The high and low of the day, 91,825.01 and 91,546.39 respectively, indicate a tight trading range. Traders should monitor this range closely, as a breakout above the high could signal bullish momentum, while a drop below the low may trigger bearish sentiment.\n\nExamining the short-term trend, the price is currently above the 20-day Simple Moving Average (SMA) of 91,108.77, indicating a bullish tendency in the near term. However, the absence of an RSI reading complicates momentum analysis; thus, traders should remain cautious. The MACD at 60.80143 suggests a strong bullish trend, but without a corresponding signal line, the interpretation remains incomplete. Traders should watch for potential MACD crossovers for clearer directional cues.\n\nKey support levels are identified at around 91,108, coinciding with the SMA, while resistance can be expected near 91,825. A sustained break above this level could attract further buying interest, potentially leading to a test of higher resistance levels. Conversely, should the price breach the support level, it may prompt a reevaluation of bullish positions and could lead to a deeper pullback, possibly targeting lower support zones.\n\nTraders are advised to adopt a cautious approach, considering both breakout and breakdown strategies. A buy signal may emerge on a decisive close above 91,825, with profit targets set higher. Conversely, if the price falls below 91,108, it may be prudent to reassess positions and consider shorting opportunities. Employing stop-loss orders in either scenario will be essential to manage risk effectively in this volatile environment."
+    }
+  }
+}
