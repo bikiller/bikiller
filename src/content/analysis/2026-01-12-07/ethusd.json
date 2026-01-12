@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-12T07:04:47.424Z",
+  "price": {
+    "close": "3152.72",
+    "high": "3166.34",
+    "low": "3152.43",
+    "open": "3158.64",
+    "change": "-0.21",
+    "datetime": "2026-01-12 06:00:00"
+  },
+  "indicators": {
+    "rsi": 64.35878,
+    "macd": 13.39915,
+    "macd_signal": 10.27377,
+    "sma20": 3128.8355
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理趋势]",
+      "content": "当前以太坊/美元（ETH/USD）价格在3152.72附近波动，显示出短期内的震荡整理趋势。虽然24小时变化仅为-0.21%，但价格在3166.34和3152.43之间形成了明显的区间，表明市场情绪相对谨慎，投资者对后市走向持观望态度。\n\n技术指标方面，尽管RSI(14)数据缺失，但MACD指标显示出13.39915的正值，暗示短期内存在一定的买入动能。SMA(20)为3128.8355，表明价格在该均线之上，可能继续维持上行趋势，尤其是若能突破3166.34的阻力位。\n\n在支撑和阻力位方面，3152.43是短期重要支撑位，若价格跌破该水平，可能会引发进一步下行风险。而3166.34则为关键阻力位，突破后可能会吸引更多买盘，推高价格。交易者应密切关注这些关键价位，以制定相应的交易策略。\n\n综上所述，当前市场呈现震荡整理态势，建议投资者在3152.43支撑位附近考虑逢低买入，而在3166.34阻力位附近则考虑适时获利了结。保持灵活应变的交易策略，将有助于把握市场动态。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum's current price of $3152.72 indicates a marginal decline of 0.21% over the past 24 hours, suggesting a period of consolidation after recent volatility. The high of $3166.34 and low of $3152.43 show a narrow trading range, which often signifies indecision among traders. Should the price break above the recent high, it may signal a bullish trend, while a drop below the low could confirm bearish momentum, leading to further downside testing.\n\nThe absence of the RSI(14) and Signal line data limits our ability to gauge momentum accurately. However, the MACD value of 13.39915 suggests a positive momentum phase. Traders might interpret this as a potential buy signal, but caution is advised until further confirmation appears. Moreover, the SMA(20) at $3128.84 indicates a short-term trend support level. If the price retraces to this moving average, it could present a buying opportunity, provided the market conditions remain stable.\n\nIn terms of support and resistance levels, immediate support can be observed around the SMA(20) and further down at $3100, which has historically acted as a pivotal point. Resistance levels loom at $3166 and could be extended towards $3200 if bullish sentiment prevails. Traders should monitor these levels closely, as a breakthrough could open the door for a more significant uptrend, while failure to maintain above support may lead to increased selling pressure.\n\nFor trading suggestions, a conservative approach would be to wait for a confirmed break above the $3166 resistance before entering long positions. Conversely, if the price fails to hold above the SMA(20), short trades could be considered, especially if the price approaches the next support level at $3100. Utilizing stop-loss orders will be crucial to manage risk effectively in this uncertain market environment."
+    }
+  }
+}
