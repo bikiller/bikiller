@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-13T08:25:56.532Z",
+  "price": {
+    "close": "91979.37",
+    "high": "91983.78",
+    "low": "91831.08",
+    "open": "91842.01",
+    "change": "0.15",
+    "datetime": "2026-01-13 08:00:00"
+  },
+  "indicators": {
+    "rsi": 59.29434,
+    "macd": 202.25802,
+    "macd_signal": 133.60148,
+    "sma20": 91419.6695
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币/美元（BTC/USD）价格为91979.37，市场处于震荡整理状态。24小时内价格变化仅为0.15%，显示出市场参与者对当前价格水平的观望态度。高点91983.78和低点91831.08的波动幅度较小，表明短期内缺乏明确的方向性。\n\n技术指标方面，虽然RSI(14)数据缺失，但MACD指标显示出202.25802的数值，暗示出潜在的上涨动能。SMA(20)的值为91419.66950，为短期趋势提供了支撑。若价格能维持在此水平之上，继续上涨的可能性将增加。\n\n从支撑和阻力位来看，当前支撑位在91419附近，而阻力位则在92000整数关口。若价格突破92000，可能会吸引更多买盘进入市场，推动价格进一步上行。然而，如果跌破91419，则可能引发更深层次的调整。\n\n基于当前市场环境，建议交易者保持谨慎，选择观望为主。若价格突破阻力位92000，可考虑适度进场，反之若跌破支撑位91419，应考虑及时止损。保持灵活的交易策略将有助于应对市场的不确定性。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market data for Bitcoin against the US Dollar indicates a stable price trend, with the latest price at $91,979.37 and a modest 24-hour change of 0.15%. This slight increase reflects an underlying bullish sentiment, albeit with limited volatility, as seen in the daily high of $91,983.78 and low of $91,831.08. The market appears to be consolidating within this range, suggesting that traders are assessing their positions before a potential breakout.\n\nAnalyzing the technical indicators, the absence of a current RSI value limits our ability to gauge overbought or oversold conditions. However, the MACD reading at 202.25802 indicates that the bullish momentum remains intact, provided it stays above the signal line when available. The 20-period Simple Moving Average (SMA) at $91,419.67 serves as a crucial support level, indicating that buyers have been active at this price point. Should the price dip towards this SMA, it may present a buying opportunity.\n\nKey support levels are identified around the recent low of $91,831.08, which may provide a floor for price action should bearish sentiment emerge. Conversely, resistance is noted near the recent high of $91,983.78, suggesting that sellers may enter the market at this level. A decisive break above this resistance could indicate further upward momentum, potentially targeting the psychological level of $92,000.\n\nTraders should consider a cautious approach, monitoring price action closely around the identified support and resistance levels. A breakout above $91,983.78 could warrant a long position, while a drop below the $91,831.08 support might suggest a short opportunity. Utilizing trailing stops could help manage risk in this environment of consolidation, allowing for profits to be locked in while remaining exposed to potential upward moves."
+    }
+  }
+}
