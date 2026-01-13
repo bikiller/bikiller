@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-13T05:44:55.481Z",
+  "price": {
+    "close": "91787.27",
+    "high": "92156.93",
+    "low": "91375.83",
+    "open": "91407.63",
+    "change": "0.42",
+    "datetime": "2026-01-13 05:00:00"
+  },
+  "indicators": {
+    "rsi": 58.42922,
+    "macd": 106.22746,
+    "macd_signal": 86.19043,
+    "sma20": 91197.6535
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡整理中",
+      "content": "当前比特币/美元（BTC/USD）价格为91787.27，近期走势呈现出震荡整理的格局。24小时内价格波动较小，变化幅度仅为0.42%。这种走势可能表明市场参与者在等待更明确的方向性信号，短期内可能会继续维持现有区间。\n\n从技术指标来看，虽然RSI(14)数据缺失，但根据当前价格与20日简单移动平均线(SMA)的关系，我们发现价格略高于SMA，这可能暗示短期内存在一定的上行动能。而MACD指标的正值（106.22746）则进一步支持这一看法，表明市场仍有上升潜力。\n\n在支撑和阻力位方面，当前的支撑位可以设定在91375.83，而阻力位则在92156.93。若价格突破阻力位，可能会引发一波新的上涨行情；反之，若跌破支撑位，则需谨慎对待，可能会出现回调。\n\n综合考虑，建议投资者在当前区间内采取观望策略，等待价格突破关键支撑或阻力位后再进行进一步操作。同时，关注成交量的变化，以便更好地把握市场情绪和趋势。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at 91787.27, reflecting a modest 0.42% increase over the past 24 hours. This slight upward movement suggests a consolidation phase following recent volatility. The high of 92156.93 and low of 91375.83 within this timeframe indicates a relatively narrow trading range, which may lead to a breakout in either direction. Monitoring this range will be crucial for identifying potential opportunities as market sentiment evolves.\n\nFrom a trend analysis perspective, Bitcoin appears to be in a bullish undertone, as it has maintained levels above the 20-day Simple Moving Average (SMA) of 91197.65. This SMA acts as a dynamic support level, providing a cushion against potential downward movements. However, traders should remain cautious, as the lack of a defined trend could lead to whipsaws in price action. A sustained close above the psychological resistance level of 92000 may confirm further bullish momentum, while a drop below the SMA could signal a reversal.\n\nThe MACD shows a value of 106.22746, indicating that bullish momentum is present, although the absence of a signal line makes interpretation less reliable at this time. Traders should keep an eye on the RSI once it becomes available, as it will provide insights into potential overbought or oversold conditions. In the current context, maintaining a close watch on momentum indicators is essential for informed decision-making.\n\nFor trading suggestions, a prudent strategy would involve setting buy orders just above the 92000 resistance level while placing stop-loss orders beneath the 91197.65 SMA. This approach provides a balance between risk management and the potential for profit capture. Conversely, should price action breach the support level, traders may consider short positions to capitalize on downward momentum. Overall, flexibility in trading strategies will be key as market conditions continue to change."
+    }
+  }
+}
