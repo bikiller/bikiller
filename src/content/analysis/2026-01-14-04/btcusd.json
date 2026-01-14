@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-14T04:02:28.208Z",
+  "price": {
+    "close": "95737.85",
+    "high": "95737.85",
+    "low": "95675.41",
+    "open": "95683.14",
+    "change": "0.06",
+    "datetime": "2026-01-14 04:00:00"
+  },
+  "indicators": {
+    "rsi": 74.9891,
+    "macd": 1033.36795,
+    "macd_signal": 894.24711,
+    "sma20": 93856.742
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前比特币/美元(BTC/USD)价格为95737.85，24小时内波动幅度较小，显示出市场在震荡整理阶段。价格未能突破前期高点，显示出一定的买卖力量平衡，短期内可能维持在当前区间内。投资者需警惕市场情绪的变化，尤其是伴随消息面的影响。\n\n从技术指标来看，MACD指标显示出一定的上涨动能，但信号线数据缺失使得整体趋势判断受到限制。RSI未被提供，无法明确判断超买或超卖状态。结合20日简单移动平均线(SMA)，当前价格高于93856.742的水平，表明中期趋势仍有支撑，但短期内可能面临调整风险。\n\n在支撑与阻力位方面，当前价格接近96000的心理关口，若突破将可能引发更强的买盘。但在95675.41的低点处形成初步支撑，若价格跌破该点位，则可能引发进一步回调。因此，投资者应密切关注这些关键价位，以便及时调整策略。\n\n综合考虑，建议短期内保持观望，避免在波动幅度小的市场中进行激进交易。若价格突破96000，可考虑小幅进场，反之则需谨慎观察可能的回调信号。在操作中，务必设定止损，以降低风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is situated at 95,737.85, reflecting a modest 24-hour change of 0.06%. This slight movement suggests a period of consolidation, indicating that traders may be awaiting a catalyst for a more significant price action. The high and low of the day, 95,737.85 and 95,675.41, respectively, demonstrate a tight trading range, which often precedes more volatile movements. Observing this price behavior, it appears the market is currently in a phase of indecision, with potential for either bullish or bearish developments.\n\nIn terms of technical indicators, the absence of an RSI value prevents a clear assessment of overbought or oversold conditions. However, the MACD reading of 1,033.37 suggests a bullish momentum, albeit with the signal line not available for comparison. The SMA(20) stands at 93,856.742, providing a crucial support level. Should prices dip towards this moving average, it could serve as a buying opportunity for traders looking to capitalize on a potential bounce back.\n\nKey support is identified at the SMA(20) level, indicating that a break below this could lead to further downside risk. Resistance appears to be at the recent high of 95,737.85; a sustained push above this level may signal a continuation of upward momentum. Traders should monitor these levels closely, as they will provide insight into the market's next directional move. \n\nFor trading strategies, a cautious approach is advisable. If the price holds above the SMA(20), consider initiating long positions with targets set around the recent high. Conversely, if a break below the SMA occurs, a short position may be warranted, with stops placed just above the SMA to manage risk. Maintaining an eye on volume and additional indicators will be essential to confirm any breakout or breakdown scenarios."
+    }
+  }
+}
