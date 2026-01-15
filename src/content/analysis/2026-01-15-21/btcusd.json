@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-15T21:38:01.833Z",
+  "price": {
+    "close": "95423.95",
+    "high": "95461.58",
+    "low": "95162.01",
+    "open": "95233.91",
+    "change": "0.21",
+    "datetime": "2026-01-15 21:00:00"
+  },
+  "indicators": {
+    "rsi": 41.53618,
+    "macd": -99.18594,
+    "macd_signal": 118.043035,
+    "sma20": 96325.5985
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中，谨慎操作]",
+      "content": "当前比特币/美元(BTC/USD)的价格为95423.95，近期走势呈现出震荡整理的状态。24小时变化仅为0.21%，显示出市场的观望情绪。尽管未能突破近期的高点96325.5985，市场仍然在95162.01附近寻找支撑，反映出投资者对短期波动的谨慎态度。\n\n从技术指标来看，由于RSI和MACD数据缺失，无法进行全面的超买或超卖分析。不过，SMA(20)的水平为96325.5985，显示出短期均线的下行压力。如果价格持续低于此均线，可能会进一步削弱多头的信心，导致下行风险加大。\n\n在支撑和阻力位方面，95162.01作为近期低点，形成了重要支撑，而96325.5985则是关键阻力位。市场若突破该阻力，可能会吸引更多买盘，推动价格上涨。相反，如果跌破支撑位，可能引发加速下行。\n\n综合考虑，目前建议投资者保持谨慎，建议在关键支撑位附近寻找买入机会，而在接近阻力位时则考虑获利了结或减仓操作，以规避潜在的市场风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $95,423.95, reflecting a modest 24-hour change of 0.21%. This price action indicates a relatively stable market environment, although the limited volatility suggests that traders are observing the market closely for potential breakout points. The high and low of the past 24 hours, $95,461.58 and $95,162.01 respectively, showcase a tight trading range, which may signal indecision among market participants.\n\nIn terms of trend analysis, Bitcoin remains below its 20-day Simple Moving Average (SMA) of $96,325.60, which could indicate a bearish sentiment in the short term. The price trading below this key moving average suggests that sellers may be gaining control. However, a retracement towards the SMA could provide resistance around that level, and traders should monitor this area closely for potential reversal signals. A sustained move above the SMA may shift sentiment and attract more buyers.\n\nThe relative lack of available RSI data makes it challenging to assess overbought or oversold conditions accurately. However, the MACD reading of -99.18594 points to bearish momentum, reinforcing the idea that the current downtrend may continue unless a bullish reversal takes place. Traders should be cautious and watch for divergence patterns or changes in momentum that could signal a shift in market dynamics.\n\nSupport levels can be identified around the recent low of $95,162.01, which, if breached, could lead to further downside testing the next significant support zone. Conversely, resistance exists near the recent high of $95,461.58, and a break above this level could open the door for a retest of the SMA. Traders may consider setting stop-loss orders just below support levels while looking for potential buy opportunities on bullish reversals near these key areas, balancing risk and reward effectively."
+    }
+  }
+}
