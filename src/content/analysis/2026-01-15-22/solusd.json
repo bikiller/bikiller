@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-15T22:55:23.234Z",
+  "price": {
+    "close": "142.33",
+    "high": "142.54",
+    "low": "141.95",
+    "open": "142.07",
+    "change": "0.18",
+    "datetime": "2026-01-15 22:00:00"
+  },
+  "indicators": {
+    "rsi": 39.85829,
+    "macd": -0.84887066,
+    "macd_signal": -0.58590658,
+    "sma20": 143.713
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前SOL/USD的价格在142.33附近运行，显示出短期内震荡整理的趋势。价格在142.54和141.95之间波动，表明市场在寻找明确的方向。若价格突破142.54，可能会吸引更多买盘，推动价格进一步上涨；反之，跌破141.95则可能引发卖盘压力。\n\n从技术指标来看，MACD值为-0.84887066，显示出当前的卖压仍然存在。虽然RSI(14)数据缺失，但一般来说，RSI在30以下被视为超卖，70以上则为超买。建议关注RSI的变化，以便更好地判断市场情绪。同时，SMA(20)为143.713，作为短期趋势的参考，当前价格在此下方，显示出一定的弱势。\n\n支撑位方面，141.95是关键心理水平，若跌破此位，可能会引发进一步的下行趋势。阻力位则在142.54和143.71附近，若价格突破这些阻力位，市场情绪可能会转向积极。建议投资者密切关注这些关键价位，并在突破时寻找入场机会，控制风险并合理配置仓位。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current price of Solana (SOL) stands at $142.33, showing a modest increase of 0.18% over the last 24 hours. This slight upward movement indicates a period of consolidation as traders assess market conditions. The high and low prices over the past day, $142.54 and $141.95 respectively, suggest a tight trading range, reflecting a market hesitant to make significant moves. This may imply a potential build-up to a breakout, which could either manifest as upward momentum or a bearish reversal.\n\nAnalyzing the Relative Strength Index (RSI) is essential, though the current value is unavailable. If the RSI were provided, it would help determine whether SOL is overbought or oversold. An RSI above 70 typically indicates overbought conditions, while a reading below 30 suggests oversold conditions. The MACD value of -0.84887066 indicates bearish momentum, signifying that sellers currently have an advantage. Traders should monitor this closely; a crossover of the MACD line above the signal line could indicate a potential bullish reversal.\n\nSupport and resistance levels are critical for making informed trading decisions. The immediate support level can be identified near $141.95, as this has shown to be a recent low, while resistance is observed at $143.71, which corresponds to the 20-day Simple Moving Average (SMA). A sustained move above this resistance may signal further bullish potential, while a drop below support could prompt a more significant pullback.\n\nFor trading strategies, short-term traders might consider a buy if the price breaks above the resistance level at $143.71, targeting a move towards $145. Conversely, a drop below the support level at $141.95 could trigger a sell signal, with a target towards the next psychological level at $140. Engaging in these trades while keeping an eye on volume and broader market sentiment will enhance the effectiveness of the strategy."
+    }
+  }
+}
