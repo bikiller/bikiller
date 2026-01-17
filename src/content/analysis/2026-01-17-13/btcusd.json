@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-17T13:42:50.931Z",
+  "price": {
+    "close": "95326.17",
+    "high": "95354.23",
+    "low": "95158.84",
+    "open": "95219.99",
+    "change": "0.11",
+    "datetime": "2026-01-17 13:00:00"
+  },
+  "indicators": {
+    "rsi": 50.50089,
+    "macd": -61.41881,
+    "macd_signal": -82.15486,
+    "sma20": 95272.8945
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，关注支撑与阻力]",
+      "content": "当前比特币/美元的价格在95326.17附近，整体趋势表现出一定的震荡整理特征。尽管24小时变化幅度仅为0.11%，市场情绪较为谨慎，投资者需关注后市动向。当前价格接近20日简单移动平均线（SMA），这表明短期内可能会形成一定的支撑。\n\n在技术指标方面，MACD显示出负值，暗示短期内市场动能不足，可能面临调整压力。RSI指标尚不可用，但通常情况下，若RSI低于30则可能出现超卖信号，反之则为超买。投资者应关注这些信号，以便及时调整交易策略。\n\n从支撑和阻力位来看，当前支撑位在95158.84附近，而阻力位则在95354.23。若价格突破阻力位，有望进一步上涨；反之，若跌破支撑位，则可能引发更深层次的调整。技术层面上，需密切关注这些关键价位。\n\n综上所述，建议投资者在当前市场波动中保持谨慎，短期内可考虑在支撑位附近寻找买入机会，同时在接近阻力位时设定止盈策略。保持灵活应变，根据市场动态调整持仓和交易策略，将有助于降低风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $95,326.17, showing a slight increase of 0.11% over the last 24 hours. The price has oscillated between a high of $95,354.23 and a low of $95,158.84, indicating a relatively stable market environment. This stability may suggest a consolidation phase, where traders are assessing the next significant price movement. The prevailing trend appears to be neutral as the price remains within a tight range, which could lead to a breakout in either direction.\n\nThe absence of the RSI(14) makes it challenging to ascertain overbought or oversold conditions; however, the current MACD value of -61.41881 indicates bearish momentum. A negative MACD suggests that the bears are in control, although the lack of a signal line prevents a complete interpretation. Traders should remain cautious, as this could either confirm a downtrend or indicate a potential reversal if the momentum shifts. Monitoring the MACD closely will be crucial in assessing future price movements.\n\nKey support levels can be observed around the recent low of $95,158.84, which may act as a psychological barrier for traders. Conversely, the resistance level is situated at the recent high of $95,354.23. A breakout above this level could signal bullish momentum, potentially leading to further gains. Traders should watch for volume spikes accompanying price movements to confirm breakout strength. Conversely, if the price falls below the support level, it may indicate a shift into a bearish trend.\n\nFor trading strategies, consider setting buy orders slightly above the resistance level and sell orders just below the support level. Additionally, employing stop-loss orders can help mitigate risks in this volatile environment. As always, careful risk management and monitoring of market conditions will be essential when trading BTC/USD, especially given the current lack of definitive trend indicators."
+    }
+  }
+}
