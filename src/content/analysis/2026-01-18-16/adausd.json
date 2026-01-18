@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-01-18T16:24:35.260Z",
+  "price": {
+    "close": "0.39379",
+    "high": "0.394002",
+    "low": "0.391209",
+    "open": "0.39239",
+    "change": "0.36",
+    "datetime": "2026-01-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 47.11751,
+    "macd": -0.0010564019,
+    "macd_signal": -0.0008174596,
+    "sma20": 0.39445575
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短线震荡偏弱",
+      "content": "从价格结构看，ADA/USD围绕0.394一线窄幅波动，24小时涨幅有限，显示多空力量暂时均衡。当前价格略低于SMA(20)，短线趋势偏震荡，方向性尚未明确。\n\n技术指标方面，MACD处于负值区间，动能柱偏弱，暗示反弹力度不足。RSI暂缺，无法判断超买超卖状态，但结合量价表现，市场情绪仍偏谨慎。\n\n支撑与阻力方面，下方首要支撑位在0.391附近，若跌破或测试0.390整数关口。上方阻力集中在0.3945的SMA(20)及前高0.394区域，突破后才有望打开上行空间。\n\n交易策略上，激进者可在支撑位轻仓试多，止损设于0.389下方；稳健者建议等待有效突破0.395再跟随。若反弹受阻并出现放量回落，应警惕短线回调风险。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Cardano vs US Dollar (ADA/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.39379\\n- 24h Change: 0.36%\\n- High/Low: 0.394002 / 0.391209\\n- RSI(14): N/A\\n- MACD: -0.0010564019, Signal: N/A\\n- SMA(20): 0.39445575\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe short-term trend for ADA/USD appears **neutral to mildly bearish**. Price is trading just below the 20-period simple moving average (SMA) at **0.3945**, indicating that recent momentum hasn’t convincingly broken above short-term equilibrium. The current price of **0.3938** reflects a stalling move after modest sideways compression between **0.3912** and **0.3940**. Without clear directional bias, the market seems to be digesting recent moves, awaiting a catalyst to define the next leg.\n\nWith key indicators incomplete or muted, interpretation must lean on available data. The **MACD reading of –0.00106** suggests slight bearish pressure, although the absence of a signal line limits confirmation of a trend shift. The lack of an RSI figure prevents assessment of overbought or oversold extremes, but sideways price action around the SMA implies neither strong buying nor selling conviction. Traders should be cautious and wait for a more decisive crossover or divergence before committing to directional positions.\n\nImmediate **support** sits near **0.3910**, where intraday lows have clustered, while a break below this level could invite increased selling toward psychological support around **0.3850–0.3800**. On the upside, **resistance** is evident at the recent high near **0.3940–0.3950**, with a more robust barrier forming toward **0.4000**. A sustained move above **0.3950** would improve the short-term outlook and potentially rekindle bullish interest, signaling a test of the next resistance band.\n\nGiven the current technical picture, a **range-trading approach** may be appropriate. Aggressive traders can consider short positions near the upper range with tight stops if price fails to hold above the SMA, targeting the lower support zone. Conversely, conservative traders might await a confirmed breakout above **0.3950** for long entries, using a close above this region as validation of bullish continuity. Always manage risk with defined stop levels and position sizing."
+    }
+  }
+}
