@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-18T12:35:17.799Z",
+  "price": {
+    "close": "142.22",
+    "high": "142.34",
+    "low": "142.08",
+    "open": "142.33",
+    "change": "-0.08",
+    "datetime": "2026-01-18 12:00:00"
+  },
+  "indicators": {
+    "rsi": 35.97922,
+    "macd": -0.41484092,
+    "macd_signal": -0.34339289,
+    "sma20": 143.0835
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 142.22\\n- 24小时变化: -0.08%\\n- 高点/低点: 142.34 / 142.08\\n- RSI(14): N/A\\n- MACD: -0.41484092, Signal: N/A\\n- SMA(20): 143.083500\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏弱，等待确认支撑\n\n当前SOL价格围绕142美元窄幅波动，短期走势呈现横盘整理格局，波动幅度极小，表明多空力量暂时均衡。尽管24小时微跌，但价格未明显跌破关键支撑，整体趋势尚未明确转向。短线交易者应关注波动放大信号，以判断下阶段方向。\n\n技术指标方面，当前价格略低于20日简单移动平均线（SMA20≈143.08），暗示短期偏弱趋势尚未扭转。MACD为负值（-0.4148），显示下行动能存在，但缺乏Signal线数据限制信号完整性。由于缺少RSI数据，对超买超卖区间判断受限，需结合成交量及更长周期指标确认。\n\n关键阻力位在SMA20附近的143.0–144.0区域，以及近期高点约145.0水平，如价格有效突破这些阻力，可视为多头重拾主动。支撑位则看142.0心理关口，其下延伸至140.0一线。若跌破140.0，则短线看空情绪可能加剧，并可能测试更低支撑。\n\n交易上，建议在确认突破或回踩支撑并出现反弹信号时再入场。保守者可等待价格站稳144.0以上并伴随成交量放大再考虑多单，止损设在140.0下方。激进者可在未跌破主要支撑前尝试短线低多，同时严格控制仓位与风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current market data for Solana against the US Dollar (SOL/USD) indicates a slightly bearish short-term sentiment. The price has been consolidating around the $142 mark, showing minimal volatility with a 24-hour change of -0.08%. The high and low levels of $142.34 and $142.08, respectively, suggest tight price range movement. The lack of a clear upward momentum points to a possible consolidation phase, with traders waiting for a breakout in either direction. \n\nThe absence of an available RSI (Relative Strength Index) and MACD signal limits our ability to gauge overbought or oversold conditions accurately. However, the negative MACD value of -0.41484092 hints at potential bearish pressure, implying that sellers may have a slight advantage in the short term. The SMA(20) at 143.0835 provides a reference for the short-term trend, suggesting a slight bearish bias as the price is trading below this moving average.\n\nIn terms of support and resistance levels, the immediate support appears to be at $142.08, near the recent low, while resistance is likely around $142.34, the high of the day. A break below the support level could open the door for further downside towards the $140 region, whereas a move above resistance could trigger a potential rally toward $144 or higher. \n\nFor traders, a cautious approach is recommended. A break below $142.08 could be an opportunity to short, while a break above $142.34 might provide a signal to enter long positions. As the market remains in a consolidation phase, it’s vital to monitor these key levels for further developments."
+    }
+  }
+}

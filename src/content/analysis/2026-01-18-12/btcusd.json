@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-18T12:33:02.105Z",
+  "price": {
+    "close": "95092.51",
+    "high": "95142.7",
+    "low": "95055.98",
+    "open": "95123.98",
+    "change": "-0.03",
+    "datetime": "2026-01-18 12:00:00"
+  },
+  "indicators": {
+    "rsi": 46.47922,
+    "macd": -46.52632,
+    "macd_signal": -54.78978,
+    "sma20": 95150.2875
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期观望",
+      "content": "当前比特币/美元市场呈现震荡整理态势，价格在95000附近徘徊，未见明显的突破趋势。从价格波动来看，当前的高点和低点非常接近，表明市场暂时处于观望状态。短期内价格可能会继续维持这种横盘整理。\n\n在技术指标方面，MACD值为-46.52632，显示出空头压力，但由于信号线缺失，无法明确判断后市方向。RSI指标暂时不可用，但根据当前价格走势，市场情绪偏向谨慎。SMA(20)位于95150附近，价格略低于此均线，表明短期内多头力量较弱。\n\n支撑位在95055.98附近，若价格跌破此水平，可能会进一步回撤至更低区域。阻力位则在95142.7，若突破该点位，有可能迎来短期的反弹。总体而言，价格处于一个窄幅区间内，短期内缺乏足够的动能突破。\n\n因此，建议投资者在当前价格区间内保持观望，避免过度激进的交易策略。若价格突破关键支撑或阻力位，可以根据新的趋势信号做出相应操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin price of $95,092.51 indicates a relatively stable market, as the 24-hour change is just -0.03%. This suggests a period of consolidation, with minimal volatility in the short term. The recent price action has been confined within the range of $95,142.70 (high) and $95,055.98 (low), signaling a lack of strong directional momentum. Given the current price proximity to the SMA(20) of $95,150.29, the market may be in a neutral phase, where neither bulls nor bears have full control.\n\nThe MACD value of -46.53 and lack of a defined signal line suggest bearish momentum, but the absence of a clear signal could also indicate indecision in the market. A negative MACD, coupled with no significant price movement, often points to a consolidation or a possible reversal after a period of selling pressure. Investors should remain cautious, as the current trend lacks a decisive direction. Without a signal, the MACD cannot provide reliable buy or sell signals at this time.\n\nSupport and resistance levels are key to understanding potential breakout or breakdown scenarios. The low of $95,055.98 serves as immediate support, with the price hovering just above it. A drop below this level may expose the next support near $94,800. On the other hand, resistance is seen at $95,142.70, and a break above this could see price retesting the $95,300 mark. Monitoring these levels closely will be crucial for any potential entry points or risk management strategies.\n\nIn terms of trading strategy, the current market presents a neutral stance with slight bearish bias. Day traders might consider range-bound strategies, buying near support and selling near resistance. However, for longer-term investors, a clearer directional movement should be awaited, particularly once the RSI and MACD signal lines become available, providing further confirmation of the market’s next move."
+    }
+  }
+}
