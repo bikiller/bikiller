@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-18T10:51:46.291Z",
+  "price": {
+    "close": "95124.23",
+    "high": "95249.93",
+    "low": "95040.83",
+    "open": "95220.08",
+    "change": "-0.10",
+    "datetime": "2026-01-18 10:00:00"
+  },
+  "indicators": {
+    "rsi": 47.67638,
+    "macd": -49.84477,
+    "macd_signal": -59.62407,
+    "sma20": 95179.785
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，缺乏明确趋势",
+      "content": "当前比特币/美元（BTC/USD）价格接近95124.23美元，24小时变动仅为-0.10%，显示市场情绪较为谨慎，缺乏方向性。价格在95040.83至95249.93区间内震荡，未能突破近期高点或低点，短期内可能会继续维持这一整理走势。\n\n从技术指标来看，RSI（14）数据缺失，使得对市场超买或超卖状态的判断变得困难。MACD显示负值（-49.84477），表明当前市场处于弱势区间，但由于信号线数据缺失，暂时无法确认是否存在反弹的潜力。SMA(20)为95179.785，价格接近该均线，暗示短期内存在一定的支撑。\n\n当前市场的支撑位在95040.83附近，若价格跌破此位，可能会进一步下探至更低区域。阻力位在95249.93附近，一旦突破这一阻力，可能迎来短期的反弹行情。投资者应关注这些关键价位的突破情况，以便决定操作时机。\n\n建议投资者在此区间内采取谨慎态度，避免盲目追涨杀跌。若价格突破阻力位，可以考虑适度参与多头交易；若跌破支撑位，建议保持观望或轻仓操作，等待更清晰的市场信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market for Bitcoin against the US Dollar shows a slight downtrend, with the price at $95,124.23, reflecting a minor 0.10% drop over the past 24 hours. The high and low for the day were $95,249.93 and $95,040.83, respectively, indicating a narrow trading range. This suggests that the market is relatively stable, yet cautious. Bitcoin seems to be consolidating in the near term, showing no major bullish or bearish momentum at present.\n\nFrom a technical perspective, the Relative Strength Index (RSI) data is unavailable, making it difficult to gauge overbought or oversold conditions. However, the Moving Average Convergence Divergence (MACD) value is negative at -49.84477, hinting at a bearish market momentum. This suggests that there could be a lack of buying pressure, potentially causing the price to hover around current levels or dip further if selling intensifies. The absence of the signal line on the MACD further suggests that a clear directional movement is yet to materialize.\n\nThe 20-period Simple Moving Average (SMA) stands at $95,179.78, which aligns closely with the current market price. This indicates that Bitcoin is trading near its short-term average, reinforcing the notion of market indecision. Given this proximity to the SMA, traders should watch for a breakout either above $95,250 or below $95,040. A break above could signal a short-term bullish move, while a drop below $95,040 might indicate further downside risk.\n\nConsidering the current market dynamics, cautious trading is recommended. Traders should look for confirmation of a breakout or a reversal around key levels of $95,250 (resistance) and $95,040 (support). For more conservative traders, waiting for a stronger trend signal or the RSI to become available could be a prudent strategy to avoid choppy price action."
+    }
+  }
+}
