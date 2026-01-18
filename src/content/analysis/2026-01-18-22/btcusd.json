@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-18T22:51:35.333Z",
+  "price": {
+    "close": "95410.66",
+    "high": "95485",
+    "low": "95332.31",
+    "open": "95385",
+    "change": "0.03",
+    "datetime": "2026-01-18 22:00:00"
+  },
+  "indicators": {
+    "rsi": 57.77251,
+    "macd": 39.091465,
+    "macd_signal": -2.65496,
+    "sma20": 95170.328
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，谨慎观望]",
+      "content": "当前比特币/美元(BTC/USD)的市场表现显示出震荡整理的趋势。最新价格为95410.66，24小时内变动幅度微小，仅为0.03%。在高点95485和低点95332.31之间的波动表明市场缺乏明确方向，投资者情绪普遍谨慎。\n\n从技术指标来看，MACD处于39.091465，虽然信号线数据缺失，但这一数值暗示出短期内可能存在向上的动能。由于RSI(14)数据不可用，无法对超买或超卖情况做出判断，建议投资者密切关注后续数据变化，以便及时调整策略。\n\n在支撑和阻力位方面，支撑位可关注在95332.31附近，而阻力位则在95485水平。如果价格突破95485，可能会引发进一步的上涨；反之，若跌破95332.31，则需警惕可能的回调风险。建议投资者在关键价位附近设置止损，确保风险可控。\n\n总体而言，当前市场处于调整阶段，投资者应保持谨慎，密切关注市场动态，避免在缺乏明确信号的情况下贸然进场。适时的观察与分析将有助于把握后续交易机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is set at $95,410.66, showing a marginal 24-hour change of 0.03%. The price has fluctuated within a narrow range, with a high of $95,485 and a low of $95,332. This consolidation indicates a period of indecision among traders. Given these conditions, a breakout above the recent high could signal bullish momentum, while a move below the recent low may invite bearish sentiment.\n\nThe absence of an RSI value limits our ability to gauge potential overbought or oversold conditions; however, the MACD reading at 39.09 suggests a bullish trend, as it is above zero. Traders should monitor the MACD for divergence or crossover signals that could indicate a shift in momentum. The Simple Moving Average (SMA) of 20 at $95,170 provides a critical support level. A sustained price above this SMA could affirm the upward trend, while a drop below may prompt a reevaluation of the bullish outlook.\n\nIn terms of support and resistance levels, the recent low of $95,332 serves as a key support area to watch. If this level holds, it could provide a base for a potential upward movement. Conversely, resistance is evident around the recent high of $95,485. A decisive move above this level could unlock further bullish potential, opening the door to higher price targets. Conversely, breaking below the support could trigger selling pressure.\n\nFor traders, the current market presents a cautious approach. Those looking to capitalize on potential upward movement might consider entering positions if Bitcoin breaks above $95,485, with a stop-loss just below $95,332 to manage risk. Conversely, if the price dips below the SMA and the recent low, it may be prudent to adopt a more defensive stance, potentially awaiting better entry points in a clearer market trend."
+    }
+  }
+}
