@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-19T14:59:31.988Z",
+  "price": {
+    "close": "92769.43",
+    "high": "92984.31",
+    "low": "92640.01",
+    "open": "92975.03",
+    "change": "-0.22",
+    "datetime": "2026-01-19 14:00:00"
+  },
+  "indicators": {
+    "rsi": 33.18448,
+    "macd": -493.67319,
+    "macd_signal": -541.80079,
+    "sma20": 93348.7865
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中]",
+      "content": "当前比特币价格为92769.43美元，24小时内轻微下跌0.22%。从价格走势来看，比特币似乎处于震荡整理阶段，未能突破93348.79美元的20日简单移动平均线(SMA)，而持续在92640.01美元至92984.31美元区间内波动。若短期内未能突破该区间上限，可能会面临进一步下行压力。\n\n技术指标方面，RSI和MACD数据尚不完整，但当前MACD值为-493.67，显示出市场的卖压较重。尽管未提供RSI数据，通常低于30的RSI将表明超卖状态，而高于70则表示超买状态。若市场继续维持在低位，投资者应密切关注潜在的反弹信号。\n\n在支撑与阻力方面，当前支撑位设在92640.01美元，若跌破这个水平，可能会引发更大幅度的回调。阻力位则在93348.79美元，一旦突破，可能会引导价格向更高水平发展，甚至测试94000美元的心理关口。\n\n综合考虑，建议投资者采取观望态度，耐心等待更明确的趋势信号。如果价格突破93348.79美元，则可以考虑适度入场做多；反之，若跌破92640.01美元，则应考虑止损或做空策略，以降低风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is $92,769.43, reflecting a slight decline of 0.22% over the past 24 hours. This minor retracement suggests a period of consolidation after a recent surge. The high and low values during this timeframe, $92,984.31 and $92,640.01, respectively, indicate a tight trading range, which may serve as a precursor to a more significant price movement. Traders should watch for breakouts beyond these levels to gauge the next directional trend.\n\nFrom a technical standpoint, the 20-day Simple Moving Average (SMA) currently sits at $93,348.79, serving as a dynamic resistance level. The price trading below the SMA suggests bearish sentiment in the short term, with an inability to reclaim this level potentially indicating further downward pressure. Conversely, if Bitcoin can rise above this SMA, it may attract bullish momentum, potentially targeting higher levels. \n\nThe MACD reading of -493.67 indicates a bearish trend, though without a corresponding signal line, it’s challenging to interpret the momentum accurately. The absence of an RSI value limits the insight into overbought or oversold conditions, making it crucial to monitor future movements closely. Traders should consider employing a cautionary approach, watching for a potential crossover in the MACD that could signal a change in trend.\n\nKey support levels are present at $92,640.01, which, if breached, could lead to increased selling pressure. Conversely, a strong support level below this point may emerge around $92,500. Traders might consider setting buy orders near these support levels while placing sell orders near the SMA resistance. This strategy could allow for capitalizing on short-term fluctuations while managing risk effectively in the current market conditions."
+    }
+  }
+}
