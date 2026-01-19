@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-19T01:25:44.278Z",
+  "price": {
+    "close": "92590.17",
+    "high": "92846.12",
+    "low": "92455.45",
+    "open": "92668.24",
+    "change": "-0.08",
+    "datetime": "2026-01-19 01:00:00"
+  },
+  "indicators": {
+    "rsi": 17.88446,
+    "macd": -415.26514,
+    "macd_signal": -139.16244,
+    "sma20": 94849.2135
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理]",
+      "content": "当前比特币/美元的价格为92590.17，24小时变化幅度较小，仅为-0.08%，显示出市场情绪的谨慎。价格在92846.12和92455.45之间波动，表明当前市场处于震荡整理的状态。投资者需保持警惕，关注市场可能的突破信号。\n\n在技术指标方面，尽管RSI和MACD的数值未能提供更多信息，但从SMA(20)的水平来看，当前价格仍低于该均线，表明短期内仍存在一定的下行压力。MACD为负值，进一步确认了短期内的卖压，建议投资者密切关注市场变化。\n\n支撑位方面，92455.45是一个关键的支撑点，如果价格跌破此位，可能会加速下行趋势，导致进一步的抛售。而92846.12则是短期阻力位，若突破该点位，可能会引发短期反弹，测试更高的区域。投资者可考虑在支撑位附近寻找买入机会，同时设定合理的止损。\n\n总体而言，当前市场走势较为谨慎，建议投资者采取观望态度，等待更明确的趋势信号。如果价格突破92846.12，可以考虑短期多头布局；反之，则应警惕下行风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar (BTC/USD) is showing a slight decline of 0.08% over the past 24 hours, indicating a period of consolidation following recent volatility. The price has established a narrow trading range between a high of 92846.12 and a low of 92455.45. This tight range suggests indecision among traders, which may precede a more significant movement. Observing the overall trend, Bitcoin remains below its 20-day Simple Moving Average (SMA) at 94849.21, indicating a bearish sentiment in the short term.\n\nThe MACD indicator currently displays a value of -415.26514, reflecting a potential bearish momentum as it is situated below the zero line. Without a signal line available for comparison, it is essential to monitor future MACD developments for potential crossovers that could indicate a shift in market dynamics. Traders should remain cautious, as the negative MACD reading may suggest further downward pressure unless a significant rally occurs.\n\nKey support levels to watch are around 92455.45, which could act as a floor for prices. If this support level fails, further declines could push Bitcoin toward psychological levels, such as 92000. On the flip side, resistance is present at the recent high of 92846.12, and a breakout above this level could signal a potential reversal and a test of the SMA at 94849.21. \n\nFor trading strategies, it may be prudent to adopt a wait-and-see approach until clearer signals emerge. Traders could consider setting limit orders near support levels while monitoring for bullish reversals. Conversely, if prices start to climb past established resistance, it could provide a buying opportunity, but caution is warranted given the prevailing bearish indicators."
+    }
+  }
+}
