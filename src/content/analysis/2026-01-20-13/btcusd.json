@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-20T13:58:52.502Z",
+  "price": {
+    "close": "90834.12",
+    "high": "91221.76",
+    "low": "90667.27",
+    "open": "91195.92",
+    "change": "-0.40",
+    "datetime": "2026-01-20 13:00:00"
+  },
+  "indicators": {
+    "rsi": 26.56998,
+    "macd": -618.42643,
+    "macd_signal": -571.03292,
+    "sma20": 91950.2995
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡趋势]",
+      "content": "当前比特币/美元 (BTC/USD) 的市场表现显示出短期震荡趋势。最新价格为90834.12，较24小时前下降0.40%。在高点91221.76与低点90667.27之间的波动，表明市场正在寻找方向，但尚未形成明确的上涨或下跌趋势。\n\n从技术指标来看，RSI(14)数据缺失，无法提供超买或超卖的判断。然而，MACD显示为负值，表明当前市场动能偏弱，短期内可能面临下行压力。20日简单移动平均线(SMA)为91950.2995，当前价格低于该水平，进一步确认短期内的看空情绪。\n\n支撑位方面，90800附近可能成为短期支撑，如果跌破此水平，可能会进一步下探至90500。阻力位则在92000附近，这里是多头反弹的关键区域。若价格突破该水平，可能会引发更大的买入兴趣。\n\n建议投资者在当前市场中保持谨慎，建议在90800附近设置止损。如果价格能够突破92000，考虑适度增仓。此外，建议关注市场消息及技术指标变化，以便及时调整交易策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has experienced a slight downturn, currently trading at 90,834.12, reflecting a 0.40% decline over the last 24 hours. This recent price action indicates a potential consolidation phase within the broader upward trend observed over the past few weeks. As the price moves closer to the lower end of the recent range, investors may be cautiously assessing their positions, evaluating whether this dip presents a buying opportunity or signals further weakness in momentum.\n\nThe current technical indicators reveal mixed signals. The MACD is in negative territory at -618.43, suggesting bearish momentum. However, with the absence of an available RSI, we cannot fully gauge overbought or oversold conditions. Traders should be vigilant for any divergence or convergence that could emerge in upcoming sessions. A sustained movement above the SMA(20) at 91,950.30 could indicate a potential reversal, while a failure to reclaim this level might reinforce bearish sentiment.\n\nKey support levels are observed around 90,667.27, near the recent low, which could act as a strong buying zone if tested. Conversely, resistance is positioned at 91,221.76, which traders should monitor closely for potential breakout opportunities. If Bitcoin can break through this resistance, it may lead to renewed bullish momentum, while a drop below the support level could trigger further selling pressure and a re-evaluation of bullish positions.\n\nIn terms of trading strategies, investors might consider implementing a range trading approach, buying near support and selling near resistance. Additionally, those looking to capitalize on short-term fluctuations could utilize stop-loss orders to manage risk effectively. Maintaining awareness of market news and broader economic factors will also be crucial for making informed trading decisions in this volatile environment."
+    }
+  }
+}
