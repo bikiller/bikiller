@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-20T07:05:26.403Z",
+  "price": {
+    "close": "3117.09",
+    "high": "3119.1",
+    "low": "3115.23",
+    "open": "3117.24",
+    "change": "-0.01",
+    "datetime": "2026-01-20 07:00:00"
+  },
+  "indicators": {
+    "rsi": 17.58534,
+    "macd": -27.19155,
+    "macd_signal": -21.27237,
+    "sma20": 3194.7785
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理趋势]",
+      "content": "当前以太坊对美元的价格为3117.09，显示出市场的震荡整理趋势。在过去24小时内，价格几乎没有变化，波动幅度较小，最高点和最低点之间的差距也十分有限。这种局面表明市场参与者可能在等待更明确的方向信号。\n\n从技术指标来看，MACD值为-27.19155，显示出短期内卖压较重，尽管未能提供明确的买入或卖出信号。由于RSI(14)数据缺失，无法全面分析超买或超卖情况，但当前价格接近短期均线SMA(20)的3194.78，表明短期趋势仍然偏弱。\n\n在支撑和阻力位方面，当前支撑位可观察在3115.23附近，而阻力位则在3194.78。这意味着若价格跌破3115.23，将可能进一步下探，反之若突破3194.78，则有望重新测试更高的价格区间。\n\n基于当前的市场状况，建议交易者保持谨慎，切勿盲目追涨。可以考虑在支撑位附近寻找买入机会，但需密切关注市场动向，设定合理的止损和止盈策略，以应对潜在的价格波动。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $3117.09, showing a slight decline of 0.01% over the past 24 hours. This minimal change indicates a period of consolidation, where buyers and sellers are in a standoff. The price action remains within a narrow range, oscillating between a high of $3119.1 and a low of $3115.23. This tight range suggests that the market is awaiting a decisive catalyst to break out of its current limbo.\n\nFrom a technical perspective, the absence of a definitive trend is evident. The recent price remains significantly below the 20-day Simple Moving Average (SMA) of $3194.78, indicating a bearish sentiment in the short term. The negative MACD reading of -27.19155 reinforces this bearish outlook, suggesting that momentum is currently unfavorable for buyers. Traders should be cautious, as the lack of positive momentum could lead to further downside if the price breaks below immediate support.\n\nKey support levels to watch are at $3115.23, which was recently tested, and a more significant support zone around $3100. If the price were to break below these levels, it could further accelerate selling pressure. Conversely, the resistance level is pegged at the SMA of $3194.78. A successful breakout above this level could signal a shift in momentum, encouraging buyers to enter the market. Traders should monitor these levels closely for potential opportunities.\n\nIn light of the current market conditions, a prudent trading strategy might involve waiting for a confirmed breakout above the resistance or a breakdown below the support. Traders could consider setting stop-loss orders just below the support to mitigate risk in case of a downward move. Conversely, a buy position could be established if the price decisively surpasses the SMA, signaling a potential reversal in trend. Overall, maintaining vigilance in this uncertain environment is essential for effective trading."
+    }
+  }
+}
