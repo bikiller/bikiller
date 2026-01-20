@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-20T05:48:01.524Z",
+  "price": {
+    "close": "91626.73",
+    "high": "92000",
+    "low": "91208.1",
+    "open": "91991.02",
+    "change": "-0.40",
+    "datetime": "2026-01-20 05:00:00"
+  },
+  "indicators": {
+    "rsi": 24.05554,
+    "macd": -413.89975,
+    "macd_signal": -357.78438,
+    "sma20": 92761.674
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前市场承压，短期波动较大]",
+      "content": "当前比特币价格为91626.73美元，较24小时前下跌0.40%。从价格走势来看，近期比特币在92000美元的高点附近受到阻力，未能有效突破，显示出市场短期内承压的迹象。同时，低点91208.1美元则为近期的支撑位，若价格跌破该水平，可能会引发进一步的回调。\n\n技术指标方面，MACD值为-413.89975，显示出当前市场处于弱势状态，且信号线尚未提供明确的反转信号。由于RSI未提供，无法判断超买或超卖状态，但结合SMA(20)的92761.67美元，价格已接近短期均线，可能会出现反弹的机会。\n\n支撑位方面，91208.1美元为关键支撑，若失守该位，可能会导致进一步下探。阻力位则设在92000美元，突破该水平后可望挑战93000美元。因此，投资者应密切关注这两个关键价位，以制定相应的交易策略。\n\n综合来看，短期内比特币可能面临震荡整理的局面，建议投资者在91208.1美元支撑位附近寻找入场机会，止损设置在91000美元之下。同时，关注92000美元的突破情况，若有效突破，则可考虑适度加仓。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently experiencing a slight downtrend, reflected in its recent price of $91,626.73, which has decreased by 0.40% over the last 24 hours. The price movement has been constrained between a high of $92,000 and a low of $91,208.1, indicating a period of consolidation. This behavior suggests that market participants are awaiting further signals before committing to new positions. A breakout above the recent high could signal a bullish reversal, while a drop below the low may confirm continued bearish pressure.\n\nFrom a technical perspective, the Simple Moving Average (SMA) of 20 periods stands at $92,761.67, indicating possible resistance ahead. If Bitcoin can regain momentum and surpass this level, it may attract buyers, pushing the price towards higher resistance at $95,000. Conversely, if the price fails to reclaim this SMA and continues to trend downward, traders should monitor the support level around $91,200, which could serve as a critical area for potential buying interest.\n\nThe MACD value of -413.89975 indicates bearish momentum, but the lack of a signal line makes it difficult to derive a clear trend direction at this time. Investors should remain cautious as the Relative Strength Index (RSI) is not available, complicating the assessment of overbought or oversold conditions. Additionally, the current negative MACD suggests that bears are still in control, and traders may consider waiting for a stronger bullish signal before entering long positions.\n\nIn summary, traders should keep a close eye on the $91,200 support level and the $92,761.67 SMA. A decisive breakout above the SMA could present buying opportunities, while a breakdown below support might warrant short positions. Risk management strategies, such as setting stop-loss orders, will be crucial in navigating this volatile environment as the market seeks direction."
+    }
+  }
+}
