@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-20T22:51:30.767Z",
+  "price": {
+    "close": "88323.03",
+    "high": "89510",
+    "low": "87777",
+    "open": "89350",
+    "change": "-1.15",
+    "datetime": "2026-01-20 22:00:00"
+  },
+  "indicators": {
+    "rsi": 16.10636,
+    "macd": -922.28074,
+    "macd_signal": -784.67075,
+    "sma20": 90554.408
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理趋势]",
+      "content": "当前比特币价格为88323.03美元，较24小时前下跌1.15%。在过去的交易日中，比特币的高点为89510美元，而低点为87777美元，显示出市场在这些水平之间的震荡整理。短期内，价格偏向下行，需关注市场情绪变化。\n\n从技术指标来看，MACD当前为-922.28074，显示出卖压较重，短期内可能难以转强。此外，SMA(20)在90554.408附近，表明价格仍低于短期移动平均线，进一步加强了看空情绪。RSI指标未提供，但一般来说，若RSI接近超卖区域，可能预示着反弹的机会。\n\n支撑位方面，当前的低点87777美元将是关键支撑，若跌破该位，可能引发进一步的下行调整。阻力位则在89510美元附近，若价格突破此位，可能会恢复部分上涨动能。投资者应密切关注这些关键价位的突破情况。\n\n基于当前市场走势，建议投资者保持谨慎，考虑在支撑位附近寻找买入机会，同时在接近阻力位时设置止盈策略。如果市场持续下行，建议考虑适度减仓，降低风险暴露。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is at 88,323.03, showing a slight decline of 1.15% over the past 24 hours. This downward movement, coupled with the recent high of 89,510 and low of 87,777, indicates a consolidation phase where BTC is facing selling pressure. The market appears to be in a bearish trend as it struggles to maintain levels above the 90,000 mark, suggesting traders should be cautious in the short term.\n\nThe 20-day Simple Moving Average (SMA) stands at 90,554.408, indicating that the price is currently below this average, reinforcing the bearish sentiment. The MACD value of -922.28074 further supports this view, suggesting that momentum is currently in favor of sellers. Without a signal line available for comparison, traders should look for a crossover in the future to confirm any shift in momentum. The absence of a Relative Strength Index (RSI) reading limits our ability to assess overbought or oversold conditions, making it crucial to monitor price action closely.\n\nKey support levels are observed at 87,777, which aligns with the recent low, while resistance is clearly established around the 90,000 psychological mark. A break below the support level could lead to further declines, potentially targeting lower support zones. Conversely, if Bitcoin can reclaim and hold above the SMA at 90,554, it may pave the way for a recovery attempt toward previous highs. Traders may consider setting stop-loss orders just below support levels to mitigate risk.\n\nIn light of the current analysis, short-term traders might consider initiating short positions if the price breaks below 87,777, with targets set at lower support levels. On the other hand, a bullish reversal above the SMA could invite buying opportunities, especially if accompanied by stronger volume. Overall, maintaining a flexible trading strategy will be essential as the market navigates these critical levels."
+    }
+  }
+}
