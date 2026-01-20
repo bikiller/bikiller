@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-20T04:41:40.591Z",
+  "price": {
+    "close": "92249.26",
+    "high": "92405.54",
+    "low": "92121.48",
+    "open": "92360.27",
+    "change": "-0.12",
+    "datetime": "2026-01-20 04:00:00"
+  },
+  "indicators": {
+    "rsi": 31.081052,
+    "macd": -343.60668,
+    "macd_signal": -339.64711,
+    "sma20": 92842.342
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡走势中寻求方向]",
+      "content": "当前比特币/美元(BTC/USD)处于92249.26的价格水平，显示出震荡整理的走势。24小时内价格微幅下跌0.12%，反映出市场情绪相对谨慎。尽管未能突破近期高点92405.54，但也未跌破低点92121.48，显示出市场暂时缺乏方向性。\n\n从技术指标来看，MACD值为-343.60668，表明当前市场处于弱势状态，且尚未出现明显的买入信号。RSI指标尚未提供，但短期内若RSI回升至30以上，可能预示着超卖反弹的机会。同时，SMA(20)为92842.34，价格持续低于这一均线，进一步确认了当前的下行压力。\n\n支撑位方面，92121.48是一个关键的支撑区间，若价格跌破该水平，可能会加速下行并测试更低的支撑位。阻力位则在92842.34附近，突破该水平可能会激发买盘，带动价格回升。建议交易者在当前震荡区间内寻找短线机会，关注支撑和阻力位的突破信号，灵活调整交易策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is $92,249.26, reflecting a slight decline of 0.12% over the past 24 hours. This minor fluctuation suggests a period of consolidation after recent volatility. The high of $92,405.54 indicates that the upward pressure remains, yet the price has been unable to maintain higher levels. Traders should be vigilant as this stagnation may precede a significant directional move, either breaking above or below the current range.\n\nIn terms of trend analysis, the price is hovering below the 20-day Simple Moving Average (SMA) at $92,842.34, signaling a bearish sentiment in the near term. The SMA acts as a dynamic resistance level, indicating that bullish momentum is lacking. A sustained move above this level could restore confidence among buyers. Conversely, if the price continues to falter, it may test the support level around $92,121.48, which is crucial for maintaining the current bullish trend.\n\nThe RSI and MACD indicators are not available; however, the MACD's current negative value at -343.60668 points to potential bearish momentum. Traders should monitor these indicators closely for any signs of divergence or trend reversal. If the MACD begins to converge towards the signal line, it could indicate a shift in momentum, potentially leading to a buying opportunity.\n\nGiven the present market conditions, a cautious approach is advisable. Traders should consider entering positions only if the price decisively breaks above the 20-day SMA or holds above the support level. Placing stop-loss orders just below the support can help manage risk effectively. Alternatively, if a bearish breakout occurs, traders may want to look for short positions, with targets set near the next key support levels."
+    }
+  }
+}
