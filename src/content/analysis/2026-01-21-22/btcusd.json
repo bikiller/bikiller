@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-21T22:58:22.489Z",
+  "price": {
+    "close": "89802.11",
+    "high": "90313.78",
+    "low": "89795.12",
+    "open": "90180.23",
+    "change": "-0.42",
+    "datetime": "2026-01-21 22:00:00"
+  },
+  "indicators": {
+    "rsi": 52.2507,
+    "macd": -85.83957,
+    "macd_signal": -311.56226,
+    "sma20": 89216.186
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前比特币/美元（BTC/USD）价格为89802.11，近期走势表现出震荡整理的特征。价格在90313.78的高点和89795.12的低点之间波动，显示出市场缺乏明确的方向。短期内，投资者需关注这一区间的突破情况，以判断后市可能的走向。\n\n从技术指标来看，RSI（相对强弱指数）尚不可用，但MACD显示出-85.83957的负值，表明市场处于弱势状态，卖压较大。SMA（20日简单移动平均线）在89216.18600一线，提供了一定的支撑。如果价格能够站稳该均线之上，可能会吸引更多买盘入场。\n\n支撑位方面，89800一线是关键支撑区域，若跌破该位，可能进一步向下测试88500的支撑。而在阻力方面，90300一线则是短期阻力，突破后有望引发更多的买盘。投资者应密切关注这些关键价位，以制定相应的交易策略。\n\n综合来看，当前市场情绪偏向谨慎，建议投资者在89800至90300之间观望，待价格明确突破后再做出相应的交易决策。同时，控制好风险，以应对市场的潜在波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at 89,802.11, reflecting a minor decline of 0.42% over the last 24 hours. This slight downturn indicates a period of consolidation, as the price has been oscillating between the established high of 90,313.78 and the low of 89,795.12. The market appears to be assessing its next move, with traders watching for a breakout either above the recent high or a retreat toward lower support levels.\n\nAnalyzing the Simple Moving Average (SMA) of 20 periods at 89,216.19 provides insight into the short-term trend. Since the current price is above this SMA, it suggests a bullish sentiment in the market. However, the gradual decline in price and the proximity to the SMA could indicate a potential shift in momentum. Traders should monitor this level closely, as a breakout below the SMA could trigger further selling pressure.\n\nThe absence of a calculated Relative Strength Index (RSI) and the current MACD value of -85.83957 suggest bearish momentum. While the MACD alone does not indicate an imminent reversal, it highlights the need for caution in the current trading environment. A bounce off the support level near 89,795 could present a buying opportunity, especially if accompanied by an increase in volume. Conversely, if the price breaches this support, the next critical level to watch would be around 88,000, which could open the door for further declines.\n\nIn conclusion, traders should adopt a vigilant approach in the current Bitcoin market. A decisive close above 90,313 could signal a continuation of the bullish trend, while a drop below 89,795 may prompt a reevaluation of long positions. Maintaining a disciplined risk management strategy is essential, as volatility remains a hallmark of cryptocurrency trading."
+    }
+  }
+}
