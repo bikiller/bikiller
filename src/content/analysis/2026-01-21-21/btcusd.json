@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-21T21:46:44.473Z",
+  "price": {
+    "close": "90176.74",
+    "high": "90262.98",
+    "low": "89873.87",
+    "open": "90136",
+    "change": "0.05",
+    "datetime": "2026-01-21 21:00:00"
+  },
+  "indicators": {
+    "rsi": 55.21606,
+    "macd": -133.7901,
+    "macd_signal": -368.048608,
+    "sma20": 89173.006
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，观望为主]",
+      "content": "当前比特币/美元（BTC/USD）价格为90176.74，整体走势呈现震荡整理的状态。24小时内价格变化仅为0.05%，显示出市场的谨慎情绪。虽然价格未能突破前期高点90262.98，但也未跌破低点89873.87，表明多空力量相对平衡。\n\n从技术指标来看，RSI（14）尚未提供数据，但MACD显示为负值，表明短期内可能存在一定的卖压。SMA（20）则位于89173.01，成为短期的支撑位。如果价格能稳定在此之上，可能会引发反弹；反之，则需警惕回调风险。\n\n在支撑和阻力方面，89873.87为关键支撑位，若跌破该水平，可能引发进一步下行。而90262.98则是重要阻力位，若成功突破，可能会吸引更多的买盘关注。交易者应密切关注这些关键价位，以制定相应策略。\n\n综上所述，当前市场处于震荡整理状态，建议投资者保持观望，耐心等待价格突破明确的支撑或阻力位后再做决策。同时，关注市场消息面变化，以便及时调整策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market data for Bitcoin against the US Dollar indicates a cautiously optimistic outlook. Priced at 90,176.74, Bitcoin has exhibited minimal volatility over the past 24 hours, with a slight change of 0.05%. The high and low for this period, at 90,262.98 and 89,873.87 respectively, suggest a consolidation phase, where the market is digesting recent gains. This stability may provide a platform for a potential breakout, but traders should remain vigilant and watch for key price movements.\n\nIn terms of technical indicators, the absence of a calculated RSI(14) limits our ability to assess overbought or oversold conditions. However, the MACD is currently negative at -133.79010, indicating bearish momentum. This could suggest that the current trend may lack strength, and traders should be cautious about entering long positions until more definitive bullish signals emerge. Conversely, the SMA(20) at 89,173.01 serves as a critical support level, providing a cushion against downward pressure.\n\nIdentifying key support and resistance levels is crucial for effective trading strategies. The nearest support level is located around the SMA(20) at 89,173.01, while resistance is evident at the recent high of 90,262.98. A break above this resistance could signal renewed buying interest and potentially target higher levels, while a failure to hold above the support may prompt a retest of lower price levels. \n\nFor traders, a prudent approach would involve monitoring price action closely. A confirmation of strength above the resistance level could present a buying opportunity, while a drop below the support may signal a short-selling opportunity. Setting stop-loss orders just below the support level could mitigate potential losses in case of adverse market movements."
+    }
+  }
+}
