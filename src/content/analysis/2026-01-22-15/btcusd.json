@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-22T15:02:02.322Z",
+  "price": {
+    "close": "88991.92",
+    "high": "89645.24",
+    "low": "88950.75",
+    "open": "89509.94",
+    "change": "-0.58",
+    "datetime": "2026-01-22 14:00:00"
+  },
+  "indicators": {
+    "rsi": 42.73093,
+    "macd": -48.15368,
+    "macd_signal": 34.693,
+    "sma20": 89781.874
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期面临下行压力",
+      "content": "当前比特币/美元（BTC/USD）的市场走势呈现震荡整理状态，价格在近期波动较小。最新价格为88991.92美元，较24小时变化幅度-0.58%，市场情绪偏谨慎。尽管价格接近近期低点，整体未出现明显趋势。\n\n技术指标方面，MACD处于负值区域（-48.15368），说明短期内卖盘压力较大，且缺乏强烈的买盘推动。由于RSI未给出数据，无法进一步评估超买或超卖状态。SMA(20)显示价格接近其短期平均水平，表明当前价格区间内存在一定的支撑。\n\n支撑位方面，近期低点88950.75美元可能为短期支撑，一旦跌破此位置，可能引发进一步的下行压力。上行阻力则位于89645.24美元附近，突破该区域可能重新引发多头反弹。因此，短期内操作建议谨慎，若价格接近支撑位，可以考虑逢低吸纳。\n\n综合来看，比特币/美元目前处于短期震荡区间，缺乏明确的趋势指引。建议投资者关注支撑和阻力位的变化，结合进一步的市场信号做出决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently experiencing a slight downward movement, trading at 88,991.92 against the US Dollar. This negative price change of 0.58% over the past 24 hours suggests a consolidation phase following recent price fluctuations. The price has tested the low at 88,950.75 and faced resistance at 89,645.24. These levels will be crucial to monitor as they indicate a potential range-bound market. If Bitcoin breaks below 88,950, it could signal further downside pressure, targeting the next support at 87,500.\n\nIn terms of technical indicators, the lack of an RSI(14) reading and an unconfirmed MACD signal (-48.15368) makes it challenging to assess momentum with precision. However, the negative MACD reading hints at bearish momentum in the short term. Bitcoin’s struggle to maintain price levels above its 20-period Simple Moving Average (SMA) at 89,781 further corroborates the cautious sentiment. A close below the SMA could indicate weakening bullish sentiment, allowing sellers to regain control and pushing prices lower toward support zones.\n\nLooking at support and resistance levels, Bitcoin's immediate support at 88,950 holds importance. If the price tests this level and bounces back, it could create an opportunity for buyers to step in. On the upside, the resistance at 89,645 remains significant. A break above this level would likely trigger a retest of the 90,000 psychological barrier, a key level for potential bullish continuation.\n\nFor traders, caution is advised. A break below 88,950 could prompt short positions toward the next support at 87,500. On the other hand, a price above 89,645 would open the door for long positions, especially if further confirmation of bullish momentum appears. Traders should focus on clear breakouts from these ranges to reduce the risk of whipsaws in this relatively indecisive market phase."
+    }
+  }
+}
