@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-22T20:22:50.072Z",
+  "price": {
+    "close": "2954.72",
+    "high": "2957.83",
+    "low": "2946.42",
+    "open": "2953.91",
+    "change": "0.02",
+    "datetime": "2026-01-22 20:00:00"
+  },
+  "indicators": {
+    "rsi": 43.55307,
+    "macd": -13.79502,
+    "macd_signal": -9.67217,
+    "sma20": 2986.691
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期震荡可能性较大]",
+      "content": "当前以太坊/美元(ETH/USD)的市场处于震荡整理的状态。价格在2950附近波动，未能突破明显的支撑或阻力区域。考虑到24小时的微小变动（0.02%），市场短期内缺乏强烈的趋势方向，可能继续维持在此区间内震荡整理。\n\n技术指标方面，MACD目前显示负值（-13.79502），暗示当前市场略偏空，但由于没有明确的信号线交叉，缺乏强烈的卖出信号。RSI指标暂时缺失，无法提供过买或过卖的确认信号。SMA(20)位于2986.691，价格低于该均线，可能暗示短期内有下行压力。\n\n支撑位和阻力位方面，当前支撑位可看作是2946.42，若跌破此处可能会进一步下探至2900附近的支撑区域。上方阻力则在2980-2990区间，突破后有望测试更高的价位。\n\n短期交易建议：由于市场震荡整理，建议保持观望。若价格接近支撑位，可以考虑小范围的反弹交易；但若跌破支撑位，需警惕进一步的下行风险。在突破阻力位前，不建议采取过于激进的多头策略。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum market has recently shown a relatively stable trend with a slight 24-hour change of 0.02%. At a current price of $2954.72, ETH/USD is in a narrow range between a high of $2957.83 and a low of $2946.42. This suggests consolidation, where market participants are waiting for stronger directional signals. In the near term, the price action is hovering near its 20-period simple moving average (SMA), which stands at $2986.691. This SMA often serves as an important level, where price either finds support or encounters resistance.\n\nThe lack of a clearly defined Relative Strength Index (RSI) prevents a deeper analysis of overbought or oversold conditions. However, the current MACD value of -13.79502 indicates a bearish bias in the short term, suggesting that sellers may have control over price action. Without a confirmed crossover or stronger trend, this reading alone doesn’t provide an immediate bullish signal. Traders should remain cautious, as the lack of momentum suggests uncertainty and could lead to further consolidation or a minor pullback.\n\nKey support for Ethereum is found around $2946.42, with a potential breakdown leading to the next support zone at $2900. On the upside, resistance is likely near the $2986.691 area, where the price may struggle to break above the 20-period SMA. If Ethereum can reclaim this level, it could indicate a shift towards the $3000 resistance level. However, traders should watch for volume surges or MACD crossovers to confirm any breakout or breakdown scenarios.\n\nIn this environment, cautious traders might consider short-term scalping strategies, targeting small price fluctuations within the established range. Those looking for longer-term trades may wait for more clarity in momentum indicators before positioning themselves. Risk management is key, especially in a choppy market like this."
+    }
+  }
+}

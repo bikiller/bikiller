@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-22T20:22:04.190Z",
+  "price": {
+    "close": "89783.03",
+    "high": "89868",
+    "low": "89603.4",
+    "open": "89677.58",
+    "change": "0.12",
+    "datetime": "2026-01-22 20:00:00"
+  },
+  "indicators": {
+    "rsi": 52.97467,
+    "macd": -44.981,
+    "macd_signal": -43.79078,
+    "sma20": 89670.9745
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡整理]",
+      "content": "当前比特币/美元（BTC/USD）的价格位于89783.03美元附近，日内波动幅度较小，显示出市场处于震荡整理状态。从技术面来看，价格接近20日简单移动平均线（SMA 20）的水平（89670.97），这一价位可能提供一定支撑，若跌破则可能进一步测试下方的支撑区间。\n\n从MACD指标来看，当前MACD值为-44.98100，表明市场处于弱势区域，短期内缺乏强烈的上行动能。然而，由于缺乏RSI数据，暂时难以全面评估超买或超卖情况。在没有明显突破的情况下，市场可能继续维持横盘整理。\n\n在支撑和阻力方面，89868美元是当前的短期阻力位，而下方89603.4美元附近则为支撑位。若价格突破89868美元阻力位，可能会引发短期上涨，反之跌破89603.4美元支撑位，可能加剧价格回调。\n\n建议投资者保持谨慎，等待价格突破关键支撑或阻力位后再做进一步决策。当前市场短期波动较小，适合短线交易者利用震荡区间进行操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin price stands at $89,783.03, showing a slight 24-hour change of 0.12%. This mild movement suggests that Bitcoin is consolidating in a narrow range between $89,603.40 and $89,868, reflecting a period of indecision in the market. As the price hovers just above the 20-period Simple Moving Average (SMA) of $89,670.97, it signals that the short-term trend remains neutral, with no significant momentum in either direction. A break above the high or below the low could potentially signal the next move.\n\nWith the Relative Strength Index (RSI) unavailable, we lack a clear view of whether Bitcoin is overbought or oversold, which leaves us to interpret momentum with other tools. The Moving Average Convergence Divergence (MACD) reading of -44.98100, however, indicates bearish momentum in the short term, suggesting that if the price dips further, the downside could dominate. A closer examination of the MACD's behavior will be crucial for gauging when the market might shift. Without the signal line, it's harder to discern the exact timing of potential reversals.\n\nIn terms of support and resistance, Bitcoin is currently navigating the $89,600 region as a key support zone. If the price breaks below this level, we could see a move toward $89,000 or even lower, testing deeper support levels. On the resistance side, $89,868 remains a key point to monitor, and a break above this could trigger a more significant rally towards $90,000 or beyond. These levels are critical for traders to watch closely as price action could become more volatile near these boundaries.\n\nFor trading strategies, those seeking short-term opportunities might consider short positions if the price breaks below $89,600 with a target near $89,000. Conversely, a bullish breakout above $89,868 could present an opportunity to go long, with targets aligned around $90,000 or higher. As always, risk management is paramount, particularly with the current lack of clear trend signals."
+    }
+  }
+}
