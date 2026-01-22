@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-22T12:43:31.089Z",
+  "price": {
+    "close": "130.02",
+    "high": "130.32",
+    "low": "129.86",
+    "open": "130",
+    "change": "0.02",
+    "datetime": "2026-01-22 12:00:00"
+  },
+  "indicators": {
+    "rsi": 53.68952,
+    "macd": 0.35769769,
+    "macd_signal": 0.38181457,
+    "sma20": 129.8585
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 130.02\\n- 24小时变化: 0.02%\\n- 高点/低点: 130.32 / 129.86\\n- RSI(14): N/A\\n- MACD: 0.35769769, Signal: N/A\\n- SMA(20): 129.85850\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏多但需确认\n\n当前SOL价格围绕130附近窄幅波动，反弹力度有限但守住20日均线支撑，短线趋势偏多头。价格在129.8附近获得支撑，若持续站稳则有望延续上涨；跌破则可能转为横盘。\n\n技术指标上MACD柱体为正值，显示多头动能仍在，但信号线数据不可用令判断略显不足。价格略高于SMA(20)意味着短期均线支撑有效，但缺少更强势的RSI确认超买或超卖状态。\n\n支撑位关注129.8–129.5区域，该区域若守住多头信心较强。阻力位上看131.5–132.0，若突破有望测试更高关口。需要警惕成交量不足带来的假突破风险。\n\n交易建议上，短线可在129.8附近择机低多，止损设在129.2以下，目标关注131.5–132.5区间。若失守支撑，则建议观望为主，等待更明确趋势信号再介入。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 130.02\\n- 24h Change: 0.02%\\n- High/Low: 130.32 / 129.86\\n- RSI(14): N/A\\n- MACD: 0.35769769, Signal: N/A\\n- SMA(20): 129.85850\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSOL/USD is showing a **neutral-to-bullish near‑term trend** as price holds above the 20‑period simple moving average (SMA(20) ~129.86), signaling modest upside bias. The limited 24‑hour range (High/Low: 130.32/129.86) suggests **consolidation after recent gains**, with buyers defending the key short‑term moving average. A decisive break above **$132–$133** could confirm continuation, while failure below **$129** risks deeper pullbacks toward the **$125–$123** zone.\n\nThe **MACD reading (~0.36)** remains in positive territory, suggesting that underlying momentum favors the bulls despite the absence of a clear signal line value. The lack of a valid RSI reading means **momentum strength is harder to gauge**, but MACD’s posture implies buyers still have some control. Traders should watch for a potential MACD crossover if signal values become available; a bullish crossover would strengthen the case for higher prices, whereas a bearish turn could foreshadow weakening momentum.\n\nIn terms of **support and resistance**, immediate support lies just below the SMA at **$129** and a more robust floor around **$125**, representing a previous consolidation pivot. On the upside, **$132–$134** is the next resistance cluster, capped by recent swing highs. Breaking and holding above this area is key for targeting **$140+** levels. Conversely, a sustained breakdown below **$125** would open the door for a deeper correction toward **$120**.\n\nFor traders, maintaining **tight risk management** is essential given the current narrow range. Short‑term long positions could consider entries near support with stops below **$128**, while breakout traders might look for confirmed moves above **$133** with volume. Those wary of false breakouts should wait for **clear candlestick confirmation** before committing, balancing potential upside with disciplined exits."
+    }
+  }
+}
