@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-22T17:49:42.834Z",
+  "price": {
+    "close": "2940.28",
+    "high": "2954.76",
+    "low": "2935.03",
+    "open": "2945.95",
+    "change": "-0.21",
+    "datetime": "2026-01-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 38.28351,
+    "macd": -13.65582,
+    "macd_signal": -6.058119,
+    "sma20": 2993.0515
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期下行风险]",
+      "content": "当前以太坊/美元（ETH/USD）价格略微下行，最新交易价为2940.28美元，24小时变化为-0.21%。市场处于震荡整理状态，高点与低点波动较小，显示出多空力量暂时平衡。若进一步下行，可能会接近2935附近的支撑位。\n\n在技术指标方面，MACD目前为负值-13.65582，表明短期内市场偏弱，缺乏上行动能。RSI(14)未提供数据，无法从超买或超卖的角度判断市场情绪。SMA(20)为2993.0515，当前价格已远离该均线，表明短期价格有回调至均线附近的压力。\n\n关键支撑位位于2935.03美元区域，若下破该位，可能会进一步测试2920左右的支撑。而阻力位则在2955附近，若价格回升至此区域，可能会面临进一步的卖盘压力。\n\n综合来看，短期内以太坊存在一定下行风险，建议投资者保持谨慎，密切关注价格是否跌破关键支撑位。若价格回升至2950以上，可以考虑短期多头操作，但应设定止损，防止价格再次下行。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently experiencing a slight pullback with a -0.21% change over the last 24 hours, as the price trades at 2940.28. The market has been moving within a narrow range, marked by a high of 2954.76 and a low of 2935.03. This suggests a consolidation phase, where buyers and sellers are in balance, but the price remains near a critical level. The trend is neutral at the moment, as neither bullish nor bearish momentum is clearly dominant.\n\nThe absence of a reliable RSI reading complicates the analysis of overbought or oversold conditions, but the MACD at -13.65582 signals a potential bearish bias, implying that downward pressure might still be at play. Without the signal line for further confirmation, it’s prudent to remain cautious. However, the recent move below the 20-period simple moving average (SMA) of 2993.0515 indicates weakening bullish momentum, which could be a sign of a deeper retracement if the price continues to fall.\n\nSupport levels are likely to be found near the recent low of 2935.03, with additional support at 2900. If the price holds above this level, there could be an opportunity for buyers to re-enter the market. Resistance is seen around the 2955 area, with a more significant hurdle at 2995, where the price previously failed to break above the SMA. A close above these levels could signal a bullish reversal.\n\nGiven the current market conditions, a cautious approach is advisable. Traders should watch for a confirmation of a price rebound near the support zones or a breakout above 2995 for a potential buy signal. However, with the MACD still negative, short-term selling pressure remains a risk. Monitoring for any changes in momentum will be key to determining the next significant price move."
+    }
+  }
+}

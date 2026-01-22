@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-22T17:48:51.571Z",
+  "price": {
+    "close": "89394.09",
+    "high": "89398.38",
+    "low": "88922.06",
+    "open": "88955.99",
+    "change": "0.49",
+    "datetime": "2026-01-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 47.73284,
+    "macd": -102.94553,
+    "macd_signal": -17.12778,
+    "sma20": 89673.1035
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期关注关键支撑位]",
+      "content": "当前比特币/美元价格为89394.09美元，市场呈现震荡整理状态。价格在短期内未突破前期高点89673.10美元，且波动幅度较小，显示出一定的调整压力。鉴于市场缺乏明确的上涨或下跌趋势，短期可能继续维持区间震荡。\n\nMACD指标目前处于负值区域，-102.94553的数值显示出卖压较强，且信号线数据缺失，增加了市场的不确定性。由于RSI没有提供数据支持，当前指标无法完全辅助判断超买或超卖情况。技术面上，短期走势受限于现有支撑位和阻力位的压制。\n\n在支撑方面，价格下方的关键支撑位在88922.06美元附近，若跌破此位，可能会进一步回落至更低区域。上方的压力位在89673.10美元附近，突破此阻力位可能为后市反弹提供支撑。保持关注这些关键价位的突破情况，以决定短期交易策略。\n\n综合来看，建议投资者在短期内保持观望，关注价格是否突破现有区间。若价格突破上方阻力位，可考虑轻仓试探性买入，而若跌破下方支撑位，则应保持谨慎，避免追空操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently navigating a relatively neutral market, with its latest price at $89,394.09. The slight 0.49% daily increase suggests limited volatility, but this stability does not eliminate the possibility of an imminent breakout. The price is currently hovering just below its 20-period simple moving average (SMA), which stands at $89,673.10350, indicating potential resistance at this level. Traders should watch for a confirmed breakout above this level for a bullish signal or a rejection to the downside for a possible trend reversal.\n\nWith the MACD showing a negative reading of -102.94553 and the RSI not available, momentum is currently weak. A negative MACD indicates a bearish trend, which could signify further downward pressure unless a reversal occurs. For now, traders should be cautious and monitor for any divergence between price action and the MACD histogram, as this may indicate potential trend shifts. If the MACD crosses above its signal line, it could present a buying opportunity, but only if accompanied by confirmation from price action.\n\nKey support is found around $88,922.06, which marks the recent low and could act as a strong floor. A drop below this level could trigger further downside, with the next significant support around $88,000. On the resistance side, the SMA at $89,673 could act as an immediate barrier, with a break above potentially opening up the path toward higher levels, such as $90,500 or more. A sustained move above this range would indicate bullish sentiment.\n\nGiven the current market conditions, the optimal strategy would involve waiting for a clear confirmation of either a break above the resistance at $89,673 or a dip below the support at $88,922 before entering a trade. This approach will help minimize risk while ensuring traders take advantage of any directional movement in the market."
+    }
+  }
+}
