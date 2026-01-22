@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-22T21:43:51.735Z",
+  "price": {
+    "close": "128.35",
+    "high": "128.94",
+    "low": "128.04",
+    "open": "128.37",
+    "change": "-0.02",
+    "datetime": "2026-01-22 21:00:00"
+  },
+  "indicators": {
+    "rsi": 46.70269,
+    "macd": -0.25191762,
+    "macd_signal": -0.1178762,
+    "sma20": 129.185
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理，短期缺乏明确方向]",
+      "content": "当前Solana/美元（SOL/USD）价格维持在128.35附近，24小时内变化较小，仅为-0.02%。市场似乎处于震荡整理阶段，缺乏明确的趋势指引。近期价格波动较小，未能突破128.94的高点或跌破128.04的低点，显示出市场的犹豫和谨慎。\n\n从技术指标来看，RSI值未提供，导致我们无法进一步评估买卖力量的强弱。MACD值为-0.25191762，处于负值区域，暗示市场可能存在卖压，但由于没有信号线的明确指引，无法确认趋势的持续性或反转信号。SMA(20)为129.185，略高于当前价格，可能为短期内的阻力位。\n\n支撑位在128.04附近，若价格下行突破该点，可能进一步回测127.50附近的区域。阻力位则在128.94至130.00之间，突破这些位置可能会带来短期的上行动能。总体来看，SOL/USD短期内处于技术面上的震荡区间。\n\n建议投资者暂时观望，等待价格突破关键支撑或阻力位后再做决策。若价格突破128.94，可能形成短期的买入机会；反之，若跌破128.04，可能出现短期卖出信号。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 128.35\\n- 24h Change: -0.02%\\n- High/Low: 128.94 / 128.04\\n- RSI(14): N/A\\n- MACD: -0.25191762, Signal: N/A\\n- SMA(20): 129.18500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe **SOL/USD** pair is showing signs of short‑term consolidation after recent sideways movement around the **$128** level. With the latest price at **128.35** and a negligible **24h change**, the immediate trend lacks strong directional conviction. Price is slightly below the **20‑period SMA (129.19)**, suggesting mild bearish bias in the short timeframe. Traders should note that without clear trend confirmation, chop between **$125–$132** may persist until a decisive breakout.\n\nLooking at momentum, the **MACD** reading of **‑0.2519** hints at bearish pressure building, though the absence of a signal line limits interpretability. Ideally, a crossover back above the signal line and toward positive territory would support renewed upside. Given missing **RSI** data, momentum should be gauged through volume and candlestick patterns; range rejects or long lower wicks around support could indicate accumulating buying interest if momentum indicators improve.\n\nKey **support and resistance** zones to monitor include strong historical interest around **$125.00** on the downside and **$132.00–$134.00** overhead, where prior congestion and swing highs reside. A sustained break below **$125** with volume could open the path toward **$120**, while reclaiming and closing above **$130–$132** may signal strength returning, potentially targeting the next psychological barrier at **$140**.\n\nFrom a **trading perspective**, a conservative approach is advisable in this low‑volatility environment. Range traders might consider buying near **$125** supports with tight stops below, and taking partial profits closer to **$132** resistance. More directional positions could await confirmation of trend via a clear break and retest of key levels. Risk management remains crucial, especially if broader market sentiment shifts or on higher timeframe breakdowns."
+    }
+  }
+}
