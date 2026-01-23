@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-23T16:25:28.146Z",
+  "price": {
+    "close": "89588.86",
+    "high": "89864.88",
+    "low": "89501.12",
+    "open": "89641.85",
+    "change": "-0.06",
+    "datetime": "2026-01-23 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.55488,
+    "macd": -55.95838,
+    "macd_signal": -85.82763,
+    "sma20": 89358.792
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期趋势不明",
+      "content": "当前比特币价格在89588.86美元附近波动，显示出短期内的震荡整理态势。价格在24小时内仅有微弱变化，说明市场情绪趋于平稳，缺乏明显的买卖动能。从价格走势来看，仍然处于高位整理状态。\n\n技术指标方面，MACD线目前为负值，表明市场短期内略有卖压，但由于Signal线数据缺失，未能提供进一步的交叉信号。SMA(20)位于89358.79，价格接近该均线支撑，暗示如果进一步下跌，可能会触及这一支撑位。而RSI数据尚不可得，无法进一步确认超买或超卖情况。\n\n支撑位方面，89500附近为短期关键支撑，如果价格跌破这一水平，可能会进一步回测更低位置。上方则存在90000美元的阻力，若突破该点位，可能会迎来进一步的上涨动力。在现有的震荡区间内，价格突破任何一侧都可能预示着新的趋势的启动。\n\n交易建议：由于当前市场缺乏明显趋势信号，建议投资者在此区间内谨慎操作，可考虑等待价格突破关键支撑或阻力位后再做决策。对于风险承受能力较低的投资者，建议保持观望，待更明确信号出现再入场。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of $89,588.86 represents a slight dip of -0.06% over the last 24 hours. This minimal decrease reflects a relatively stable market sentiment. The price is currently testing near the recent low of $89,501.12, indicating some consolidation within this range. The high of $89,864.88 shows the upper boundary of recent movement, suggesting a resistance zone just below $90,000. A breakout above this level could signal bullish momentum, while sustained trading below $89,500 could point to further downward pressure.\n\nIn terms of technical indicators, the absence of a visible RSI (Relative Strength Index) leaves a gap in understanding momentum, but the MACD value of -55.95838 suggests that bearish pressure is present. The MACD being negative indicates that selling momentum is outweighing buying activity, which can be a sign of weakness in the short term. This confirms that the market has not found strong buying support yet, and the market may continue to test lower support levels before a reversal occurs.\n\nThe 20-period Simple Moving Average (SMA) is at $89,358.79, which is slightly below the current price. This SMA level is an important dynamic support level. If the price drops below this level, it could trigger more selling, with the next major support being near the recent low around $89,500. On the upside, resistance near $89,864.88 should be watched closely for any signs of upward movement. A break above $90,000 could set the stage for a potential rally, but this remains contingent on broader market conditions.\n\nFor traders, this market is showing signs of consolidation with some bearish bias. A cautious approach may be warranted, with short positions being considered below $89,500 and long positions triggered only if the price breaks above $90,000. Monitoring MACD and price action closely will help to identify potential entry points, as volatility may offer opportunities for both short-term and swing trades."
+    }
+  }
+}
