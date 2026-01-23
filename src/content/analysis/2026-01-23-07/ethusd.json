@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-23T07:03:33.117Z",
+  "price": {
+    "close": "2947.32",
+    "high": "2975.64",
+    "low": "2939.28",
+    "open": "2969.71",
+    "change": "-0.73",
+    "datetime": "2026-01-23 06:00:00"
+  },
+  "indicators": {
+    "rsi": 43.98793,
+    "macd": -7.098478,
+    "macd_signal": -9.30626,
+    "sma20": 2957.7915
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[当前市场震荡，短期看空]",
+      "content": "当前以太坊/美元（ETH/USD）价格为2947.32，处于震荡区间。价格在过去24小时内小幅下跌0.73%，显示出市场的短期疲弱。短期内未能突破前高2975.64，价格已接近2939.28的低点，表明市场可能存在进一步下行压力。\n\n从技术指标来看，MACD当前处于负值区域（-7.098478），暗示市场的卖压较强，且信号线（Signal）数据缺失，说明当前趋势缺乏明确的反转信号。SMA(20)为2957.79，略高于现价，形成轻微的阻力位。当前价格相对于20日均线而言有一定的下行空间。\n\n支撑位方面，2939.28附近的低点可能为关键支撑，一旦跌破该水平，可能会加剧卖盘压力。上方阻力位在2975附近，若价格突破此位置，则有可能重启上涨趋势，但需要进一步确认。\n\n建议投资者在当前市场保持谨慎观望，避免过度追高。若价格突破2975，短期可考虑轻仓尝试多头操作；若下行破位2939，则可能面临更大的下行风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum stands at $2947.32, slightly lower by 0.73% over the past 24 hours, indicating a mild bearish sentiment in the market. The high and low for the day, $2975.64 and $2939.28, show a narrow trading range, suggesting indecision among market participants. In this context, the market appears to be consolidating near these levels, with the price fluctuating within a tight band. If Ethereum breaks below $2939, further downside could be expected, potentially targeting the next support zone at $2900 or lower.\n\nDespite the slight negative 24-hour change, the price remains close to the 20-period simple moving average (SMA) of $2957.79, indicating that the short-term trend is largely neutral. The market could see a shift if the price crosses above the SMA, potentially signaling a return to bullish momentum. Conversely, if it fails to maintain above $2950, the bearish trend may strengthen, reinforcing downward pressure. The lack of a clear RSI or MACD signal further complicates short-term trend predictions, making it important to wait for a more definitive move before positioning.\n\nEthereum’s support level around $2939 is a critical point for the bulls. A failure to hold this level could push the price lower, with potential targets around $2900, $2870, or even $2800 in more extreme cases. On the resistance side, the recent high of $2975.64 could act as the first barrier for upward movement. A breakthrough above this level would open the door for further gains, potentially testing higher resistance at $3000 or even the $3050 range.\n\nGiven the current market conditions, a wait-and-see approach might be prudent until either a confirmation of upward momentum above the SMA or a clear breakdown below $2939 occurs. Traders may consider placing stop-loss orders below the support level to manage risk in this uncertain market environment."
+    }
+  }
+}
