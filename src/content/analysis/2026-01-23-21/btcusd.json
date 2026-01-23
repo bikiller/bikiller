@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-23T21:38:13.378Z",
+  "price": {
+    "close": "89480.02",
+    "high": "89591.39",
+    "low": "89327.54",
+    "open": "89395.93",
+    "change": "0.10",
+    "datetime": "2026-01-23 21:00:00"
+  },
+  "indicators": {
+    "rsi": 48.40892,
+    "macd": 77.31341,
+    "macd_signal": 43.24194,
+    "sma20": 89503.0055
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡整理，等待突破信号]",
+      "content": "目前，比特币/美元(BTC/USD)的价格维持在89480.02附近，波动较小，表现出短期震荡整理的迹象。当前价格处于SMA(20)附近(89503.0055)，表明市场在这一水平存在一定的支撑。价格波动在89327.54到89591.39之间，显示出市场暂时缺乏方向性。交易者需关注是否会出现突破这些区间的信号。\n\n技术指标方面，MACD当前显示出较高的值（77.31341），但信号线和RSI(14)尚未给出明确的趋势方向。由于没有明显的超买或超卖信号，市场情绪仍然偏向观望状态。若MACD继续向上扩展，可能预示着短期上涨的机会，但需要等待更多指标确认。\n\n从支撑和阻力位来看，支撑位可见于89327.54附近，而阻力位则位于89591.39。如果价格突破89591.39，可能会测试更高的阻力区间。然而，若价格跌破89327.54，可能会引发进一步回调，支撑下移至89000附近。\n\n因此，短期内建议保持观望，耐心等待价格突破关键支撑或阻力位，捕捉趋势延续的机会。如果出现突破，可以适当参与趋势交易，否则保持风险控制。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 89480.02\\n- 24h Change: 0.10%\\n- High/Low: 89591.39 / 89327.54\\n- RSI(14): N/A\\n- MACD: 77.31341, Signal: N/A\\n- SMA(20): 89503.0055\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin’s price action around **$89,480** suggests a **range-bound trend** in the very short term. The price has barely budged over the past 24 hours, with a tight high/low band between **$89,327 and $89,591**. This consolidation near the SMA(20) at **$89,503** implies equilibrium between buyers and sellers. Unless we see a meaningful breakout above **$90,000** or a breakdown below **$88,500**, the market is likely digesting recent gains and lacks a clear directional bias.\n\nThe **MACD reading of 77.31** remains elevated, signaling that underlying momentum is still tilted bullish despite muted price movement. With the **signal line unavailable**, we can’t confirm a fresh crossover, but the elevated MACD suggests bulls haven’t fully relinquished control. The lack of an RSI reading limits insight into overbought/oversold conditions, but the tight trading range typically reflects indecision rather than exhaustion. Traders should watch for MACD divergence or convergence with price action as an early clue of an imminent directional shift.\n\nKey supports to monitor are **$89,000** and the more critical **$88,500** level. These zones represent the lower bounds of the recent range and simple moving average support. To the upside, **$89,800–$90,000** forms immediate resistance, and a sustained break above this would strengthen bullish conviction. Should sellers push below **$88,500**, it could open the door toward **$87,500** and lower, increasing downside risk for short-term longs.\n\nFor traders, a **range-trading strategy** might be appropriate right now: consider buying closer to support and trimming toward resistance, with tight stops beneath key levels. Breakouts beyond the established range merit larger position adjustments, with upside targets near **$91,000+** and downside risk toward **$87,000** if support fails. Always align position size with risk tolerance given the current lack of clear trend momentum."
+    }
+  }
+}
