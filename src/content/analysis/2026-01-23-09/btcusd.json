@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-23T09:47:45.242Z",
+  "price": {
+    "close": "88781.7",
+    "high": "89269.45",
+    "low": "88776.47",
+    "open": "89095.93",
+    "change": "-0.35",
+    "datetime": "2026-01-23 09:00:00"
+  },
+  "indicators": {
+    "rsi": 39.38945,
+    "macd": -92.50189,
+    "macd_signal": -35.55368,
+    "sma20": 89357.4415
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期承压",
+      "content": "目前比特币/美元价格维持在88781.7美元附近，24小时小幅下跌0.35%。短期来看，市场呈现震荡整理态势。价格波动相对较小，未显示出明确的上涨或下跌动能。当前价格接近短期20日均线89357.44美元，暗示市场可能面临一定的压力。\n\n从技术指标来看，MACD值为-92.50，表明当前市场情绪偏向看空，且缺乏强烈的买盘动能。RSI指标尚未提供数据，因此无法对市场超买或超卖状态进行进一步分析。尽管如此，短期价格可能受均线的支撑或阻力影响，形成较为狭窄的交易区间。\n\n在支撑位方面，当前价格接近88776.47美元，若下破该价位，可能会进一步考验88600美元附近的支撑。至于阻力位，89269.45美元和89357.44美元的20日均线将是重要的参考区域。若价格突破此区间，可能会触发短期上涨的动力。\n\n建议短期交易者密切关注价格在支撑和阻力之间的波动。若价格接近支撑位，可考虑适量布局，等待反弹。反之，若接近阻力位，则需谨慎考虑卖出或观望，以防止进一步的回调。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price is currently hovering around $88,781.7, experiencing a modest 0.35% decline over the last 24 hours. The market is showing a slight bearish sentiment, with the daily high reaching $89,269.45 and the low at $88,776.47, indicating limited price volatility. Despite this, the price remains in a relatively tight range, reflecting market indecision. With the recent price movement, Bitcoin appears to be consolidating in the short term, holding steady near its key support level, suggesting potential for either a minor rebound or further downside.\n\nThe lack of a calculated RSI(14) leaves room for some uncertainty in momentum analysis, but the negative MACD value of -92.50 indicates bearish momentum in the market. This suggests that Bitcoin is struggling to push through higher levels and may be facing increasing selling pressure. The absence of a defined signal line for MACD further complicates trend direction but confirms that current market conditions lack clear bullish strength. Traders should be cautious about entering long positions unless a clearer reversal signal emerges.\n\nThe current SMA(20) at $89,357.44 serves as a near-term resistance, which has acted as a ceiling over the past few days. For Bitcoin to initiate a potential bullish move, it needs to break above this level with strong volume. A failure to do so may lead to further retracement towards the recent low range. Key support lies near $88,000, with further downside risk if this level breaks, potentially leading Bitcoin to retest deeper support levels.\n\nGiven the current bearish indicators, cautious traders should wait for a confirmation of either a bullish breakout above $89,357.44 or a potential breakdown below $88,000 before making significant trades. Until then, the market is likely to remain in consolidation, offering limited trading opportunities unless volatility increases."
+    }
+  }
+}
