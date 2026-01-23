@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-23T12:42:15.637Z",
+  "price": {
+    "close": "127.15",
+    "high": "127.38",
+    "low": "126.98",
+    "open": "127.38",
+    "change": "-0.18",
+    "datetime": "2026-01-23 12:00:00"
+  },
+  "indicators": {
+    "rsi": 42.50527,
+    "macd": -0.462416,
+    "macd_signal": -0.36525839,
+    "sma20": 128.031
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 127.15\\n- 24小时变化: -0.18%\\n- 高点/低点: 127.38 / 126.98\\n- RSI(14): N/A\\n- MACD: -0.46241600, Signal: N/A\\n- SMA(20): 128.031\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线区间震荡、潜在支撑试探\n\n当前SOL价格127.15，短线走势呈**弱势整理格局**，价格在日内高点127.38与低点126.98之间**窄幅震荡**，未明显放量突破。价格略低于20日SMA 128.031，显示均线阻力短期制约上涨动能，空头略占主动。\n\n技术指标方面，MACD处于**负值区域**，暗示下行动能仍存，但指标信号不完全（Signal N/A），需留意后续柱状图与交叉变化。在更完整指标体系中，RSI若低于50则偏向弱势，但本数据暂无，结合现有表现偏向震荡偏空。\n\n重点支撑位参考历史价格区间及技术水平，可关注**近期低点附近 ~126.8–127.0**和更强支撑在**~120区域**，该处历史曾形成买盘反应。阻力位短线在**20日SMA ~128**附近，其上如突破则可能打开空间至更高阻力。\n\n交易上建议短线以**区间高抛低吸**为主，若向下破位稳住120则可考虑偏多；若上破20日均线并伴随成交量放大，则短线趋势或转向多头。风险管理上，止损可设在关键支撑下方，避免假突破造成损失。\n\n> **[Solana Approaches Critical $120 Support as Technical Structure Faces Decisive Inflection Point](https://blockonomi.com/solana-approaches-critical-120-support-as-technical-structure-faces-decisive-inflection-point/?utm_source=chatgpt.com)** · *blockonomi.com* · 2026/1/21\n\n> Solana price approaches critical $120 support level where rising trendline meets horizontal resistance, setting stage for next move."
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 127.15\\n- 24h Change: -0.18%\\n- High/Low: 127.38 / 126.98\\n- RSI(14): N/A\\n- MACD: -0.46241600, Signal: N/A\\n- SMA(20): 128.031\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **127.15 USD** suggests a fairly **neutral to slightly bearish short-term tone**. After failing to sustain above the **20‑period simple moving average (~128.03)**, sellers have kept intraday gains limited. The tight range between **126.98 and 127.38** indicates low volatility and indecision, often seen before a breakout or breakdown. Without a clear directional bias, price is testing the patience of both bulls and bears, with trend clarity likely hinging on a decisive move outside this narrow band.\n\nThe absence of a current RSI value limits momentum insight, but the **MACD at –0.4624** in negative territory suggests bearish pressure is present, albeit without a corresponding signal line for full crossover confirmation. This negative MACD reading implies the shorter‑term moving average is below the longer‑term one, reflecting recent weakness. Traders should be cautious, as continuation lower remains possible if momentum fails to improve. Watching for a MACD histogram expansion or convergence back toward zero can offer early hints of a shift in strength.\n\nKey support lies just below the current price, with **126.50–126.00** acting as the first defensive zone where buyers might step in. A break below there could open the door toward **124.00–123.50**, a more structural support from prior swing lows. On the upside, overcoming the **128.50–129.00** area with sustained volume would be meaningful; beyond that, **130.00** is a psychological resistance that could challenge upward continuation. These levels form a sensible framework to plan entries and exits.\n\nFor traders, a range‑bound approach could be appropriate in the near term: consider **scalp long positions near support with tight stops** while looking to **trim or hedge if approaching resistance zones**. Longer‑term bulls might wait for a clear break above **129** with conviction before adding, while risk‑averse participants may prefer confirmation from momentum indicators returning to neutral or positive territory."
+    }
+  }
+}

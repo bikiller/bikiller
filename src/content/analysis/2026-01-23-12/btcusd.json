@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-23T12:39:57.020Z",
+  "price": {
+    "close": "89032.48",
+    "high": "89129.6",
+    "low": "88971.91",
+    "open": "89094.88",
+    "change": "-0.07",
+    "datetime": "2026-01-23 12:00:00"
+  },
+  "indicators": {
+    "rsi": 43.82688,
+    "macd": -131.97074,
+    "macd_signal": -78.26335,
+    "sma20": 89371.661
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，缺乏明显方向]",
+      "content": "目前比特币/美元的价格处于89032.48，较昨日变化微弱，显示市场处于震荡整理的状态。当前价格接近20日简单移动平均线(SMA 20)的89371.661，暗示短期内缺乏强烈趋势。若价格突破此水平，可能会引发短期上涨，但整体仍需观察突破的力度。\n\nMACD指标为负值(-131.97074)，未显示出强劲的买盘动能，这表明卖压依然存在。RSI(14)未更新，但如果处于超卖区（低于30），可能意味着反弹的机会。若RSI持续低迷，可能需要谨慎对待进一步下行风险。\n\n支撑位方面，当前低点位于88971.91，若价格跌破该点位，可能会进一步探底。关键支撑位为88000附近，若跌破将面临较大下行压力。阻力位则位于近高点89129.6，若突破此水平，可能会挑战89500一线。\n\n建议投资者在当前市场震荡区间内保持谨慎，短期内可考虑在支撑位附近寻找买入机会，同时密切关注市场是否出现突破信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $89,032.48, showing a modest 24-hour change of -0.07%. The price is consolidating near its recent high of $89,129.6, suggesting market indecision after a period of upward movement. A small pullback toward the low of $88,971.91 indicates potential for further consolidation within this range, with a lack of strong momentum in either direction. Overall, Bitcoin remains in a neutral trend, and it is crucial to watch for any shifts in market sentiment that might trigger more substantial moves.\n\nThe MACD at -131.97074, with the signal line not available, suggests weak bearish momentum. This negative reading reflects a mild downward bias, though without a confirmed crossover or the presence of the signal line, a strong bearish signal is not yet established. The RSI(14) is not provided, but in cases of neutral momentum, RSI values would typically offer insights into overbought or oversold conditions, which could help gauge market sentiment. Until the MACD moves into a more decisive position, caution is advised.\n\nLooking at key support and resistance levels, the immediate support sits near $88,971, the recent low, followed by a more substantial support around $88,500. Resistance is found just above the current market price at $89,130, with a potential breakout point at $89,500. A break above this level could signal the start of another bullish leg, while failure to hold above the current support could open the door for further downside risk. Traders should monitor these levels closely for a clearer directional bias.\n\nGiven the current market data, a range-bound strategy may be appropriate, with trades focused on buying near support levels and selling near resistance. A break and close above $89,500 would suggest a more bullish outlook, while a drop below $88,500 could indicate further downside potential. Tight risk management is crucial, as the market remains uncertain and prone to sudden fluctuations."
+    }
+  }
+}
