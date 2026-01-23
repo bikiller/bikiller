@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-23T03:13:14.620Z",
+  "price": {
+    "close": "2959.28",
+    "high": "2959.28",
+    "low": "2952.1",
+    "open": "2952.38",
+    "change": "0.20",
+    "datetime": "2026-01-23 03:00:00"
+  },
+  "indicators": {
+    "rsi": 47.02642,
+    "macd": -10.11234,
+    "macd_signal": -11.63688,
+    "sma20": 2963.8895
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[短期震荡整理，等待突破信号]",
+      "content": "目前以太坊/美元(ETH/USD)的市场表现显示出短期震荡整理的迹象。价格在2959.28附近徘徊，波动幅度较小，24小时变化仅为0.20%。目前没有明显的趋势方向，市场处于观望状态。\n\n技术指标方面，MACD呈现负值（-10.11234），但信号线数据缺失，无法得出进一步的趋势确认。RSI（14）也没有给出有效数据，这限制了对超买或超卖区域的判断。SMA（20）略微高于当前价格，表明短期内可能存在一定的支撑。\n\n从支撑和阻力的角度来看，当前价格位于2952.1至2963.9之间的窄幅区间，支撑位在2952附近，而阻力位则在SMA（20）的2963.9附近。如果突破2963.9，可能会迎来上涨的动能，反之，则有可能进一步回调至支撑区。\n\n交易策略方面，建议在突破关键技术点位前采取观望策略。如果价格突破2963.9并稳定维持，考虑适度跟进多头操作；如果价格下破2952，可能会带来回调风险，可考虑短期做空。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum's current price at $2959.28 reflects a market in a narrow range, experiencing a slight 0.20% increase over the past 24 hours. This low volatility suggests that buyers and sellers are in balance, and price action may be consolidating before a larger move. The price is currently just above the 20-period Simple Moving Average (SMA) at $2963.89, which hints at possible upward pressure if it holds. However, the absence of a clear trend makes the market susceptible to sudden shifts in either direction.\n\nThe MACD value of -10.11234 indicates bearish momentum, with the lack of a clear signal line complicating the analysis further. Traders should remain cautious as this suggests the potential for further downside if the bearish momentum persists. However, a break above the SMA and a positive MACD cross could shift sentiment toward a bullish outlook. Given these mixed signals, the market may remain range-bound unless a decisive breakout occurs.\n\nKey support is located around the recent low of $2952.1, which will likely act as a floor for price action in the short term. A breach below this level could trigger additional downside, with the next significant support possibly appearing near the $2900 region. On the other hand, resistance lies near $2963, coinciding with the SMA and the recent high. A sustained move above this level could open the door to a retest of $3000.\n\nFor traders, this market presents a wait-and-see scenario. A breakout above $2963 could present a buying opportunity, while a drop below $2952.1 would suggest further short-term bearish moves. Traders should keep an eye on any shifts in momentum indicators like MACD and RSI for more definitive signals to enter positions."
+    }
+  }
+}
