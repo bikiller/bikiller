@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-23T05:47:34.813Z",
+  "price": {
+    "close": "89501.68",
+    "high": "89865.7",
+    "low": "89410",
+    "open": "89859.8",
+    "change": "-0.40",
+    "datetime": "2026-01-23 05:00:00"
+  },
+  "indicators": {
+    "rsi": 49.20431,
+    "macd": 18.34696,
+    "macd_signal": -22.96578,
+    "sma20": 89485.8085
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，等待突破信号",
+      "content": "当前比特币价格在89501.68附近波动，全天变化仅为-0.40%。市场表现出较为明显的震荡整理状态，短期内缺乏明确的方向性突破。价格维持在89410至89865.7区间内，可能等待外部因素或技术面信号来推动行情。\n\n从技术指标来看，MACD值为18.34696，但由于Signal未给出，MACD的可靠性受限，无法提供明确的买卖信号。RSI目前缺失，无法判断超买或超卖情况。而SMA(20)位于89485.81，价格略高于该水平，暗示短期内有一定的支撑。若价格跌破该均线，可能会有进一步下行风险。\n\n支撑位位于89410，而阻力位则在89865.7附近，这两个价格区间是市场目前关注的焦点。突破89410可能会导致价格测试更低水平，而突破89865.7则可能引发上涨行情。因此，短期内建议关注这些关键价格点的突破情况。\n\n综上所述，当前市场处于震荡整理阶段，投资者可以在区间内进行短期波段操作，耐心等待价格突破关键支撑或阻力位后再作进一步决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s current market price of 89501.68 represents a slight decline of -0.40% over the past 24 hours, indicating a consolidation phase after testing recent highs. The market is still within a tight range, with the price oscillating between the high of 89865.7 and low of 89410. Despite the minor downward movement, the price remains above the 20-period Simple Moving Average (SMA), which is at 89485.8085, suggesting some support at this level. However, with the lack of substantial upward momentum, the market appears to be waiting for a clearer direction.\n\nThe Relative Strength Index (RSI) for Bitcoin is unavailable at the moment, which leaves us without a key tool to assess the potential for overbought or oversold conditions. Nonetheless, the MACD at 18.34696 provides some insight into the momentum, signaling a bullish inclination, though without a signal line for context, it’s difficult to gauge the strength of this move. Investors should closely monitor the MACD for any crossover that might indicate a shift in trend.\n\nThe primary support level for Bitcoin in the near term lies at the recent low of 89410, which if broken could lead to further downside toward more significant levels. Resistance remains just under 90000 at the high of 89865.7. Should the price break above this level, it could suggest a short-term bullish continuation, but a clear breakout above 90000 is needed to confirm this. A failure to maintain support at 89410 could lead to further testing of lower levels.\n\nTraders should be cautious in this consolidation phase, waiting for a clear breakout either above 90000 or below 89410. A range-bound strategy could be effective for the short term, capitalizing on small price movements within this range. For a longer-term perspective, the market would require a break of significant resistance or support levels, combined with stronger momentum indicators, before making any directional bets."
+    }
+  }
+}

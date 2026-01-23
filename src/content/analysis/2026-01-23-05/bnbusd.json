@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-01-23T05:49:12.609Z",
+  "price": {
+    "close": "890.88",
+    "high": "892.1",
+    "low": "889.38",
+    "open": "892.09",
+    "change": "-0.13",
+    "datetime": "2026-01-23 05:00:00"
+  },
+  "indicators": {
+    "rsi": 53.7224,
+    "macd": 0.79388995,
+    "macd_signal": 0.39955628,
+    "sma20": 888.909
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：当前震荡整理，短期承压",
+      "content": "当前币安币（BNB/USD）价格小幅震荡整理，最新报890.88美元，24小时变化为-0.13%。从整体趋势来看，BNB价格在接近890美元附近保持区间震荡，未能突破较强的阻力位892.1美元，同时也未出现显著的跌破支撑位。\n\n在技术指标方面，RSI（14）未提供数据，但MACD显示当前值为0.79388995，表明短期内市场仍有一定的上涨动能。然而，由于缺乏信号线和RSI的配合，整体市场情绪较为谨慎。SMA（20）为888.91，价格略高于该均线，显示出市场短期略偏强，但并未出现明显的突破趋势。\n\n从支撑与阻力分析来看，当前主要支撑位在889.38美元，若价格跌破该位，可能会面临较大幅度回调的风险。阻力位在892.1美元，突破后有望继续上涨。考虑到市场震荡，短期内可能会在这个区间内反复波动。\n\n建议投资者在890美元附近观察市场动向，若价格接近支撑位可考虑适当入场，止损设在889美元下方；若突破阻力位可考虑跟进多单，目标指向895美元。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 890.88\\n- 24h Change: -0.13%\\n- High/Low: 892.1 / 889.38\\n- RSI(14): N/A\\n- MACD: 0.79388995, Signal: N/A\\n- SMA(20): 888.90900\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is currently showing a **neutral-to-bullish bias** around the $890 price area after a slight pullback of -0.13% in the last 24 hours. The narrow high/low range (892.1 / 889.38) suggests **low volatility** and market indecision near this zone. While broader trend context is constrained by limited timeframe data, **higher lows in recent sessions** reinforce an underlying bullish structure.\n\nWith the **SMA(20) at 888.9**, price trading just above this moving average indicates **short-term support** has been maintained. This suggests that the recent consolidation isn’t necessarily a bearish breakdown but rather a **sideways rest within an uptrend**. A decisive close below the SMA could trigger additional downside pressure, but holding above it still favors continuation patterns.\n\nIndicator interpretation remains partial: the **MACD value at 0.7939** (without a signal line) signals persistent positive momentum, albeit without clear crossover confirmation. The absence of a computed RSI(14) limits overbought/oversold context, but the **lack of steep declines** implies buyers are not capitulating. Should MACD remain elevated once the signal is available, it would corroborate bullish momentum persisting despite tight price action.\n\nKey **support levels** to watch are $885 followed by the psychological $875 zone. On the upside, **near-term resistance** sits at $900, with stronger barriers at $915–$920 if bulls accelerate. Traders might consider **long entries near support** with tight risk management, targeting the $900–$915 range. Conversely, a **break below $885 with volume** could open short opportunities toward $870. Always align trade size with risk tolerance and monitor macro conditions, as broader crypto sentiment can quickly shift intraday dynamics."
+    }
+  }
+}

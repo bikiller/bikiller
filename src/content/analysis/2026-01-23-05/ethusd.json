@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-23T05:48:17.721Z",
+  "price": {
+    "close": "2972.56",
+    "high": "2978.1",
+    "low": "2964.54",
+    "open": "2977.97",
+    "change": "-0.21",
+    "datetime": "2026-01-23 05:00:00"
+  },
+  "indicators": {
+    "rsi": 50.74629,
+    "macd": -6.03473,
+    "macd_signal": -9.80077,
+    "sma20": 2960.774
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理，短期偏弱",
+      "content": "当前以太坊/美元（ETH/USD）价格维持在2972.56附近，日内波动较小，呈现震荡整理的走势。近期市场未出现显著的上涨或下跌，价格区间在2964.54至2978.1之间，缺乏明确的方向性。\n\n技术指标方面，MACD显示负值（-6.034730），表明短期内卖压较强，且没有形成明显的反弹信号。由于RSI指标缺失，暂时无法通过超买超卖情况进一步确认市场情绪。从SMA(20)来看，价格轻微位于均线之上，表明短期支撑在2960附近，若跌破该支撑，可能加剧下行压力。\n\n支撑位在2960附近，若价格持续走低，可能进一步测试2950或更低位置的支撑。而上方阻力位在2980附近，若突破该位，可能出现短期反弹，触及3000关口。\n\n综合来看，短期内ETH/USD倾向于震荡整理，交易者可关注2960附近的支撑位和2980的阻力位，短线操作时建议采取区间交易策略，耐心等待市场进一步确认趋势。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The ETH/USD market shows a slight downtrend with the current price at $2972.56, reflecting a small 24-hour decrease of -0.21%. This price action suggests a consolidation phase following a minor correction. The market’s range for the day has been tight, with the high at $2978.1 and the low at $2964.54, pointing to a lack of strong volatility. As Ethereum remains below its 20-period SMA of $2960.77, it indicates short-term bearish sentiment, though this could change if it manages to break above this moving average.\n\nThe current MACD reading of -6.0347 indicates a bearish momentum, but the lack of a signal line makes it difficult to determine the strength of the trend. A potential crossing of the MACD line above the zero level would be a bullish signal, but traders should wait for a clear reversal before considering long positions. Additionally, since the RSI(14) is unavailable, we cannot fully assess the overbought or oversold conditions, limiting the clarity of potential price extremes at this moment.\n\nIn terms of support and resistance, the recent low at $2964.54 could serve as immediate support. A break below this level may bring the price closer to more significant support zones, likely around the $2950 or $2900 mark. On the other hand, the intraday high at $2978.1 remains the closest resistance level, and a breach above this would likely propel ETH towards $3000.00, providing a potential opportunity for bullish trades.\n\nFor traders, a cautious approach is recommended. The market shows no strong trend yet, and waiting for either a breakout above resistance or confirmation of support at $2964.54 could provide clearer signals. If a stronger uptrend emerges, long positions above $2980 could be considered, while short trades should be explored if ETH fails to hold above key support levels."
+    }
+  }
+}

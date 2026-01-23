@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-01-23T05:52:44.896Z",
+  "price": {
+    "close": "12.2664",
+    "high": "12.3674",
+    "low": "12.2645",
+    "open": "12.3639",
+    "change": "-0.78",
+    "datetime": "2026-01-23 05:00:00"
+  },
+  "indicators": {
+    "rsi": 49.52266,
+    "macd": -0.020767219,
+    "macd_signal": -0.037245736,
+    "sma20": 12.2339
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 12.2664\\n- 24小时变化: -0.78%\\n- 高点/低点: 12.3674 / 12.2645\\n- RSI(14): N/A\\n- MACD: -0.020767219, Signal: N/A\\n- SMA(20): 12.23390\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短线震荡偏弱整理\n\n当前AVAX价格略高于20日简单均线12.2339，表明短期有均线支撑，但价格波动极窄且24小时微幅下跌，趋势仍然偏震荡。整体多空力量较为均衡，短期趋势偏弱且缺乏方向性确认，需要关注突破信号来明确下一阶段走势。\n\n技术指标方面，MACD负值表明短线动能偏空压力，但由于缺少Signal线数据，不宜过度依赖该指标。目前RSI缺失导致超买超卖信号无法判定，但均线位置显示价格未明显偏离均衡区域，需结合成交量等进一步确认动能变化。\n\n关键支撑位可关注短期均线附近的12.20–12.23区域，如跌破该区域恐引发进一步下探。阻力位短期关注12.36–12.40，若价格有效突破此区并伴随放量，有望打开上行空间。支撑与阻力均较接近，说明多空胶着特征明显。\n\n交易建议上，若持仓者谨慎为主，可在12.20附近适量补仓，止损放在跌破12.10位置；激进者可等待12.40上方确认突破后再参与多头，目标看向12.60–12.80区间。同时，若量能放大伴随突破方向，可顺势调整布局。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Avalanche vs US Dollar (AVAX/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 12.2664\\n- 24h Change: -0.78%\\n- High/Low: 12.3674 / 12.2645\\n- RSI(14): N/A\\n- MACD: -0.020767219, Signal: N/A\\n- SMA(20): 12.23390\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nAvalanche’s price action around **$12.27** suggests a **neutral-to-bearish short-term tone**. The last 24‑hour candle shows a slight pullback after touching a high near **$12.37**, with the intraday low around **$12.26**, indicating limited buying pressure above current levels. The 20‑period simple moving average at **$12.23** is just below price, hinting that recent price compression may be resolving sideways rather than decisively up. Traders should watch whether the market consistently closes above the SMA to confirm a mild uptrend.\n\nThe absence of an available **RSI(14)** and MACD signal values complicates momentum readings, but the negative raw MACD figure (**–0.0208**) suggests the shorter EMA is below the longer EMA, a characteristic of bearish or weakening momentum. Without the signal line, immediate cross‑signal confirmation isn’t visible, but the negative bias should encourage caution. A deeper dive with full oscillator data would clarify whether oversold conditions are setting up or momentum remains subdued.\n\nKey levels to observe include **support around $12.00–$12.15**, where prior congestion and the 20‑SMA cluster. If sellers push below this zone, next structural support may emerge near psychological round figures like **$11.50** or the lower edges of recent ranges. On the upside, sustained reclaiming of **$12.50–$12.60** could unlock a run toward **$13.00**, with initial resistance aligned with recent highs. These levels offer tangible entry and exit points for disciplined risk.\n\nFor traders, a pragmatic approach is to wait for clear direction: confirmation above **$12.50** could justify scaled long positions with tight stops below **$12.20**. Conversely, a break and close under **$12.00** might invite short strategies targeting lower support, with volatility protections in place. Always align position sizing with risk tolerance and broader market context."
+    }
+  }
+}
