@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-23T10:57:44.298Z",
+  "price": {
+    "close": "88922.31",
+    "high": "89057.2",
+    "low": "88737.98",
+    "open": "88856",
+    "change": "0.07",
+    "datetime": "2026-01-23 10:00:00"
+  },
+  "indicators": {
+    "rsi": 41.52929,
+    "macd": -115.39443,
+    "macd_signal": -50.5735,
+    "sma20": 89356.561
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期难以突破]",
+      "content": "当前比特币价格处于震荡整理状态，最新价格为88922.31美元，24小时内波动较小，仅上涨了0.07%。短期内，价格在88737.98至89057.2区间内波动，形成了明确的震荡区间。当前走势显示出市场缺乏强劲的买盘或卖盘，难以突破现有区间。\n\n技术指标方面，RSI暂时缺失，MACD处于负值区域，表明短期内卖压依然存在。尽管SMA(20)位于89356.561附近，若价格无法有效突破这一水平，则短期内可能维持横盘整理。MACD负值表明市场情绪偏向悲观，短期内上涨动力不足。\n\n支撑位方面，88737.98美元为短期支撑位，若价格下破此点，则可能进一步回调至更低水平。阻力位则在89057.2美元附近，若突破该区域，可能会触发短期反弹至SMA(20)附近，进一步测试89356.561的强阻力。\n\n建议投资者在当前区间内以短期震荡交易为主，注意区间突破时及时调整策略。若价格突破上行，可以考虑轻仓跟随，反之则可考虑在支撑位附近寻找做空机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 88922.31\\n- 24h Change: 0.07%\\n- High/Low: 89057.2 / 88737.98\\n- RSI(14): N/A\\n- MACD: -115.39443, Signal: N/A\\n- SMA(20): 89356.56100\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin’s price action around **$88,900** suggests a short-term **range-bound environment** after recent strength. The narrow 24-hour high/low band between **$89,057 and $88,738** indicates hesitancy among traders to commit to a breakout. While the broader trend remains **upward from prior swing lows**, momentum has slowed as prices trade just below the **SMA(20) at ~ $89,357**. This dynamic points to near-term consolidation rather than a decisive directional thrust.\n\nLooking at the available indicators, the **MACD is negative (~–115)**, signaling that bearish momentum still outweighs bullish pressure. Without the signal line value, interpretation is limited, but the negative MACD suggests sellers retain some control beneath the short-term moving average. The lack of a current RSI reading means we’re missing clear overbought/oversold context, but the price’s inability to sustain above the SMA(20) hints at weakening upside conviction. Traders should watch how the MACD histogram evolves for signs of a bullish crossover.\n\nKey **support levels** to monitor include **$87,500–$88,000**, where prior intraday lows clustered and buying interest could re-emerge. A breakdown below this zone on increased volume might invite deeper retracements toward **$85,500–$86,000**. On the upside, **$89,350–$89,500** remains the first line of **resistance**, tied to the SMA(20), with stronger barriers near **$90,000** psychological territory. Sustained trading above $90k would be the first sign that bulls are reasserting control.\n\nFor traders, a cautious stance is advisable. In the current range, **shorter-term strategies** like fading extremes near identified support/resistance bands may work better than trend-following setups. Breakout traders might wait for a confirmed daily close above **$90,000** or below **$87,500** before initiating directional positions. Risk management remains critical, with tight stops and clarity on invalidation levels helping navigate this indecisive phase."
+    }
+  }
+}

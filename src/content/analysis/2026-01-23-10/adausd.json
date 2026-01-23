@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-01-23T11:01:53.946Z",
+  "price": {
+    "close": "0.359353",
+    "high": "0.359876",
+    "low": "0.357975",
+    "open": "0.358879",
+    "change": "0.13",
+    "datetime": "2026-01-23 10:00:00"
+  },
+  "indicators": {
+    "rsi": 46.10658,
+    "macd": -0.00056230096,
+    "macd_signal": -0.00042322841,
+    "sma20": 0.3604129
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 艾达币/美元(ADA/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.359353\\n- 24小时变化: 0.13%\\n- 高点/低点: 0.359876 / 0.357975\\n- RSI(14): N/A\\n- MACD: -0.00056230096, Signal: N/A\\n- SMA(20): 0.36041290\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"艾达币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "艾达币/美元技术分析：短线震荡偏空但关键支撑稳固\n\n当前价格略低于20日简单移动平均线（SMA20=0.3604），表明短期多头动能偏弱，价格在窄幅区间内整理。24小时微涨+0.13%以及高低价差极小显示市场缺乏明显方向性，短线趋势偏震荡。\n\nMACD负值（-0.0005623）提示下行动能仍在，但因Signal数据不可用需谨慎解读。若结合RSI缺失，无法确认超买超卖，但从价格行为看，多空力量暂时平衡，技术指标整体略偏谨慎，需等待更明朗的动量信号。\n\n主要支撑位可关注前低附近0.3550–0.3560区间，该区域若有效守住将减少进一步下行风险；阻力位则在0.3600–0.3620附近，若突破该区域则有望重拾上行动力。短线成交量若放大将提供更可靠的突破确认。\n\n建议短线交易者耐心等待确认突破或回踩支撑后的反弹信号；中线持有者可在关键支撑位附近分批补仓、并将止损设置在下破支撑之后以控制风险。稳健者可在突破阻力并站稳后再入场以降低震荡风险。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "The current price of Cardano against the US Dollar (ADA/USD) stands at $0.359353, showing a minor increase of 0.13% over the last 24 hours. This indicates a relatively stable market, with limited volatility in the short term. The price has tested the high of $0.359876 and the low of $0.357975, suggesting that the market is consolidating within this range. Given the lack of significant price action, we can expect a continuation of this sideways movement unless a breakout occurs.\n\nLooking at the moving averages, the 20-period Simple Moving Average (SMA) at $0.36041290 suggests a neutral short-term trend. Since the price is just below this level, it indicates that ADA is experiencing some bearish pressure. If the price fails to reclaim the SMA level, we could see a further drop towards the nearest support zone around $0.357975. However, if ADA breaks above the SMA, it could signal a potential recovery, with a possible retest of the previous high near $0.359876.\n\nCurrently, the RSI(14) is unavailable, so there’s limited information about overbought or oversold conditions. The absence of this key indicator leaves us reliant on the MACD, which is currently negative at -0.00056230096. A negative MACD value typically suggests a bearish market sentiment, reinforcing the downward bias. Until a crossover occurs or further price momentum is seen, caution is advised in taking bullish positions.\n\nThe key support level remains around $0.357975, while the resistance is close to $0.359876. A breakout above $0.36041290 could signal further upside potential, targeting a higher resistance around $0.362 or beyond. Traders may consider waiting for a clear breakout confirmation before entering any positions, particularly to manage risk efficiently in this range-bound market."
+    }
+  }
+}

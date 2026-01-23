@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-01-23T11:03:17.703Z",
+  "price": {
+    "close": "12.1579",
+    "high": "12.1738",
+    "low": "12.1267",
+    "open": "12.144",
+    "change": "0.11",
+    "datetime": "2026-01-23 10:00:00"
+  },
+  "indicators": {
+    "rsi": 45.12684,
+    "macd": -0.040689666,
+    "macd_signal": -0.035735513,
+    "sma20": 12.19506
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 12.1579\\n- 24小时变化: 0.11%\\n- 高点/低点: 12.1738 / 12.1267\\n- RSI(14): N/A\\n- MACD: -0.040689666, Signal: N/A\\n- SMA(20): 12.19506\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：区间震荡偏弱迹象\n\n当前价格在12.15美元附近反复横盘，短线缺乏明确方向，价格与20日简单移动均线（SMA20）12.195附近交错波动，表明多空力量均衡略偏空，短期趋势仍处于震荡整理而非单边上涨格局。\n\n技术指标方面，MACD柱状线为负且没有明显转正信号，暗示下行动能尚存压力。虽然RSI数据缺失，但从成交区间及波动幅度来看，买盘强度不足，动量指标整体偏弱，需警惕下破整理区间的风险。\n\n关键支撑位可关注近期低点12.12附近，其下方若失守，则有可能延伸至11.80一线。阻力位短期在12.20至12.30区间内承压明显，突破该区需伴随成交量放大，否则易形成假突破回落。\n\n交易上，建议维持震荡思路，区间内高抛低吸为主。若价格有效跌破12.10支撑，则可考虑短线空单布局；反之若收复并稳住12.30阻力，上方进一步试探12.60压力位的可能性增大。止损与仓位控制依然关键。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "Avalanche (AVAX) is currently hovering around $12.16, showing a slight 24-hour increase of 0.11%. This suggests a relatively stable market for the asset, with little significant momentum in either direction. However, the recent price action indicates that the market is consolidating between the key levels of $12.13 (low) and $12.17 (high). Given that price is holding within this range, we might expect more sideways movement unless a breakout occurs in either direction.\n\nThe lack of available RSI and Signal values limits our ability to perform a more nuanced analysis of momentum, but we can still assess key price levels. The 20-period Simple Moving Average (SMA) sits at $12.20, acting as a potential resistance point. If price pushes above this level, it may signal an attempt to reclaim bullish momentum. Conversely, failure to break above the SMA could lead to a test of lower support levels, especially near $12.13 or even $12.00 if bearish sentiment develops.\n\nMACD is currently negative at -0.0407, suggesting the absence of immediate upward pressure. However, this does not definitively indicate a bearish trend, as the MACD could quickly turn neutral or bullish if the price breaks above resistance. Traders should monitor for any divergence between price action and the MACD to anticipate potential trend reversals. Short-term traders could use this negative MACD reading as a caution sign against entering long positions without confirmation.\n\nGiven the range-bound action, a neutral stance could be beneficial unless a breakout or breakdown occurs. A close above the SMA at $12.20 would be a potential buy signal, while a drop below $12.13 could suggest further downside risk. In the absence of strong momentum indicators, waiting for a clear trend to emerge would likely be the most prudent approach."
+    }
+  }
+}
