@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-23T19:02:41.358Z",
+  "price": {
+    "close": "90378.38",
+    "high": "90435.63",
+    "low": "90377.29",
+    "open": "90413.59",
+    "change": "-0.04",
+    "datetime": "2026-01-23 19:00:00"
+  },
+  "indicators": {
+    "rsi": 62.11864,
+    "macd": 171.71431,
+    "macd_signal": 24.20038,
+    "sma20": 89545.8195
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前价格震荡整理，短期趋势谨慎观望]",
+      "content": "当前比特币/美元（BTC/USD）价格为90378.38，24小时微幅下跌0.04%。市场呈现震荡整理状态，价格在90377.29至90435.63之间波动，缺乏明显的方向性突破。短期内，BTC/USD可能继续维持这种窄幅波动，投资者需要关注更明确的技术信号来确认趋势变化。\n\n技术指标方面，MACD值为171.71431，然而Signal数据缺失，无法做出明确的背离或交叉信号分析。SMA(20)为89545.82，当前价格高于其均线水平，表明短期内价格可能有一定的支撑位。但由于RSI（相对强弱指数）缺失，无法判断市场的超买或超卖状态，需谨慎操作。\n\n支撑位方面，较为关键的支撑位在89545附近，一旦跌破该位置，可能会引发进一步下行。上方的阻力位在90435附近，如果价格突破该水平，可能会迎来短期反弹。但目前的震荡格局使得突破的可能性相对较低。\n\n综合来看，短期内比特币的市场情绪较为谨慎，建议投资者保持观望，等待价格突破支撑或阻力位后再做决策。若市场突破关键技术位，可考虑适度介入。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD market is currently displaying a relatively neutral short-term trend. The price is hovering around $90,378, with a minor 24-hour change of -0.04%. This slight dip indicates a consolidation phase after recent price movements. The current high/low range shows limited volatility, suggesting that Bitcoin might be taking a breather after the previous moves. The price remains above its 20-period simple moving average (SMA), which stands at $89,545, hinting at a bullish inclination in the near term, though no significant momentum is present at this moment.\n\nIn terms of technical indicators, the RSI(14) is unavailable, making it difficult to assess potential overbought or oversold conditions. The MACD value of 171.71 indicates that there may still be some bullish momentum present, but without a clear signal line, the strength of this momentum remains ambiguous. It would be beneficial for traders to keep an eye on the MACD in the coming hours, as a crossover could provide a clearer trend direction. Currently, the market remains indecisive, with the absence of strong directional signals.\n\nSupport and resistance levels are key to understanding where Bitcoin might head next. The immediate support appears to be around the low of the day, $90,378, and further support is likely to be found near the SMA(20) level of $89,545. If the price breaks below this level, the next significant support is expected around $88,000. On the upside, Bitcoin faces resistance at the recent high of $90,435. A sustained breakout above this level could trigger further bullish momentum, while failure to break above may keep the price range-bound.\n\nFor traders, it may be prudent to monitor price action closely for any signs of breakout or breakdown. A confirmed move above $90,435 could provide a buying opportunity, while a dip below $89,545 might signal a short-term bearish shift. Patience is key in this scenario, as the market is likely to remain choppy until more clear signals emerge from key indicators."
+    }
+  }
+}
