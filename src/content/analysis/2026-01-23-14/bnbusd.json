@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-01-23T15:00:17.695Z",
+  "price": {
+    "close": "887.28",
+    "high": "891",
+    "low": "883.1",
+    "open": "887.94",
+    "change": "-0.07",
+    "datetime": "2026-01-23 14:00:00"
+  },
+  "indicators": {
+    "rsi": 46.73201,
+    "macd": -0.18757099,
+    "macd_signal": 0.165258,
+    "sma20": 889.0685
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 887.28\\n- 24小时变化: -0.07%\\n- 高点/低点: 891 / 883.1\\n- RSI(14): N/A\\n- MACD: -0.18757099, Signal: N/A\\n- SMA(20): 889.068500\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：短线震荡偏弱\n\n当前价格接近短期均线且略低于20日SMA，短线趋势略显弱势，但价格仍在区间震荡整理。价格在891上方遇阻后回落，表明多头暂时乏力，空头尚未发力形成趋势性下跌。\n\n技术指标方面MACD仍为负值，显示下行动能略强，但缺少Signal值难以确认柱状图力度。RSI数据缺失，无法确认超卖状态，需等待更多动能确认指标以判断是否出现反转或续弱。\n\n支撑位关注短线低点883附近，其次看880整数位心理；阻力位首先是20日均线889一线，进一步上看891附近前高。若价格有效突破889上方，则震荡格局可能延续甚至转多。\n\n交易建议上短线谨慎观望为主，激进者可在883下方设置止损做空，目标看875；反弹至889-891区间可考虑轻仓短空，止损设在892上方，保持风险管理和资金控制。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 887.28\\n- 24h Change: -0.07%\\n- High/Low: 891 / 883.1\\n- RSI(14): N/A\\n- MACD: -0.18757099, Signal: N/A\\n- SMA(20): 889.068500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is currently exhibiting a **neutral to slightly bearish intraday bias** after stalling just below the 20‑period simple moving average at 889.07. Price action between 883 and 891 suggests consolidation in a **tight range**, with neither buyers nor sellers taking clear control. The latest slight negative change of -0.07% reflects this indecision. Watch for a break above 891 to signal renewed bullish momentum or a drop below 883 to validate sellers taking charge.\n\nMomentum indicators are offering **mixed signals**. With the RSI not available, the MACD print of -0.1876 suggests **weak bearish momentum**, although context matters: MACD below zero indicates prior bearish pressure, but without a signal line reading, crossover clarity is missing. The proximity of price to the SMA(20) suggests that the market is *testing the short‑term mean*, often a prelude to directional resolution. If MACD turns more negative on sustained downward moves, this would reinforce a bearish tilt.\n\nKey **support and resistance levels** are shaping up around 883 on the downside and 891–895 on the upside. A firm break and close above 895 would expose the 900 psychological mark, which could act as a magnet for upside interest. On the downside, a breach under 883 could trigger stops toward 875 and the next structural support near the recent swing lows. These levels provide clear reference points for managing risk and gauging trend commitment.\n\nFor traders, consider **range‑based strategies** while the market remains boxed in. Long entries nearer support with tight stops could work, targeting the upper boundary of the range. Conversely, short positions at resistance with stops above 895 may offer favorable risk/reward. Only a decisive breakout beyond these boundaries should shift bias toward trending strategies, with volume confirmation strengthening conviction in either direction."
+    }
+  }
+}
