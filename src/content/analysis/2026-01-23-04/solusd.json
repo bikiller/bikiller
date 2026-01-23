@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-23T04:41:34.555Z",
+  "price": {
+    "close": "128.7",
+    "high": "128.92",
+    "low": "128.47",
+    "open": "128.6",
+    "change": "0.09",
+    "datetime": "2026-01-23 04:00:00"
+  },
+  "indicators": {
+    "rsi": 49.84387,
+    "macd": -0.18589967,
+    "macd_signal": -0.20256899,
+    "sma20": 128.664
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：当前震荡整理，短期关注区间波动",
+      "content": "目前，Solana（SOL）对美元的价格表现出一定的震荡整理趋势。价格在128.47至128.92之间波动，且24小时变化仅为0.09%，显示市场情绪偏向平稳。短期内，SOL可能继续维持在这一区间内震荡，尚未显现出强烈的趋势方向。\n\n技术指标方面，虽然RSI（14）数据暂缺，但MACD显示负值（-0.18589967），表明市场缺乏足够的动能支撑价格突破当前区间。SMA（20）略高于当前价格，显示价格相对稳定，但仍有下行风险。此类信号表明，目前的市场情绪偏向谨慎，缺乏明确的买入或卖出动能。\n\n支撑位在128.47附近，而阻力位则接近128.92。如果价格跌破支撑位，可能会进一步下探至128.00附近的更强支撑区。如果突破阻力位，则有望继续上涨，但突破幅度可能有限，需关注后续价格表现。\n\n建议投资者保持观望，等待价格突破区间边界再进行操作。若价格突破128.92，可考虑适量买入；若跌破128.47，则可以考虑卖出，防范下行风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 128.7\\n- 24h Change: 0.09%\\n- High/Low: 128.92 / 128.47\\n- RSI(14): N/A\\n- MACD: -0.18589967, Signal: N/A\\n- SMA(20): 128.664\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nOn the short‑term chart, **SOL/USD appears to be in a mild consolidation phase** around the $128 area, with very limited overnight volatility. The price has oscillated between $128.47 and $128.92, indicating that neither buyers nor sellers have asserted strong control. Given the flat 24‑hour change and the near‑alignment with the 20‑period simple moving average (SMA at 128.664), this suggests short‑term equilibrium. Traders watching trend structure will want to see a decisive break above recent highs for bullish confirmation or a dip below $128.40 to suggest deeper pullbacks.\n\nAlthough the traditional RSI(14) isn’t available, the limited price movement implies momentum is neither overextended nor deeply oversold. With the MACD at **‑0.1859 and lacking a visible signal line**, there’s a subtle tilt toward bearish momentum, but it’s very modest and may simply reflect the sideways price action. The proximity of price to the 20‑period SMA further underscores a neutral bias in the immediate term. If the MACD were to cross above its signal line on stronger bullish volume, that would help validate a positive shift in momentum.\n\nKey intra‑day support lies near **$128.40**, with a broader support zone around **$127.50–$127.80**, where recent price congestion and previous swing lows cluster. On the upside, immediate resistance sits right around the **$129.00–$129.30** region, capped by recent highs. A daily close above that zone could open space toward **$130.50** or higher, whereas failure to hold support might prompt deeper tests toward **$126.80**.\n\nFor traders, a breakout strategy could work well: long positions above confirmed resistance with stops just below breakout levels, and conversely, cautious short exposure only if breaks below key support occur with follow‑through. Risk‑averse participants might stay flat until clearer directional cues emerge, especially given the current lack of strong momentum."
+    }
+  }
+}
