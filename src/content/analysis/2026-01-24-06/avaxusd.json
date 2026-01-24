@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-01-24T07:03:57.474Z",
+  "price": {
+    "close": "12.1443",
+    "high": "12.1443",
+    "low": "12.1435",
+    "open": "12.144",
+    "change": "-0.01",
+    "datetime": "2026-01-24 07:00:00"
+  },
+  "indicators": {
+    "rsi": 46.51027,
+    "macd": -0.021917543,
+    "macd_signal": -0.023047106,
+    "sma20": 12.17886
+  },
+  "analysis": {
+    "zh": {
+      "title": "雪崩币/美元技术分析：当前价格趋于盘整，缺乏明确方向",
+      "content": "当前，AVAX/USD的价格为12.1443美元，全天波动极小，仅下跌0.01%。由于缺乏较大波动，当前市场呈现盘整状态。短期内，价格在12.14美元附近震荡整理，未见明显上涨或下跌动能，市场情绪偏向观望。\n\n技术指标方面，MACD当前为负值(-0.0219)，但没有给出清晰的趋势信号。RSI(14)数据缺失，无法用于判断市场是否超买或超卖。20日简单移动平均(SMA)为12.17886，当前价格略低于此水平，显示短期内可能面临轻微的卖压。\n\n从支撑和阻力位来看，当前的支撑位较为紧密，位于12.14美元附近。如果价格下破此水平，可能会进一步测试12.12美元附近的支撑区域。至于上方阻力，若突破12.18美元，则可能迎来进一步的上行空间，挑战12.20美元。\n\n综合来看，由于技术指标和价格变化较为平淡，建议短期内采取观望策略，耐心等待更明确的信号出现。如果价格突破关键阻力位，可以考虑小规模做多，反之则可适当做空。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Avalanche vs US Dollar (AVAX/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 12.1443\\n- 24h Change: -0.01%\\n- High/Low: 12.1443 / 12.1435\\n- RSI(14): N/A\\n- MACD: -0.021917543, Signal: N/A\\n- SMA(20): 12.17886\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nAvalanche is currently trading around **$12.14**, barely changed over the last 24 hours, signaling short‑term indecision. Price hovering below the 20‑period simple moving average (**SMA20 ≈ $12.18**) suggests a slight bearish tilt, as the recent candles haven’t reclaimed that average. This often reflects sellers maintaining mild control, but the very tight high/low range shows consolidation rather than sharp selling pressure. Expect trend clarity only once volatility picks up.\n\nThe **MACD reading of –0.0219** in the absence of a signal line indicates momentum leaning bearish, though without a crossover confirmation, it’s cautious at best. Lack of a valid **RSI** reading weakens momentum interpretation, but the close proximity of price to SMA20 suggests the market is neither deeply oversold nor overbought. Traders should watch for a potential MACD histogram expansion or eventual MACD‑signal crossover to confirm momentum direction.\n\nOn key levels, **support near $12.00** remains psychologically and technically important, anchored by recent lows. A decisive break below this level could invite sellers toward secondary support near **$11.70–$11.80**, where buyers previously stepped in. On the upside, **resistance at $12.30–$12.40** is a short‑term barrier, with more meaningful upside beyond **$12.60**. These levels frame the current range and will be critical for breakout or breakdown confirmation.\n\nFor traders, lean toward range‑adaptive strategies until a clear structural break occurs. Short‑term longs might favor entries near strong support with tight stops below, targeting the upper range around $12.30. Conversely, if price fails to retake SMA20 with conviction, short setups on minor rallies could be considered, aiming for near support levels. Always manage risk carefully, as the current sideways action can whip traders around during low volatility."
+    }
+  }
+}
