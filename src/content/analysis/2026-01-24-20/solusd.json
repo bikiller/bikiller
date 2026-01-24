@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-24T20:20:28.789Z",
+  "price": {
+    "close": "127.26",
+    "high": "127.31",
+    "low": "127.11",
+    "open": "127.11",
+    "change": "0.12",
+    "datetime": "2026-01-24 20:00:00"
+  },
+  "indicators": {
+    "rsi": 50.14754,
+    "macd": -0.14541963,
+    "macd_signal": -0.19520125,
+    "sma20": 127.1705
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前SOL/USD的价格为127.26美元，近期呈现窄幅震荡走势，24小时变化幅度仅为0.12%。价格在127.11至127.31美元区间波动，显示出市场缺乏明显的方向性。在没有强烈趋势的情况下，短期内可能继续维持震荡整理状态。\n\n技术指标方面，MACD目前呈现负值(-0.14541963)，显示出弱势的市场情绪，然而由于Signal线缺失，无法进一步确认趋势强度。SMA(20)处于127.17附近，价格略高于其支撑水平，表明市场尚未形成明显的下行压力。此外，RSI数据缺失，无法进行超买超卖的进一步分析。\n\n支撑位位于127.10美元附近，而阻力位则在127.30美元至127.40美元区域。若价格突破127.40美元的阻力，可能会引发短期上涨，进一步测试128.00美元的水平；若跌破127.10美元支撑，则可能出现回调至126.00美元附近的风险。\n\n综合来看，当前市场缺乏明确的趋势指引，建议交易者采取观望策略，待价格突破关键支撑或阻力位后再做决定。短期内，保持灵活应对可能的突破机会，避免在震荡区间内盲目操作。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 127.26\\n- 24h Change: 0.12%\\n- High/Low: 127.31 / 127.11\\n- RSI(14): N/A\\n- MACD: -0.14541963, Signal: N/A\\n- SMA(20): 127.17050\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$127.26** shows a **mildly bullish tone** in the very short term, anchored by a narrow 24‑hour range between **$127.11 and $127.31**. The tight trading band suggests market participants are indecisive, possibly awaiting catalysts. The fact that price sits slightly above the **20‑period simple moving average (SMA)** indicates minor upward pressure, though the lack of wider trend momentum keeps the overall structure neutral for now.\n\nLooking at available indicators, the **MACD reading of –0.1454** hints at underlying weakness in upward momentum, even if immediate price changes are muted. Without a corresponding signal line or RSI, we treat these signals cautiously. Generally, a negative MACD below zero can signal that recent price action isn’t strong enough to confirm a sustained rise. Traders might want to wait for more confirming signals — a cross back toward positive territory or a meaningful uptick in volume — before assuming bullish continuation.\n\nKey **support** sits near the **$125.00–$126.00** area, where buyers previously stepped in during short‑term pullbacks. A break below that zone could expose deeper support at **$122.00**, increasing the risk of a more extended retracement. On the upside, immediate **resistance** sits around the **$130.00** mark, with a more meaningful barrier near **$135.00** — a level that, if surpassed with conviction, could attract additional buying interest.\n\nFor **trading suggestions**, conservative traders may lean toward range‑based strategies, buying closer to support and trimming near resistance, while watching volume to confirm moves. More aggressive participants could consider trend continuation plays only if MACD starts to turn bullish and price decisively closes above **$130.00**. Stop losses should be placed just below support to manage risk in case downside accelerates."
+    }
+  }
+}

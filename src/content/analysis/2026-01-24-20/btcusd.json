@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-24T20:18:23.219Z",
+  "price": {
+    "close": "89247.23",
+    "high": "89247.23",
+    "low": "89183.91",
+    "open": "89183.91",
+    "change": "0.07",
+    "datetime": "2026-01-24 20:00:00"
+  },
+  "indicators": {
+    "rsi": 45.44241,
+    "macd": -85.069632,
+    "macd_signal": -62.91785,
+    "sma20": 89403.294
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，缺乏明确方向",
+      "content": "当前比特币/美元（BTC/USD）价格保持在89247.23附近，24小时波动幅度较小，变动仅为0.07%。目前市场呈现震荡整理格局，未能突破明显的支撑或阻力，显示出多空力量的均衡。高点和低点接近，意味着短期内缺乏明确的方向。\n\n从技术指标来看，RSI(14)未能提供明确的超买或超卖信号。MACD处于负值区间，且信号线数据缺失，暗示市场可能仍处于空头压力下。SMA(20)略微高于当前价格，提供了一个潜在的短期阻力位，若价格突破该水平，可能会恢复上涨动能。\n\n支撑位方面，当前低点89183.91可作为短期支撑，若价格下破此位置，可能会进一步下探。反之，若价格突破SMA(20)所在的89403附近，将形成短期的强力阻力位，突破后可能会开启上涨空间。因此，投资者应关注这些关键价位的突破情况。\n\n建议保持观望，等待价格突破支撑或阻力位后再做进一步操作。如果突破89500区间，则可考虑追多；若跌破89180，则可考虑做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of $89,247.23 has shown a slight 24-hour change of 0.07%, indicating a largely neutral market in the short term. With the price hovering just above the previous low of $89,183.91, this suggests limited volatility at the moment. However, the inability to break through the key SMA(20) of $89,403.29 points to potential consolidation in the near future. The flat movement suggests that market participants are waiting for a catalyst, whether positive or negative, before making significant moves.\n\nThe MACD reading of -85.069632, while not accompanied by a signal line value, indicates that the short-term momentum is in the bearish zone. A closer look at this indicator suggests that there could be selling pressure looming in the market. Traders should be cautious about entering long positions at current levels unless there's confirmation of upward movement. However, a strong move above the SMA(20) could signal a potential reversal, making it a key resistance level to watch.\n\nSupport for Bitcoin is found around the recent low of $89,183.91, a level that could act as a buffer against any sharp declines. If the price falls below this level, further support can be anticipated closer to the $89,000 mark. On the other hand, any attempt to break through the $89,400 resistance level would need strong volume to confirm a shift in momentum. Such a move could bring a test of higher resistance levels, around $90,000.\n\nIn terms of trading suggestions, the current market seems to favor caution due to the lack of clear momentum. A potential short position might be considered if the price fails to break the SMA(20) resistance and shows further weakness, especially if support at $89,183.91 breaks. Alternatively, a break above $89,400 could present a solid long entry point, with targets set around $90,000 or higher."
+    }
+  }
+}
