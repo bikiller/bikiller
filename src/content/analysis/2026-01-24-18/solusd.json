@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-24T18:59:48.816Z",
+  "price": {
+    "close": "127.2",
+    "high": "127.28",
+    "low": "126.94",
+    "open": "127.03",
+    "change": "0.12",
+    "datetime": "2026-01-24 18:00:00"
+  },
+  "indicators": {
+    "rsi": 49.16565,
+    "macd": -0.19235115,
+    "macd_signal": -0.21584643,
+    "sma20": 127.1785
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[市场保持震荡，短期偏向整理]",
+      "content": "当前Solana（SOL）对美元的价格保持在127.2附近，波动幅度较小，24小时变化仅为0.12%。市场缺乏明显的趋势，价格在127.28和126.94之间震荡。虽然RSI和MACD数据暂缺，但通过SMA(20)的表现来看，市场在20日简单移动平均线附近波动，表明短期走势偏平稳。\n\n技术面上，SMA(20)为127.17850，当前价格略高于此均线，暗示短期市场仍偏向震荡整理。MACD的负值（-0.192）表明短期内可能存在一定的卖压，但由于没有明显的信号线交叉，短期内方向尚不明确。RSI缺失也让短期动量难以判断。\n\n在支撑与阻力方面，当前价格接近127.28的高点，若突破此处，可能会挑战128.5附近的阻力位；下方支撑位则位于126.94，跌破后可能会测试126.0水平。若价格突破127.28并站稳，可考虑轻仓看涨；如果跌破126.94，可能需要防守卖出。\n\n综合来看，当前市场走势偏向震荡，短期内建议保持观望，等待价格突破关键水平后再做决策。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The Solana market is currently in a relatively neutral state, with the latest price at $127.2, reflecting a slight 24-hour change of +0.12%. This indicates minimal short-term volatility, as the price remains within a narrow range between the high of $127.28 and the low of $126.94. The market shows no immediate signs of strong bullish or bearish momentum. Given the price's stability, it suggests consolidation around the current levels. Traders should watch for a breakout in either direction to signal a more defined trend.\n\nSolana's RSI(14) is unavailable, but the MACD shows a slightly negative value of -0.1923, which suggests a minor bearish bias in the short term. A negative MACD reading typically implies a lack of upward momentum, but without the signal line data, this indication remains inconclusive. The SMA(20) sits at $127.18, which aligns closely with the current market price, reinforcing the sense of consolidation. A move above this level could trigger a short-term bullish move, while a drop below could push the price toward support levels.\n\nKey support for SOL/USD lies at the lower end of the current trading range, around $126.94. This level may act as a strong barrier against further downside, with potential for a reversal if tested. On the upside, $127.28 represents immediate resistance. A break above this resistance could open the door to a potential test of higher levels, though the broader trend remains unclear without further confirmation from additional indicators.\n\nGiven the current market structure, a wait-and-see approach is advised. If the price breaks above $127.28 with increasing volume, traders could look for opportunities to enter long positions. Conversely, a fall below $126.94 might signal a potential bearish move. Risk management is key, with tight stop-loss orders to mitigate potential losses."
+    }
+  }
+}
