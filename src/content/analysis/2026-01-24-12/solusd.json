@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-24T12:36:05.652Z",
+  "price": {
+    "close": "127.1",
+    "high": "127.19",
+    "low": "126.88",
+    "open": "126.98",
+    "change": "0.12",
+    "datetime": "2026-01-24 12:00:00"
+  },
+  "indicators": {
+    "rsi": 45.94988,
+    "macd": -0.2212312,
+    "macd_signal": -0.20226365,
+    "sma20": 127.415
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前SOL/USD处于震荡整理区间，价格在127.1附近波动。近期价格波动幅度较小，日内变化仅为0.12%。短期内未见明显的上行或下行趋势，市场等待明确的方向性突破。整体来看，当前价格接近20日简单移动平均线(SMA)，表现出一定的技术支撑。\n\nRSI和MACD指标暂未提供明确的买卖信号，RSI值未能计算，MACD为负值(-0.22123120)，表明市场短期内可能缺乏上涨动力。虽然MACD未出现明显的背离，但仍需关注其走势变化，以判断市场情绪的转变。\n\n在支撑和阻力方面，127.19为上行阻力位，而126.88则是下方支撑位置。如果价格突破127.19，可能会迎来进一步的上涨行情；反之，如果跌破126.88支撑，可能会进入更深的回调区间。\n\n交易建议方面，建议等待价格突破127.19阻力位或跌破126.88支撑位后再做决策。若价格持续震荡整理，暂时可考虑观望或采取区间交易策略。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current price of Solana (SOL) against the US Dollar is at $127.1, reflecting a slight positive movement over the past 24 hours with a 0.12% change. This modest rise suggests that Solana is experiencing low volatility within a narrow range, oscillating between the day’s high of $127.19 and low of $126.88. Given the price stability, the market seems to be in a consolidation phase, which could imply an impending breakout or a continuation within this range.\n\nWith the absence of an RSI value, we cannot directly assess overbought or oversold conditions. The MACD reading of -0.22123120 indicates that the momentum is slightly bearish, although the lack of a Signal line limits our ability to gauge trend strength fully. Traders should monitor for any shifts in the MACD to see if the bearish momentum intensifies or weakens. In this context, caution is advised until clearer bullish or bearish trends emerge.\n\nThe 20-period Simple Moving Average (SMA) is currently at $127.415, which is near the current price, suggesting a balanced market sentiment. The price is fluctuating just below this moving average, which often acts as a resistance level in the short term. If SOL can break above this level and sustain it, the next resistance level could be around $128.30, aligning with the recent highs. Conversely, a failure to maintain above the SMA could lead to further testing of support near $126.88, and potentially lower levels if bearish momentum continues.\n\nTraders might consider waiting for a confirmed breakout above the SMA or a bounce from the support level at $126.88 for potential long positions. Short opportunities may present themselves if the price fails to hold above the SMA, targeting a revisit to the lower support zone. As always, traders should remain cautious and use stop-loss orders to manage risk given the current market's low volatility and unclear momentum direction."
+    }
+  }
+}

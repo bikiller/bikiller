@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-24T12:33:49.529Z",
+  "price": {
+    "close": "89443.99",
+    "high": "89450.01",
+    "low": "89388.62",
+    "open": "89450",
+    "change": "-0.01",
+    "datetime": "2026-01-24 12:00:00"
+  },
+  "indicators": {
+    "rsi": 48.030734,
+    "macd": -10.78207,
+    "macd_signal": 7.36031,
+    "sma20": 89604.241
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期波动]",
+      "content": "当前比特币/美元（BTC/USD）价格接近89,443.99美元，近期维持小幅震荡。价格略有下跌（24小时变动-0.01%），高点与低点分别为89,450.01和89,388.62，显示出市场的整理状态。由于RSI和MACD缺乏相关数据，我们无法全面分析动能，但可以结合SMA(20)进一步观察短期趋势。\n\n从技术指标来看，SMA(20)为89,604.24，表明价格略低于短期均线，暗示市场偏向下行压力。MACD数值为-10.78，虽然没有Signal线作对比，但负值显示出当前市场尚未形成强势的买入信号。市场可能继续整理，突破或回调的方向尚不明朗。\n\n支撑位方面，若价格进一步下探，89,388.62为较强支撑，若跌破此价位，可能会继续向更低区域发展。阻力位则位于89,604附近，若突破该区域，可能为进一步上涨提供动力。在当前震荡区间内，价格有可能反复震荡。\n\n建议短线交易者保持谨慎，避免在当前震荡区间内进行激进交易。考虑到目前缺乏明确的趋势信号，建议等待突破关键支撑或阻力位后再做决策。对于长期投资者，可以关注低位支撑区间，适时布局。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market remains in a relatively neutral state, with the current price at $89,443.99 and a minimal 24-hour change of -0.01%. This slight dip suggests a lack of significant volatility or strong directional momentum. The price is trading just below the 20-period simple moving average (SMA) of $89,604.24, indicating a minor bearish trend in the short-term. However, the market’s low volatility implies that traders may be waiting for a clear catalyst to spark a more pronounced price movement.\n\nFrom a technical standpoint, Bitcoin's current price is trading between the day's high of $89,450.01 and low of $89,388.62. These levels create a range-bound market, offering potential short-term support at $89,388.62 and resistance around $89,450.01. A break above the resistance could trigger further upside, testing higher levels, potentially approaching the previous local high, while a breakdown below the support may see price targets around $89,200 or lower.\n\nRegarding indicators, the MACD shows a negative value of -10.78207, suggesting that downward momentum is present, though the absence of a signal line makes this reading inconclusive for trend confirmation. RSI values are unavailable, which limits insight into overbought or oversold conditions. However, the market's overall lethargy, coupled with the MACD's negative reading, points to caution rather than aggressive positions.\n\nTraders should monitor price movements closely, particularly at the support and resistance zones. If Bitcoin tests and successfully breaks above resistance, it may offer a buying opportunity with targets near $90,000. Conversely, a breakdown below support could present a shorting opportunity with targets near $89,200 or lower, depending on market conditions. As always, careful risk management is essential in such a volatile market."
+    }
+  }
+}
