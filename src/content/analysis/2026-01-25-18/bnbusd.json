@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-01-25T18:58:54.919Z",
+  "price": {
+    "close": "863.47",
+    "high": "870.02",
+    "low": "862",
+    "open": "869.47",
+    "change": "-0.69",
+    "datetime": "2026-01-25 18:00:00"
+  },
+  "indicators": {
+    "rsi": 15.5365,
+    "macd": -4.6563,
+    "macd_signal": -3.22525,
+    "sma20": 879.607
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：震荡整理，短期下行风险",
+      "content": "当前，BNB/USD正处于震荡整理区间，价格在862-870区间波动。短期来看，市场缺乏强烈的趋势信号，且24小时内价格变化较小，仅为-0.69%。价格接近当前区间的低点，表明可能存在一定的下行压力。\n\n技术指标方面，MACD值为负（-4.65630），表明市场可能存在卖压，短期内不排除进一步回调的风险。虽然RSI(14)数据不可用，但结合目前的MACD情况来看，市场未显示出强烈的买入信号。SMA(20)为879.607，略高于当前价格，进一步确认了当前的下行压力。\n\n在支撑位方面，862附近是短期内关键的支撑位置，一旦跌破可能会进一步考验855的支撑。阻力位则在870附近，如果价格突破该位置，可能会迎来一波短期反弹，目标看向880附近。\n\n基于当前的市场结构，建议谨慎操作，若价格突破870可尝试短期做多，但若跌破862应考虑做空策略。保持关注价格变动，适时调整策略。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 863.47\\n- 24h Change: -0.69%\\n- High/Low: 870.02 / 862\\n- RSI(14): N/A\\n- MACD: -4.65630, Signal: N/A\\n- SMA(20): 879.60700\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s short-term trend remains **mildly bearish** as price oscillates below the 20‑period simple moving average at **~879.6**, signaling that recent strength has faded. The latest price near **$863.5**, coupled with a modest 24‑hour decline, suggests sellers hold slight control. However, the tight high/low range (870.0/862.0) hints at **consolidation** rather than a sharp sell‑off, with the market pausing before a decisive move.\n\nMomentum indicators paint a cautious picture. The **MACD at –4.66** shows ongoing bearish pressure, even though the absence of the signal line prevents a full histogram readout. Without a current RSI reading, we rely on price action and moving averages; the dip below the SMA20 underscores that buyers have not reclaimed the near‑term initiative. Traders should watch for a **MACD crossover** toward positive territory as an early sign of buyer re‑entry.\n\nKey support levels linger near **$850**, followed by the psychologically important **$800 zone**—a confluence of prior swing lows. On the upside, immediate resistance sits around **$880–$885**, with a break and close above **$900** needed to shift sentiment more bullishly. Given the recent range contraction, breakouts from these levels may be sharper, so size positions accordingly and use **stop losses** to manage risk.\n\nFor trading suggestions, consider that trend confirmation is vital: longs might be appropriate only after reclaiming **$880–$885** with volume, while short opportunities could target support near **$850** if price fails multiple attempts to climb. In sideways conditions, a range‑trading approach—buying near support and trimming near resistance—can work, but remain nimble as volatility picks up once key levels are tested."
+    }
+  }
+}
