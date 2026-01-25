@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-25T01:30:16.640Z",
+  "price": {
+    "close": "2953.98",
+    "high": "2960.01",
+    "low": "2953.29",
+    "open": "2958.54",
+    "change": "-0.15",
+    "datetime": "2026-01-25 01:00:00"
+  },
+  "indicators": {
+    "rsi": 47.26892,
+    "macd": -0.27074247,
+    "macd_signal": 0.25253229,
+    "sma20": 2958.756
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前，ETH/USD呈现震荡整理态势，价格在2950附近波动，未显示出强烈的上涨或下跌趋势。价格在过去24小时内变化较小，仅下跌了0.15%。短期内，市场缺乏明确的动能，因此，价格可能继续在此区间内波动，等待进一步的市场指引。\n\n从技术指标来看，SMA(20)目前为2958.76，价格略微低于该水平，表明短期内市场情绪偏弱。然而，RSI和MACD数据未显示出明确的超买或超卖信号，显示市场缺乏强烈的买卖压力。MACD为负值，也暗示可能存在下行风险，但缺乏明确的卖出信号。\n\n支撑位在2953附近，若价格跌破该水平，可能进一步测试更低的支撑区域，如2930和2900。上方阻力位在2960附近，突破该水平可能导致价格上涨至2980和3000的关键区域。若突破这些阻力位，市场可能迎来更强的买盘。\n\n在操作策略上，当前的市场环境建议投资者保持观望，避免贸然入场。短期内，建议关注价格是否突破支撑或阻力位，若突破则可考虑适时调整仓位。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently experiencing a narrow price range, oscillating between 2953.29 and 2960.01. The price of 2953.98 suggests a market in consolidation, with minimal momentum in either direction. The slight 24-hour decline of -0.15% reflects a period of indecision, where buyers and sellers are finding equilibrium. The proximity to the 20-period Simple Moving Average (SMA) at 2958.76 suggests that the market is somewhat balanced, but any decisive move beyond this level could indicate a shift in sentiment.\n\nThe MACD indicator is currently negative at -0.27074247, which implies a bearish bias. However, without the signal line data, it's difficult to gauge if this bearish momentum is accelerating or slowing. A more substantial negative MACD reading would likely suggest further downside potential, while a cross above the zero line could indicate the start of a recovery. Traders should monitor for any bullish divergence that could signal a potential reversal, as a strong move above the SMA could encourage buying interest.\n\nSupport for ETH/USD appears near the 2953.29 level, and a break below this could open the door to further downside towards 2900 or even 2800. On the resistance side, 2960.01 stands as the immediate barrier. A sustained move above this level may trigger bullish momentum, potentially driving the price towards higher targets like 3000. These levels are crucial for traders looking to position themselves in either direction.\n\nGiven the current market environment, a cautious approach is advised. If Ethereum holds above the SMA and shows signs of recovering momentum, buying near support may offer opportunities. Conversely, a clear break below 2953 could lead to shorting opportunities. Traders should stay alert to any changes in momentum or new patterns emerging, as market conditions remain fluid."
+    }
+  }
+}

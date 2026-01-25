@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-25T01:29:34.870Z",
+  "price": {
+    "close": "89086",
+    "high": "89177.95",
+    "low": "89061.92",
+    "open": "89172.71",
+    "change": "-0.10",
+    "datetime": "2026-01-25 01:00:00"
+  },
+  "indicators": {
+    "rsi": 41.7242,
+    "macd": -92.59336,
+    "macd_signal": -78.60865,
+    "sma20": 89297.2815
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，需关注突破信号]",
+      "content": "当前比特币/美元（BTC/USD）价格处于89086美元附近，市场表现出轻微的震荡整理。24小时价格变化为-0.10%，高点89177.95美元、低点89061.92美元。虽然没有最新的RSI数据，但MACD处于负值区域，显示出短期卖压较为明显。当前SMA(20)位于89297.28美元，接近当前价格，表明市场在此区间保持震荡。\n\n从技术指标来看，MACD处于负值，意味着市场仍有一定的空头动能，但未见明显的趋势形成。SMA(20)略高于当前价格，提示市场可能有短期的回升压力，但需要关注突破关键阻力位的信号。RSI虽然缺失，但如果恢复数据，可以进一步确认超买或超卖情况。\n\n在支撑方面，当前的低点89061.92美元可能成为短期支撑位，若跌破此位，可能会进一步回撤至88000美元附近。阻力位则在SMA(20)的89297.28美元附近，若突破此处，可能会迎来短期上涨行情，挑战89500美元或更高位置。\n\n建议短期内可关注市场的震荡区间内操作，等待突破或确认支撑位。若价格持续在89000美元上下波动，观望为主；若出现突破信号，可考虑适量进场。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has been experiencing a narrow range between $89,061.92 and $89,177.95 over the last 24 hours, with a minor decline of 0.10%. This suggests a relatively stable market but one that is in a consolidation phase, reflecting indecision among traders. Without clear directional momentum, Bitcoin is likely to maintain its current range unless a decisive breakout occurs. The current price is below the 20-period Simple Moving Average (SMA), which is at $89,297.28, indicating a slight bearish tilt.\n\nThe MACD reading of -92.59336 indicates a bearish momentum, though the absence of a signal line limits a clear interpretation of the trend. A negative MACD implies downward pressure, but until a potential crossover or signal line data is available, predicting a strong trend is difficult. The RSI data is unavailable at the moment, leaving an incomplete picture of market overbought or oversold conditions. Therefore, a cautious approach is recommended until more data becomes available to confirm strength in either direction.\n\nThe primary support level is situated at the low of $89,061.92, which has been tested multiple times in recent hours, showing resilience. A break below this level could see a further downside toward $88,500, an area that could act as a more solid support based on previous price action. On the other hand, resistance appears near $89,177.95, and a break above this level could suggest a short-term bullish move, possibly reaching the SMA at $89,297.28. \n\nGiven the current market structure, traders might consider waiting for a confirmed breakout above $89,177.95 for a long position or a breakdown below $89,061.92 for short-term selling opportunities. However, it's essential to remain cautious, as the market's low volatility and lack of clear trend signals might lead to whipsaws or sideways action in the short term."
+    }
+  }
+}
