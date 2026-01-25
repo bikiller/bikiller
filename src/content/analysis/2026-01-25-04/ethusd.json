@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-25T04:07:58.160Z",
+  "price": {
+    "close": "2943.29",
+    "high": "2954.04",
+    "low": "2937.3",
+    "open": "2953.32",
+    "change": "-0.34",
+    "datetime": "2026-01-25 03:00:00"
+  },
+  "indicators": {
+    "rsi": 40.75936,
+    "macd": -1.58462,
+    "macd_signal": -0.22685334,
+    "sma20": 2957.6945
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理中，短期偏弱",
+      "content": "目前ETH/USD处于震荡整理状态，价格在2937.3至2954.04区间波动。尽管没有明显的趋势突破，市场情绪保持谨慎。由于24小时变化较小（-0.34%），市场缺乏强烈的买盘或卖盘动力，交易者普遍观望。\n\n技术指标方面，MACD显示为负值（-1.58462），暗示短期内价格可能偏向下行。然而，由于缺乏明确的信号线交叉，市场尚未确认下行趋势。SMA(20)保持在2957.69附近，这为价格提供了一定的阻力水平。如果价格突破该水平，可能出现短期反弹。\n\n当前的支撑位大致在2937.3附近，若价格跌破该支撑位，可能进一步下探至更低区域。阻力位位于2954.04，突破此价位可能引发短期反弹。RSI数据缺失，无法提供超买或超卖的判断依据，但结合当前市场表现，ETH/USD短期内可能继续保持区间震荡。\n\n交易建议方面，建议短期内采取观望态度，等待价格突破区间关键支撑或阻力位后再做决策。如果突破2954.04，考虑短期多单；若跌破2937.3，则可考虑做空操作。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum has shown a slight bearish bias over the past 24 hours, with a modest decrease of 0.34%. The price is trading around the $2943.29 mark, which is very close to its daily low of $2937.3. Given the high and low range of $2954.04 to $2937.3, ETH appears to be consolidating within a tight range. This price action suggests indecision in the market, with neither the bulls nor bears fully in control. However, the proximity of price to the lower boundary may indicate that the current market sentiment leans slightly bearish in the short term.\n\nThe absence of an RSI reading at this moment makes it challenging to gauge overbought or oversold conditions. Nevertheless, the MACD reading of -1.58462 suggests that momentum is currently negative, which is a key signal of potential downside continuation if it persists. Without the signal line data, the MACD does not provide a clear indication of any imminent bullish reversal. This bearish momentum, coupled with the flat market action, could lead to a further decline if it breaks the support level around $2937. A retest of this level would likely confirm a bearish trend continuation.\n\nLooking at support and resistance, the immediate support is seen at $2937.3, with the next significant support around the $2900 area. If ETH breaks below this, further downside could lead toward $2800. On the resistance side, the price faces initial resistance near $2954.04, and beyond this level, a challenge at $3000 is anticipated. Traders should be cautious with entries until price action breaks clearly above resistance or below support. A confirmation of these levels would provide a clearer trend direction.\n\nIn terms of trading strategy, it may be prudent to adopt a cautious approach, focusing on short-term moves. A break below the $2937 support would open the door for a potential sell, while a reclaim of the $2954 resistance might provide a buy signal. Given the current volatility, utilizing tight stop losses is recommended to manage risk effectively."
+    }
+  }
+}
