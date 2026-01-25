@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-01-25T10:55:05.335Z",
+  "price": {
+    "close": "882.26",
+    "high": "883.25",
+    "low": "880.4",
+    "open": "881.18",
+    "change": "0.12",
+    "datetime": "2026-01-25 10:00:00"
+  },
+  "indicators": {
+    "rsi": 40.18139,
+    "macd": -2.62932,
+    "macd_signal": -2.30842,
+    "sma20": 884.913
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[震荡整理，短期关注区间波动]",
+      "content": "目前BNB/USD的价格处于882.26，表现出震荡整理的态势，价格波动较小。24小时内价格变化仅为0.12%，呈现出缺乏强烈趋势的特征。当前价格在高点883.25与低点880.4之间震荡，表明市场缺乏明确的方向性。短期来看，价格可能会继续在这一区间内波动。\n\n从技术指标角度看，MACD指标处于负值区域，值为-2.62932，显示出一定的卖压，但目前Signal线未显示，表明市场情绪尚未极端化。RSI指标暂时缺失，无法提供明确的超买或超卖信号。SMA(20)为884.913，当前价格略低于此均线，表明短期内可能存在一定的下行压力。\n\n支撑位在880.4附近，如果价格突破该支撑位，可能进一步下探更低区域，下一支撑位大致在876-878区间。阻力位则在883.25附近，如果价格突破该阻力位，可能测试更高价位，约888-890区域。整体上，市场趋势不明确，建议短线交易者关注区间波动。\n\n在此情况下，短期交易者可在880.4至883.25之间寻找交易机会。突破880.4可考虑做空，突破883.25则可考虑做多，但需留意市场波动性，避免过度追高或追低。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 882.26\\n- 24h Change: 0.12%\\n- High/Low: 883.25 / 880.4\\n- RSI(14): N/A\\n- MACD: -2.62932, Signal: N/A\\n- SMA(20): 884.91300\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB’s short‑term trend shows mild consolidation around the **$880–$885** zone. The latest price at **$882.26** sits just below the **20‑period SMA (~$884.91)**, suggesting near‑term weakness relative to the short‑term average. Price action lacks strong directional conviction, with tight range highs and lows indicating equilibrium between buyers and sellers. A clear break above **$890** could signal renewed bullish momentum, while a sustained drop below **$870** may validate a deeper correction.\n\nWith the **MACD currently negative (-2.63)** and the signal line unavailable, we infer bearish momentum remains present but not accelerating. The absence of an RSI reading hampers overbought/oversold context, yet subdued price movement implies neither extreme has been reached. Traders should watch for any MACD histogram expansion — a rising histogram from negative territory could precede a bullish crossover, improving short‑term sentiment. Conversely, further MACD deterioration warns of increasing downside pressure.\n\nKey support levels to monitor include **$875** and **$860**, with the former acting as immediate defense for bulls. A breakdown below **$860** could open the door toward **$840** and **$820**. On the upside, resistance at **$890** and then **$900–$910** remains critical; reclaiming these levels with strong volume could attract fresh buyers. Volume compression near support suggests the market is waiting for a catalyst to commit in either direction.\n\nGiven current conditions, cautious traders might favor range‑bound strategies — buying near support with tight stops and scaling out toward resistance. Aggressive traders could consider long entries on a confirmed break and close above **$890**, targeting **$900+** with risk defined beneath recent swing lows. If **$870** loses support, short positions with stops above **$880** could capture a deeper pullback. Always confirm signals with volume and broader market context."
+    }
+  }
+}
