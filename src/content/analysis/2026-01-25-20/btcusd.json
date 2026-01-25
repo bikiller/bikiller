@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-25T20:20:06.551Z",
+  "price": {
+    "close": "86350.79",
+    "high": "86623.43",
+    "low": "86265.39",
+    "open": "86391.94",
+    "change": "-0.05",
+    "datetime": "2026-01-25 20:00:00"
+  },
+  "indicators": {
+    "rsi": 17.085497,
+    "macd": -570.0091395,
+    "macd_signal": -355.54663,
+    "sma20": 88262.6565
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "目前，BTC/USD的价格在86350.79附近震荡整理，24小时变化为-0.05%，显示出市场的观望情绪。价格未能突破88262.65650的20日SMA，表明短期内可能面临压力。整体趋势上，市场未能显示出明确的上涨动能，可能进入短期的盘整区间。\n\n技术指标方面，MACD显示负值（-570.0091395），但尚未出现明确的卖出信号，表明市场动能相对疲软。由于RSI数据缺失，暂时无法确认是否处于超买或超卖状态。因此，短期内走势仍需关注MACD和价格的进一步变化。\n\n支撑位方面，86265.39是目前的关键支撑点，若跌破该位置，价格可能进一步下探至86000附近。而在上方，阻力位位于86623.43附近，若突破该点位，则可能迎来短期的反弹。然而，突破SMA(20)的88262.65650后，市场有望恢复更多上行动能。\n\n交易建议上，当前市场处于整理阶段，建议投资者保持谨慎。若价格跌破支撑位，可以考虑短线空头操作，而若突破阻力位，则可以尝试轻仓做多，关注进一步的市场信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a slight downtrend, with a minor 0.05% decline over the past 24 hours. The price has hovered within a narrow range between $86,623.43 and $86,265.39, indicating a period of consolidation. The recent high and low values suggest that market participants are hesitant, possibly awaiting a clearer signal for direction. While the broader trend is still bullish, as seen by the SMA(20) around $88,262, the short-term action appears to be testing the market’s resolve.\n\nThe absence of a clear RSI(14) reading makes it difficult to assess overbought or oversold conditions. However, the MACD reading of -570.009 suggests a bearish momentum, as the histogram is negative, but the lack of a signal line value leaves some uncertainty. This technical divergence could indicate a potential shift or pause in the prevailing market conditions. Until further confirmation is provided, caution should be exercised as the trend could be preparing for either a slight reversal or continuation.\n\nSupport is seen at the lower end of the recent range near $86,265, while resistance is positioned just below the high of $86,623. Traders should keep an eye on these levels for any breakouts or reversals. If the price moves below the support, further downside could be expected, possibly testing the next lower support level around $85,000. On the other hand, a break above resistance could signal a continuation of the bullish trend, potentially targeting $88,000 or higher.\n\nGiven the current price action and indicators, a wait-and-see approach is advisable for now. A close above $86,623 could present a buying opportunity with a short-term target near $88,000, while a break below $86,265 might signal caution and a potential pullback towards $85,000. In either case, risk management and tight stop losses will be critical to protecting any positions in these volatile conditions."
+    }
+  }
+}
