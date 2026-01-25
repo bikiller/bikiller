@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-25T14:51:29.113Z",
+  "price": {
+    "close": "88527.21",
+    "high": "88819.6",
+    "low": "88493.41",
+    "open": "88796.01",
+    "change": "-0.30",
+    "datetime": "2026-01-25 14:00:00"
+  },
+  "indicators": {
+    "rsi": 41.1245,
+    "macd": -206.67294,
+    "macd_signal": -211.38756,
+    "sma20": 88818.3185
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中，需关注支撑与阻力]",
+      "content": "当前比特币/美元(BTC/USD)的价格在88527.21附近波动，日内微跌0.30%。价格的震荡走势显示出市场在短期内缺乏强烈的方向性，可能处于整理期。近期的高点为88819.6，低点为88493.41，波动区间较窄，投资者需谨慎操作。\n\n技术指标方面，RSI(14)数据缺失，无法提供具体的超买或超卖信号。MACD当前处于负值区域，-206.67294，表明市场可能处于空头主导状态，但由于Signal数据缺失，无法判断趋势强度。SMA(20)为88818.32，当前价格略低于该水平，可能暗示短期内价格面临一定的卖压。\n\n支撑位方面，若比特币价格下跌至88493.41附近，可能会遇到支撑，投资者可关注该点位的反弹情况。阻力位则在88819.6附近，一旦突破该点位，可能会出现短期反弹上涨的机会。\n\n交易建议上，建议投资者在当前区间内保持谨慎，避免过度追涨杀跌。可以在支撑位附近尝试做多，但需注意设置止损，控制风险。同时，若价格突破阻力位，考虑逐步跟进上涨行情。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has been experiencing a slight downturn in the short term, with a 24-hour price change of -0.30%. The latest price of $88,527.21 indicates a narrowing range, with the high at $88,819.6 and the low at $88,493.41. This suggests that price action is consolidating, with buyers and sellers nearly in equilibrium. The trend appears neutral for now, as there is no significant upward or downward momentum in the market. However, the market could break in either direction depending on upcoming news or changes in market sentiment.\n\nWithout the RSI and MACD providing clear guidance, traders should focus on support and resistance levels for direction. The immediate support is at $88,493.41, which could be tested again if the price continues to decline. A break below this level could indicate further downside, potentially targeting $88,000 or lower. On the resistance side, the level at $88,819.6 is crucial, and if the price manages to break above it, we could see a retest of the previous high or potentially push toward $89,000.\n\nGiven the absence of clear momentum indicators like the RSI or a defined MACD signal, a cautious approach is recommended. Traders could consider setting tight stop-losses around the support level of $88,493.41 to protect against any further declines, while waiting for a clearer signal of either an upward or downward breakout. A break above resistance could present an opportunity for a long trade, while failure to maintain support could signal short opportunities.\n\nThe SMA(20) at $88,818.32 provides an additional point of reference. A close above this moving average could indicate a potential continuation of the neutral to bullish trend, with further upside testing the resistance levels. However, without significant volatility or volume, it’s wise to stay flexible and ready to adjust positions as new data emerges."
+    }
+  }
+}
