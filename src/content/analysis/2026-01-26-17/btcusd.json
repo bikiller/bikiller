@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-26T17:48:57.242Z",
+  "price": {
+    "close": "87470.03",
+    "high": "87698.4",
+    "low": "86922.04",
+    "open": "87521.97",
+    "change": "-0.06",
+    "datetime": "2026-01-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 44.94354,
+    "macd": -75.61069,
+    "macd_signal": -115.51449,
+    "sma20": 87507.201
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，突破待时]",
+      "content": "当前比特币价格在87470.03美元附近震荡整理，24小时变化仅为-0.06%。这一走势表明市场情绪保持谨慎，短期内可能维持横盘整理状态。价格已经在86922.04至87698.4美元区间内反复波动，显示出一定的震荡区间。\n\n从技术指标来看，当前RSI数据无法得出结论，但MACD为-75.61069，显示出卖压较强，市场情绪偏向空头。短期内，MACD仍处于负值区域，暗示卖方占优，突破之前仍需注意短期风险。SMA(20)为87507.20，接近当前价格，意味着短期内价格可能围绕此水平波动。\n\n支撑位方面，86922.04美元为当前重要支撑线，若价格下破该区域，可能会进一步测试更低水平。反之，87698.4美元则是关键阻力位，突破该位可能会导致价格进一步上涨。若出现突破，市场可能会开始寻求新的上行空间。\n\n建议投资者在当前震荡区间内保持观望，若价格突破上方阻力位87698.4美元，可考虑适度进场做多。若跌破下方支撑位86922.04美元，则应考虑短期做空操作，控制风险并设置止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is consolidating just below the 20-day SMA, with price at 87,470 holding a tight range after a muted 24h slip (-0.06%). The session high near 87,698 failed to extend, while the dip to 86,922 found quick demand, suggesting buyers are still defending pullbacks. Overall structure remains neutral-to-slightly bearish in the very short term, as momentum has cooled without triggering a deeper breakdown.\n\nMomentum indicators are mixed due to incomplete readings, but MACD at -75.61 implies bearish pressure is still present beneath the surface. With the MACD line negative, rebounds may be corrective rather than trend-reversing unless follow-through strengthens. RSI is unavailable, so overbought/oversold confirmation is missing—making price action and moving averages more important. The 20-day SMA at 87,507 sits almost on current price, acting as a near-term pivot.\n\nKey support is defined by the 86,922 intraday low, followed by a stronger demand zone around 86,500–86,000 if volatility expands. Immediate resistance is 87,700–87,750, aligning with the failed push toward the day’s high. A clean break above 87,700 could open room toward 88,200–88,800, while rejection near the SMA keeps the market vulnerable to another sweep of the 86,900 area.\n\nFor trading, range strategies currently fit best: consider cautious longs on confirmed bounces from 86,900–87,000 with tight risk controls, targeting 87,700 and scaling out into strength. Aggressive breakout longs only make sense on a firm hold above 87,750 with improving momentum. If price loses 86,900 decisively, short setups could target 86,500 and 86,000, with stops reclaimed above 87,300."
+    }
+  }
+}
