@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-26T16:29:39.712Z",
+  "price": {
+    "close": "87718.01",
+    "high": "87874.11",
+    "low": "87092",
+    "open": "87558.22",
+    "change": "0.18",
+    "datetime": "2026-01-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.1299,
+    "macd": -46.71402,
+    "macd_signal": -122.36274,
+    "sma20": 87468.217
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期震荡区间待突破]",
+      "content": "当前比特币/美元（BTC/USD）价格为87718.01美元，处于高位震荡整理阶段。从短期来看，价格波动相对较小，24小时变化仅为0.18%，显示市场情绪保持谨慎。市场的高点为87874.11，低点为87092，显示出当前区间的震荡性质。\n\n技术指标方面，MACD目前为负值(-46.71402)，表明市场仍处于弱势整理状态，但未见明显的卖压释放。由于RSI(14)数据缺失，短期超买或超卖情况难以确认。20日简单移动平均线（SMA(20)）位于87468.21700，表明市场价格略偏上行，但走势尚未确立明确趋势。\n\n支撑位方面，87092美元附近是当前的关键支撑，跌破此水平可能会引发更深的回调。阻力位则在87874美元一线，如果价格突破此区域，有可能出现新的上涨动力。短期内，BTC/USD处于整理区间，突破上下限才可能引发较大波动。\n\n建议交易者保持观望，耐心等待突破信号的出现。若价格突破87092支撑位，可以考虑空头策略；反之，若突破87874阻力位，可能会迎来短期多头机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 87718.01\\n- 24h Change: 0.18%\\n- High/Low: 87874.11 / 87092\\n- RSI(14): N/A\\n- MACD: -46.71402, Signal: N/A\\n- SMA(20): 87468.21700\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin’s price action around **$87,718** suggests a cautiously bullish short-term bias, as the latest trading range holds above recent support near **$87,000**. Price is slightly above the 20-period Simple Moving Average at **$87,468**, indicating that recent momentum has tilted upward, albeit gradually. The minor 24-hour gain (0.18%) reflects a market that’s consolidating gains rather than pushing aggressively higher, implying that breakout volatility could arrive soon.\n\nAlthough we don’t have a current RSI value, the modest upside and the position above the SMA(20) indicate there’s not yet overheating in the short-term structure. The MACD reading at **-46.71** without a signal line makes interpretation tricky, but the negative value suggests the longer trend still carries bearish historical influence. Traders should watch for a bullish MACD crossover as a confirmation of strengthening upward momentum.\n\nKey support levels to monitor include the intraday low around **$87,092**, followed by psychological support near **$87,000** and stronger structure around **$86,500–$86,000** from prior swing lows. On the upside, immediate resistance sits at the 24-hour high near **$87,874**. A clear break above **$88,000** could open the door toward **$88,500–$89,000**, while failure to hold support might drag price back toward **$86,000** or lower.\n\nFor trading suggestions, consider entering **long positions on dips** near established support with tight stops below **$86,800** if momentum signals confirm. For risk-managed short plays, only consider shorts on decisive breaks below **$86,000** with stops above the recent swing high. Keep position sizes disciplined and watch for breakout volume to validate directional moves before committing significant capital."
+    }
+  }
+}
