@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-01-26T08:29:54.297Z",
+  "price": {
+    "close": "875.31",
+    "high": "877.83",
+    "low": "872.95",
+    "open": "874.63",
+    "change": "0.08",
+    "datetime": "2026-01-26 08:00:00"
+  },
+  "indicators": {
+    "rsi": 52.9677,
+    "macd": -1.69697,
+    "macd_signal": -3.25598,
+    "sma20": 870.195
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：价格波动趋稳，短期承压",
+      "content": "当前BNB/USD的价格走势表现相对稳定，当前价格为875.31美元，24小时变化较小，仅为0.08%。短期内，币价处于872.95至877.83美元之间震荡。由于RSI和MACD指标缺乏完整数据，市场的强势或弱势尚不明显，需结合其他因素进一步分析。\n\n从技术指标来看，20日简单移动平均线(SMA)显示出870.195美元的支撑位。价格仍保持在该均线附近波动，表明市场暂时缺乏突破性方向。由于MACD值为负（-1.69697），显示短期内卖压较重。若价格持续接近870美元，则可能进一步测试支撑区间。\n\n从支撑与阻力分析，若价格跌破870美元，下一支撑位可能在860美元附近，进一步下探的风险较高。上行方面，阻力位位于877美元，突破该区间可能为上涨信号，关注上行突破后的买入机会。短期内，价格震荡整理的可能性较大。\n\n建议交易者采取保守策略，优先关注870美元附近的支撑位，若价格持续下跌，可考虑寻找低位买入机会。若价格突破877美元，可以考虑顺势做多，但需设立止损以控制风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 875.31\\n- 24h Change: 0.08%\\n- High/Low: 877.83 / 872.95\\n- RSI(14): N/A\\n- MACD: -1.69697, Signal: N/A\\n- SMA(20): 870.19500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action shows a **consolidative posture near the $875 area**, with minor upside momentum after recent range-bound activity. The latest price of **875.31**, slightly above the **20‑period simple moving average (SMA) of 870.20**, suggests short‑term bullish bias, but the narrow 24‑hour range underscores indecision. The market’s inability to push meaningfully above **$878** reflects diminishing upside participation. Until volatility increases, BNB appears to be oscillating between **$872–$880**.\n\nOn indicators, the absence of a reliable **RSI reading** limits overbought/oversold context, but price holding above the SMA gives a hint of underlying support. The **MACD at -1.69697**, lacking a visible signal line, highlights bearish momentum still present in the broader move, implying lower highs could persist. Traders should watch for a **MACD crossover above the signal line** as an early signal of a shift toward sustained bullish pressure.\n\nKey technical levels are crucial in the current range. Immediate support sits near **$870**, with stronger defense expected around **$865** if buyers fail at the current band. On the upside, **$880–$885** marks the first resistance zone, and a clean break above **$890** would open pathways toward **$900+**. A decisive move below $865 could reshape the short‑term structure, exposing a deeper retracement toward **$850**.\n\nFor active traders, a **range strategy** could work while BNB remains stuck in this channel: consider small, disciplined long entries near support with tight stops below $865, and short targets near the top of the range. Longer‑term positions may warrant patience, waiting for trend confirmation via improved momentum, clearer RSI levels, and sustained volume beyond current noise."
+    }
+  }
+}
