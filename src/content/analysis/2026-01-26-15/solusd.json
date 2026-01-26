@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-26T15:04:21.917Z",
+  "price": {
+    "close": "123.33",
+    "high": "123.7",
+    "low": "123.17",
+    "open": "123.66",
+    "change": "-0.27",
+    "datetime": "2026-01-26 15:00:00"
+  },
+  "indicators": {
+    "rsi": 53.83259,
+    "macd": -0.14214189,
+    "macd_signal": -0.53950631,
+    "sma20": 121.524
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理，短期趋于稳定]",
+      "content": "当前Solana/美元（SOL/USD）的价格稳定在123.33附近，24小时内小幅下跌0.27%。价格处于高点123.7和低点123.17之间，显示出短期内市场情绪较为平稳，缺乏显著的波动。此时，市场尚未出现明确的方向性趋势，可能进入震荡整理阶段。\n\n从技术指标来看，RSI(14)未提供数据，MACD处于-0.14214189，显示出市场的弱势，尽管MACD值相对较小，但未见强烈的反弹迹象。SMA(20)位于121.52400，显示出当前价格略高于短期均线，表明短期内可能会维持震荡区间，且支撑位可能出现在121附近。\n\n支撑位方面，121.5附近为近期的主要支撑区间，如果价格跌破此区域，可能会进一步向低点靠近。阻力位则位于123.7一线，若价格突破该区域，可能会有进一步上行的空间，但需要观察交易量的配合。\n\n建议短期内采取谨慎操作，关注123.7的突破情况。若价格未能突破高点，建议保持观望或设置止损于121.5附近，以应对潜在的回调风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 123.33\\n- 24h Change: -0.27%\\n- High/Low: 123.7 / 123.17\\n- RSI(14): N/A\\n- MACD: -0.14214189, Signal: N/A\\n- SMA(20): 121.52400\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$123.33** suggests a **mildly bullish bias** in the short term. The market held above the **20‑period simple moving average (SMA) at ~121.52**, indicating buyers are defending key levels. Recent candles formed in a tight range between **$123.17 and $123.70**, showing indecision but resilience near support. A clear break above the recent high could signal renewed upside momentum, while a drop below the SMA may shift sentiment toward consolidation.\n\nWith the **MACD at –0.1421** and no signal line available, the oscillator hints at **slowing bullish momentum**. Without a positive crossover, immediate trend strength is uncertain, and traders should be cautious. The absence of a current **RSI(14)** reading limits overbought/oversold insights, but price behavior around moving averages can fill that gap. If the MACD moves toward positive territory or the missing signal line confirms a crossover, that would strengthen the case for upward continuation.\n\nKey support lies at **$121.50 (20‑SMA)** and then near **$120.00**, where previous consolidation occurred. On the upside, **$125.00–$126.00** acts as the next resistance zone, with psychological pressure around whole numbers. A decisive close above this band could invite additional buying, whereas failure to overcome it may result in sideways action. Monitoring volume around these levels will clarify whether breakouts are genuine or false.\n\nFor traders, a **range‑based approach** makes sense given the tight recent price action. Consider a long position near support with a stop below **$120.00**, targeting the **$125–$128** zone, adjusting risk according to your plan. Shorter‑term scalpers might watch intra‑day levels closely, fading spikes into resistance and looking for accumulations near the SMA. Always pair technical entry/exit signals with risk controls, especially in volatile crypto markets."
+    }
+  }
+}
