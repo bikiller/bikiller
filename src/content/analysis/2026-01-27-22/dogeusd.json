@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-01-27T22:59:17.861Z",
+  "price": {
+    "close": "0.12617",
+    "high": "0.12646",
+    "low": "0.12514",
+    "open": "0.12514",
+    "change": "0.83",
+    "datetime": "2026-01-27 22:00:00"
+  },
+  "indicators": {
+    "rsi": 64.72101,
+    "macd": 0.0008469895,
+    "macd_signal": 0.00045834488,
+    "sma20": 0.1229895
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 狗狗币/美元(DOGE/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.12617\\n- 24小时变化: 0.83%\\n- 高点/低点: 0.12646 / 0.12514\\n- RSI(14): N/A\\n- MACD: 0.00084698950, Signal: N/A\\n- SMA(20): 0.1229895\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"狗狗币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "狗狗币/美元技术分析：维持上行震荡趋势\n\n当前价格位于短期均线之上，显示多头保持活跃。价格在0.12514附近获得支撑，短线震荡上行，占优；如跌破该位需警惕回撤压力。整体趋势倾向温和上涨。\n\nMACD为正值且位于均线上方，暗示上涨动能尚存，但缺乏Signal数值需关注动能变化。RSI数据缺失无法确认超买超卖，仍建议结合成交量判断趋势持续性。\n\n上方阻力关注前高0.12646及心理关口0.13附近，突破可带来进一步多头确认；下方支撑看0.125和0.122区间，跌破则可能进入整理。价格区间震荡特征明显。\n\n操作上建议顺势短线博弈，回踩支撑附近择机做多，止损设在跌破0.122后；激进者可在突破阻力后加仓。在波动加剧时设定明确止盈止损以控制风险。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Dogecoin vs US Dollar (DOGE/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.12617\\n- 24h Change: 0.83%\\n- High/Low: 0.12646 / 0.12514\\n- RSI(14): N/A\\n- MACD: 0.00084698950, Signal: N/A\\n- SMA(20): 0.1229895\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nDOGE/USD is showing a mild bullish tone as price holds above the 20-period SMA at **0.12299**, signaling short-term demand persistence. The latest price near **0.12617** reflects modest upside momentum after a slight pullback earlier in the session. The series of higher lows on intraday candles suggests buyers are stepping in around the **0.1250–0.1255** zone. This base could act as a short-term **support**, strengthening if volume picks up.\n\nMomentum indicators are currently mixed. The MACD at **0.0008469** indicates emerging bullish energy, though without its signal line reading it’s hard to confirm full crossover validation. Traders should be cautious until the MACD histogram shows consistent expansion above zero and the signal line is confirmed. Absence of RSI data makes overbought/oversold conditions unclear, but the current price behavior above the SMA points to resilience rather than exhaustion.\n\nKey **resistance** to watch lies near the recent swing highs around **0.1265–0.1275**. A decisive breakout above this cluster with sustainable volume could open space toward **0.1300**. On the downside, losing **0.1250** convincingly would likely expose deeper support near the **0.1225–0.1230** range. Order flows and volatility contraction around these levels often define the next directional leg in low-beta assets like Dogecoin.\n\nFor traders, a cautious long stance might be appropriate with entries on dips toward the **0.1250–0.1255** floor, coupled with tight risk control below **0.1245**. Breakouts above **0.1275** could attract momentum players targeting short-term gains. Conversely, short positions should be avoided unless the price clearly breaks below **0.1240** with confirmed bearish structure, as overall bias remains mildly positive in these conditions."
+    }
+  }
+}
