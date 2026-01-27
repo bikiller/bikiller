@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-01-27T04:07:01.026Z",
+  "price": {
+    "close": "11.7845",
+    "high": "11.7946",
+    "low": "11.7834",
+    "open": "11.7848",
+    "change": "-0.01",
+    "datetime": "2026-01-27 04:00:00"
+  },
+  "indicators": {
+    "rsi": 54.12307,
+    "macd": 0.021145244,
+    "macd_signal": 0.0096898707,
+    "sma20": 11.73124
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 11.7845\\n- 24小时变化: -0.01%\\n- 高点/低点: 11.7946 / 11.7834\\n- RSI(14): N/A\\n- MACD: 0.021145244, Signal: N/A\\n- SMA(20): 11.73124\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短线震荡偏多但动力不足\n\n当前价格在11.78附近横盘，短期趋势呈现震荡偏多结构，但涨幅有限，价格略高于SMA(20)支撑，表明多头仍有基础，短线没有明显下破的风险。整体走势偏中性略多。\n\n技术指标方面，RSI数据缺失使动量判断受限，但MACD柱线为正且略高于零轴，显示多头动能尚存；SMA(20)向上斜率不明显，说明趋势启动力度不足，需结合成交量确认。\n\n关键支撑位可关注SMA(20)附近11.73以及下方心理整数位11.50；阻力位首先在近期高点11.79，其次在12.00整数关口。短线区间约在11.70–11.90震荡。\n\n交易建议上，震荡偏多格局下可逢低试多，止损设在11.65以下，目标看向阻力12.00；若价格有效下破11.65，则需谨防短线调整加深，暂避场内出场观望。谨慎关注成交量变化。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Avalanche vs US Dollar (AVAX/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 11.7845\\n- 24h Change: -0.01%\\n- High/Low: 11.7946 / 11.7834\\n- RSI(14): N/A\\n- MACD: 0.021145244, Signal: N/A\\n- SMA(20): 11.73124\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nAvalanche’s price action around **$11.78** shows a relatively flat trend in the very short term, with a negligible 24-hour change. The market appears to be in a **consolidation phase** after recent volatility, as the price hovers around the 20-period simple moving average at **$11.73**. This SMA support suggests that sellers aren’t aggressively pushing lower, keeping the current sideways momentum intact. A break above recent intraday highs could signal renewed bullish interest.\n\nWith the **MACD** currently at **0.0211** and lacking a defined signal line crossover, momentum isn’t strongly biased. This near-neutral reading supports the consolidation narrative: neither buyers nor sellers have firm control. In absence of the RSI figure, traders should watch for momentum shifts on shorter timeframes. If MACD rises above its signal line with expanding histogram bars, that could confirm a bullish shift from the current equilibrium.\n\nKey **support levels** to monitor include the recent low near **$11.78** and the 20-period SMA around **$11.73**. A decisive break below these, especially on higher volume, could open the door toward psychological support at **$11.50** or lower. Resistance lies just above current levels near **$12.00**, followed by a more significant barrier around **$12.25–$12.40**, where previous price rejections have occurred. These levels should be watched closely as potential inflection points for directional moves.\n\nFrom a **trading perspective**, range-bound strategies may be appropriate until a clear breakout materializes. Consider entering long positions only after a confirmed close above resistance with volume support, targeting incremental gains toward **$12.40**. Conversely, a break and retest of support could present short opportunities, with stops just above recent swing highs to manage risk. Always align position size with risk tolerance and broader market conditions."
+    }
+  }
+}
