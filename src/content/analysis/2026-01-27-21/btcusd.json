@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-27T21:35:55.534Z",
+  "price": {
+    "close": "89073.99",
+    "high": "89447.21",
+    "low": "89035.6",
+    "open": "89295.74",
+    "change": "-0.25",
+    "datetime": "2026-01-27 21:00:00"
+  },
+  "indicators": {
+    "rsi": 60.34968,
+    "macd": 173.087525,
+    "macd_signal": 56.06986,
+    "sma20": 88203.689
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡走势]",
+      "content": "当前比特币价格为89073.99美元，较24小时前下跌0.25%。从价格波动来看，比特币在89447.21美元和89035.6美元之间震荡整理，未能突破明显的支撑或阻力区。市场暂时处于横盘整理状态，短期趋势较为模糊。\n\n在技术指标方面，RSI（相对强弱指数）暂未提供数据，而MACD显示173.08的正值，表明当前市场依旧保持一定的上行动能。虽然缺乏信号线的支持，但MACD的正向值表明市场仍存在买盘兴趣。20日简单移动平均线（SMA）为88203.69美元，表明市场价格略高于短期均线，呈现轻微看涨倾向。\n\n支撑位方面，89035.6美元为近期的短期支撑点，若跌破该水平，则可能测试更低的区域。而阻力位位于89447.21美元，若突破该点位，可能引发短期反弹至更高区域。当前市场震荡，突破这些关键位置将是决定价格走向的关键。\n\n基于目前市场态势，建议短期内观望为主，等待价格突破支撑或阻力位后再做进一步操作。如果出现价格回落至支撑区间附近，可以考虑做多，若突破阻力则可适量做多。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of $89,073.99 represents a modest decline of 0.25% over the past 24 hours, showing a relatively stable market. The price has recently oscillated between a high of $89,447.21 and a low of $89,035.6, signaling consolidation within a narrow range. Despite this, the overall trend appears bullish in the short to medium term, as the price remains well above the 20-period simple moving average (SMA) of $88,203.68. A continued price above this SMA would suggest that the upward momentum is intact.\n\nIn terms of support and resistance, the recent low of $89,035.6 could serve as a short-term support level. A break below this could see further downside towards the $88,000 level, where additional support may be found. On the other hand, the high of $89,447.21 marks an immediate resistance level, with a breakout above this zone potentially driving the price toward the next resistance at $90,000. These levels will be critical for traders to monitor as price action continues to unfold.\n\nThe absence of an RSI (14) and Signal line complicates traditional momentum analysis, but the MACD value of 173.087525 suggests there is still positive momentum in the market, although it remains to be confirmed by the Signal line. A divergence between the MACD and price action in the coming hours could provide additional insight into whether the current trend will continue or reverse. Traders should keep a close eye on these indicators for confirmation of the trend's strength.\n\nFor short-term trading, patience is key. Traders might look for a break above the $89,450 resistance for a potential buy signal, targeting the $90,000 mark. Alternatively, if the price breaks below the $89,035 support, a short position could be considered, targeting the $88,000 range. Risk management through stop-loss orders is recommended, as Bitcoin's volatility could lead to sudden price shifts."
+    }
+  }
+}
