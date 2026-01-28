@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-28T12:41:10.333Z",
+  "price": {
+    "close": "89794.79",
+    "high": "90059.94",
+    "low": "89676.74",
+    "open": "89961.14",
+    "change": "-0.18",
+    "datetime": "2026-01-28 12:00:00"
+  },
+  "indicators": {
+    "rsi": 62.18173,
+    "macd": 352.071546,
+    "macd_signal": 290.4664,
+    "sma20": 89026.092
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期承压]",
+      "content": "当前比特币价格在$89,794.79附近，整体呈现震荡整理走势。价格未能突破前高$90,059.94，表明短期内上行动能较弱。当前市场情绪偏向谨慎，价格维持在区间内波动，缺乏明显的突破信号。\n\n在技术指标方面，MACD显示为352.07，虽然数据提供了一定的上行动能，但没有Signal线的对比，暂时无法确认进一步的上涨趋势。SMA(20)为$89,026.09，价格略高于该均线，显示短期内可能支撑位在此附近。RSI未提供，意味着我们无法从超买或超卖的角度判断市场的过热程度。\n\n支撑位方面，$89,000附近可以作为短期支撑，若价格下行突破此位，可能会进一步回测至$89,000以下，甚至测试$89,000附近的低点支撑。阻力位则在$90,000以上，若价格突破此区间，可能会尝试挑战新高。当前阶段，突破区间可能是接下来走势的关键。\n\n短期建议：建议投资者保持谨慎，观察区间震荡的突破情况。如果价格持续维持在当前区间内，交易机会相对有限。可考虑在支撑位附近尝试低位买入，待价格突破上方阻力时再考虑适时加仓。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin/USD market currently exhibits a slight downtrend, with a recent price of 89,794.79 and a 24-hour change of -0.18%. The price is trading near the lower end of the recent range, between the high of 90,059.94 and the low of 89,676.74. This suggests a consolidation phase, with the market unsure of a clear direction. If the price continues to maintain support around the lower end of this range, it could indicate a potential reversal to the upside. However, further downside movement is possible if bearish sentiment dominates.\n\nFrom a technical perspective, the lack of an RSI value and the MACD reading of 352.071546 indicate that the market is not showing significant momentum at the moment. The MACD value being positive suggests that there is some bullish bias, but with no clear signal, the market remains in a neutral stance. Traders should look for any divergence between the price and the MACD in the coming hours for further indications of trend strength or weakness. The absence of an RSI value makes it harder to assess overbought or oversold conditions, so caution is advised.\n\nThe 20-period simple moving average (SMA) at 89,026.09 is acting as a near-term support level. If the price breaks below this level, further support may be found at 89,000, with additional support around 88,500. On the upside, resistance is seen near 90,100, and a breakout above this level could signal a move towards 91,000 or higher. It’s crucial for traders to watch for price action around these key levels to gauge future movement.\n\nIn terms of trading suggestions, a break below the SMA support could present short-selling opportunities, targeting the support zones. On the flip side, a confirmed break above 90,100 would present a potential long trade, with targets towards the higher resistance zones. Given the current market indecision, using tight stop-loss levels is recommended to manage risk effectively."
+    }
+  }
+}
