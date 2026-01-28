@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-01-28T16:33:32.696Z",
+  "price": {
+    "close": "900.37",
+    "high": "903.83",
+    "low": "899.58",
+    "open": "902.91",
+    "change": "-0.28",
+    "datetime": "2026-01-28 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.26921,
+    "macd": 3.96352,
+    "macd_signal": 4.86559,
+    "sma20": 901.5555
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[震荡整理，短期关注支撑位]",
+      "content": "当前BNB/USD市场价格小幅下跌，24小时变化为-0.28%，价格保持在900附近震荡整理。短期内，市场表现出一定的横盘走势，未见明显的上涨或下跌趋势。当前价格接近SMA(20)的901.56，这意味着市场短期内处于整理阶段，可能会维持震荡波动。\n\n在技术指标方面，MACD显示为3.96，虽然信号线数据尚不清晰，但此值暗示市场存在一定的上涨动能。由于RSI未给出明确数值，无法直接分析超买或超卖的情况。建议投资者关注价格是否突破当前区间的上下限，来判断未来的走势方向。\n\n当前的支撑位在899.58附近，如果价格跌破此水平，可能会加速向下探寻更低支撑；而上方的阻力位则在903.83，若价格突破该位置，可能会迎来短期反弹。投资者应关注这些关键价位的突破情况，来决定入场时机。\n\n综合来看，短期内BNB/USD可能继续震荡整理，投资者可考虑在支撑位附近寻找低买机会，并在接近阻力位时卖出。此外，保持对技术指标的关注，特别是MACD和RSI的变化，有助于及时捕捉市场动向。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 900.37\\n- 24h Change: -0.28%\\n- High/Low: 903.83 / 899.58\\n- RSI(14): N/A\\n- MACD: 3.96352, Signal: N/A\\n- SMA(20): 901.5555\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action around **$900.37** suggests a **sideways to mildly bearish trend** over the short term. The recent 24-hour range between **$903.83 high and $899.58 low** shows limited volatility, pointing to market indecision. Price hovering just below the **20-period SMA at ~901.56** indicates sellers have a slight edge, though the close proximity to this moving average also suggests a lack of strong directional conviction from bulls.\n\nWith limited available oscillator data, the incomplete **MACD reading (3.96)** without its signal line complicates momentum interpretation. However, given price at or near the SMA and the minor negative return, momentum appears **neutral to slightly weakening**. In absence of a reliable RSI, traders should be cautious about overcommitting—external momentum cues from volume and broader market correlations (e.g., BTC dominance) could provide additional clarity on whether momentum is shifting toward downside continuation.\n\nImportant technical zones to watch include immediate **support near $895–$890**, a region that aligns with prior short-term consolidation lows. A breakdown below this cluster could open room toward **$880**. On the upside, breach and sustained trading above **$905–$910** would signal renewed buying interest, with potential resistance around **$920**. These levels are significant for range-based traders looking to define risk and potential reward.\n\nFor trading consideration, a **neutral stance with conditional entries** is reasonable. Aggressive longs could be considered only above **$910** with tight stops, while downside plays might target break below **$890** with confirmation. Risk management is crucial in this tight range; setting clear stop losses and monitoring larger market catalysts (regulatory news, exchange flows) will help avoid whipsaw behavior."
+    }
+  }
+}
