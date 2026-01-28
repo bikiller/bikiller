@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-28T22:59:42.974Z",
+  "price": {
+    "close": "89237.34",
+    "high": "89342",
+    "low": "88985.6",
+    "open": "89273.34",
+    "change": "-0.03",
+    "datetime": "2026-01-28 22:00:00"
+  },
+  "indicators": {
+    "rsi": 50.72979,
+    "macd": 160.3189,
+    "macd_signal": 250.43968,
+    "sma20": 89357.422
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱整理",
+      "content": "当前BTC/USD价格在89237附近小幅回落，24小时波动极窄，显示多空力量暂时均衡。整体走势呈现高位横盘整理，短线趋势偏震荡，需关注方向突破信号。\n\n均线方面，价格略低于SMA(20)的89357，说明上方存在一定压制。MACD数值仍为正，表明中期动能尚未完全转空，但缺少信号线确认，反弹力度仍需观察。\n\n支撑位可重点看88980一带，若跌破可能引发进一步回调；阻力位则在89350-89400区间，突破后才有机会重新测试更高区域，短线空间相对有限。\n\n交易建议上，激进者可在支撑附近轻仓尝试低吸，止损设于88900下方；稳健者等待突破阻力后顺势跟进。当前更适合区间操作，控制仓位与风险为主。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently showing signs of consolidation, with price fluctuations between 88985.6 and 89342 in the last 24 hours. At a current price of 89237.34, the cryptocurrency is experiencing a slight downtrend of -0.03%. This suggests a pause or indecision in the market as buyers and sellers struggle for control. The price action is confined within a narrow range, indicating a potential buildup for a breakout in either direction, pending further catalysts.\n\nFrom a technical standpoint, the absence of an RSI(14) and the lack of a signal line in the MACD suggest a market that is neither overbought nor oversold at the moment. The MACD value of 160.31890 indicates a positive trend, but without confirmation from the signal line or RSI, it is challenging to draw a definitive conclusion about the strength of the move. Traders should be cautious of false breakouts until additional indicators provide clearer signals.\n\nKey support levels for Bitcoin lie around 88985.6, where recent lows have been established. If the price breaks below this level, it could signal further downward pressure toward 88000 or lower. On the other hand, resistance is seen at 89342, just above the current market price. A breakout above this resistance would signal a potential upward momentum toward 90000 and possibly higher levels. It is important to watch for confirmation of price movement outside these boundaries.\n\nIn terms of trading suggestions, the current market setup favors a wait-and-see approach. If Bitcoin breaks above resistance, it may be worth considering long positions with a target near 90000, while a breakdown below support could open opportunities for short trades. However, given the neutral indicators, tight stop-loss orders and caution are advised to avoid getting caught in a choppy market."
+    }
+  }
+}
