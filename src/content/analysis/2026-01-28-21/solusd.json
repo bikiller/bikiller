@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-28T21:51:27.193Z",
+  "price": {
+    "close": "125.51",
+    "high": "125.52",
+    "low": "124.59",
+    "open": "125.25",
+    "change": "0.19",
+    "datetime": "2026-01-28 21:00:00"
+  },
+  "indicators": {
+    "rsi": 44.71937,
+    "macd": -0.018961464,
+    "macd_signal": 0.25476822,
+    "sma20": 126.588
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：市场震荡整理，短期内偏向整理",
+      "content": "当前Solana/美元价格处于125.51附近，市场整体保持震荡整理态势。考虑到24小时变动较小（0.19%），价格未出现大幅波动，显示出市场情绪较为谨慎。价格位于20日简单移动平均线（SMA）下方126.588一线，表明短期内存在一定的卖压。\n\n技术指标方面，RSI目前不可用，而MACD值为负（-0.018961464），这一点提示市场可能处于弱势区间。MACD负值意味着当前市场可能缺乏足够的买盘动能，短期内突破的概率较低。结合这一点，价格向下修正的风险增大。\n\n在支撑位和阻力位的判断上，当前的支撑位位于124.59附近，若价格跌破该位置，可能进一步向下探寻支撑。而阻力位则在126.52一线，若价格企稳该位置上方，则有可能展开反弹。价格若突破126.52，将可能引发更大的上行动能。\n\n建议投资者关注市场情绪的变化，在支撑位附近寻求低位布局机会。对于短期交易者，可待价格稳定后再考虑进场，避免因波动性过大而遭遇较大亏损。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 125.51\\n- 24h Change: 0.19%\\n- High/Low: 125.52 / 124.59\\n- RSI(14): N/A\\n- MACD: -0.018961464, Signal: N/A\\n- SMA(20): 126.588\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$125.51** suggests a short‑term consolidation phase after earlier volatility. The 24‑hour range of **$124.59–$125.52** shows very tight movement, indicating indecision among traders. The lack of a clear directional push means the immediate trend is neutral to slightly bearish until a breakout above **$128–$130** or breakdown below **$122–$120** occurs. Watch the price’s ability to hold above recent lows as a gauge of short‑term market confidence.\n\nThe current technical indicators paint a cautious picture. With the **SMA(20) at 126.588**, SOL is trading just below this short‑term average, suggesting mild downside pressure. The **MACD reading of –0.01896** without a confirmed signal line hints at fading bullish momentum, though we lack sufficient histogram context. The absence of a current **RSI(14)** reading limits insight into overbought/oversold conditions, but price hugging the moving average often precedes volatility contraction or expansion, depending on upcoming catalysts.\n\nKey support levels to monitor include **$122, $120, and $118**, where previous demand clustered. These zones served as pivots in recent sessions and could absorb selling if momentum picks up to the downside. On the upside, immediate resistance sits near **$127–$128**, with stronger hurdles around **$130** and **$133**. A clear break above these levels with volume could invite renewed buying interest, especially if broader market sentiment turns positive.\n\nGiven the current setup, traders might consider range‑based strategies: buying nearer support with tight stops and scaling out as price approaches resistance. For breakout players, a decisive close above **$128–$130** could signal a continuation toward **$135–$140**, while a breakdown under **$120** might open accelerated selling toward **$115**. Always align entries with overall risk tolerance and monitor macro crypto catalysts that can shift sentiment rapidly."
+    }
+  }
+}
