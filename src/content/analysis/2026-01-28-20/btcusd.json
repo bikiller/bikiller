@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-28T20:25:46.691Z",
+  "price": {
+    "close": "89511.47",
+    "high": "89621.84",
+    "low": "89200",
+    "open": "89268.48",
+    "change": "0.27",
+    "datetime": "2026-01-28 20:00:00"
+  },
+  "indicators": {
+    "rsi": 53.82923,
+    "macd": 252.77891,
+    "macd_signal": 303.032282,
+    "sma20": 89379.039
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡中的强势整理",
+      "content": "从整体走势看，比特币价格维持在高位区间震荡，最新价围绕89500美元小幅波动，24小时涨幅有限但未出现明显回落，显示多头仍占主导。短期趋势偏强，但上行动能有所放缓，市场进入整理阶段。\n\n技术指标方面，价格运行在20日均线之上，SMA(20)对行情形成有效支撑，体现出中短期多头结构仍然稳固。MACD数值维持在高位，表明中期趋势依旧向上，但由于信号线与RSI数据暂缺，动能判断需保持谨慎。\n\n关键支撑位位于89300美元附近，对应20日均线区域，一旦跌破可能引发更深回调。上方阻力关注89650至90000美元区间，该区域多次限制价格上行，若有效突破，将打开进一步上涨空间。\n\n交易策略上，稳健型投资者可在支撑位附近分批布局多单，并严格设置止损；激进型交易者可等待突破90000美元后的回踩确认再跟进。整体仍以顺势做多为主，短线注意震荡风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin market shows a relatively neutral short-term trend, with the latest price standing at $89,511.47. It is trading near its recent high of $89,621.84 and its low of $89,200, indicating a narrow trading range. This price consolidation could be a sign of market indecision, with buyers and sellers in balance. The price is holding above the 20-period Simple Moving Average (SMA) of $89,379, which suggests slight upward momentum. However, without stronger bullish signals, caution is warranted.\n\nThe Relative Strength Index (RSI) is currently unavailable, making it difficult to assess overbought or oversold conditions. Typically, an RSI near 70 suggests overbought conditions, while below 30 indicates oversold, helping traders evaluate potential reversals. The absence of this indicator leaves a gap in confirming trend strength or exhaustion. Likewise, the MACD at 252.78 shows bullish momentum, but with no Signal line available for comparison, it's challenging to definitively gauge market direction. Traders should look for a clear Signal crossover for further confirmation of trend continuation.\n\nSupport is found at $89,200, which marks the recent low, and if this level breaks, the next significant support could lie around $88,000. On the resistance side, $89,600 to $89,800 is the immediate range to watch. A break above these levels could indicate bullish continuation, potentially reaching new highs. A downside move below support levels might signal a retracement, and traders could look to take profits or reconsider long positions in favor of shorting.\n\nIn terms of trading strategy, the market is currently in a period of consolidation. A breakout above the resistance range would likely signal a continuation of bullish momentum, offering a buying opportunity. Conversely, if the price falls below the support level of $89,200, traders could consider short positions with targets near the next support. Watching for a convergence in indicators or a change in volume could provide further insight into the next market move."
+    }
+  }
+}

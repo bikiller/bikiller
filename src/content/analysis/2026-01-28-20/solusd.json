@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-28T20:28:14.986Z",
+  "price": {
+    "close": "125.98",
+    "high": "126.2",
+    "low": "125.63",
+    "open": "125.81",
+    "change": "0.13",
+    "datetime": "2026-01-28 20:00:00"
+  },
+  "indicators": {
+    "rsi": 47.87387,
+    "macd": 0.09824154,
+    "macd_signal": 0.33452828,
+    "sma20": 126.694
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 125.98\\n- 24小时变化: 0.13%\\n- 高点/低点: 126.2 / 125.63\\n- RSI(14): N/A\\n- MACD: 0.098241540, Signal: N/A\\n- SMA(20): 126.69400\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏弱整理\n\n当前价格围绕短期均线震荡，未持续上破，显示短线多空胶着。价格在$125.6附近反复获得支撑，但未能有效站稳$127上方，整体趋势偏向横盘震荡。\n\nMACD小幅正值但缺乏信号线确认，说明动能尚未明确增强，多头力量有限。20日SMA在$126.69之上压制价格，短期多头需突破该均线以确认上行意图。\n\n近期支撑主要集中在$125.5附近，该区域若有效失守，或打开下探$124.0的空间。阻力位则是$127.0和$128.5，上方若连续收盘企稳这些水平，可提升多头信心。\n\n操作上建议谨慎观望，等待均线和动能指标更明确的信号。短线可于支撑附近试探性做多，止损置于下方1%-1.5%，突破阻力后再考虑追涨以控制风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 125.98\\n- 24h Change: 0.13%\\n- High/Low: 126.2 / 125.63\\n- RSI(14): N/A\\n- MACD: 0.098241540, Signal: N/A\\n- SMA(20): 126.69400\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$125.98** suggests a **neutral intra-day bias** with modest volatility, as the range between **$126.20 high and $125.63 low** is relatively tight. The recent sideways movement shows buyers and sellers are balanced, with neither strong breakout nor breakdown pressure. Over the past sessions, the inability to sustain above the **20-period SMA (~$126.69)** hints at short-term resistance keeping upside attempts in check.\n\nThe absence of a reliable **RSI reading** limits clarity on overbought/oversold conditions, but the **MACD positive histogram value (~0.098)** suggests some bullish momentum persists, even without a confirmed signal line crossover. This can indicate mild accumulation at these levels, though the lack of signal line data weakens conviction. Traders should watch for an MACD signal line cross above the histogram as a possible early buy confirmation.\n\nKey **support** lies near the recent lows around **$125.50–$125.00**, where buyers previously defended the price. A break below this zone could invite deeper pullbacks toward **$123.00**. On the upside, **resistance** clusters near **$127.00–$127.50**, aligned with the SMA and recent highs. A decisive close above this area could shift short-term bias bullish, attracting momentum-driven entries.\n\nFor practical planning, consider **range-aware strategies** until clear direction emerges. Conservative traders might wait for a sustained breakout above **$127.50** before entering long positions, targeting $130+ with tight stops under $126. Weak traders could explore short positions if price closes below **$125.00**, targeting next support and using stops above the 20-period SMA to manage risk. Always align trade size with risk tolerance and evolving market structure."
+    }
+  }
+}
