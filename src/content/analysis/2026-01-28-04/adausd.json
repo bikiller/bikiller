@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-01-28T04:44:55.648Z",
+  "price": {
+    "close": "0.355894",
+    "high": "0.356952",
+    "low": "0.354998",
+    "open": "0.356522",
+    "change": "-0.26",
+    "datetime": "2026-01-28 04:00:00"
+  },
+  "indicators": {
+    "rsi": 51.68399,
+    "macd": 0.0017175746,
+    "macd_signal": 0.001819509,
+    "sma20": 0.35487335
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 艾达币/美元(ADA/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.355894\\n- 24小时变化: -0.26%\\n- 高点/低点: 0.356952 / 0.354998\\n- RSI(14): N/A\\n- MACD: 0.0017175746, Signal: N/A\\n- SMA(20): 0.35487335\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"艾达币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "艾达币/美元技术分析：短期区间整理偏多\n\n短期价格在0.355附近震荡，最新报0.355894，整体波动幅度有限，显示多空力量处于均衡状态。价格略高于20日简单移动平均线（0.354873），表明短线仍有一定支撑，趋势暂时偏上方整理。\n\nMACD柱体为正值0.0017，但未给出信号线数据，意味着动能偏弱但未转空。若后续MACD快速线上穿信号线，则会增强上行动力；反之下破或缩减至零下方，则有可能开启下行阶段。\n\n主要支撑位关注0.3540附近，该区域为短周期多次反弹点。阻力位在0.3580–0.3600一线，多头需突破该区才能确认上行有效性，否则可能继续区间震荡。\n\n交易上建议短线可在支撑附近低多布局，止损设在0.3520下方以防假突破。激进者可等待阻力突破确认后再开多，谨防震荡行情带来的假信号；持仓者注意控制仓位与风险。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Currently, Cardano (ADA) is trading at $0.355894, showing a slight decrease of 0.26% over the past 24 hours. The price has fluctuated between a high of $0.356952 and a low of $0.354998. This range suggests a narrow trading environment, indicating a period of consolidation. A breakout above the recent high could signal renewed bullish momentum, while a drop below the low may invite bearish sentiment, pushing the price towards lower levels.\n\nThe absence of a reliable RSI(14) reading complicates momentum analysis, but the current MACD value of 0.0017175746 indicates that momentum is somewhat stable. A closer look at the SMA(20) reveals a value of $0.35487335, which is just below the current price, acting as a dynamic support level. Should the price retrace, this SMA could provide a cushion against further declines, while a move above it might reinforce bullish sentiment.\n\nSupport levels appear to be situated around $0.354998, the recent low, which could attract buying interest if tested. Conversely, resistance is found near the high of $0.356952. A sustained breach of this resistance would open the door for a potential rally towards the next psychological level at $0.36. Traders should watch these levels closely, as they are critical for confirming the next directional move.\n\nFor short-term trading strategies, consider implementing a range-bound approach given the current price action. Buying near the support zone while looking to take profits near resistance makes sense in this context. Conversely, a stop-loss just below the support level could help mitigate risks in case of an unexpected downturn. As always, traders should remain vigilant for broader market trends that could impact Cardano's price dynamics."
+    }
+  }
+}
