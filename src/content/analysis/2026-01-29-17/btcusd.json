@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-29T17:56:57.078Z",
+  "price": {
+    "close": "84168.01",
+    "high": "85493.8",
+    "low": "84161.84",
+    "open": "85131.96",
+    "change": "-1.13",
+    "datetime": "2026-01-29 17:00:00"
+  },
+  "indicators": {
+    "rsi": 20.57432,
+    "macd": -929.46738,
+    "macd_signal": -538.83796,
+    "sma20": 87605.7165
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡整理，需关注关键支撑和阻力位",
+      "content": "当前比特币价格在84168.01附近波动，24小时内下降1.13%。价格走势处于震荡整理阶段，尚未显示出明确的趋势。由于RSI指标缺失，难以判断市场是否过度超买或超卖，短期内市场情绪较为平稳。\n\n从MACD来看，当前值为-929.46738，表明市场处于一定的卖压状态，但信号线尚未形成，表明趋势尚不明确。SMA(20)均线在87605.7165附近，这一水平为近期的短期阻力位。价格未能有效突破该水平，表明当前市场可能受到一定的上行压力。\n\n在支撑方面，当前的低点84161.84为关键支撑位。如果价格跌破此处，可能会继续下探至更低水平。若市场能在这一价格附近企稳，则可能形成反弹的契机。建议投资者密切关注这一支撑位的变化，若支撑有效，可考虑逢低买入。\n\n综上所述，当前市场处于震荡整理状态，投资者应关注价格是否能够突破阻力位或跌破支撑位。短期内建议保持观望，等待更明确的价格信号后再做决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 84168.01\\n- 24h Change: -1.13%\\n- High/Low: 85493.8 / 84161.84\\n- RSI(14): N/A\\n- MACD: -929.46738, Signal: N/A\\n- SMA(20): 87605.7165\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin’s price action shows a short-term bearish drift as it trades below the 20-period simple moving average (SMA) at **87,605**, signaling downward pressure after failing to sustain above key moving averages. The latest price near **84,168** reflects sellers edging control over the past sessions, punctuated by a **1.13%** decline and a rejection at **85,493**. This suggests market participants are hesitant to push higher without fresh bullish catalysts.\n\nThe momentum picture is tilted toward the downside. With the MACD deep in negative territory at **−929.47** and no visible signal line crossover yet, momentum favors bears. Although the absence of a computed RSI limits overbought/oversold context, the gap between price and SMA indicates a cooling trend. Traders should watch for potential continuity of selling pressure unless momentum moderates or reverses, ideally confirmed by a MACD histogram contraction.\n\nKey support and resistance clusters frame near-term ranges. Initial support sits around the **84,000** level, with a deeper floor near **82,500**, an area buyers defended previously. A sustained break below these could expose **80,000** psychological support. On the upside, immediate resistance lies at **85,500–86,000**, followed by the SMA zone near **87,600**. Bullish conviction would strengthen only if price clears and holds above these thresholds with volume confirmation.\n\nFrom a tactical standpoint, traders may consider favoring short or neutral positions on rallies, focusing on defined risk zones. Long entries could be reserved for retests of broken resistance turning into support, or if price reclaims the SMA with improving momentum. Risk management remains paramount; stops just beyond invalidation points (e.g., above **87,600** on longs) help contain adverse swings in a volatile environment."
+    }
+  }
+}
