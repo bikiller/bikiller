@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-01-29T20:31:00.550Z",
+  "price": {
+    "close": "0.11562",
+    "high": "0.11583",
+    "low": "0.11517",
+    "open": "0.11537",
+    "change": "0.22",
+    "datetime": "2026-01-29 20:00:00"
+  },
+  "indicators": {
+    "rsi": 26.65119,
+    "macd": -0.0022171662,
+    "macd_signal": -0.0017164679,
+    "sma20": 0.119701
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：震荡整理，短期偏弱",
+      "content": "当前狗狗币/美元（DOGE/USD）价格在0.11562附近震荡整理，呈现出较为平稳的走势。尽管24小时变化为正（+0.22%），但价格波动较小，短期内没有明显的上涨动能，市场情绪较为谨慎。当前价格接近前期的支撑区间，仍处于震荡整理阶段。\n\n从技术指标来看，RSI(14)数据缺失，无法直接判断超买或超卖状态。MACD指标目前为负值（-0.0022），显示出短期内的卖压较为强烈。20日简单移动平均线（SMA）位于0.1197，表明市场在短期内依然存在一定的下行压力。当前价格尚未突破SMA(20)，进一步上行的动能较弱。\n\n在支撑位方面，0.11517是近期的低点，若价格跌破该水平，可能会进一步测试0.11400附近的支撑。阻力位则集中在0.11650至0.11700区间，突破该区间可能会带来一定的反弹空间。短期内，狗狗币可能会继续维持震荡走势，除非出现更强的买入信号。\n\n交易建议方面，建议在接近支撑位时谨慎买入，止损位可设置在0.11500以下。若价格突破0.11700，可以考虑适度做多，目标看向0.1190附近。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Dogecoin vs US Dollar (DOGE/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.11562\\n- 24h Change: 0.22%\\n- High/Low: 0.11583 / 0.11517\\n- RSI(14): N/A\\n- MACD: -0.0022171662, Signal: N/A\\n- SMA(20): 0.11970100\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nDogecoin’s short-term price action around **$0.1156** shows muted volatility with a tight 24-hour range. The negligible 0.22% gain and near-flat high/low suggest the market is lacking strong directional conviction. From a trend perspective, this usually precedes a breakout or breakdown as traders await fresh catalysts. In the broader context, the failure to reclaim key levels above recent highs hints at a continued consolidation phase rather than a sustained uptrend.\n\nWhen interpreting indicators, the **SMA(20) at 0.1197** sits noticeably above the current price, indicating bearish pressure in the near term. Prices trading below this moving average often reflect distribution or downward bias. The MACD reading of **-0.0022** without a confirmatory signal line value underscores this weakness, but it also signifies limited momentum either way. The absence of an available RSI(14) weakens momentum insight, so reliance on price structure becomes paramount.\n\nKey support resides near **$0.1120–$0.1140**, where buyers have previously stepped in, and this zone warrants close attention. A decisive break below could open the door to **$0.1080** or lower. On the upside, first resistance clusters around the **SMA(20)** and the short-term swing high near **$0.1185–$0.1200**. Only a sustained move above this region would signal a shift toward bullish control and potential re-engagement by momentum traders.\n\nGiven the current setup, a cautious approach is advisable. Range-oriented traders might consider **buying near support with tight stops** and looking to take partial profits as price approaches resistance. Conversely, bearish traders could explore **short entries on confirmed breakdowns below support**, targeting lower bandwidth levels. Longer-term holders might wait for a clear trend confirmation before adding to positions. Risk management and adherence to stop levels are essential in this low-momentum environment."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-29T20:28:39.500Z",
+  "price": {
+    "close": "117.16",
+    "high": "117.26",
+    "low": "116.32",
+    "open": "116.62",
+    "change": "0.46",
+    "datetime": "2026-01-29 20:00:00"
+  },
+  "indicators": {
+    "rsi": 30.061965,
+    "macd": -2.16802,
+    "macd_signal": -1.6331,
+    "sma20": 121.1975
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 117.16\\n- 24小时变化: 0.46%\\n- 高点/低点: 117.26 / 116.32\\n- RSI(14): N/A\\n- MACD: -2.16802, Signal: N/A\\n- SMA(20): 121.19750\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期偏弱震荡为主\n\n当前价格略低于20日均线，表明短期抛压较大，多头动能不足，价格运行在区间整理阶段，趋势偏弱震荡为主。需留意均线压制，突破才能确认转强。\n\nMACD呈现负值，暗示下行动能仍存，但缺乏信号线数据无法确认背离，波动可能受区间支撑限制，若出现量能放大则需警惕快速下滑风险。\n\n关键支撑位在116.00附近，若下破可能进一步试探114.00水平；阻力位在20日均线121.20及近期高点，突破这些点位或带来反弹机会。\n\n短线建议观望为主，等待价格有效站上20日均线并伴随成交量确认再考虑多单入场；若跌破支撑则需谨慎控制仓位，设置合理止损以防回落扩大。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The Solana to US Dollar (SOL/USD) pair is currently trading at 117.16, with a minor 24-hour increase of 0.46%. The price has remained relatively stable, with the high of 117.26 and low of 116.32 within a narrow range. This suggests that the market is in a consolidation phase, potentially waiting for a catalyst to drive further movement. A breakout above 117.26 could indicate a resumption of the uptrend, while a drop below 116.32 might signal a short-term bearish trend.\n\nAnalyzing the indicators, the MACD currently stands at -2.16802, which is a negative value, showing the market's overall bearish momentum. The absence of a signal line prevents a clear assessment of whether there is any potential for a short-term reversal. On the other hand, the SMA (20) at 121.19750 suggests that the market is still below its short-term average, reinforcing the bearish sentiment. If the price fails to reclaim the 20-period SMA, there is a chance of further downside in the near future.\n\nIn terms of support and resistance, the nearest support is at 116.32, with a potential for a deeper correction if this level is breached. On the upside, resistance can be found at the recent high of 117.26, followed by 118.00 if the price sustains its upward momentum. Traders should watch for either a break above resistance or a failure to hold support for a clearer directional move.\n\nGiven the current technical setup, traders may want to adopt a cautious approach, monitoring price action closely. A confirmation of either a breakout above resistance or a breakdown below support would provide more clarity for setting entry and exit points. As the MACD remains negative, there may be further downside risks, making it advisable to wait for a more defined trend before committing to long positions."
+    }
+  }
+}
