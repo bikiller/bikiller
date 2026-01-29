@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-29T16:39:21.720Z",
+  "price": {
+    "close": "84374",
+    "high": "84841.91",
+    "low": "84133.25",
+    "open": "84780.01",
+    "change": "-0.48",
+    "datetime": "2026-01-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 17.98543,
+    "macd": -815.21327,
+    "macd_signal": -453.27325,
+    "sma20": 87821.2195
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，面临支撑考验",
+      "content": "目前，比特币/美元(BTC/USD)的价格呈现小幅下跌趋势，最新价格为84374美元，24小时变化为-0.48%。价格在短期内处于震荡整理状态，尚未出现明显的上涨或下跌动能。当前的高点和低点分别为84841.91美元和84133.25美元，表明市场波动较为有限。\n\n在技术指标方面，MACD值为负，表明当前市场上空头力量较强，虽然Signal尚未显示，但MACD持续处于负值区间暗示价格可能继续受到压制。SMA(20)为87821.22美元，远高于当前价格，进一步确认了短期内价格可能面临较大的回撤压力。\n\n支撑位方面，84300美元附近有一定支撑，而下方的关键支撑位则在84100美元附近。若价格突破此支撑，可能会加速向下测试进一步的支撑区域。阻力位在84800美元附近，突破该位置有望重新测试20日均线附近的87800美元。\n\n综合来看，建议投资者在当前区间内进行短线操作，若价格跌破支撑位可考虑做空，反之突破阻力位时可考虑做多。不过，鉴于MACD和SMA的负面信号，保持谨慎操作为宜。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has shown a slight decline of 0.48% in the past 24 hours, with the latest price at $84,374. This suggests that the market sentiment is neutral-to-bearish, as the price hovers near the lower range of its recent movement between $84,841 and $84,133. With a relatively small daily change, it indicates that Bitcoin is consolidating within this range and may be preparing for a potential breakout or further pullback.\n\nThe absence of RSI data leaves a gap in understanding the momentum, but the MACD value of -815.21327 suggests bearish momentum. Since the MACD is negative and there is no clear signal line to compare it against, the market is likely lacking strong upward pressure. Traders should be cautious of further downward movement unless the MACD indicates a reversal in momentum. \n\nSupport for Bitcoin is likely around the $84,133 level, with the price recently testing this low. If the market breaks below this level, the next key support is expected near $83,000. On the upside, resistance lies near the recent high of $84,841, and a breakthrough above this point could signal a potential rally towards the $88,000 range. Traders should watch for any price action around these levels for clues on the next move.\n\nFor short-term trading, a cautious approach is recommended. A break below $84,133 could present an opportunity for short positions with a target near $83,000. Conversely, if Bitcoin holds above the $84,133 support and pushes past the $84,841 resistance, there could be an opportunity for long positions targeting higher levels. Traders should remain vigilant for any changes in the MACD and price action for further insights."
+    }
+  }
+}
