@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-29T01:44:11.593Z",
+  "price": {
+    "close": "88670.74",
+    "high": "89026",
+    "low": "88478.53",
+    "open": "89009.5",
+    "change": "-0.38",
+    "datetime": "2026-01-29 01:00:00"
+  },
+  "indicators": {
+    "rsi": 43.29732,
+    "macd": 42.86903,
+    "macd_signal": 169.47432,
+    "sma20": 89359.085
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，等待突破",
+      "content": "当前比特币/美元价格处于88670.74附近，24小时内变化幅度较小，仅为-0.38%。从近期价格波动来看，市场正处于震荡整理状态，未显现出明显的单边走势。高点和低点的区间分别为89026和88478.53，表明市场上下波动在一定范围内徘徊。\n\n技术指标方面，MACD目前为42.86903，显示出一定的上涨动能，但由于缺乏信号线数据，尚难判断是否存在持续性突破的力量。SMA(20)处于89359.085附近，暗示市场短期内略有下行压力。RSI未能提供有效数据，但结合其他指标，当前市场情绪较为谨慎。\n\n从支撑和阻力位来看，若价格突破89000的阻力位，可能会引发进一步的上涨趋势，测试90000附近的强阻力。相反，若下行突破88478的支撑位，可能会导致进一步的回调，寻找更低的支撑区域。\n\n综合来看，当前市场处于震荡整理阶段，建议投资者保持观望，等待价格突破关键技术水平再进行操作。如果突破上行阻力，可以适度考虑买入；若跌破支撑位，则应考虑减仓或观望。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's recent price action shows a consolidation phase around the $88,670 level. The price has been fluctuating between $88,478.53 and $89,026, indicating a period of indecision in the market. The absence of clear bullish or bearish momentum suggests that BTC/USD is in a tight range. This type of market behavior typically signals a potential breakout or breakdown once price moves past significant support or resistance levels. Traders should watch for a decisive move beyond these boundaries to confirm the next directional move.\n\nThe Relative Strength Index (RSI) is currently unavailable, which leaves traders without this important momentum indicator. However, the MACD reading of 42.86903 suggests that there is some positive momentum in the market. Typically, a MACD value above zero points to potential bullish sentiment, but since the signal line is not provided, caution is necessary when interpreting the strength of this momentum. Without a clear crossover, it’s difficult to make definitive predictions on short-term trends.\n\nThe 20-period Simple Moving Average (SMA) is currently positioned at $89,359.085, which is just above the current price. This could act as a resistance level, with the price potentially facing difficulty moving above it. A breach of this level could open the door for higher targets, but traders should also be alert to the possibility of rejection, which may result in a retest of lower support levels. If the price fails to hold above $88,478.53, the next logical support area could be around $88,000.\n\nGiven the current market structure, short-term traders may want to focus on range-bound strategies, buying near support and selling near resistance. For longer-term traders, waiting for a clear breakout above $89,026 or a breakdown below $88,478.53 could provide more certainty in direction. Caution should be maintained, especially due to the lack of some key indicators."
+    }
+  }
+}
