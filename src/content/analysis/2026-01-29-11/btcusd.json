@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-29T11:18:14.973Z",
+  "price": {
+    "close": "87875.67",
+    "high": "87932.92",
+    "low": "87676.93",
+    "open": "87799.99",
+    "change": "0.09",
+    "datetime": "2026-01-29 11:00:00"
+  },
+  "indicators": {
+    "rsi": 39.35578,
+    "macd": -336.65556,
+    "macd_signal": -238.063561,
+    "sma20": 88596.944
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前比特币/美元（BTC/USD）价格为87875.67，显示出震荡整理的趋势。尽管24小时内变化不大，仅为0.09%，但市场在高点87932.92和低点87676.93之间反复波动，表明投资者情绪相对谨慎。在缺乏明确方向的情况下，短期内可能会继续维持这种走势。\n\n从技术指标来看，MACD当前为-336.65556，显示出卖压明显，但由于未能提供信号线的相应数据，无法完全评估其趋势强度。而20日简单移动平均线（SMA）在88596.94400，显示出价格在该水平之上形成了一定的阻力。RSI指标缺失，限制了对超买或超卖状态的判断。\n\n在支撑和阻力位方面，当前的支撑位可设在87676.93附近，若价格跌破此位，可能引发更大的下行压力。反之，87932.92的高点则为短期阻力，突破后有望寻求更高的价格区间。投资者应密切关注这些关键水平，以制定相应的交易策略。\n\n综合来看，短期内建议投资者保持观望，避免在震荡行情中进行频繁交易。若价格突破关键阻力位，可考虑短线入场，而若跌破支撑位，则应做好止损准备，以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 87875.67\\n- 24h Change: 0.09%\\n- High/Low: 87932.92 / 87676.93\\n- RSI(14): N/A\\n- MACD: -336.65556, Signal: N/A\\n- SMA(20): 88596.94400\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe **BTC/USD** pair is exhibiting a **neutral-to-slightly-bearish trend** around the current price of **87,875.67**. Prices have remained tightly ranged within the **24-hour high of 87,932.92 and low of 87,676.93**, indicating limited directional conviction. Given the recent failure to sustain moves above the **20-period Simple Moving Average (~88,597)**, short-term momentum appears subdued. Until a decisive break above that SMA, the path of least resistance may lean toward consolidation or mild downside.\n\nLooking at the available momentum data, the **MACD at –336.66** signals that bearish momentum has been present, though without the signal line value it’s difficult to gauge crossover timing. The absence of an **RSI(14)** reading leaves overbought/oversold conditions unclear, but the MACD’s negative orientation alongside sideways price movement suggests a lack of strong bullish pressure. Traders should treat current conditions as indecisive, watching closely for any MACD convergence toward its signal line as an early hint of momentum shift.\n\nKey **support levels** to monitor include recent intra-day lows near **87,600** and psychological floors at **87,000** and then **86,500**. A sustained breach below these could open the door to deeper pullbacks toward the lower 87k range. On the upside, breaking and holding above the **20-period SMA** would be a first step toward validating renewed bullish interest, with stronger resistance clustered near **89,000** and **90,000**. These zones have previously acted as price rejection points and could see increased volume if approached again.\n\nFrom a **trading perspective**, range-bound strategies may make sense under the current regime: oscillatory buys near support with tight risk controls, and scaled profit taking as price nears key resistance. Breakout traders should wait for confirmed closes beyond structural levels (above 89,000 or below 87,000) before committing larger positions, ensuring that momentum aligns with the breakout direction."
+    }
+  }
+}
