@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-29T15:21:04.016Z",
+  "price": {
+    "close": "2816.29",
+    "high": "2877.56",
+    "low": "2811.99",
+    "open": "2876.61",
+    "change": "-2.09",
+    "datetime": "2026-01-29 15:00:00"
+  },
+  "indicators": {
+    "rsi": 16.17078,
+    "macd": -30.10496,
+    "macd_signal": -17.27054,
+    "sma20": 2956.716
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[下行压力明显，等待支撑反弹]",
+      "content": "当前以太坊/美元(ETH/USD)的价格在2816.29美元，处于一个相对低位，短期内有明显的下行压力。从24小时的变化来看，价格下跌了2.09%，且未能突破之前的高点2877.56美元。这表明市场的卖压较重。\n\n技术指标方面，MACD为负值(-30.10)，这暗示市场可能处于弱势状态，但由于信号线数据缺失，无法提供更明确的超卖或反弹信号。RSI未提供，无法直接评估超买超卖区间。SMA(20)为2956.72美元，价格大幅低于该均线，进一步验证了市场的下行趋势。\n\n当前的支撑位在2811.99美元附近，而阻力位则在2877.56美元一线。如果价格跌破支撑位，可能会进一步走低，关注下一个支撑位的表现。反之，若价格能够突破2877美元，则有可能迎来短期反弹。\n\n综合来看，目前市场走势偏弱，建议交易者保持观望，尤其是在价格接近支撑位时可考虑寻找短期反弹的机会，但要注意严格设定止损位以控制风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Ethereum vs US Dollar (ETH/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 2816.29\\n- 24h Change: -2.09%\\n- High/Low: 2877.56 / 2811.99\\n- RSI(14): N/A\\n- MACD: -30.10496, Signal: N/A\\n- SMA(20): 2956.71600\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe ETH/USD pair is showing signs of **short-term bearish pressure** as prices trade below the 20-period simple moving average at 2956.72. The latest price of **2816.29** reflects a notable pullback from recent highs, with a **24-hour decline of −2.09%**. This suggests sellers are active, particularly after failing to sustain above the previous intraday peak near 2877.56. If this momentum persists, the trend may continue to favor the downside, especially in the absence of stronger bullish catalysts.\n\nFrom an **indicator perspective**, the negative MACD value (−30.10) underscores the bearish tilt, signaling that recent momentum is weighted toward sellers. Without a corresponding signal line available, caution is warranted in interpreting potential crossovers. The absence of a reliable RSI reading limits clarity on overbought or oversold conditions, but the current positioning below the SMA indicates that short-term momentum hasn’t turned bullish. A sustained move above the SMA could shift sentiment more neutral.\n\nKey **support levels** to watch are near the 2800 psychological zone and the recent intraday low around **2811.99**. A breakdown below these points could accelerate selling toward lower supports such as 2750 and the 2700 round number. On the upside, resistance remains clustered near the 2875–2900 area and more substantially at the 2950–2960 SMA bandwidth. Traders should monitor volume around these zones to validate any breakout or rejection patterns.\n\nFor **trading suggestions**, conservative participants might wait for clearer confirmation of trend reversal—such as a close above the SMA(20) with strengthening volume. Short-term traders could consider tactical long entries on sharp rejections of support near 2800 with tight stops, while breakout traders may seek a decisive move above the 2900 resistance for potential upside continuation. Risk management remains essential given prevailing volatility."
+    }
+  }
+}

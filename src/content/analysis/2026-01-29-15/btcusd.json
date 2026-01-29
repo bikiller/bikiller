@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-29T15:19:58.211Z",
+  "price": {
+    "close": "85102.1",
+    "high": "86880.25",
+    "low": "85053",
+    "open": "86851.98",
+    "change": "-2.01",
+    "datetime": "2026-01-29 15:00:00"
+  },
+  "indicators": {
+    "rsi": 20.50178,
+    "macd": -593.32229,
+    "macd_signal": -357.66959,
+    "sma20": 88068.4555
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期偏弱震荡下行",
+      "content": "从价格结构看，BTC/USD最新价85102附近，跌破短期均线并接近24小时低点，显示空头占据主动。高点逐步下移，短线趋势偏弱，市场情绪趋于谨慎，仍处于震荡下行通道中。\n\n技术指标方面，价格明显低于SMA(20)的88068，均线对反弹形成压制。MACD值为-593，处于零轴下方，动能偏空，虽缺乏信号线确认，但下行动能尚未完全释放，短期反弹力度有限。\n\n支撑位关注85000一线，该位置接近日内低点，若有效跌破，可能下探84000区域。上方阻力位首先在86500，其次是88000附近的20日均线压力区，突破前难以扭转弱势结构。\n\n交易策略上，偏向防守思路。激进者可在支撑位附近轻仓尝试短线反弹，严格止损；稳健者建议等待价格重新站稳均线或放量突破阻力后再介入，避免在弱势震荡中追涨。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 85102.1\\n- 24h Change: -2.01%\\n- High/Low: 86880.25 / 85053\\n- RSI(14): N/A\\n- MACD: -593.32229, Signal: N/A\\n- SMA(20): 88068.4555\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin’s recent price action reflects a **near-term corrective phase** after the recent highs. The market tested resistance around **$86,800–$87,000**, failing to sustain upside momentum and sliding toward the lower boundary near **$85,000**. The break below the **20-period simple moving average (~$88,070)** suggests waning bullish conviction. Unless buyers step in above this moving average, the trend may remain **neutral to slightly bearish in the short term**, with choppy conditions persisting.\n\nMomentum indicators that are available point to **lower energy behind the rally**. The notably negative MACD value (-593) without a signal line reading underscores **weak bullish momentum** and heightened downside pressure. While RSI isn’t available, the combination of price selling off from a short-term resistance zone and moving average rejections implies a **lack of upward strength**. This usually precedes consolidation or deeper retracement if volume doesn’t pick up on bounces.\n\nKey levels provide a framework for tactical responses. On the downside, **$85,000–$85,300** presents immediate support; a breakdown below this could open the door to **$83,000 and then $80,000** as next defensive zones. To the upside, reclaiming and holding above the **20-period SMA** would be constructive, targeting **$88,500–$89,000** initially and then the prior high area. These levels offer clear reference points for managing risk and entries in both directions.\n\nGiven the current structure, more cautious traders may prefer **waiting for clear confirmation**, such as a decisive break above the moving average with strong volume or a solid bounce from support with bullish momentum shift. For aggressive participants, scaling into longs near support with tight stops below **$84,500** could work, while shorts could be considered if **$85,000** fails and momentum accelerates downward. Consistent risk discipline remains crucial in this unsettled environment."
+    }
+  }
+}
