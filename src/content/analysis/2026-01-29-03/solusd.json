@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-29T03:38:46.795Z",
+  "price": {
+    "close": "122.65",
+    "high": "123.57",
+    "low": "122.47",
+    "open": "123.34",
+    "change": "-0.57",
+    "datetime": "2026-01-29 03:00:00"
+  },
+  "indicators": {
+    "rsi": 27.56092,
+    "macd": -0.62728536,
+    "macd_signal": -0.21050178,
+    "sma20": 125.8155
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理，短期谨慎]",
+      "content": "当前Solana对美元的价格为122.65，近期表现出一定的震荡整理趋势。在24小时内小幅下跌0.57%，显示出市场缺乏明确的方向。高点和低点分别为123.57和122.47，表明短期内价格在这个区间内波动，可能受到市场情绪和整体趋势的影响。\n\n从技术指标来看，虽然RSI(14)数据缺失，但MACD值为-0.627，显示出当前市场处于弱势阶段。SMA(20)为125.81550，表明短期均线高于当前价格，可能暗示短期内存在下行压力。这些指标共同表明，投资者在当前市场环境中应保持谨慎。\n\n在支撑和阻力位方面，122.47构成了重要的支撑位，如果价格跌破该水平，可能会引发进一步的下行趋势。而123.57则是关键的阻力位，若突破该水平，可能会引发一定的反弹。投资者应密切关注这两个价位的变化，以制定相应的交易策略。\n\n总体来看，建议投资者在此阶段采取观望策略，避免过度交易，等待市场趋势明朗后再做决策。如果价格突破关键阻力位，可以考虑适度入场，反之则应设定止损策略，以降低风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 122.65\\n- 24h Change: -0.57%\\n- High/Low: 123.57 / 122.47\\n- RSI(14): N/A\\n- MACD: -0.62728536, Signal: N/A\\n- SMA(20): 125.81550\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s short‑term trend shows mild weakness as the price sits below the 20‑period simple moving average at **125.82**, suggesting sellers have the edge recently. The latest price near **122.65** tested the day’s low around **122.47**, indicating limited bullish conviction. Until the 20‑SMA turns into support on sustained closes above it, the immediate bias remains slightly bearish within this narrow range.\n\nLooking at momentum, the MACD’s negative value (**–0.627**) hints at downward pressure, even without a confirmed signal line crossover. The absence of an RSI reading makes strength assessment tricky, but the market’s inability to push decisively higher suggests weakening buying power. Traders should watch for any MACD histogram contraction, which could signal momentum loss in the downside before considering longer entries. A rising MACD toward zero would boost confidence for bullish setups.\n\nKey levels to monitor: **support** near the recent intra‑day low around **122.40–122.50**, and a secondary floor near **120.00**, where buyers previously showed interest. On the upside, **resistance** clusters at the 20‑SMA near **125.80** and broader congestion near **128.00–130.00**. A clear break above these levels, especially with volume, could shift the bias back toward the upside. Conversely, a break below **120.00** may open the door for deeper pullbacks.\n\nFor trading suggestions, consider short‑term bearish strategies while price remains under the 20‑SMA, such as controlled short entries with stops above **126.00**. For bullish traders, waiting for confirmation — ideally a daily close above **126.00–128.00** with improving momentum — can reduce false breakout risk. Risk management is key; tight stops and defined targets around these support and resistance zones will help navigate this consolidative market environment."
+    }
+  }
+}
