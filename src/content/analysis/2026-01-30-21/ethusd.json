@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-30T21:45:20.796Z",
+  "price": {
+    "close": "2695.19",
+    "high": "2714.8",
+    "low": "2677.38",
+    "open": "2681.05",
+    "change": "0.55",
+    "datetime": "2026-01-30 21:00:00"
+  },
+  "indicators": {
+    "rsi": 35.62612,
+    "macd": -33.36248,
+    "macd_signal": -36.22487,
+    "sma20": 2731.6695
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线震荡偏弱，反弹承压",
+      "content": "当前价2695.19小幅上涨，但仍低于SMA20（2731.67），说明反弹力度有限，短线趋势偏弱。24小时波动区间2714.8-2677.38，价格更多处于区间中下沿，市场情绪偏谨慎。\n\nMACD为-33.36且处于负值区域，动能仍偏空，代表下跌惯性尚未完全消退。RSI与Signal缺失，无法确认超买超卖与金叉死叉节奏，建议结合K线形态与成交量验证反转信号。\n\n支撑位先看2677附近，若跌破则关注2650与2600整数关口；上方阻力在2715与SMA20附近的2730-2735区域，突破后才有望打开上行空间。区间内多空拉锯，追涨风险偏高。\n\n交易上偏向“反弹做空/回踩做多”思路：激进者在2715-2735遇阻可轻仓试空，止损放在2745上方；稳健者等待回踩2677企稳再分批低吸，目标2715与2730，跌破2650则及时止损。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum (ETH) against the US Dollar stands at $2695.19, showing a modest 0.55% increase in the last 24 hours. The market is demonstrating a mild consolidation phase, with the price oscillating between the recent high of $2714.8 and low of $2677.38. Given this relatively narrow range, the trend is currently neutral, with no strong directional momentum. A breakout either above $2715 or below $2677 could determine the next significant move in the short term.\n\nFrom a technical perspective, Ethereum's 20-period Simple Moving Average (SMA) at $2731.67 is providing immediate resistance. The price remains below this SMA, indicating potential downward pressure unless ETH can break above and sustain this level. In contrast, support is well established near the $2677.38 low, which has acted as a strong floor in the past few hours. A drop below this support could lead to further declines, while a recovery above the SMA could open up resistance targets higher up.\n\nThe Relative Strength Index (RSI) is currently unavailable, making it harder to gauge overbought or oversold conditions at this moment. The absence of the RSI leaves the market in an uncertain stance regarding momentum shifts. Additionally, the MACD reading of -33.36248 suggests bearish momentum, though with the Signal Line unavailable, it is hard to interpret potential crossovers or reversals. The current MACD indicates that the market is still in a somewhat negative phase, but no clear trend is emerging yet.\n\nGiven the lack of a clear trend and the mixed indicators, traders may consider waiting for confirmation of a breakout from the $2677 support or $2731 resistance. For those preferring a risk-managed approach, it might be prudent to enter positions after a clear breakout in either direction, with tighter stop-loss orders to manage potential volatility."
+    }
+  }
+}
