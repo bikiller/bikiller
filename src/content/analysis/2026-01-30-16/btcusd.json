@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-30T16:34:39.651Z",
+  "price": {
+    "close": "83109",
+    "high": "83139.99",
+    "low": "82405.17",
+    "open": "82740.33",
+    "change": "0.45",
+    "datetime": "2026-01-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.89068,
+    "macd": -786.16941,
+    "macd_signal": -1014.999,
+    "sma20": 82973.397
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏强，仍处上行结构",
+      "content": "目前BTC/USD最新价83109，24小时小幅上涨，价格维持在SMA20均线82973上方，显示短期多头仍占优势，但高低点区间收敛，市场进入震荡整理阶段，趋势偏强但需防回踩。\n\n技术指标方面，MACD处于负值区域，反映中期动能仍未完全转多，信号线缺失说明数据不完整。RSI暂无，但从价格表现看，多头尚未进入过热区，仍有上行空间。\n\n关键支撑位关注82400附近，若跌破可能回测82000心理关口。上方阻力在83140及84000区域，突破后有望打开新一轮上升通道。\n\n交易建议上，短线可在支撑区间低吸，止损设于82000下方；若放量突破84000，可考虑顺势追多。整体保持轻仓操作，等待趋势确认更稳妥。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC) has been showing a modest upward movement, currently priced at $83,109, with a slight 0.45% increase over the past 24 hours. The price action has been fluctuating between a high of $83,139.99 and a low of $82,405.17, indicating tight consolidation. Given the limited volatility in the short term, the market sentiment appears neutral. If this range-bound behavior continues, Bitcoin may need a strong catalyst to push it beyond these price levels. \n\nThe Relative Strength Index (RSI) is not currently available, so it’s difficult to assess the overbought or oversold conditions. However, with the MACD showing a value of -786.16941, it suggests that there is some bearish momentum in the market. Since the MACD histogram is negative, this implies that selling pressure is still in play, though not at extreme levels. Until the MACD crosses the zero line or turns positive, a cautious approach is advisable.\n\nFrom a technical standpoint, Bitcoin’s short-term trend seems to be driven by the recent move above the 20-period Simple Moving Average (SMA) at $82,973. This indicates a slight bullish momentum as long as the price stays above this key support level. If Bitcoin tests and holds above the SMA, it could aim for the recent high near $83,140. However, failure to hold above this support could lead to a retest of the lower range at $82,400, providing an opportunity for short positions.\n\nIn terms of trading strategy, cautious traders may want to watch for a breakout above $83,140 for potential long entries, while those seeking short positions should wait for a confirmation of price rejection at the upper resistance or a break below the SMA. A clear break below $82,400 would strengthen the bearish case. A waiting strategy to observe these critical levels could be wise in such a consolidating market."
+    }
+  }
+}
