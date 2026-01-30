@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-30T07:32:25.619Z",
+  "price": {
+    "close": "115.26",
+    "high": "115.78",
+    "low": "113.67",
+    "open": "113.67",
+    "change": "1.39",
+    "datetime": "2026-01-30 07:00:00"
+  },
+  "indicators": {
+    "rsi": 37.37745,
+    "macd": -2.13133,
+    "macd_signal": -2.1432,
+    "sma20": 117.0525
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 115.26\\n- 24小时变化: 1.39%\\n- 高点/低点: 115.78 / 113.67\\n- RSI(14): N/A\\n- MACD: -2.13133, Signal: N/A\\n- SMA(20): 117.052500\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期震荡偏弱修正并寻求支撑\n\n当前价格维持在115美元附近，较20日均线117.05略低，显示短期空头压力存在但幅度有限。价格在115区间反复盘整，未能有效上破阻力，暗示多头动能不足，短线趋势偏震荡调整。若收盘持续低于20日均线，可能延续回落修正走势。\n\n技术指标方面，MACD为负值（-2.13133），表明中短期动量偏弱；缺少信号线和RSI数据限制力度判断，但价格靠近支撑区域震荡，动量衰竭迹象明显。若未来MACD柱体缩短并出现背离企稳，则或预示调整接近底部。\n\n关注关键支撑与阻力位：下方支撑初步在113.50-114.00区间，若失守则可能测试110美元附近更强支撑；上方阻力在117.00–118.00为短期压制，突破该区域有望重拾上行空间并测试120美元关口。震荡区间内交易需警惕假突破。\n\n交易建议上，短线可在支撑区域分批布局多单，止损设于下破113.00下方，目标可瞄准阻力位附近获利。若价格上破117.50并站稳，则可考虑逢低继续加仓，保持风险控制。谨防市场情绪突变造成快速回撤。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The SOL/USD pair is currently trading at 115.26, reflecting a modest 1.39% increase over the last 24 hours. This uptick suggests a potential bullish sentiment, albeit within a relatively confined range defined by a high of 115.78 and a low of 113.67. The price action indicates that Solana is finding support near the lower bound of this range, which may serve as a critical level to watch for traders looking to enter long positions. A breakout above the recent high could signal further upward momentum.\n\nIn terms of technical indicators, the lack of an available RSI complicates the analysis, but the MACD reading of -2.13133 suggests bearish momentum in the short term. Traders should monitor for potential crossover points, as a shift toward a positive MACD could indicate a reversal in trend. The SMA(20) at 117.05 also provides insight; if the price moves above this level, it may attract additional buying interest, while a failure to hold above this average could trigger selling pressure.\n\nSupport levels are currently established at 113.67, with traders likely to see this as a critical point for potential rebounds. If the price breaks below this level, further declines could ensue, pushing towards deeper support zones. Conversely, resistance is seen at the 117.05 SMA, where selling pressure may intensify. A decisive break above this resistance could pave the way for a more sustained upward trend.\n\nFor trading strategies, a cautious approach is advisable given the current market conditions. Traders might consider entering long positions if the price breaks and holds above the SMA(20), while setting stop-loss orders near the support level at 113.67 to manage risk. Conversely, short positions could be evaluated if Solana fails to break through the resistance level, especially if accompanied by bearish momentum indicators. This balanced approach allows traders to capitalize on potential volatility while safeguarding against adverse movements."
+    }
+  }
+}
