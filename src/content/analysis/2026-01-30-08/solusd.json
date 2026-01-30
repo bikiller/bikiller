@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-30T08:35:59.224Z",
+  "price": {
+    "close": "115.29",
+    "high": "115.97",
+    "low": "115.22",
+    "open": "115.59",
+    "change": "-0.27",
+    "datetime": "2026-01-30 08:00:00"
+  },
+  "indicators": {
+    "rsi": 38.067096,
+    "macd": -1.99281,
+    "macd_signal": -2.10879,
+    "sma20": 116.7035
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 115.29\\n- 24小时变化: -0.27%\\n- 高点/低点: 115.97 / 115.22\\n- RSI(14): N/A\\n- MACD: -1.99281, Signal: N/A\\n- SMA(20): 116.70350\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏弱\n\n目前价格在115美元附近横盘震荡，日内微幅下挫显示多空力量均衡但偏弱势，价格低于20日均线表明短期趋势承压。若未有效站上均线，多头反攻意愿不足，短线偏震荡整理。\n\n技术指标方面，MACD仍处于负值区间暗示空方动能略强，尽管缺少完整信号线数据，整体结构仍偏弱势；RSI指标缺失限制超买超卖判断，但当前价格动作并未显著超出典型震荡区间。\n\n关键支撑位关注113.50-114.00美元区域，如跌破有可能加速下探至110美元；阻力位则在116.70（20日均线）及118.50附近，若突破则有望重拾上行动能。\n\n交易上建议短线以区间交易为主，跌至支撑可小量逢低布局，止损设于关键支撑下方；上方若有效站稳阻力并放量，可考虑顺势做多，风险控制为核心，避免追高。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current price of Solana (SOL) against the US Dollar sits at 115.29, reflecting a slight decline of 0.27% over the past 24 hours. This minor retracement indicates that the asset is still navigating within a range that appears to be consolidating. The recent high of 115.97 suggests a resistance level that traders should monitor closely, while the low of 115.22 serves as a potential support level. A break below this support could signal further bearish sentiment, while a rebound could indicate a continuation of bullish momentum.\n\nIn terms of technical indicators, the absence of an RSI reading makes it challenging to assess overbought or oversold conditions definitively. However, the MACD value of -1.99281 indicates a bearish trend, suggesting that sellers are currently in control. Traders should consider the possibility of a crossover in the MACD in the near term to signal a potential reversal. Additionally, the Simple Moving Average (SMA) of 20 days at 116.70 indicates that the price is currently trading below this average, further emphasizing the bearish sentiment prevailing in the market.\n\nSupport and resistance play a critical role in determining potential entry and exit points. The established support at 115.22 should be watched closely; if it holds, it may present a buying opportunity for traders looking to capitalize on a rebound. Conversely, if the price breaks below this level, it could lead to further declines toward the next support zone. Resistance at 115.97 will act as a crucial barrier for any bullish attempts to regain upward momentum.\n\nIn light of the current market conditions, traders might consider a cautious approach. A short position could be justified if the price closes below the support level, targeting further declines. Conversely, if the asset shows signs of recovery and breaks above 116.70, it may be prudent to take a long position, especially if confirmed by bullish indicators. As always, risk management strategies should be implemented to safeguard against unexpected volatility."
+    }
+  }
+}

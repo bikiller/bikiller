@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-30T08:33:42.471Z",
+  "price": {
+    "close": "82397.78",
+    "high": "82819.79",
+    "low": "82380.69",
+    "open": "82652.63",
+    "change": "-0.31",
+    "datetime": "2026-01-30 08:00:00"
+  },
+  "indicators": {
+    "rsi": 29.3039,
+    "macd": -1305.74329,
+    "macd_signal": -1312.89087,
+    "sma20": 83867.6995
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，突破关键阻力位是关键",
+      "content": "当前比特币/美元（BTC/USD）市场处于短期震荡整理状态，价格在82397.78附近波动，24小时变化为-0.31%。尽管价格有所回落，但依然未突破明显的支撑或阻力区域。整体上，市场的情绪较为谨慎，尚未形成强烈的趋势信号。\n\n从技术指标来看，MACD处于负值区域（-1305.74329），但没有明确的信号线形成，表明市场缺乏明确的动能。RSI指标目前不可用，但根据SMA(20)显示，当前价格略低于20日简单移动平均线83867.69950，这可能暗示市场存在一定的下行压力。若价格持续低于该水平，可能加剧空头压力。\n\n支撑位方面，当前比特币的低点为82380.69，若跌破此位置，价格可能进一步下探至更低水平。上方的主要阻力位位于82819.79，突破这一水平可能会打开更大的上涨空间。若价格突破该阻力区间，可能会迎来一波反弹。\n\n综合来看，建议交易者保持观望，待价格突破关键支撑或阻力位后再做进一步操作。若价格持续维持震荡走势，可考虑进行区间交易，严格设置止损以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 82397.78\\n- 24h Change: -0.31%\\n- High/Low: 82819.79 / 82380.69\\n- RSI(14): N/A\\n- MACD: -1305.74329, Signal: N/A\\n- SMA(20): 83867.69950\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe BTC/USD pair appears to be navigating a **mild corrective phase** after failing to sustain momentum above the recent intraday high. Price remains below the 20-period simple moving average (SMA), which sits near **$83,867**, suggesting **short-term bearish bias**. While the latest candles show limited range expansion, the inability to reclaim the SMA signals that buyers are losing conviction and sellers could look to probe lower zones for setups.\n\nAlthough the RSI(14) is unavailable, the MACD’s **negative value around –1305** indicates that downside momentum persists despite the modest 24-hour decline. A negative MACD typically reflects a **weakening trend** and confirms bearish pressure, especially when below the signal line or zero. Without a clear oversold reading from the RSI, caution dictates that traders wait for additional confirmation (like histogram contraction or a MACD cross) before assuming a reversal is imminent.\n\nKey **support** levels to watch include the **$82,000 round number**, followed by the deeper zone near **$80,500–$80,000**, which has historically drawn bids. On the upside, the first **resistance** is the 20-SMA near **$83,800–$84,000**, with a stronger barrier around **$85,000**. Breaching above these would help shift the narrative toward neutral or slightly bullish, but failure to do so could keep sellers in control and reinforce the downtrend.\n\nFor active traders, a **range-responsive approach** could be sensible: consider partial long exposure near support once bullish reversal candlesticks appear, with tight stops just below. Meanwhile, short positions might be favored if price retests the SMA and rejects with volume, aiming for support targets. Longer-term holders should observe whether BTC can reclaim and hold above the 20-SMA for sustained upside confidence."
+    }
+  }
+}
