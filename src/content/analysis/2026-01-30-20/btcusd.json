@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-30T20:25:24.639Z",
+  "price": {
+    "close": "83784.02",
+    "high": "84131.57",
+    "low": "83381.82",
+    "open": "84115.01",
+    "change": "-0.39",
+    "datetime": "2026-01-30 20:00:00"
+  },
+  "indicators": {
+    "rsi": 50.60347,
+    "macd": -396.64252,
+    "macd_signal": -726.60445,
+    "sma20": 82826.941
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期偏空",
+      "content": "目前比特币价格处于83784.02美元，市场呈现震荡整理态势。从价格走势来看，短期内并未出现明确的上涨或下跌信号，价格在83381.82至84131.57区间内波动，显示出市场缺乏强烈的方向性。\n\n技术指标方面，MACD目前处于负值区域，显示市场动力偏弱。虽然RSI未提供，SMA(20)处于82826.94美元，表明短期内价格略高于20日均线，支撑在此水平附近。若价格跌破此支撑，可能会面临进一步下探。\n\n从支撑和阻力层面来看，下方支撑位在83381.82美元，若跌破此位置，则可能进一步测试82800美元。上方阻力位在84131.57美元，一旦突破该阻力，可能会有一定的反弹空间，迎来新的上涨。\n\n综合来看，当前市场走势震荡偏空，建议投资者关注价格在支撑位附近的表现，操作上可适当选择短期反弹的空单，但要保持灵活，避免大幅波动带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 83784.02\\n- 24h Change: -0.39%\\n- High/Low: 84131.57 / 83381.82\\n- RSI(14): N/A\\n- MACD: -396.64252, Signal: N/A\\n- SMA(20): 82826.941\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin’s recent price action suggests a **consolidation phase with a slight bearish bias**. With the latest quote around 83,784, BTC has struggled to reclaim momentum above short-term resistance near 84,000–84,200. The 24-hour range shows modest volatility, trading between 83,381 and 84,131, indicating indecision among market participants. While not sharply negative, this setup reflects a **lack of strong directional conviction**, especially after failing to push higher.\n\nLooking at the available indicators, the MACD’s negative reading (~-396.64) points to **downward pressure lingering in short-term momentum**, even though the signal line isn’t provided for confirmation. The 20-period simple moving average (~82,827) remains just below current prices, acting as **dynamic support** and suggesting that recent dips have found buyers near that level. Without RSI data, momentum strength is unclear, but the MACD hints that sellers still have an edge until a crossover or divergence emerges.\n\nKey technical levels to monitor include the **support zone between 82,500 and 83,000**, which has absorbed recent selling and aligns with the SMA(20). A breakdown below this range could open the door to deeper retracement toward 80,000. On the upside, **resistance clusters around 84,000–84,500** must be cleared for a resumption of bullish activity. Above that, the next psychological barrier near 85,500 would likely face stiff selling.\n\nFor traders, a **neutral to cautious stance** makes sense in this environment. Short-term longs might favor entries closer to verified support, keeping tight risk management in place. Aggressive breakout traders could consider positioning above confirmed resistance closes with volume. Conversely, **breakdown strategies** might activate below 82,500, targeting lower support with appropriate stops. Overall, patience and confirmation should guide execution until clearer directional signals form."
+    }
+  }
+}
