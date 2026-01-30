@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-30T05:07:09.216Z",
+  "price": {
+    "close": "82850.01",
+    "high": "82888.01",
+    "low": "82757.68",
+    "open": "82799.9",
+    "change": "0.06",
+    "datetime": "2026-01-30 05:00:00"
+  },
+  "indicators": {
+    "rsi": 30.59428,
+    "macd": -1383.5425,
+    "macd_signal": -1292.89876,
+    "sma20": 84667.339
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理趋势]",
+      "content": "当前比特币/美元（BTC/USD）价格为82850.01，整体市场显示出震荡整理的趋势。在过去24小时内，价格变化幅度仅为0.06%，显示出市场参与者的观望情绪。高点82888.01和低点82757.68之间的波动，表明短期内缺乏强烈的买卖动力，市场仍在寻找方向。\n\n从技术指标来看，MACD值为-1383.54，显示出当前的空头压力，但由于缺乏信号线数据，难以判断趋势的持续性。SMA（20）为84667.34，位于当前价格之上，可能形成短期阻力位。相对强弱指数（RSI）暂时无法提供，但通常在超买或超卖区域时能提供有效的买入或卖出信号。\n\n在支撑和阻力位方面，关键支撑位在82750附近，一旦跌破可能引发进一步下行。而上方阻力位在84500附近，若突破将可能引发新的上涨动能。对于交易者而言，建议在关键支撑位附近观察买入机会，同时密切关注价格突破阻力位时的交易信号，灵活调整持仓策略以应对市场变化。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $82,850.01, reflecting a marginal increase of 0.06% over the past 24 hours. This stability indicates a consolidation phase, with the price oscillating between a high of $82,888.01 and a low of $82,757.68. Given the proximity to these extremes, traders should closely monitor price movements for potential breakouts or reversals. A sustained move above the recent high may signal a bullish trend, while a drop below the low could indicate bearish sentiment.\n\nCurrently, the Simple Moving Average (SMA) over 20 periods is positioned at $84,667.34, suggesting that the market is trading below this key moving average. This positioning may imply a bearish undertone in the short term, as prices typically gravitate towards the SMA. If Bitcoin successfully breaches this SMA, it could pave the way for a potential rally towards higher resistance levels. Conversely, failure to maintain upward momentum could lead to heightened selling pressure.\n\nThe lack of available RSI data warrants caution, as the Relative Strength Index is a critical tool for assessing overbought or oversold conditions. The MACD indicates a negative value at -1,383.54, which may point to bearish momentum in the market. Traders should consider this data when making decisions and be prepared for volatility. A bullish crossover in the MACD could provide a confirmation signal for potential buy entries.\n\nSupport levels are evident around $82,757.68, where buying interest may emerge. If this level fails to hold, the next significant support could be around $80,000, which is a psychological barrier for traders. On the upside, resistance at $84,000 presents a target for those looking to capitalize on upward movements. Traders may consider implementing stop-loss orders to manage risk effectively and explore potential long positions if a bullish trend is confirmed."
+    }
+  }
+}
