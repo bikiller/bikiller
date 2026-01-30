@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-01-30T11:08:35.617Z",
+  "price": {
+    "close": "839.66",
+    "high": "839.66",
+    "low": "838.39",
+    "open": "838.94",
+    "change": "0.08",
+    "datetime": "2026-01-30 11:00:00"
+  },
+  "indicators": {
+    "rsi": 33.4371,
+    "macd": -12.18121,
+    "macd_signal": -11.87578,
+    "sma20": 852.7965
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 839.66\\n- 24小时变化: 0.08%\\n- 高点/低点: 839.66 / 838.39\\n- RSI(14): N/A\\n- MACD: -12.18121, Signal: N/A\\n- SMA(20): 852.79650\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：当前价格承压横盘震荡\n\n当前BNB价格在839一线短期震荡，整体趋势偏弱。价格低于20日均线（852.8），表明短线多头动能不足，未能有效站上关键均线位置，市场多空仍存分歧，但下方暂未出现急跌。\n\n技术指标方面，MACD处于负值区域（-12.18），显示空头动量仍在发挥，但因Signal缺失需结合价量配合观察。RSI数据缺失，但从价格行为看未见明显超买超卖，说明震荡格局延续可能性大。\n\n从支撑阻力看，下方初步支撑在835-830区域，跌破或引发进一步下探；上方阻力仍在850-860区间，突破或重新点燃多头情绪。中线关注800关口支撑强度。\n\n交易建议上，建议短线观望为主，等待突破信号确认。激进者可在支撑附近逢低小量布局，止损设于825下方；追高者宜等收盘站上850以上再考虑跟进，以控制风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 839.66\\n- 24h Change: 0.08%\\n- High/Low: 839.66 / 838.39\\n- RSI(14): N/A\\n- MACD: -12.18121, Signal: N/A\\n- SMA(20): 852.79650\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action around **$839–$840** reflects near-term consolidation after a recent pullback from higher levels. The limited 24‑hour range suggests indecision, with neither bulls nor bears asserting dominance. The price remains **below the 20‑period simple moving average (~852.8)**, hinting at short‑term bearish bias. However, the narrow trading band indicates potential stabilization rather than a strong reversal, so watch for a breakout above **$860** to confirm renewed upward momentum.\n\nMomentum indicators present a mixed picture. With **RSI unavailable**, we focus on the **MACD reading at –12.18** without a clear signal line value; this negative MACD suggests that bearish momentum has been present recently. The MACD’s distance below zero highlights that downward pressure still exists, but the flattening of recent price action may point to waning bearish strength. Traders should monitor any MACD convergence toward the signal line as an early indication of a bullish shift.\n\nKey technical levels are shaping near-term expectations. Immediate **support sits around $820–$825**, a zone that has held multiple short‑term pullbacks. A break below this could accelerate bearish moves toward **$800**. On the upside, **resistance near the SMA at ~$853**, followed by **$870–$880**, are crucial barriers. A decisive break above these levels would open the path to retest **$900+**. Volume confirmation on these moves will be critical to validate sustained trends rather than false breakouts.\n\nFor traders, a cautious approach is warranted. Consider scaling into long positions only after a confirmed close above **$855** with supportive volume. Conversely, aggressive short positions might target the lower support zone with tight stops above recent swing highs. Risk management remains vital in this environment of compressed volatility and mixed signals."
+    }
+  }
+}
