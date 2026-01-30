@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-30T15:07:09.017Z",
+  "price": {
+    "close": "83343.99",
+    "high": "83398.55",
+    "low": "82875.99",
+    "open": "82970",
+    "change": "0.46",
+    "datetime": "2026-01-30 15:00:00"
+  },
+  "indicators": {
+    "rsi": 44.60668,
+    "macd": -821.68049,
+    "macd_signal": -1062.57536,
+    "sma20": 83050.2945
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏强，仍处关键突破区",
+      "content": "当前BTC/USD最新价83343附近，价格站上SMA20均线（83050），显示短期多头仍占优势。但24小时涨幅有限，波动区间收敛，整体呈现高位震荡格局，市场等待方向选择。\n\nMACD数值为-821，仍处于零轴下方，暗示中期动能偏弱，反弹更多属于修复行情。RSI暂缺数据，需结合后续强弱确认，若量能放大，则上涨延续概率更高。\n\n支撑位重点关注82876一线，为日内低点区域，跌破则可能回测82500。上方阻力在83398-83500附近，若有效突破并站稳，短线有望打开上行空间至84000。\n\n交易建议上，激进者可在支撑区轻仓低吸，止损设在82800下方；稳健者等待突破83500后顺势跟进。整体策略以控制仓位、跟随趋势为主，防范震荡洗盘风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market data for Bitcoin shows a price of $83,343.99, reflecting a modest 0.46% increase over the last 24 hours. The price is currently near the top of its recent trading range, with a high of $83,398.55 and a low of $82,875.99, suggesting some consolidation at these levels. Despite the small daily movement, the price appears to be in an overall bullish trend, supported by the recent price action and its proximity to the SMA(20) of $83,050.29. The trend indicates strong upward momentum, but caution is advised as the market is still in a sideways formation within the range.\n\nIn terms of indicators, the absence of an RSI value leaves the momentum unclear, making it difficult to gauge overbought or oversold conditions. The MACD value at -821.68 signals a bearish short-term outlook, although it is not accompanied by a signal line, leaving this metric open to interpretation. The negative MACD indicates a potential for a downward retracement or consolidation if it persists. However, this must be viewed in the context of the overall bullish trend, where these retracements often provide buying opportunities rather than reversals.\n\nLooking at key levels, immediate support can be found around $82,875, where recent lows have been formed. If this level holds, we may see a continuation of the uptrend toward the next resistance at $83,398.55, with potential for further upside if momentum picks up. A break below $82,875 could signal a deeper pullback, possibly targeting $82,000 as the next key support level. Traders should remain vigilant for any signs of exhaustion at the current highs, as well as potential MACD divergence.\n\nFor trading strategies, traders may consider entering long positions near the support level of $82,875 with a stop-loss just below $82,000. Given the current lack of strong signals, it would be prudent to watch for confirmation through either price action or the eventual development of RSI or MACD signals before increasing position sizes. Keeping a close eye on the $83,398 resistance level will be crucial for anticipating potential breakout opportunities."
+    }
+  }
+}
