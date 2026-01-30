@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-30T22:59:54.436Z",
+  "price": {
+    "close": "83950.67",
+    "high": "84187.46",
+    "low": "83760.24",
+    "open": "84145.85",
+    "change": "-0.23",
+    "datetime": "2026-01-30 22:00:00"
+  },
+  "indicators": {
+    "rsi": 51.93868,
+    "macd": -235.52914,
+    "macd_signal": -560.78057,
+    "sma20": 83010.675
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡中的偏强整理",
+      "content": "从走势看，BTC/USD在84000附近高位震荡，24小时小幅回落但未破关键均线，整体仍处于上升通道内的整理阶段，多头结构尚未被破坏，短线以震荡偏强看待。  \n\n技术指标方面，价格位于20日均线83010之上，显示中期趋势仍偏多。MACD数值为负，动能略显不足，暗示短线回调整理需求；RSI暂缺，需结合后续数据确认超买或修复情况。  \n\n支撑与阻力上，第一支撑位在83760一线，若失守则关注20日均线83000区域；上方阻力位在84187的日内高点，进一步强阻力位于85000整数关口，突破后有望打开新空间。  \n\n交易策略上，激进者可在支撑位附近轻仓试多，止损设于83000下方；稳健者等待放量突破84200后顺势跟进。若跌破关键均线，应及时止盈离场，防范震荡转弱风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 83950.67\\n- 24h Change: -0.23%\\n- High/Low: 84187.46 / 83760.24\\n- RSI(14): N/A\\n- MACD: -235.52914, Signal: N/A\\n- SMA(20): 83010.67500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin’s price action shows a **modest pullback** from recent highs, trading around 83,950 amid slight negative momentum. The market remains **range-bound** between the short-term support near 83,760 and resistance just under 84,200. Despite the minor decline in the last 24 hours, there’s no decisive breakdown yet. The broader trend leans marginally bullish as prices hover above the 20-period simple moving average (SMA), which currently sits near 83,010.\n\nThe SMA(20) acting as dynamic support suggests **buyers are stepping in** on dips, absorbing selling pressure near this average. With the MACD deeply negative at -235 and no signal line available, we infer a **recent bearish crossover or weakening upward momentum**. Without the RSI data, we can’t confirm overbought/oversold conditions, but the subdued price range and MACD position indicate that **bullish conviction has softened** compared to earlier rallies.\n\nKey technical levels to watch: a sustained break above **84,200–84,300** would open the door toward **85,000 and beyond**, validating a continuation of the medium-term uptrend. On the downside, a clear close below the **83,000–83,100 SMA cluster** could trigger deeper correction toward **82,500 and 81,800**. Traders should monitor volume for confirmation of breakout or breakdown, as thin activity often leads to false moves in crypto markets.\n\nFor tactical positioning, **aggressive traders** might favor long entries on holds above SMA support with tight stops below 83,000, targeting the upper range. **Conservative participants** may await breakout confirmation above 84,300 before scaling in, managing risk through partial profit-taking near 85,000. Keep an eye on macro catalysts and volatility shifts that could quickly alter technical bias."
+    }
+  }
+}
