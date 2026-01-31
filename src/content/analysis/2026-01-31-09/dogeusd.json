@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-01-31T09:50:48.219Z",
+  "price": {
+    "close": "0.11176",
+    "high": "0.11245",
+    "low": "0.11124",
+    "open": "0.11146",
+    "change": "0.28",
+    "datetime": "2026-01-31 09:00:00"
+  },
+  "indicators": {
+    "rsi": 30.28487,
+    "macd": -0.001012638,
+    "macd_signal": -0.00065351939,
+    "sma20": 0.1150895
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 狗狗币/美元(DOGE/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.11176\\n- 24小时变化: 0.28%\\n- 高点/低点: 0.11245 / 0.11124\\n- RSI(14): N/A\\n- MACD: -0.0010126380, Signal: N/A\\n- SMA(20): 0.1150895\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"狗狗币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "狗狗币/美元技术分析：短期承压震荡，偏区间弱势\n\n当前 DOGE 价格位于 **0.11176**，短线在 **0.11245** 与 **0.11124** 区间震荡，表明多空力量暂未形成明确突破。价格低于 **SMA(20) 0.1151**，暗示中短期偏向弱势调整，但未跌破关键支撑，趋势整体偏震荡整理。\n\n技术指标方面，**MACD 负值 -0.00101** 显示空方势头略强，但量能不足，未见加速下行；缺少 RSI 与 Signal 限制了振幅判断，但均线倾向下行仍然提示压力存在。若后续指标回升，则可能带来修正反弹空间。\n\n支撑位关注 **0.1110–0.1100** 区间，一旦守稳有望再度回踩承接；阻力位看 **0.1130–0.1150**，尤其是 SMA(20) 附近为主要压力。若有效站上该区域，则短线或转为震荡上行。\n\n交易建议上，短线可在支撑附近逐步布局，止损设在 **0.1095** 下方；激进者可待价格突破 **0.1150** 并伴随成交量放大再进场。总体谨慎看待，顺势交易为主，避免逆势追高。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current market for Dogecoin (DOGE) shows a modest price of 0.11176, with a slight 24-hour change of 0.28%. This indicates a period of consolidation, with the price hovering near the recent low of 0.11124 and the high of 0.11245. The trend appears neutral, with no significant volatility in the past 24 hours. A cautious approach is warranted as the price moves within a narrow range, signaling indecision among traders. A break above 0.11245 could suggest potential upward momentum, while a fall below 0.11124 may open the door for further downside.\n\nThe absence of the Relative Strength Index (RSI) and the lack of a clear Signal line for the MACD make it challenging to gauge the immediate momentum. The MACD value of -0.0010126380 suggests a slight bearish bias, but its absence of confirmation through the Signal line weakens its reliability for trend direction. Traders should be aware that the lack of these indicators leaves the market without strong directional cues, urging caution for those looking for quick movements.\n\nSupport and resistance levels for DOGE/USD are critical for understanding potential price action. The current low at 0.11124 stands as immediate support, and any decline beneath this level could see further pressure, potentially testing 0.1100. Conversely, the 0.11245 resistance could provide an opportunity for a bullish breakout. A successful rally past this level may target higher levels, but a failure to maintain above this point could lead to downward pressure and a retest of the support zone.\n\nIn terms of trading strategies, a range-bound approach may be prudent, looking to buy near the support level and sell close to resistance. However, traders should be prepared for potential breakouts, watching the key levels closely. A conservative strategy would be to wait for clearer signals from the MACD or RSI for confirmation of momentum before entering more aggressive positions."
+    }
+  }
+}

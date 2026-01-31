@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-31T09:47:12.953Z",
+  "price": {
+    "close": "2650.79",
+    "high": "2659.45",
+    "low": "2633.78",
+    "open": "2644.96",
+    "change": "0.26",
+    "datetime": "2026-01-31 09:00:00"
+  },
+  "indicators": {
+    "rsi": 29.6818,
+    "macd": -28.62648,
+    "macd_signal": -27.53195,
+    "sma20": 2702.904
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理，短期承压",
+      "content": "当前以太坊/美元（ETH/USD）价格位于2650.79附近，呈现震荡整理的走势。近期价格未能突破短期关键阻力位2700美元，显示出一定的压力。尽管24小时价格变动不大（+0.26%），但市场情绪相对谨慎，可能导致短期内缺乏明确的上涨动力。\n\n在技术指标方面，MACD处于负值区间，当前值为-28.62648，表明市场可能依然处于卖压中。RSI未给出明确数据，因此无法从动量的角度进一步分析其超买或超卖情况。SMA(20)在2702.90附近，反映出该价位依然是短期的阻力区。\n\n对于支撑位，2650美元附近提供了初步支撑，若价格下行至2633.78附近，则可能会遇到更强的支撑。阻力位则位于2700美元和2720美元之间。若突破这些阻力，可能会迎来短期反弹。\n\n交易建议上，若价格接近2650美元支撑区，可考虑逢低吸纳，但要设好止损，以防价格进一步回落。若突破2700美元，则可以关注进一步上涨的机会。整体而言，建议保持谨慎，观察价格是否突破关键技术水平后再做决策。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $2650.79, reflecting a modest 0.26% increase over the last 24 hours. The price action has remained relatively stable, oscillating between a high of $2659.45 and a low of $2633.78. This consolidation phase suggests a period of indecision among traders, which could precede a breakout in either direction. The overall trend appears to be bearish, as the current price is below the 20-day simple moving average (SMA) of $2702.90, indicating that short-term momentum may be favoring sellers.\n\nThe RSI (Relative Strength Index) is not provided, but if we were to calculate it, a value below 30 would signal oversold conditions, while above 70 would indicate overbought. Currently, the MACD shows a negative value of -28.62648, suggesting that bearish momentum is in play. Traders should monitor for potential divergence between the MACD and price action, as this could signal an impending reversal. Continued observation of the MACD signal line will also provide insight into potential changes in momentum.\n\nKey support levels can be identified around $2633.78, where buying interest may emerge if the price approaches this point. Conversely, resistance is likely at $2702.90, aligning with the 20-day SMA, which traders should watch closely for signs of rejection or breakthrough. A sustained move above this level could indicate a bullish reversal, while failure to hold above $2633.78 might trigger further selling pressure.\n\nIn terms of trading strategy, a cautious approach is advisable given the current market conditions. Consider initiating long positions only if the price can convincingly break above the 20-day SMA with strong volume. Conversely, if the price falls below the $2633.78 support level, short positions may be warranted to capitalize on further declines. Managing risk through appropriate stop-loss orders will be essential in this volatile market environment."
+    }
+  }
+}
