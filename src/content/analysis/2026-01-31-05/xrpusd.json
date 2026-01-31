@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-01-31T05:59:54.073Z",
+  "price": {
+    "close": "1.73793",
+    "high": "1.73901",
+    "low": "1.7309",
+    "open": "1.73809",
+    "change": "-0.02",
+    "datetime": "2026-01-31 05:00:00"
+  },
+  "indicators": {
+    "rsi": 40.28024,
+    "macd": -0.012950196,
+    "macd_signal": -0.015159503,
+    "sma20": 1.75036
+  },
+  "analysis": {
+    "zh": {
+      "title": "瑞波币/美元技术分析：短线偏弱震荡整理",
+      "content": "当前XRP/USD价格在1.73附近窄幅波动，24小时几乎持平，显示市场动能不足。整体走势略偏空，短线仍处于整理阶段，多空双方在关键区间反复拉锯。  \n\n从均线结构看，价格低于SMA20（1.75036），说明上方压力较明显。MACD为负值，暗示空头动能占优，但信号线缺失使趋势确认度有限，需等待进一步指标配合。  \n\n支撑位关注1.7300一线，若跌破可能打开下行空间，下一支撑或在1.7000附近。阻力位则在1.7500-1.7600区域，突破后才有望重新转强。  \n\n交易策略上，稳健者可等待站稳1.75再考虑顺势做多；激进者可在支撑附近轻仓试探，但需严格止损。短期建议以区间交易思路为主，控制仓位风险。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Ripple vs US Dollar (XRP/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 1.73793\\n- 24h Change: -0.02%\\n- High/Low: 1.73901 / 1.7309\\n- RSI(14): N/A\\n- MACD: -0.012950196, Signal: N/A\\n- SMA(20): 1.75036\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nXRP/USD is currently exhibiting a **neutral-to-slightly-bearish trend** on the short-term chart. The latest price around *1.7379* is below the 20-period simple moving average (*1.7504*), suggesting recent seller control. Price action remains confined to a tight range between yesterday’s high (*1.7390*) and low (*1.7309*), indicating consolidation rather than directional conviction. This could precede a breakout, but immediate direction favors bears unless we clear above the SMA.\n\nLooking at momentum, the **MACD histogram in negative territory (-0.0129)** implies diminishing bullish pressure and latent downside momentum. Without a signal line value for a complete MACD crossover reading, the negative MACD suggests caution for longs, especially near resistance. The absence of a reliable RSI reading means we’re blind to overbought/oversold conditions, so traders should rely more on price structure and volume confirmation in the near term.\n\nKey **support levels** to watch are the recent swing low around *1.7300* and psychological floor near *1.7000*. A breach below these could accelerate bearish sentiment, exposing *1.6800* as a deeper support zone. On the upside, **resistance** clusters near the 20-SMA at *1.7500*, with the next barrier near *1.7700–1.7800*. Reclaiming and holding above the SMA zone would be the first signal that buyers are reasserting control.\n\nFor traders, a **range-based approach** may be prudent until a decisive breakout occurs. Consider short entries on rejection below *1.7500* with stops above *1.7600*, targeting the *1.7300* zone. Long positions could be more selective, favoring a breakout trade above *1.7700* with confirmation and a close above the SMA. Risk management remains paramount given the tight consolidation and mixed indicators."
+    }
+  }
+}
