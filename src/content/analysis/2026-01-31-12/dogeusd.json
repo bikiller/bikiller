@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-01-31T12:43:05.686Z",
+  "price": {
+    "close": "0.11146",
+    "high": "0.11167",
+    "low": "0.11106",
+    "open": "0.11166",
+    "change": "-0.11",
+    "datetime": "2026-01-31 12:00:00"
+  },
+  "indicators": {
+    "rsi": 29.5294,
+    "macd": -0.0012173474,
+    "macd_signal": -0.00090297619,
+    "sma20": 0.114462
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "当前狗狗币/美元（DOGE/USD）价格在0.11146附近震荡整理，短期内呈现出相对平稳的走势。考虑到24小时变化仅为-0.11%，市场表现疲软，缺乏明显的上涨动力。当前价格接近短期均线SMA(20)的0.11446水平，这一价位可能构成一定的阻力。\n\nMACD指标为负值，且信号线未给出明显的反转信号，表明短期内仍可能维持弱势。RSI(14)缺失数据，无法提供进一步的超买或超卖判断。结合当前的市场走势，价格未能突破较高的阻力位，维持震荡整理的格局。\n\n在支撑位方面，0.11106附近为较为关键的支撑区，若价格跌破该区间，则可能进一步走低，寻找下一个支撑。反之，若价格反弹突破0.11446的SMA(20)阻力位，有可能向上挑战更高的阻力位0.115左右。\n\n建议交易者在当前价位维持观望，谨慎操作。若价格跌破支撑位可考虑做空，反之可在突破阻力位后考虑适度跟进多单。务必密切关注MACD与RSI等技术指标的后续变化。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Dogecoin vs US Dollar (DOGE/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.11146\\n- 24h Change: -0.11%\\n- High/Low: 0.11167 / 0.11106\\n- RSI(14): N/A\\n- MACD: -0.0012173474, Signal: N/A\\n- SMA(20): 0.11446200\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nDOGE/USD is exhibiting **mild bearish pressure** in the short term. The latest price around **0.11146** remains below the 20-period simple moving average (~0.11446), suggesting that short-term momentum favors sellers. The narrow daily high/low range reflects low volatility, often preceding sharper moves. Unless buyers reclaim the SMA convincingly, the trend could remain subdued, with oscillations confined within a bearish micro-range.\n\nAlthough specific RSI and MACD signals are incomplete, the **negative MACD value** (~-0.00122) implies downward momentum is present relative to its (unavailable) signal line. The absence of a clear RSI reading limits overbought/oversold confirmation, but price below the 20-SMA aligns with softer market sentiment. Traders should watch for widening volume paired with MACD convergence — a potential early signal of trend exhaustion or reversal.\n\nKey levels emerge from recent price action. Immediate **support** lies near **0.1100–0.1095**, a zone where buyers historically step in. Breaking below this could open a slide toward ~0.1050. On the upside, **resistance** sits around **0.1145–0.1150** (20-SMA area). A sustained break above this zone is needed to shift momentum more decisively bullish, potentially targeting ~0.1180–0.1200 as secondary resistance.\n\nFor positioning, conservative traders may prefer to **wait for confirmation** — either a reclaim of the 20-SMA with strengthening MACD, or a breakdown below the support cluster around 0.1100 with increasing volume. Short-term longs could consider entries near confirmed support with tight risk management. Conversely, short traders might target the downside if the 0.1100 level fails, using intra-day signals to refine exits. Always complement technical cues with risk controls given DOGE’s propensity for rapid moves."
+    }
+  }
+}
