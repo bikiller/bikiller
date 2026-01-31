@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-01-31T07:12:22.854Z",
+  "price": {
+    "close": "0.1136",
+    "high": "0.11386",
+    "low": "0.11342",
+    "open": "0.11376",
+    "change": "-0.14",
+    "datetime": "2026-01-31 07:00:00"
+  },
+  "indicators": {
+    "rsi": 36.16172,
+    "macd": -0.00060088733,
+    "macd_signal": -0.00046763318,
+    "sma20": 0.1154425
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 狗狗币/美元(DOGE/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.1136\\n- 24小时变化: -0.14%\\n- 高点/低点: 0.11386 / 0.11342\\n- RSI(14): N/A\\n- MACD: -0.00060088733, Signal: N/A\\n- SMA(20): 0.11544250\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"狗狗币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "狗狗币/美元技术分析：短线偏弱震荡整理\n\n当前价格微弱下跌，但整体维持在0.11附近震荡，显示短期多空分歧较大，市场缺乏明确方向性。价格低于SMA(20)0.1154，表明短期均线承压，空头略占优势，但震荡特征明显。\n\n技术指标方面，由于RSI数据缺失，无法确认超买超卖状态；但MACD负值且距离信号线较远，暗示动能偏弱，空头动能占优。然而，指标未极端偏离，说明当前下跌力度有限，有整理迹象。\n\n关注关键支撑阻力位：下方支撑初步看0.1100-0.1120区间，如失守则可能测试更低心理位0.1050；上方阻力在0.1150附近，若突破可进一步挑战0.1180区域。震荡区间内反复试探，短线交易需谨慎。\n\n综合来看，短线偏弱但无明显趋势破位，建议在确认支撑企稳后再布局多单；激进者可于0.1120附近轻仓多单，止损设在0.1090；若上破0.1150，可考虑追涨，但需控制仓位。中长期关注趋势线及成交量变化。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current market for Dogecoin (DOGE) against the US Dollar shows a slight bearish sentiment, with a recent price of 0.1136, down 0.14% over the last 24 hours. The price fluctuation between the daily high of 0.11386 and low of 0.11342 indicates a consolidation phase, suggesting that the market is currently indecisive. Traders should keep an eye on how DOGE reacts around these levels, as a break below 0.11342 could lead to further downside, while a rally above 0.11386 may signal a reversal.\n\nWith the SMA(20) positioned at 0.11544250, the short-term trend appears to be weakly bearish. If the price can reclaim and hold above this moving average, it might signal a potential bullish reversal. However, the MACD value of -0.00060088733 suggests that momentum is currently favoring sellers. As the MACD is below zero, traders should exercise caution and look for confirmation of bullish signals before entering long positions.\n\nIn terms of support and resistance, the immediate support level is at 0.11342, which if breached, may lead to further declines towards 0.1120. Conversely, resistance is established around the SMA(20) at 0.1154, with an additional resistance level at 0.1165. A decisive move above this area could attract more buyers and potentially trigger a rally. \n\nFor traders, a cautious approach is advisable in the current market environment. A potential strategy could involve watching for a bounce off the support level for a short-term buy, while also considering a stop-loss just below this level to mitigate risk. Conversely, if the price breaks below 0.11342, short positions may be warranted until more favorable conditions emerge for a reversal."
+    }
+  }
+}
