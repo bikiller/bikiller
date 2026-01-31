@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-31T13:54:41.792Z",
+  "price": {
+    "close": "2623.95",
+    "high": "2636.69",
+    "low": "2618.27",
+    "open": "2633.58",
+    "change": "-0.36",
+    "datetime": "2026-01-31 13:00:00"
+  },
+  "indicators": {
+    "rsi": 25.06976,
+    "macd": -32.57167,
+    "macd_signal": -29.7381,
+    "sma20": 2684.907
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线偏弱震荡",
+      "content": "当前ETH/USD最新价2623.95，日内小幅回落，价格运行在20日均线下方，显示短线趋势偏弱。高低点区间收敛，波动率下降，市场情绪谨慎，空方略占优势，但尚未形成加速下跌结构。\n\n技术指标方面，MACD数值为-32.57，处于零轴下方，反映中短期动能偏空，反弹力度有限。RSI暂缺，需警惕指标失真风险。20日SMA位于2684一线，对价格形成明显压制，趋势修复需有效站稳其上。\n\n从结构看，下方支撑关注2618附近的日内低点，若跌破，可能下探2580一带。上方阻力首先看2636，其次是20日均线2685区域，突破前仍视为反弹而非反转。\n\n交易策略上，偏向区间思路。激进者可在支撑位附近轻仓试多，止损严格；稳健者等待站稳均线再跟进。空单不宜追价，关注量能变化与指标修复信号。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently showing slight bearish sentiment with the latest price of $2623.95, reflecting a 0.36% decrease over the past 24 hours. The market appears to be consolidating between the high of $2636.69 and the low of $2618.27, suggesting some indecision. The price has been consistently below the 20-period Simple Moving Average (SMA) of $2684.91, indicating that the short-term trend is leaning toward the downside. If the price continues to reject this SMA, we could see further downside pressure toward the next support zone.\n\nThe lack of the Relative Strength Index (RSI) data and the negative MACD value at -32.57 highlight some potential weakness in market momentum. A negative MACD indicates a slight bearish crossover, suggesting that sellers may be in control. However, the absence of the signal line makes it difficult to gauge the full extent of this bearish momentum. Traders should watch for any potential crossover in the MACD that could confirm the downtrend. A closer look at price action around the $2620-$2610 area will be important to gauge market sentiment.\n\nSupport is located around the $2618.27 level, and if the price holds above this zone, Ethereum may attempt a reversal toward the next resistance at $2636.69. A break below the $2610 area could expose further downside, possibly testing $2580-$2550. On the flip side, a rally above the SMA level of $2684 could trigger bullish sentiment, suggesting a potential move toward the $2700-$2750 resistance range. \n\nFor traders, short-term scalpers might consider selling on rallies close to the $2636 resistance level, targeting a drop toward the $2610 support. Long-term buyers may look for confirmation of a reversal, especially if the price stabilizes above the $2610 support and shows bullish momentum. Proper risk management is essential to navigate this range-bound market."
+    }
+  }
+}
