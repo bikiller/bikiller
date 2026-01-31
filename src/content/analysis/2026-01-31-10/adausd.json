@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-01-31T11:01:04.055Z",
+  "price": {
+    "close": "0.312906",
+    "high": "0.313176",
+    "low": "0.310375",
+    "open": "0.311013",
+    "change": "0.58",
+    "datetime": "2026-01-31 10:00:00"
+  },
+  "indicators": {
+    "rsi": 33.84516,
+    "macd": -0.0047171831,
+    "macd_signal": -0.0042312955,
+    "sma20": 0.31986655
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 艾达币/美元(ADA/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.312906\\n- 24小时变化: 0.58%\\n- 高点/低点: 0.313176 / 0.310375\\n- RSI(14): N/A\\n- MACD: -0.0047171831, Signal: N/A\\n- SMA(20): 0.31986655\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"艾达币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "艾达币/美元技术分析：短期弱势震荡，仍需关注下方支撑\n\n当前价格在0.3129美元附近震荡，短期走势偏弱于前高，价格低于20日简单移动平均线(SMA20)，显示多头动能不足且行情承压回调。短线趋势偏中性略空，需要等待明显反转信号确认。\n\n技术指标上，MACD处于负值区间，表明空方力量较强，虽无Signal线数据，但趋势弱势明显；若后续指标转正，则可能带来反弹机会。缺失RSI数据限制超买超卖判断，但价格结构提示多头需谨慎。\n\n关键支撑位在0.308附近，此区域若被有效守住，有利于筑底反弹；第一阻力位在0.319的SMA20处，若向上突破，可视为短期多头信号确认。下破支撑则加速下行节奏。\n\n交易建议上，短线投资者可在支撑区域尝试低多布局以小仓位为主，止损设于0.305下方；激进者等待价格突破0.319确认多头再加仓。长期投资者建议等待更清晰趋势信号再介入。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano (ADA) is currently showing a neutral-to-slightly bearish short-term trend, with the latest price at $0.312906. The price is trading just above the 24-hour low of $0.310375, but still well below the 20-period simple moving average (SMA) of $0.31986655, indicating potential resistance in the short term. The lack of a significant uptrend or downtrend suggests consolidation, with traders possibly waiting for a breakout in either direction. \n\nThe Relative Strength Index (RSI) is not available, which limits the ability to assess momentum. However, the MACD value of -0.0047 indicates a mild bearish sentiment, but its signal line remains undetermined. This suggests that the momentum is weak and could either continue or reverse, depending on price action in the next few hours or days. Investors may want to observe the MACD for a potential cross or divergence as confirmation for further directional moves.\n\nKey support for ADA lies near the $0.3100 level, with immediate resistance at the $0.3140-$0.3150 range, aligning with recent highs. If the price breaches $0.3150, a potential test of the $0.3190 region (SMA) may occur. On the downside, a sustained break below $0.3100 could signal a deeper retracement toward the next support at $0.3050. Traders should monitor these levels closely for potential breakout or breakdown opportunities.\n\nFor traders considering a short-term strategy, buying near support ($0.3100) and targeting resistance ($0.3150-$0.3190) might offer a risk-reward setup. Conversely, a breakdown below support could signal further downside potential, with stops placed just below $0.3100 to limit risk. Patience and careful monitoring of momentum indicators will be key in navigating the ADA/USD market."
+    }
+  }
+}

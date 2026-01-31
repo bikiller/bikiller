@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-31T10:57:25.587Z",
+  "price": {
+    "close": "83036.46",
+    "high": "83052",
+    "low": "82764.37",
+    "open": "82965.47",
+    "change": "0.09",
+    "datetime": "2026-01-31 10:00:00"
+  },
+  "indicators": {
+    "rsi": 40.23137,
+    "macd": -187.6715,
+    "macd_signal": -145.090655,
+    "sma20": 83589.9795
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，观望为主]",
+      "content": "当前比特币/美元（BTC/USD）价格处于83000附近，整体震荡整理。24小时变化幅度较小，反映出市场的观望情绪。价格略微高于20日简单移动平均线（SMA 20），但仍未突破近期区间上限，显示出短期内涨跌动力不足。\n\n从技术指标来看，MACD显示负值（-187.67150），暗示短期内卖盘压力较大，可能会限制价格上行空间。由于RSI（14）数据缺失，无法进一步评估超买或超卖情况，但MACD的负值和价格波动区间表明市场仍处于不确定的震荡期。\n\n支撑位方面，价格在82760附近获得一定支撑，若突破该水平，可能会进一步下探至82300附近。阻力位则集中在83500-83600区间，突破后有望重新测试84000的上行压力。\n\n综合来看，当前市场缺乏明确的方向性，建议投资者采取观望态度，避免在震荡整理阶段做出激进操作。如价格突破重要支撑或阻力水平，可以根据走势适时调整交易策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $83,036.46, reflecting a slight increase of 0.09% over the past 24 hours. This price action indicates a range-bound market with modest volatility. The high of $83,052 and the low of $82,764.37 in the last 24 hours show tight consolidation, suggesting that Bitcoin is in a neutral phase, awaiting a catalyst for a breakout. A close examination of this range shows the market is respecting these levels, potentially indicating the formation of a support at $82,764 and resistance around $83,052.\n\nGiven the lack of significant momentum, the market's trend is neutral, with the price hovering just below the 20-period simple moving average (SMA) of $83,589.97950. The SMA typically provides insight into the medium-term trend, and with the price slightly under this level, it suggests some bearish pressure in the short term. If the price crosses above the SMA, it may signal a potential move towards higher resistance zones. Conversely, failing to break through this level may lead to further consolidation or a test of the support at $82,764.\n\nWithout the Relative Strength Index (RSI) and with the MACD currently negative at -187.67150, there is a lack of clear bullish momentum. The negative MACD indicates that the bears are in control, but the absence of an RSI reading leaves uncertainty regarding the strength of any potential move. Traders should watch for any convergence or divergence in the MACD, as it may provide early signs of a trend reversal. Additionally, if the price manages to stay above the support at $82,764 and rise above the SMA, it could open the door for a retest of higher levels.\n\nFor trading strategies, it may be prudent to adopt a cautious approach, particularly in light of the current market conditions. A range-bound strategy could be effective, buying near support and selling near resistance, with close attention to any changes in volume or momentum that might signal a breakout. If the price breaches either support or resistance decisively, it would be advisable to reassess and look for confirmation of the new trend direction."
+    }
+  }
+}
