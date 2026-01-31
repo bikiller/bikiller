@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-01-31T21:42:03.442Z",
+  "price": {
+    "close": "774.94",
+    "high": "775.48",
+    "low": "766.6",
+    "open": "770.63",
+    "change": "0.56",
+    "datetime": "2026-01-31 21:00:00"
+  },
+  "indicators": {
+    "rsi": 15.63122,
+    "macd": -21.19823,
+    "macd_signal": -15.33137,
+    "sma20": 820.1695
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 774.94\\n- 24小时变化: 0.56%\\n- 高点/低点: 775.48 / 766.6\\n- RSI(14): N/A\\n- MACD: -21.19823, Signal: N/A\\n- SMA(20): 820.16950\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：短线偏弱震荡下探\n\n当前BNB价格略微反弹但仍低于SMA(20)均线820，表明短期均线压力明显，趋势偏弱震荡。价格自高位回落并未有效突破前高，短线维持区间下行格局，需警惕进一步回调风险。\n\nMACD处于负值区且未见明显红柱回升，动能仍偏空，这暗示多头力量尚未恢复。尽管24小时微幅上涨，成交动能不足，未能形成实质性背离反转结构，技术指标整体偏向守势。\n\n关键支撑位预计在前低760一线，其下若跌破或延伸到745附近。阻力方面看向800及820均线区域，突破该区域才能确认多头重拾主动。短线区间震荡特征明显，波动加剧可能性增大。\n\n建议上方阻力确认前保持谨慎短线操作，逢低小仓位尝试，合理设置止损在750下方。若价格上破800并站稳，可考虑渐进加仓，配合成交量确认趋势变化。风险控制优先。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 774.94\\n- 24h Change: 0.56%\\n- High/Low: 775.48 / 766.6\\n- RSI(14): N/A\\n- MACD: -21.19823, Signal: N/A\\n- SMA(20): 820.16950\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin (BNB) is currently trading below its short-term moving average, signaling that recent price action has softened from earlier bullish momentum. With the latest price near **$774.94** and the **20‑period Simple Moving Average (SMA)** at **~$820**, BNB is in a mild corrective phase rather than a strong uptrend. This indicates that while the broader trend isn’t decisively bearish, bulls lack conviction above key short‑term averages. Market structure shows congestion between **$780–$820**, suggesting this zone will be critical for directional clarity.\n\nMomentum indicators present mixed signals. Although the **RSI(14)** isn’t available, the significantly negative **MACD reading (~‑21.20)** implies bearish skew in shorter‑term momentum. Without a corresponding signal line, this MACD level still reflects weakening buying pressure relative to prior periods. Traders should interpret this as cautionary; downside momentum likely persists until there’s convergence or a MACD uptick. Absence of RSI data reduces certainty, but the given metrics combined with price below SMA hint at consolidation or further mild retracement.\n\nKey technical levels to watch: immediate support lies around **$760–$770**, with a break below this zone potentially exposing **$740–$750**. On the upside, resistance remains stiff near **$800–$820**, with a breakout above **$820** needed to reassert bullish control. Above **$840**, BNB could challenge multi‑week highs again. Conversely, failure to hold current support could accelerate profit‑taking into lower bands, increasing volatility.\n\nTrading suggestions should reflect risk tolerance and timeframe. Short‑term traders might consider cautious long entries near support, with tight stops below **$760** and targets near **$800–$820**. Conservative positions could wait for a confirmed break above the 20‑SMA to reduce downside risk. For those favoring bearish plays, a break under **$760** with increased volume could justify short exposure with targets toward **$740** and beyond, always managing risk with defined stop‑losses."
+    }
+  }
+}

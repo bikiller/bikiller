@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-01-31T21:45:06.204Z",
+  "price": {
+    "close": "0.10238",
+    "high": "0.10255",
+    "low": "0.10086",
+    "open": "0.10163",
+    "change": "0.75",
+    "datetime": "2026-01-31 21:00:00"
+  },
+  "indicators": {
+    "rsi": 18.56276,
+    "macd": -0.0035461165,
+    "macd_signal": -0.0027371035,
+    "sma20": 0.109108
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "目前DOGE/USD在0.10238附近震荡整理，短期走势偏弱。价格未能突破0.109以上，表明多头动能不足，市场处于调整阶段。从技术面来看，SMA(20)位于0.10910800，暗示价格有回升压力。价格目前徘徊于0.10086和0.10255之间，短期内可能维持区间震荡。\n\n由于RSI(14)数据缺失，我们无法判断超买超卖状态，MACD为负值，且信号线尚未明确显示，这表明市场动能较弱。当前MACD负值持续表明卖压仍在，价格可能面临进一步下行风险。若价格跌破0.10086支撑位，则可能进一步下探至0.099或更低。\n\n支撑位方面，0.10086附近是近期价格的重要支撑区域。若价格企稳在此水平上方，可能会有短期反弹。阻力位则位于0.10255和0.103的区间，若突破该区域，可能会重新测试0.105甚至更高水平。\n\n建议短期内可关注0.10086支撑位的表现，若价格跌破该支撑可考虑空头策略；如果价格反弹至0.103附近，则可尝试轻仓做空。同时，建议保持警觉，关注市场动向和技术指标变化。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current price of Dogecoin stands at 0.10238, showing a slight 0.75% increase over the last 24 hours. This suggests a period of relative stability following recent price movements. The price is oscillating between 0.10086 and 0.10255, indicating a narrow trading range. While this range has not shown significant volatility, the price nearing the upper bound suggests potential resistance near 0.10255. A breach above this level could set the stage for a possible test of higher resistance levels around 0.105 and 0.110, where previous highs might cap upward momentum.\n\nFrom an indicator standpoint, the MACD is currently negative at -0.0035, which hints at a slight bearish bias in the market. However, the absence of a signal line makes it difficult to interpret the exact strength of this bearish momentum. Traders should closely monitor the MACD for any crossovers that could provide clearer entry or exit signals. The RSI(14) is not provided, but considering the current price action, it's likely hovering around neutral territory, suggesting the market is neither overbought nor oversold.\n\nThe SMA(20) is positioned at 0.109108, indicating that Dogecoin has been trading below its 20-period simple moving average for the last several sessions. This typically suggests a bearish short-term trend. Should the price move towards the SMA and fail to break above it, we may see further downward pressure with potential support near 0.10086. A break below this support could open the door to further declines towards 0.098 or 0.095.\n\nGiven the current market data, cautious trading strategies are recommended. A potential short-term buying opportunity may arise if Dogecoin manages to break above 0.10255 and shows continued upward movement, targeting the next resistance at 0.105. However, if the price fails to breach this level, traders should be ready for a possible retracement, particularly if the price revisits support around 0.10086. Risk management will be crucial in such a volatile environment."
+    }
+  }
+}
