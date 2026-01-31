@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-01-31T16:23:52.090Z",
+  "price": {
+    "close": "2508.5",
+    "high": "2535.17",
+    "low": "2505.17",
+    "open": "2534.51",
+    "change": "-1.03",
+    "datetime": "2026-01-31 16:00:00"
+  },
+  "indicators": {
+    "rsi": 13.67591,
+    "macd": -51.34582,
+    "macd_signal": -37.76708,
+    "sma20": 2656.096
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡调整，突破仍需关注",
+      "content": "目前以太坊/美元（ETH/USD）的价格为2508.5美元，短期内表现出震荡整理的趋势。从24小时价格变化来看，ETH下跌了1.03%，表明市场情绪略显疲软。高点2535.17和低点2505.17的区间表明，价格在这一范围内波动，尚未出现明确的突破信号。\n\n技术指标方面，MACD目前处于负值区域（-51.34582），这显示出市场的卖压较大，虽然信号线尚未给出明确指引，但可以预计在短期内可能继续保持偏弱的状态。由于RSI值不可用，无法确认市场是否处于超卖或超买状态，但结合MACD和价格波动，可以推测当前市场情绪略偏消极。\n\n在支撑位方面，2505.17是关键的短期支撑，若价格跌破此位置，可能会进一步下探至2470附近的更低支撑区间。阻力位则位于2535.17和2656.096的区域，若价格能突破这些位置，可能会带来一定的反弹空间。\n\n综合来看，当前ETH/USD处于震荡调整阶段，短期内建议保持观望，等待价格突破关键支撑或阻力位后再做决定。如果突破阻力，可以考虑做多，而跌破支撑则可适当考虑做空。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum's price against the US Dollar (ETH/USD) is currently facing some bearish momentum, trading at 2508.5, marking a 1.03% drop in the last 24 hours. The price is currently between its daily high of 2535.17 and low of 2505.17, suggesting a tight range. The downward movement could signal a potential continuation of this short-term bearish trend, especially considering the price is far below the 20-period simple moving average (SMA) of 2656.096.\n\nThe current lack of a clear RSI reading makes it difficult to pinpoint overbought or oversold conditions. However, the negative MACD value of -51.34582 suggests a weakening in momentum, indicating a potential for further downside. Traders should be cautious as the absence of a clear signal may imply more sideways or downward movement before any substantial reversal. Until the MACD crosses into positive territory, any bullish push may lack sufficient conviction.\n\nIn terms of support and resistance, the current price is close to its immediate support level around 2505.17. A drop below this level could lead to further testing of lower support zones, possibly at 2450 or even 2400. On the other hand, resistance is found around the recent high of 2535.17, with additional resistance at the 20-period SMA of 2656.096, which has proven to be a critical level in recent trading.\n\nTraders should adopt a cautious approach, waiting for a clear breakout either above 2535.17 for a potential long position or below 2505.17 for further downside. Consider employing stop-loss orders near these key levels to manage risk effectively."
+    }
+  }
+}

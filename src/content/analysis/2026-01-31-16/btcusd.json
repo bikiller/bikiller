@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-31T16:23:08.497Z",
+  "price": {
+    "close": "81639.19",
+    "high": "81639.19",
+    "low": "80408.73",
+    "open": "81174.71",
+    "change": "0.58",
+    "datetime": "2026-01-31 16:00:00"
+  },
+  "indicators": {
+    "rsi": 32.33742,
+    "macd": -546.31608,
+    "macd_signal": -345.874,
+    "sma20": 83193.841
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡，需警惕突破风险]",
+      "content": "当前比特币/美元（BTC/USD）市场呈现震荡走势。价格在81639.19美元附近波动，24小时涨幅仅为0.58%，显示出市场处于整理阶段。当前价格位于20日简单移动平均线(SMA)下方，暗示短期内可能会有进一步的调整压力。\n\n从技术指标来看，MACD指标为负值(-546.31608)，未给出明确的信号线，这表明市场缺乏强势的买入或卖出信号。RSI指标缺失，无法对超买或超卖情况进行有效分析。因此，短期内价格可能维持横盘震荡。\n\n支撑位方面，80408.73美元是近期低点，若价格下破该支撑位，可能会加速回调。而上方的阻力位则在SMA(20)的83193.841附近，突破此水平可能带来短期上涨动能。投资者需关注这些关键水平的突破情况。\n\n综合来看，当前市场情绪较为平稳，但短期内可能会继续维持震荡行情。建议投资者采取观望态度，等待价格突破支撑或阻力位后再做进一步操作，避免在不确定性较大的区间内过度交易。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD market is currently trading at $81,639.19, showing a modest 0.58% gain in the last 24 hours. The price remains near its recent high, with the daily range fluctuating between $80,408.73 and $81,639.19. The market’s current position suggests it is experiencing a consolidation phase, with limited upward momentum but no significant downward pressure either. This indicates indecisiveness among traders, as they wait for clearer market signals before making large moves. \n\nFrom a trend perspective, Bitcoin is testing key resistance near the $83,000 region, which aligns with the 20-period Simple Moving Average (SMA) at $83,193.841. If the price fails to break this level, it could see a reversal, pushing Bitcoin towards the nearest support at $80,000, or potentially lower. On the other hand, a breakout above the SMA could provide room for a bullish move, targeting $85,000 or beyond. The market appears poised for a potential breakout, depending on the direction of the next move.\n\nThe absence of the RSI (14) and signal values in the MACD makes it difficult to gauge the momentum clearly. However, the current MACD value of -546.31608 suggests that bearish sentiment is in play. While this is not necessarily an indication of an imminent downtrend, it does signal that the market is neutral to slightly bearish. A more definitive read could come if the RSI and MACD signal line become available to confirm momentum shifts.\n\nTraders should be cautious in the current environment and wait for a clear breakout above resistance or a dip towards key support levels before making major moves. A break below $80,000 could trigger further declines, while an upward move past $83,000 would provide a strong bullish signal, targeting the $85,000 level. Adjusting position sizes and setting tight stop losses will help manage risk in this volatile market."
+    }
+  }
+}

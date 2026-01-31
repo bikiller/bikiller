@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-01-31T16:26:29.025Z",
+  "price": {
+    "close": "1.61778",
+    "high": "1.63883",
+    "low": "1.61731",
+    "open": "1.63528",
+    "change": "-1.08",
+    "datetime": "2026-01-31 16:00:00"
+  },
+  "indicators": {
+    "rsi": 17.76442,
+    "macd": -0.032031387,
+    "macd_signal": -0.023399514,
+    "sma20": 1.70817
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 瑞波币/美元(XRP/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 1.61778\\n- 24小时变化: -1.08%\\n- 高点/低点: 1.63883 / 1.61731\\n- RSI(14): N/A\\n- MACD: -0.032031387, Signal: N/A\\n- SMA(20): 1.70817\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"瑞波币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "瑞波币/美元技术分析：短线偏弱，震荡下行压力明显\n\n当前价格低于20日均线，表明短期趋势偏弱且多头动能不足。价格在高点1.638附近遇阻回落，显示多头难以延续上攻，空头压力有所积累，行情仍处于震荡整理阶段。\n\nMACD处于负值区间但未出现明显发散，这表明下行动能有限且趋势尚未强烈确立。若能持续维持在短期均线下方，空头格局或将延续；否则在关键支撑附近可能出现修正性反弹。\n\n第一支撑位在1.60附近，若跌破该位置则进一步下探1.55。反之，上方阻力位看向1.70整数关口，如能突破则有望测试1.75区间。需关注成交量变化以确认突破有效性。\n\n建议短线交易以逢高做空为主，止损设置在1.70以上；激进者可在支撑位附近布局多单，止损置于1.58下方。中线投资者宜等待趋势明朗后再行介入以控制风险。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "The current price of XRP/USD stands at $1.61778, showing a slight decline of -1.08% over the last 24 hours. This subtle decrease suggests a short-term bearish sentiment, as XRP has not managed to maintain upward momentum. The high and low for the day indicate a narrow trading range, with the price reaching a peak of $1.63883 and bottoming at $1.61731. This level of price consolidation reflects indecision in the market, with neither buyers nor sellers asserting dominance.\n\nAnalyzing the trend, XRP has recently been trading below its 20-period Simple Moving Average (SMA) of $1.70817, signaling a bearish bias in the short term. The failure to break above this moving average reinforces the possibility of further downside movement. While the price is still above the intraday low of $1.61731, the market might be testing the strength of this support level. If the price breaks below this point, it could lead to a deeper retracement toward the next support zone, which could be around $1.60 or lower.\n\nWithout the Relative Strength Index (RSI) and with the MACD in the negative at -0.032031387, there is no clear bullish divergence to suggest an imminent reversal. The negative MACD value implies a continued downtrend, though without the Signal line for reference, the extent of this momentum remains unclear. Traders should watch for potential confirmation of bearish continuation, especially if the MACD trend strengthens.\n\nIn terms of trading strategy, caution is advised. A break below the current support at $1.61731 could present a short-selling opportunity, targeting the next key support level. On the other hand, if XRP manages to hold above this support and reclaim the $1.64 level, a move back toward the $1.70 range may become viable. Traders should consider tight stop losses given the current volatility."
+    }
+  }
+}
