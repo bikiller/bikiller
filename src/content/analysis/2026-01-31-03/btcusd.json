@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-01-31T03:32:38.661Z",
+  "price": {
+    "close": "84019.94",
+    "high": "84075.3",
+    "low": "83954.14",
+    "open": "83976.5",
+    "change": "0.05",
+    "datetime": "2026-01-31 03:00:00"
+  },
+  "indicators": {
+    "rsi": 52.56163,
+    "macd": -39.026942,
+    "macd_signal": -239.82355,
+    "sma20": 83349.939
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期关注支撑位",
+      "content": "目前比特币价格在84000美元附近震荡整理，价格波动较小，24小时变化仅为0.05%。从当前走势来看，比特币在短期内表现为横盘整理，缺乏明确的上涨或下跌动能。市场仍在等待更为明确的方向性突破，可能会受到更大新闻或市场情绪变化的影响。\n\n技术指标方面，RSI(14)数据缺失，暂时无法确认超买或超卖状态。MACD指标当前为负值（-39.03），表明短期内卖压可能较为显著，但由于信号线缺失，尚未出现明确的卖出信号。SMA(20)为83350美元，表示短期均线支持位仍较为坚实，若价格回调至此附近，可能会迎来支撑。\n\n从支撑和阻力的角度来看，当前价格接近84000美元的关键水平。若价格突破84075.3美元的高点，则可能带来上涨的动力，挑战85000美元附近的阻力位。相反，若价格跌破83954.14美元的低点，可能会进一步回调，测试SMA(20)支持位。短期内，关注这些关键价位的突破。\n\n建议交易者在此震荡行情中保持谨慎，避免盲目追涨或杀跌。可以在接近SMA(20)附近进行逢低买入，若价格突破阻力位，则可考虑适度加仓。但由于缺乏强烈趋势，建议保持灵活操作，避免大额仓位投入。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market shows a relatively neutral trend at the moment, with the price hovering around $84,019.94. Despite the slight 24-hour change of +0.05%, this range-bound movement indicates a consolidation phase. Currently, the price is testing a key support level near $83,350, which coincides with the 20-period simple moving average (SMA). This suggests that the market may attempt to hold above this level, with a break below potentially signaling further bearish pressure.\n\nWithout an available RSI(14) and MACD signal, it becomes crucial to interpret other price action indicators. The recent high of $84,075.30 has been met with resistance, while the low at $83,954.14 provides a crucial support level. The price's failure to break above this resistance may point to indecision in the market, and any movement past the support zone could lead to a correction toward lower levels.\n\nDespite the lack of concrete momentum indicators like RSI and MACD, the market's sideways price action could indicate the possibility of a break either upward or downward. Traders should focus on watching the next 24-48 hours for a potential breakout above $84,075.30 or a breakdown beneath $83,350. If either of these levels is breached, traders may consider adjusting positions accordingly.\n\nFor now, it would be prudent to wait for a clear direction. If the price maintains above $83,350, long positions may become favorable, with potential resistance at $84,075.30. Conversely, a breakdown below $83,350 could lead to a short opportunity, with targets aimed at the next significant support levels lower in the range."
+    }
+  }
+}

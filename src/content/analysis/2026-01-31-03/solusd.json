@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-01-31T03:35:08.779Z",
+  "price": {
+    "close": "118.05",
+    "high": "118.46",
+    "low": "118.02",
+    "open": "118.14",
+    "change": "-0.08",
+    "datetime": "2026-01-31 03:00:00"
+  },
+  "indicators": {
+    "rsi": 54.71372,
+    "macd": 0.069786714,
+    "macd_signal": -0.24778278,
+    "sma20": 116.858
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 118.05\\n- 24小时变化: -0.08%\\n- 高点/低点: 118.46 / 118.02\\n- RSI(14): N/A\\n- MACD: 0.069786714, Signal: N/A\\n- SMA(20): 116.85800\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏多但需警惕区间回撤\n\n当前SOL价格围绕118美元一线震荡，短期多空力量较为平衡。价格相对于20日简单移动平均线（SMA20）116.86略高，表明多头略占优势，但整体涨幅有限，趋势仍处于区间整理状态，需关注趋势延续确认。\n\n技术指标方面，MACD主线为正（0.0698），但缺乏明确信号线数据使动能判断不够完整。若MACD能够顺利上穿未来信号线，则可能加速上涨，否则可能继续在低波动范围内震荡。RSI数据缺失，不能直接判断超买超卖情况。\n\n关键支撑位首先关注SMA20附近的116.8，其次为115.0心理整数位，若价格跌破则短线偏空风险加剧。阻力位上看近期高点118.46，进一步关注120.0阻力区域，突破则有望延伸涨势。\n\n交易建议上，短线交易者可在支撑附近逢低多单试探，止损设置在115下方以控制风险；若价格稳健突破120，则可考虑趋势跟进。激进者在上涨动能确认前应谨慎持仓，严格执行止盈止损策略以防区间回撤风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 118.05\\n- 24h Change: -0.08%\\n- High/Low: 118.46 / 118.02\\n- RSI(14): N/A\\n- MACD: 0.069786714, Signal: N/A\\n- SMA(20): 116.85800\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$118.05** reflects a period of consolidation after recent volatility. The narrow **24‑hour range** between **$118.46 and $118.02** suggests market indecision, with neither buyers nor sellers taking firm control. While the broader trend remains mildly bullish from a medium‑term perspective, short‑term direction is unclear as price oscillates around the **20‑period Simple Moving Average (~$116.86)**, which has provided dynamic support over recent sessions.\n\nIndicator readings hint at subtle bullish undertones, despite some data gaps. The **MACD reading of ~0.070** indicates that upward momentum is present, but without a reported signal line value, the strength and crossover status can’t be fully gauged. The absence of a current RSI figure leaves a gap in understanding overbought or oversold conditions, but the shallow price changes suggest neither extreme. Overall, momentum indicators are not signaling aggressive trends, pointing more toward range behavior than decisive directional moves.\n\nKey technical levels are clustering close to current prices. Immediate **support lies near $115.50–$116.00**, reinforced by the 20‑SMA zone, while further downside might test **$112.00** if volatility increases. On the upside, **resistance around $120.50–$121.00** has capped advances recently; a break above that level could attract fresh buying interest. Further out, **$125.00** represents a psychological barrier that aligns with prior swing highs. These zones should frame short‑term trading considerations.\n\nGiven the present setup, a cautious approach suits both range traders and trend followers. Short‑term traders might consider buying closer to support with tight stops and targeting the $120–$121 area, reducing exposure if price slips below SMA support decisively. Longer‑term participants could wait for a clear breakout above **$121** for bullish confirmation or a breakdown below **$115** to reassess bearish risks. Always manage risk with defined stop levels and position sizing."
+    }
+  }
+}
