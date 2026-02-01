@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-01T20:22:02.995Z",
+  "price": {
+    "close": "77169.03",
+    "high": "77284.9",
+    "low": "76790.35",
+    "open": "77092",
+    "change": "0.10",
+    "datetime": "2026-02-01 20:00:00"
+  },
+  "indicators": {
+    "rsi": 33.27206,
+    "macd": -755.46191,
+    "macd_signal": -790.65907,
+    "sma20": 78199.4045
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡整理，突破关键位置或迎来反弹",
+      "content": "目前，BTC/USD的价格在77,169美元附近震荡整理，短期内缺乏明确的趋势信号。日内涨幅较小，仅为0.10%，说明市场情绪较为平稳。当前价格接近20日简单移动平均线（SMA 20）附近，约78,199美元，这一水平可视为短期的阻力位。\n\n从技术指标来看，MACD目前显示负值，表明市场存在一定的下行压力。然而，由于RSI暂时缺失，我们无法获得具体的超买超卖信息，这限制了我们对市场情绪的全面判断。市场当前处于观望状态，若突破目前的SMA阻力位，可能会刺激反弹。\n\n在支撑位方面，76790.35美元为短期内的重要支撑区间。如果价格跌破此区域，可能会加剧下行压力，目标下方支撑位可考虑在76,000美元附近寻找。反之，若价格突破当前的阻力位78,200美元附近，可能会出现进一步上涨。\n\n综合来看，当前市场处于震荡区间，建议投资者密切关注支撑位和阻力位的突破情况，控制仓位，避免在区间内进行过度交易。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has been relatively stable with a slight upward movement of 0.10% in the past 24 hours, maintaining a price of $77,169.03. The market is currently hovering around its high for the day ($77,284.90), with a low of $76,790.35. This suggests a consolidation phase, where the market is neither strongly bullish nor bearish. Without significant momentum, Bitcoin could face resistance in surpassing its previous highs, unless supported by a fundamental or technical trigger.\n\nThe absence of an RSI value makes it difficult to determine whether Bitcoin is overbought or oversold in the short term, which limits a deeper understanding of its immediate price action. However, the negative MACD value of -755.46 signals that there is a bearish pressure in the market, despite the small 24h price increase. This could indicate that any upward movements may be short-lived unless there's a significant shift in market sentiment. The MACD, showing a bearish divergence, suggests that traders should remain cautious before making large bullish bets.\n\nKey support levels for Bitcoin are situated near $76,790.35, while immediate resistance is around the $77,284.90 level. A break below the support could bring the price closer to the 20-day SMA of $78,199.40, further confirming a bearish bias in the near term. On the other hand, if Bitcoin manages to breach resistance convincingly, it may attempt to test higher levels. In the absence of significant movement or new bullish signals, trading within these ranges is likely the safest approach.\n\nWith the current market dynamics, short-term traders might consider a range-bound strategy, capitalizing on price fluctuations between the support and resistance levels. However, any signs of bearish confirmation below the support could prompt a more cautious stance, suggesting a potential downtrend. Until clearer indicators emerge, a conservative trading strategy is recommended, avoiding large positions until clearer market direction is established."
+    }
+  }
+}

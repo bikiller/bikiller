@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-01T20:23:42.918Z",
+  "price": {
+    "close": "758.77",
+    "high": "759.48",
+    "low": "755.22",
+    "open": "757.14",
+    "change": "0.21",
+    "datetime": "2026-02-01 20:00:00"
+  },
+  "indicators": {
+    "rsi": 34.57097,
+    "macd": -12.22066,
+    "macd_signal": -13.064316,
+    "sma20": 770.7535
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 758.77\\n- 24小时变化: 0.21%\\n- 高点/低点: 759.48 / 755.22\\n- RSI(14): N/A\\n- MACD: -12.22066, Signal: N/A\\n- SMA(20): 770.75350\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：短线震荡偏弱，下方试探支撑\n\n当前BNB价格在758附近交投，价格受20日均线压力影响显示短期偏弱震荡。在未突破SMA(20) 770上方阻力前，多头动能有限，短线可能维持区间整理。\n\nMACD负值区间延续表明空头动能仍占优，虽然Signal不可用，但目前趋势尚未回转。价格在755一线有阶段性支撑，若跌破该位则进一步下探740附近可能性增加。\n\n鉴于缺乏RSI数据，需结合成交量观察强弱。上方若有效突破770阻力并收复，则有望重拾上行动能，关注780-800区域的压力级别。\n\n交易上建议在755附近逐步布局短线多单，设置止损在748下方；若价格反弹接近770-775高位，可考虑部分获利了结，避免在阻力区追高。总体保持谨慎，等待趋势信号确认。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 758.77\\n- 24h Change: 0.21%\\n- High/Low: 759.48 / 755.22\\n- RSI(14): N/A\\n- MACD: -12.22066, Signal: N/A\\n- SMA(20): 770.75350\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin is exhibiting a short-term bearish undertone as the latest price of **758.77** sits below the **20-period Simple Moving Average (SMA) of 770.75**, signaling that recent momentum favors sellers. Price action over the past 24 hours has been contained in a narrow **range between 755.22 and 759.48**, reflecting indecision near current levels. The inability to reclaim the SMA suggests that upward momentum remains limited for now, and the prevailing trend could continue sideways to down until clearer bullish signals emerge.\n\nThe **MACD reading of –12.22066** points toward persistent negative momentum, although absence of a signal line value makes cross interpretation incomplete. Still, the negative MACD implies that bearish forces have dominated recent sessions, and without a MACD crossover into positive territory, upside potential remains muted. The lack of an available RSI reading limits overbought/oversold context, but price languishing beneath the SMA typically aligns with a cooled buying interest. Traders should be cautious and watch for a MACD histogram shift or price reclaiming the SMA for early hints of trend reversal.\n\nKey **support** sits near **750.00**, followed by the recent low at **755.22**; a decisive break below these levels could accelerate selling pressure toward psychological supports around **730–720**. On the upside, initial **resistance** aligns with the SMA at **770–775**, and a clean break above that zone could open the door toward **800** territory. A confirmed close above the SMA with expanding volume would be the first sign that bulls are stepping back in, while repeated rejections reinforce the short-term downtrend.\n\nGiven the current setup, conservative traders might favor range-based strategies—buying near support and trimming positions into nearby resistance. Longer-term oriented participants should wait for clear confirmation, such as a sustained move above the 20-period SMA and improving momentum indicators, before committing to larger long positions. Conversely, downside participants could consider short entries on breakdowns below key supports with disciplined risk management."
+    }
+  }
+}
