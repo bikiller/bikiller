@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-01T21:42:44.688Z",
+  "price": {
+    "close": "2317.27",
+    "high": "2318.5",
+    "low": "2292.43",
+    "open": "2316.95",
+    "change": "0.03",
+    "datetime": "2026-02-01 21:00:00"
+  },
+  "indicators": {
+    "rsi": 31.8596,
+    "macd": -51.73354,
+    "macd_signal": -52.90361,
+    "sma20": 2381.818
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线震荡偏弱，反弹受压",
+      "content": "当前价2317附近，24小时几乎持平，波动区间收窄。价格明显低于SMA(20) 2381一线，说明中短期仍处回落修正阶段，反弹力度不足，整体偏空但未出现加速下跌。\n\n指标方面，RSI缺失暂无法确认超买超卖，但MACD为-51.73且位于零轴下方，代表空头动能仍占优。若后续柱体继续放大，回调概率提升；若负值收敛，则可能进入弱反弹修复。\n\n支撑位关注2292一带，为日内低点区域，跌破后或下探2280与2250。上方阻力先看2318-2325短压区，其次是2381附近的20日均线强阻，若放量站稳才算趋势扭转信号。\n\n交易上偏保守：激进者可在2320附近轻仓试空，止损设于2385上方；稳健者等待回踩2292企稳再短多，目标2325-2380。若有效突破2381并回踩不破，可转为顺势做多思路。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum (ETH) against the US Dollar stands at $2317.27, with a slight 24-hour change of +0.03%. The market is demonstrating a period of consolidation within a narrow range, as the high and low prices during the last 24 hours have been $2318.5 and $2292.43, respectively. The price action suggests a balanced equilibrium between buyers and sellers, with no immediate directional push. This price range could indicate a temporary pause before a potential breakout.\n\nLooking at the technical indicators, the RSI(14) is currently unavailable, leaving us with limited momentum analysis through that lens. The MACD reading of -51.73354 indicates that Ethereum is in a bearish phase, although without the signal line for context, the trend remains unclear. The absence of a clear cross or divergence reduces the precision of this indicator, signaling that the market sentiment remains uncertain. A focus on upcoming developments or additional data could offer more insight.\n\nThe 20-period simple moving average (SMA) stands at $2381.818, slightly above the current price. This level might act as a dynamic resistance, suggesting that the price would need to break above this point to continue its upward trajectory. If the price moves higher, testing the SMA could be crucial for confirming whether the trend can shift bullish. On the downside, immediate support is likely around $2292.43, with potential further support at lower levels if selling pressure increases.\n\nTraders might consider waiting for a clear breakout above the SMA or a solid price rejection near the $2292.43 support level for confirmation. A break below this support could indicate further downside risks, while a successful move above the SMA might lead to a retest of the recent highs. Given the current market conditions, cautious trading and a focus on breakout signals could provide the best opportunities."
+    }
+  }
+}
