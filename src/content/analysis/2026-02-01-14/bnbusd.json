@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-01T14:59:42.933Z",
+  "price": {
+    "close": "763.88",
+    "high": "767.4",
+    "low": "746",
+    "open": "765.6",
+    "change": "-0.22",
+    "datetime": "2026-02-01 14:00:00"
+  },
+  "indicators": {
+    "rsi": 26.1431,
+    "macd": -12.46251,
+    "macd_signal": -13.25685,
+    "sma20": 776.787
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 763.88\\n- 24小时变化: -0.22%\\n- 高点/低点: 767.4 / 746\\n- RSI(14): N/A\\n- MACD: -12.46251, Signal: N/A\\n- SMA(20): 776.78700\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：短线承压震荡，潜在支撑未破\n\n当前价格位于763.88附近，较短期20日简单移动平均线776上方偏下，表明多头动能暂时减弱但未彻底转弱。价格在767.4高点未能有效上破，显示上方阻力明显，短线市场整体呈**承压震荡**格局，波动区间在746–776之间反复。\n\n技术指标方面，RSI数据缺失但结合价格与SMA20位置，短期买盘动力不足；MACD当前值为-12.46，虽然缺少Signal线确认，但负值暗示动能偏弱，可能出现进一步回踩。若未来MACD柱缩短并上穿Signal线，可视为动能回暖信号。\n\n关键支撑位首先在近期低点746，其次是更长期心理位720区域，成交量若在这些区域放大则支撑力度增强。阻力位主要在776附近，若突破则短线趋势有望转向；进一步阻力在790–800一线区间，是中期多空分水岭。\n\n交易上建议保守者等待明确突破信号，再考虑顺势入场；激进者可在746–750区间择机轻仓进场，止损置于740下方以防破位；上方若有效突破776且成交量确认，可在回踩确认后参与上涨；短线空单需谨慎，并关注大盘情绪与资金流向变化。整体以震荡区间交易为主，控制风险为先。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 763.88\\n- 24h Change: -0.22%\\n- High/Low: 767.4 / 746\\n- RSI(14): N/A\\n- MACD: -12.46251, Signal: N/A\\n- SMA(20): 776.78700\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin is currently showing signs of near-term consolidation after testing highs around **$767.40** and retreating modestly. Price remains below the 20-period simple moving average (~**776.79**), indicating that short-term momentum favors sellers. The recent range between **$746** support and **$767** resistance reflects a market hesitating to commit to a breakout. Until BNB decisively breaks above the 20-SMA, trend bias leans neutral to slightly bearish.\n\nThe absence of a published RSI value makes momentum gauging less precise, but the negative MACD reading (**–12.46**) and implied lack of a clear signal line crossover suggests downward pressure persists. This kind of MACD structure usually conveys that bulls are struggling to regain control and that bearish momentum has not fully exhausted. Traders should watch for a potential MACD histogram contraction, which could signal an early shift toward bullish convergence if it appears.\n\nKey intraday support stands near **$746–$750**; a sustained breach below this zone could open the door toward lower levels around **$730** or the next structural support. On the upside, immediate resistance is the 20-SMA near **$776–$780**, which, if surpassed with increasing volume, may attract momentum buyers and pave the way for a challenge of recent swing highs around **$790–$800**. A clear break and hold above this zone would be a strong confirmation of a bullish trend continuation.\n\nGiven the current data, risk-managed range trading makes sense. Short-term traders might consider entering long near support with tight stops below $745 and targeting the 20-period SMA or higher. Conversely, a break below the support zone could offer short opportunities with a stop just above **$750**. Always adjust position sizes to risk tolerance and monitor broader market conditions, as altcoins often correlate with Bitcoin’s direction."
+    }
+  }
+}
