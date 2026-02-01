@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-01T16:24:55.944Z",
+  "price": {
+    "close": "77435",
+    "high": "77562.05",
+    "low": "77005.5",
+    "open": "77532.55",
+    "change": "-0.13",
+    "datetime": "2026-02-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 30.97767,
+    "macd": -782.044151,
+    "macd_signal": -848.14129,
+    "sma20": 78390.0435
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期承压]",
+      "content": "当前比特币价格为77435美元，24小时内微幅下跌0.13%。从价格走势来看，BTC/USD在77562.05美元的高点和77005.5美元的低点之间震荡整理，显示出短期内市场缺乏方向性。此时，投资者需密切关注价格突破的可能性，以判断未来趋势。\n\n在技术指标方面，目前的MACD为-782.044151，表明市场动能偏弱，尚未出现明显的买入信号。虽然SMA(20)为78390.0435，略高于当前价格，显示出一定的下行压力，但RSI数据缺失，无法全面评估超买或超卖的情况。这意味着短期内可能仍需调整。\n\n支撑位方面，77005.5美元的低点是关键支撑区域，若跌破则可能加剧下行风险。相对地，77562.05美元的高点则是主要阻力位，突破后可能引发新的买盘。因此，交易者应关注这两个关键价位，以制定相应的交易策略。\n\n建议投资者在当前市场震荡的情况下，采取观望态度，等待更明确的信号再进行进场操作。如果价格突破77562.05美元，可以考虑短期多头布局；反之，若跌破77005.5美元则需谨慎应对可能的下行风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar is $77,435, reflecting a slight decrease of 0.13% over the past 24 hours. This minor decline suggests a period of consolidation after the recent volatility. The high and low for the day stand at $77,562.05 and $77,005.5, respectively, indicating a tightening price range. Traders should closely monitor this range for breakout opportunities, as a decisive move beyond these levels could signal the next trend direction.\n\nIn terms of trend analysis, the price remains below the 20-day Simple Moving Average (SMA) of $78,390.0435, suggesting a bearish sentiment in the short term. The inability to maintain the price above the SMA indicates a potential reversal or continued downward pressure. Additionally, the bearish MACD reading of -782.044151 further reinforces this outlook. Traders should be cautious, as the momentum appears to be favoring sellers.\n\nSupport levels are identified at $77,005.5, where buying interest may emerge, while resistance is observed at $78,000, aligning with the 20-day SMA. A breach below the support level could lead to increased selling pressure, potentially targeting lower support areas. Conversely, if the price breaks above the resistance, it could signal a bullish reversal, encouraging buyers to enter the market. \n\nFor trading strategies, a cautious approach is advisable. Traders might consider entering short positions if prices break below $77,005.5, with stop-loss orders placed above the resistance level. Alternatively, a breakout above the 20-day SMA could provide a buying opportunity, targeting the next resistance level while managing risk appropriately. Always ensure to assess market conditions regularly to adapt to any changes in momentum."
+    }
+  }
+}
