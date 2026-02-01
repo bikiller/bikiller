@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-02-01T11:02:41.593Z",
+  "price": {
+    "close": "0.292955",
+    "high": "0.297814",
+    "low": "0.292351",
+    "open": "0.297595",
+    "change": "-1.56",
+    "datetime": "2026-02-01 10:00:00"
+  },
+  "indicators": {
+    "rsi": 38.3858,
+    "macd": -0.0033866161,
+    "macd_signal": -0.004740679,
+    "sma20": 0.292711
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短线震荡偏弱",
+      "content": "从价格结构看，ADA/USD在0.29附近反复拉锯，24小时小幅回落，重心略低于前高，短线呈现震荡偏弱格局，多空力量暂时均衡，趋势尚未明朗。\n\n技术指标方面，价格略高于SMA(20)显示短期仍有支撑，但MACD处于零轴下方，动能偏空，且RSI与MACD信号缺失，说明当前波动受限，需等待更明确的量能与指标指引。\n\n支撑与阻力上，近端支撑位关注0.2920一线，失守则可能下探0.2900心理关口；上方阻力位在0.2980至0.3000区域，若放量突破，短线反弹空间有望打开。\n\n交易策略建议偏谨慎，激进者可在支撑附近轻仓尝试短多，严格止损；稳健者等待有效突破0.3000或跌破0.2920后再顺势跟进，避免震荡区间内频繁交易。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano is currently trading in a short-term consolidation phase after recent downside pressure, reflected by the 24h decline of 1.56%. Price action remains compressed within a narrow intraday range, suggesting indecision rather than strong bearish continuation. The fact that ADA is hovering just above its 20-period simple moving average indicates a fragile equilibrium, where buyers are attempting to defend current levels but lack strong momentum.\n\nFrom an indicator perspective, momentum remains muted. The negative MACD value highlights lingering bearish bias, although the absence of a confirmed signal line limits trend confirmation. This suggests selling pressure is present but not accelerating aggressively. The lack of a valid RSI reading reduces overbought or oversold clarity, meaning traders should rely more heavily on price structure and volume behavior rather than oscillators at this stage.\n\nImmediate support is clustered near 0.2920–0.2900, a zone that has already absorbed selling pressure during the session low. A decisive break below this area could expose ADA to a deeper retracement toward the 0.2850 region. On the upside, resistance is visible around 0.2980–0.3000, where recent highs stalled. A clean breakout above this psychological level would be needed to shift sentiment toward a short-term bullish recovery.\n\nFrom a trading perspective, range-based strategies currently appear more suitable than trend-following approaches. Conservative traders may wait for confirmation either through a breakdown below support or a sustained move above resistance before committing. Short-term longs could be considered near support with tight risk controls, while momentum traders may prefer patience until indicators align more decisively with price direction."
+    }
+  }
+}
