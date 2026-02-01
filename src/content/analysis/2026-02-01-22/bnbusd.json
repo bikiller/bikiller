@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-01T22:59:49.225Z",
+  "price": {
+    "close": "762.09",
+    "high": "765.51",
+    "low": "753.67",
+    "open": "753.67",
+    "change": "1.12",
+    "datetime": "2026-02-01 22:00:00"
+  },
+  "indicators": {
+    "rsi": 40.12063,
+    "macd": -11.2425,
+    "macd_signal": -12.56771,
+    "sma20": 767.863
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 762.09\\n- 24小时变化: 1.12%\\n- 高点/低点: 765.51 / 753.67\\n- RSI(14): N/A\\n- MACD: -11.24250, Signal: N/A\\n- SMA(20): 767.863\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：短线震荡偏弱\n\n当前价格位于762.09附近，较SMA(20) 767.863略低，显示短期均线压制明显，价格未能有效上破均线，短线走势偏弱震荡。在日内高低点765.51/753.67区间内震荡，缺乏明确方向性突破。\n\n虽然24小时上涨1.12%，但MACD处于-11.24负值区间，暗示动能尚弱且空头力度仍存。缺少RSI数据使相对强弱判断不完全，但从价格与均线关系看多头力量不足，市场谨慎情绪较重。\n\n重要支撑位关注753-755区域，该区域短线买盘可能聚集。阻力位则在767-772附近，若价格有效上破该区间，可观察进一步至780-790的潜在阻力。若跌破支撑将加速空头回撤。\n\n交易建议上，短线可在支撑附近试探性布局，严格设置止损，幅度可设在752下方。激进者在阻力突破确认后择机进场，止损置于突破回踩位置，控制仓位与风险，等待更清晰趋势信号出现。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 762.09\\n- 24h Change: 1.12%\\n- High/Low: 765.51 / 753.67\\n- RSI(14): N/A\\n- MACD: -11.24250, Signal: N/A\\n- SMA(20): 767.863\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nAt **762.09**, Binance Coin (BNB) is trading slightly below short‑term averages, showing a mild defensive posture after recent gains. The **20‑period simple moving average (SMA)** at **767.86** acts as immediate dynamic resistance, capping upside momentum. Price action within the **765.51/753.67** range suggests consolidation after a modest advance. Trend structure currently lacks a clean directional bias, but the higher lows from recent sessions hint at underlying accumulation.\n\nIndicator readings are mixed. The **MACD** at **‑11.24** reflects waning bullish momentum, even though the absence of a signal line value limits precision. Without a valid **RSI**, short‑term overbought/oversold conditions are unclear, but price rejection near the SMA suggests buyers are cautious. A sustained move above the 20‑SMA could invigorate momentum studies, pushing oscillators back toward neutral‑to‑bullish territory. Conversely, a slide below recent lows could reinforce downward momentum.\n\nKey support lies near **753–755**, marking the recent intraday low and a zone where buyers previously stepped in. Further downside support resides around **745–748**, aligning with a short‑term swing low and potential psychological floor. On the upside, breaking above **770** is pivotal; a sustained close above this level would signal renewed strength and might prompt a retest of **780–785**. Failure to clear the 20‑SMA keeps range‑bound conditions intact.\n\nIn terms of trading suggestions, short‑term traders might favor **range plays**, buying low near support and trimming near resistance, with tight stops below **750** to manage risk. For breakout strategies, waiting for a decisive break above **770** with volume confirmation could reduce false signals. Longer‑term participants should monitor weekly trend integrity, watching for higher lows and sustained closes above key moving averages to validate broader uptrend continuation."
+    }
+  }
+}
