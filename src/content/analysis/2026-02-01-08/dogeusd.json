@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-02-01T08:32:32.021Z",
+  "price": {
+    "close": "0.10544",
+    "high": "0.10572",
+    "low": "0.10519",
+    "open": "0.10568",
+    "change": "-0.24",
+    "datetime": "2026-02-01 08:00:00"
+  },
+  "indicators": {
+    "rsi": 41.80356,
+    "macd": -0.0015616225,
+    "macd_signal": -0.0021538033,
+    "sma20": 0.104522
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 狗狗币/美元(DOGE/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.10544\\n- 24小时变化: -0.24%\\n- 高点/低点: 0.10572 / 0.10519\\n- RSI(14): N/A\\n- MACD: -0.0015616225, Signal: N/A\\n- SMA(20): 0.104522\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"狗狗币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "狗狗币/美元技术分析：横盘震荡偏多\n\n当前价格围绕0.105区间震荡，短线趋势偏横盘但多头情绪略微占优。价格略高于20日简单均线SMA(20)=0.104522，显示近期多头有温和支撑，但波动幅度有限，趋势尚未明确突破。\n\n技术指标方面，MACD处于负值且无明确信号线数据，表明当前动能偏弱。若后续MACD快线向上交叉信号线，可确认多头动能增强。缺乏RSI数据限制超买超卖判断，但价格维持均线之上仍偏向震荡偏多。\n\n支撑位关注0.1045区域，跌破该位可能引发更深回调至0.103附近。阻力上看短期高点0.1057-0.1060区间，若有效突破并站稳，可打开上行空间至0.108。\n\n交易建议上，建议逢低短线多单为主，止损设在0.104下方，目标放在0.106及0.108附近。若价格跌破支撑且量能放大，则避免追多，以观望等待确认再择机介入。坚持风控纪律为要。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently trading at 0.10544 against the US Dollar, showing a modest 24-hour decline of 0.24%. Over the past 24 hours, the price has fluctuated between 0.10572 and 0.10519, indicating a relatively tight range. Despite this, the overall trend appears neutral to slightly bearish in the short term. With the price hovering just above the SMA(20) at 0.104522, the market shows some level of consolidation, suggesting that Dogecoin is awaiting a breakout in either direction. Traders should keep an eye on this level for potential momentum shifts.\n\nThe MACD value is negative at -0.0015616225, signaling a potential bearish momentum, though the lack of a signal line hinders more comprehensive analysis. Typically, a bearish MACD indicates that the short-term price momentum is weaker than the long-term trend. However, without a clear crossover or signal, it’s difficult to draw a definitive conclusion on the overall market sentiment. In this case, the MACD could be indicating the beginning of a short-term downtrend, but confirmation would require additional indicators such as the RSI or further price action.\n\nSupport for Dogecoin is seen around the low of 0.10519, and a further drop below this level could expose the cryptocurrency to more significant support around the 0.104 levels. Resistance seems to be building near the high of 0.10572, with a potential breakout above this price leading to a retest of the 0.106 area. Traders could consider buying near support for short-term moves or waiting for a confirmation of a break above resistance for a more solid bullish entry.\n\nGiven the current consolidation pattern, Dogecoin’s price action presents an opportunity for intraday traders to capitalize on small price swings. Those looking for a longer-term position should wait for confirmation of a trend reversal either above resistance or below support levels. Patience is key as the market develops, and risk management should be a priority, especially with the lack of clear bullish momentum in the indicators."
+    }
+  }
+}

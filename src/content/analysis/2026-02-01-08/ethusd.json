@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-01T08:28:40.054Z",
+  "price": {
+    "close": "2399.53",
+    "high": "2417.66",
+    "low": "2398.45",
+    "open": "2411.55",
+    "change": "-0.46",
+    "datetime": "2026-02-01 08:00:00"
+  },
+  "indicators": {
+    "rsi": 24.78302,
+    "macd": -55.75351,
+    "macd_signal": -62.21942,
+    "sma20": 2446.305
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线偏弱震荡下行",
+      "content": "当前ETH/USD最新价约2399，24小时小幅回落，价格紧贴日内低点，显示多头动能不足，短线趋势偏弱，市场处于震荡下行格局，需关注是否跌破关键支撑。  \n\n从技术指标看，价格仍低于SMA(20)均线2446附近，均线形成压制，暗示反弹空间受限。MACD处于负值区域，空头力量占优，若后续未能收敛，可能延续回调走势。  \n\n支撑位方面，2398附近为日内低点支撑，若失守则下看2350区域。上方阻力集中在2446均线及2470一带，只有突破该区间，才能确认短线反转信号。  \n\n交易策略上，稳健者可等待价格企稳并重新站上2446后再考虑做多；激进者可在支撑位附近轻仓试探，但需严格设置止损，防止下破带来进一步下跌风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Ethereum vs US Dollar (ETH/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 2399.53\\n- 24h Change: -0.46%\\n- High/Low: 2417.66 / 2398.45\\n- RSI(14): N/A\\n- MACD: -55.75351, Signal: N/A\\n- SMA(20): 2446.30500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe recent price action in ETH/USD shows a **mild bearish tilt** as the pair trades below the short-term SMA (20) around *2446*. The latest print near *2399* and a 24-hour decline of *-0.46%* reflect hesitation among buyers at higher levels. The inability to sustain above *2420–2450* suggests that upward momentum is limited, keeping the short-term structure modestly negative. Sustained closes below the SMA (20) would reinforce this trend bias.\n\nWith traditional momentum oscillators like RSI and MACD incomplete or partially unavailable, we lean on the MACD histogram level at **-55.75** to infer weakening momentum. A negative MACD reading, even without a confirmed signal line crossover, points to **downward pressure building**. This aligns with the current price languishing beneath the moving average, indicating that sellers are exerting control. Without a visible uptick in bullish momentum, the technical landscape leans toward consolidation or further mild correction.\n\nKey **support levels** to watch are near *2380*, followed by the psychologically significant *2300* area. A break below *2300* could accelerate selling toward *2250–2200* zones, inviting deeper corrective dynamics. On the upside, **near-term resistance** lies at *2420*, then *2450–2480*, where prior selling pressure emerged. Overcoming these thresholds with solid volume would be needed to signal a shift in structure, potentially opening the door for a retest of *2500*.\n\nFrom a trading perspective, consider a **range-responsive approach** until clearer momentum returns. Shorter-term traders might look to fade rallies toward resistance with tight stops above *2480*, while support bounces near *2380–2300* could offer low-risk long entries for mean reversion plays. Longer-term positions should prioritize entries closer to confirmed support breaks or reclaiming key levels above *2450*, emphasizing disciplined risk management in this cautious technical environment."
+    }
+  }
+}
