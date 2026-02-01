@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-01T13:56:17.711Z",
+  "price": {
+    "close": "2379.15",
+    "high": "2410.35",
+    "low": "2377",
+    "open": "2396.2",
+    "change": "-0.70",
+    "datetime": "2026-02-01 13:00:00"
+  },
+  "indicators": {
+    "rsi": 31.21065,
+    "macd": -47.8519,
+    "macd_signal": -53.34652,
+    "sma20": 2417.5405
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线偏弱震荡下行",
+      "content": "当前价2379.15接近日内低点2377，24小时小幅回落0.70%，显示多头动能不足。价格仍运行在SMA(20)2417.54下方，短线结构偏空，反弹更像技术性修复，整体以震荡下行思路为主。\n\n均线压制明确，SMA(20)构成上方动态阻力，若无法收复2410-2418区间，弱势将延续。MACD为-47.85190处于负值区，说明空方趋势占优；RSI缺失下更需观察成交与K线形态确认拐点。\n\n支撑方面，2377为日内关键防线，跌破后或下探2350及2320附近寻求买盘承接。阻力位先看2410，其次为SMA(20)2417-2420区域，若放量突破则有望上测2450并改善短线情绪。\n\n交易上建议偏防守：激进者可在2410-2418遇阻轻仓试空，止损放在2425上方，目标2377-2350。稳健者等待2377企稳后再低吸，或确认站稳2420后顺势跟多，控制仓位并严格执行止盈止损。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Ethereum vs US Dollar (ETH/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 2379.15\\n- 24h Change: -0.70%\\n- High/Low: 2410.35 / 2377\\n- RSI(14): N/A\\n- MACD: -47.85190, Signal: N/A\\n- SMA(20): 2417.54050\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nEthereum’s recent price action around **$2,379.15** reflects a mild bearish undertone following a slight **24-hour dip of −0.70%** and a failure to sustain gains near the **$2,410 high**. The short-term trend appears to be flattening, with price oscillating below the **20-period Simple Moving Average (~$2,417)**. This suggests that momentum has softened, and sellers are exerting pressure around key moving average resistance, indicating a cautious environment for bulls.\n\nWhile the **RSI(14)** isn’t currently available, the negative **MACD reading (−47.85)** points to weakening upward momentum and growing downside risk. Although the absence of the signal line limits a full crossover analysis, the MACD’s position below zero typically signals that bearish forces are more dominant than bullish ones in the short term. Traders should watch for any MACD histogram expansion as confirmation of accelerating momentum in either direction.\n\nOn the downside, immediate support resides near yesterday’s low around **$2,377**, with additional support clustered around **$2,330–$2,350** from recent consolidation zones. On the upside, resistance emerges first at the 20-SMA (~$2,417), then near **$2,450–$2,470**, where price previously stalled. A clean break above $2,417 with volume could attract short-covering and renewed buying interest, potentially testing the next resistance band.\n\nGiven current conditions, a neutral to slightly bearish stance makes sense. Short-term traders might consider fading rallies toward the 20-SMA, placing tight stops above $2,420 and targeting the $2,350 support zone. Conversely, a breakout above $2,450 with conviction could shift the bias bullish, suggesting entries on pullbacks. Risk management remains critical as volatility and trend clarity evolve in the coming sessions."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-02-01T14:00:22.584Z",
+  "price": {
+    "close": "0.10556",
+    "high": "0.10674",
+    "low": "0.10523",
+    "open": "0.10572",
+    "change": "-0.14",
+    "datetime": "2026-02-01 13:00:00"
+  },
+  "indicators": {
+    "rsi": 44.79257,
+    "macd": -0.00092015107,
+    "macd_signal": -0.0014320335,
+    "sma20": 0.1043805
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：[当前趋势偏弱]",
+      "content": "当前狗狗币（DOGE）的价格为0.10556美元，24小时内略微下跌0.14%。从价格走势来看，狗狗币近期处于震荡整理阶段，短期内的价格波动较小，高点为0.10674，低点为0.10523。这表明市场情绪相对谨慎，缺乏强劲的买入或卖出动能。\n\n在技术指标方面，虽然RSI数据缺失，但从MACD来看，其值为-0.00092，显示出短期内卖压较强，且多头力量不足。20日简单移动平均线（SMA）为0.10438，价格稍微高于此水平，暗示在短期内仍有一定的支撑，但若跌破该水平，可能会引发进一步的下行压力。\n\n支撑位方面，0.10523可视为短期关键支撑，若价格跌破，则可能进一步测试0.1040的心理关口。阻力位在0.10674，突破该水平将有助于恢复市场的看涨情绪。总体来看，当前的交易策略应该以谨慎为主，建议投资者关注支撑位的表现，并在市场出现明确趋势信号时再做决策。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Dogecoin vs US Dollar (DOGE/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.10556\\n- 24h Change: -0.14%\\n- High/Low: 0.10674 / 0.10523\\n- RSI(14): N/A\\n- MACD: -0.00092015107, Signal: N/A\\n- SMA(20): 0.10438050\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe DOGE/USD pair currently shows mild consolidation around **$0.1055**, with price action confined between **$0.1052 and $0.1067** on the 24-hour timeframe. This narrow range indicates indecision among participants after recent volatility, suggesting the immediate trend lacks strong directional conviction. Given the modest negative change in price, the short-term trend remains slightly bearish to neutral, especially as buyers struggle to sustain above yesterday’s high.\n\nTechnically, the **SMA(20) at $0.10438** is acting as a dynamic support, keeping the price above its short-term average. The absence of a current RSI reading tempers confidence in momentum interpretation, but the fact that price sits above the 20-period SMA suggests buyers still retain some control. The **MACD’s negative value (-0.00092)** hints at bearish momentum building, though with no signal line available it’s hard to confirm a crossover. Combined, these indicators point to a cautious outlook with potential for sideways movement.\n\nIn the upside scenario, a decisive break above **$0.1070** would open the way toward **$0.1100**, a psychologically significant resistance level, and then the **$0.1150–$0.1200** area where sellers could reassert themselves. On the downside, the key support to watch remains the **20-period SMA** and the **$0.1030** zone; a breach there would likely accelerate selling toward **$0.1000**. These levels can help frame risk for both entries and exits as volatility increases.\n\nFor traders, a range-based strategy makes sense in the current environment: consider buying near support (with tight stops below $0.1030) and scaling into strength only above $0.1070. Longer-term players might wait for more definitive signals, such as a confirmed MACD bullish crossover or a sustained break of resistance, before committing larger capital. Discipline around stops is crucial given the low momentum and tight trading range."
+    }
+  }
+}
