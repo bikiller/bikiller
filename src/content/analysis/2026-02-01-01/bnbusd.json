@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-01T01:59:50.327Z",
+  "price": {
+    "close": "784.6",
+    "high": "785.83",
+    "low": "779.22",
+    "open": "785.29",
+    "change": "-0.09",
+    "datetime": "2026-02-01 01:00:00"
+  },
+  "indicators": {
+    "rsi": 29.15597,
+    "macd": -18.60936,
+    "macd_signal": -17.95603,
+    "sma20": 805.9775
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：目前震荡整理，短期偏弱",
+      "content": "当前BNB/USD价格接近784.6美元，整体呈现震荡整理态势。24小时内波动较小，变化幅度仅为-0.09%，反映出市场情绪的谨慎。价格未能突破近期高点785.83美元，且最低回撤至779.22美元，显示出短期内的承压。整体趋势维持震荡整理，未有明显的方向性突破。\n\n技术指标方面，当前缺乏RSI的有效数据，但MACD指标显示-18.60936的负值，表明短期内空头力量依然占据主导地位。MACD未出现明显的交叉信号，未能提供反弹的明确信号。SMA(20)处于805.97750附近，价格远低于该均线，进一步验证了短期的下行压力。\n\n支撑位在779.22美元附近，若价格下跌突破此位置，可能会加剧下行趋势，目标可能指向更低的支撑区间。阻力位则位于SMA(20)的805.97750区域，若突破该阻力，可能会引发一波反弹，测试更高的价位。\n\n交易建议方面，当前价格处于震荡区间内，建议短期内观望为主。若价格回调至支撑位附近，可以考虑低位尝试买入；若突破阻力位，可考虑做多。但在突破确认前，谨慎操作，避免过早进入市场。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 784.6\\n- 24h Change: -0.09%\\n- High/Low: 785.83 / 779.22\\n- RSI(14): N/A\\n- MACD: -18.60936, Signal: N/A\\n- SMA(20): 805.97750\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is currently showing signs of short-term **consolidation** after a modest pullback from recent highs. The price action between **785.83 and 779.22** over the last 24 hours reflects a tight range, hinting that buyers and sellers are indecisive around current levels. While this range-bound behavior persists, the near-term trend can be interpreted as **neutral-to-bearish**, given the slight negative price change and lack of upward follow-through.\n\nThe **20-period Simple Moving Average (~805.98)** remains above the current price, indicating that the recent price structure is favoring the downside. A sustained break below **780** could accelerate bearish momentum toward **770–765**, where buyers previously exhibited interest. Conversely, a clear reclaim of the 805 area would shift the near-term structure to bullish bias, potentially challenging **820–830** as the next resistance zone. These levels are critical for defining short-term directional bias.\n\nAlthough the **RSI** is not available, the negative **MACD reading (-18.61)** suggests bearish pressure remains active within the current timeframe. Without the signal line data, this metric alone highlights that momentum hasn’t shifted into a convincing upward phase. Traders should be attentive to potential divergence or rapid changes in momentum that could signal an early trend reversal or a strengthening of the existing trend.\n\nPractically, conservative traders may prefer to wait for confirmation beyond key levels: a **break above 805–810** for bullish entries or a **break below 780** for bearish continuation trades. Position sizing should reflect volatility and risk tolerance, and stop-loss orders could be positioned just beyond the respective breakout zones to manage risk. Monitoring volume spikes around these levels will give additional confidence before committing to directional positions."
+    }
+  }
+}
