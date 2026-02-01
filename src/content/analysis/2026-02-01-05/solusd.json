@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-01T05:23:04.687Z",
+  "price": {
+    "close": "104.9",
+    "high": "105.3",
+    "low": "104.73",
+    "open": "105.09",
+    "change": "-0.16",
+    "datetime": "2026-02-01 05:00:00"
+  },
+  "indicators": {
+    "rsi": 33.74898,
+    "macd": -2.6646,
+    "macd_signal": -3.010659,
+    "sma20": 106.861
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 104.9\\n- 24小时变化: -0.16%\\n- 高点/低点: 105.3 / 104.73\\n- RSI(14): N/A\\n- MACD: -2.66460, Signal: N/A\\n- SMA(20): 106.86100\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线承压但多头结构未破\n\n当前价格在104.9附近微幅回落，行情呈弱势震荡格局。虽然24小时变动略为下行，但并未形成明显的下跌动能，价格短期仍受20日均线106.86压制，表明多空交战激烈，短线趋势偏区间整理。\n\n技术指标方面，MACD负值且处于零轴下方，暗示下行动能略占优势，但尚无明显加速迹象。RSI数据缺失限制动量判断，但价格未大幅跌破支撑，显示下方买盘仍较为稳健，多头结构未明显瓦解。\n\n关键支撑位关注103.5–104一线，该区域为近期震荡低点附近，多次得到买盘支撑。阻力位在106.5–107一带，受20日均线压制较强。若价格有效突破该阻力，则短线多头重获主动。\n\n交易建议上，宜以震荡思路对待，回踩接近支撑可逐步布局，止损设于102.8下方以控风险。若上破107确认上升，则可择机增仓。同时留意成交量变化，避免在无量情况下追高。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 104.9\\n- 24h Change: -0.16%\\n- High/Low: 105.3 / 104.73\\n- RSI(14): N/A\\n- MACD: -2.66460, Signal: N/A\\n- SMA(20): 106.86100\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$104–105** suggests a **neutral-to-bearish near-term trend**. After failing to sustain higher levels, recent candles show limited upside momentum. The 20-period simple moving average near **$106.86** continues to act as dynamic resistance, keeping short-term sentiment under pressure. Unless buyers reclaim and close above this SMA convincingly, the path of least resistance remains sideways to slightly lower, with price compression suggesting potential volatility ahead.\n\nThe limited indicator data reinforces this cautious tone. The negative MACD (-2.66) indicates **bearish momentum**, implying sellers have had the upper hand recently. Without a corresponding signal line or a reliable RSI reading, it’s hard to confirm oversold conditions, but the current setup hints at lingering downward pressure. Traders should note that the absence of bullish divergence keeps the bias skewed toward sellers until momentum shows clear improvement.\n\nKey horizontal levels matter here. On the downside, **$102.50** and **$100** are psychological support zones that have previously offered buyers a floor. If these give way, further support could be found around **$95–98**, where longer-term buyers may re-engage. Conversely, immediate resistance lies at **$106.80**, with a stronger barrier near **$110**. A close above $110, especially on higher volume, would suggest a shift toward renewed bullish intent and could attract momentum traders.\n\nIn terms of trading suggestions, cautious participants might consider **range-based strategies** while price remains between $100 and $110. Shorter-term traders could explore light long exposure near key support with tight stops below $100, while breakout traders may only enter after a decisive move above the 20-SMA and $110. Keeping position sizes disciplined and watching for improved momentum readings will help manage risk in this choppy environment."
+    }
+  }
+}
