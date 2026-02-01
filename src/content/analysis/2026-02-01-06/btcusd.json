@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-01T06:10:21.479Z",
+  "price": {
+    "close": "78537.28",
+    "high": "78600.18",
+    "low": "78518.29",
+    "open": "78535.86",
+    "change": "0.00",
+    "datetime": "2026-02-01 06:00:00"
+  },
+  "indicators": {
+    "rsi": 31.43655,
+    "macd": -1080.23745,
+    "macd_signal": -1195.99318,
+    "sma20": 79443.8215
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "从价格结构看，比特币当前围绕78500美元窄幅波动，重心略低于短期均线，显示多头动能不足。高低点区间收敛，说明市场处于观望阶段，整体趋势偏向震荡整理，短线略显走弱。\n\n技术指标方面，价格运行在SMA20下方，短期均线形成压制。MACD值为负且未给出信号线，反映空头动能仍在释放，但趋势强度有限。RSI暂缺，动量判断需结合价格行为，当前并未出现明显反转信号。\n\n支撑与阻力方面，短线支撑位可关注78500美元附近，若跌破则考验前低78518一线。上方阻力首先在78600美元，其次是SMA20所在的79440区域，该位置若无法有效突破，反弹空间将受到限制。\n\n交易策略上，偏好稳健者可保持观望，等待方向选择。激进交易者可在支撑位轻仓试多，但需严格止损；若反弹至阻力区受阻，可考虑短线高位回落思路，整体以短线操作为主。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price against the US Dollar (BTC/USD) is currently holding steady at 78,537.28, with no significant movement in the last 24 hours. This suggests consolidation around this level, with the market indecisive. The current range, between 78,518.29 and 78,600.18, indicates a tight trading zone, where buyers and sellers are in equilibrium. Given the lack of major movement, traders might be waiting for a catalyst, such as news or a breakout from this range, to make further decisions.\n\nFrom a trend perspective, Bitcoin is facing a period of consolidation following a brief rally. The price is below the 20-day simple moving average (SMA), which stands at 79,443.82. This SMA level can act as immediate resistance. If the price continues to remain below this level, it suggests short-term bearish sentiment. On the other hand, if Bitcoin manages to break above this resistance, it could signal a potential reversal, targeting higher levels.\n\nThe absence of key technical indicators like RSI and the lack of MACD signal presents a challenge for gauging momentum. The MACD value of -1,080.24 indicates a slight bearish bias, although without the signal line for comparison, it's difficult to draw any definitive conclusions about a reversal. The lack of RSI also limits insight into whether Bitcoin is overbought or oversold, leaving price action as the primary focus for now.\n\nLooking at support levels, the low of 78,518.29 could act as the immediate support floor. If Bitcoin breaks below this, the next support level could be at 78,000. Traders should monitor these levels closely. A break above 78,600.18 may present an opportunity to test higher resistance. With the current lack of momentum indicators, it’s prudent to approach BTC/USD with caution, awaiting clearer signals before making significant moves."
+    }
+  }
+}
