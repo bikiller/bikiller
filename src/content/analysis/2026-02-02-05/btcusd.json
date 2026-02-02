@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-02T05:22:10.512Z",
+  "price": {
+    "close": "75159.69",
+    "high": "75910",
+    "low": "74965.99",
+    "open": "75798.17",
+    "change": "-0.84",
+    "datetime": "2026-02-02 05:00:00"
+  },
+  "indicators": {
+    "rsi": 27.66943,
+    "macd": -875.73185,
+    "macd_signal": -776.0050952,
+    "sma20": 77270.1665
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，需关注支撑和阻力位]",
+      "content": "当前比特币/美元(BTC/USD)价格处于震荡整理阶段。最新价格75159.69美元，24小时内小幅下跌0.84%。价格在74965.99美元到75910美元区间内波动，显示出市场在此范围内存在较强的支撑和阻力。短期内价格可能继续在这一区间震荡。\n\n从技术指标来看，RSI和MACD的缺失限制了进一步的动能分析。SMA(20)显示当前价格略低于20日均线77270.17美元，这表明市场短期内处于下行压力中。若价格跌破74965.99美元支撑位，可能会加剧卖盘压力，进一步下探。\n\n当前的支撑位在74965.99美元附近，突破该位置可能会加速下行。阻力位则位于75910美元一线，突破此位可能会为多头提供进一步的动力，推动价格上行至更高的区域。投资者需密切关注这两个关键点位。\n\n综合来看，建议短期内保持观望，等待价格突破支撑或阻力位时再作出交易决策。若价格持续震荡，可以尝试小幅交易，但要设置止损保护。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 75159.69\\n- 24h Change: -0.84%\\n- High/Low: 75910 / 74965.99\\n- RSI(14): N/A\\n- MACD: -875.73185, Signal: N/A\\n- SMA(20): 77270.16650\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin’s price action over the recent session shows a modest pullback from intraday highs near **$75,910**, settling around **$75,160**. The inability to sustain above the **20-period simple moving average (~$77,270)** suggests short-term bearish pressure persists. This aligns with a cautious trend posture as price remains below a key dynamic average, pointing to a potential continuation of sideways-to-down movement unless buyers defend. Key near-term support is clustered around **$74,500–$74,000**.\n\nLooking at momentum, the **MACD** showing a negative histogram reading (around **-875**) indicates bearish momentum outweighs immediate bullish forces. Although the **signal line** isn’t available, the raw MACD divergence from price strength highlights weakening upward conviction. With **RSI(14)** unavailable, we infer from price behavior that downside momentum is present but not yet extreme. A drop below support could accelerate selling, while stabilization near the lower band might invite short-covering.\n\nFrom a structure perspective, **support** around **$74,000** has been tested and proved temporarily resilient; a breach of this zone could expose **$72,000** and **$70,000** as successive levels. **Resistance** remains firm at the moving average near **$77,200**, followed by recent highs at **$76,000–$76,500**. Only a convincing break above these levels would shift the short-term bias toward bullish continuation and invite momentum traders back into long positions.\n\nPractically, for traders leaning neutral-to-bullish, initiating partial longs near **$74,000** with tight risk controls could be sensible, aiming for **$76,000–$77,000** targets. Conversely, momentum-based shorts could be considered on rallies into **$76,000–$76,500**, targeting the lower support bands. Always use disciplined stop-losses and monitor broader market catalysts, as volatility can quickly alter technical setups in BTC/USD."
+    }
+  }
+}

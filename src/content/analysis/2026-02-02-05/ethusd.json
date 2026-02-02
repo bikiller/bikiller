@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-02T05:22:58.356Z",
+  "price": {
+    "close": "2209.37",
+    "high": "2242.33",
+    "low": "2201.22",
+    "open": "2241.11",
+    "change": "-1.42",
+    "datetime": "2026-02-02 05:00:00"
+  },
+  "indicators": {
+    "rsi": 26.85332,
+    "macd": -56.85831,
+    "macd_signal": -53.87688,
+    "sma20": 2313.991
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线偏弱震荡下行",
+      "content": "当前ETH/USD最新价2209.37，24小时下跌1.42%，价格位于20日均线2313.991下方，显示中期均线压力明显。日内高低点2242.33/2201.22，波动收敛但重心下移，短线趋势偏空，反弹力度不足。\n\n指标方面，MACD为-56.85831且处于负值区间，说明动能仍由空头主导，回升需要更强的买盘配合。RSI暂缺数据，可通过价格是否持续站稳短期均线来替代判断，若多次冲高回落，代表上方抛压仍在。\n\n支撑阻力上，2201附近为日内低点支撑，若跌破可能下探2180及2150区域；上方阻力先看2242，其次是20日均线2314一带，属于关键趋势分界。只有有效突破并站稳2314，才可能扭转弱势结构。\n\n交易建议上，偏保守可等待回踩2200企稳再轻仓试多，止损放在2180下方，目标先看2240-2310区间。激进交易者可在2240附近逢高做空，止损设在2315上方，顺势看向2180-2150，注意控制仓位与滑点风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Ethereum vs US Dollar (ETH/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 2209.37\\n- 24h Change: -1.42%\\n- High/Low: 2242.33 / 2201.22\\n- RSI(14): N/A\\n- MACD: -56.85831, Signal: N/A\\n- SMA(20): 2313.991\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nEthereum’s price action reflects a short-term **bearish tilt**, as the latest quote near **$2209** trades below the 20-period simple moving average (~**2314**), suggesting sellers have the edge. Recent candles show lower highs and a lack of bullish conviction after failing to reclaim the SMA. The downside pressure within the **$2242–$2201** range indicates a tentative market structure, with a slight grind lower over 24 hours that aligns with risk-off sentiment among altcoin traders.\n\nMomentum indicators, while incomplete, hint at waning strength. The **MACD** at roughly **-56.9** (with no available signal line) implies bearish momentum still in play, and the absence of an **RSI(14)** reading deprives us of overbought/oversold context. Given this, caution is prudent — momentum hasn’t compressed bullishly nor shown clear divergence. Until both MACD and RSI complete their cycles confirming a shift, the prevailing momentum favors continuation rather than reversal.\n\nKey technical levels matter here. On the downside, immediate support exists around the **$2180–$2200** zone, with psychological backing near **$2100** if sellers intensify. Resistance begins near the **20-SMA (~2314)**, followed by the **$2350–$2400** cluster where prior swing highs reside. A decisive break above the SMA and **$2300** round number could flip the short bias, attracting fresh bids. Conversely, a breach below **$2180** may accelerate selling toward **$2100–$2050**.\n\nFor traders, a range-aware approach is logical. Shorter-term longs might look to **accumulate on dips** near established support, with tight stops below **$2180** to manage risk. Meanwhile, breakout traders may consider entries only after a clean close above **$2314**, ideally confirmed by improving momentum indicators. Given current structure, patience and disciplined risk rules remain essential before committing to larger positions."
+    }
+  }
+}
