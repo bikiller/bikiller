@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-02T07:38:55.012Z",
+  "price": {
+    "close": "752.14",
+    "high": "754.24",
+    "low": "747",
+    "open": "747.96",
+    "change": "0.56",
+    "datetime": "2026-02-02 07:00:00"
+  },
+  "indicators": {
+    "rsi": 41.54131,
+    "macd": -8.98088,
+    "macd_signal": -9.58072,
+    "sma20": 756.923
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[短期震荡整理]",
+      "content": "当前，币安币/美元（BNB/USD）呈现出震荡整理的走势。价格在752.14附近波动，24小时变动幅度仅为0.56%，表明市场情绪较为平稳，暂未出现显著的趋势方向。高点和低点分别为754.24和747，波动区间有限，短期内可能保持这种整理态势。\n\n技术指标方面，RSI（14）暂未提供，导致缺乏明确的超买或超卖信号。MACD当前为负值（-8.98088），表明短期内卖盘占优，但由于Signal线缺失，难以明确判定是否存在持续下行的风险。SMA（20）位于756.923，价格略低于这一均线，暗示可能存在一定的下行压力。\n\n支撑位位于747，价格若跌破此位，可能会进一步向740区域靠近，形成短期的支撑带。阻力位则位于756至758区域，若价格突破该区域，可能会尝试进一步上行挑战764的压力位。短期内，价格将在此区间内反复震荡。\n\n建议交易者保持谨慎，避免过度激进的操作。对于短期交易者，可以尝试在支撑位附近低位买入，目标为阻力区间。长期持有者则可以等待更明确的趋势信号，避免在当前市场环境中盲目进场。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 752.14\\n- 24h Change: 0.56%\\n- High/Low: 754.24 / 747\\n- RSI(14): N/A\\n- MACD: -8.98088, Signal: N/A\\n- SMA(20): 756.923\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is showing a **mildly bullish posture** in the very short term, holding above major intra‑day support near **$747–750**. The price remains below the 20‑period simple moving average (~**756.92**), suggesting that recent upward momentum hasn’t fully regained traction. This configuration hints at **range‑bound conditions**, where buyers are defending key floors but lack the strength to break decisively higher. Watch for a clean break above **$758–760** to confirm renewed upside bias.\n\nLooking at the limited indicator data, the **MACD’s negative reading (‑8.98)** suggests bearish momentum still persists, even though the 24‑hour price change is mildly positive. Without a plotted signal line or RSI, we infer that momentum hasn’t flipped convincingly bullish. The MACD’s position below zero indicates that **shorter‑term moving averages remain under longer‑term averages**, which is typically characteristic of corrective phases within broader uptrends.\n\nIn terms of **support and resistance**, immediate support sits near **$747–750**, followed by a deeper level around **$735–740** from recent congestion. On the upside, the aforementioned **SMA(20) near $756.9** acts as dynamic resistance, with **$760–765** presenting a more rigid cap from recent highs. A reclaim and close above these zones would signal buyers stepping in with conviction, while failure to hold support could accelerate selling toward **$730–725**.\n\nFor traders, a **measured approach** is sensible. Short‑term longs might consider entries near established support with tight stops below **$745** and targets toward **$758–762**. Breakout traders could wait for a **clean daily close above $760** before scaling in. Conversely, cautious short positions might look for exhaustion near the SMA and upper resistance, aiming for a fade back toward the lower support band. Overall, risk management remains key until clearer momentum cues emerge."
+    }
+  }
+}
