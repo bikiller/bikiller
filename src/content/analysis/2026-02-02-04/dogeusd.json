@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-02-02T04:42:37.737Z",
+  "price": {
+    "close": "0.10428",
+    "high": "0.10508",
+    "low": "0.10173",
+    "open": "0.10331",
+    "change": "0.97",
+    "datetime": "2026-02-02 04:00:00"
+  },
+  "indicators": {
+    "rsi": 46.046236,
+    "macd": -0.00060099111,
+    "macd_signal": -0.00069394001,
+    "sma20": 0.1046595
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 狗狗币/美元(DOGE/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.10428\\n- 24小时变化: 0.97%\\n- 高点/低点: 0.10508 / 0.10173\\n- RSI(14): N/A\\n- MACD: -0.00060099111, Signal: N/A\\n- SMA(20): 0.10465950\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"狗狗币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "狗狗币/美元技术分析：短线震荡偏多但谨慎\n\n目前价格围绕20日均线轻微下方震荡，短期趋势尚未明确，多空力量交织。价格今天小幅走高但未能站稳关键均线，表明买盘力量有限，整体仍偏区间整理。\n\n技术指标方面，MACD柱线略为负值但接近零轴，显示卖压未明显放大；因缺少RSI和信号线数据，难以确认超买超卖，但整体动能偏弱。20日SMA（0.10466）当前是短线关键参考。\n\n关键支撑位在0.1017附近，这一水平若有效守住，则下方空间受限；阻力位首先看0.1051，其次是0.1080一线，多头若突破则有望打开上行通道。短线价格在支撑与阻力之间震荡概率较高。\n\n操作上建议区间交易为主，激进者可在靠近支撑区域适当低多，止损设于0.1005以下。等待站稳20日均线并确认更强动能后，再考虑更明确的顺势布局，避免单边追高。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The Dogecoin market has shown a modest upward movement in the past 24 hours, with a price increase of 0.97%. The current price of 0.10428 places it just below the recent high of 0.10508, suggesting that the upward momentum is still intact. However, this price movement is limited within a narrow range between 0.10173 and 0.10508, showing a consolidation phase. The market may continue to fluctuate within this range until a breakout occurs.\n\nOn the technical front, the absence of a clear RSI(14) reading leaves traders without an immediate clue for overbought or oversold conditions. The MACD value of -0.00060099111 suggests a slight bearish pressure, though the lack of a signal line reading means it is difficult to draw firm conclusions. However, traders should be cautious as a negative MACD might indicate weakening momentum. A crossover of the MACD above zero could indicate a potential shift in sentiment.\n\nThe 20-day simple moving average (SMA) of 0.10465950 provides a key point of support. If the price dips below this level, it could test the support zone near 0.10173. Conversely, resistance is evident near 0.10508. A breakout above this level could push the price higher, possibly testing the next resistance levels. A failure to break this resistance would likely lead to further consolidation.\n\nFor traders, it is advisable to watch for a break above 0.10508 for potential bullish continuation or a dip below 0.10173, which could signal further downside. Given the neutral technical indicators, short-term scalping strategies within the current range could be effective. However, caution should be exercised given the broader market volatility and the absence of strong momentum signals."
+    }
+  }
+}

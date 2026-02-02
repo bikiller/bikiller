@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-02T04:39:35.249Z",
+  "price": {
+    "close": "737.51",
+    "high": "759.04",
+    "low": "736.68",
+    "open": "758.53",
+    "change": "-2.77",
+    "datetime": "2026-02-02 03:00:00"
+  },
+  "indicators": {
+    "rsi": 29.055139,
+    "macd": -9.65164,
+    "macd_signal": -10.362,
+    "sma20": 761.9655
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 737.51\\n- 24小时变化: -2.77%\\n- 高点/低点: 759.04 / 736.68\\n- RSI(14): N/A\\n- MACD: -9.65164, Signal: N/A\\n- SMA(20): 761.9655\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：短线偏弱震荡下行\n\n当前价格承压于SMA(20)之下，显示短期均线阻力明显，价格在759上方未能企稳，表明多头动能不足。日内高低点窄幅震荡，连跌带量缩，短线趋势倾向震荡偏弱，需关注下破支撑后的加速卖压风险。\n\nMACD为负值且未见信号线金叉，指出空头动能仍占优，但因缺乏信号值难以确认趋势反转强度。RSI缺失导致超买超卖状态难以判定，需结合成交量与价格结构谨慎解读，避免盲目追涨。\n\n主要阻力位在760–765区域，与20日均线重合形成密集阻力带，突破将改善短线偏弱格局；下方初步支撑看740，其次是730整数关口，若破则可能加速下探至720附近。关注关键价位的成交反应。\n\n交易建议方面，短线可在支撑区域试探性轻仓做多，止损设置在730下方；若价格回升并稳住760以上，可考虑逐步加仓；反之若跌破主要支撑，审慎转为空头或观望，控制仓位与风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 737.51\\n- 24h Change: -2.77%\\n- High/Low: 759.04 / 736.68\\n- RSI(14): N/A\\n- MACD: -9.65164, Signal: N/A\\n- SMA(20): 761.9655\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is showing a **short-term bearish tilt** as price sits below the 20‑period simple moving average at **761.97**, with the latest print at **737.51**. The intraday high of **759.04** and low of **736.68** indicate sellers are active near prior support‑turned‑resistance. The broader trend still respects higher lows overall, but this pullback suggests consolidation rather than fresh upside. Watch for a break under **730–735** to confirm deeper correction.\n\nMomentum indicators hint at cooling bullish energy. With RSI unavailable but price trading under the moving average, momentum is losing steam. The MACD’s negative value (‑9.65) suggests that the short‑term trend is weaker than the longer reference, even if the signal line isn’t provided here. That aligns with decelerating buying pressure, and traders should be cautious about entering long positions without clear momentum support emerging.\n\nKey levels to monitor: immediate resistance lies at **760–765**, where the 20‑SMA and recent highs cluster. A sustained move above this zone could reignite buying interest and shift focus toward **780–800**. On the downside, support around **720–725** (prior swing lows) is critical; a clean break there may expose deeper support near **700**. Price action around these zones, especially whether bounces come with volume, will be important for validating setups.\n\nFor trading suggestions, conservative traders might wait for confirmation above **765** with stronger momentum signals before adding longs, targeting **800+** with stops below recent swing lows. Shorter‑term or more aggressive traders could look for pullback bounces near **725–730**, but risk management is key given current softness. Tight stops under key supports and scale‑in approaches can help manage volatility."
+    }
+  }
+}
