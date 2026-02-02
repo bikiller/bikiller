@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-02T14:12:06.114Z",
+  "price": {
+    "close": "102.98",
+    "high": "103.31",
+    "low": "102.94",
+    "open": "103.24",
+    "change": "-0.25",
+    "datetime": "2026-02-02 14:00:00"
+  },
+  "indicators": {
+    "rsi": 51.83974,
+    "macd": -0.33109482,
+    "macd_signal": -0.83108348,
+    "sma20": 101.5175
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[短期震荡整理，略偏下行]",
+      "content": "当前Solana/美元（SOL/USD）价格在102.98美元附近，24小时内微幅下降0.25%。从最近的价格波动来看，SOL/USD在103.31美元和102.94美元之间震荡整理，整体未能形成明确的突破走势，市场情绪相对谨慎。短期内，价格处于横盘整理状态，可能面临一定的下行压力。\n\nMACD指标显示当前为负值（-0.33109482），表明短期内存在一定的卖盘压力，但由于缺少信号线数据，不能做出过多判断。SMA(20)在101.52美元附近，作为短期支撑位，若价格跌破此位置，可能会进一步下探。RSI未提供数据，但从市场情绪来看，未见明显的超买或超卖信号。\n\n支撑位方面，102.94美元和101.52美元可能是当前价格的关键支撑区。若价格有效跌破101.52美元，可能引发进一步的下行调整，目标看向100美元。阻力位则在103.31美元附近，若突破此处，有可能迎来反弹至105美元区域。\n\n基于当前市场走势，建议投资者保持观望，避免在没有明确趋势指引时进行大额交易。若短期内出现向下突破支撑的情况，可考虑适度做空，但仍需谨慎操作。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 102.98\\n- 24h Change: -0.25%\\n- High/Low: 103.31 / 102.94\\n- RSI(14): N/A\\n- MACD: -0.33109482, Signal: N/A\\n- SMA(20): 101.51750\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s recent price action around **$102.98** suggests a short-term **neutral-to-slightly bearish tone**. After testing the day’s high near **$103.31**, the price pulled back marginally toward the low at **$102.94**, indicating limited directional conviction. The presence of the **20-period simple moving average (SMA) at $101.52** beneath current levels continues to offer a modest upward bias, but the tight range underscores indecision between buyers and sellers.\n\nThe absence of a usable **RSI(14)** and **Signal line for MACD** complicates momentum interpretation, yet the negative **MACD value (-0.331)** hints that bearish pressure may be creeping in. When the MACD is below zero, it often reflects fading upward momentum, even without a confirmed signal cross. Traders should be mindful that without a confirming oscillator trend, price could stall or retrace before meaningful continuation. Still, the SMA support may act as a cushion in the near term.\n\nKey **support levels** to watch include the 20‑period SMA around **$101.50**, followed by psychological support at **$100.00**. Should sellers gain control, these levels could be tested. On the upside, **$104.50–$105.00** presents nearby resistance, with a break above **$106.00** required to validate a stronger bullish scenario. A failure to reclaim these resistance zones might keep SOL grinding sideways or slipping back toward support.\n\nFrom a **trading perspective**, range‑bound approaches currently make sense: consider short‑term **buy entries** near the SMA support with tight stops just below. For breakout strategies, wait for a **daily close above $105.00** to confirm upside continuation, or a decisive break below **$100** to signal deeper downside. Risk management remains critical given the limited momentum signals at present."
+    }
+  }
+}

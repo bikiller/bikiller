@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-02T14:09:37.011Z",
+  "price": {
+    "close": "77933.94",
+    "high": "78250.01",
+    "low": "77886.99",
+    "open": "78156.13",
+    "change": "-0.31",
+    "datetime": "2026-02-02 14:00:00"
+  },
+  "indicators": {
+    "rsi": 53.85713,
+    "macd": -108.73541,
+    "macd_signal": -394.26908,
+    "sma20": 77003.066
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，关注支撑与阻力区间",
+      "content": "当前比特币/美元价格表现出震荡整理的趋势，处于相对平稳的区间内。最新价格为77933.94美元，较24小时变化为-0.31%，显示出短期内的价格波动较为有限。市场情绪没有明显的方向性，投资者保持谨慎，等待更明确的信号。\n\n从技术指标上看，MACD当前处于负值区间，表明市场尚未显现出强烈的买盘动力。RSI指标尚不可用，无法提供超买或超卖的参考。而20日简单移动平均线（SMA）为77003.066，价格略微高于此水平，可能会提供短期支撑。\n\n支撑位和阻力位的关键在于77886.99美元（低点）和78250.01美元（高点）。若价格跌破77886.99美元，可能会进一步测试更低支撑位。而若突破78250.01美元，可能会打开上涨空间，测试更高价位。\n\n综合来看，当前市场处于震荡区间，建议投资者采取观望策略，等待价格突破关键支撑或阻力位后再做决策。如果突破上方阻力，可考虑适度做多；若跌破支撑位，可考虑适度做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market has been relatively stable, with a slight 24-hour decline of 0.31%. The price is currently hovering around $77,933, close to the low end of its recent range. The lack of significant movement indicates that BTC/USD is experiencing a period of consolidation, likely testing the strength of both support and resistance levels. A break above $78,250 could signal further bullish momentum, while sustained trading below $77,886 might suggest a pullback.\n\nThe current price remains above the 20-period simple moving average (SMA), which is situated at $77,003. This indicates that the short-term trend is leaning bullish. However, with the absence of an RSI reading, it becomes challenging to gauge the momentum in the market. The MACD at -108.735 suggests a potential bearish sentiment, but without a confirmed signal line or crossover, it’s difficult to pinpoint any imminent trend reversal. Traders should be cautious of a continued downtrend if the MACD remains negative for extended periods.\n\nIn terms of support and resistance, the immediate support is near $77,886, with a further level of support at $77,000. On the upside, resistance is marked at $78,250, with the potential for a more significant level at $79,000. A breakout above $78,250 could provide a chance for bulls to drive prices higher. Conversely, a drop below $77,000 might trigger further downside pressure, leading to a potential retest of lower levels.\n\nGiven the mixed signals from the indicators, it’s advisable for traders to adopt a wait-and-see approach. A breakout above resistance could offer a buying opportunity, while a failure to hold support might present a chance to short, with risk management strategies in place. Until more clarity emerges, BTC/USD could remain range-bound."
+    }
+  }
+}
