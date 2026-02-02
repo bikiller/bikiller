@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-02-02T15:30:32.789Z",
+  "price": {
+    "close": "10.2705",
+    "high": "10.2961",
+    "low": "10.1366",
+    "open": "10.1489",
+    "change": "1.22",
+    "datetime": "2026-02-02 15:00:00"
+  },
+  "indicators": {
+    "rsi": 63.5815,
+    "macd": 0.023670273,
+    "macd_signal": -0.026563364,
+    "sma20": 9.96637
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 10.2705\\n- 24小时变化: 1.22%\\n- 高点/低点: 10.2961 / 10.1366\\n- RSI(14): N/A\\n- MACD: 0.023670273, Signal: N/A\\n- SMA(20): 9.96637\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短线震荡偏多但压力仍存\n\n当前价格站上20日均线附近，显示短期多头有所活跃，但受高点10.296附近阻力压制，价格虽微涨但未出现扩量突破。若持续向上需回补更高成交量确认趋势延续，否则可能维持区间震荡。\n\nMACD数值为正但未有信号线数据配合，暗示动能有一定支撑，但缺乏明确交叉指引，RSI数据缺失亦使超买超卖判断受限。在此情境下，技术指标整体偏中性略多头，但谨防假突破。\n\n关键支撑位在10.00附近，其下若失守则可能回测9.80甚至更低；阻力位初步看10.30，其次在10.50区域。如果价格稳守支撑并逐步攻克阻力，多头信号将更明确。\n\n交易上建议短线以区间策略为主，上方阻力附近适当减仓或设置止盈，下方支撑轻仓布局并严格止损控制风险。等待指标完善后再考虑更大方向性的仓位调整。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Avalanche vs US Dollar (AVAX/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 10.2705\\n- 24h Change: 1.22%\\n- High/Low: 10.2961 / 10.1366\\n- RSI(14): N/A\\n- MACD: 0.023670273, Signal: N/A\\n- SMA(20): 9.96637\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nAvalanche (AVAX) is currently showing a modest bullish inclination around **$10.27**, holding above yesterday’s low near **$10.14**. The 20‑period Simple Moving Average around **$9.97** continues to act as a dynamic support, suggesting that short‑term buyers are defending dips. Price action above this average reflects a mild uptrend, though the narrow range between **$10.14–$10.30** signals limited momentum and potential consolidation rather than a strong directional move.\n\nMomentum indicators are partly unavailable, but existing values offer insight. The positive MACD reading near **0.0237** suggests upside pressure is developing, even without a signal line for confirmation. The missing RSI data means we’re watching price structure more than overbought/oversold conditions; ongoing strength above the SMA points to retention of buyer interest. Traders should monitor MACD cross behavior and seek confirmation from future RSI prints to validate trend strength.\n\nKey levels to watch today include immediate resistance around **$10.30–$10.35**, where recent highs have stalled. A decisive break above this zone with volume could open a run toward **$10.60–$10.75**, offering momentum‑based entries. On the downside, support between **$9.95–$9.85** (near the SMA and recent swing lows) remains critical; a drop below here may invite deeper pullbacks toward **$9.50**. These zones frame your risk and reward parameters for tactical execution.\n\nFor traders, a cautious approach is advisable in this tight range. Short‑term buyers might look for pullbacks to the SMA for favorable entry, employing stops just below **$9.80**. Breakout traders can target **$10.35** with confirmation before scaling in, keeping an eye on volume expansion. Should the market shift sentiment quickly, be ready to adjust positions and respect invalidation levels to protect capital."
+    }
+  }
+}
