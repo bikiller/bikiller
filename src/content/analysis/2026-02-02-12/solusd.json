@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-02T12:54:03.627Z",
+  "price": {
+    "close": "103.1",
+    "high": "103.66",
+    "low": "102.68",
+    "open": "102.68",
+    "change": "0.42",
+    "datetime": "2026-02-02 12:00:00"
+  },
+  "indicators": {
+    "rsi": 52.6283,
+    "macd": -0.56150148,
+    "macd_signal": -1.095017,
+    "sma20": 101.5005
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[短期震荡整理，关注支撑位有效性]",
+      "content": "目前SOL/USD在103.1附近震荡整理，价格波动幅度较小，表明市场可能处于盘整期。从短期来看，SOL价格已接近102.68的支撑位，这可能成为短期反弹的关键。如果支撑位有效，价格可能会重新测试103.66的高点。\n\nMACD指标当前显示负值（-0.5615），未能给出明确的买入信号，表明短期内卖盘压力较重。由于RSI指标缺失，我们无法准确判断超买或超卖的情况，但结合MACD的弱势信号，短期内市场情绪偏谨慎。\n\nSMA(20)位于101.5附近，作为短期均线支撑，若价格跌破该区域，可能意味着短期下行趋势。当前的支撑区间位于102.68-101.5，若破位可能面临进一步下行风险，目标可能指向100美元整数关口。\n\n建议在102.68附近寻找买入机会，止损位可设在101.5以下。若价格突破103.66，则可能会有更强的上行动能，届时可以考虑逐步建仓。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The Solana (SOL/USD) market is currently showing a slight upward bias, trading at $103.1, reflecting a modest 0.42% gain in the past 24 hours. This suggests that the short-term trend is neutral to bullish, with recent price action hovering near the daily high of $103.66. The market’s ability to hold above the $103 level indicates some support, while any pullback to the $102.68 low could be seen as a potential buy opportunity. \n\nThe lack of a clear RSI(14) value leaves technical analysis reliant on other indicators. The current MACD reading of -0.56150148 indicates bearish momentum, though this is tempered by the absence of a signal line to confirm further weakness. A crossover of the MACD to positive territory would provide a more reliable signal of upward potential, while sustained negative readings could indicate more downside risks.\n\nThe 20-period Simple Moving Average (SMA) sits at $101.50, which offers a reliable point of support for the asset. Should the price dip toward this SMA, it could present a solid buying opportunity, as the SMA has historically provided a cushion during minor retracements. Any breach of the $101.50 level, however, would signal a deeper correction towards the next support zone around $100, possibly testing the recent lows.\n\nConsidering the current price action and indicators, traders may consider positioning themselves for short-term bullish trades if Solana stays above $102.68, with a target around $105. Conversely, if the price fails to hold above $102 and falls below the 20-SMA, a more cautious stance with a focus on support at $100 could be appropriate. Tight stop-loss orders should be implemented to protect from any sharp declines."
+    }
+  }
+}
