@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-02T08:38:24.876Z",
+  "price": {
+    "close": "76729.98",
+    "high": "77099.54",
+    "low": "76523.09",
+    "open": "76559.99",
+    "change": "0.22",
+    "datetime": "2026-02-02 08:00:00"
+  },
+  "indicators": {
+    "rsi": 43.76454,
+    "macd": -688.78699,
+    "macd_signal": -755.3872,
+    "sma20": 77010.2745
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，待突破方向]",
+      "content": "目前比特币/美元处于震荡整理阶段，价格在76500-77100区间内波动。短期内未见明显突破，市场情绪较为谨慎，可能等待新的市场推动力或消息刺激。若价格突破77100，则可能测试新高；若跌破76500，则有可能进一步回调。\n\n技术指标方面，RSI(14)暂时不可用，但MACD显示负值，表明短期内市场可能处于卖压中。MACD线距离信号线较远，显示出当前缺乏强烈的买盘力量。SMA(20)位于77010附近，对价格起到一定的支撑作用，但若持续下探，可能会削弱其支撑力度。\n\n支撑位方面，76500附近是短期内的关键支撑位，一旦突破可能进一步测试76000一线。阻力位则位于77000-77200区间，若突破该区间，价格有望上行至78000以上。当前的震荡格局表明市场尚未明确选择方向，短期内可能维持这种状态。\n\n建议交易者保持观望，耐心等待明确的突破信号。若价格突破上行阻力位，可以考虑短线多单；若下破支撑位，则可能需要考虑做空策略，特别是在MACD持续偏空的情况下。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around the $76,729.98 mark, showing a slight increase of 0.22% in the last 24 hours. The price has remained relatively stable within the range of $76,523.09 to $77,099.54, suggesting a consolidation phase. This stability indicates that the market is digesting recent price movements and waiting for a clearer direction. The price’s proximity to the 20-period simple moving average (SMA) of $77,010.27 signals a possible equilibrium, where bullish and bearish pressures are balanced.\n\nDespite the absence of the Relative Strength Index (RSI) and a missing signal line for the MACD, we can still infer some technical insights. The MACD value at -688.79 suggests that momentum is currently weak on the bearish side. Traders should be cautious about a further decline if Bitcoin fails to hold above its immediate support level. A break below $76,500 could lead to a retest of the $75,000 region, where additional support might provide a more reliable floor for the price.\n\nOn the resistance side, the immediate level to watch is $77,100. A breakout above this level could lead to an extension toward $78,000, potentially triggering a bullish rally. A sustained push past this resistance zone would likely shift the short-term outlook towards a bullish trend, attracting more buying momentum. However, with the current market sentiment being neutral, traders should be mindful of any potential bearish reversals.\n\nIn terms of strategy, waiting for confirmation from additional indicators like the RSI or MACD signal line could help refine entry points. Short-term traders might consider looking for price action around key support and resistance levels. A bounce off $76,500 could present a buying opportunity, while a breakdown below that level might trigger a short-term bearish trade towards $75,000. Caution is advised, as market volatility remains a factor."
+    }
+  }
+}
