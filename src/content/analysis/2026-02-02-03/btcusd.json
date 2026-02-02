@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-02T03:58:20.597Z",
+  "price": {
+    "close": "76236.03",
+    "high": "76488.04",
+    "low": "74502.21",
+    "open": "76404.05",
+    "change": "-0.22",
+    "datetime": "2026-02-02 03:00:00"
+  },
+  "indicators": {
+    "rsi": 33.92237,
+    "macd": -733.80908,
+    "macd_signal": -742.7117,
+    "sma20": 77601.1215
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱",
+      "content": "从价格结构看，BTC/USD 近期高点未能有效突破，现价运行于20日均线下方，短线呈现震荡偏弱格局。24小时小幅回落，显示多空力量胶着，但上行动能不足，趋势仍偏向整理向下。\n\n技术指标方面，MACD值处于负区间，空头动能尚未完全释放，短期反弹易受压制。RSI数据暂缺，意味着超买超卖信号不明，操作上需更多依赖价格形态与均线系统来判断节奏。\n\n支撑与阻力方面，下方关注74500一线，为近期低点区域，若跌破或引发进一步回调。上方阻力集中在77600附近，即20日均线位置，其次是前高76480至78000区间，突破前压力明显。\n\n交易策略上，稳健者可等待价格在关键支撑位企稳后再考虑低吸，激进者短线以区间交易为主。若反弹未能站上20日均线，建议控制仓位，顺势偏空思路应对。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently experiencing a slight decline with a 24-hour change of -0.22%. The market has shown a range between a high of 76488.04 and a low of 74502.21, indicating some volatility but not major movements. At the current price of 76236.03, Bitcoin remains in a narrow trading range. The price is slightly below its 20-period Simple Moving Average (SMA), which suggests a minor bearish sentiment in the short term.\n\nThe lack of a clear Relative Strength Index (RSI) and the negative MACD value of -733.80908 indicate a potential weakening of bullish momentum. However, without a confirmed crossover or RSI reading, it is difficult to assess whether the bearish trend will continue or if the market might consolidate or reverse. The absence of signal data further complicates the immediate outlook, leaving traders with limited momentum indicators.\n\nSupport for Bitcoin can be seen around the 74500 level, where the price has recently found support. A drop below this could lead to further bearish action, with the next support around the 73000-73500 range. On the upside, resistance lies near the 76488.04 level, which aligns with the recent high. A breakout above this level could signal a return to bullish territory, possibly pushing Bitcoin towards the 78000-78500 zone.\n\nTraders should monitor for any reversal signals, such as an RSI above 50 or a bullish MACD crossover, as these could provide confirmation of a trend shift. In the short term, those seeking a safer position might consider waiting for a breakout above resistance or a bounce off support for more clarity on the direction of the market."
+    }
+  }
+}
