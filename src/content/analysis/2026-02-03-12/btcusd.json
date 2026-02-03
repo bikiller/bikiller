@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-03T12:52:14.555Z",
+  "price": {
+    "close": "78324.37",
+    "high": "78336.66",
+    "low": "77904.08",
+    "open": "78000",
+    "change": "0.42",
+    "datetime": "2026-02-03 12:00:00"
+  },
+  "indicators": {
+    "rsi": 50.14024,
+    "macd": 76.16345,
+    "macd_signal": 150.87834,
+    "sma20": 78468.4605
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理中，短期保持观望",
+      "content": "当前比特币价格在78,324.37美元附近，24小时内小幅上涨0.42%，表现出较为平稳的走势。市场似乎正在进入震荡整理阶段，缺乏强劲的趋势动能。从当前价格波动来看，短期内难以确定明确的上涨或下跌趋势。\n\n技术指标方面，RSI未提供有效数据，MACD的值为76.16，表明短期内市场依然有一定的买盘支持，但信号线数据缺失，无法提供明确的买入或卖出信号。SMA(20)为78,468.46，略高于当前价格，显示出短期内可能存在一定的阻力。\n\n支撑位位于77,904.08美元附近，若价格回落至此区域，有可能得到支撑并反弹。若价格突破78,468.46美元的SMA(20)，则有可能突破短期阻力，进一步推动上涨。反之，跌破支撑位可能意味着短期下行压力加大。\n\n综合来看，目前市场处于震荡整理区间，建议投资者短期内保持观望，避免在没有明确信号的情况下进行过多操作。若价格突破关键支撑或阻力位，则可以考虑适时进场。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin market shows a mild upward trend with a price of $78,324.37, reflecting a slight 0.42% increase over the past 24 hours. Price action has remained within a narrow range between $77,904.08 and $78,336.66, suggesting consolidation. This sideways movement could indicate a lack of strong momentum, with Bitcoin testing support near $77,900. However, the recent higher low suggests potential for an eventual breakout to the upside. \n\nWithout an available RSI or MACD signal, it’s difficult to gauge momentum through these indicators, leaving the market slightly unclear in terms of strength. The MACD value of 76.16345, although positive, is currently alone without a corresponding signal to confirm bullish momentum. The absence of these key indicators requires a more cautious approach in trading, especially as we await clearer signals of either continuation or reversal.\n\nThe SMA(20) at $78,468.46 currently acts as immediate resistance. A break above this level could indicate further bullish potential, likely pushing Bitcoin towards the next resistance zone near $79,000. On the downside, $77,900 remains a key support level, with a breach of this zone potentially signaling a deeper correction. Traders should remain alert to these levels as they offer clear guidance for potential price movements.\n\nGiven the current market conditions, traders might consider taking a wait-and-see approach. If the price rises above $78,470, it could present a buying opportunity with targets near $79,000. Conversely, if the support at $77,900 breaks, short positions could be considered with a target toward $77,000. Patience in monitoring for decisive breakout or breakdown could prove crucial."
+    }
+  }
+}
