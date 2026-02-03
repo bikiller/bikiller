@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-03T20:31:52.406Z",
+  "price": {
+    "close": "75583.96",
+    "high": "75781.14",
+    "low": "74484",
+    "open": "74842",
+    "change": "0.99",
+    "datetime": "2026-02-03 20:00:00"
+  },
+  "indicators": {
+    "rsi": 41.88408,
+    "macd": -825.22172,
+    "macd_signal": -421.17045,
+    "sma20": 77459.964
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期偏空]",
+      "content": "当前比特币价格在75583.96美元附近，24小时内变化较小，涨幅仅为0.99%。从价格走势来看，市场处于震荡整理状态，未能突破前期高点75781.14美元，且最低点触及74484美元。这表明市场缺乏明确的方向，短期内可能维持横盘整理。\n\n从技术指标来看，RSI（14）尚未给出明确的超买或超卖信号，而MACD数值为负（-825.22），暗示短期内市场情绪偏空。SMA(20)位于77459.96美元，表明价格若向上突破该均线，可能会迎来一定的上涨动力。但目前的下行压力较大，仍需关注支撑位和阻力位的表现。\n\n在支撑位方面，74484美元是当前最关键的支撑，若跌破该价位，可能会进一步下探至更低的水平。阻力位在75781.14美元附近，突破该区域将可能迎来价格回升。当前价格仍处于高位震荡，可能出现较大的波动。\n\n综合来看，短期内价格可能维持震荡整理，建议在价格接近支撑位时进行适度的买入操作，而在接近阻力位时则可以考虑卖出。由于MACD指标偏空，建议保持一定的谨慎，避免过度追高。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 75583.96\\n- 24h Change: 0.99%\\n- High/Low: 75781.14 / 74484\\n- RSI(14): N/A\\n- MACD: -825.22172, Signal: N/A\\n- SMA(20): 77459.964\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe recent BTC/USD price action shows the market still under short-term bearish pressure despite a slight bounce; price sits below the 20-period simple moving average (~77.5k), suggesting the short-term trend is weakening as sellers remain slightly dominant. The latest range between ~75k–76k and the 20-SMA highlights a consolidation phase where directional conviction is still lacking. A breakout above the SMA would be needed to signal a renewed upward bias.\n\nWith MACD deeply negative at about –825 and no signal line crossover yet, momentum remains skewed to the downside, indicating sellers currently have the edge and the risk of lower lows persists. Although we lack an RSI reading here, broader market indicators often show neutral to bearish momentum in similar conditions, meaning there’s no strong oversold bounce cue yet. Traders should watch for any MACD convergence toward a signal line as a potential early sign of momentum shift.\n\nKey technical support zones are important near the intraday low (~74.5k) and psychological round number support at ~70k; a break below these could invite deeper declines toward multi-week lows referenced by other market analyses. On the upside, resistance sits near the 20-period SMA and then the recent swing high around ~78k–79k; clearing above these would open the door to retesting higher levels.\n\nFrom a risk-management perspective, shorter-term traders might look to sell strength toward resistance while stops are placed below key support to guard against whipsaws. More aggressive or longer-term positions might wait for a confirmed break above the SMA and eventually reclaiming major levels before adding fresh long exposure, given the current momentum still tilts bearish. \n> **[Bitcoin Real-Time (BRTI) - Investing.com](https://www.investing.com/indices/bitcoin-real-time-technical?utm_source=chatgpt.com)** · *investing.com*\n> Analyze Bitcoin Real-Time technical analysis insights, including Bitcoin Real-Time moving averages, RSI, pivot points, support & resistance levels, and key signals for trading."
+    }
+  }
+}
