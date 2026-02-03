@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-03T16:47:08.142Z",
+  "price": {
+    "close": "76682",
+    "high": "78074.01",
+    "low": "76495.23",
+    "open": "78064.01",
+    "change": "-1.77",
+    "datetime": "2026-02-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 38.51581,
+    "macd": -161.63596,
+    "macd_signal": 23.80142,
+    "sma20": 78283.512
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期关注区间突破]",
+      "content": "目前比特币在76682美元附近运行，价格略有回调，显示出市场情绪的震荡整理。短期内，价格的波动区间较小，市场缺乏明确的方向性。考虑到当前市场的状态，短期内可能会维持震荡盘整，除非出现明确的突破。\n\n技术面来看，SMA(20)位于78283美元，显示出一定的短期均线支撑，但价格未能持续站稳其上方，反映出市场依旧处于调整期。MACD指标处于负值区域，表明卖方压力较大。由于RSI数据缺失，无法进一步确认市场的超买或超卖状态。\n\n支撑位在76495.23美元附近，若价格跌破此位置，可能会进一步回调至更低区域。反之，78074美元是短期的阻力位，若突破这一价位，则有可能迎来更强的反弹。然而，突破此阻力位的动力仍需观察市场情绪变化。\n\n综合来看，当前行情较为平稳，短期内可关注区间震荡的突破。建议投资者保持观望，等待确认信号后再决定是否进场。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price is currently in a consolidation phase, trading at 76,682 USD after a slight dip of 1.77% over the past 24 hours. The asset reached a high of 78,074.01 USD and a low of 76,495.23 USD, indicating some volatility within a narrow range. With the price trading below the 20-period Simple Moving Average (SMA) at 78,283.51 USD, Bitcoin appears to be in a short-term downtrend. However, the lack of RSI and MACD signal data limits a precise evaluation of momentum, leaving market sentiment as a critical factor.\n\nThe immediate support level for Bitcoin is located around 76,495.23 USD, which is near the recent low. If this level holds, there is potential for a bounce back towards the 20-period SMA at 78,283.51 USD. A break below 76,495.23 USD could signal further bearish pressure, with the next key support around 75,000 USD. On the upside, resistance is seen at 78,074.01 USD, which is the previous high. For a more bullish scenario, Bitcoin would need to clear this level and sustain above the SMA.\n\nGiven the current market conditions, Bitcoin may continue to consolidate in the short term. Traders should watch for a breakout above the resistance at 78,074.01 USD or a breakdown below the support at 76,495.23 USD to gain clearer directional insight. Given the negative MACD value of -161.64, there could be more downside risk, making the bearish scenario more likely unless the market shows signs of strength. \n\nFor cautious traders, maintaining a wait-and-see approach would be prudent. A short-term selling opportunity may exist if Bitcoin fails to reclaim the 78,074.01 USD resistance, but a stronger reversal or confirmation above the SMA could signal a more bullish outlook. Risk management through stop-loss orders is essential in this choppy market."
+    }
+  }
+}
