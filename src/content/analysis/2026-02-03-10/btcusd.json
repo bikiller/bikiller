@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-03T10:02:40.888Z",
+  "price": {
+    "close": "78352.05",
+    "high": "78362.7",
+    "low": "78320.11",
+    "open": "78326.76",
+    "change": "0.03",
+    "datetime": "2026-02-03 10:00:00"
+  },
+  "indicators": {
+    "rsi": 50.58336,
+    "macd": 156.09464,
+    "macd_signal": 194.54771,
+    "sma20": 78540.816
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期区间震荡整理]",
+      "content": "当前比特币/美元价格在78352.05附近，呈现出震荡整理的局面。价格波动较为平缓，短期内未能形成明显的上涨或下跌趋势。市场情绪偏向中立，投资者普遍处于观望状态，等待更明确的方向信号。\n\n从技术指标来看，MACD的值为156.094640，表明市场存在一定的买盘动能，但由于Signal值缺失，难以给出进一步的买入或卖出信号。RSI无法提供数据，无法判断市场是否处于超买或超卖状态。SMA(20)为78540.81600，略高于当前价格，显示出短期内可能的压力位。\n\n支撑位方面，当前的低点78320.11是一个关键区域，如果价格突破此位，可能会进一步回调。阻力位在78540附近，如果价格能够突破此阻力，可能会触发短期上涨。然而，当前的市场并未显示出明确的趋势，因此建议采取谨慎的交易策略。\n\n建议投资者在当前区间内操作，等待价格突破关键支撑或阻力位后再做进一步决策。短期内可考虑区间交易策略，控制风险并观察市场动态。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $78,352.05, with minimal movement in the last 24 hours, showing a slight increase of 0.03%. The price has been oscillating within a tight range, with a high of $78,362.7 and a low of $78,320.11. This tight range suggests a period of consolidation, where the market is waiting for a clear directional signal. While the RSI and MACD values are unavailable, this does not fully hinder analysis since other technical factors are at play.\n\nThe 20-period Simple Moving Average (SMA) at $78,540.82 indicates a slight bearish bias, with the current price trading just below it. This positioning suggests that Bitcoin might struggle to break above this level, which could act as short-term resistance. A sustained move above this SMA could signal a potential bullish reversal, where traders might consider buying. On the other hand, if the price fails to reclaim this level, further downside testing might occur, potentially targeting support levels near the $78,320 region, which aligns with the recent low.\n\nSupport levels near $78,320 and $78,200 provide potential entry points if the price retraces. These levels are crucial, as they represent the low end of the current range. A bounce off these levels could trigger buying pressure, leading to a rebound. Conversely, if Bitcoin breaks below $78,200, the next key support zone may lie closer to $78,000, where further selling pressure could drive the price lower. Such a breakdown would require caution, as it could indicate a shift towards a bearish trend.\n\nFor trading strategies, monitoring price action around the $78,320 to $78,540 range is crucial. Traders should look for confirmation signals—such as a breakout above the SMA or a bounce off support zones—to decide on entries. A breakout above $78,540 could signal a continuation towards the $79,000 mark. However, in a range-bound market, patience is key, and waiting for clear directional cues can minimize risk."
+    }
+  }
+}
