@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-03T11:22:26.679Z",
+  "price": {
+    "close": "2286.52",
+    "high": "2287.93",
+    "low": "2281.07",
+    "open": "2281.89",
+    "change": "0.21",
+    "datetime": "2026-02-03 11:00:00"
+  },
+  "indicators": {
+    "rsi": 41.53394,
+    "macd": -8.25376,
+    "macd_signal": -2.43379,
+    "sma20": 2329.7395
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，关注关键支撑位]",
+      "content": "目前，ETH/USD的价格表现相对稳定，近期价格在2280-2290区间震荡整理。虽然价格有所波动，但缺乏强烈的方向性趋势，因此短期内市场处于整理阶段。由于缺乏显著的上升或下降动能，投资者需密切关注价格突破的方向。\n\n从技术指标来看，MACD目前为负值(-8.25376)，表明短期内卖压较强，但由于Signal线数据缺失，暂时无法确认是否出现背离迹象。RSI未提供数据，因此无法进一步分析超买或超卖状态。SMA(20)为2329.74，价格持续低于此水平，表明短期内价格仍可能面临一定压力。\n\n在支撑位方面，2281.07附近形成了短期支撑，一旦突破该位置，可能会进一步向下测试2270附近的更强支撑。上方阻力位则集中在2300附近，以及SMA(20)的2329.74一线，若突破这些位置，可能开启新的上涨趋势。\n\n综合来看，短期内ETH/USD可能继续维持震荡整理的走势，建议投资者在关键支撑位附近寻求买入机会，并在接近阻力位时考虑卖出。同时，保持关注MACD和RSI的变化，及时调整策略。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum's current price of $2286.52 has shown a modest 0.21% increase over the past 24 hours, indicating a relatively stable market environment. The price has traded between $2281.07 and $2287.93, suggesting some consolidation near the current level. This tight range reflects a lack of strong momentum in either direction, with investors likely waiting for a clearer signal before committing to larger positions. The trend remains neutral to slightly bearish given the price's inability to break above recent highs consistently.\n\nThe SMA(20) at $2329.74 provides a reference point for potential resistance, and the current price is significantly below this moving average, suggesting a prevailing bearish sentiment in the short term. For further confirmation of a downtrend, the price would need to break below the recent low of $2281.07, potentially targeting $2250 as the next support level. However, if Ethereum can surpass the SMA(20), we might see a potential reversal toward higher price levels, with $2350 acting as the next resistance.\n\nCurrently, the MACD reading of -8.25 points to a bearish crossover, but with no signal line available, this interpretation remains incomplete. A deeper look at the price action and upcoming MACD data would provide more insight. Until then, Ethereum’s price is likely to continue its consolidation phase, with any significant move above the SMA(20) requiring increased volume and momentum.\n\nFor traders, the immediate strategy should focus on key support and resistance levels. A breakout above $2329 would offer a potential buy signal, while a drop below $2281 might indicate further downside risks. Given the lack of strong directional bias, caution is advised, with traders possibly considering short-term positions or waiting for clearer signs of a trend reversal."
+    }
+  }
+}
