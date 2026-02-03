@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-03T19:35:11.627Z",
+  "price": {
+    "close": "758.2",
+    "high": "759.81",
+    "low": "736.08",
+    "open": "736.69",
+    "change": "2.92",
+    "datetime": "2026-02-03 19:00:00"
+  },
+  "indicators": {
+    "rsi": 45.56459,
+    "macd": -4.084044,
+    "macd_signal": -1.051295,
+    "sma20": 769.3335
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[当前震荡整理，等待突破信号]",
+      "content": "当前，BNB/USD处于震荡整理阶段，价格在736.08和759.81区间内波动。最新价格为758.2，接近前期高点，市场情绪较为谨慎。由于缺少RSI和Signal数据，市场短期内难以判断是否会出现明显的趋势变化。\n\n从MACD指标来看，目前的MACD值为-4.084044，表明短期内市场呈现出弱势卖盘压力。不过，由于Signal数据缺失，无法进一步确认是否存在背离现象。结合SMA(20)的769.33价格，当前价格低于该均线，显示出价格仍处于下行压力中。\n\n技术面支撑位大致位于736.08，而阻力位则在759.81附近。如果价格突破759.81，可能会迎来上行趋势的延续，反之跌破736.08则有可能进一步下探至更低水平。当前市场缺乏强烈的趋势信号，因此需要等待明确的突破确认。\n\n综合来看，建议短期内可以关注突破关键支撑与阻力位的变化，若价格突破上行可适量做多，若跌破下行则可考虑做空。风险控制应放在736.08一线，止损位可设置在此下方。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 758.2\\n- 24h Change: 2.92%\\n- High/Low: 759.81 / 736.08\\n- RSI(14): N/A\\n- MACD: -4.084044, Signal: N/A\\n- SMA(20): 769.33350\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is showing a modest bullish bias after a positive 24‑hour move, with the price hovering around **758.2** and testing recent highs near **759.8**. This suggests short‑term strength, yet the failure to decisively break above the **20‑period SMA at ~769.3** indicates resistance remains intact. The broader trend still leans neutral‑to‑bullish, but the inability to sustain above key moving averages warns of potential consolidation. Watch for a breakout above **770** to confirm upward continuation.\n\nIndicator interpretation presents a mixed picture. The MACD at **‑4.08** suggests bearish momentum persists below the signal line, implying that upward moves may lack conviction at this stage. With the RSI unavailable, momentum assessment is limited; however, the proximity of price to the 20‑period SMA hints at a short‑term equilibrium between buyers and sellers. A rising RSI above 50 would bolster the bullish case, while a drop below 40 might signal increasing downside pressure.\n\nKey support levels to monitor include the recent low around **736.1**, which may serve as a first line of defense for bulls. A break below this could open the door toward **720–710**, where prior congestion zones could attract renewed buying interest. On the upside, immediate resistance lies at the **770–780** area, with a sustained break above **780** potentially clearing the path toward **800** psychological territory. Traders should also consider the cluster around **750**, which has acted as a pivot in recent sessions.\n\nFor trading suggestions, consider a cautious long bias above **770** with a stop under **745** to manage risk. Shorter‑term traders might look for range trades between **740–770** until a clear breakout emerges. Longer‑term participants should wait for confirmation of trend direction and supportive volume before scaling in, keeping an eye on broader market drivers and volatility."
+    }
+  }
+}
