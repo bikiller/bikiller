@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-03T14:12:26.536Z",
+  "price": {
+    "close": "78196.15",
+    "high": "78337.99",
+    "low": "78185.6",
+    "open": "78223.68",
+    "change": "-0.04",
+    "datetime": "2026-02-03 14:00:00"
+  },
+  "indicators": {
+    "rsi": 49.31772,
+    "macd": 46.057637,
+    "macd_signal": 115.1674,
+    "sma20": 78415.7375
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡中动能转弱",
+      "content": "当前价格贴近日内低点运行，24小时微跌显示多空力量均衡，整体仍处于高位震荡格局，短线动能略显转弱，市场进入观望与试探阶段。\n\n价格略低于SMA20均线，表明短期均线压制开始显现，MACD柱值仍为正但缺乏扩张，动能减缓迹象明显，RSI数据缺失使超买超卖判断受限。\n\n下方关键支撑关注78180一线，若跌破或测试78000整数位；上方阻力位在78420附近，与均线重合，进一步突破需放量配合。\n\n操作上宜以区间思路对待，靠近支撑轻仓试多，触及阻力逐步止盈，避免追涨杀跌，等待明确突破方向后再加仓跟进。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price action over the past 24 hours shows a very subtle shift with a 0.04% drop, trading near $78,196. This slight downturn has resulted in a narrowing of the price range between the high of $78,337.99 and the low of $78,185.60, suggesting a period of consolidation. The market appears to be in a neutral phase, with minimal momentum either way. A break above the recent high could indicate renewed bullish sentiment, while a dip below the low could trigger bearish pressure.\n\nThe absence of a clear RSI (14) value prevents a deeper dive into momentum analysis. However, the MACD shows a positive reading at 46.06, which hints at a favorable bias towards the upside. This suggests that the underlying trend may still lean bullish, but without a confirmed signal, the market remains somewhat indecisive. Watch for a convergence between the MACD line and the signal line to gauge the strength of the next price move.\n\nSupport and resistance levels are becoming more defined. The recent low of $78,185.60 presents a key support level, while the high of $78,337.99 serves as resistance. A break above this resistance level could see price action targeting the next major resistance at around $78,500. On the downside, a failure to hold above support could expose lower levels closer to $78,000 or even $77,800. Traders should remain vigilant for a breakout in either direction.\n\nFor trading strategies, consider waiting for a confirmed breakout either above $78,338 or below $78,185 before entering new positions. Given the market's current consolidation phase, trading range-bound strategies could be profitable, targeting small moves between these key levels. Longer-term traders may want to await a stronger confirmation of momentum before committing larger positions."
+    }
+  }
+}
