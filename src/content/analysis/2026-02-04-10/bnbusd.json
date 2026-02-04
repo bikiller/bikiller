@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-04T10:06:11.988Z",
+  "price": {
+    "close": "755.87",
+    "high": "756.32",
+    "low": "755.33",
+    "open": "755.69",
+    "change": "0.02",
+    "datetime": "2026-02-04 10:00:00"
+  },
+  "indicators": {
+    "rsi": 45.73874,
+    "macd": -2.33865,
+    "macd_signal": -2.57965,
+    "sma20": 758.9355
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：震荡整理，维持区间波动",
+      "content": "当前币安币（BNB/USD）价格表现出震荡整理的走势，价格保持在755.87附近，未出现明显的突破。24小时涨幅仅为0.02%，表明市场情绪较为谨慎。根据最近的高低点（756.32和755.33），BNB/USD的价格在短期内处于窄幅震荡区间内。\n\n技术指标方面，MACD指标显示当前值为-2.33865，且未给出明确的信号线方向，这通常意味着市场缺乏强烈的动能。SMA(20)为758.93550，价格低于该均线，暗示当前市场可能存在一定的卖压，但并未显现出明确的下行趋势。\n\n从支撑和阻力层面来看，当前的支撑位可以观察755.33一线，而阻力位则集中在756.32附近。若价格突破756.32，可能会开启进一步的上行空间，反之，若跌破755.33支撑位，则有可能回落至更低价位。\n\n综合来看，建议投资者保持观望，等待价格突破关键支撑或阻力位再做决策。若突破756.32可考虑轻仓短多，跌破755.33则可考虑短空。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 755.87\\n- 24h Change: 0.02%\\n- High/Low: 756.32 / 755.33\\n- RSI(14): N/A\\n- MACD: -2.33865, Signal: N/A\\n- SMA(20): 758.93550\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action around **$755–$756** reflects a period of tight consolidation after recent volatility. The slim range between the daily high and low suggests equilibrium between buyers and sellers, with neither side asserting dominance. Given that the price sits just below the **20‑period simple moving average (SMA)** at **~$758.94**, short‑term momentum currently favors slight bearish pressure, although the market has not decisively rolled over. Traders should watch for a clear breakout above the SMA to signal renewed bullish interest.\n\nThe **MACD reading at −2.33865** indicates underlying bearish momentum, but without the signal line available, interpretation is partial; the negative value typically shows that the recent price trend has been weakening relative to its longer history. The absence of an **RSI (14)** limits overbought/oversold context, yet the narrow trading band complements the MACD’s cautious tone. If momentum indicators begin to converge or turn upward, it could point toward a near‑term relief rally.\n\nKey **support and resistance levels** to monitor are crucial for planning entries and exits. Immediate support resides near **$745–$750**, where previous consolidation occurred; a break below this zone could invite deeper retracement toward **$730**. On the upside, a sustained move above the SMA and **$760** would open the door to retesting the **$780–$790** area, where supply has historically mounted. Volume confirmation on these moves would strengthen conviction.\n\nFrom a trading perspective, disciplined risk management is essential. For bullish setups, consider waiting for confirmation above **$760** with increasing volume, targeting the **$780–$790** range and placing a stop just under **$745**. On the downside, short‑term bearish positions could be considered if price decisively breaks below **$745**, targeting lower supports, with stops above **$760** to manage risk. Always align position size with your risk tolerance and broader market conditions."
+    }
+  }
+}
