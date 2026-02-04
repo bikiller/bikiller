@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-04T16:41:46.911Z",
+  "price": {
+    "close": "73063.51",
+    "high": "74118.24",
+    "low": "73050",
+    "open": "74015.36",
+    "change": "-1.29",
+    "datetime": "2026-02-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 29.43778,
+    "macd": -727.55939,
+    "macd_signal": -481.79908,
+    "sma20": 75710.89
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡整理，短期偏弱",
+      "content": "当前比特币/美元(BTC/USD)的价格为73063.51美元，较昨日略有回调，跌幅为1.29%。价格已接近最近的低点73050美元，短期内震荡整理的走势较为明显。整体趋势仍偏弱，但短期内有一定支撑位，可能会出现横盘整理。\n\nMACD指标目前处于负值区域，-727.55939，显示出卖压仍然较强，缺乏有效的反弹信号。虽然RSI(14)值未给出，但考虑到MACD的表现，市场可能处于超卖状态，短期内可能会有反弹风险。20日简单移动平均线(SMA)为75710.89，价格明显低于该均线，进一步确认了短期弱势的市场结构。\n\n在支撑位方面，73050美元是一个重要的短期支撑位，若跌破该点位，则可能会进一步下探至72000美元附近。阻力位则在74000美元附近，若价格回升并突破此水平，可能会引发一波反弹行情。若能突破SMA(20)线，则短期内有望恢复上涨趋势。\n\n基于当前技术面，建议在73000美元附近寻找短期反弹机会，但注意防范下行风险。若价格跌破73050美元，建议谨慎操作，保持观望或考虑止损操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action is currently showing signs of mild bearish pressure, having dropped by 1.29% in the past 24 hours. The recent high at $74,118 failed to hold, and the price retraced towards the $73,050 low. This decline suggests that the market might be encountering selling pressure, particularly given the proximity to the 20-period Simple Moving Average (SMA), which stands at $75,710. A failure to reclaim levels above this SMA could point towards further downside in the near term. \n\nLooking at the MACD, we see a negative value of -727.55939, which signals that momentum is currently weak and tilted in favor of bears. Although the Signal line is not available, this MACD reading indicates that short-term market sentiment is under pressure. Without significant buying support, Bitcoin may face challenges moving upwards. If the current trend persists, expect the price to test lower support levels around $73,050 and potentially $71,000, which may act as critical levels for future price action.\n\nThe lack of an available RSI reading further complicates immediate analysis. However, the current market structure suggests a more neutral-to-bearish stance. The price is still above major long-term support levels, which would typically encourage some degree of upward correction. However, without a clear reversal signal or bullish divergence on the RSI or MACD, a cautious approach is recommended. If Bitcoin manages to break and hold above the $75,000 mark, it could signal a shift toward a more neutral to bullish outlook, targeting $77,000.\n\nTraders should watch for a potential breakdown below $73,000, which could trigger further downside momentum. Conversely, a sustained break above the $75,710 SMA would signal a shift toward a short-term bullish bias. In the absence of these clear signals, it might be prudent to remain on the sidelines or seek confirmation before committing to any major trades."
+    }
+  }
+}
