@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-04T07:32:40.551Z",
+  "price": {
+    "close": "76333.6",
+    "high": "76572.51",
+    "low": "76227.61",
+    "open": "76555.24",
+    "change": "-0.29",
+    "datetime": "2026-02-04 07:00:00"
+  },
+  "indicators": {
+    "rsi": 47.81533,
+    "macd": -343.26604,
+    "macd_signal": -474.36707,
+    "sma20": 76230.5245
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理中，关注区间突破",
+      "content": "当前比特币价格在76333.6美元附近，表现出震荡整理的态势。短期内，价格在76572.51美元和76227.61美元之间波动，显示出市场暂时缺乏明确方向。若突破区间上限76572.51美元，可能会迎来上行压力；反之，跌破下限76227.61美元，则可能导致进一步下行。\n\n技术指标方面，MACD值为-343.26604，显示出市场的负面情绪，但由于没有给出明确的信号线值，无法确认是否会继续放量下跌。RSI指标未提供，限制了我们对超买或超卖情况的判断。SMA(20)为76230.52450，表明短期内价格倾向于维持在该水平附近。\n\n当前支撑位在76227.61美元附近，若跌破该位置，可能会进一步探寻76000美元附近的支撑。阻力位则位于76572.51美元，突破此位置可能会推动价格向77000美元区间靠拢。投资者需关注价格的突破或回撤动作。\n\n建议短期内采取观望策略，等待价格突破76572.51美元或跌破76227.61美元后再做决定。如果突破上行，则可考虑逐步建立多头仓位；若下行，则可以在76000美元附近寻找潜在支撑位置再进入市场。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin price is currently experiencing a slight downtrend, with a minor decrease of -0.29% over the last 24 hours. The price action has been constrained within a tight range, fluctuating between a high of 76572.51 and a low of 76227.61. This suggests a period of consolidation, where the market is indecisive. Traders should watch for a potential breakout, either above the recent high or below the low, to determine the next directional move. \n\nThe absence of an RSI value leaves us without a clear overbought or oversold indication. However, the MACD reading of -343.26604 hints at bearish momentum, suggesting the possibility of further downside. Without a defined signal line to compare, it's challenging to gauge the strength of this trend. Traders should be cautious and wait for additional confirmation before making significant moves.\n\nThe SMA(20) is positioned at 76230.52, providing a short-term reference point for price direction. If Bitcoin closes below this level, it may indicate further weakness and potential bearish continuation. Conversely, a close above this SMA might signal a bullish reversal, providing an opportunity for long positions. Monitoring the price relative to this moving average will be key to understanding market sentiment.\n\nKey support is seen at the recent low of 76227.61, with resistance at 76572.51, forming a tight range. If the price breaks below support, the next significant level is likely to be around 76000, with further downside potential towards 75500. Alternatively, a break above resistance may lead to a test of 77000, providing an entry point for traders with a bullish bias. Traders should set stops around these key levels for risk management."
+    }
+  }
+}

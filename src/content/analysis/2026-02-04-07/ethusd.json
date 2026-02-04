@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-04T07:33:35.593Z",
+  "price": {
+    "close": "2281.76",
+    "high": "2283.19",
+    "low": "2264.42",
+    "open": "2277.6",
+    "change": "0.17",
+    "datetime": "2026-02-04 07:00:00"
+  },
+  "indicators": {
+    "rsi": 51.31667,
+    "macd": -6.087434,
+    "macd_signal": -12.80506,
+    "sma20": 2256.732
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡偏强、区间上行",
+      "content": "当前ETH/USD围绕2280一线震荡，价格运行于SMA20之上并逼近日内高点，短线结构偏多，但涨幅受限，整体仍处在震荡修复中的缓慢上行阶段。\n\n技术指标方面，RSI暂缺使超买超卖判断受限；MACD为负值显示中期动能仍偏弱，空方压力尚存，但柱体收敛，暗示下行动能在逐步减弱。\n\n关键支撑位关注2260一线，对应日内低点与均线共振区域，进一步支撑在2240；上方阻力位先看2285，若放量突破，下一目标或指向2320区域。\n\n交易策略上，短线以区间思路为主，回踩支撑可轻仓试多，跌破2240需止损离场；激进者可等待有效突破2285后顺势跟进，谨慎控制仓位。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently experiencing a slight consolidation phase, with the price at $2281.76. The 24-hour price change of 0.17% suggests a relatively stable market at this level. The high of $2283.19 and low of $2264.42 show that ETH/USD has been trading in a narrow range, reflecting indecision among traders. This market action indicates a wait-and-see approach, likely driven by broader macroeconomic factors or market sentiment rather than a strong directional trend.\n\nIn terms of support and resistance, ETH/USD is holding just above the key short-term support level of $2264.42, with resistance near $2283.19. If the price dips below $2264, it may test further support near the $2250 region, where the 20-period simple moving average (SMA) is located at $2256.73, providing potential support. A break below this level could open the door to lower levels, around $2200, which has acted as a strong support zone in previous price action. On the upside, a sustained break above $2283 could see ETH/USD challenge the $2300 level.\n\nThe current MACD value of -6.087434 signals bearish momentum, though without a signal line to compare it against, the exact strength of this momentum remains uncertain. As the MACD remains negative, there’s a mild bearish bias, but a crossover into positive territory would signal a potential shift toward bullish momentum. In the absence of further confirmations, it is prudent to adopt a cautious stance and monitor how ETH/USD interacts with its nearby support and resistance levels.\n\nTraders should remain vigilant for breakout or breakdown scenarios. If ETH/USD breaks above the $2283 resistance with strong volume, it could trigger a short-term rally. Conversely, a breakdown below $2264 could lead to further losses, suggesting caution for long positions until the market shows clearer bullish or bearish signals. Monitoring volume alongside price action will be critical to confirm the direction."
+    }
+  }
+}
