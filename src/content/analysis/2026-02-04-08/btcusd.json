@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-04T08:35:59.310Z",
+  "price": {
+    "close": "76086",
+    "high": "76435.48",
+    "low": "75958.64",
+    "open": "76415",
+    "change": "-0.43",
+    "datetime": "2026-02-04 08:00:00"
+  },
+  "indicators": {
+    "rsi": 46.15541,
+    "macd": -327.68508,
+    "macd_signal": -443.99159,
+    "sma20": 76126.8005
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期调整风险]",
+      "content": "当前比特币/美元（BTC/USD）在76086附近震荡整理，价格波动幅度较小。日内波动幅度在76435.48和75958.64之间，表明市场暂时缺乏明确的方向。虽然价格有所下跌，但整体趋势仍在高位区间内，未出现强烈的回调信号。\n\n技术指标方面，MACD处于负值区间，表明短期内卖盘压力较大，但尚未出现明确的卖出信号。SMA(20)位于76126.80，显示出短期内价格维持在该水平附近整理。由于RSI数据缺失，暂时无法全面评估市场超买或超卖情况，这也增加了市场的不确定性。\n\n在支撑位方面，75950一线为较强支撑区，若价格跌破该位置，可能进一步考验更低水平的支撑。上方76450附近为当前的阻力位，若突破该阻力位，则有可能重新挑战78000一线。整体来看，当前市场维持震荡走势，需密切关注突破关键支撑或阻力的情况。\n\n交易建议上，短期内建议保持观望，避免在没有明确突破的情况下贸然进场。如果价格突破76450的阻力，可以考虑短期做多，而跌破75950支撑则可考虑做空，但建议严格设置止损，防范市场的不确定性。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently experiencing a slight pullback with a modest 24-hour decrease of 0.43%, trading around $76,086. This move suggests consolidation after a period of upward momentum. The price is hovering just above the 20-period simple moving average (SMA), which stands at $76,126, signaling a potential support zone. A break below this level could indicate further bearish pressure, potentially targeting the next support at $75,950. On the other hand, a move above $76,435, the recent high, would confirm a short-term bullish continuation, pushing prices higher.\n\nWith the Relative Strength Index (RSI) not available, it's important to turn to other indicators for trend confirmation. The MACD reading of -327.69 indicates bearish momentum, suggesting that the market is in a corrective phase. While the MACD histogram is negative, it is worth watching for any signs of convergence, as a bullish crossover could signal a potential reversal in momentum. As of now, the market sentiment appears neutral to slightly bearish, especially with the current lack of significant upward momentum.\n\nIn terms of resistance levels, the immediate hurdle is around $76,435, where selling pressure has previously emerged. If Bitcoin can break this level, the next major resistance would likely be near $77,000. Traders should be cautious of false breakouts, and it might be prudent to wait for clear confirmation before entering long positions. For short positions, $75,950 presents a key support level; a breakdown below it could lead to further declines.\n\nGiven the current market structure and indicators, a cautious approach is advisable. Traders may consider entering long positions if the price sustains above $76,435 with strong volume or look for a potential short entry if the price drops below $75,950. Risk management strategies, including setting stop losses near key support and resistance zones, remain crucial in this uncertain environment."
+    }
+  }
+}
