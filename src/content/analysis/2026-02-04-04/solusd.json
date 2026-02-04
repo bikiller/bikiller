@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-04T04:24:43.578Z",
+  "price": {
+    "close": "98.9",
+    "high": "99.22",
+    "low": "98.72",
+    "open": "99",
+    "change": "-0.10",
+    "datetime": "2026-02-04 04:00:00"
+  },
+  "indicators": {
+    "rsi": 44.027589,
+    "macd": -1.23332,
+    "macd_signal": -1.19217,
+    "sma20": 100.165
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理，短期承压]",
+      "content": "当前Solana/美元（SOL/USD）价格在98.9附近，全天变化较小，维持在99.22和98.72之间波动。短期来看，SOL/USD显示出震荡整理的特征，价格未能突破100.0的心理关口，表明市场缺乏明显的方向性。\n\nMACD指标目前为负值（-1.23332），说明短期内卖方略占上风，但没有形成强烈的下行趋势。由于RSI未提供，无法从超买超卖的角度进一步分析市场的情绪。SMA(20)处于100.16500，反映出短期内有一定的支撑，但突破该点位可能会打开进一步上涨的空间。\n\n从支撑位来看，98.72附近为短期关键支撑，若跌破则可能会进一步下探至97.5一带。而99.22和100.0则构成了短期的压力区，突破后可视为上行的信号。因此，市场当前处于整理阶段，价格在支撑与阻力之间波动。\n\n建议投资者关注突破区间后的价格表现。若价格突破99.22或100.0，可能会出现反弹机会；若下行跌破98.72，可考虑短期做空操作。整体策略上保持灵活，注重市场的技术面变化。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 98.9\\n- 24h Change: -0.10%\\n- High/Low: 99.22 / 98.72\\n- RSI(14): N/A\\n- MACD: -1.23332, Signal: N/A\\n- SMA(20): 100.16500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$98.9** shows a short-term downshift from recent highs near **$99.22**, signaling a slight loss of upside momentum. While the 24‑hour change is modestly negative, the broader trend appears to be testing bearish sentiment as prices hover below the **20‑period simple moving average (~100.17)**. This suggests that buyers are currently on the defensive, and a break below the recent low of **$98.72** could invite further downside pressure.\n\nAlthough the **RSI(14)** is unavailable, the **MACD’s negative reading (‑1.23332)** implies that bearish momentum is present. Without a MACD signal line for confirmation, we lean on the directionality of the MACD itself: negative values indicate sellers have a short-term edge. The fact that price remains below SMA(20) reinforces this tilt. Traders should watch for a convergence of these indicators toward neutral territory, which could suggest a stabilization phase.\n\nKey levels to monitor include immediate support at **$98.50–$98.70**, followed by a more significant zone near **$96.00** where buying interest has previously emerged. On the upside, reclaiming **$100.00** decisively would be psychologically meaningful and could open a run toward **$102.50–$103.00**. A sustained close above the 20‑period SMA would lend credence to a bullish reversal, potentially attracting short‑covering and fresh long entries.\n\nFor now, range‑oriented traders might consider quick, disciplined entries between support and resistance, coupled with tight stops just outside key levels. Momentum traders should seek confirmation from improved MACD dynamics and ideally a supportive RSI reading before committing to long positions. Conservative players may prefer to wait for a clear breakout or breakdown beyond the defined zones, reducing the risk of whipsaw in this low‑trend environment."
+    }
+  }
+}

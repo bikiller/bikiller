@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-02-04T04:26:06.528Z",
+  "price": {
+    "close": "0.301238",
+    "high": "0.302622",
+    "low": "0.300614",
+    "open": "0.301113",
+    "change": "0.04",
+    "datetime": "2026-02-04 04:00:00"
+  },
+  "indicators": {
+    "rsi": 55.14892,
+    "macd": 0.00040034052,
+    "macd_signal": -0.00027229162,
+    "sma20": 0.29590115
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：震荡整理，短期偏弱",
+      "content": "当前ADA/USD的价格为0.301238，呈现出轻微的震荡整理状态。24小时内价格波动较小，只有0.04%的变动，显示市场暂时缺乏明确的方向。价格的高低点分别为0.302622和0.300614，表明在这一区间内的交易情绪较为平稳。\n\n从技术指标上看，RSI(14)尚未提供数据，无法确认超买或超卖的具体情况。MACD值为0.0004，暗示短期内市场情绪趋于平稳，但由于缺少信号线数据，暂时无法对趋势的强度做出准确判断。SMA(20)目前位于0.2959，显示出短期支撑水平在此附近，表明市场可能会在此区域得到支撑。\n\n支撑位位于0.3006，而阻力位则在0.3026附近。如果价格跌破0.3006，可能会继续向下测试0.2959的支撑区域。如果突破0.3026，可能会带来短期的上涨动能。基于当前情况，建议交易者可关注这些关键价位，并采取区间交易策略，等待更清晰的趋势信号。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Cardano vs US Dollar (ADA/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.301238\\n- 24h Change: 0.04%\\n- High/Low: 0.302622 / 0.300614\\n- RSI(14): N/A\\n- MACD: 0.00040034052, Signal: N/A\\n- SMA(20): 0.29590115\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nCardano’s price action near **$0.3012** reflects a period of consolidation with very low volatility over the past 24 hours. The narrow high-low range suggests short-term indecision among traders, with neither bulls nor bears firmly in control. This sideways movement often follows directional moves and can signal a buildup before a breakout. The prevailing short-term trend leans slightly bullish as price stays above the 20-period simple moving average, indicating tentative upward bias.\n\nThe MACD reading at **0.00040034** is positive, suggesting underlying momentum retains an upward tilt, though the absence of a signal line value limits precise crossover interpretation. A positive MACD typically shows buyers still active, but muted histogram growth hints at weakening momentum. The missing RSI prevents overbought/oversold assessment, but given the tight price range, it’s reasonable to infer the RSI would hover near neutral territory, reinforcing the consolidation narrative over aggressive buying or selling.\n\nImmediate support sits near the recent low around **$0.3000**, with a stronger zone between **$0.2950–$0.2970** where the 20-SMA anchors buyers. Breaking below these levels could invite deeper retracement toward **$0.2900–$0.2920**. On the upside, resistance around **$0.3050** represents the first hurdle, with greater challenges near **$0.3100–$0.3120**, where prior supply emerged. Traders should watch for a breakout above these levels as confirmation of renewed bullish momentum.\n\nGiven the current configuration, a range-trading strategy may be preferable until a clear directional trigger emerges. Short-term buyers might target **$0.3050–$0.3100** with tight stops below **$0.2950**, while more aggressive entries could await a decisive break above **$0.3120**. Conversely, break below **$0.2950** could favor short positions, aiming for **$0.2900**, but always manage risk given low volatility conditions."
+    }
+  }
+}
