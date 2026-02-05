@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-05T08:37:47.419Z",
+  "price": {
+    "close": "71231.21",
+    "high": "71400",
+    "low": "70517.77",
+    "open": "70584.8",
+    "change": "0.92",
+    "datetime": "2026-02-05 08:00:00"
+  },
+  "indicators": {
+    "rsi": 35.62935,
+    "macd": -1261.092198,
+    "macd_signal": -1198.17797,
+    "sma20": 72417.476
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期压力明显]",
+      "content": "当前比特币/美元的价格走势表现出震荡整理的特征，价格维持在70517.77至71400之间的区间内，未能有效突破。尽管24小时变动较小（+0.92%），市场仍显得相对平稳，短期内可能继续在这个区间内波动。\n\n从技术指标来看，RSI和MACD缺乏足够的信息来进行深入分析，但SMA(20)的水平在72417.476附近，提供了一个短期阻力位。价格目前位于其下方，表明市场可能面临一定的卖压。MACD数值为负，进一步确认了卖方在近期的主导地位。\n\n在支撑位方面，70517.77是当前的关键支撑线，若价格跌破该点位，可能会进一步测试更低的价格水平。若价格突破71400，则有望试探SMA(20)所在的72417.476，甚至进一步上涨。\n\n对于短期交易者来说，建议观察70517.77和71400区间的突破。若价格突破71400，可考虑做多；若跌破70517.77，则可考虑做空。但应保持警惕，做好止损以应对波动风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s current price of $71,231.21 suggests a market in consolidation, as it hovers slightly above recent support levels. The high/low range of $71,400 and $70,517.77 indicates tight price action, with no clear breakout or breakdown. This stability points to a neutral short-term trend, but the lack of RSI and MACD data leaves the analysis somewhat incomplete. If the price moves beyond $71,400, a potential continuation toward higher resistance at $73,000 could emerge, whereas a dip below $70,517 would test deeper support zones.\n\nThe 20-period SMA currently stands at $72,417.47, acting as a key dynamic resistance level. Price has been oscillating near this moving average, with recent action showing a tendency to pull back below it, indicating a mild bearish pressure. As the market remains indecisive, traders should watch for confirmation of either a bounce off the 20-SMA or a deeper decline below the $70,500 support. A break above the SMA could offer a bullish signal, potentially driving Bitcoin toward the next resistance around $73,000.\n\nGiven the absence of the RSI and MACD indicators, traders should proceed cautiously. The MACD being negative suggests underlying weakness, but the lack of a signal line for confirmation means further analysis is needed before making any major decisions. Until clearer data emerges, investors may choose to employ a range-trading strategy, buying near support around $70,500 and selling near resistance at $72,400–73,000, while keeping an eye on volume spikes or external news for potential catalysts.\n\nFor a more aggressive trading approach, a clear break above $72,400 could confirm a reversal, signaling potential for a move towards $75,000 or higher. On the other hand, sustained weakness below $70,500 might signal an impending retest of the $67,000 level, especially if broader market sentiment weakens. Therefore, maintaining flexibility in strategy and risk management will be essential in the near term."
+    }
+  }
+}
