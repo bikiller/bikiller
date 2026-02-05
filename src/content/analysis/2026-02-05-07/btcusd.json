@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-05T07:38:05.509Z",
+  "price": {
+    "close": "71167.75",
+    "high": "71494.37",
+    "low": "70750",
+    "open": "70805.45",
+    "change": "0.51",
+    "datetime": "2026-02-05 07:00:00"
+  },
+  "indicators": {
+    "rsi": 33.52067,
+    "macd": -1281.35268,
+    "macd_signal": -1174.47843,
+    "sma20": 72691.444
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱，反弹受限",
+      "content": "从走势结构看，BTC/USD当前运行于短期下行通道内，价格多次反弹未能站稳关键均线，显示多头动能不足。虽24小时小幅上涨，但整体仍处于震荡偏弱格局，趋势尚未扭转。\n\n技术指标方面，MACD数值处于明显负区间，动能柱延续放大，说明空头压力仍在释放。RSI暂缺，短线超买超卖信号无法确认，需更多依赖价格与均线关系判断节奏。\n\n支撑与阻力方面，下方首要支撑位位于70750一线，若失守或进一步下探至70000整数关口。上方阻力集中在71494附近，更强阻力为20日均线72691，对反弹形成明显压制。\n\n交易策略上，偏向谨慎应对。激进者可在支撑位附近轻仓短多，严格止损；稳健者建议等待价格重新站上20日均线并放量确认，再考虑顺势跟进，多空切换需快速。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price remains near $71,167.75, showing a modest 0.51% increase over the past 24 hours. The price is currently facing resistance around the $72,000 level, a range that aligns with the recent 20-period simple moving average (SMA) at $72,691.44400. A break above this level could push Bitcoin toward its previous highs, potentially opening the door to a more substantial rally. Conversely, if the price fails to break this resistance, consolidation or a potential retracement could occur. \n\nThe recent high at $71,494.37 has acted as a short-term resistance, with the price retreating from this level towards the low at $70,750. This range serves as the immediate support zone, and a dip below it could indicate a bearish shift in the market. The lack of a calculated RSI and a negative MACD value of -1281.35268 suggests a slightly bearish or neutral sentiment, with downward momentum being a possibility if the support at $70,750 fails to hold.\n\nGiven the current technical setup, the market appears to be in a consolidation phase, with no clear short-term trend emerging. If the price remains above the support zone and manages to break through the $72,000 resistance, a continuation towards the next key level at $74,000 or higher is possible. Conversely, if it falls below $70,750, consider revisiting the next support at $69,000, which could further confirm a bearish outlook for the short term.\n\nFor traders, a cautious approach is recommended, with a preference for buying near the support levels around $70,750 and aiming for short-term gains towards $72,000. A breakout above $72,000 may warrant a more aggressive long position, while a drop below $70,750 should trigger a reassessment of the outlook, with the potential for more downside if the bearish momentum continues."
+    }
+  }
+}
