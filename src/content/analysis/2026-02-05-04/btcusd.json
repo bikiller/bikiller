@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-05T04:28:37.440Z",
+  "price": {
+    "close": "70904.01",
+    "high": "71305.96",
+    "low": "70565.31",
+    "open": "71085.99",
+    "change": "-0.25",
+    "datetime": "2026-02-05 04:00:00"
+  },
+  "indicators": {
+    "rsi": 28.34272,
+    "macd": -1240.52228,
+    "macd_signal": -1053.94307,
+    "sma20": 73480.611
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，突破可能",
+      "content": "当前比特币/美元（BTC/USD）价格在70904.01美元附近，呈现震荡整理格局。从24小时变化来看，价格微跌0.25%，波动幅度相对较小。整体市场情绪较为谨慎，短期内可能维持区间整理。\n\n在技术指标方面，虽然当前RSI和MACD信号尚不完全，但MACD已显示出负值，表明卖压较为明显。SMA(20)位于73480.611美元，价格距离这一水平还有一定的下行空间，可能构成近期的压力位。此外，价格在70565.31美元附近形成了初步的支撑。\n\n从支撑和阻力层面来看，当前支撑位主要集中在70565.31美元附近，而阻力位则位于71305.96美元的高点。若价格突破此阻力，可能会迎来短期反弹。反之，若支撑位失守，则有可能进一步下探。\n\n在交易策略上，建议短期内保持观望，等待突破或反弹的信号。如果价格突破阻力位，可考虑做多；若跌破支撑位，则可以考虑做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has shown a slight bearish trend recently, with the price sitting at $70,904.01, down by 0.25% over the last 24 hours. The price tested a high of $71,305.96 and a low of $70,565.31, indicating a relatively tight range. The short-term trend appears neutral to slightly bearish, as Bitcoin struggles to maintain momentum above the 20-period simple moving average (SMA) at $73,480.61. A break below the recent low could suggest further downside potential toward key support levels.\n\nFrom an indicator perspective, the MACD is showing a negative value of -1240.52228, suggesting that bearish momentum is present. However, with no clear signal line available for comparison, it's difficult to gauge the strength of this bearish trend. The lack of RSI data limits further analysis, but typically, an RSI below 30 would indicate oversold conditions, and a move above 70 would show overbought levels. Without this data, caution is advised when interpreting the current market dynamics.\n\nSupport levels for Bitcoin are expected around the recent low of $70,565.31. If this level holds, it could indicate a potential rebound toward the $71,305.96 resistance. On the other hand, if the price breaks below this support, a retest of lower levels such as $69,000 or $68,500 could be in play. The key resistance remains near the $73,480.61 SMA, which has historically acted as a pivot point. A move above this level would shift the short-term bias to neutral or bullish.\n\nTraders should consider a cautious approach, watching for clear price action at these support and resistance levels. A breakout above $73,480.61 could trigger bullish momentum, while a breakdown below $70,565.31 could offer short opportunities. As the RSI and other indicators like MACD signal further potential consolidation, waiting for confirmation through price action remains crucial for risk management in this current market environment."
+    }
+  }
+}
