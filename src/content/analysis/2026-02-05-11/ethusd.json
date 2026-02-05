@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-05T11:23:05.394Z",
+  "price": {
+    "close": "2083.18",
+    "high": "2105.03",
+    "low": "2082.43",
+    "open": "2096.64",
+    "change": "-0.69",
+    "datetime": "2026-02-05 11:00:00"
+  },
+  "indicators": {
+    "rsi": 36.21241,
+    "macd": -31.90517,
+    "macd_signal": -33.24302,
+    "sma20": 2125.6355
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线偏弱震荡下行",
+      "content": "从价格结构看，ETH/USD位于2083附近，低于20日均线，短线趋势偏弱。日内高低点收敛，显示空头占优但动能放缓，整体处于下行通道中的震荡整理阶段。\n\n技术指标方面，MACD数值为负，空头动能仍在释放，但信号线缺失，需防止假跌破。RSI暂缺数据，结合价格贴近低点，短线或存在技术性反弹需求。\n\n支撑位关注2080一线，若跌破则下看2050区域。上方阻力位先看2105，其次是20日均线附近的2125，均为反弹过程中较强的抛压区域。\n\n交易策略上，激进者可在支撑位附近轻仓尝试短多，严格止损；稳健者建议等待站稳2125再跟进多单。若反弹受阻，可顺势短空，但需控制仓位与风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum has been showing a bearish trend, currently priced at $2083.18, slightly down by 0.69% over the past 24 hours. The price has recently failed to maintain momentum above key resistance levels, peaking at $2105.03 before retreating to its current value. The market appears to be consolidating within a narrow range, suggesting indecision among traders. If the price continues to struggle at these levels, we may see further downside action in the short term.\n\nThe RSI indicator, though not available, is often a helpful tool in assessing momentum. In the absence of that data, the MACD offers some insight. With the MACD at -31.90517, this indicates a bearish momentum as the price is trading below its moving average. However, without a signal line comparison, it's difficult to confirm a definitive trend reversal. Traders should stay cautious, as the market lacks strong bullish signals for now.\n\nIn terms of support and resistance, Ethereum is hovering near the low end of its recent range, with immediate support at $2082.43, just below the current price. A breach of this level could lead to further declines towards $2050, where stronger support is anticipated. On the upside, $2105.03 serves as the nearest resistance level. A breakout above this level could signal a potential reversal, but this will require a strong push in buying volume to gain traction.\n\nFor traders, the current environment suggests caution. Short-term positions could benefit from taking profits near resistance, particularly if price action struggles at the $2105 level. Long positions should be considered with a breakout confirmation above $2105, but until that happens, the market remains volatile. Risk management is crucial, and using tighter stop-loss levels would be wise for any positions."
+    }
+  }
+}

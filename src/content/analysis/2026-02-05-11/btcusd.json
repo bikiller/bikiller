@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-05T11:22:13.929Z",
+  "price": {
+    "close": "70561.71",
+    "high": "70920.34",
+    "low": "70538",
+    "open": "70719.96",
+    "change": "-0.22",
+    "datetime": "2026-02-05 11:00:00"
+  },
+  "indicators": {
+    "rsi": 32.91884,
+    "macd": -1163.28005,
+    "macd_signal": -1191.94198,
+    "sma20": 71894.2025
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期下行风险]",
+      "content": "目前比特币/美元(BTC/USD)价格处于70561.71美元，较24小时前小幅下跌0.22%。价格目前在70500-71000美元区间震荡整理。短期内市场缺乏明确的上涨动力，可能会维持震荡走势，短期下行风险较高。\n\n技术指标方面，RSI未提供数据，MACD值为负1163.28，说明市场情绪偏弱，卖压较大。MACD处于负值区域且未形成明确的反弹迹象，表明市场仍有进一步下行空间。SMA(20)为71894.20美元，当前价格低于这一水平，显示出短期内市场走势偏弱。\n\n支撑位方面，70500美元区域可能成为短期支撑位，一旦跌破该位，可能进一步下探70000美元。阻力位则在71000-71500美元区间，若突破此区域，可能会带来一定反弹。当前市场仍未摆脱震荡整理的格局，关注这些关键价格区间的突破情况。\n\n建议短期内采取谨慎态度，等待价格确认突破支撑或阻力位后再做决策。如果价格跌破支撑位，可以考虑适度做空；反之，若突破上行阻力位，则可以适当考虑做多。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a slightly bearish short-term trend, trading at $70,561.71 with a modest 24-hour change of -0.22%. The price has been hovering close to its daily low of $70,538, indicating limited volatility and sideways movement. However, this price action is testing the support around $70,500, which is crucial in determining if further downside is possible. A break below this level could open the path towards $70,000, with the next significant support near $69,500. \n\nOn the upside, Bitcoin faces resistance near the 20-day simple moving average (SMA) at $71,894. With the price currently below this level, it suggests a lack of bullish momentum in the short term. If the price pushes above this SMA, it could signal a potential recovery towards higher levels, with $72,500 as the next resistance zone. In the current environment, traders should look for any signs of a breakout above this SMA or a potential retest of support at $70,500 for possible buying opportunities.\n\nRegarding technical indicators, the MACD is in the negative zone at -1163.28, which points to weakening bearish momentum. However, the absence of the RSI and Signal values limits our ability to assess the strength of the trend comprehensively. If these indicators turn positive in the future, particularly if the RSI shows an oversold condition, it could signal a possible bullish reversal. Until then, the market sentiment remains cautious.\n\nFor traders, a wait-and-see approach may be advisable, watching for either a breakout above the 20-day SMA or a confirmation of support at $70,500. If the support level holds, the market could potentially bounce higher, providing a better risk-to-reward ratio for long positions. Conversely, a break below this key support could lead to further downside."
+    }
+  }
+}
