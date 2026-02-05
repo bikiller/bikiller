@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-05T18:07:24.586Z",
+  "price": {
+    "close": "66178.12",
+    "high": "66406.78",
+    "low": "66001",
+    "open": "66035.98",
+    "change": "0.22",
+    "datetime": "2026-02-05 18:00:00"
+  },
+  "indicators": {
+    "rsi": 23.59569,
+    "macd": -1789.52445,
+    "macd_signal": -1469.9289,
+    "sma20": 70115.181
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理中，关注短期突破",
+      "content": "当前比特币/美元(BTC/USD)的价格处于震荡整理阶段，最新价格为66178.12美元。尽管24小时内价格微涨0.22%，但整体波动幅度较小，显示出市场的犹豫不决。短期内，BTC可能继续在66100至66400美元区间内波动，等待进一步的市场信号。\n\n从技术指标来看，RSI(14)未提供数据，但MACD值为-1789.52445，显示出负值的下行压力，表明市场情绪偏向空头。与此同时，SMA(20)为70115.181，远高于当前价格，进一步确认了市场在短期内的下行趋势。若价格未能突破当前震荡区间，可能会继续偏弱运行。\n\n支撑位在66000美元附近，如果价格下破该水平，可能会进一步回落至65500美元或更低。上方阻力位在66400美元附近，若突破此点，可能会有反弹至67000美元的机会，但需注意短期内价格突破的力度不足。\n\n综合来看，建议在当前市场环境下保持谨慎操作。若价格稳定在66100美元上方，可考虑小幅做多，但严格设定止损位。否则，建议暂时观望，等待更清晰的价格突破信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC) is currently trading at $66,178.12, showing a modest 24-hour change of 0.22%. The price action is within a narrow range, between a high of $66,406.78 and a low of $66,001. Despite the small fluctuations, Bitcoin remains well below its 20-day simple moving average (SMA) of $70,115.18, which suggests the market is in a short-term downtrend. The inability to maintain prices above this SMA indicates a weakening bullish sentiment, with the current price struggling to break through resistance levels.\n\nThe RSI (14) and MACD indicators are absent, which means we lack some of the traditional momentum signals that could further clarify market sentiment. However, the recent negative MACD value of -1,789.52 suggests bearish pressure, though its significance is limited due to the lack of signal line data. The lack of an RSI value also prevents a clear understanding of whether Bitcoin is approaching overbought or oversold conditions. Traders should wait for the emergence of these indicators before acting on momentum-based trades.\n\nKey support levels lie at the recent low of $66,001 and a slightly higher level near $65,500. A breakdown below these levels would indicate further weakness and could lead to testing lower support zones, such as $64,000 or $62,500. On the upside, resistance is seen around the $66,400 area, with further resistance at the SMA of $70,115.18. Any price action above the SMA could suggest a potential bullish reversal, but this is contingent on sustained buying momentum.\n\nGiven the current market conditions, the best strategy would be to monitor the price action around key support and resistance levels. A break below $66,000 would warrant a cautious bearish outlook, while a strong rebound above $66,400 could offer an opportunity for a short-term long position. As always, traders should wait for further confirmation from momentum indicators to make informed decisions."
+    }
+  }
+}
