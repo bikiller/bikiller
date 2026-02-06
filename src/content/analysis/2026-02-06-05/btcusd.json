@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-06T05:14:13.854Z",
+  "price": {
+    "close": "65255.6",
+    "high": "65385.97",
+    "low": "64712.49",
+    "open": "64832.4",
+    "change": "0.65",
+    "datetime": "2026-02-06 05:00:00"
+  },
+  "indicators": {
+    "rsi": 42.22058,
+    "macd": -1822.88748,
+    "macd_signal": -2075.17885,
+    "sma20": 66184.884
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，关注支撑和阻力位",
+      "content": "当前比特币/美元（BTC/USD）价格为65255.6，市场呈现出震荡整理的趋势。从24小时变化来看，价格波动较小，只有0.65%的变动。当前的高点和低点分别为65385.97和64712.49，表明市场未能突破重要的价格区间，短期内可能会在此范围内震荡整理。\n\n技术指标方面，RSI未提供数据，因此无法分析市场是否过买或过卖。MACD值为负，-1822.89，这表明市场短期内可能处于下行压力中，但由于没有提供Signal线数据，无法确认是否存在强烈的卖出信号。SMA(20)位于66184.88附近，价格尚低于此均线，进一步支持了短期内可能会出现下行回调的风险。\n\n支撑位方面，64712.49是当前的近期低点，是市场短期内的关键支撑。如果价格突破此支撑位，可能会进一步回调。至于阻力位，65385.97是当前的高点，如果价格突破此位置，则可能恢复上涨动力，挑战66000以上的区域。\n\n综合来看，目前市场呈现震荡整理的状态，短期内建议保持观望，若价格回调至支撑位附近可考虑适量做多，反之突破阻力位时则可适量做多。同时，若下破支撑位，则可能需要止损或调整交易策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin price is currently hovering around $65,255, showing a moderate 0.65% increase over the last 24 hours. This price movement reflects a consolidation phase within a broader uptrend, but it's still below the $66,184 level, which is where the 20-period SMA sits. The SMA provides an important short-term resistance level, indicating that if Bitcoin fails to break above this area, it might encounter further price pullbacks. Traders should monitor this zone closely, as a breakout could trigger a continuation towards higher levels.\n\nThe recent high of $65,385.97 suggests a bullish inclination, though the low of $64,712.49 points to potential support. These levels are critical for identifying potential price ranges. A decline towards the low could test the strength of the support at $64,700, but if Bitcoin can hold above this level, it could signal further upward momentum. Conversely, a break below the low may suggest a deeper retracement, with $63,500 acting as the next support zone.\n\nCurrently, the lack of a clear RSI and MACD data complicates immediate momentum analysis, leaving traders with less insight into potential reversals. However, the current MACD reading of -1822.88 implies bearish pressure, indicating that the price could still face downward pressure unless strong upward buying activity pushes through resistance. A cautious approach would be advisable, waiting for more conclusive technical signals like MACD crossovers or RSI movement for better clarity on the next price action.\n\nFor traders, a breakout above the 20-period SMA could trigger a short-term long entry targeting levels near $67,000. However, with support at $64,700 still in play, any dips approaching this range could offer buying opportunities. Positioning with tight stops around $64,500 may help limit downside risk in case the market sentiment shifts abruptly. Maintaining flexibility and a risk-managed approach remains essential in volatile environments like this."
+    }
+  }
+}
