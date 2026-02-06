@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-06T01:48:02.148Z",
+  "price": {
+    "close": "78.18",
+    "high": "78.48",
+    "low": "75.36",
+    "open": "75.38",
+    "change": "3.71",
+    "datetime": "2026-02-06 01:00:00"
+  },
+  "indicators": {
+    "rsi": 32.19809,
+    "macd": -3.9647,
+    "macd_signal": -3.37207,
+    "sma20": 84.825
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理，短期回调压力]",
+      "content": "当前SOL/USD价格处于78.18，整体呈现震荡整理的格局。24小时内，价格波动幅度为3.71%，表明市场活跃度较高，但没有明显的单边趋势。短期内价格在75.36至78.48区间内震荡，可能出现一定的回调压力。\n\n从技术指标来看，SMA(20)为84.825，表明短期均线处于下降趋势，价格距离均线较远，可能面临回归压力。MACD目前处于负值区间，显示出卖方力量占优，短期内可能存在下行风险。由于RSI数据未提供，无法进一步分析超买超卖情况，但基于当前MACD和SMA表现，市场情绪偏向谨慎。\n\n支撑位方面，75.36附近为近期低点，若价格下破该水平，可能进一步向70美元区域靠拢。阻力位则在78.48附近，突破此位可能迎来短期反弹。若价格能突破84.825的均线位置，短期趋势有望转为上涨。\n\n综合来看，当前建议观望或在75.36附近考虑小幅买入以等待反弹，注意设置止损以防回调风险。若价格突破78.48，可考虑适度跟进短期上涨。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current price of Solana (SOL) against the US Dollar stands at $78.18, showing a 3.71% increase over the past 24 hours. This suggests moderate bullish sentiment in the short term, but we need to consider broader market dynamics. The recent high of $78.48 indicates a slight resistance level, while the low of $75.36 shows some buying interest at this price point. The price action remains within a range, indicating consolidation rather than a strong directional trend.\n\nThe 20-period simple moving average (SMA) at $84.83 highlights a clear bearish trend, with the current price below this level. This suggests potential resistance if SOL attempts to climb higher, signaling that any rally might face headwinds near this price point. The MACD reading of -3.96 indicates a bearish momentum shift, though it is important to note that the signal line is not yet available for further confirmation. This suggests that, while the downside momentum may be slowing, the market isn't yet primed for a reversal.\n\nWithout the RSI(14) data, we are limited in assessing the market's overbought or oversold conditions. However, the price action in relation to the SMA and MACD suggests that Solana could be near a potential support level, with the $75 region acting as a floor. A break below this level would likely open up further downside risk, possibly targeting the next support area around $72. On the flip side, a sustained move above $78.50 could indicate a potential for a short-term bullish recovery, eyeing the $84 level as the next resistance.\n\nGiven the current technical picture, a cautious approach is advisable. Traders may consider waiting for a confirmation of either support holding at $75 or a break above $78.50 for a potential entry. A stop-loss just below $75 could provide a risk-managed way to enter a bullish position, while shorting could be viable if the price fails to reclaim $80 and falls below the recent low."
+    }
+  }
+}
