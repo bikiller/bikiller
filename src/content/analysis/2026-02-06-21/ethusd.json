@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-06T21:49:33.776Z",
+  "price": {
+    "close": "2052.61",
+    "high": "2061.72",
+    "low": "2041.4",
+    "open": "2055.72",
+    "change": "-0.07",
+    "datetime": "2026-02-06 21:00:00"
+  },
+  "indicators": {
+    "rsi": 59.97733,
+    "macd": 20.49781,
+    "macd_signal": 0.70778032,
+    "sma20": 1964.055
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理，短期观望",
+      "content": "目前，ETH/USD处于一个区间震荡的状态，价格在2040至2060之间波动。价格未能突破上方2060的强阻力位，也未跌破下方2040的支撑位，显示出短期内市场的不确定性。整体趋势偏向整理，短期可能维持在当前区间内震荡。\n\n从技术指标来看，虽然MACD指标值为20.49781，但由于Signal数据缺失，无法明确判断趋势的强度与持续性。RSI值缺失同样影响了对超买或超卖状态的判断，需进一步关注后续数据的更新。SMA(20)位于1964附近，显示出中期内潜在的支撑水平。\n\n支撑位方面，2040是近期的关键支撑区间，一旦价格下破此位，可能会加速向下探寻更低的价格。上方阻力位为2060，一旦突破该区域，可能会引发一波上涨行情，测试更高价位。短期内，市场可能继续维持震荡走势，价格波动区间较窄。\n\n建议短期交易者可保持观望，等待突破性信号再做决策。如果价格突破2060，可以考虑看多；若下破2040，则可以尝试做空。同时，建议保持灵活的止损策略，以应对市场的突发波动。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum (ETH) stands at 2052.61 USD, with a slight 24-hour decrease of 0.07%. Despite the minor pullback, ETH remains above its 20-period simple moving average (SMA), which is currently at 1964.05 USD. This suggests a prevailing bullish trend, as long as the price stays above this support level. A break below the SMA could signal a deeper correction toward the next support zone near 2041.4 USD, the day's low. On the upside, the price faces resistance at 2061.72 USD, with a potential breakout targeting higher levels.\n\nAlthough the Relative Strength Index (RSI) and the Moving Average Convergence Divergence (MACD) do not currently provide full information due to incomplete data, the existing MACD value of 20.49781 indicates moderate bullish momentum. A sustained upward movement, accompanied by a rise in MACD, would confirm the strength of the ongoing rally. Should the MACD begin to diverge negatively, it would suggest weakening bullish pressure, increasing the likelihood of a price reversal.\n\nETH's current trading range between 2041.4 USD and 2061.72 USD is crucial. Traders should closely monitor for breakouts or breakdowns from this range. A breakout above 2061.72 USD could drive ETH towards higher resistance levels, potentially targeting 2100 USD or more, while a breakdown below 2041.4 USD may trigger further downward movement, potentially testing the next significant support near 2000 USD.\n\nGiven the lack of significant bearish indicators, the trend appears to be slightly bullish in the short term. However, traders should maintain caution, especially if ETH approaches the lower end of the current range. Conservative traders may wait for a confirmed breakout before entering long positions, while risk-averse traders might prefer waiting for signs of a reversal before shorting."
+    }
+  }
+}
