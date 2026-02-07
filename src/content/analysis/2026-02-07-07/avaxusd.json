@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-02-07T07:25:53.894Z",
+  "price": {
+    "close": "8.9146",
+    "high": "9.144",
+    "low": "8.9072",
+    "open": "9.1218",
+    "change": "-2.16",
+    "datetime": "2026-02-07 07:00:00"
+  },
+  "indicators": {
+    "rsi": 43.21996,
+    "macd": 0.069958523,
+    "macd_signal": 0.094487819,
+    "sma20": 9.15189
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 8.9146\\n- 24小时变化: -2.16%\\n- 高点/低点: 9.144 / 8.9072\\n- RSI(14): N/A\\n- MACD: 0.069958523, Signal: N/A\\n- SMA(20): 9.15189\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短期震荡偏弱，长期仍有守势\n\n目前价格回落至8.91附近，短期趋势偏弱，价格在20日均线下方运行，承压迹象明显。昨日高低点区间狭窄，显示多空均衡度提升但空方略占优，短线可能延续震荡下行。\n\nMACD当前处于正值但无信号线数据，表明上升动能曾存在但已减弱；20日均线9.15189作为关键均线阻力，未能有效上破易引发回撤。若RSI数据恢复，可进一步确认超买/超卖程度。\n\n短期主要阻力位在9.15–9.20区间，突破可带来趋势反转机会；下方支撑在8.80及8.60附近，跌破则可能扩大调整。注意成交量配合，量能不足或限制方向延续。\n\n交易上建议以震荡区间操作为主：偏空策略可在回落至阻力位时分批做空或减仓，多头则在支撑确认和放量反弹时逐步建仓。风控上设好止损，避免趋势突变带来较大回撤。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "Avalanche (AVAX) is currently in a moderate downtrend, trading at 8.9146, showing a 2.16% decrease in the last 24 hours. The price action is testing the lower boundary of its recent range, with the daily high at 9.144 and low at 8.9072. A break below the recent low could signal further downside potential, but the price is still hovering above the critical support zone around 8.90, which could offer some relief if buying pressure steps in.\n\nThe absence of a clear RSI(14) reading limits our ability to gauge overbought or oversold conditions, but the MACD at 0.0699 provides some context. A positive MACD value suggests bullish momentum, though the lack of a signal line prevents a clear crossover confirmation. This could indicate that while the bulls have some control, the market is currently in a consolidation phase, awaiting clearer directional signals. \n\nThe 20-period Simple Moving Average (SMA) is currently at 9.15189, suggesting that the immediate trend is neutral to slightly bearish, with the price trading just below this level. The SMA is acting as a dynamic resistance, which traders could watch for potential reversals if the price fails to push above it. A close above the SMA might signal a shift towards the $9.20-$9.30 range, where further resistance is likely to emerge.\n\nFor traders, key levels to watch include 8.90 as immediate support and 9.15 as short-term resistance. If the price breaks below 8.90, the next support might be around 8.70. On the other hand, a break above 9.15 could suggest a continuation towards the $9.20-$9.30 zone. Risk-averse traders might wait for confirmation with a MACD crossover or a price close above the 20-SMA for a more confident entry."
+    }
+  }
+}

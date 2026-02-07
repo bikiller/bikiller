@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-07T07:20:56.119Z",
+  "price": {
+    "close": "67760.46",
+    "high": "69052.7",
+    "low": "67293.26",
+    "open": "68749.19",
+    "change": "-1.44",
+    "datetime": "2026-02-07 07:00:00"
+  },
+  "indicators": {
+    "rsi": 43.13002,
+    "macd": 487.98501,
+    "macd_signal": 732.12177,
+    "sma20": 69630.401
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，关注支撑与阻力",
+      "content": "当前，比特币/美元（BTC/USD）呈现震荡整理格局，价格在近期的高点69052.7和低点67293.26之间波动。虽然价格略有下行，但市场情绪依然保持强势，未出现明显的趋势反转信号。投资者需关注短期内的支撑和阻力位。\n\n从技术指标来看，SMA(20)为69630.401，当前价格略低于该均线，可能暗示短期内仍存在一定的下行压力。MACD值为487.98501，但没有明确的信号线，表明市场趋势尚未明确。RSI(14)未提供数据，暂时无法通过超买超卖信号进行辅助判断。\n\n支撑位方面，67293.26是关键的低点，若价格下跌至此水平，可能会出现一定程度的反弹。若突破69000点附近的高点，则可能出现进一步上涨。交易者可以根据这些关键价位设置止损与止盈点位。\n\n综合来看，建议投资者在震荡行情中采取区间交易策略，关注支撑位67293.26和阻力位69000附近的突破信号。同时，等待RSI等更多技术指标的确认，避免在趋势不明确时做出过激交易决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has been experiencing a slight downward movement in the last 24 hours, with a 1.44% decrease. The price is currently testing the lower bound of its recent trading range, fluctuating between a high of 69052.7 and a low of 67293.26. The price is also below its 20-period simple moving average (SMA) of 69630.4, indicating a short-term bearish bias. The market is currently in a consolidation phase, as the recent high failed to break through significant resistance, suggesting the potential for further downside if support levels are tested.\n\nThe lack of available data for RSI and Signal Line values makes it difficult to gauge momentum or potential trend reversals accurately. However, the MACD remains above zero, signaling that, although the market is undergoing a short-term pullback, it is still maintaining a longer-term positive trend. Traders should be cautious about entering long positions at this point, given the proximity to key support zones. If the price continues to stay above the low of 67293.26, a bounce could occur toward the 20-period SMA, which may act as resistance.\n\nSupport at the 67293.26 level is crucial for the bulls, as a breakdown below this point would open up further downside toward lower support zones. If the price sustains above this level, traders may look for a re-test of resistance at 69052.7, and potentially a break above this level for a continuation of the uptrend. Conversely, a failure to reclaim this resistance suggests a more cautious or bearish outlook.\n\nFor traders looking to capitalize on short-term movements, it may be prudent to wait for a confirmation of either a breakout above the SMA or a bounce off support before committing to positions. A close above the 20-period SMA would signal a potential return to bullish momentum, while sustained weakness below support levels could indicate further downside risk."
+    }
+  }
+}
