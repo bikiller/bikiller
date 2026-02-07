@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-07T04:23:12.894Z",
+  "price": {
+    "close": "88.66",
+    "high": "88.79",
+    "low": "87.84",
+    "open": "88.01",
+    "change": "0.70",
+    "datetime": "2026-02-07 04:00:00"
+  },
+  "indicators": {
+    "rsi": 62.30526,
+    "macd": 1.31048,
+    "macd_signal": 0.9702212,
+    "sma20": 85.595
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理中，短期内有回调风险]",
+      "content": "当前SOL/USD价格稳定在88.66附近，24小时变化为0.70%，显示市场波动相对较小。从技术面来看，价格当前处于震荡整理区间，高点和低点分别为88.79和87.84，市场情绪较为谨慎。短期内，若无法突破88.79的阻力位，价格可能继续回调，进一步测试支撑位。\n\nMACD指标当前为1.31048，但未显示信号线的值，因此无法进行详细的动能判断。RSI(14)数据缺失使得我们无法从超买超卖角度进一步分析市场的超买或超卖情况。考虑到目前SMA(20)位于85.595，若价格下行至此位置，可能会遇到支撑。\n\n支撑位可以参考在87.84附近的低点区域，而阻力位则为88.79。在突破88.79前，若价格持续在区间内震荡整理，建议短线交易者关注这两条关键技术线。若价格跌破87.84，可能会延续回调，进而测试更低的支撑区域。\n\n基于当前市场情况，短期内适合采取区间交易策略，操作时需灵活调整止损和止盈。在突破关键支撑或阻力位前，避免过度追涨杀跌。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 88.66\\n- 24h Change: 0.70%\\n- High/Low: 88.79 / 87.84\\n- RSI(14): N/A\\n- MACD: 1.31048, Signal: N/A\\n- SMA(20): 85.59500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$88.66** suggests a cautiously bullish short‑term trend, especially as it is comfortably above the **20‑period simple moving average (~$85.60)**. This SMA has been acting as dynamic support, signalling recent upward momentum. Despite a narrow 24‑hour trading range (high **$88.79**, low **$87.84**), the persistence above this moving average points to buyers maintaining control, though momentum isn’t overwhelmingly strong yet.\n\nLooking at the **MACD reading (~1.31)**, the positive value implies that upward momentum is present, even if the signal line isn’t available for full confirmation. This can be interpreted as underlying bullish bias, but without a clear MACD crossover, it’s premature to call a vigorous rally. Ideally, traders want to see the MACD expand while staying above zero, indicating strengthening buyer dominance. Absence of an RSI figure leaves a gap, but price strength above the SMA partially compensates, hinting that oversold conditions are unlikely.\n\nFrom a support and resistance standpoint, **$85.50–$86.00** remains a key support zone, reinforced by the SMA, and losing this area could invite deeper pullbacks to the **$82–$83 region**. On the upside, overcoming **$90.00** is the immediate resistance objective, with a break above **$92–$93** unlocking broader participation. These levels matter because they mark recent congestion and psychological thresholds where larger orders often cluster. A failure to breach these could lead to short‑term consolidation between $86 and $90.\n\nGiven the current technicals, a balanced approach is sensible. Short‑term traders might consider scaling into long positions on dips toward $86, with tight stops below $85 to limit downside risk. More conservative entries could wait for a clear breakout above $90 with increased volume. Conversely, aggressive shorts might only be appropriate if price decisively closes below the SMA, signaling a shift toward bearish control."
+    }
+  }
+}
