@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-02-07T11:03:05.822Z",
+  "price": {
+    "close": "0.267069",
+    "high": "0.268363",
+    "low": "0.266047",
+    "open": "0.267462",
+    "change": "-0.19",
+    "datetime": "2026-02-07 10:00:00"
+  },
+  "indicators": {
+    "rsi": 44.87419,
+    "macd": 0.00057405594,
+    "macd_signal": 0.0018838503,
+    "sma20": 0.2741525
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：弱势震荡偏空",
+      "content": "从价格结构看，ADA/USD当前围绕0.267一线窄幅波动，连续回落后动能不足，短线仍处于弱势震荡格局。价格运行在20日均线下方，反弹持续性偏弱，整体趋势偏空但尚未形成加速下跌。\n\n技术指标方面，RSI暂缺，但从近24小时波幅收窄判断，多空力量相对均衡。MACD数值为正且幅度较小，显示空头动能有所放缓，但信号线缺失，难以确认有效金叉，技术修复仍需时间。\n\n支撑与阻力方面，短期支撑位关注前低0.266附近，若失守，可能下探至0.260整数关口。上方阻力首先在0.268一线，其次是20日均线所在的0.274区域，该位置决定反弹空间。\n\n交易策略上，激进者可在支撑位附近轻仓试多，严格止损；稳健者建议等待价格重新站稳20日均线后再考虑顺势做多。若反弹受阻并跌破支撑，应以观望或短空思路为主。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Cardano vs US Dollar (ADA/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.267069\\n- 24h Change: -0.19%\\n- High/Low: 0.268363 / 0.266047\\n- RSI(14): N/A\\n- MACD: 0.00057405594, Signal: N/A\\n- SMA(20): 0.27415250\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe **short-term trend** for ADA/USD appears slightly **bearish to neutral** given the latest price languishing below the 20-period simple moving average (SMA). With the SMA at **0.2741** and the current price at **0.2671**, sellers have the upper hand near short-term averages, reflecting recent distribution. Price has been consolidating within a tight range, suggesting a lack of strong directional conviction. However, the inability to reclaim the SMA points to lingering downward pressure.\n\nLooking at **momentum**, the available MACD histogram reading of **0.000574** indicates mild bullish momentum, though the absence of a signal line and RSI complicates confirmation. If the MACD line crosses above a computed signal and sustains positive divergence, it could signal an early shift toward upside. The lack of a reliable RSI reading means traders should watch for oversold conditions on lower timeframes to gauge exhaustion in selling pressure. Without these, cautious interpretation is warranted.\n\n**Key technical levels** to monitor include immediate support near the recent low of **0.2660**, with a more significant floor around **0.2600**, where buyers previously stepped in. On the upside, **0.2740–0.2750** (SMA zone) and **0.2800** act as resistance barriers. A decisive break above these could attract momentum traders and indicate a return to bullish structure. Conversely, a daily close below **0.2600** may accelerate downside and invite sellers targeting the **0.2500** zone.\n\nFor traders, adopting a **range-aware approach** is sensible. Short-term longs might look for confirmations such as a MACD crossover and a reclaim of the **0.2740–0.2750** zone, with tight stops below **0.2660**. Short positions could be considered on failures near resistance with stops above **0.2800**, prioritizing risk management given the current consolidative environment and mixed signals."
+    }
+  }
+}

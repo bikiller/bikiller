@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-07T10:59:26.062Z",
+  "price": {
+    "close": "67983.94",
+    "high": "68257.95",
+    "low": "67557.65",
+    "open": "68096.46",
+    "change": "-0.17",
+    "datetime": "2026-02-07 10:00:00"
+  },
+  "indicators": {
+    "rsi": 44.37334,
+    "macd": 134.15617,
+    "macd_signal": 493.46347,
+    "sma20": 69776.5145
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，关注支撑与阻力",
+      "content": "当前，比特币/美元（BTC/USD）处于震荡整理阶段，价格在67700至68300区间内波动。尽管短期内没有明显的趋势方向，价格仍然维持在这一区间内，显示出市场的观望情绪。若突破68257.95的高点，可能出现向上突破的信号，而跌破67557.65的低点则可能指示进一步下行的风险。\n\n技术指标方面，MACD显示134.15617的正值，表明多头仍占据优势，但由于Signal数据缺失，无法完全确认是否会持续上涨。RSI目前缺失，但从SMA(20)来看，价格已接近其20日均线的69776.5145附近，若回升至该水平之上，则可能为看涨信号。反之，若价格继续下行，则可能受到更强支撑。\n\n支撑位方面，67557.65是当前市场的关键支撑区域，一旦跌破可能会加速价格的下行。阻力位则集中在68257.95，若价格突破该水平，可能会迎来更高的上行空间。投资者需密切关注这两个价位的变化，作为决策依据。\n\n综合来看，短期内比特币的走势仍较为不确定，建议投资者保持谨慎，等待突破关键支撑或阻力位后再做进一步决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's recent price action shows a slight negative change of -0.17% over the past 24 hours, with the asset fluctuating between a high of 68257.95 and a low of 67557.65. This tight range suggests a period of consolidation or indecision in the market, where Bitcoin is yet to confirm a clear direction. The absence of an RSI reading leaves a gap in gauging potential overbought or oversold conditions, which could have provided more clarity regarding momentum. \n\nThe current price of 67983.94 is situated below the 20-period simple moving average (SMA) of 69776.5145, indicating that the short-term trend may be leaning bearish. This alignment of the price under the SMA could signify further downside pressure if the market continues to show weakness. Additionally, with the MACD value of 134.15617 being positive, there’s still room for bullish momentum if the market gains traction. However, the lack of a clear signal from the indicator makes it difficult to confidently predict a reversal or continuation.\n\nLooking at key support and resistance levels, the immediate support appears to lie around the 67557.65 low. A breakdown below this level could signal further downside, with the next support potentially around the 67,000 level. On the resistance side, the 68257.95 high serves as the first challenge for the bulls, with a breakout above this level opening the door to the next significant resistance near 69000. A sustained break above this resistance could suggest a possible continuation of the bullish trend.\n\nFor traders, maintaining a cautious approach is advised due to the current market uncertainty. Short-term traders may look for opportunities around key support levels, with a tight stop-loss below recent lows. Conversely, breakouts above resistance could present opportunities for those anticipating further upward momentum, but these moves should be closely monitored for confirmation before taking significant positions."
+    }
+  }
+}
