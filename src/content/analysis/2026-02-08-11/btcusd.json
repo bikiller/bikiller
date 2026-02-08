@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-08T11:00:49.347Z",
+  "price": {
+    "close": "70183.99",
+    "high": "70386.11",
+    "low": "69824.79",
+    "open": "70055.98",
+    "change": "0.19",
+    "datetime": "2026-02-08 10:00:00"
+  },
+  "indicators": {
+    "rsi": 59.19898,
+    "macd": 276.93656,
+    "macd_signal": 181.82923,
+    "sma20": 69432.0905
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理中",
+      "content": "当前比特币价格表现出震荡整理的走势，价格波动区间在69824.79至70386.11之间，未能突破前期高点。市场呈现一定的横盘态势，未出现明显的上涨或下跌趋势。若价格突破70386.11，将可能开始新一轮上涨；反之，跌破69824.79则有可能出现回调。\n\n技术指标方面，MACD目前为276.93656，虽然指标值偏高，但由于缺乏信号线数据，尚无法做出明确的多空判断。RSI值缺失使得市场的超买或超卖状况无法评估。SMA(20)为69432.09，价格接近其上方，显示出一定的支撑作用。\n\n从支撑与阻力的角度来看，69824.79为当前的关键支撑位，一旦跌破，可能会导致进一步的下行压力。70386.11则是近期的阻力位，突破后可能会测试更高的价格水平。市场短期内可能维持区间震荡，投资者应密切关注这两个关键价位的变化。\n\n建议投资者在当前区间内谨慎操作，等待价格突破重要支撑或阻力位后再做决定。如果价格突破上方阻力，可以考虑适度跟进多头交易；若跌破支撑位，空头操作则为优选。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently displaying a neutral to slightly bullish trend, with the latest price at $70,183.99. The market has experienced a modest 24-hour change of 0.19%, indicating low volatility in the short term. Given that Bitcoin has held above the 20-period simple moving average (SMA) of $69,432.09, it suggests that the overall sentiment may still be leaning towards bullishness. The price remains close to its intraday high of $70,386.11, further affirming the strength of this trend.\n\nHowever, with the Relative Strength Index (RSI) and the MACD signal unavailable, we are limited in assessing momentum and market strength. The absence of these indicators leaves room for caution, especially as we cannot gauge whether the current movement is overbought or oversold. Traders should pay close attention to how Bitcoin behaves relative to the $69,824.79 low, which could serve as a critical support level. A dip below this price may signal weakening momentum.\n\nLooking at potential support and resistance levels, Bitcoin appears to have immediate support around $69,800, and any sustained movement below this could trigger further declines toward the $69,000 range. Conversely, if the price manages to break through the recent high of $70,400, Bitcoin could test new resistance levels near $71,000 or higher. Traders should monitor price action closely for any breakout or breakdown.\n\nGiven the current market conditions, a cautious approach is advisable. A buy signal could be considered if Bitcoin holds above $70,400, with potential upside towards $71,000. On the other hand, a break below $69,800 could lead to a short-term pullback, making it a better moment to wait for clearer signals before entering a trade."
+    }
+  }
+}
