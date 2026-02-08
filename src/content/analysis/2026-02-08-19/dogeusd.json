@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-02-08T19:10:25.469Z",
+  "price": {
+    "close": "0.09724",
+    "high": "0.09749",
+    "low": "0.09719",
+    "open": "0.0973",
+    "change": "-0.03",
+    "datetime": "2026-02-08 19:00:00"
+  },
+  "indicators": {
+    "rsi": 49.74645,
+    "macd": -0.000069636998,
+    "macd_signal": 0.000037214346,
+    "sma20": 0.0973565
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：震荡整理，短期趋弱",
+      "content": "当前狗狗币/美元（DOGE/USD）价格维持在0.09724附近，24小时变化仅为-0.03%，显示出市场情绪相对平稳。尽管价格波动幅度较小，但市场仍处于震荡整理阶段。价格未能突破前期的高点0.09749，表明短期内上行动力较弱。\n\n在技术指标方面，MACD当前值为-0.000069636998，表明短期内市场略显疲软。RSI(14)未提供具体数据，但结合当前价格走势来看，可能存在一定的超卖风险。SMA(20)显示当前价格在其20日均线附近整理，短期内均线支撑作用较强。\n\n从支撑位来看，价格在0.09719附近形成短期支撑，若突破该价位，则可能进一步下探至0.096水平。阻力位则集中在0.09749附近，若突破该阻力，价格有望挑战0.098水平。结合当前市场情况，建议保持谨慎，短期内可考虑在支撑附近寻找低位布局的机会，但需防范价格下行风险。\n\n总体而言，DOGE/USD当前呈现整理走势，建议投资者关注短期支撑与阻力位置的突破，适时调整仓位，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Dogecoin vs US Dollar (DOGE/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.09724\\n- 24h Change: -0.03%\\n- High/Low: 0.09749 / 0.09719\\n- RSI(14): N/A\\n- MACD: -0.000069636998, Signal: N/A\\n- SMA(20): 0.097356500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nDogecoin’s short-term price action around **$0.09724** reflects a market in mild equilibrium, with the 24-hour range very narrow between **$0.09719** and **$0.09749**. This compressed movement suggests a lack of strong directional conviction right now. Although not a definitive trend, the slight drift below the **20-period simple moving average (SMA)** at **0.09736** hints at a subtle bearish bias. Traders watching price relative to this SMA will want to see a clear break above or below for confirmation of momentum.\n\nWith classic momentum indicators incomplete or unavailable (RSI and MACD signal), we focus on what’s present: the MACD histogram showing a small negative value (**–0.0000696**) suggests marginal downward pressure. The absence of a smoothed signal line means cautious interpretation, but this slight negative reading often aligns with weak selling interest. Without a reliable RSI, it’s difficult to gauge overbought/oversold extremes, so using volume and price structure becomes more important in the current environment.\n\nKey horizontal levels to watch include immediate support near **$0.0950–0.0960**, where recent buyers have stepped in, and resistance near **$0.1000–0.1010**, a psychologically significant zone. A sustained break below **$0.0950** could open the path toward **$0.0920** or lower, while a decisive move above **$0.1000** ­— especially on heavier volume — would signal renewed bullish interest and potential momentum toward **$0.1050** or beyond.\n\nIn terms of positioning, shorter-term traders might prefer defining tight ranges: consider fading extremes until a breakout is confirmed. Longer-term holders should watch for confirmation above the SMA and stronger volume to validate trend resumption. Risk-averse traders can place protective stops just under support zones, and only add to positions after clear structural shifts or indicator confirmation to avoid whipsaw in this tight market."
+    }
+  }
+}

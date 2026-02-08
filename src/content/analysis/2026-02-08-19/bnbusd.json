@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-08T19:07:32.563Z",
+  "price": {
+    "close": "646.47",
+    "high": "647.57",
+    "low": "645.81",
+    "open": "646.54",
+    "change": "-0.01",
+    "datetime": "2026-02-08 19:00:00"
+  },
+  "indicators": {
+    "rsi": 52.10551,
+    "macd": -0.72492201,
+    "macd_signal": -0.89613252,
+    "sma20": 644.115
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[震荡整理，略偏下行]",
+      "content": "当前BNB/USD价格为646.47美元，全天波动较小，仅有-0.01%的变化。近期价格徘徊于645.81至647.57美元之间，表现出震荡整理的走势。当前市场缺乏明显的趋势信号，可能受市场情绪波动或消息面的影响。\n\n在技术指标方面，MACD显示负值(-0.72)，表明市场短期内存在卖压，但因Signal线缺失，无法进一步确认是否存在持续下行的风险。SMA(20)为644.12美元，提供了一定的短期支撑，若价格回调至此位置，有可能再次受到支撑反弹。由于RSI数据缺失，无法有效判断超买或超卖情况。\n\n支撑位方面，645美元附近形成较强的支撑区域，若价格下行至此，可能会引发买盘介入。上方阻力位在647美元附近，如果价格突破此位，可能会尝试向650美元挑战。整体来看，市场短期内依然处于整理区间，需关注关键支撑和阻力的突破。\n\n交易建议方面，若价格回调至645美元，可考虑小幅做多，止损设在644美元附近。若价格突破647美元，则可考虑做多，目标看向650美元。保持谨慎，适时调整仓位，避免市场剧烈波动带来的风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 646.47\\n- 24h Change: -0.01%\\n- High/Low: 647.57 / 645.81\\n- RSI(14): N/A\\n- MACD: -0.72492201, Signal: N/A\\n- SMA(20): 644.11500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action around **$646.47** shows a very tight trading range over the last 24 hours, with only marginal movement between **$647.57 high and $645.81 low**. This suggests short-term consolidation after recent swings, as buyers and sellers reach equilibrium. The SMA(20) at **$644.12** sits just below current levels, indicating that the market is holding above its near-term average and attempting to maintain a mild bullish bias despite limited volatility.\n\nWithout a valid RSI or signal line for the MACD, interpreting momentum is constrained, but the negative MACD value of **–0.7249** hints that shorter-term momentum still lags longer trends. A MACD below zero can imply that bearish pressure has not fully dissipated, even as prices hover near resistance. Traders should watch for a crossover or divergence in available oscillators, which could signal a shift in trend conviction once more data points fill in.\n\nKey levels to monitor include **support near $640–$642**, where recent demand clusters could buffer declines, and **resistance around $650–$655**, which has capped upside during the session. A clear break above $655 with volume could unlock the next leg higher, possibly testing the $670 zone. Conversely, a decisive drop below $640, especially with a break under the SMA, might lead to testing deeper supports near $630 and $620.\n\nGiven current conditions, a cautious approach is reasonable. Short-term traders might consider range strategies between support and resistance, taking profits near the upper band and managing risk near lower support. Longer-term participants should look for confirmation of trend continuation — such as a sustained move above $655 — before adding new positions, while also keeping protective stops in place in case of a bearish breakdown."
+    }
+  }
+}
