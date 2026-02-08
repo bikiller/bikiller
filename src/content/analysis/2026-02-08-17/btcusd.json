@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-08T17:47:47.539Z",
+  "price": {
+    "close": "70665.64",
+    "high": "70815.42",
+    "low": "70350.57",
+    "open": "70362.98",
+    "change": "0.43",
+    "datetime": "2026-02-08 17:00:00"
+  },
+  "indicators": {
+    "rsi": 56.95472,
+    "macd": 485.15081,
+    "macd_signal": 435.0081671,
+    "sma20": 70032.6625
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，待突破确认",
+      "content": "当前，比特币/美元的价格为70665.64，整体市场呈现震荡整理的趋势。尽管价格在24小时内小幅上涨0.43%，但整体波动较小，未显著突破上行或下行关键区域。这种区间波动可能表明市场参与者处于观望状态，缺乏强烈的方向性信号。\n\n从技术指标来看，MACD值为485.15081，但由于信号线数据缺失，无法有效判断短期动能的转折。SMA(20)为70032.66250，当前价格较之略有上升，显示出一定的支撑力度。RSI(14)未给出数据，限制了对超买或超卖状态的进一步分析。\n\n在支撑与阻力方面，当前的支撑位位于70350.57附近，若价格回撤至该点，有可能获得短期反弹。而上方阻力位则在70815.42附近，突破该区域或许能够推动价格进一步上涨。此区间突破后，将可能迎来新一轮上涨动力。\n\n建议投资者密切关注70350.57和70815.42这两个关键价格区间，若价格突破上方阻力，可考虑适当追多，而若跌破支撑位，则可适当考虑空头操作。在没有明显的趋势突破前，建议保持谨慎操作，耐心等待市场方向确认。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has been trading in a relatively stable range recently, with the price hovering around $70,665.64. Despite the minor 24-hour change of +0.43%, there seems to be a consolidation phase in place. The high of $70,815.42 and low of $70,350.57 within the last 24 hours reflect tight price movement, indicating that the market is awaiting a catalyst for a potential breakout. The absence of an RSI value makes it difficult to evaluate momentum fully, but this price action suggests a neutral sentiment in the short term.\n\nThe current level of $70,665.64 is near the SMA(20) of $70,032.66, indicating that Bitcoin is trending slightly above the short-term moving average, which can be interpreted as a bullish signal in this context. If the price holds above this level, it could confirm the uptrend. However, there is a risk of a short-term pullback towards the SMA if buying momentum wanes. A break below the SMA could signal a shift toward the downside, and traders should closely monitor this level for any confirmation of a reversal.\n\nBitcoin’s MACD at 485.15081 suggests some degree of bullish momentum; however, with the absence of a clear signal line, the strength of this signal remains unclear. A cross above the current level would provide a more solid confirmation of upward momentum. Resistance is expected around $71,000 to $71,500, a critical level that has been tested multiple times. Should Bitcoin break through this resistance, further gains could materialize toward $73,000.\n\nOn the downside, support lies around the $70,000 mark, reinforced by the SMA(20) at $70,032.66. A strong break below this support would open up the possibility for further declines towards $69,000. Traders should watch for a clear direction from either the breakout above resistance or a confirmed breakdown below support to determine the next move in the BTC/USD market."
+    }
+  }
+}
