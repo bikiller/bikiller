@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-08T06:11:32.832Z",
+  "price": {
+    "close": "642.16",
+    "high": "643.2",
+    "low": "641.77",
+    "open": "642.97",
+    "change": "-0.12",
+    "datetime": "2026-02-08 06:00:00"
+  },
+  "indicators": {
+    "rsi": 44.98528,
+    "macd": -0.77617581,
+    "macd_signal": -0.40062679,
+    "sma20": 644.9155
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 642.16\\n- 24小时变化: -0.12%\\n- 高点/低点: 643.2 / 641.77\\n- RSI(14): N/A\\n- MACD: -0.77617581, Signal: N/A\\n- SMA(20): 644.9155\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：短线偏弱震荡整理\n\n当前价格在642一线震荡，短期趋势偏向震荡偏弱，未能有效突破20日均线下方压制，动能有所消退。整体走势缺乏明显上行动力，但也未放量跌破重要支撑，保持区间整理格局。\n\n技术指标上，MACD仍为负值且未见明显回转信号，显示空头动能略占优；RSI因缺失暂无法判定超买超卖，但价格处于均线附近反复，反映多空胶着。需留意后续指标转向以确认方向。\n\n支撑位短线关注635附近，其次下看630整数关口；阻力位看近期高点647和20日均线645区域，若有效突破则转强。波动区间较窄，易受大盘情绪影响，短线要谨慎。\n\n交易建议倾向区间策略为主，若价格跌至支撑可逐步布局清仓位，止损设于628下方；若上破阻力且成交量放大，可跟进多头，止盈看650-660区间，严格控制仓位与风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 642.16\\n- 24h Change: -0.12%\\n- High/Low: 643.2 / 641.77\\n- RSI(14): N/A\\n- MACD: -0.77617581, Signal: N/A\\n- SMA(20): 644.9155\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is showing a sideways-to-slightly-bearish price structure around **642.16**, with recent highs just above **643** and lows near **641.8**. Price action remains compressed under the **20-period simple moving average (SMA)** at **~644.9**, suggesting short-term sellers retain control. The absence of a clear breakout above this short moving average points to consolidation risk unless buyers can reclaim and sustain levels above **645–648**.\n\nMomentum indicators reflect underlying softness. With the **MACD in negative territory (~-0.78)** and no immediate signal line available, the current bias favors bearish momentum, although the lack of divergence suggests trend uncertainty rather than strong downside conviction. Without a reliable **RSI reading**, interpreting overbought/oversold conditions is limited, but given the tight range and muted 24-hour change (-0.12%), the market appears indecisive, waiting for fresh catalysts.\n\nKey technical levels can help frame risk. On the downside, immediate support lies around **635–638**, followed by a more structurally significant zone near **620–625**, where previous swing lows congregate. Resistance, conversely, clusters around **645–648**, then **660–670**, thresholds that traders should watch for breakout confirmation. A close above **648** with volume could invite bullish follow-through toward the next resistance cluster, whereas a breakdown below **635** could expose deeper retracement toward the 620s.\n\nFor active traders, narrowing risk with tight stops is prudent given the current choppy price action. Short-term longs may look for breaks and retests above **645** with confirmation, while shorts could consider fading rallies near resistance levels if momentum stays weak. Longer-term participants might await a clear trend shift—ideally a confirmed break above the 20-SMA and subsequent higher highs—before increasing exposure. Monitoring volume alongside upcoming macro catalysts will be essential for direction clarity."
+    }
+  }
+}
