@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-08T02:09:26.629Z",
+  "price": {
+    "close": "69278.55",
+    "high": "69374",
+    "low": "69032.48",
+    "open": "69333.98",
+    "change": "-0.07",
+    "datetime": "2026-02-08 02:00:00"
+  },
+  "indicators": {
+    "rsi": 52.14026,
+    "macd": 128.23899,
+    "macd_signal": 137.37864,
+    "sma20": 68916.3825
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期观望",
+      "content": "当前比特币价格在69,278.55附近震荡整理，未显示出明确的上涨或下跌趋势。价格在24小时内变化不大（-0.07%），表明市场情绪较为谨慎。考虑到比特币近期的价格波动，短期内可能继续保持震荡区间。\n\n技术指标方面，MACD当前值为128.24，显示出一定的多头动能，但未能形成清晰的交叉信号。由于RSI未能提供足够的参考，市场的动能相对较弱。SMA(20)处于68,916.38附近，构成了短期内的支撑位，若价格回落至该区域，可能会得到支撑并反弹。\n\n从支撑与阻力来看，69032.48为近期的低点支撑区，若突破这一价位，可能会进一步下探至68,500附近。上方阻力位在69374附近，突破该位置有可能引发短期反弹，目标可看向70,000美元。\n\n综合来看，目前比特币市场处于整理阶段，建议投资者保持观望，等待价格突破关键支撑或阻力位后再做进一步操作。如果价格跌破支撑位，则短期内可能面临进一步回调风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC) against the US Dollar (USD) is currently showing a slight downtrend with a marginal 24-hour change of -0.07%. The price has fluctuated within a narrow range between 69032.48 and 69374. The current price is hovering at $69278.55, indicating consolidation around this level. This indecisiveness could suggest a period of equilibrium before a potential breakout, and market participants should monitor price action for further direction.\n\nThe lack of a clear RSI reading means we can't immediately assess overbought or oversold conditions. The MACD value stands at 128.23899, indicating bullish momentum but without a signal line for comparison, leaving this indicator inconclusive for now. Meanwhile, the 20-period simple moving average (SMA) at 68916.38 is acting as a dynamic support level. Price staying above the SMA suggests a continuation of the short-term upward bias, though it will need to hold this level to avoid a bearish shift.\n\nLooking at support and resistance levels, a break below 69032.48 could trigger further declines toward the next support level around 68500, where previous buying interest might be seen. On the upside, resistance remains near 69374. A sustained push above this level could open the door for higher targets, such as the $69500-$70000 range. However, caution should be exercised near these levels as market sentiment can shift rapidly.\n\nIn terms of trading strategy, it would be prudent to wait for a confirmed breakout or breakdown. For more aggressive traders, entering near support or resistance with tight stop losses could offer short-term gains. Long-term investors might consider accumulating BTC closer to support levels, as the broader market sentiment remains bullish over time."
+    }
+  }
+}
