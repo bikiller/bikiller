@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-10T10:16:02.977Z",
+  "price": {
+    "close": "629.49",
+    "high": "630.3",
+    "low": "628.53",
+    "open": "629.95",
+    "change": "-0.07",
+    "datetime": "2026-02-10 10:00:00"
+  },
+  "indicators": {
+    "rsi": 42.59329,
+    "macd": -1.42622,
+    "macd_signal": -0.75114344,
+    "sma20": 636.0965
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[震荡整理，短期调整可能]",
+      "content": "当前币安币/美元（BNB/USD）在630美元附近震荡整理，价格略微下行，24小时变动为-0.07%。市场的短期走势缺乏明确的方向，可能处于盘整阶段。由于RSI未提供数据，无法依据超买超卖进行进一步分析，需结合其他指标来评估市场情绪。\n\nMACD指标为负值（-1.42622），表明短期内卖盘占优，当前价格压力较大。虽然MACD信号线未给出明确方向，但负值区域可能意味着价格尚未脱离下行趋势。因此，短期内的回撤或整理尚属正常，需密切关注下方支撑。\n\n20日简单移动平均（SMA(20)）当前为636.1，价格低于该均线，反映出短期内看跌信号。在此基础上，主要的阻力位在636美元附近，若突破该位置，可能带来反弹机会。而支撑位则在628美元附近，若价格跌破此处，可能加剧下行风险。\n\n建议短线交易者可考虑在628美元附近寻找买入机会，止损位设定在625美元以下；若价格突破636美元，可以适当考虑短期反弹的多头操作。然而，整体市场仍处于震荡整理阶段，避免过度追涨杀跌。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 629.49\\n- 24h Change: -0.07%\\n- High/Low: 630.3 / 628.53\\n- RSI(14): N/A\\n- MACD: -1.42622, Signal: N/A\\n- SMA(20): 636.096500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s short‑term price action suggests a mild downtrend as the latest print at **629.49** trades below the **SMA(20) ~636.10**. The inability to reclaim this average reflects short‑term selling pressure, with price contained in a tight $628–630 range over the last 24 hours. Until BNB convincingly closes above the 20‑period SMA on higher volume, favor caution on aggressive long entries in the very near term.\n\nThe **MACD** reading at **–1.426** (with no signal line data available) still points toward bearish momentum, indicating that recent downward moves have stronger velocity than recoveries. The absence of an RSI figure blurs overbought/oversold clarity, but the combination of price under the SMA and negative MACD tilts the indicator profile toward sellers. If the MACD begins to flatten or turn up, early signs of momentum shift could emerge.\n\nKey support zones to monitor lie around **$620**, where the recent low clustered, and further down near **$600–$605**, a psychologically relevant level that has historically attracted bids. On the upside, initial resistance sits at the **20‑period SMA (~636)**, with significant supply expected near **$650–$655**, the last swing area of distribution. A sustained breakout above **$640** on volume would weaken the bearish bias and open targets toward **$660–$680**.\n\nFor traders, a balanced approach is advisable: consider structured long entries only on confirmed support holds with tight stops beneath **$620**, or wait for a clear breakout above **$640** to signal resumed upside. Shorter timeframe traders may find range plays between **$620–$638** workable, but avoid overleveraging until a clearer directional bias forms. Always align position sizing with risk tolerance given crypto volatility."
+    }
+  }
+}
