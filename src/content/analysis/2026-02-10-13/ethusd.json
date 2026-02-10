@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-10T13:04:45.455Z",
+  "price": {
+    "close": "2008.11",
+    "high": "2008.11",
+    "low": "2005.89",
+    "open": "2007.58",
+    "change": "-0.03",
+    "datetime": "2026-02-10 13:00:00"
+  },
+  "indicators": {
+    "rsi": 34.72303,
+    "macd": -21.73628,
+    "macd_signal": -14.60394,
+    "sma20": 2066.0225
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理，短期回调风险",
+      "content": "当前ETH/USD价格为2008.11，全天波动幅度极小，仅为-0.03%。价格保持在2005.89至2008.11区间内震荡整理，表明市场缺乏明确的方向性突破。短期来看，价格在该区间内可能继续震荡，等待进一步的信号。\n\n从技术指标来看，MACD当前显示负值（-21.73628），表明短期内卖压较强，但因Signal线未给出明确的信号，短期内价格可能继续横盘整理。SMA(20)目前位于2066.02，价格已明显低于该均线，进一步确认短期弱势走势。RSI数据缺失，无法完全判断超买或超卖状态。\n\n支撑位方面，2005.89为近期低点，若跌破此水平，则可能进一步考验2000关口附近的支撑。阻力位在2066一线，若价格反弹至此，可能面临较强的卖压，若突破则可能恢复上涨趋势。\n\n综合来看，建议保持谨慎观望，短期内避免激进交易。在2005.89附近轻仓做多，若突破2066则可考虑进场做多，但需时刻关注MACD变化，防止假突破。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum's current market price of $2008.11 is maintaining a relatively stable position with a slight 24-hour change of -0.03%. This suggests a consolidation phase, where price action has been largely sideways, capped between the high of $2008.11 and the low of $2005.89. While these fluctuations are minor, they indicate a lack of strong momentum in either direction. The market seems to be waiting for a catalyst, potentially a breakout or breakdown, to establish the next significant move.\n\nThe absence of an RSI reading and incomplete MACD data leave a gap in momentum analysis, though the MACD is currently negative at -21.73628, hinting at a bearish tone. The negative MACD suggests a potential lack of buying pressure, with sellers perhaps having control in the short term. Without a clear trend direction from momentum indicators, the price is likely to remain volatile within the established range until further developments unfold. As the RSI isn't available, it's important to monitor any changes closely for overbought or oversold conditions.\n\nKey support is located at $2005.89, just above the most recent low. A drop below this level could open up further downside risk toward $2000 or even $1980, depending on market sentiment. On the upside, $2066.02, marked by the 20-period SMA, presents the first significant resistance. A close above this level could signal a shift in momentum, potentially leading to a move towards $2100 or $2125. Traders should be vigilant around these levels for signs of breakouts or reversals.\n\nGiven the current market environment, conservative traders might consider waiting for a clearer signal before entering positions. A breakout above $2066.02 could offer a potential long opportunity, while a break below $2005.89 might trigger short entries. Stop-loss orders should be strategically placed near key support and resistance to manage risk."
+    }
+  }
+}
