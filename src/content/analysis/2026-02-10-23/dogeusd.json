@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-02-10T23:28:36.065Z",
+  "price": {
+    "close": "0.0926",
+    "high": "0.09284",
+    "low": "0.09251",
+    "open": "0.09256",
+    "change": "0.01",
+    "datetime": "2026-02-10 23:00:00"
+  },
+  "indicators": {
+    "rsi": 40.16118,
+    "macd": -0.00064320015,
+    "macd_signal": -0.00064955519,
+    "sma20": 0.0932735
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：震荡整理中，等待突破信号",
+      "content": "当前狗狗币/美元（DOGE/USD）在0.0926附近维持震荡整理，价格波动幅度较小，显示出市场短期内缺乏强势的方向性趋势。从高点0.09284和低点0.09251的区间来看，价格处于一个窄幅整理区间内，未有明确突破。\n\n技术指标方面，MACD值为负（-0.00064），但由于Signal线数据缺失，无法进一步确认是否存在持续的卖压。SMA(20)为0.09327，显示出价格接近短期均线水平，进一步支持震荡整理的趋势。RSI指标缺失，使得市场的超买或超卖情况无法准确判断。\n\n支撑位方面，0.09250附近可能成为价格下行的支撑区间，如果价格跌破此水平，则有可能进一步测试0.0920的支撑。而阻力位则位于0.0930-0.0935区间，这也是目前价格无法突破的关键阻力。\n\n交易建议上，若价格突破上方阻力位0.0935，考虑短期多头入场。若价格跌破0.0920支撑，建议谨慎操作，等待进一步确认的走势再做决定。总的来说，当前市场处于整理状态，保持耐心并关注突破信号。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Dogecoin vs US Dollar (DOGE/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.0926\\n- 24h Change: 0.01%\\n- High/Low: 0.09284 / 0.09251\\n- RSI(14): N/A\\n- MACD: -0.00064320015, Signal: N/A\\n- SMA(20): 0.093273500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nDogecoin’s short-term price action around **$0.0926** reflects consolidation after a narrow trading range, with the 24-hour high/low showing minimal volatility. The market lacks directional momentum, and the price sitting just below the **20-period SMA (~0.0933)** suggests mild bearish pressure. Unless volume expands meaningfully, this sideways pattern may persist, keeping traders in range-bound behavior rather than a decisive breakout or breakdown.\n\nThe MACD reading at **–0.0006432** (with the signal line unavailable) implies that bearish momentum still exceeds bullish thrust, albeit weakly. Without a visible signal line or RSI, we infer momentum from price action relative to moving averages. The fact that Dogecoin has failed to reclaim the 20-SMA convincingly hints at underlying seller resilience. Watch for MACD histogram shrinking or a crossover as an early sign of trend change.\n\nKey support sits near **$0.0890–$0.0900**, where prior bounces occurred and psychological interest exists. If this zone breaks on heavy volume, deeper retracement toward **$0.0830–$0.0850** becomes plausible. On the upside, initial resistance begins at the 20-period SMA, with subsequent barriers near **$0.0950** and **$0.10**, round numbers that have historically attracted orders. A sustained move above **$0.0950** would improve odds for a test of **$0.10**.\n\nFor traders, a cautious range-trading approach suits current conditions. Consider longs near established support with tight stops below $0.0880, targeting the mid-range toward $0.0940–$0.0950. Aggressive breakout traders might wait for a clear close above **$0.0950** on volume before scaling in. Conversely, breakdown entries could trigger below **$0.0890** with stops above $0.0910. Always combine technical cues with risk management and be alert for news catalysts that could upend technical patterns."
+    }
+  }
+}

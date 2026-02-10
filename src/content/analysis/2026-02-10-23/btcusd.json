@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-10T23:24:07.270Z",
+  "price": {
+    "close": "68550.26",
+    "high": "68720",
+    "low": "68458.6",
+    "open": "68654.01",
+    "change": "-0.16",
+    "datetime": "2026-02-10 23:00:00"
+  },
+  "indicators": {
+    "rsi": 42.71835,
+    "macd": -268.73602,
+    "macd_signal": -252.59525,
+    "sma20": 68968.9435
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前震荡区间整理，短期承压]",
+      "content": "当前比特币/美元（BTC/USD）价格为68550.26美元，近期波动幅度较小，呈现震荡整理走势。24小时内价格下跌了0.16%，显示出市场情绪的谨慎。高点68720美元和低点68458.6美元之间的价格波动，表明市场在这个区间内缺乏明确的突破动能。\n\n从技术指标来看，MACD值为负268.73602，表明短期内市场偏向下行，但因未显示信号线的交叉，仍无法确认短期趋势的变化。RSI指标缺失，难以有效评估市场的超买或超卖状态。SMA(20)均线在68968.94美元附近，说明该区域可能成为短期的阻力位，若价格突破此位置，可能会迎来进一步的上涨动能。\n\n支撑位方面，价格若跌破68458.6美元一线，则可能进一步下探到更低的区域。此区域的支撑力度较为关键。若价格反弹，则69000美元以上将成为强劲的阻力位，若突破，则有可能重新测试新高。\n\n综上所述，建议在当前震荡行情中保持谨慎，短期内可以考虑低位试探性买入，但需注意69000美元附近的压力。如果跌破68458.6美元，可能需要考虑止损或减仓。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has been showing signs of consolidation, with the current price hovering around $68,550. The relatively narrow range between the high of $68,720 and the low of $68,458.6 indicates indecisiveness in the market. Given this, Bitcoin might be in a short-term consolidation phase, awaiting a catalyst for a breakout. The current price is below the 20-day simple moving average ($68,968), suggesting that there could be a bearish bias in the near term if the price fails to reclaim this level.\n\nThe RSI (14) is unavailable at the moment, so there’s limited insight into whether Bitcoin is overbought or oversold. However, the MACD shows a negative value of -268.73602, indicating that bearish momentum is still present. Without a clear signal line to compare against, the MACD alone suggests that sellers have an upper hand, but further confirmation is needed to determine the strength of this downtrend.\n\nKey support levels to watch are around the $68,458.6 low, which has been tested recently. A break below this could lead to further downside, potentially testing the $68,000 psychological level. On the other hand, resistance lies near the $68,720 high, followed by the $69,000 mark, which is close to the 20-day moving average. These levels may serve as barriers for any bullish attempts to break higher in the short term.\n\nFor traders, caution is advised until a clearer trend emerges. If Bitcoin fails to break above resistance, a short-term bearish outlook is likely, with the next support levels to target. Conversely, a sustained break above resistance could trigger a short-term rally towards higher targets. Traders should monitor these levels closely for potential entry or exit points."
+    }
+  }
+}
