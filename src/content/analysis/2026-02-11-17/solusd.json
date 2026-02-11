@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-11T17:03:52.960Z",
+  "price": {
+    "close": "78.3",
+    "high": "78.74",
+    "low": "78.27",
+    "open": "78.69",
+    "change": "-0.50",
+    "datetime": "2026-02-11 17:00:00"
+  },
+  "indicators": {
+    "rsi": 24.73025,
+    "macd": -1.25356,
+    "macd_signal": -1.042453,
+    "sma20": 81.384
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 78.3\\n- 24小时变化: -0.50%\\n- 高点/低点: 78.74 / 78.27\\n- RSI(14): N/A\\n- MACD: -1.25356, Signal: N/A\\n- SMA(20): 81.38400\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期震荡偏空，警惕支撑测试\n\n当前 SOL 价格在 **78.3 美元附近震荡走低**，短线承压 20 日均线（81.38）未能有效上破，显示多头动能受限，短期趋势偏弱震荡。价格反复在 78–79 区间试探，缺乏方向性突破。\n\n从技术指标看，**MACD 负值且未见明显回转**，表明空头动能仍在，尽管 RSI 数据缺失但价格结构显示动能偏弱。若接下来形成死叉或背离形态，将进一步确认调整延续。\n\n关键支撑位在 **77.0–77.5 美元**，若有效失守，有可能向 **75.0** 附近下探。阻力位集中在 **80.5–81.5 美元** 区间，其次为 83.0 及更高的 20 日均线压制。\n\n交易建议上，短线以 **区间震荡思路为主**，可在接近支撑区域逢低尝试小仓位布局，但必须设好止损（如跌破 77 美元）。若价格上破 81.5 并收复，才可能开启新一轮反弹节奏。谨慎控制仓位，注意盘中波动回落风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "Solana's current price of $78.3 represents a slight decline of 0.50% in the past 24 hours, signaling a relatively stable market with minor fluctuations. The high of $78.74 and low of $78.27 demonstrate limited price movement within this range, which suggests that Solana is currently consolidating after recent activity. This is a common pattern seen in markets awaiting a clearer directional bias. Short-term traders may find opportunities in these tight price ranges, potentially looking for breakouts above or below the range.\n\nIn terms of trend analysis, the current price is slightly below the 20-period Simple Moving Average (SMA) of $81.38. This suggests that the short-term momentum is somewhat bearish, as the price is trading beneath this moving average. Traders typically use the SMA to assess the trend direction, and when the price remains below it, it indicates a potential for further downside movement unless a reversal is confirmed. Watching for price action around this level can help in determining the next possible move.\n\nSupport for Solana is seen around the low of $78.27, with the next significant level of support lying near $77.00. If the price breaks through this support, further downside could be expected, with potential targets at $75. Conversely, resistance is situated just above at $78.74, and a break above this level could point to a continuation toward $80 or higher. Traders should remain cautious, watching for a decisive breakout to either side for confirmation of the next trend direction.\n\nWith the MACD currently at -1.25356 and no clear signal line available, the momentum is leaning negative, suggesting a bearish bias. However, the lack of a signal line means that traders should avoid making aggressive positions without further confirmation. A potential buying opportunity could arise if price action demonstrates bullish reversal signals, such as a break above resistance levels or an improvement in momentum indicators."
+    }
+  }
+}
