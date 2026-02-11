@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-11T02:01:45.575Z",
+  "price": {
+    "close": "83.71",
+    "high": "83.76",
+    "low": "83.12",
+    "open": "83.42",
+    "change": "0.35",
+    "datetime": "2026-02-11 01:00:00"
+  },
+  "indicators": {
+    "rsi": 46.54866,
+    "macd": -0.61495749,
+    "macd_signal": -0.69839459,
+    "sma20": 83.7225
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理走势]",
+      "content": "当前SOL/USD价格接近83.71，表现出一定的震荡整理特征。最近24小时的变化幅度较小，仅为0.35%，显示出市场暂时缺乏明显的方向性。当前价格在83.12至83.76之间波动，且没有突破关键水平，表明短期内多空双方力量较为均衡。\n\n从技术指标来看，MACD值为-0.61495749，显示出弱势的空头压力，但由于Signal尚不可用，当前的MACD趋势尚不明显。RSI(14)未提供数据，因此暂时无法评估是否接近超买或超卖区间。SMA(20)略微接近当前价格（83.72），显示出价格与短期均线之间的密切关系。\n\n支撑位在83.12附近，若价格下探该位置，可能会受到支撑并反弹；而阻力位则在83.76附近，若突破该价位，则有可能迎来进一步的上涨。市场当前处于震荡整理状态，价格未显示出强烈的突破信号。\n\n考虑到当前的市场环境，建议采取谨慎的观望态度。若价格突破83.76阻力位，可以考虑适量做多，而若跌破83.12支撑位，则可能需要调整策略，考虑做空或等待更明确的信号。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "Solana (SOL) against the US Dollar has shown a relatively stable market in the past 24 hours, with a slight upward movement of 0.35%. The price is currently hovering around $83.71, with the day's high reaching $83.76 and the low at $83.12. The market seems to be consolidating in this range, suggesting a potential period of indecision. The price action has remained close to the 20-period Simple Moving Average (SMA), which stands at $83.72, further reinforcing the consolidation phase. This can indicate a neutral to mildly bullish trend if the price continues to hold above this level.\n\nThe absence of the Relative Strength Index (RSI) and the Signal line for the MACD makes it challenging to provide a complete momentum analysis. However, the current MACD reading of -0.6149 is in negative territory, suggesting that the overall short-term momentum is bearish. This could indicate a potential for further downward movement, especially if the price breaks below the immediate support level of $83.12. A decline beneath this point could target $82 or even lower levels in the medium term, where stronger support might lie.\n\nOn the flip side, if the price manages to stay above the SMA and breaks through the current high of $83.76, it could indicate a shift toward bullish sentiment. In this case, the next resistance levels to watch would be $84.50 and potentially higher, depending on how the market reacts. A break above these levels would suggest a continuation of the positive trend, while the MACD moving into positive territory would solidify this view. \n\nIn the current environment, traders should remain cautious, waiting for a clear breakout or breakdown. The market could either continue its neutral phase or show a more pronounced move in either direction. A good entry point would depend on a confirmed price action above the SMA for a bullish setup or a breakdown below support for a bearish stance. The current low volatility is ideal for tight stop-loss strategies."
+    }
+  }
+}

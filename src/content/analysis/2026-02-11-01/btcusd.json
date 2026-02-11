@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-11T01:59:28.626Z",
+  "price": {
+    "close": "68954.58",
+    "high": "69248",
+    "low": "68859.45",
+    "open": "69139.01",
+    "change": "-0.26",
+    "datetime": "2026-02-11 01:00:00"
+  },
+  "indicators": {
+    "rsi": 47.38069,
+    "macd": -198.71679,
+    "macd_signal": -233.037958,
+    "sma20": 68926.966
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏弱整理",
+      "content": "当前价格报68954.58美元，日内小幅回落0.26%，整体处于高位横盘区间。K线围绕20日均线附近波动，短线呈现震荡整理结构，趋势动能略有减弱，但尚未形成明显破位走势，市场多空力量暂时均衡。  \n\n从技术指标看，MACD处于零轴下方且柱体为负值，显示短线动能偏空，空方略占优势。价格贴近SMA(20)均线68926一线运行，说明多头防守意愿仍在。若持续收于均线下方，则可能引发进一步回调压力。  \n\n支撑方面，下方68850附近为日内低点支撑，若失守则关注68500区域的结构性支撑。上方阻力首先看69250前高位置，突破后有望测试69500整数关口。当前区间波动幅度收敛，临近方向选择节点。  \n\n操作上建议短线以区间思路对待，未破位前高抛低吸为主。激进者可在69250附近轻仓试空，止损设于69500上方；稳健者等待有效突破后顺势跟进，严格控制仓位与风险比例。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently showing a range-bound price action, hovering around $68,954.58 with a minor 24-hour loss of -0.26%. This suggests consolidation after the recent upward momentum. The price is trading just above the 20-period Simple Moving Average (SMA), which is currently at $68,926.96, signaling a neutral to slightly bullish short-term bias. A break above the recent high of $69,248 could pave the way for further upside, while failure to hold above the SMA might signal a potential pullback toward lower support levels.\n\nKey support for BTC/USD lies around $68,860, just above the recent low. This level has acted as a point of defense for buyers, and any sustained break below this could open the door to deeper support zones around $68,000. On the resistance side, the previous high of $69,248 is a crucial area to watch. If BTC can surpass this level, the next resistance could be near $70,000. Traders should watch for a breakout or breakdown from these levels to determine the next directional move.\n\nWithout RSI data, momentum indicators like the MACD suggest that bearish pressure is building, given the negative value of -198.72. However, a clearer signal could come if the MACD line crosses above the signal line, which would shift momentum to the upside. Given that the market is in consolidation, a more reliable signal could come once either the MACD starts moving into positive territory or the price breaks through either key resistance or support.\n\nTraders should monitor the $68,860 support closely for signs of a bounce or breakdown. If the price holds above this level, long positions could be considered with a target at $69,248 or higher, depending on momentum. On the flip side, a break below this support would warrant caution, and short positions could be explored with a focus on lower support areas. Always ensure tight risk management in volatile market conditions."
+    }
+  }
+}
