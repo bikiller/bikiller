@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-02-11T07:44:21.081Z",
+  "price": {
+    "close": "0.09071",
+    "high": "0.09093",
+    "low": "0.09025",
+    "open": "0.09037",
+    "change": "0.40",
+    "datetime": "2026-02-11 07:00:00"
+  },
+  "indicators": {
+    "rsi": 31.041333,
+    "macd": -0.00080600502,
+    "macd_signal": -0.00064709219,
+    "sma20": 0.0925855
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：震荡整理中，短期看跌",
+      "content": "当前狗狗币/美元（DOGE/USD）价格为0.09071，市场处于震荡整理状态。价格已在0.09025至0.09093区间内波动，短期内缺乏明确的趋势。虽然24小时变化为0.40%，但未能突破明显的支撑或阻力区间，显示市场处于观望状态。\n\n从技术指标来看，MACD当前为负值（-0.000806），这表明短期内卖压较重，但没有明显的趋势信号。RSI数据缺失使得短期超买或超卖情况无法判断。SMA(20)在0.0926附近，价格已经低于这一均线，进一步验证了当前市场的弱势。\n\n支撑位方面，0.09025是近期的低点，若价格跌破这一位置，可能会测试0.0895区域的更强支撑。阻力位则在0.0925附近，若价格反弹至此，可能遭遇较大卖盘压力。若突破0.0925，有可能重新进入上行趋势。\n\n建议短期内可以关注0.09025支撑位的表现，若跌破则考虑做空策略，目标下看0.0895。而若价格反弹突破0.0925，则可适当考虑入场做多，但需谨慎对待当前的震荡行情。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The DOGE/USD market is currently in a narrow trading range, with the price hovering around $0.0907. The daily price change of +0.40% reflects a relatively flat market sentiment, indicating the absence of strong bullish or bearish momentum at this moment. Given the proximity of the price to the recent high of $0.09093 and the low of $0.09025, this suggests that DOGE is consolidating within a tight range. The market may need a catalyst to break this consolidation phase, either from broader market movements or a shift in investor sentiment.\n\nLooking at the MACD, the current value of -0.000806 indicates weak negative momentum. However, without the signal line data, it's difficult to gauge the trend's potential reversal or continuation. The lack of significant movement in the MACD suggests that traders should exercise caution, as no clear buy or sell signals are emerging from this indicator. The market's indecision can also be seen in the RSI, which is unavailable at the moment, making it challenging to assess whether the market is overbought or oversold.\n\nThe 20-period simple moving average (SMA) at $0.0926 is a key level to monitor. Since the price is trading below this level, it suggests that the market sentiment may be slightly bearish in the short term. A move above the SMA could signal a potential bullish reversal, whereas sustained trading below it might indicate further downward pressure. Traders should watch for a breakout above $0.092 or a break below the recent low of $0.09025 for clearer signals on the next direction.\n\nFor trading strategies, a cautious approach is advised given the current lack of strong momentum. Short-term traders might look for opportunities around key levels—buying near support at $0.09025 and selling near resistance at $0.092. However, long-term traders may prefer to wait for clearer signals of trend direction, especially a confirmed breakout above the SMA or a shift in momentum from the MACD, to reduce the risk of false moves."
+    }
+  }
+}
