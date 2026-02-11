@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-11T15:39:31.233Z",
+  "price": {
+    "close": "66263.3",
+    "high": "66756.25",
+    "low": "65702.95",
+    "open": "66545.85",
+    "change": "-0.42",
+    "datetime": "2026-02-11 15:00:00"
+  },
+  "indicators": {
+    "rsi": 33.13032,
+    "macd": -650.13917,
+    "macd_signal": -593.65674,
+    "sma20": 67646.887
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡调整阶段，短期维持观望]",
+      "content": "目前比特币在66263.3美元附近交易，较昨日价格微跌0.42%。价格波动较小，整体处于震荡调整阶段。最高点66756.25美元与最低点65702.95美元的区间内，市场暂时未能突破显著的高点或低点。短期内，价格可能继续在该区间内整理，等待新的方向性信号。\n\n技术指标方面，MACD仍呈现负值（-650.13917），这表明当前市场未出现强势的多头动能。虽然RSI未提供明确数据，但从价格行为来看，市场情绪偏向谨慎。SMA(20)处于67646.887美元，当前价格接近其下方，这暗示短期内若价格未能回升至此水平上方，可能继续承压。\n\n支撑位方面，65700美元附近是短期重要支撑区域，若跌破该区域，则可能引发更深的回调。阻力位则位于66750美元附近，突破后可能会短期触及更高价位。当前市场缺乏强势趋势，投资者应关注突破信号。\n\n建议短期交易者保持观望，避免追涨杀跌。在价格突破关键支撑或阻力位前，建议观望并保持谨慎。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar (BTC/USD) is $66,263.3, showing a slight 24-hour drop of -0.42%. This minor pullback suggests a consolidation phase after recent gains, with the price currently hovering below the short-term moving average of $67,646.88 (SMA 20). This indicates that Bitcoin is facing short-term resistance at this level, and further momentum may be required to break through. The market sentiment seems neutral at the moment, with no clear bullish or bearish trend.\n\nLooking at the high/low range over the last 24 hours, Bitcoin has fluctuated between $66,756.25 and $65,702.95, indicating relatively tight price action. This range suggests that Bitcoin is currently trapped between support around $65,700 and resistance near $66,750. A break above resistance could signal a move toward higher levels, potentially testing the $67,500 zone, while a drop below the support level may lead to further downside, possibly toward $64,000.\n\nThe MACD is currently negative at -650.13917, but there’s no signal line available for comparison, which leaves the indicator inconclusive at this stage. The absence of a signal line means that the MACD may not be offering much directional insight right now. RSI is also not available, but in the context of a consolidating market, it would typically help confirm if Bitcoin is overbought or oversold, giving clearer entry or exit signals.\n\nTraders should be cautious about entering large positions in this choppy market. Watching for a breakout above $66,750 or a dip below $65,700 could offer more clarity on the next potential move. A break in either direction could provide a stronger signal for either a bullish or bearish continuation. Until then, range-bound trading between these levels may be the best strategy."
+    }
+  }
+}
