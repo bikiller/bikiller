@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-11T23:04:47.577Z",
+  "price": {
+    "close": "1949.75",
+    "high": "1952.06",
+    "low": "1948.46",
+    "open": "1951.52",
+    "change": "-0.19",
+    "datetime": "2026-02-11 23:00:00"
+  },
+  "indicators": {
+    "rsi": 43.66241,
+    "macd": -14.28435,
+    "macd_signal": -19.073743,
+    "sma20": 1949.396
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理，短期谨慎观望",
+      "content": "当前以太坊/美元(ETH/USD)的价格在1949.75附近波动，短期内显示出震荡整理的趋势。从24小时的变化幅度来看，价格变化较小，且接近前高和前低之间的区间波动，表明市场缺乏明确方向。\n\nMACD指标当前为负值，显示出一定的卖压，但由于缺乏信号线数据，不能完全确认趋势的强弱。RSI指标未提供，因此我们无法进一步确认是否处于超买或超卖区域。20日简单移动平均线(SMA)略微高于当前价格，暗示短期内可能会有一定的支撑，但突破关键阻力位仍需观察。\n\n从支撑位来看，1948.46的低点附近形成了初步支撑，若价格跌破此水平，可能会进一步回调至较低价位。1952.06附近为短期阻力位，突破此价位可能会带来短线反弹。总体来看，短期内仍处于整理状态，缺乏明显的上涨或下跌信号。\n\n建议投资者保持谨慎，关注短期波动并观察支撑与阻力的突破。对于短期操作，建议设定合理的止损位并灵活调整仓位。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is trading at **1949.75**, essentially flat on the day, and hugging its **20-period SMA (1949.40)**. That tells you the market is in a **tight equilibrium** rather than a strong directional move. The 24h range is extremely narrow (1952.06–1948.46), which typically signals **compression**. In these conditions, traders should expect either continued chop around the mean or a sharp breakout once liquidity builds enough.\n\nMomentum signals lean slightly bearish, mainly from the **MACD at -14.28**, which implies downside momentum still exists under the surface. Even without the MACD signal line, a negative MACD generally suggests bulls are struggling to reclaim control. RSI is unavailable, so you can’t confirm whether the market is oversold or simply drifting. With price sitting on the 20-SMA, the next move will likely be decided by whether ETH can **hold above the average** or gets rejected below it.\n\nKey support is immediate at **1948.50–1946.00**, aligned with today’s low zone and the current compression floor. A break below that opens downside toward **1940**, then **1932–1930** as the next logical demand pocket. Resistance is tight at **1952–1955**, and a clean push above that level would shift the bias toward **1965**, then **1975–1980**, where sellers are likely to defend aggressively given the current weak momentum.\n\nTrading-wise, this is a market for **precision, not prediction**. Conservative traders may wait for confirmation: a **4H close above 1955** favors a long toward 1965–1975, with a stop back under 1946. If price loses **1946**, a short setup becomes cleaner, targeting 1940 then 1932, with a stop above 1955. Because volatility is currently compressed, position sizing should be modest—breakouts from tight ranges can move fast in either direction."
+    }
+  }
+}
