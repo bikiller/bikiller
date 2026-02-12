@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-12T20:33:20.311Z",
+  "price": {
+    "close": "76.93",
+    "high": "77.87",
+    "low": "76.92",
+    "open": "77.56",
+    "change": "-0.81",
+    "datetime": "2026-02-12 20:00:00"
+  },
+  "indicators": {
+    "rsi": 28.65178,
+    "macd": -0.85329789,
+    "macd_signal": -0.44325869,
+    "sma20": 80.097
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 76.93\\n- 24小时变化: -0.81%\\n- 高点/低点: 77.87 / 76.92\\n- RSI(14): N/A\\n- MACD: -0.85329789, Signal: N/A\\n- SMA(20): 80.097000\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期承压调整\n\n当前价格位于76.93附近，较SMA(20)80.10下方运行，呈现短期承压状态，趋势偏弱。价格未能有效上破均线阻力，反映买方力量暂时不足，需关注能否守住近期支撑。\n\n技术指标MACD处于负值且无明显背离信号，显示空头动能尚存。若能在支撑附近出现成交量放大，则可能形成短线反弹，否则震荡下行概率较高。缺乏RSI数据，需结合价格行为观察超卖情况。\n\n初步支撑位关注75.50-76.00区域，该区域若失守，有可能进一步下探至73.00附近。阻力位首先关注80.00整数关口，其次是82.50附近，突破将改善短期偏弱格局。\n\n交易上建议谨慎观望或短线低多为主，在确认支撑稳固前控制仓位风险。激进者可在关键支撑出现反转信号时参与短线多单，止损设置在支撑下方1–2%。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "Solana (SOL) is currently showing a slight bearish trend as it is trading at $76.93, down by 0.81% in the last 24 hours. This minor decline reflects a consolidation phase following a recent high of $77.87. The price action suggests that the market may be in a short-term pullback after reaching these levels. Without a confirmed RSI or clear MACD signals, it's crucial to monitor how the price interacts with its key levels in the coming hours. \n\nThe 20-period simple moving average (SMA) at $80.10 suggests that the asset has faced resistance at this level recently. A failure to break above this SMA could indicate a continued downward pressure in the near term. Traders should closely watch for any rejection near this zone. On the downside, the price is nearing immediate support around the $76.92 level, which aligns with the recent low. A break below this could signal a deeper retracement, potentially targeting $75 or lower.\n\nGiven the lack of a clear RSI reading and the current bearish MACD value of -0.853, the overall momentum is weak. While a potential support area at $76.92 may offer a temporary bounce, it's crucial to wait for confirmation before entering long positions. If the price manages to reclaim the $80 region with a shift in momentum, it could trigger a short-term bullish reversal, but caution is advised in the current range-bound market.\n\nTraders should focus on price action at key levels: watching for a bounce at $76.92 or further breakdown towards lower levels. A break above $80.10 could signal an entry for long positions, while a confirmation of downward momentum below $76.92 might warrant short positions. It's critical to manage risk with appropriate stop losses given the uncertain momentum."
+    }
+  }
+}
