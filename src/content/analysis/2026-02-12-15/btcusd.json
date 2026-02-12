@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-12T15:33:03.215Z",
+  "price": {
+    "close": "67935.93",
+    "high": "67980.26",
+    "low": "66969.69",
+    "open": "67552",
+    "change": "0.58",
+    "datetime": "2026-02-12 15:00:00"
+  },
+  "indicators": {
+    "rsi": 54.04233,
+    "macd": 95.76033,
+    "macd_signal": -7.51276,
+    "sma20": 67509.6655
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[上涨动能逐渐增强，突破关键阻力位]",
+      "content": "当前比特币/美元的价格在67935.93，较24小时前上涨0.58%。市场显示出一定的上涨动能，价格在接近68000美元的区域遇到短期阻力。若突破此阻力，可能会进一步上行，目标接近69000美元。\n\n技术指标方面，MACD目前显示为95.76033，表明短期内比特币的上涨势头较为强劲。尽管RSI暂时不可用，SMA(20)在67509.66550，价格正在其上方波动，这表明当前走势保持相对强势。若价格回调至SMA附近，可能会出现支撑反弹。\n\n支撑位方面，若价格回落，可以留意66969.69的低点。此位置若被有效支撑，将是潜在的买入信号。若突破该支撑位，可能会导致更深的回调，需警惕跌破65000美元的风险。\n\n交易建议：当前市场具有较强的上涨潜力，但需关注68000美元附近的阻力。若突破此阻力，可考虑短期买入，止损设置在66900美元附近。如果价格跌破66900美元，则应重新评估市场趋势。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of $67,935.93 reflects a strong market performance, albeit with limited intraday movement, showing a 0.58% increase over the past 24 hours. The price range of $67,980.26 to $66,969.69 highlights the narrow volatility, suggesting some consolidation. From a trend perspective, Bitcoin appears to be in an upward trajectory, maintaining a high relative strength compared to the broader market. A close look at the price action indicates a potential continuation of this bullish phase if the current support levels hold.\n\nThe lack of an RSI reading leaves us unable to assess momentum directly; however, with the price above the 20-period SMA of $67,509.67, this suggests a relatively bullish short-term sentiment. The SMA is serving as a critical support point, and should the price dip towards it, we may see a bounce back, confirming strength in the current trend. Any sustained break below this level, however, would signal a shift in sentiment, potentially inviting short-term sellers.\n\nWith the MACD value at 95.76033 and the absence of a signal line, we cannot fully evaluate the momentum through this indicator at present. Still, the positive MACD suggests that buying pressure is prevalent. A cross above the signal line (if calculated) would further confirm bullish momentum. For now, the market seems poised for more upward action, with an eye on any potential MACD divergence that might signal slowing momentum in the near term.\n\nSupport is located near the recent low of $66,969.69, while resistance sits at the recent high of $67,980.26. Traders looking to enter long positions might consider waiting for a retracement near the SMA or support levels for better risk-to-reward entry points. Conversely, if the price breaks through resistance and confirms a new high, it could indicate further upside potential, with targets above $68,500. A stop-loss just below the $66,970 support would be prudent for managing risk in this environment."
+    }
+  }
+}
