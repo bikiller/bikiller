@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-12T21:53:51.235Z",
+  "price": {
+    "close": "607.83",
+    "high": "608.26",
+    "low": "604.82",
+    "open": "604.94",
+    "change": "0.48",
+    "datetime": "2026-02-12 21:00:00"
+  },
+  "indicators": {
+    "rsi": 46.84941,
+    "macd": -1.12845,
+    "macd_signal": -0.17182371,
+    "sma20": 612.1605
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[短期震荡，关注支撑位与阻力位突破]",
+      "content": "当前，BNB/USD的市场价格为607.83美元，呈现小幅震荡走势。价格保持在604.82至608.26区间波动，表明市场处于短期整理阶段。由于缺少RSI和MACD的明确信号，技术面未显示出强烈的趋势方向。\n\n从技术指标来看，SMA(20)位于612.16美元附近，暗示短期内价格倾向于回归其均线水平。MACD数值为-1.12845，表明短期内卖压较大，但由于Signal数据缺失，无法进一步确认是否存在持续下行的可能。\n\n支撑位位于604.82美元附近，一旦价格跌破该位置，可能进一步测试更低的支撑区域。阻力位则集中在608.26美元附近，突破此位后可能有进一步上涨的空间。如果价格突破612.16美元的SMA(20)均线，可能会开启新的上升趋势。\n\n建议交易者关注支撑位与阻力位的突破，若价格跌破支撑位可考虑适度做空，而突破阻力位则可考虑做多，但需密切监控MACD和其他技术指标以确认趋势变化。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 607.83\\n- 24h Change: 0.48%\\n- High/Low: 608.26 / 604.82\\n- RSI(14): N/A\\n- MACD: -1.12845, Signal: N/A\\n- SMA(20): 612.16050\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action around **$607–608** suggests a short-term consolidation phase near recent highs. The market remains **slightly bullish**, as prices are holding above the **intraday lows near $604.8**, but failing to decisively break above **$612–615**. This lack of directional momentum points to a **range-bound environment**, where buyers and sellers are in balance. The broader trend still leans upward, but momentum is stalling.\n\nLooking at momentum indicators, the absence of a valid **RSI(14)** reading complicates overbought/oversold insights, though price behavior hints at neither extreme. The **MACD’s negative value (-1.12845)** indicates that bearish momentum is still present, despite a modest price uptick of **0.48%** over 24 hours. With the **20‑period SMA at 612.16** acting as an immediate dynamic resistance, the inability to clear this average reinforces short-term sellers’ grip. A breakout above this level would shift the short-term bias toward strength.\n\n**Support and resistance** are clear: immediate support sits around **$604–605**, with stronger support near **$600** if volatility increases. On the upside, **$612–615** functions as the next resistance cluster, followed by psychological resistance near **$620**. A sustained move above $615 with volume would validate bullish continuation, while failure here could prompt a deeper retracement toward the 50‑period SMA or the $590 area. These zones are key for mapping potential risk.\n\nFor traders, a cautious approach is warranted. Long entries could be considered on dips toward **support**, ideally between **$600–605**, with tight risk control if $598 breaks. Breakouts above **$615** on increased volume could signal a more aggressive long setup, targeting $620–630. Conversely, a close below **$600** might open a short opportunity, favoring a test of lower support. Always match position size to risk tolerance."
+    }
+  }
+}
