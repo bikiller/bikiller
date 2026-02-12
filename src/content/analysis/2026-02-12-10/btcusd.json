@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-12T10:10:29.151Z",
+  "price": {
+    "close": "67515.76",
+    "high": "67590.59",
+    "low": "67460.66",
+    "open": "67498.82",
+    "change": "0.02",
+    "datetime": "2026-02-12 10:00:00"
+  },
+  "indicators": {
+    "rsi": 51.73097,
+    "macd": -95.66919,
+    "macd_signal": -171.74853,
+    "sma20": 67188.4185
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏强整理",
+      "content": "当前价格报67515一线，24小时波动极窄，整体维持高位横盘结构。价格运行于20日均线之上，短线趋势仍偏多，但上涨动能有所放缓，市场进入整理阶段。\n\n从技术指标看，SMA(20)位于67188附近，对价格形成短期支撑。MACD处于零轴下方且柱值为负，显示多头动能减弱，若未能重新放量上攻，或延续震荡格局。RSI数据缺失，但从走势判断暂未出现明显超买。\n\n下方关键支撑关注67180及67460日内低点区域，若跌破则可能回测67000整数关口。上方阻力集中在67590高点及68000心理关口，突破需成交量配合确认。\n\n操作上建议短线以区间思路为主，靠近支撑轻仓低吸，接近阻力分批止盈。若放量突破67600上方，可顺势跟多；若跌破67180，则需控制仓位，防范回调风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market remains in a relatively neutral phase, with the latest price sitting at $67,515.76, showing minimal movement in the last 24 hours (+0.02%). Despite the small range between the daily high of $67,590.59 and low of $67,460.66, the market is still experiencing consolidation within these bounds. This suggests a balance between bullish and bearish sentiment, but no significant price action or trend shift is evident. A clear breakout or breakdown from this range could dictate the next major move.\n\nIn terms of indicators, the RSI(14) is unavailable, so we cannot assess overbought or oversold conditions. The MACD at -95.66919, without a signal line available, indicates a bearish momentum, but without confirmation from the signal line, it remains inconclusive for a decisive trend reversal. Traders should be cautious about basing decisions solely on this indicator, as its current reading lacks sufficient context. A rise in the MACD above zero would provide clearer bullish signals.\n\nThe SMA(20) is at $67,188.42, showing that the short-term trend is slightly below the current market price. The proximity of price to this moving average suggests potential support near the $67,200 level. If this level holds, the market may find support and could attempt a move higher. Conversely, a breakdown below this level might indicate a shift toward bearish momentum, with the $67,000 and $66,500 levels acting as the next potential support zones.\n\nFor traders, the market is currently in a wait-and-see position, with no strong directional bias. A breakout above $67,600 could open the door to higher resistance levels around $68,000-$68,500, while a drop below $67,200 might push Bitcoin toward support levels near $66,500. Traders should monitor the upcoming price action for more clarity on trend direction and adjust their strategies accordingly."
+    }
+  }
+}
