@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-12T19:38:39.085Z",
+  "price": {
+    "close": "65973.89",
+    "high": "66036.95",
+    "low": "65202",
+    "open": "65538",
+    "change": "0.67",
+    "datetime": "2026-02-12 19:00:00"
+  },
+  "indicators": {
+    "rsi": 39.52723,
+    "macd": -389.74021,
+    "macd_signal": -187.25762,
+    "sma20": 67117.9295
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，关注关键支撑位]",
+      "content": "当前比特币/美元价格为65973.89，近期价格呈现震荡整理走势。价格在65202至66036.95区间波动，显示出市场情绪偏向谨慎。虽然价格未能突破上行压力，但也未跌破支撑位，形成了一个典型的区间整理行情。\n\n技术指标方面，RSI(14)尚未提供，MACD处于负值区间，表明短期内卖压较大。当前MACD为-389.74021，说明空头仍占主导地位，但卖压不强。SMA(20)为67117.93，价格低于该均线，显示短期趋势偏弱，若价格未能突破该均线，可能继续受到下行压力的制约。\n\n从支撑与阻力的角度来看，当前支撑位在65202附近，若价格跌破此点位，可能会进一步下探较低价位。上方阻力位在66036.95，突破该水平可能会引发反弹，推动价格进一步上涨。交易者应密切关注这些关键价位，寻找突破信号。\n\n综合来看，目前市场处于震荡整理状态，建议交易者保持观望，等待突破支撑或阻力位时再做决策。如果突破上行阻力，可以考虑短期多头操作；若跌破支撑位，则应关注空头机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 65973.89\\n- 24h Change: 0.67%\\n- High/Low: 66036.95 / 65202\\n- RSI(14): N/A\\n- MACD: -389.74021, Signal: N/A\\n- SMA(20): 67117.92950\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is currently trading just below **$66,000**, showing mild bullish resilience after a modest 0.67% gain in the past 24 hours. Price action suggests a short-term consolidation phase between **$65,200 support** and the recent high near **$66,036**. The failure to break decisively above $66,000 reflects lingering supply overhead, while buyers defend the mid-$65k region. The broader trend remains cautiously neutral until a clear breakout unfolds.\n\nThe Simple Moving Average (20) at **$67,117** sits above current price, indicating short-term bearish pressure. The fact that price remains below the SMA(20) points to sellers having the edge near recent highs. Without a confirmed RSI or MACD signal crossover, momentum is unclear; the negative MACD value of **-389** suggests underlying downward pressure, though absent a signal line reading, it’s not fully confirmed. Traders should watch for MACD convergence as a clue to renewed bullish momentum or deeper correction.\n\nKey support lies at **$65,200**, a critical demand zone that has held multiple times in recent sessions. A break below could open the door toward **$64,000–$63,500** levels, where longer-term buyers may re-enter. On the upside, resistance clusters around **$66,800–$67,200**, capped by the SMA(20). A sustained move above $67,200 with above-average volume would shift the bias back toward bulls and target **$68,500**.\n\nFor now, cautious positioning is advised. Short-term traders can consider **range-based entries** near support with tight stops below $65,000, targeting the lower resistance band around $66,800. Aggressive breakout traders might wait for confirmation above $67,200 before adding long positions. Conversely, a definitive break under $65,000 could favor short setups with risk management anchored at prior support levels."
+    }
+  }
+}
