@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-02-12T11:32:37.816Z",
+  "price": {
+    "close": "8.9585",
+    "high": "8.9761",
+    "low": "8.9166",
+    "open": "8.9549",
+    "change": "0.07",
+    "datetime": "2026-02-12 11:00:00"
+  },
+  "indicators": {
+    "rsi": 68.94283,
+    "macd": 0.057191819,
+    "macd_signal": 0.028193854,
+    "sma20": 8.75254
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 8.9585\\n- 24小时变化: 0.07%\\n- 高点/低点: 8.9761 / 8.9166\\n- RSI(14): N/A\\n- MACD: 0.057191819, Signal: N/A\\n- SMA(20): 8.75254\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短线震荡偏多  \n\n今天 AVAX 的价格在 $8.9166-$8.9761 区间内反复震荡，最新收于 $8.9585，整体波动幅度较小但收盘靠近高位，显示短线买盘有一定支撑。成交量虽未给出，但从微幅上涨（0.07%）来看，市场多空力量暂时均衡，多头略占上风，整体趋势偏震荡整理而非单边下跌。  \n\n技术指标上，SMA(20) 目前在 $8.7525，价格稳稳站上短期均线，说明近期多头力量维持在 20 日均线之上，短线有支撑。MACD 主线为正值（0.0572），尽管信号线数据缺失，但主线大于 0 暗示多头动能尚在，若未来信号线同样转正，则会加强上行动能。不过缺少 RSI 使得超买超卖状态不明。  \n\n支撑位方面，短线首要支撑在 20 日均线附近 $8.75 区域，其下次级支撑可以看向 $8.60 区间；阻力位则聚焦在最近高点 $8.976 以及上破该位后可能的 $9.10-$9.20 区间。若价格有效跌破 $8.75，则空头力量可能增强，警惕回撤风险。  \n\n交易建议上，短线偏向区间交易策略较为合适。偏多交易者可以在回落接近均线支撑时低吸，止损可设在 $8.65 以下；追涨者则等待突破 $8.98 以上确认后再入场，止损控制在回落至突破位下方。整体上谨慎看多，注意关键支撑失守的风险。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "Avalanche (AVAX) currently hovers around $8.96, showing a modest 0.07% increase over the past 24 hours. This suggests a range-bound market with limited volatility. The price has recently tested both its high at $8.98 and its low at $8.92, indicating a relatively stable short-term trend. The price action is presently consolidating just above the 20-day simple moving average (SMA), which is at $8.75, suggesting some potential for upward momentum if the price can maintain this support level.\n\nIn terms of trend, the market appears to be in a neutral phase, with neither strong bullish nor bearish signals. The absence of a clear RSI(14) value and the limited MACD data (0.057) indicates that momentum is weak, making it difficult to determine the immediate direction. However, this also suggests that AVAX could be gearing up for a breakout or breakdown, depending on which side of the current range it consolidates above or below. Without significant volume or volatility, the next movement may not be clear.\n\nSupport for AVAX sits at the recent low of $8.92, with the SMA(20) at $8.75 acting as a secondary support level. Should the price fall below these levels, it may test deeper supports near $8.50 or $8.30, potentially indicating further downside. On the resistance side, $8.98 is the key level to watch; breaking above this could trigger a move toward $9.20, aligning with previous higher levels seen in the market.\n\nFor traders, a breakout above $8.98 could be an entry signal for a short-term long position, with a target of $9.20. Conversely, a failure to hold above the SMA(20) and a drop below $8.75 may suggest a short position with a target toward the $8.50-$8.30 support zone. Caution is advised as the market remains in a consolidation phase, and any new significant data or volume could shift the trend decisively."
+    }
+  }
+}
