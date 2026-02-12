@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-12T05:22:58.496Z",
+  "price": {
+    "close": "66759.15",
+    "high": "67157.22",
+    "low": "66614.15",
+    "open": "66961.4",
+    "change": "-0.30",
+    "datetime": "2026-02-12 05:00:00"
+  },
+  "indicators": {
+    "rsi": 42.7452,
+    "macd": -193.70766,
+    "macd_signal": -250.13082,
+    "sma20": 67086.48
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期谨慎操作]",
+      "content": "当前比特币/美元（BTC/USD）价格为66759.15美元，市场出现小幅下跌（-0.30%），表现出震荡整理的态势。从技术面看，价格在66700-67200区间内反复波动，短期内未出现明显的趋势突破。\n\nMACD指标显示-193.70766的负值，表明卖盘压力较大，但由于信号线数据缺失，无法进一步确认趋势的方向。RSI暂未提供有效的超买超卖信号，因此短期内走势仍较为不明确。\n\n支撑位主要集中在66600附近，一旦价格跌破这一水平，可能会加速向下测试65000关口。阻力位则位于67000-67200区间，突破该阻力后可能迎来进一步的上涨动能。\n\n建议交易者在当前区间内保持谨慎，避免激进操作。可以等待价格突破关键支撑或阻力后再做决策。若价格继续震荡整理，可以尝试低位布局，设置止损位在66600附近，确保风险可控。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of $66,759.15 is experiencing a slight decline of -0.30% over the last 24 hours. Despite this minor pullback, the overall market structure still seems bullish. The price remains above the 20-period simple moving average (SMA) of $67,086.48, suggesting that the prevailing trend is upwards. However, Bitcoin is showing signs of consolidation near the highs of $67,157.22, with a support level forming at $66,614.15, which may be pivotal for determining the next move.\n\nIn terms of momentum indicators, the MACD stands at -193.71, indicating a negative short-term momentum, though the absence of a signal line prevents a clear buy or sell signal. This lack of a clear crossover means traders should remain cautious for now, as further confirmation of either upward or downward momentum is needed. The Relative Strength Index (RSI) is currently unavailable, limiting our ability to assess the market’s overbought or oversold conditions at this moment.\n\nThe key support level around $66,614.15 is essential for the price to hold. A breach below this point could open the door for a deeper retracement toward lower levels, possibly towards $65,000. On the other hand, a bounce from this support zone may lead to a retest of the resistance around $67,157.22, and if broken, a potential rally towards higher levels such as $68,000 or $70,000.\n\nGiven the mixed signals, traders should adopt a wait-and-see approach. For those with a bullish bias, entering near support with tight stop-losses just below $66,600 could offer risk-managed opportunities. Conversely, short traders might consider waiting for a clear breakdown below the key support level to confirm a bearish move."
+    }
+  }
+}
