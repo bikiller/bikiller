@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-13T14:11:10.924Z",
+  "price": {
+    "close": "1964.63",
+    "high": "1971.41",
+    "low": "1963.65",
+    "open": "1969.95",
+    "change": "-0.32",
+    "datetime": "2026-02-13 14:00:00"
+  },
+  "indicators": {
+    "rsi": 55.47495,
+    "macd": 3.00076744,
+    "macd_signal": -0.76781922,
+    "sma20": 1946.191
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：当前价格接近支撑区，短期震荡可能",
+      "content": "当前ETH/USD的价格为1964.63美元，整体表现较为平稳。24小时内价格变动较小，跌幅为-0.32%。目前市场处于一个短期震荡区间，价格波动主要在1963.65美元至1971.41美元之间。由于缺乏强势的技术指标支持，预计短期内难以出现较大突破。\n\n在技术指标方面，虽然MACD的值为3.00076744，但未能提供明确的买入或卖出信号。由于RSI（14）数据缺失，无法判断市场的超买或超卖情况。SMA(20)在1946.191附近，为价格的短期支撑位。若价格跌破此水平，则可能会进一步测试更低的支撑区。\n\n从支撑和阻力来看，1963.65美元和1971.41美元分别是短期支撑和阻力位。若ETH价格突破1971.41美元，可能会测试更高的阻力区间，如2000美元。而若跌破1963.65美元，可能会进一步下探SMA(20)附近的支撑。\n\n综合来看，ETH/USD目前处于震荡整理阶段，建议保持观望，等待价格突破关键支撑或阻力位后再进行决策。若短期内价格突破上方阻力，可以考虑短线多单；反之，跌破支撑则可能会有下行风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $1964.63, showing a minor decline of 0.32% in the last 24 hours. The price has tested both the daily high of $1971.41 and the low of $1963.65, indicating tight price action. This suggests that ETH/USD is consolidating within a narrow range, potentially signaling indecision or a period of accumulation. The market could be awaiting a breakout in either direction, which could influence the next major move.\n\nThe lack of an available RSI(14) reading leaves an incomplete picture of the market’s momentum, making it difficult to assess overbought or oversold conditions. However, the current MACD value of 3.00076744 suggests some bullish potential, but with no clear signal line available, it's hard to confirm a sustained bullish trend. A potential divergence could emerge as the price continues to move within its current range. Traders should be cautious, awaiting more conclusive signals before committing to new positions.\n\nThe 20-period Simple Moving Average (SMA) sits at $1946.191, offering a critical level of support. Any significant dip below this level could indicate increased selling pressure, with the next support zone likely near the lower boundary of the recent range, around $1930. On the resistance side, the immediate ceiling is near $1971.41, with a breakout above this level opening up potential for a move toward $2000 or higher. \n\nFor now, a range-bound strategy appears to be the most prudent approach, with scalping opportunities within the $1963–$1971 range. A clear break above $1971 could trigger a more substantial rally, while a drop below $1946 might signal deeper bearish momentum. Traders should remain vigilant for more indicator confirmation and look to enter positions with a tight stop-loss to manage risk effectively."
+    }
+  }
+}
