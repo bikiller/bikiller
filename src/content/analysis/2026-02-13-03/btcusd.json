@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-13T03:49:18.335Z",
+  "price": {
+    "close": "66546.02",
+    "high": "66755",
+    "low": "66429.81",
+    "open": "66608.02",
+    "change": "-0.09",
+    "datetime": "2026-02-13 03:00:00"
+  },
+  "indicators": {
+    "rsi": 48.80166,
+    "macd": -291.21628,
+    "macd_signal": -351.56996,
+    "sma20": 66639.7805
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡整理，关注支撑/阻力突破]",
+      "content": "当前比特币/美元(BTC/USD)的价格在66546.02美元附近，短期内呈现震荡整理态势。从24小时变化来看，价格波动较小，仅下降0.09%，显示出市场暂时缺乏明显的动能。在高点66755和低点66429.81的区间内，市场呈现出一定的震荡走势。\n\n从技术指标来看，当前RSI值缺失，意味着我们无法依赖RSI判断超买或超卖状态。MACD目前为负值（-291.21628），但没有明确的信号线，因此暂时没有明显的趋势信号。SMA(20)则处于66639.78050，接近当前价格，进一步印证了市场的整理状态。\n\n支撑位方面，当前的支撑位在66430附近，若价格跌破此位置，可能会进一步向下测试支撑区域。阻力位则在66755附近，若突破该位置，则可能引发更强的反弹。短期内，投资者可以关注这些关键位置的突破情况。\n\n交易建议方面，建议在支撑位附近寻找买入机会，但若价格突破阻力位，亦可适当考虑做多。由于市场当前没有强烈趋势信号，建议保持谨慎操作，关注短期的价格波动与技术信号的变化。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has shown a slight negative movement in the past 24 hours, reflecting a decrease of 0.09%. The price is currently hovering around $66,546, with a high of $66,755 and a low of $66,429.81. This narrow price range indicates a period of consolidation, suggesting indecision in the market. The overall trend remains bullish, but the absence of significant upward momentum may signal a short-term pause or minor pullback. Traders should monitor for breakout signals to confirm a continuation of the uptrend.\n\nIn terms of support and resistance, the immediate support level is near $66,429.81, where the market has shown some buying interest. A strong test of this level could indicate further consolidation or potential reversal if it holds. On the upside, $66,755 acts as the first resistance zone. A break above this level might open the door for a retest of higher levels, pushing Bitcoin towards the $67,000 mark. It is crucial to observe price action around these levels for clearer directional cues.\n\nLooking at technical indicators, the lack of a clear RSI reading and an incomplete MACD signal indicates that market momentum is still uncertain. The MACD value of -291.21628 suggests bearish pressure, but without a confirmed signal line, it's hard to define a strong trend. In such conditions, traders may want to wait for further confirmation before entering large positions. A bullish divergence or positive cross in MACD could provide a more reliable buying signal.\n\nWith the 20-period SMA at $66,639.78, Bitcoin is currently trading slightly above this moving average, which often acts as dynamic support. This SMA level is a key point to monitor, as a close below it could signal a deeper pullback. Traders could look for potential bounce opportunities near the SMA for short-term buying, while maintaining cautious vigilance for any breakdowns below it, which might indicate further downside risk."
+    }
+  }
+}
