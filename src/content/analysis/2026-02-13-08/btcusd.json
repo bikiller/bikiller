@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-13T08:38:24.926Z",
+  "price": {
+    "close": "66451.13",
+    "high": "66455.85",
+    "low": "66124.04",
+    "open": "66142",
+    "change": "0.47",
+    "datetime": "2026-02-13 08:00:00"
+  },
+  "indicators": {
+    "rsi": 49.004163,
+    "macd": -211.85694,
+    "macd_signal": -279.51452,
+    "sma20": 66281.71
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，警惕回调压力",
+      "content": "当前比特币价格在66450美元附近小幅震荡，较24小时涨幅0.47%，显示多头动力有限但仍占优势。价格徘徊在20日简单移动平均线SMA(20)66281.71上方，表明短期均线支撑有效，多头仍可能试探高位。高低点区间较窄，市场呈现短期整理态势。  \n\nMACD指标为-211.86，显示动能偏弱且空头尚未完全消退，需关注MACD柱状图变化，若出现红柱放大可能暗示上涨动能回归。缺乏RSI数据，但结合价格与均线结构，可推测市场仍存在温和买入信号，但过度追高风险增加。  \n\n关键支撑位在66280美元附近SMA(20)处，如果跌破该区域，下方支撑看向66120美元低点。阻力位则位于近期高点66455美元，如价格突破该水平，多头趋势可能延续至66550-66600美元区间。区间震荡明显，短线交易者需控制仓位。  \n\n交易策略上，建议逢低关注多单机会，止损可设在66100美元下方，短线追高需谨慎，关注突破信号确认趋势。波段交易者可利用区间震荡操作，快速进出，避免承受过大回调风险，同时保持对技术指标变化的密切观察。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $66,451.13, showing a modest 24-hour change of +0.47%. The market's short-term trend seems neutral, with the price fluctuating near the upper end of its recent range. The recent high of $66,455.85 and low of $66,124.04 suggests a consolidation phase. This indicates a lack of strong momentum either for a breakout or a pullback, with the market waiting for a catalyst. The SMA(20) at $66,281.71 reinforces the idea of sideways movement, with price action staying close to this moving average, a key support level in the short term.\n\nIn terms of momentum indicators, the MACD reading of -211.85694 reflects a bearish bias, but with the signal line not available, it's difficult to confirm the strength of this signal. The absence of a defined RSI(14) value leaves us with limited data on whether the market is overbought or oversold, which adds some uncertainty to the current picture. Traders may want to look for additional confirmation from other indicators before making a definitive move, particularly if there’s a shift in MACD values or if RSI becomes available.\n\nThe immediate support level lies around $66,124.04, which corresponds to the recent low. A break below this level could potentially trigger further downside towards $65,500, a level to watch for any potential reversals. On the upside, resistance is seen at $66,455.85. A breakout above this level could point towards a continuation of the upward movement, targeting $67,000 as the next major resistance. A clear break above this resistance might signal the start of a more bullish trend.\n\nFor traders, a cautious approach may be beneficial. If the price holds above $66,124, consider a long position with targets around $66,455.85 and $67,000. However, a breakdown below $66,124 would warrant a short position, with targets towards the $65,500 support zone. Given the current market conditions, waiting for a clearer trend to emerge could be a wise strategy."
+    }
+  }
+}

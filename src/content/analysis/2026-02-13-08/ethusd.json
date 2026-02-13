@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-13T08:39:10.744Z",
+  "price": {
+    "close": "1947.8",
+    "high": "1948.61",
+    "low": "1934.15",
+    "open": "1936.15",
+    "change": "0.60",
+    "datetime": "2026-02-13 08:00:00"
+  },
+  "indicators": {
+    "rsi": 50.36434,
+    "macd": -4.81229,
+    "macd_signal": -6.41439,
+    "sma20": 1939.828
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前以太坊/美元(ETH/USD)的价格表现为震荡整理，价格在1947.8附近波动，24小时内变化幅度较小，仅为0.60%。虽然价格未出现明显趋势，但波动区间较为狭窄，市场情绪较为谨慎。\n\n从技术指标来看，MACD值为负(-4.81229)，说明短期内卖压较重，价格可能面临下行压力。但由于没有RSI数据支持，我们无法准确判断超买或超卖的情况。SMA(20)位于1939.83，表明短期内以此水平作为支撑，可能提供一定的支撑作用。\n\n对于支撑位和阻力位的分析，支撑位在1934.15附近，若价格跌破此点位，可能会出现进一步下行调整。上方的阻力位在1948.61附近，突破此水平则有可能出现短期反弹。当前价格波动较小，若能突破阻力位，则可能展开进一步的上行走势。\n\n建议短期内保持观望，等待价格突破关键的支撑或阻力位再做出交易决策。如果价格突破1948.61阻力位，可以考虑小幅做多；反之，跌破1934.15支撑位时，可考虑做空。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH/USD) is currently trading at $1947.8, marking a slight increase of 0.60% over the last 24 hours. The price remains within a narrow range, with a high of $1948.61 and a low of $1934.15. The market appears to be consolidating at these levels, suggesting a period of indecision. Short-term traders may find the range between $1934 and $1948 as key points to monitor. A breakout above $1948 could signal a potential move higher, while a drop below $1934 may suggest further downside risk.\n\nIn terms of technical indicators, the Relative Strength Index (RSI) remains unavailable, leaving the market without a key momentum gauge. However, the Moving Average Convergence Divergence (MACD) value at -4.81229 suggests a bearish bias, albeit one that may be losing strength. Without a signal line for comparison, it's difficult to determine the full extent of the trend, but this negative MACD reading points to a current lack of strong buying momentum. Traders should remain cautious and watch for a reversal or divergence in future MACD readings for clearer direction.\n\nThe 20-period Simple Moving Average (SMA) stands at $1939.83, which is just below the current price level, providing a potential support zone. If the price dips toward the SMA, it could serve as a reliable entry point for buyers looking for a bounce. On the other hand, a close below this moving average could signal further downside potential, with the next support likely around $1900. Above the $1948 resistance, ETH might target higher levels near $1970.\n\nFor traders, the current market environment calls for caution. With a lack of momentum indicators like RSI, it's challenging to predict the next significant move. For those looking to trade, waiting for a breakout either above $1948 or below $1934 could provide a clearer direction. Stop-loss orders near key support levels, such as the SMA at $1939, would help manage risk in this consolidating environment."
+    }
+  }
+}
