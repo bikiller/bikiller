@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-13T05:19:43.370Z",
+  "price": {
+    "close": "66237.46",
+    "high": "66401.46",
+    "low": "66171.09",
+    "open": "66274.01",
+    "change": "-0.06",
+    "datetime": "2026-02-13 05:00:00"
+  },
+  "indicators": {
+    "rsi": 45.63499,
+    "macd": -263.41703,
+    "macd_signal": -322.44122,
+    "sma20": 66533.9405
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡整理]",
+      "content": "当前比特币/美元（BTC/USD）价格为66,237.46美元，24小时变化幅度极小，显示市场呈现出相对的平稳态势。价格在66171.09美元至66401.46美元之间波动，未能突破显著的支撑或阻力水平。近期的价格走势反映出市场缺乏明确的方向，呈现震荡整理的态势。\n\n从技术指标来看，RSI(14)尚未提供有效的参考，而MACD处于负值区间（-263.42），表明市场可能处于卖压较重的阶段。虽然MACD信号线数据暂缺，但现有指标提示短期内可能继续维持震荡或出现小幅下行。\n\n在支撑位方面，当前价格接近66171.09美元，这一水平为短期支撑。如果价格突破此支撑，可能会进一步测试65500美元区域的支撑位。阻力方面，66401.46美元构成了短期阻力，若突破该价位，可能会再度挑战67000美元整数关口。\n\n综合来看，目前的市场缺乏强劲的趋势性突破，建议投资者采取观望策略，等待更明确的信号出现。如果价格突破支撑位，短期内可能面临下行风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $66,237.46, maintaining a relatively stable position over the past 24 hours with a minor decline of -0.06%. The recent price action indicates that the market is consolidating within a tight range, with the high reaching $66,401.46 and the low at $66,171.09. This narrow trading range suggests indecision in the market, as Bitcoin hovers near its recent highs. Without a clear directional breakout, the market sentiment remains neutral for the time being, with traders likely waiting for a clearer signal from upcoming price movements.\n\nFrom an indicator perspective, the RSI(14) is not available at this moment, making it difficult to assess overbought or oversold conditions. The MACD reading at -263.41703 suggests a slight bearish momentum in the short term, though the lack of a signal line prevents a complete interpretation of the trend. Additionally, the price is currently below the 20-day Simple Moving Average (SMA) of $66,533.94, which may indicate short-term weakness or potential resistance at this level. If the price fails to break above the SMA, further downside pressure could be expected.\n\nKey support levels are seen at $66,171.09, which marks the recent low, while a break below this level could open up the potential for a move towards lower support around $65,800. On the other hand, resistance remains at $66,401.46, which is just below the recent high. If the price manages to break through this level, it could signal a potential continuation of the uptrend, targeting higher levels near $67,000 or above. \n\nIn terms of trading strategy, cautious traders might consider waiting for a clear breakout above the SMA or a break below the support level for a more definitive directional move. If bullish momentum is confirmed, a long position could be considered with targets near $67,000, while a bearish move could trigger short positions targeting the $65,800 area."
+    }
+  }
+}
