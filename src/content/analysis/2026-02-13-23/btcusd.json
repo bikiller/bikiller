@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-13T23:04:47.174Z",
+  "price": {
+    "close": "68906.43",
+    "high": "68960.03",
+    "low": "68877.19",
+    "open": "68959.96",
+    "change": "-0.08",
+    "datetime": "2026-02-13 23:00:00"
+  },
+  "indicators": {
+    "rsi": 67.72418,
+    "macd": 620.54928,
+    "macd_signal": 489.75108,
+    "sma20": 67719.0945
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前比特币/美元（BTC/USD）在68900附近震荡整理，价格波动较小。24小时价格变化仅为-0.08%，表明市场情绪较为谨慎。若价格突破68960，可能迎来短期上涨动力，而若跌破68877，则可能继续回调。\n\n技术指标方面，虽然RSI和MACD的详细数据尚不可用，但结合SMA(20)的值67719，可以看出当前价格高于其均线水平，显示出一定的上行趋势。SMA(20)可能作为短期支撑位，若跌破此位置，短期内可能会出现更多的卖盘压力。\n\n支撑位方面，68877是最近的低点，一旦跌破该位置，可能会加速下行，下一支撑可关注68000。阻力位在68960附近，突破该位可能引发新的上行浪潮。若突破后能站稳69000以上，可能会开启新的上涨空间。\n\n总体而言，建议交易者保持观望，等待价格突破支撑或阻力位以决定入场时机。短期内，若价格反弹至69000，考虑适量多单；而若跌破68877，可以考虑短期空单，但需严格设置止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 68906.43\\n- 24h Change: -0.08%\\n- High/Low: 68960.03 / 68877.19\\n- RSI(14): N/A\\n- MACD: 620.54928, Signal: N/A\\n- SMA(20): 67719.094500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBTC/USD is currently testing the upper end of its recent range with price action around **$68,900–$69,000**. Although the 24-hour change is slightly negative, the market remains close to its high of **$68,960**, suggesting short-term consolidation rather than a decisive reversal. The broader trend still favors the **upside**, as Bitcoin continues to make higher lows, and the SMA(20) at **$67,719** sits well below the current price, acting as a dynamic support zone.\n\nMomentum indicators are partially available and present a mixed picture. The MACD value of **620.55** points to bullish momentum overall, but without a corresponding signal line value or RSI reading, it’s difficult to fully gauge overbought/oversold conditions. Traders should be cautious interpreting single readings in isolation; if the MACD remains positive while RSI later confirms strength above 50, this would reinforce upward bias. The absence of certain indicators means waiting for clearer signals could reduce false entries.\n\nKey levels to watch include support near the **20-period SMA** around **$67,700**, and further down at **$66,500–$66,800**, where previous consolidation occurred. On the upside, a break above **$69,500** would open the door to testing **$70,000**, a psychological resistance. Failure to hold above the 20-period SMA could invite deeper pullbacks toward **$66,000–$66,500**, where buying interest might reemerge. Volume behavior around these zones will provide clues to genuine supply and demand shifts.\n\nGiven the current data, a **range-trading approach** is sensible: consider long positions on dips toward the SMA with tight stops below the next support cluster, and partial profit-taking near **$69,500–$70,000**. More aggressive traders could wait for a confirmed breakout above **$70,000** with strong momentum confirmation to enter trend-following longs. Always adjust size relative to risk tolerance and use confirmed signals where possible."
+    }
+  }
+}
