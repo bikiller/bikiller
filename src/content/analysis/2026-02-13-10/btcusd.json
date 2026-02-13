@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-13T10:04:43.648Z",
+  "price": {
+    "close": "66871.77",
+    "high": "66918.96",
+    "low": "66806.89",
+    "open": "66911.01",
+    "change": "-0.05",
+    "datetime": "2026-02-13 10:00:00"
+  },
+  "indicators": {
+    "rsi": 53.70267,
+    "macd": -89.32875,
+    "macd_signal": -216.42923,
+    "sma20": 66185.804
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，谨慎操作",
+      "content": "当前比特币/美元的价格维持在66871.77附近，呈现震荡整理格局。尽管24小时变化幅度较小，仅为-0.05%，但价格依旧在高点66918.96与低点66806.89之间波动，显示出市场情绪的谨慎。\n\n从技术指标来看，MACD当前为负值（-89.32875），意味着短期内价格可能处于下行压力中，尽管信号线尚未确定，这说明市场动能不足。SMA(20)处于66185.80附近，作为动态支撑位，有可能限制价格下行空间。如果价格跌破此支撑位，可能会触发更多卖盘。\n\n在支撑位方面，66800附近是一个较强的支撑区域。若比特币价格跌破这一水平，可能会面临更深的调整。阻力位则位于67000-67200区间，突破该区域可能会带来短期反弹。\n\n基于当前市场状态，建议投资者采取观望策略，避免在震荡区间内做出大规模操作。若价格突破关键支撑或阻力区间，可考虑短线交易。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of $66,871.77 reflects a slight decline of 0.05% over the last 24 hours, indicating a relatively stable market in the short term. Despite this minor dip, the price remains above key levels, such as the SMA(20) at $66,185.80, which suggests a moderately bullish trend in the short-term. The recent price action between the high of $66,918.96 and the low of $66,806.89 further reflects limited volatility, reinforcing the consolidation phase. A sustained break above the $67,000 resistance could indicate a continuation of bullish momentum.\n\nWith the RSI(14) currently unavailable, traders may look at price action and other indicators for clues about overbought or oversold conditions. The MACD, at -89.33, is negative, suggesting weak bearish momentum at this point. However, since the signal line isn't provided, it’s crucial to monitor any potential bullish crossover from the MACD to confirm a shift in sentiment. The market appears hesitant, but a clear move above the zero line in the MACD could indicate a bullish reversal.\n\nSupport and resistance levels are critical for understanding potential price movement. The immediate support lies around $66,800, with a break below this level potentially signaling a deeper pullback toward $66,000 or lower. On the upside, resistance around $67,000 is crucial. A decisive close above this level could open the path toward the next significant resistance zone around $68,000. Traders should monitor these levels closely, as any breakout in either direction could provide more clarity.\n\nIn terms of trading strategy, a conservative approach may be prudent given the current market conditions. A breakout above $67,000 could provide a buy signal, while a failure to maintain support at $66,800 may suggest a short opportunity, especially if further weakness is observed in the MACD. Risk management, such as setting stop-loss orders, is essential, especially in a market displaying relatively low volatility but strong potential for movement once key levels are breached."
+    }
+  }
+}
