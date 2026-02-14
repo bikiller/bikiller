@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-02-14T14:00:16.915Z",
+  "price": {
+    "close": "0.10003",
+    "high": "0.10027",
+    "low": "0.09906",
+    "open": "0.09959",
+    "change": "0.44",
+    "datetime": "2026-02-14 13:00:00"
+  },
+  "indicators": {
+    "rsi": 73.20044,
+    "macd": 0.0013151597,
+    "macd_signal": 0.0010853593,
+    "sma20": 0.0973665
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 狗狗币/美元(DOGE/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.10003\\n- 24小时变化: 0.44%\\n- 高点/低点: 0.10027 / 0.09906\\n- RSI(14): N/A\\n- MACD: 0.0013151597, Signal: N/A\\n- SMA(20): 0.097366500\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"狗狗币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "狗狗币/美元技术分析：横盘震荡蓄势但偏多情绪未稳\n\n当前价格围绕0.10美元附近反复震荡，短期未形成明确单边趋势，整体呈现横盘整理态势。价格在20周期简单移动平均线（SMA(20)=0.09737）之上小幅波动，暗示多头仍有一定支撑，但上涨力度不足。\n\n技术指标上，由于RSI缺失无法直接判断超买超卖，但MACD柱线为正且略高于0，说明短期动能偏向多头，但由于Signal数据缺失需谨慎，动能尚未明显加强，趋势确认度较低。\n\n短线支撑位可关注0.0970–0.0980区域，该区间与SMA(20)叠加构成初步支撑；阻力位上方0.1020为短期压制关键，突破该位或打开上行空间，未突破前可能反复震荡。\n\n建议上方若稳破0.1020可适量跟多，止损置于0.0980下方；若价格失守0.0970则考虑短线离场观望。波段交易者可在支撑附近择低布局，控制仓位与风险。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current price of Dogecoin against the US Dollar stands at 0.10003, reflecting a modest 24-hour change of 0.44%. This suggests a relatively stable market environment with minor fluctuations. The recent high of 0.10027 and low of 0.09906 indicate a narrow trading range, which points to consolidation. While no immediate directional trends are clear, this stability could lead to an impending breakout or breakdown depending on external market factors or shifts in investor sentiment.\n\nWith the absence of a clear RSI(14) or MACD signal, the price action analysis becomes more reliant on the simple moving average (SMA). The 20-period SMA sits at 0.09737, providing a potential support level. If Dogecoin sustains above this, it could signal a continuation of the recent consolidation phase or even a bullish push. A drop below this support could indicate a bearish shift, with lower price levels likely to be tested. The absence of strong momentum indicators suggests that the market is in a waiting phase, likely awaiting more substantial catalysts.\n\nResistance levels are observed near the recent high of 0.10027. If Dogecoin manages to break above this level with sustained volume, the next significant resistance lies around 0.1020. On the flip side, if the price fails to maintain above the SMA support, it could retest the 0.0990 support area. In either case, watching these levels closely will provide more clarity for the next move. Traders should monitor price action around these zones for potential breakouts or reversals.\n\nIn terms of trading strategies, a conservative approach might involve waiting for confirmation of a breakout above resistance or a confirmation of support holding at the SMA. A short-term long trade could be viable on a breakout above 0.10027 with a target of 0.1020, while a short position could be considered if the price fails to hold above the SMA and breaks below 0.0990. Caution is key given the current indecision in market indicators."
+    }
+  }
+}
