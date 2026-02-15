@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-15T20:22:23.415Z",
+  "price": {
+    "close": "1944.81",
+    "high": "1950.33",
+    "low": "1934.56",
+    "open": "1941.77",
+    "change": "0.12",
+    "datetime": "2026-02-15 20:00:00"
+  },
+  "indicators": {
+    "rsi": 20.98501,
+    "macd": -29.2283,
+    "macd_signal": -16.77603,
+    "sma20": 2032.513
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，等待突破]",
+      "content": "目前以太坊/美元（ETH/USD）价格处于1944.81附近，呈现出轻微的震荡整理行情。价格波动较小，24小时变化仅为0.12%，显示出市场观望情绪较为浓厚。当前价格接近日内低点1934.56，尚未有效突破此前的支撑区间。\n\n从技术指标来看，MACD值为-29.22830，尚未显示出明显的买入信号。由于没有RSI和Signal值的支持，技术面提供的信息相对有限，但负值MACD暗示着市场情绪偏空。SMA(20)的2040附近已成为明显的阻力区，价格在这一水平下方徘徊。\n\n支撑位方面，1930-1935区间为较强支撑，若价格跌破此区域，可能会进一步向下测试1900关口。然而，若突破1950.33的高点，则可能出现反弹，并接近SMA(20)附近的阻力位。短期内，价格可能继续在此区间内震荡整理，等待进一步的方向确认。\n\n对于短期交易者，建议密切关注突破1950或跌破1930的价格动向。突破1950可考虑适度做多，而跌破1930则可能出现更大幅度的下行调整。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) against the US Dollar has shown a slightly positive 24-hour change of 0.12%, indicating a relatively stable market with limited volatility. Currently trading at $1,944.81, ETH is approaching its recent high of $1,950.33, suggesting a potential for upward momentum if the price can break above this level. The market appears to be consolidating between $1,934.56 and $1,950, with no clear direction yet. Traders should watch for a breakout above $1,950 for a continuation of the bullish trend.\n\nIn terms of technical indicators, the MACD value is negative at -29.2283, indicating that there is still downward pressure in the market. The absence of a clear Signal line makes it harder to confirm a reversal or change in trend. Given the MACD's current positioning, ETH may struggle to gain momentum unless there is a shift in market sentiment. However, this negative reading may also signal an oversold condition, setting up potential for a bounce if bullish sentiment returns.\n\nThe current Simple Moving Average (SMA) at $2,032.51 is well above the current price, pointing to a significant gap between short-term price action and longer-term trend direction. A price above this level would indicate a more robust bullish outlook, but for now, ETH is in a corrective phase, hovering below the SMA. Short-term traders should watch for either a break above the $1,950 resistance or a retreat to test the $1,934 support level before making any moves.\n\nSupport at $1,934 remains a critical level for ETH. A break below this could suggest further downside toward the next support zone near $1,900. Conversely, if ETH manages to break above the $1,950 resistance, it may retest higher levels around $2,000. Traders may consider entering long positions above $1,950 with a stop-loss just below $1,934, or alternatively, shorting if the price falls below $1,934. Risk management is key in this choppy market environment."
+    }
+  }
+}
