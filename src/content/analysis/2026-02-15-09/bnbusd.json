@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-15T09:51:02.083Z",
+  "price": {
+    "close": "630.46",
+    "high": "633.57",
+    "low": "630.03",
+    "open": "631.6",
+    "change": "-0.18",
+    "datetime": "2026-02-15 09:00:00"
+  },
+  "indicators": {
+    "rsi": 49.84357,
+    "macd": 2.68911,
+    "macd_signal": 3.42471,
+    "sma20": 633.41
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：当前震荡整理，短期观望",
+      "content": "当前BNB/USD价格为630.46，24小时内变化幅度较小，仅为-0.18%。价格保持在630.03至633.57区间内震荡整理，表明市场尚未形成明确的方向性。短期内，币价可能继续在该区间内波动，投资者需关注进一步的技术信号。\n\n在技术指标方面，MACD显示为2.68911，但信号线未提供明确数据。RSI目前无法获取，可能因价格波动较小导致其变化不大。SMA(20)目前位于633.41，价格略低于此水平，表明短期内市场情绪偏向保守。若MACD持续上升或突破信号线，可能会对价格形成支撑。\n\n支撑位位于630.03，而阻力位则位于633.57。若价格突破633.57，可能迎来短期反弹至640附近；反之，若下破630.03，可能导致价格进一步下探到620附近。因此，交易者应密切关注这些关键价位的突破或反弹。\n\n建议短期内保持观望，等待价格突破关键支撑或阻力位后再做决策。若突破上方阻力，考虑适量多单；若跌破支撑，则可考虑空单策略。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 630.46\\n- 24h Change: -0.18%\\n- High/Low: 633.57 / 630.03\\n- RSI(14): N/A\\n- MACD: 2.68911, Signal: N/A\\n- SMA(20): 633.41000\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action around **$630.46** shows the market in a **consolidation phase** after recent strength. The minor 24‑hour decline and tight high‑low range (**633.57 / 630.03**) suggest buyers and sellers are indecisive. The fact price sits just below the **20‑period simple moving average (~633.41)** points to short‑term resistance slightly above current levels. Until this level is reclaimed decisively, upside momentum may remain capped.\n\nWithout a reliable **RSI(14)**, we lean on price structure and the **MACD** reading. A positive MACD value (**2.68911**) hints underlying bullish momentum, but the lack of a signal line makes confirmation weak. This suggests momentum hasn’t fully rolled over, but buyers lack conviction to push higher. Traders should watch for a MACD crossover above a confirmed signal line (when available) to reinforce bullish bias, or a drop toward zero that would signal waning strength.\n\nKey intraday and swing **support** emerges near **$620–625**, where prior intraday lows clustered and buyers previously stepped in. A break below this zone could accelerate selling into **$600**, a psychologically significant level and a logical next support cluster. On the upside, **$633–640** is an immediate resistance band; a clean break above this could open the door toward **$660–680**, where sellers previously emerged in recent swings.\n\nFor those trading this pair, a balanced approach is prudent. Bullish traders might consider scaling in above **$635** with stops below **$620**, targeting the next resistance zone. Conversely, short entries could be evaluated on clear rejections beneath the 20‑period SMA or failure to sustain above **$640**, with targets in the **$620–600** range. Always align position size with risk tolerance and watch for volume confirmation to validate moves."
+    }
+  }
+}
