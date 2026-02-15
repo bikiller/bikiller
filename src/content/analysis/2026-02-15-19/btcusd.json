@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-15T19:05:46.609Z",
+  "price": {
+    "close": "68326.56",
+    "high": "68490",
+    "low": "68325.93",
+    "open": "68414.06",
+    "change": "-0.13",
+    "datetime": "2026-02-15 19:00:00"
+  },
+  "indicators": {
+    "rsi": 30.7576,
+    "macd": -272.074039,
+    "macd_signal": -35.97555,
+    "sma20": 69619.695
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，待突破]",
+      "content": "当前比特币价格维持在68326.56附近，整体呈现震荡整理格局。短期内价格波动较小，24小时变化仅为-0.13%。目前价格接近日内低点68325.93，尚未显现出明确的方向性突破。\n\n从技术指标来看，RSI(14)尚未更新，无法为市场超买或超卖提供参考。MACD为负值(-272.074039)，表明短期内市场存在一定的卖压，但信号线的缺失使得趋势判断不够清晰。SMA(20)在69619.695处，价格当前低于均线，暗示短期内仍可能维持震荡。\n\n支撑位位于68000附近，若跌破该位置，则可能进一步下探至67000一线。而阻力位则在69000至69500区间，突破这一区域或有机会推动价格向70000大关靠拢。\n\n综合来看，市场当前处于整理阶段，建议投资者保持观望，等待价格突破关键支撑或阻力位再作决策。对于短线交易者，可关注69000附近的阻力测试，突破时可适度考虑做多。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC/USD) is currently trading at $68,326.56, showing a slight decrease of 0.13% over the past 24 hours. The recent price action has shown some consolidation, with a high of $68,490 and a low of $68,325.93. The market is in a narrow range, indicating indecision among traders. As it hovers near the previous support level around $68,300, the price might be awaiting a catalyst for further movement. \n\nThe absence of the 14-day RSI and the unclear MACD signal makes it harder to determine whether the current market is overbought or oversold. However, the MACD value of -272.07 suggests a slight bearish bias in the short term, with price momentum potentially weakening. Without a defined trend from these indicators, price action may remain choppy. Investors should be cautious of further downside if the bearish momentum continues to dominate.\n\nThe 20-day Simple Moving Average (SMA) at $69,619.70 is a key level to watch. The price is trading below this SMA, signaling a short-term bearish outlook. If the price fails to break back above this level, it could confirm continued downward pressure. However, if BTC manages to reclaim the SMA and break above $69,700, we may see a renewed bullish trend, with resistance at $70,000 and beyond. \n\nFor traders, it is recommended to remain patient and monitor how BTC reacts around $68,300. If the support holds, a potential bounce back towards $69,700 could offer a favorable entry point. Conversely, if the price breaks below $68,300, a test of lower support levels near $67,500 could be on the horizon."
+    }
+  }
+}
