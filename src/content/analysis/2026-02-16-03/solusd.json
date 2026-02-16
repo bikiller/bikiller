@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-16T04:01:28.161Z",
+  "price": {
+    "close": "85.11",
+    "high": "85.5",
+    "low": "84.78",
+    "open": "85.35",
+    "change": "-0.28",
+    "datetime": "2026-02-16 03:00:00"
+  },
+  "indicators": {
+    "rsi": 35.21856,
+    "macd": -0.57471677,
+    "macd_signal": -0.34295843,
+    "sma20": 86.9505
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 85.11\\n- 24小时变化: -0.28%\\n- 高点/低点: 85.5 / 84.78\\n- RSI(14): N/A\\n- MACD: -0.57471677, Signal: N/A\\n- SMA(20): 86.9505\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期偏弱震荡调整\n\n当前SOL价格位于85.11附近，较20日均线86.95偏下运行，表明短期仍承压于均线下方，整体趋势偏弱震荡；价格在84.78至85.50区间来回震荡，显示多空力量暂未明显分出胜负，短线应以区间交易为主。\n\n技术指标上，MACD为负值且无明显回转迹象，显示下行动能尚存；由于缺少RSI数据，需要结合价格行为来判断超买超卖；价格未能有效突破上方阻力，短线情绪谨慎，波动性或将延续。\n\n关键支撑位首先关注84.50附近，其次下看83.20区域，若支撑失守下探概率提高；阻力位在86.50-87.00一线较为明显，突破则有望重拾上行动能；交易需关注成交量变化以确认突破有效性。\n\n交易建议上，短线可在接近支撑附近尝试轻仓逢低布局，止损设于83.80下方；若价格上破87.00，可考虑跟进多头；反之若下破84.50，则应谨慎防守或考虑短线空头策略，注意风险控制。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current price of Solana (SOL) against the US Dollar stands at $85.11, showing a slight 24-hour drop of 0.28%. Despite this minor decline, the price remains above the recent support levels, indicating a potential for stabilization. The high and low price range during the past 24 hours, from $85.5 to $84.78, suggests a consolidation phase within this narrow range. Traders may look for a breakout above $85.5 or a dip toward the $84.78 support to gauge the next movement.\n\nWith the Relative Strength Index (RSI) not available, analysis focuses on price action and the Moving Average Convergence Divergence (MACD). The MACD value at -0.5747 indicates a mild bearish sentiment, suggesting downward momentum. This negative MACD signal could imply further short-term downside pressure, especially if the price fails to break above the $86 resistance level. Given the current position, the trend seems neutral-to-bearish in the immediate term.\n\nThe 20-period Simple Moving Average (SMA) sits at $86.95, acting as a critical resistance level. This SMA also serves as a reference for potential reversals; if the price manages to break and close above this level, it could signal a shift toward bullish momentum. However, if SOL struggles to surpass the SMA, the bearish trend might gain strength, with further downside potential toward the $84.78 support level. \n\nTraders should monitor the price action around these key levels. A breakout above $86.95 could trigger buying activity, while failure to hold above the $84.78 support could suggest a deeper pullback. Risk-averse traders might consider waiting for confirmation of either a breakout or a bounce at support before entering positions."
+    }
+  }
+}
