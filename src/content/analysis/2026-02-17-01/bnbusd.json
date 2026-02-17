@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-17T01:50:28.202Z",
+  "price": {
+    "close": "627.14",
+    "high": "628.39",
+    "low": "626",
+    "open": "626.63",
+    "change": "0.08",
+    "datetime": "2026-02-17 01:00:00"
+  },
+  "indicators": {
+    "rsi": 59.84256,
+    "macd": 2.035014,
+    "macd_signal": 0.44890074,
+    "sma20": 618.9305
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 627.14\\n- 24小时变化: 0.08%\\n- 高点/低点: 628.39 / 626\\n- RSI(14): N/A\\n- MACD: 2.035014, Signal: N/A\\n- SMA(20): 618.93050\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：短线震荡偏多结构延续\n\n当前价格围绕627美元展开横盘，短期趋势保持震荡偏多。价格在SMA(20)之上略微波动，表明均线支撑有效，但动能尚不强，短线多空仍有反复可能，需关注区间突破情况以明确趋势方向。\n\n技术指标方面，MACD直线在正区，提示多头动能存在，但缺少Signal值难以确认交叉信号。若MACD持续扩散，可增强上行动力。RSI缺失限制了超买超卖判断，建议结合量能观察持续性。\n\n关键支撑位在618附近SMA(20)处，一旦回踩确认不破仍利多格局；上方阻力在630至640区间，突破后有望挑战更高区域。区间震荡特征明显，短线交易以支撑和阻力为主要参考。\n\n交易建议上，激进者可在支撑附近布局多头，止损设在615下方；保守者等待有效突破630上方再跟进。若下破618或量能骤降，则需谨慎减少仓位，避免震荡承压风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 627.14\\n- 24h Change: 0.08%\\n- High/Low: 628.39 / 626\\n- RSI(14): N/A\\n- MACD: 2.035014, Signal: N/A\\n- SMA(20): 618.93050\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action around **$627** suggests a **mildly bullish bias** within a short-term range. The latest high near **$628.39** and low at **$626** indicate tight consolidation after recent upside, with price sitting above the 20‑period simple moving average (~$618.93). Holding above this average typically favors bullish continuation, though the narrow range signals indecision. If buyers can drive a breakout above the recent high, momentum could accelerate toward the next logical resistance zone.\n\nWith limited oscillator data, the MACD reading of **2.035** (without a visible signal line) hints at underlying positive momentum relative to prior bars. In typical MACD interpretation, a positive histogram or MACD above signal supports bullish conditions, albeit incomplete here. The absence of a current RSI figure means we’re cautious about overextension; however, the lack of extreme price expansion implies the market isn’t overbought right now. Should volume surge higher with a MACD uptick, it would reinforce an upward continuation narrative.\n\nKey support levels to watch include the recent consolidation lows around **$620–$618**, aligned with the 20‑period SMA. A decisive breach below these would shift focus to stronger support near the **$600** psychological level. On the upside, immediate resistance stands at **$628–$630**, with a more meaningful barrier near **$650** where prior swing highs clustered. Failure to clear the upper resistance convincingly might reintroduce range compression or even a short‑term pullback toward support bands.\n\nFor traders, a **breakout‑and‑retest approach** could be effective: entering near support on confirmed rejections, or positioning on a breakout above key resistance with volume confirmation. Conservative traders might wait for clearer signals from momentum indicators (like a confirmed MACD crossover or RSI above 50) before committing larger position sizes. Always consider risk management with tight stops below major support to guard against whipsaws in this subtle consolidation phase."
+    }
+  }
+}
