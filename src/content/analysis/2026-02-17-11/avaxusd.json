@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-02-17T11:33:13.584Z",
+  "price": {
+    "close": "9.1146",
+    "high": "9.1266",
+    "low": "9.0724",
+    "open": "9.1018",
+    "change": "0.34",
+    "datetime": "2026-02-17 11:00:00"
+  },
+  "indicators": {
+    "rsi": 40.85516,
+    "macd": -0.034889938,
+    "macd_signal": -0.025680796,
+    "sma20": 9.19132
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 9.1146\\n- 24小时变化: 0.34%\\n- 高点/低点: 9.1266 / 9.0724\\n- RSI(14): N/A\\n- MACD: -0.034889938, Signal: N/A\\n- SMA(20): 9.19132\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短线偏弱震荡整理\n\n当前价格在9.11附近窄幅波动，整体趋势短线偏弱，价格低于20日均线（9.191），表明多头动能不足，行情仍在震荡区间内试探方向，未形成明确突破信号。\n\n技术指标上MACD处于零轴下方且无明显背离，动能柱微弱偏空，说明空头力量略占优；因缺少RSI和信号线数据，需重点观察成交量配合指标扩散情况，以确认趋势延续或反转。\n\n关键支撑位可关注前低9.07附近及更下方9.00整数关口，这些位置可能吸引短线买盘；阻力位则在20日均线周围及9.20–9.25区间，多次测试不破则形成较强压制。\n\n交易上建议短线以区间操作为主，下破支撑可考虑逢低止损；若收复并站稳9.20上方，可待回踩确认后再做多；风控上设置严格止损，避免区间震荡时被套。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "Avalanche (AVAX) is currently trading at $9.1146, showing a slight positive change of 0.34% in the last 24 hours. This modest price increase suggests that the market is in a consolidation phase, with limited volatility. The current price remains below the 20-period simple moving average (SMA) of $9.19132, signaling that short-term selling pressure may be preventing further upside. However, the relatively tight trading range between the high of $9.1266 and low of $9.0724 indicates a lack of strong directional momentum.\n\nFrom a technical perspective, AVAX's MACD is currently negative at -0.0349, which could indicate weak bearish momentum. However, the absence of a signal line for the MACD complicates any immediate interpretation of its strength or potential for reversal. Given that the price is trading below the SMA, this could be interpreted as a continuation of the prevailing downtrend unless the price successfully breaks above the SMA. Traders should closely monitor this level for any breakout above $9.19, which could signal a return to a more bullish sentiment.\n\nIn terms of support and resistance, the immediate support level is near the low of $9.0724. A drop below this level could open the door for further downside toward the next support region around $8.90. On the resistance side, the $9.19 level, where the price is currently facing resistance due to the SMA, will be a key level to watch for a potential breakout. A sustained move above this level could signal a shift toward a more bullish trend, offering trading opportunities to the upside.\n\nGiven the current market conditions and the lack of significant momentum indicators, a cautious approach is advised. Traders may consider waiting for a breakout above the SMA or a confirmation of support near the $9.07 region before entering trades. For those seeking lower-risk entry points, a pullback to the $9.07 level could offer a good buying opportunity, with a stop placed below this support zone."
+    }
+  }
+}
