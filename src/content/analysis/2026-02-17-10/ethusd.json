@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-17T10:10:08.438Z",
+  "price": {
+    "close": "1974",
+    "high": "1977.68",
+    "low": "1973.87",
+    "open": "1974.97",
+    "change": "-0.08",
+    "datetime": "2026-02-17 10:00:00"
+  },
+  "indicators": {
+    "rsi": 45.055022,
+    "macd": -2.29719,
+    "macd_signal": -1.24704,
+    "sma20": 1983.2925
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "当前以太坊价格维持在1974美元附近，24小时变化幅度仅为-0.08%，显示市场处于震荡整理状态。从价格走势来看，价格在1973.87至1977.68区间内波动，未能突破关键阻力位。短期内可能继续维持整理走势，未见强烈趋势变化。\n\nMACD值为-2.29719，显示出较弱的卖压，但由于未提供信号线数据，难以进一步确认趋势的持续性。RSI数据缺失，无法全面评估市场是否进入超卖或超买区域。20日简单移动平均(SMA)位于1983.2925，成为短期的关键阻力位，若突破此水平，可能会引发一定的上涨动力。\n\n支撑位方面，1973.87的低点提供了一定支撑，若价格回落至此位置，可能会遇到买盘支撑。若跌破此支撑，则可能进一步测试更低区域。反之，若突破1977.68的高点，则短期内可能迎来更强的上涨动能。\n\n基于当前的技术面，建议保持谨慎，优先观望价格是否突破20日SMA或关键支撑位。若价格突破1983.2925，可考虑短线多头操作，止损可设在1973.87附近。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently in a consolidating phase with a minor bearish inclination, as indicated by its slight price drop of 0.08% in the last 24 hours. The price of $1974 is near its lower range, suggesting a potential retest of recent support levels. This consolidation could be seen as an opportunity for a breakout in either direction, depending on market sentiment and external factors. In the short-term, the market appears to be lacking a clear direction, but this could change if we see a significant move in either direction.\n\nThe MACD indicator shows a negative value of -2.29719, indicating that Ethereum is currently experiencing bearish momentum. However, since the Signal line is not available, it’s difficult to determine if this move is part of a larger downtrend or a temporary pullback. Traders should be cautious of potential volatility until further confirmation, such as the crossing of key moving averages or additional MACD signal readings. The absence of RSI data also limits the assessment of whether the asset is overbought or oversold, making technical analysis more reliant on price action.\n\nKey support for Ethereum is around the $1973.87 low, which, if broken, could signal further downside towards the next level around $1950. On the other hand, resistance is near the SMA(20) at $1983.29, which will be the immediate hurdle to break for any bullish reversal. If the price manages to break and hold above this level, it could test higher resistance levels, potentially targeting $2000. Traders may want to look for price action confirmations before entering any positions.\n\nGiven the current technical environment, Ethereum is at a crossroads. A break above the $1983 level could signal a continuation to the upside, while a failure to reclaim this level could see a retest of support. Risk-averse traders might prefer to wait for a clearer trend before committing to a position. A stop-loss below $1973 would help limit downside risk if entering long positions, while short traders could look for confirmation below key support levels."
+    }
+  }
+}
