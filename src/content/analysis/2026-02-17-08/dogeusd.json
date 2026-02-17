@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-02-17T08:45:04.271Z",
+  "price": {
+    "close": "0.09915",
+    "high": "0.10003",
+    "low": "0.09915",
+    "open": "0.09973",
+    "change": "-0.57",
+    "datetime": "2026-02-17 08:00:00"
+  },
+  "indicators": {
+    "rsi": 37.53525,
+    "macd": -0.00086934602,
+    "macd_signal": -0.0009130139,
+    "sma20": 0.1003725
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：[震荡整理，短期偏空]",
+      "content": "当前狗狗币/美元(DOGE/USD)市场表现出震荡整理的走势。价格接近0.09915，全天跌幅为-0.57%，显示出短期内未能突破前期的高点0.10003。此时价格位于0.09900附近，未能显示出明显的上行势头，反映市场情绪偏弱。\n\n从技术指标来看，MACD为负值（-0.00086934602），显示出卖压较重，且未见明显的信号线交叉。虽然RSI(14)缺失，SMA(20)处于0.1003725附近，表明近期价格普遍低于20日均线，市场整体呈现空头压力。\n\n目前的支撑位在0.09900附近，若跌破此位置，可能会加剧下行压力，进一步测试0.09800和0.09750的支撑区。而上方的阻力位则位于0.10000附近，突破这一位置可能会带来反弹行情，但目前的技术面并不支持强势上涨。\n\n综合来看，DOGE/USD短期内倾向于继续整理或轻微回调。建议交易者保持观望，若价格跌破0.09900，可考虑适度做空，但需注意支撑区的有效性。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current market conditions for Dogecoin (DOGE) against the US Dollar show a slightly bearish sentiment with a minor 24-hour decline of 0.57%. The price has recently tested the low of 0.09915, indicating a range-bound movement near the lower end of its recent price action. The absence of a clear RSI value makes it difficult to assess overbought or oversold conditions, though the price action suggests consolidation. If the price fails to break above the SMA(20) at 0.10037, there may be further downward pressure in the short term.\n\nThe MACD shows a slight negative value at -0.00087, signaling that the downward momentum remains intact. Without the presence of a signal line, the MACD indicator lacks confirmation for a strong trend reversal. Traders should watch for any crossing of the MACD above zero to consider a potential bullish signal. However, the current setup indicates that the market is more likely to continue testing lower levels, especially if the price maintains its position below the 0.100 mark.\n\nIn terms of support and resistance, the immediate support level appears at the low of 0.09915, with a possible further downside to the next psychological support zone around 0.098. Resistance remains firmly at 0.10003, and a break above this level would indicate a potential recovery toward higher price zones, particularly the 0.101 area. A failure to break resistance could lead to further downside testing, reinforcing the bearish outlook.\n\nFor trading strategies, a cautious approach is recommended. Traders may want to monitor for confirmation of price rejection at the resistance or for a break below support for a continuation of the current trend. Given the lack of clear trend signals from the indicators, short-term trading should focus on range-bound opportunities, with stop-losses placed just above resistance and support levels for risk management."
+    }
+  }
+}

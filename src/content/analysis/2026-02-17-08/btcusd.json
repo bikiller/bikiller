@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-17T08:40:29.149Z",
+  "price": {
+    "close": "68156.85",
+    "high": "68445",
+    "low": "68105.5",
+    "open": "68356.01",
+    "change": "-0.29",
+    "datetime": "2026-02-17 08:00:00"
+  },
+  "indicators": {
+    "rsi": 44.45256,
+    "macd": -94.32899,
+    "macd_signal": -88.32901,
+    "sma20": 68332.8575
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中，短期维持窄幅波动]",
+      "content": "当前比特币价格维持在68156.85美元附近，近期市场呈现出震荡整理的格局。价格在68445美元的高点和68105.5美元的低点之间反复波动，表明市场暂时缺乏明确的方向。结合当前走势，短期内比特币可能会在这一区间内波动，等待更强的趋势信号。\n\n从技术指标来看，MACD呈现负值（-94.33），表明当前市场的卖压较强，但没有显示明显的强烈卖出信号。由于RSI数据缺失，无法全面评估超买或超卖情况。SMA(20)为68332.86，价格当前略低于该水平，这可能意味着短期内仍有下行压力，但并不排除反弹的可能。\n\n在支撑位方面，68105.5美元是近期的重要支撑，一旦跌破该位置，可能会进一步回撤至更低水平。上方的阻力位则位于68445美元附近，突破该点位后可能会迎来短期反弹。总体来看，当前价格处于震荡区间内，突破关键点位后才可能出现更大波动。\n\n建议短线交易者关注当前震荡区间的上下限，适时进出，避免盲目追高或杀跌。若价格突破区间高点68445美元，可考虑逢高买入；若跌破68105.5美元支撑，则可考虑适当做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price has been experiencing a subtle consolidation within a narrow range, with the latest price at $68,156.85. The 24-hour change is minimal, suggesting a market that is currently hesitant. The high and low of the day have barely fluctuated, signaling indecision among traders. This could point to either a buildup for a breakout or a continuation of the ranging pattern in the short term. Without clear upward or downward momentum, the market seems to be in a wait-and-see mode, likely awaiting more decisive market catalysts.\n\nLooking at the 20-period simple moving average (SMA), we see that Bitcoin is trading slightly below this level at $68,332.86. This suggests that the near-term trend is neutral to slightly bearish, as the price is failing to hold above the SMA. A failure to reclaim and sustain prices above this level could prompt further downside, with potential support found at $68,105.50, the recent low. A break below this level could open the door for a deeper pullback toward $67,500 or lower, though support at these levels is likely to provide a cushion.\n\nThe MACD value is currently negative at -94.33, indicating that bearish momentum is still in place. However, with no signal line provided, the MACD alone does not indicate an immediate reversal or continuation. If the MACD begins to close the gap towards zero, it could signal a shift toward a more neutral or bullish market. For now, the lack of RSI data means there's limited insight into overbought or oversold conditions, leaving the technical picture incomplete for a clear directional bias.\n\nGiven the neutral to bearish tone, traders should watch for potential breakouts from the $68,000 region. A sustained move above the 20-SMA could provide a signal for a reversal and a potential retest of recent highs near $68,450. However, with support close to $68,100, short-term traders may focus on range trading, capitalizing on small price swings within this established range. Caution is advised until a clear breakout or breakdown is confirmed."
+    }
+  }
+}
