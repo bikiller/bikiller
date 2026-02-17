@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-17T03:46:14.694Z",
+  "price": {
+    "close": "68536.89",
+    "high": "68825.67",
+    "low": "68431.72",
+    "open": "68804.13",
+    "change": "-0.39",
+    "datetime": "2026-02-17 03:00:00"
+  },
+  "indicators": {
+    "rsi": 49.11081,
+    "macd": -35.025983,
+    "macd_signal": -109.67884,
+    "sma20": 68508.8745
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期缺乏明确方向]",
+      "content": "当前比特币/美元（BTC/USD）价格处于68536.89美元附近，24小时变化为-0.39%，显示出市场在短期内的震荡整理。当前价格接近SMA(20)的68508.87，表明短期内比特币价格处于均衡区间，缺乏强势的上涨或下跌信号。\n\nMACD指标目前为-35.03，虽然数值为负，但由于Signal线数据缺失，无法得出明确的交叉信号。RSI数据也无法提供有效参考，表明市场情绪较为平稳，投资者情绪较为谨慎。此时，BTC的走势更多受外部市场因素或突发新闻影响。\n\n从技术图形来看，支撑位位于68431.72美元附近，若价格突破此点位，则可能进一步回调至较低区域。上方的阻力位为68825.67美元，若价格突破此位置，则可能迎来短期反弹。投资者应关注这些关键价位，做好止损和止盈策略。\n\n综合来看，当前市场趋势较为中性，短期内没有强烈的买入或卖出信号。建议投资者保持谨慎，等待更明确的市场突破信号后再做决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a relatively stable price action, hovering around $68,536.89, with a slight 24-hour decline of 0.39%. The market is consolidating, reflecting a neutral short-term sentiment. The price has been contained between the high of $68,825.67 and the low of $68,431.72, which suggests some range-bound trading. This indicates a lack of strong directional momentum, and traders may want to monitor for any breakout or breakdown outside this range to confirm the next significant move.\n\nThe absence of an RSI(14) and the negative MACD value of -35.025983 points to a weak bearish momentum. While the MACD line is below the signal line (though the latter isn't provided), this could suggest potential downward pressure in the near term. However, a negative MACD value doesn't necessarily mean an immediate crash; it could indicate a slow, steady decline or a trend reversal if supported by further data. Traders should watch for any signs of divergence or shift in momentum to gauge a potential change in trend.\n\nKey support for Bitcoin appears to lie at the recent low of $68,431.72, with the next critical level being just below $68,000. On the resistance side, the immediate level stands at $68,825.67, followed by the psychological $69,000 mark. A break above this resistance would suggest a continuation toward higher targets, potentially challenging previous highs. Conversely, if the price breaks below support, further downside could be tested, with $68,000 being the next area of interest.\n\nGiven the current market conditions, traders may consider employing a range-bound strategy, buying near support and selling near resistance. However, caution is advised as the lack of significant indicators like the RSI or clear trend signals means that market sentiment could shift quickly. Monitoring volume and volatility could help confirm whether Bitcoin is preparing for a breakout or continued consolidation."
+    }
+  }
+}
