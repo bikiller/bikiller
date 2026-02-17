@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-17T05:19:46.428Z",
+  "price": {
+    "close": "68258.58",
+    "high": "68474.55",
+    "low": "68242.58",
+    "open": "68440.69",
+    "change": "-0.27",
+    "datetime": "2026-02-17 05:00:00"
+  },
+  "indicators": {
+    "rsi": 45.61709,
+    "macd": -66.41751,
+    "macd_signal": -92.29343,
+    "sma20": 68454.007
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期看空]",
+      "content": "当前比特币/美元（BTC/USD）价格维持在68258.58附近，全天变动幅度较小，仅为-0.27%。价格短期内呈现震荡整理的走势，未能突破前期的高点68474.55，也未跌破低点68242.58。整体市场情绪趋于观望，缺乏强势趋势引导。\n\n技术指标上，RSI值尚不可用，但MACD为负值（-66.42），显示出市场仍处于卖压较重的状态。虽然MACD还没有形成明确的反转信号，但负值和较低的数值表明短期内市场可能持续处于下行压力中。SMA(20)目前为68454.00，价格在该均线下方波动，进一步印证了短期看空的可能性。\n\n支撑位方面，当前的低点68242.58是关键支撑，若该支撑被突破，可能会加速下行，测试更低的价格区间。上方阻力位则位于68474.55附近，若价格回升突破该阻力，可能会带来短期的反弹行情。\n\n建议投资者在当前区间内采取保守操作，避免追高，若价格下破68242.58支撑可考虑短期做空。短期内市场仍未显现明确的反转信号，观望为主。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin price stands at $68,258.58, showing a slight decline of 0.27% over the past 24 hours. Despite this minor drop, the market remains in a neutral-to-positive sentiment, with the price holding above the key support level of $68,242.58. This level acts as an immediate floor, while the recent high of $68,474.55 sets an initial resistance. A break above this resistance could trigger further upward momentum, potentially targeting the next significant resistance zone near $69,000. However, the price must maintain support to avoid further downside risk.\n\nThe absence of an RSI reading complicates direct momentum analysis, but the MACD, currently at -66.42, suggests a bearish divergence in the short term. The negative MACD indicates that there is a lack of buying pressure, and the trend could potentially lean towards further consolidation or a slight downtrend. Without a confirmed reversal signal, caution is advised for long trades. Traders should monitor whether the MACD starts to close the gap toward its signal line or moves deeper into negative territory for clearer indications of market direction.\n\nThe 20-period Simple Moving Average (SMA) at $68,454.00 serves as a dynamic resistance zone. If the price begins to test this level and fails to break above, it may signal a potential shift towards consolidation or downward movement. Traders should be alert for a price rejection near this level. Conversely, a break above the SMA would open the path for a potential retest of higher resistance levels. In either case, maintaining a cautious stance and waiting for confirmation of trend reversal would be prudent.\n\nFor short-term traders, buying at support levels with tight stop losses and selling near resistance could be a profitable strategy. However, those seeking longer-term positions may want to wait for confirmation of a trend reversal or the MACD showing signs of a bullish cross. Given the current market conditions, managing risk is essential to protect capital while looking for more favorable setups."
+    }
+  }
+}
