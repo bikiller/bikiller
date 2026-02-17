@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-17T14:14:11.277Z",
+  "price": {
+    "close": "68128.92",
+    "high": "68300",
+    "low": "68002.12",
+    "open": "68086.87",
+    "change": "0.06",
+    "datetime": "2026-02-17 14:00:00"
+  },
+  "indicators": {
+    "rsi": 45.79576,
+    "macd": -167.54985,
+    "macd_signal": -146.71892,
+    "sma20": 68327.556
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期维持横盘]",
+      "content": "当前比特币价格68128.92美元，24小时变化微幅波动0.06%，价格区间处于68000美元至68300美元之间，显示出一定的震荡整理态势。短期来看，市场缺乏明确的方向，可能会继续在该区间内整理，直到出现新的突破信号。\n\n从技术指标来看，RSI(14)值缺失，无法判断市场是否过度买入或卖出。MACD显示负值(-167.54985)，虽然信号线数据缺失，但这一负值暗示市场情绪较为谨慎，短期内可能存在下行压力。然而，MACD并未出现明显的交叉信号，因此整体看跌动力有限。\n\n在支撑和阻力方面，当前价格接近68300美元的短期阻力位，而68000美元附近则是强支撑区域。如果价格跌破68000美元，可能会进一步测试更低的支撑位。反之，突破68300美元则可能刺激价格向更高点挑战。\n\n综合来看，建议交易者保持观望，耐心等待价格突破关键支撑或阻力位后再做决策。对于激进的投资者，可以在68000美元附近尝试轻仓做多，或在68400美元附近考虑做空。但需留意市场情绪变化，及时调整策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of $68,128.92 shows a relatively stable market with a minor 24-hour change of 0.06%. The price has been consolidating within a narrow range between $68,300 and $68,002.12, suggesting indecision from market participants. A breakout above the $68,300 level could indicate bullish momentum, potentially targeting higher resistance at $69,000 or $70,000. Conversely, a break below $68,000 may lead to a retest of lower support near $67,500, opening the door to further downside risk.\n\nThe lack of a clear RSI value and the absence of a signal for MACD analysis leaves room for uncertainty. However, the negative MACD reading of -167.54985 indicates that momentum is currently bearish, albeit with no confirmed signal to suggest an immediate reversal. Traders should closely monitor the MACD for any crossover that could signal a shift in trend. Until then, the market remains in a neutral to slightly bearish stance, with a cautious approach recommended for entering long positions.\n\nThe SMA(20) of $68,327.56 serves as a key near-term support/resistance level. The price is currently below this average, which could act as resistance if a short-term rally occurs. A break above this level may pave the way for a more bullish scenario. However, the price staying below the SMA(20) may indicate a continued consolidation or slight pullback. Traders could watch for a potential bounce at $68,000 as a confirmation for long entries, while staying cautious of downward momentum if the price fails to hold this support.\n\nFor those looking to trade, a breakout above $68,300 could provide a bullish entry point, targeting $69,000 and higher. Alternatively, a failure to hold above $68,000 might warrant a short position with targets near $67,500. Risk management is critical, especially given the current lack of strong indicators, and traders should avoid aggressive positions until further confirmation of trend direction."
+    }
+  }
+}
