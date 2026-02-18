@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-18T05:21:44.250Z",
+  "price": {
+    "close": "67877.82",
+    "high": "67890",
+    "low": "67710",
+    "open": "67788.11",
+    "change": "0.13",
+    "datetime": "2026-02-18 05:00:00"
+  },
+  "indicators": {
+    "rsi": 51.78498,
+    "macd": -156.90975,
+    "macd_signal": -221.091979,
+    "sma20": 67576.4675
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，暂未突破关键区间]",
+      "content": "比特币当前价格在67877.82附近波动，24小时涨幅微弱，仅为0.13%。价格在67710到67890区间内震荡整理，未能有效突破此范围，市场情绪保持谨慎。此阶段，趋势尚不明确，需要等待价格突破区间边界才能确认更强的方向性走势。\n\n技术指标方面，MACD值为-156.90975，显示出市场存在卖压，短期内可能维持弱势整理。然而，由于Signal线数据缺失，难以进一步确认具体的买卖信号。SMA(20)均线位于67576.47，提供了一个短期支撑水平，若价格下行至此区域，则可能面临支撑反弹。\n\n目前的支撑位在67710附近，若价格跌破该水平，可能测试67500及更低的支撑区域。阻力位则在67890附近，突破该区域有可能引发价格进一步上涨，目标可能看向68000甚至更高水平。因此，关键区间突破后，将是入场的主要信号。\n\n建议目前保持观望，等待比特币价格突破67710或67890区间。若突破下行，可以考虑短期卖出操作，若上行突破，则可尝试逢低买入，关注价格是否能维持上涨趋势。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a relatively neutral short-term trend, trading at $67,877.82. The price has remained within a narrow range between the high of $67,890 and low of $67,710, indicating limited volatility in the past 24 hours. This stability might suggest a consolidation phase, with market participants awaiting a catalyst to drive the next significant price movement. The 24-hour change of 0.13% reflects this slight stagnation, highlighting the absence of any immediate bullish or bearish sentiment.\n\nFrom a technical perspective, the lack of a clear RSI (14) reading makes it difficult to gauge the strength of momentum at present. The MACD value of -156.90975 indicates some bearish pressure, though without a signal line to compare, its implications remain unclear. It's important to watch for any divergence between the price action and MACD in future sessions to assess if a potential reversal or continuation of the downtrend is in play. Traders should keep an eye on these indicators for early signs of momentum shifts.\n\nSupport levels are seen around the $67,710 mark, the recent low, where price has found some buying interest. If this level holds, a bounce back towards the SMA(20) at $67,576 could be expected, reinforcing the short-term bullish scenario. On the resistance side, the price has struggled to push above $67,890, signaling that sellers might be active in this zone. A break above this resistance could open the door to higher levels, including the $68,500 range.\n\nFor traders, a wait-and-see approach might be prudent until either a breakout above $67,890 or a further dip to test support at $67,710 occurs. A confirmation of price action, particularly in relation to the SMA and MACD, would offer more clarity on the market’s next move. In the event of a breakout, a target of $68,500 could be a viable point for profit-taking. However, caution is advised, as the market remains within a narrow range."
+    }
+  }
+}
