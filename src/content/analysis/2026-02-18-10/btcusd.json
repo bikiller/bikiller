@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-18T10:08:34.238Z",
+  "price": {
+    "close": "68070.5",
+    "high": "68126",
+    "low": "68042.4",
+    "open": "68117.59",
+    "change": "-0.07",
+    "datetime": "2026-02-18 10:00:00"
+  },
+  "indicators": {
+    "rsi": 54.49503,
+    "macd": 2.6381,
+    "macd_signal": -105.53387,
+    "sma20": 67650.83
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理中，短期可能保持横盘",
+      "content": "当前比特币/美元的价格表现为轻微下跌，24小时变化仅为-0.07%，显示出市场缺乏明确的趋势。价格在68126和68042.4之间波动，表明短期内市场情绪相对平稳，未出现显著的买盘或卖盘压力。\n\n技术指标方面，RSI(14)暂无数据，难以直接评估市场的超买或超卖情况。MACD目前为2.63810，虽然显示出一定的上涨动能，但Signal线缺失意味着短期内趋势难以确定。SMA(20)支撑位在67650.83附近，价格若回调至此，可能会遇到一定支撑。\n\n目前的关键支撑位在68040附近，而阻力位则位于68120附近。若价格突破68120，可能会进一步测试更高的水平。反之，若下行突破68040支撑，则可能会加剧市场的卖压，向下寻求更低的支撑区间。\n\n综合来看，BTC/USD短期内处于震荡整理阶段。建议交易者可考虑在支撑位附近寻找入场机会，但需密切关注价格突破关键支撑或阻力的信号，以决定是否适时调整策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market for BTC/USD is displaying a relatively stable pattern, with the price holding at 68070.5. A minor dip of -0.07% in the last 24 hours suggests consolidation rather than volatility. The recent price action is contained within a narrow range, with the high of 68126 and low of 68042.4, indicating a lack of significant momentum in either direction. This could signal indecision in the market, as buyers and sellers await clearer signals.\n\nFrom a trend perspective, Bitcoin is trading just above the 20-period simple moving average (SMA) of 67650.83, which currently acts as a dynamic support level. The price has shown the ability to hold above this level, which could suggest a potential upward bias in the near term. However, without a clear breakout above recent highs or a push below the SMA, the trend remains neutral. A close below the SMA might signal further weakness, potentially leading to a retest of lower support levels.\n\nIn terms of momentum, the MACD reading of 2.63810 is positive but lacks a corresponding signal line for further confirmation, leaving the momentum interpretation unclear. If the MACD continues to rise, this could point to increased buying pressure. However, without additional signals or a confirmed crossover, caution is advised. The Relative Strength Index (RSI) is unavailable at the moment, which limits the ability to gauge overbought or oversold conditions.\n\nFor traders, a break above 68126 could provide a short-term bullish opportunity, with the next resistance around 68300, while a drop below the 67650 SMA could suggest a bearish move, with potential targets near 67000. Until a breakout occurs, staying within this range is the most probable outcome, making it a challenging environment for aggressive trades."
+    }
+  }
+}
