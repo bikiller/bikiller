@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-18T11:26:14.160Z",
+  "price": {
+    "close": "67365.88",
+    "high": "67764.83",
+    "low": "67042.87",
+    "open": "67762.48",
+    "change": "-0.59",
+    "datetime": "2026-02-18 11:00:00"
+  },
+  "indicators": {
+    "rsi": 42.99802,
+    "macd": -54.12021,
+    "macd_signal": -99.18435,
+    "sma20": 67635.5995
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期看跌",
+      "content": "比特币当前价格为67365.88美元，略低于20日简单移动平均线67635.60美元，表明市场处于震荡整理状态。24小时内价格波动幅度较小，未出现明显的上涨或下跌趋势。整体趋势倾向于短期看跌，但市场仍存在一定的支撑。\n\n技术指标方面，MACD值为-54.12021，显示出卖压较强，尽管RSI未提供有效数据，但MACD的负值暗示市场多头力量不足。价格未能突破67635.60美元的20日SMA，显示出潜在的下行压力。\n\n在支撑位方面，当前价格附近的67042.87美元可能成为近期的支撑位。如果价格跌破该点位，可能会进一步下探至更低区域。阻力位则在67764.83美元附近，突破此水平可能会恢复一定的上行动力。\n\n综合来看，若价格持续保持在当前区间内波动，短期内的交易策略可以考虑以区间交易为主，但若跌破67042.87美元支撑，可能需要调整为观望或做空策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin price is 67,365.88, experiencing a slight decline of 0.59% in the past 24 hours. This suggests that the market is consolidating after a brief period of upward momentum. Bitcoin is trading within a tight range, with the daily high at 67,764.83 and the low at 67,042.87. Given the lack of strong directional movement, it’s crucial to monitor any breakout from this range, which could indicate the next major trend direction.\n\nThe absence of an RSI (14) reading and the relatively flat MACD at -54.12021 suggest that momentum is neutral at present. These indicators show a lack of clear strength in either the bullish or bearish direction. Without further confirmation from these indicators, traders may want to wait for more definitive signals before making large trades. A rising MACD or an RSI above 50 could signal a potential bullish trend.\n\nThe key support level for Bitcoin lies around the 67,000 mark, as seen with the recent low at 67,042.87. If this support holds, Bitcoin could potentially see a rebound towards higher resistance levels, specifically the 67,764 level. Should the price break below 67,000, further downside risk may open up, targeting the next major support around 66,500. Traders should watch for strong price action near these levels to gauge market sentiment.\n\nFor those considering trades, a cautious approach is recommended, particularly until a clear trend is established. If Bitcoin manages to reclaim levels above 67,764, the outlook could turn bullish with targets potentially reaching 68,500. Conversely, a sustained dip below 67,000 could suggest further weakness, making short-term bearish trades attractive, with targets around the 66,500 support zone."
+    }
+  }
+}
