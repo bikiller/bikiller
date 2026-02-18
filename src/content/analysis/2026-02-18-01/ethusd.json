@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-18T01:53:01.490Z",
+  "price": {
+    "close": "1977.18",
+    "high": "1983.69",
+    "low": "1968.81",
+    "open": "1982.13",
+    "change": "-0.24",
+    "datetime": "2026-02-18 01:00:00"
+  },
+  "indicators": {
+    "rsi": 47.40485,
+    "macd": 1.23073,
+    "macd_signal": 0.65456303,
+    "sma20": 1980.5535
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期观望]",
+      "content": "目前ETH/USD价格在1977.18附近，呈现震荡整理走势。短期内价格未能突破1980一线的阻力位，也未下破1968支撑，显示出市场缺乏明确方向。整体波动较小，市场情绪处于观望状态。\n\nMACD指标当前数值为1.23073，但没有提供明确的信号线数据，表明市场的动能不足。RSI(14)指标未能提供数据，但结合现有价格区间，短期内RSI很可能处于中性水平，表明没有明显的超买或超卖现象。\n\nSMA(20)线目前在1980.5535，价格接近这一水平，形成短期内的动态阻力位。支撑位位于1968.81，若价格跌破此处，可能会进一步测试下方支撑区域。反之，若突破1983.69的高点，可能会迎来短期上涨动能。\n\n建议目前采取观望态度，等待价格突破关键支撑或阻力位后再做决定。如果突破1983.69，可以考虑短期看涨；若跌破1968.81，则可以考虑做空操作。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum has shown a slight downward movement in the last 24 hours, with a minor decrease of -0.24%. The price action is currently hovering around $1977, slightly below the recent 20-period Simple Moving Average (SMA) of $1980.5535, indicating that the current price is weakly bearish in the short term. This range-bound movement between the high of $1983.69 and the low of $1968.81 suggests that Ethereum is consolidating within a narrow channel, potentially preparing for a breakout or breakdown.\n\nThe MACD reading of 1.23073 indicates that Ethereum is still in a positive momentum zone, but with no clear signal for further upward movement. The lack of an accompanying Signal line (as noted) leaves traders uncertain about immediate directional bias. For now, the MACD suggests that there is still upward pressure, but the absence of a confirmed trend means the market is still waiting for a catalyst. As the price stays below the SMA, momentum may be stalling, leading to a neutral to bearish outlook in the immediate future.\n\nKey support for Ethereum stands at the low of $1968.81, with further support around $1950. If the price breaks below this level, it may signal a deeper correction, potentially targeting the $1900 zone. On the resistance side, the $1983.69 high is a critical level to watch; a breakout above this could pave the way for a re-test of $2000. If Ethereum can sustain above the $1980 mark, it might gain bullish momentum, though confirmation of a trend change would be necessary for confidence.\n\nGiven the current market setup, a cautious approach seems prudent. Traders may consider buying if the price breaks above $1984 with confirmation, targeting $2000. Alternatively, a break below $1968 could signal a short entry, targeting the support levels at $1950 and potentially $1900. Risk management is crucial, as the market remains in a consolidation phase, with uncertainty about the next significant move."
+    }
+  }
+}
