@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-18T17:00:52.283Z",
+  "price": {
+    "close": "616.64",
+    "high": "618.56",
+    "low": "613.6",
+    "open": "618.25",
+    "change": "-0.26",
+    "datetime": "2026-02-18 16:00:00"
+  },
+  "indicators": {
+    "rsi": 48.61923,
+    "macd": -0.9520815,
+    "macd_signal": -0.75321722,
+    "sma20": 617.2995
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：震荡整理，短期区间波动",
+      "content": "当前BNB/USD价格处于616.64美元附近，24小时变化较小，仅为-0.26%，显示出市场暂时缺乏强烈的方向性。高点618.56美元和低点613.6美元表明价格正在于这个区间内震荡整理。短期内，若价格突破上方618.56美元，有望测试620美元附近的阻力位。\n\n从技术指标来看，虽然RSI(14)数据缺失，但MACD值为-0.95208150，显示出短期内卖压较大，且没有出现明显的反弹迹象。SMA(20)为617.29950，价格接近该均线，可能会成为短期支撑位。MACD依然处于负值区域，反映出市场情绪偏向谨慎，买盘力量不足。\n\n支撑位在613.6美元附近，若价格跌破该水平，可能进一步下探至610美元，甚至更低。反之，上行压力位在618.56美元和620美元之间，突破后可能会迎来进一步的上涨。投资者应关注价格是否突破这些关键点位，以判断趋势的转变。\n\n基于当前的震荡走势，建议采取观望策略，等待价格明确突破区间的上下边界后再做操作。若价格突破618.56美元，可考虑轻仓做多；若跌破613.6美元，建议做空以控制风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 616.64\\n- 24h Change: -0.26%\\n- High/Low: 618.56 / 613.6\\n- RSI(14): N/A\\n- MACD: -0.95208150, Signal: N/A\\n- SMA(20): 617.29950\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action shows a **mildly bearish undertone** over the very short term despite limited movement. The latest price around **$616.64** remains slightly below the 20‑period simple moving average (~**$617.30**), hinting at a lack of bullish conviction. The narrow intraday range (High: **$618.56**, Low: **$613.60**) reinforces consolidation, suggesting the market is indecisive. For now, the broader trend still oscillates sideways until clearer directional breaks occur.\n\nLooking at momentum, the **MACD reading at -0.952** without an available signal line complicates interpretation but generally suggests that bearish momentum has some presence. In the absence of a current RSI, we lean on price behavior and moving average placement to gauge energy. The slight dip below the SMA and negative MACD imply sellers have modest control, but the absence of steep declines also leaves room for a rebound if buying interest returns.\n\nKey levels to watch for **support** include the swing low around **$613–$610**, where short‑term bids have previously emerged. If this zone gives way, next support might cluster near **$600**, a psychologically significant mark. On the upside, **immediate resistance** sits just above the intraday high at **$618–$620**. A decisive close above **$620** could soften bearish pressure and open the door for a return toward **$630–$635**, reclaiming short‑term bullish bias.\n\nFor traders, a cautious approach is advisable. Range traders might consider entering long positions near **$610–$613** with tight stops below **$605**, targeting the **$620–$625** area. Breakout traders could wait for clear movement **above $620** with volume confirmation before committing long. Conversely, a sustained break below **$610** might offer short opportunities with targets near **$600**, always respecting risk controls and adapting to evolving volatility."
+    }
+  }
+}
