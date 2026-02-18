@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-02-18T15:39:32.573Z",
+  "price": {
+    "close": "9.0598",
+    "high": "9.0803",
+    "low": "9.018",
+    "open": "9.018",
+    "change": "0.48",
+    "datetime": "2026-02-18 15:00:00"
+  },
+  "indicators": {
+    "rsi": 45.52842,
+    "macd": -0.033044296,
+    "macd_signal": -0.028806055,
+    "sma20": 9.094125
+  },
+  "analysis": {
+    "zh": {
+      "title": "雪崩币/美元技术分析：[震荡整理，短期缺乏突破]",
+      "content": "当前AVAX/USD处于震荡整理区间，价格在9.018至9.0803之间波动。短期内，缺乏强烈的上涨或下跌趋势，市场情绪较为平稳。此时，价格接近SMA(20)的9.094125，表明该均线对短期价格有一定支撑作用。\n\nMACD当前为负值（-0.033），显示出市场情绪略偏空，但因没有信号线数据，难以精准判断短期反转的时机。RSI值缺失使得我们无法根据超买或超卖状态判断市场的过度反应，增加了技术分析的不确定性。\n\n在支撑方面，9.018构成了短期强支撑位。如果价格下行突破此支撑位，可能会向更低的区域（如8.90）测试；而阻力位则位于9.0803附近，若突破此位置，可能会试探9.10的进一步上涨空间。\n\n鉴于当前缺乏明确的趋势信号，建议投资者保持观望，等待价格突破重要支撑或阻力位后再做进一步操作。如果突破9.0803，可以考虑轻仓尝试短期反弹；反之，若跌破9.018，则可以关注下行风险。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Avalanche vs US Dollar (AVAX/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 9.0598\\n- 24h Change: 0.48%\\n- High/Low: 9.0803 / 9.018\\n- RSI(14): N/A\\n- MACD: -0.033044296, Signal: N/A\\n- SMA(20): 9.094125\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nAvalanche (AVAX) is trading near **$9.06**, slightly below the **20‑period simple moving average (SMA20) at ~$9.09**, signaling short‑term consolidation rather than clear directional bias. Price action staying under the SMA20 suggests sellers retain mild control, though the tight 24‑hour range and modest +0.48% change reflect limited momentum. Unless price decisively breaks above **$9.10–9.15**, the short‑term trend can be viewed as neutral‑to‑bearish.\n\nThe **MACD at –0.033** indicates bearish momentum still present, even if not sharply accelerating. With the MACD signal line unavailable, we infer the histogram’s negative reading highlights recent downward pressure dominating upward moves. Lack of an RSI reading complicates momentum timing, but the subdued price swing and low volatility imply market indecision. Bulls need positive divergences or increasing volume to shift momentum favorably.\n\nKey levels to watch include immediate support around **$8.98–9.00**, a zone where buyers previously defended losses. A break below this could open the door toward **$8.80–8.75**. On the upside, clearing **$9.15** with follow‑through volume would challenge resistance at **$9.25–9.30**, improving the outlook. Short‑term traders can use these areas to refine entries and exits, adjusting for volatility and overall market sentiment.\n\nFor traders, consider range‑aware approaches: long positions near confirmed support with tight stops below **$8.95–8.90** can limit risk, while breakout longs above **$9.15** may capture upside if momentum builds. Conversely, renewed weakness under support could favor short exposure targeting lower bands. Given mixed signals, balancing position sizes and watching for catalyst events (e.g., market news or on‑chain activity shifts) will help manage risk and improve execution quality."
+    }
+  }
+}
