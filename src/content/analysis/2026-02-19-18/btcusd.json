@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-19T18:08:54.848Z",
+  "price": {
+    "close": "66313.32",
+    "high": "66356.72",
+    "low": "66202.52",
+    "open": "66334.39",
+    "change": "-0.03",
+    "datetime": "2026-02-19 18:00:00"
+  },
+  "indicators": {
+    "rsi": 42.23316,
+    "macd": -217.24524,
+    "macd_signal": -205.39111,
+    "sma20": 66622.081
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，关注关键支撑和阻力位]",
+      "content": "目前，BTC/USD处于震荡整理状态，价格在66200至66400区间内波动。最新价格为66313.32，略微下跌0.03%。市场缺乏明显的趋势，价格短期内可能继续保持这种区间波动，除非突破关键支撑或阻力位。\n\n技术面来看，RSI和MACD指标目前没有给出明确的信号，表明市场短期内可能缺乏强烈的买卖动能。SMA(20)为66622.08，价格位于其下方，显示出短期内略偏空的走势。然而，若价格重新突破此均线，可能会恢复上涨趋势。\n\n支撑位在66200附近，若价格跌破此处，可能会进一步下探至66000附近，形成较强支撑。上方阻力位则位于66700-66800区间，突破此区间后，可能会迎来新的上行动能，形成多头趋势。\n\n交易建议方面，建议短线交易者关注66200的支撑位和66700的阻力位。若价格突破66700，则可考虑做多；若跌破66200，可考虑做空。同时，保持灵活的止损策略，以应对市场的波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price against the US Dollar (BTC/USD) is currently testing the lower range of its recent consolidation, hovering at $66,313.32. This slight decline of -0.03% over the past 24 hours suggests that the market is hesitant and awaiting clear direction. The price is nearing the daily low of $66,202.52, which could potentially act as a short-term support level. A breakout below this level might signal a deeper pullback toward $65,000, a region where strong demand may be observed.\n\nOn the other hand, Bitcoin’s price is approaching its 20-day simple moving average (SMA), which sits at $66,622.08. The SMA suggests a slight bearish bias in the short term, as the price is trading just below it. The moving average has recently flattened, indicating indecisiveness in the market. A decisive break above this level would likely signal a continuation toward the next resistance at $67,000, where selling pressure might intensify. \n\nIn terms of momentum indicators, the MACD shows a negative value of -217.24524, indicating bearish momentum. However, without a signal line or histogram to compare, it's hard to gauge whether this is a temporary dip or the start of a deeper decline. Traders should watch for a potential crossover or divergence for clearer signals. The absence of a robust RSI reading adds an element of uncertainty, as it usually provides critical insight into overbought or oversold conditions.\n\nGiven the current market structure, traders may want to be cautious, focusing on key levels for entry. A break below $66,200 could present an opportunity for short trades, targeting $65,000. Conversely, a push above $66,600 might be seen as a buying opportunity, with targets set toward $67,000. Risk management remains crucial, as Bitcoin's volatility could lead to sharp reversals at any time."
+    }
+  }
+}
