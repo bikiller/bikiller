@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-19T04:33:09.436Z",
+  "price": {
+    "close": "66864.43",
+    "high": "67037.28",
+    "low": "66816.01",
+    "open": "66944.98",
+    "change": "-0.12",
+    "datetime": "2026-02-19 04:00:00"
+  },
+  "indicators": {
+    "rsi": 46.78324,
+    "macd": -241.76625,
+    "macd_signal": -296.49486,
+    "sma20": 66928.9765
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前比特币价格维持在66864.43附近，呈现小幅震荡整理的走势。日内价格波动较为有限，高点67037.28和低点66816.01之间的差距不大，表明市场参与者的情绪偏向谨慎。短期内缺乏明确的趋势信号。\n\n从技术指标来看，MACD值为-241.76625，显示出一定的卖压，但没有明确的买卖交叉信号。同时，RSI值暂未提供，无法进一步判断超买或超卖的情况。SMA(20)指标位于66928.98附近，表明短期均线支撑位略低于当前价格，未能有效构成强支撑。\n\n目前，支撑位位于66800附近，若价格下破此位，可能会测试更低的支撑区域。阻力位则在67000附近，若突破该区域，可能会迎来更高的价格。整体来看，价格在窄幅区间内整理，缺乏突破的动能。\n\n建议短期内采取观望策略，避免在无明显信号的情况下进入市场。若突破关键支撑或阻力位，则可考虑适时跟进，但需保持谨慎操作，避免盲目追涨杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering just above the $66,800 level, indicating a neutral market sentiment. The slight drop of -0.12% in the last 24 hours suggests that price action is consolidating. The price has been confined within a narrow range between $66,816 and $67,037, with no clear breakout in either direction. This choppy behavior typically indicates indecision among traders, which can lead to a potential breakout or a continuation of the consolidation depending on broader market influences.\n\nThe absence of an RSI and a MACD signal makes it challenging to pinpoint overbought or oversold conditions. However, the MACD value of -241.76625 signals bearish momentum, albeit without a confirmed crossover, which means that the bearish sentiment may not be strong enough to lead to a sharp decline. Traders should be cautious about entering large positions until additional indicators or clearer signals emerge. The current trend remains flat with a slight bias to the downside due to the negative MACD.\n\nSupport is found at the lower end of the trading range, near $66,816. A break below this level could open the door for further downside toward $66,000, where additional support might hold. On the other hand, if the price breaks above $67,037, the next resistance level appears near $67,500, followed by $68,000. The SMA(20) level of $66,929 suggests that the price is currently close to neutral, adding weight to the idea that the market is in consolidation.\n\nFor now, a wait-and-see approach is advisable. Traders might consider waiting for a clear breakout above $67,037 or a dip below $66,800 for better risk-reward opportunities. A confirmation of either direction could provide more clarity for a potential move, whether it’s to take advantage of a reversal or continuation."
+    }
+  }
+}
