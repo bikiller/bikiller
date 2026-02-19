@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-19T06:16:55.172Z",
+  "price": {
+    "close": "66968.93",
+    "high": "66968.95",
+    "low": "66831.01",
+    "open": "66834.01",
+    "change": "0.19",
+    "datetime": "2026-02-19 06:00:00"
+  },
+  "indicators": {
+    "rsi": 49.26318,
+    "macd": -193.67095,
+    "macd_signal": -265.43338,
+    "sma20": 66819.1105
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[市场趋于横盘整理，短期震荡或主导]",
+      "content": "目前比特币/美元（BTC/USD）的价格稳定在66968.93附近，短期内市场表现出一定的横盘整理迹象。价格波动幅度较小，24小时变化仅为0.19%，显示出市场多空力量较为平衡。若短期没有明确的上涨或下跌动能，价格可能继续维持当前区间内震荡。\n\n技术面上，SMA(20)处在66819.11，显示出短期内价格略微偏低。MACD指标为负值（-193.67），但尚无信号线数据，暗示市场可能处于调整阶段。由于RSI(14)数据缺失，未能提供超买或超卖的有效信号，因此当前市场缺乏足够的动能来确认趋势转变。\n\n支撑位方面，66831.01附近是一个关键水平，若价格跌破此位，则可能进一步下探更低的支撑位。阻力位则在66968.95附近，突破这一价格可能带来上涨的机会。短期内，市场可能继续在这些区间内波动，投资者应关注突破的风险。\n\n对于短期交易者来说，建议保持谨慎，等待更明确的突破信号。若价格突破上方阻力位，可考虑短期做多；反之，跌破支撑位则可考虑做空。长期持有者可以继续关注整体市场趋势，调整止损以管理风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating within a narrow range, oscillating between $66,831.01 and $66,968.95. This suggests indecision among market participants as the price remains near the key level of $66,819. The price action is relatively neutral, lacking strong momentum in either direction. Without a clear breakout above the recent high or a breakdown below the low, Bitcoin is likely to continue its sideways movement unless a catalyst emerges.\n\nThe MACD is currently in negative territory at -193.67, indicating that bearish pressure persists. However, with the lack of a clear signal line crossover, it's important to stay cautious of false signals. Traders should monitor for potential divergences that might indicate a reversal or continuation. The RSI is unavailable, which limits the ability to gauge overbought or oversold conditions, but this makes technical analysis more reliant on price action and volume for signals.\n\nThe key support for Bitcoin lies around the low of $66,831. A breach of this level could signal further downside, with $66,000 being the next notable support. On the upside, the recent high of $66,969 is a resistance level that traders should watch. A break above this could lead to a retest of previous highs, possibly pushing Bitcoin toward the $67,500 zone. Watching these levels closely will be crucial for determining the next move.\n\nFor now, a range-bound strategy appears prudent. Traders may consider buying near support with tight stop-loss orders, while waiting for confirmation of a breakout before taking long positions. Alternatively, short positions can be considered only if a clear breakdown below support occurs, but caution is required given the absence of major trend indicators."
+    }
+  }
+}
