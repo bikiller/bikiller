@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-19T12:59:10.770Z",
+  "price": {
+    "close": "80.73",
+    "high": "81.27",
+    "low": "80.63",
+    "open": "81.21",
+    "change": "-0.58",
+    "datetime": "2026-02-19 12:00:00"
+  },
+  "indicators": {
+    "rsi": 35.1999,
+    "macd": -0.55310789,
+    "macd_signal": -0.58424858,
+    "sma20": 81.537
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 80.73\\n- 24小时变化: -0.58%\\n- 高点/低点: 81.27 / 80.63\\n- RSI(14): N/A\\n- MACD: -0.55310789, Signal: N/A\\n- SMA(20): 81.537\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线偏弱震荡整理\n\n目前SOL价格在80.7美元附近震荡，短线呈现偏弱走势但未明确下破主要支撑，价格在81附近承压未能有效上破。这表明买盘力量暂时不足，短期多空呈现博弈格局，整体趋势偏向震荡调整。\n\n技术指标显示，目前SMA(20)约为81.537位于当前价格上方，暗示短期均线阻力存在，价格承压回落符合均线压制。MACD负值且未见明显转正信号，显示空头动能仍存但未显著加速，RSI未提供需关注其未来变化以确认超卖。\n\n下方关注近期支撑位78.5和76.0美元区间，如跌破则可能加速下探；上方阻力集中在81.5和83.0美元附近，若能有效突破即可打开反弹空间。尤其需观察关键整数位支撑的有效性，以判断是否形成更深调整。\n\n交易上建议短线谨慎，若价格反弹至81.5附近可考虑轻仓短空，止损设于83上方；若下破78.5可逢低择机多头布局，止损设于76.5下方。中线投资者建议密切关注成交量变化与关键支撑位置的有效性再调整持仓策略。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current price of Solana (SOL) against the US Dollar is $80.73, showing a slight 24-hour decline of 0.58%. This suggests a relatively neutral market sentiment in the short term. The price is hovering just above its 20-period Simple Moving Average (SMA) of $81.537, indicating that SOL is consolidating within a tight range. A break above the SMA could signal a short-term bullish trend, while a drop below it could imply further downside potential.\n\nLooking at the high and low for the past 24 hours ($81.27 and $80.63, respectively), we can identify immediate support and resistance levels. The key support lies around the $80.60 mark, which has acted as a buffer against downward movement. If the price approaches this support, it could present a buying opportunity if the price shows signs of holding above this level. On the other hand, resistance is near $81.30, where the price has failed to break decisively above in the last 24 hours.\n\nThe MACD currently reads -0.5531, suggesting a bearish momentum as the histogram is in negative territory. This indicates that selling pressure may outweigh buying interest. However, without a signal line for comparison, it's difficult to establish the strength or reliability of the current trend. Traders should be cautious and consider waiting for further confirmation before making trades based on the MACD.\n\nIn terms of trading strategy, caution is advised due to the lack of a clear trend. Short-term traders may consider waiting for either a confirmed break above $81.30 for a potential long position or a drop below $80.60 for a short position. Longer-term traders should focus on SOL's overall market sentiment and look for a clear directional signal before committing to significant positions."
+    }
+  }
+}

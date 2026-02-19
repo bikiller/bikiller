@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-19T12:57:37.463Z",
+  "price": {
+    "close": "1948.62",
+    "high": "1955.56",
+    "low": "1945",
+    "open": "1948.8",
+    "change": "-0.04",
+    "datetime": "2026-02-19 12:00:00"
+  },
+  "indicators": {
+    "rsi": 38.73015,
+    "macd": -5.078872,
+    "macd_signal": -4.17668,
+    "sma20": 1960.7045
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "当前ETH/USD市场呈现震荡整理格局，价格在1945至1955区间波动。随着价格未能突破1955的高点，市场动能不足，短期走势可能偏弱。当前价格1948.62接近SMA(20)的1960.70，若下行突破1945支撑，可能会进一步考验1930区域。\n\nMACD指标显示当前值为-5.08，未显示明确的买入信号。RSI未提供数据，表明市场缺乏强烈的超买或超卖信号。由于MACD处于负值区域，短期内价格可能继续承压。若MACD持续走弱，可能进一步验证弱势走势。\n\n支撑位方面，1945附近为关键支撑位，一旦失守，则下行空间可能扩大至1930或1900。阻力位在1955至1960区间，若价格突破此处，将有可能反弹至更高水平。关注这些区域的突破与回调，能够为进一步操作提供信号。\n\n建议交易者在当前区间内保持谨慎。若价格接近1945支撑位并未跌破，可以考虑短线反弹操作。反之，若价格跌破支撑位，建议等待反弹至较高的阻力位再考虑做空。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum market is currently trading at $1948.62, showing a slight decline of 0.04% over the past 24 hours. The price action has remained relatively stable within a narrow range, bouncing between the high of $1955.56 and the low of $1945. This suggests that Ethereum is consolidating after recent movements, with no clear breakout in either direction. The market is holding near its 20-period Simple Moving Average (SMA) of $1960.70, indicating indecision among buyers and sellers.\n\nThe MACD is currently showing a negative value of -5.078872, suggesting bearish momentum in the short term. However, without a defined signal line, it's difficult to make a clear prediction about the trend's continuation or reversal. The Relative Strength Index (RSI) is not available at the moment, but the MACD and price action suggest a neutral to slightly bearish sentiment in the market, with no major momentum shifts expected in the immediate future.\n\nKey support is found at the $1945 level, which has held up well as a low during this consolidation period. A break below this level could lead to further declines toward the next support around $1930, where buyers might step in to support the price. On the upside, resistance is seen at $1955.56. A move above this price could indicate a possible return to higher levels, with the next resistance target around the SMA of $1960.70.\n\nFor traders, the current market environment suggests a cautious approach. A breakout above $1955.56 could be a signal to go long, targeting the $1960.70 resistance level. Conversely, a move below $1945 might prompt a short entry, with targets set around $1930. Given the market’s lack of strong momentum, a wait-and-see strategy or range trading might be the most prudent approach in this scenario."
+    }
+  }
+}
