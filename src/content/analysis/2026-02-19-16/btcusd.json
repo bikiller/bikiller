@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-19T16:46:50.646Z",
+  "price": {
+    "close": "66371.76",
+    "high": "66492.8",
+    "low": "65850",
+    "open": "66367.98",
+    "change": "0.01",
+    "datetime": "2026-02-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.67232,
+    "macd": -214.51833,
+    "macd_signal": -196.1972,
+    "sma20": 66622.105
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡，关注支撑与阻力区间]",
+      "content": "当前比特币价格处于66371.76美元，显示出短期震荡整理的格局。从技术面来看，价格略微接近20日简单移动平均线(SMA)，目前在66622.10美元附近，表明多头短期内仍占优，但缺乏强烈的上行动能。考虑到市场的高低点分别为66492.8和65850美元，震荡区间明确。\n\nMACD指标显示当前为负值(-214.52)，虽然信号线数据缺失，但负值表明卖盘压力依然存在。RSI指标暂时无法得知，但从市场的震荡特征来看，可能接近中性区域。短期内，价格在阻力位66492.8附近可能会遇到卖压，支撑位65850美元则为多头的防守线。\n\n投资者可关注这些关键价格水平，若价格跌破65850美元，可能会进一步测试较低的支撑区域。若突破66492.8美元，则有可能迎来短期的反弹走势。综合考虑，建议在震荡区间内灵活操作，适时做多做空，但要注意及时止损，规避突发市场波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin (BTC/USD) market is currently displaying a relatively neutral trend, with the price hovering around $66,371.76. The slight 24-hour change of 0.01% indicates low volatility, suggesting that the market is consolidating. This is further reflected by the proximity of the current price to the 20-period simple moving average (SMA), which stands at $66,622. A breakout above this level could trigger further bullish momentum, while a failure to maintain above it might lead to downside risk.\n\nLooking at the intraday high of $66,492.80 and low of $65,850, the market seems to be experiencing a range-bound environment. These levels can serve as key support and resistance points for short-term traders. A strong hold above $66,492 could prompt further buying interest, while a break below $65,850 would likely trigger bearish pressure, possibly testing lower support levels.\n\nIn terms of momentum indicators, the MACD shows a negative value at -214.51833, suggesting that bearish sentiment might dominate in the short term. However, without a signal line or RSI data to confirm this, the market remains indecisive. If the MACD turns positive or RSI becomes available, it could provide more clarity on potential trend shifts. A bullish crossover in the MACD could signal a reversal or continuation of an upward trend.\n\nGiven the current market conditions, traders should watch for a potential breakout above $66,492 or a dip below $65,850 for clearer direction. For those looking to enter long positions, a strong bounce off support or a move above resistance would be ideal. Conversely, short positions may be considered if the price fails to hold above key support levels. Risk management should remain a priority in such a volatile market."
+    }
+  }
+}
