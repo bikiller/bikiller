@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-19T15:30:24.028Z",
+  "price": {
+    "close": "66017.91",
+    "high": "66734.93",
+    "low": "65941.28",
+    "open": "66397.57",
+    "change": "-0.57",
+    "datetime": "2026-02-19 15:00:00"
+  },
+  "indicators": {
+    "rsi": 38.14576,
+    "macd": -244.29776,
+    "macd_signal": -197.20224,
+    "sma20": 66598.0735
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，关注关键支撑/阻力位",
+      "content": "当前比特币/美元的价格在66000美元附近震荡整理，短期内走势相对平稳。价格未能突破前高66734.93美元，且略微回落至65941.28美元附近，显示出市场存在一定的整理压力。此时，市场情绪较为谨慎，缺乏强劲的上涨动能。\n\n从技术指标来看，MACD当前显示负值（-244.29776），且未出现明显的金叉信号，表明空方力量仍占主导。RSI指标暂无数据，但在没有明显超买或超卖的情况下，市场多空力量仍在博弈。SMA(20)为66598.07，略高于当前价格，显示出短期内仍有下行风险。\n\n支撑位方面，65940美元附近可能形成较强的支撑，若价格跌破此位，可能会加剧下行压力，寻求更低的支撑区间。上行阻力位在66500美元附近，若突破此价位，可能会重新测试66730美元的前高。\n\n综合来看，当前市场呈现震荡整理格局，建议交易者关注关键的支撑和阻力水平。短期内不宜盲目追涨，建议在支撑位附近寻找低风险买入机会，同时保持对上方阻力的关注。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently facing a slight downtrend with a modest 24-hour price decrease of -0.57%. The recent high of 66734.93 and low of 65941.28 show a tight range, indicating some consolidation within this zone. The price is just below the 20-period SMA at 66598.07, which acts as a potential resistance level. If Bitcoin fails to break above this level, further downside risk is likely, and the next potential support lies near 65940. Holding above this level may maintain the current range.\n\nThe absence of an RSI reading prevents us from assessing overbought or oversold conditions, while the negative MACD value of -244.29776 signals that the momentum is bearish in the short term. However, with the MACD not crossing below any significant thresholds, we might not expect a sharp decline immediately. Traders should watch for a potential MACD crossover for clearer confirmation of a trend shift. Without a bullish signal, caution is recommended for long positions.\n\nSupport levels are found near 65940, with further downside targets at 65000 and 64000 if selling pressure intensifies. If the price breaks through 66598 and holds above it, Bitcoin could attempt to retest the previous highs. Any sustained move above this range would indicate the start of a potential bullish reversal. However, in the absence of strong upward momentum, there is a possibility of price stalling within the 66000-66500 range.\n\nIn terms of trading strategy, short-term traders may consider taking positions on minor pullbacks with the expectation of range-bound movement. Conversely, those looking for longer-term opportunities might wait for clearer confirmation of a bullish breakout above the 20-SMA or a MACD crossover into positive territory. For now, volatility remains limited, but active monitoring is crucial to adapt to sudden shifts in market sentiment."
+    }
+  }
+}
