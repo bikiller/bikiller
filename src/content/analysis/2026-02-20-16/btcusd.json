@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-20T16:33:41.725Z",
+  "price": {
+    "close": "67288.11",
+    "high": "67921.16",
+    "low": "67128.69",
+    "open": "67578.79",
+    "change": "-0.43",
+    "datetime": "2026-02-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 50.11839,
+    "macd": 103.56501,
+    "macd_signal": 157.53904,
+    "sma20": 67394.8035
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡整理，短期持平",
+      "content": "当前比特币/美元(BTC/USD)在67288.11附近震荡整理，短期内未见明显趋势变化。24小时内价格波动幅度较小，仅下跌0.43%。目前价格接近20日简单移动平均线(SMA)，67394.8035，表明市场短期内呈现横盘整理状态，缺乏强烈的买卖信号。\n\nMACD指标显示当前的值为103.56501，但信号线数据缺失，无法准确判断是否存在买入或卖出的潜在信号。RSI(14)数据未提供，因此无法从超买或超卖角度进一步分析市场情绪。整体来看，市场情绪较为中性，缺乏明确的趋势方向。\n\n支撑位方面，当前价格接近67128.69，为24小时内的低点，若突破这一点位，可能会测试更低的支撑区域。阻力位则位于67921.16，若突破该价格，可能会看到更高的上行空间。因此，建议短期内关注这些关键价位的突破，决定进一步的操作方向。\n\n在交易策略方面，建议保持观望，待价格突破重要支撑或阻力后再做进一步决策。若价格跌破支撑位，可考虑轻仓做空；若突破阻力位，可尝试做多，但要设定好止损，避免市场反转风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market currently exhibits a slight bearish sentiment, with a modest 24-hour change of -0.43%. The price is hovering near the recent low of $67,128.69, showing a consolidation phase between the highs of $67,921.16 and the lows. This range-bound movement indicates a potential for a short-term continuation pattern, but further confirmation is needed to predict the next direction. A decisive break below $67,128.69 may trigger a deeper pullback towards lower levels, while a rally above $67,921.16 could signal bullish continuation.\n\nThe absence of a detailed RSI reading makes it difficult to gauge the overbought or oversold conditions. However, the current position of Bitcoin just above the 20-period simple moving average (SMA) at $67,394.80 suggests a neutral to slight bullish bias in the short term. If the price maintains above the SMA, it could act as a support zone, providing a potential area for buyers to re-enter. Conversely, a break below this level would expose the market to further downside risk, especially with the MACD signal not yet available.\n\nSupport at $67,128.69 remains crucial in maintaining a bullish outlook. A break below this level could target $66,500, which is a significant psychological level and prior consolidation point. On the resistance side, the $67,921.16 area is key. A breakout above this could push the market towards $68,500, potentially initiating a fresh bullish wave. Traders should closely monitor the price action for signs of a breakout or breakdown, using these levels to manage risk.\n\nIn terms of trading strategy, the current range suggests a scalping or intraday trading approach could be effective. Traders may look to buy near support around $67,128.69 and target the resistance at $67,921.16, or wait for a clear breakout above this resistance for longer-term positions. Caution is advised due to the lack of clear directional indicators at this stage."
+    }
+  }
+}
