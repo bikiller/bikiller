@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-20T01:47:47.258Z",
+  "price": {
+    "close": "1955.82",
+    "high": "1961.52",
+    "low": "1954.35",
+    "open": "1957.95",
+    "change": "-0.10",
+    "datetime": "2026-02-20 01:00:00"
+  },
+  "indicators": {
+    "rsi": 51.99216,
+    "macd": -3.94144,
+    "macd_signal": -7.11372,
+    "sma20": 1948.396
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期趋弱]",
+      "content": "目前，ETH/USD在1955.82附近震荡整理，24小时小幅下跌0.10%，显示出市场情绪相对平稳。价格波动较为窄幅，未出现明显趋势性突破。短期内可能维持在当前区间内波动，缺乏强劲的上涨或下跌动能。\n\n从技术指标来看，MACD处于负值区域，且与信号线的差距较大，显示出短期卖压较重，缺乏买方力量的支撑。RSI数据缺失，无法提供额外的超买或超卖信息。SMA(20)在1948.40附近提供了短期支撑位，若价格跌破此点位，可能会进一步下探。\n\n支撑位方面，价格接近1954.35的低点附近，若此支撑有效，可能会迎来短期的反弹；若跌破此位置，下一支撑位大致在1940附近。阻力位则位于1961.52，若突破此价位，可能会出现短暂的反弹，但短期上行压力仍然较大。\n\n建议投资者在当前市场状态下保持谨慎，适合采取区间震荡策略，等待更明确的突破信号出现。同时，若价格接近支撑位，可以考虑适度进场，止损设置在1940以下，避免进一步下行风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $1955.82, with minimal movement in the past 24 hours, down by just 0.10%. The price remains tightly constrained between the daily high of $1961.52 and the low of $1954.35, suggesting a period of consolidation. The market is currently in a neutral phase, lacking strong momentum in either direction. With the price hovering close to the $1950 mark, traders are likely waiting for clearer signals to determine the next major move.\n\nThe absence of a clear RSI value complicates momentum analysis, but the MACD reading of -3.94144 indicates a slight bearish bias. This negative MACD value suggests that the bearish momentum is currently dominating the market, although the absence of the signal line data limits a comprehensive view of potential reversals. Traders should watch for any convergence between the MACD and the price to gauge shifts in market sentiment. Additionally, the lack of a defined trend might indicate that the market is awaiting news or fundamental events to drive further price action.\n\nThe 20-period Simple Moving Average (SMA) currently sits at $1948.396, providing some indication of short-term support. This level could act as a cushion if the price faces downward pressure. A break below this support may signal further declines toward $1900, where a stronger support zone could be found. On the upside, the resistance lies near the $1960 mark, with a further hurdle at $1975. Breaking above these levels would be a positive indication for bullish traders, confirming a potential price reversal.\n\nFor traders, it may be wise to monitor the price action closely around these key levels. A bounce off the $1948 SMA could present an opportunity for short-term long positions, especially if the MACD starts showing signs of bullish divergence. Conversely, a break below $1948 could signal the beginning of a downtrend, with potential targets at $1900 or lower. Given the current market conditions, a wait-and-see approach with attention to volume and momentum indicators might be prudent."
+    }
+  }
+}
