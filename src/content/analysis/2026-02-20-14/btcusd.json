@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-20T14:07:59.558Z",
+  "price": {
+    "close": "66877.48",
+    "high": "66906.24",
+    "low": "66751.63",
+    "open": "66791.43",
+    "change": "0.13",
+    "datetime": "2026-02-20 14:00:00"
+  },
+  "indicators": {
+    "rsi": 44.046533,
+    "macd": 105.38197,
+    "macd_signal": 181.3999,
+    "sma20": 67353.2215
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡整理，关注关键支撑与阻力位]",
+      "content": "当前比特币价格处于66877.48美元附近，24小时变化幅度较小，显示市场整体平稳。尽管价格略有回升，但短期内没有出现显著的趋势突破。根据现有数据，BTC/USD在短期内仍呈现震荡整理的格局。\n\n从技术指标来看，MACD指标值为105.38197，但由于缺乏信号线的参考，无法有效判断市场的动能变化。RSI值暂时不可得，这使得当前趋势分析的技术依据不足。SMA(20)为67353.22，表明市场价格偏离短期均线，这可能提示价格接近技术性的回调区域。\n\n在支撑方面，66800附近构成了近期的关键支撑位，若价格跌破此区域，可能进一步测试66750附近的强支撑。而上方的阻力位则位于67350左右，若突破此水平，价格有望进一步向68000迈进。基于目前的市场状况，交易者应保持谨慎，建议在支撑位附近寻求低风险的买入机会，而在接近阻力位时则考虑适当获利了结。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar (BTC/USD) is $66,877.48, reflecting a slight 24-hour change of +0.13%. The market shows a relatively stable performance, with a high of $66,906.24 and a low of $66,751.63 during the past 24 hours. This narrow price movement indicates consolidation within a tight range, which is often seen before either a breakout or a trend reversal. In such conditions, caution is key, as the market is likely waiting for a catalyst to push price action in a defined direction.\n\nLooking at the 20-period Simple Moving Average (SMA), Bitcoin is trading just below this key level of $67,353.22. The proximity to the SMA indicates a neutral-to-bullish sentiment in the short term, but this is contingent on the price sustaining above or breaking through the SMA. If Bitcoin fails to maintain momentum above this level, we may see further price retracement. A close below the SMA would suggest possible bearish pressure, signaling a test of lower support levels.\n\nDespite the lack of current RSI and Signal data, the MACD shows a positive value of 105.38197, which suggests some bullish momentum. However, without a clear crossover or the Signal line, it's hard to predict the strength of this momentum. The market’s next moves will largely depend on whether the price can hold above the recent lows and break through the immediate resistance near $67,500. Failure to do so might lead to a dip toward key support levels near $66,000 or lower.\n\nFor traders, a cautious approach is recommended. Watching for a breakout above the SMA or a bounce from the support levels at $66,500 to $66,000 could present opportunities for short-term gains. Conversely, a break below support would indicate a potential downtrend, with targets around $65,000. Proper risk management is essential, particularly with the market in its current consolidation phase."
+    }
+  }
+}
