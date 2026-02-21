@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-21T20:21:06.992Z",
+  "price": {
+    "close": "1987.81",
+    "high": "1988.12",
+    "low": "1986.77",
+    "open": "1988.07",
+    "change": "-0.01",
+    "datetime": "2026-02-21 20:00:00"
+  },
+  "indicators": {
+    "rsi": 62.9868,
+    "macd": 7.42542,
+    "macd_signal": 6.30175,
+    "sma20": 1975.043
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：当前震荡整理，短期偏空",
+      "content": "目前以太坊/美元（ETH/USD）价格为1987.81，短期内表现出震荡整理的走势。近期24小时的价格波动极小，只有-0.01%的变化，表明市场情绪较为谨慎，缺乏明确的方向性突破。考虑到当前价格接近SMA(20)的1975.04，可能会受到一定的支撑。\n\n技术指标方面，MACD指标为7.42542，但缺乏信号线的数据支持，暗示市场存在一定的多空博弈，但未能显现出强烈的趋势动能。RSI(14)数据缺失，无法对超买或超卖状态进行明确判断。然而，基于当前震荡态势，可以推测市场暂时没有足够的动力突破关键阻力位。\n\n从支撑/阻力位来看，1986.77和1988.12分别为近期的低点和高点，形成了一个狭窄的交易区间。突破此区间的方向将决定未来走势的进一步发展。若价格跌破1986.77支撑位，可能会引发进一步下行压力，反之突破1988.12则可能开启短期反弹。\n\n综合来看，短期内ETH/USD可能继续在1986.77至1988.12区间震荡整理。若未突破关键区间，建议保持观望，待价格出现更明显的方向性突破再做进一步操作。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently showing a relatively neutral market sentiment, with its price hovering around $1987.81, reflecting a minor 24-hour change of -0.01%. This stability suggests a lack of strong momentum in either direction, with the price having recently peaked at $1988.12 and dipped to $1986.77. The lack of significant price movement indicates consolidation, which often precedes a breakout in either direction, depending on subsequent market catalysts or news.\n\nThe absence of a clear RSI value makes it difficult to determine overbought or oversold conditions at the moment, but the MACD reading of 7.42542 suggests bullish momentum in the short term. However, the lack of a defined signal line means caution is advised when interpreting this indicator. Traders should look for confirmation with other indicators or price action before making decisions based solely on the MACD.\n\nIn terms of support and resistance, Ethereum’s immediate support lies near $1986, a level seen as a short-term low. If the price dips further, the next major support area would be around the SMA(20) of $1975.04. On the upside, the resistance near $1990 and the recent high of $1988.12 can act as barriers for price continuation. A break above these levels could suggest a potential bullish move, while failure to sustain above support levels could signal further downside.\n\nGiven the current indecisiveness in the market, a wait-and-see approach is recommended. Traders could consider buying on dips near $1986 or $1975 with tight stop losses, while those seeking short positions may look for price rejection near resistance levels. A breakout above $1990 could offer a more decisive bullish signal."
+    }
+  }
+}

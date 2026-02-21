@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-02-21T20:25:18.953Z",
+  "price": {
+    "close": "9.2567",
+    "high": "9.2654",
+    "low": "9.2537",
+    "open": "9.2635",
+    "change": "-0.08",
+    "datetime": "2026-02-21 20:00:00"
+  },
+  "indicators": {
+    "rsi": 54.75628,
+    "macd": 0.042782509,
+    "macd_signal": 0.049043477,
+    "sma20": 9.23747
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 9.2567\\n- 24小时变化: -0.08%\\n- 高点/低点: 9.2654 / 9.2537\\n- RSI(14): N/A\\n- MACD: 0.042782509, Signal: N/A\\n- SMA(20): 9.23747\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短线震荡偏多趋势\n\n当前价格围绕9.25附近微幅调整，短期趋势呈现震荡偏多格局。价格略高于20日简单均线（SMA20=9.237），表明多头尚未明显衰退，但缺乏明显上行动能，短线波动风险依然存在。\n\n从MACD指标看，差离值为0.0428处于零轴上方，多空势能略偏向多头，但因信号线数据缺失，无法确认背离或交叉。如此条件下需谨慎解读，等待更明确动量信号或成交量配合验证当前方向。\n\n支撑位初步看向9.23一线，若跌破该水平则恐引发进一步回撤至9.10附近。阻力方面首要关注9.35至9.40短线密集区，突破后有望挑战更高阻力区段，但需留意上方成交量承接情况。\n\n交易上建议短线以区间操作为主，多头可在支撑附近逐步分批建仓，止损设于有效支撑下方；激进者可待价格稳住并放量突破阻力后跟进，严控仓位风险以应对震荡波动。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "Avalanche (AVAX) has been showing a relatively stable price movement around the $9.25 mark, with a slight decline of 0.08% over the past 24 hours. The range between $9.2654 (high) and $9.2537 (low) indicates low volatility, suggesting a consolidation phase. The market sentiment seems neutral at the moment, with no significant price movement in either direction. However, the price is currently hovering just above the 20-period simple moving average (SMA), which is a key level of support.\n\nThe MACD value of 0.04278 is positive, but without the signal line for reference, it's difficult to determine a clear trend. In combination with the absence of a definitive RSI reading, the indicators aren’t offering a strong directional bias. However, the positive MACD does hint at some bullish momentum, albeit weak. Traders should be cautious, as the lack of other confirming signals makes it difficult to predict a breakout.\n\nIn terms of support and resistance, the immediate support seems to be around $9.25, with the 20-day SMA reinforcing this level. If the price falls below this mark, further downside could test the $9.20 region. On the upside, resistance appears to be just above $9.26. A break above this level could trigger further buying interest, potentially pushing the price toward $9.30 or higher. \n\nGiven the current market environment, trading strategies should focus on tight ranges and careful monitoring for any breakout or breakdown. A move above $9.26 could signal a short-term buying opportunity, while a dip below $9.25 would warrant caution and possibly signal a bearish continuation. Until more concrete indicators are formed, conservative trading and risk management are essential."
+    }
+  }
+}
