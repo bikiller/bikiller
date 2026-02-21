@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-21T03:33:47.193Z",
+  "price": {
+    "close": "67818.44",
+    "high": "67980.65",
+    "low": "67653.62",
+    "open": "67980.64",
+    "change": "-0.24",
+    "datetime": "2026-02-21 03:00:00"
+  },
+  "indicators": {
+    "rsi": 53.82683,
+    "macd": 179.3696,
+    "macd_signal": 181.8482,
+    "sma20": 67713.594
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡整理，趋势未明",
+      "content": "当前比特币/美元的价格维持在67818.44附近，24小时变化仅为-0.24%，表现出较为平稳的震荡整理状态。当前价格接近20日简单移动平均线（SMA 20: 67713.59），显示出短期内市场的平衡，但缺乏明确的趋势突破信号。\n\n从技术指标来看，MACD值为179.36960，虽然此指标呈现出一定的多头信号，但由于信号线未能显示，难以确认持续性上升的动力。RSI(14)缺失，进一步削弱了对市场超买或超卖状态的判断依据。整体来看，技术面未给出明确的买入或卖出信号。\n\n支撑位方面，当前价格接近67653.62，若跌破该点位，可能会进一步回测67500附近的支撑区域。阻力位则集中在67980.65，突破该区间可能为多头提供进一步上涨的动力。\n\n结合当前震荡整理状态，建议短期交易者保持观望，等待价格突破67650-68000区间后再做决策。对于长期投资者，可以选择在支撑位附近逐步建立多头仓位，风险较高时应适时止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently experiencing a relatively neutral market sentiment with its price hovering around $67,818.44, showing a slight 24-hour decline of -0.24%. The recent price action is constrained within a narrow range between $67,653.62 and $67,980.65, indicating that the market is currently consolidating. This sideways movement suggests indecision among traders as they await clearer signals to push the market in either direction. The prevailing trend is neutral to slightly bearish in the short term, with Bitcoin unable to establish a strong upward momentum.\n\nDespite the recent price movement, the technical indicators remain mixed. The lack of a current RSI reading complicates a detailed assessment of potential overbought or oversold conditions. However, the MACD value of 179.36960 suggests that the bullish momentum is still somewhat intact, although without a signal line to compare against, it is hard to determine its strength or potential reversal. The SMA(20) level of $67,713.59 serves as a key point of reference, indicating short-term support. If the price breaks below this level, further downside could become a reality.\n\nSupport levels are found near the recent low of $67,653.62, with additional support around $67,000, a round psychological figure. On the resistance side, the price is struggling to push beyond the high of $67,980.65, which could act as a short-term resistance barrier. A breakout above this level could lead to an attempt to reclaim the $68,500 zone, where further resistance may be found. Alternatively, failure to hold above $67,000 may trigger further price decline toward $66,500.\n\nTraders should look for a breakout above $67,980.65 or a rejection near $67,000 for trading opportunities. A confirmed break above the resistance could open the door for long positions with targets toward $68,500 and beyond. Conversely, a failure to hold above the support zone at $67,000 may suggest a bearish short-term outlook, warranting caution and potential short trades if the price starts trending lower."
+    }
+  }
+}
