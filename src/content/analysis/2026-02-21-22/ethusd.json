@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-21T22:58:26.318Z",
+  "price": {
+    "close": "1974.45",
+    "high": "1982.01",
+    "low": "1971.65",
+    "open": "1981.43",
+    "change": "-0.35",
+    "datetime": "2026-02-21 22:00:00"
+  },
+  "indicators": {
+    "rsi": 49.94933,
+    "macd": 4.9648,
+    "macd_signal": 5.82856,
+    "sma20": 1975.5675
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，观望为主]",
+      "content": "当前以太坊/美元(ETH/USD)价格为1974.45美元，最近24小时下跌0.35%。整体市场呈现震荡整理走势，价格波动在1971.65至1982.01区间内。当前价格接近SMA(20)的1975.57美元，表明短期内走势较为平稳，尚未出现明显的上涨或下跌动能。\n\n从技术指标来看，RSI(14)未提供有效数据，而MACD目前为4.96480，显示出轻微的上涨动能，但由于Signal线数据缺失，无法确定是否会持续维持这一动向。因此，短期内市场情绪较为谨慎，难以明确预示出强烈趋势。\n\n支撑位方面，1971.65美元附近有一定的支撑力度，若跌破此点位，则可能进一步回调至较低区间。阻力位则位于1982.01美元，突破此价位可能迎来进一步的上涨动能，但短期内价格仍受限于区间整理。\n\n鉴于当前市场缺乏明确的技术信号，建议保持观望，等待价格突破关键支撑或阻力位后再做进一步操作。如果价格回落至支撑位1971.65美元附近，短期内可以考虑低位买入，但不宜冒险操作。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum market is currently experiencing a slight bearish trend, with the latest price at $1974.45, reflecting a modest 0.35% decline over the past 24 hours. The price has been oscillating between $1982.01 and $1971.65, suggesting limited volatility. The current trend shows signs of consolidation, and any strong breakout either above $1982 or below $1971 could signal a shift in momentum. Traders should closely watch these levels as key thresholds for potential movement.\n\nThe absence of RSI data and the lack of a signal for MACD at this moment mean that we don’t have clear indications from these momentum oscillators. However, the MACD value of 4.96480 suggests some underlying bullish momentum, though without a confirmed crossover, its significance remains uncertain. The lack of a signal line for MACD limits its reliability, implying traders should focus on price action for more insight.\n\nThe 20-period Simple Moving Average (SMA) stands at $1975.57, right around the current price level. This SMA may act as a minor support or resistance zone depending on whether the price remains above or below it. If Ethereum can maintain its position above the SMA and push past $1982, it may test higher resistance levels. Conversely, breaking below the SMA could signal further downward pressure toward $1971.\n\nGiven the current market conditions, traders should consider a cautious approach. The price is in a narrow range, so any movement above or below key levels ($1982 or $1971) should be seen as a signal to enter trades. A sustained move below $1971 could lead to further downside, while a break above $1982 might open up opportunities for a short-term rally."
+    }
+  }
+}
