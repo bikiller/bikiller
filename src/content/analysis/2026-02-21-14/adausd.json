@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-02-21T15:01:20.996Z",
+  "price": {
+    "close": "0.283732",
+    "high": "0.285029",
+    "low": "0.282788",
+    "open": "0.283324",
+    "change": "0.11",
+    "datetime": "2026-02-21 14:00:00"
+  },
+  "indicators": {
+    "rsi": 55.59863,
+    "macd": 0.0010625258,
+    "macd_signal": 0.001382239,
+    "sma20": 0.2835664
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 艾达币/美元(ADA/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.283732\\n- 24小时变化: 0.11%\\n- 高点/低点: 0.285029 / 0.282788\\n- RSI(14): N/A\\n- MACD: 0.0010625258, Signal: N/A\\n- SMA(20): 0.28356640\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"艾达币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "艾达币/美元技术分析：价格震荡探底未明\n\n目前 ADA/USD 价格在 0.2837 附近震荡，短期趋势偏震荡偏多整理。价格紧贴 20 日简单移动平均线（SMA(20) 0.2836），表明市场短线多空力量均衡，尚未形成明确方向。价格波动极窄，短线动能不足。\n\n从技术指标看，MACD 主线为正 0.00106，但信号线数据缺失，无法确认金叉或死叉。若未来 MACD 形成金叉并放量，短线可能出现反弹；反之若走弱，则继续震荡下行。若能获得 RSI 等动量指标确认，可进一步判断超买超卖区域。\n\n支撑位方面，短线下方初步支撑在 0.2820 附近，若跌破则关注 0.2780–0.2750 区间作为中期支撑；阻力位则在高点 0.2850 及进一步的 0.2900–0.2950 区间。价格若有效突破阻力并伴随成交量放大，将增强上行信号。\n\n交易建议上，激进者可在回踩靠近支撑位时分批尝试低多，止损设在关键支撑下方；谨慎者则等待价格在突破阻力并确认有效性后再布局。短线应关注成交量和动量指标变化，避免震荡追高。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "The current price of Cardano (ADA) against the US Dollar stands at $0.283732, with a marginal 24-hour change of 0.11%. This suggests a period of relatively low volatility. The asset has fluctuated between a high of $0.285029 and a low of $0.282788 within the past 24 hours, indicating tight consolidation around the $0.2837 level. This price range is crucial in understanding the short-term market dynamics for ADA, which is seemingly caught in a narrow trading band.\n\nWithout an RSI reading available, other indicators like the SMA(20) provide useful insights into the trend. The 20-period simple moving average stands at $0.28356640, closely aligned with the current price, suggesting a neutral trend. If ADA maintains price levels near the SMA, it suggests a lack of strong directional momentum in either the bullish or bearish direction. A breakout either above $0.2850 or below $0.2827 could provide more clarity on the next move.\n\nThe MACD value at 0.0010625258 is mildly positive, but the absence of a signal line prevents a full interpretation of the momentum shift. The MACD indicator indicates slight upward momentum, but the lack of divergence from the signal line signals caution. Without further confirmation, ADA remains in a consolidation phase, where larger price action triggers (either a surge above resistance or a drop below support) will provide better trading opportunities.\n\nFor potential trades, focus on the key support at $0.2827 and resistance at $0.2850. A break above $0.2850 may signal a continuation of the upward trend, potentially testing the next resistance zone. Conversely, a break below $0.2827 could suggest a shift toward lower price targets, with $0.2800 and $0.2780 acting as potential support zones. Traders should watch for volume spikes around these levels for clearer market direction."
+    }
+  }
+}

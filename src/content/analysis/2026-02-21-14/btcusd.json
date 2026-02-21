@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-21T14:57:50.162Z",
+  "price": {
+    "close": "68420.95",
+    "high": "68608.01",
+    "low": "68161.61",
+    "open": "68238.51",
+    "change": "0.27",
+    "datetime": "2026-02-21 14:00:00"
+  },
+  "indicators": {
+    "rsi": 63.64081,
+    "macd": 198.40642,
+    "macd_signal": 170.83656,
+    "sma20": 67955.3825
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期看多",
+      "content": "当前比特币/美元（BTC/USD）市场处于震荡整理状态，价格在近期波动幅度较小。当前价格为68420.95美元，略高于20日简单移动平均线（SMA20）67955.38美元，表明短期内市场仍维持在一个相对高位的区间内。虽然24小时变化较小，但价格持续在支撑位附近震荡。\n\n从技术指标来看，MACD线值198.40642，虽然没有提供信号线数据，但当前值表明市场存在一定的上涨动能。由于RSI未提供具体数据，难以确认是否存在超买或超卖状态。整体而言，市场处于相对中性状态，没有明显的过热或过冷信号。\n\n支撑位方面，68161.61美元是近期低点，提供了较强的支撑。若价格跌破此位，则可能会进一步回调至更低的区域。另一方面，68608.01美元的高点是当前的阻力位，突破此位置可能会推动价格进一步上涨。若能维持在此区间内波动，交易者可以考虑在支撑位附近寻找入场机会。\n\n综合来看，短期内市场保持震荡整理，若价格回撤至支撑位附近，可以考虑逢低买入，目标为突破阻力位后的进一步上涨。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market currently shows a stable trend with a modest 0.27% increase over the past 24 hours. Trading within a narrow range between $68161.61 and $68608.01, BTC/USD has found short-term consolidation. The price is near the 20-period Simple Moving Average (SMA) of $67955.38, suggesting a neutral market stance. Given the absence of extreme volatility or significant directional movement, the market is in a phase of price equilibrium, making breakout strategies particularly appealing. \n\nThe Relative Strength Index (RSI) for the 14-day period is not currently available, leaving us with an incomplete view of momentum. However, the MACD reading of 198.40642 indicates potential bullish momentum if the market continues to maintain this position. A more detailed MACD analysis would help provide further clarity, but with the MACD above zero, the potential for upward movement remains. Traders should watch for any divergence between the price and the MACD line to anticipate a potential shift in market direction.\n\nKey support is identified at $68161.61, the recent low, while resistance sits just above at $68608.01. A breakout above the resistance level could lead to further upside, with the next target potentially approaching the $69000-$69500 region. Conversely, a breach below the support would indicate a possible decline, with subsequent support around the SMA(20) near $67955. Traders should remain cautious with breakout or breakdown strategies, keeping an eye on price action around these key levels.\n\nGiven the current trend and market conditions, it would be prudent to adopt a wait-and-see approach for confirmation of a directional move. Traders could consider a buy above the resistance, but only after sufficient confirmation of a breakout. Conversely, short positions may be warranted if the price falls below the support with strong volume backing the move. Patience and discipline will be key in managing risk and optimizing potential profits."
+    }
+  }
+}
