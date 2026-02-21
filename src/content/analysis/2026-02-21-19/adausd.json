@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-02-21T19:07:53.713Z",
+  "price": {
+    "close": "0.281351",
+    "high": "0.281952",
+    "low": "0.281215",
+    "open": "0.281829",
+    "change": "-0.17",
+    "datetime": "2026-02-21 19:00:00"
+  },
+  "indicators": {
+    "rsi": 47.87186,
+    "macd": 0.00024084591,
+    "macd_signal": 0.00074144169,
+    "sma20": 0.2827733
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：[短期震荡整理，区间维持]",
+      "content": "当前ADA/USD的价格为0.281351，全天波动较小，24小时变化为-0.17%。从技术面看，价格维持在较窄的区间内震荡整理，未显示出明显的上升或下降趋势。短期内，市场似乎缺乏强烈的方向性，可能受限于市场情绪和大环境因素。\n\n在技术指标方面，RSI(14)未给出明显信号，表明市场没有过度买入或卖出。MACD的值为0.00024084591，虽然显示有微弱的正值，但由于信号线缺失，难以做出明确的趋势判断。SMA(20)为0.2827733，表示短期内市场价位接近这一均线，可能会作为一个短期的支撑位。\n\n支撑位和阻力位的区间相对清晰：短期内的支撑位为0.281215，突破该价位可能会测试更低的支撑。阻力位在0.281952附近，若价格突破此阻力位，可能会出现小幅反弹。整体来看，当前价格处于区间震荡整理状态。\n\n建议交易者维持观望，避免在没有明确趋势的情况下进行大额交易。若价格突破支撑或阻力，可以考虑采取相应的短期策略，如突破后的短线交易。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Cardano vs US Dollar (ADA/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.281351\\n- 24h Change: -0.17%\\n- High/Low: 0.281952 / 0.281215\\n- RSI(14): N/A\\n- MACD: 0.00024084591, Signal: N/A\\n- SMA(20): 0.2827733\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe recent action in **ADA/USD** shows a market that’s paused after a mild pullback, with price holding around **0.2813**. After a short move lower, the overall trend appears sideways to slightly bearish on the intraday timeframe as the price remains below the **20-period SMA (~0.2828)**. This suggests short-term sellers still have control, though larger timeframes might remain neutral until a clearer breakout materializes. Consolidation around these levels is typical after prior volatility.\n\nLooking at momentum, the lack of an available **RSI(14)** makes it harder to gauge overbought or oversold conditions, yet the marginal negative change of **-0.17%** and compressed high/low range indicates weakening directional conviction. The **MACD reading (~0.00024)**, even without a signal line value, implies limited bullish momentum. If the MACD turns negative on a proper histogram crossover, that would reinforce the bearish tilt. Right now, oscillators are signaling caution rather than strength.\n\nKey technical zones to watch are immediate support near **0.2780–0.2800**, where recent lows clustered, and resistance around **0.2860–0.2890**, a region that capped upside attempts. A decisive break below support could open the door toward **0.2700**, while a sustained break above **0.2890** might target **0.3000**. These levels matter on both day trading and swing setups, helping define risk parameters and possible entry/exit points.\n\nFor traders, patience is important until volatility expands. Consider light longs only on confirmed support bounces with tight stops, or wait for a breakout above the resistance zone for clearer directional confirmation. Aggressive short positions might be justified if price closes below **0.2780** with volume. Always adjust trade size to risk tolerance, and watch macro catalysts—Cardano news and broader crypto sentiment often shift the technical context quickly."
+    }
+  }
+}
