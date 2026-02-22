@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-22T07:26:01.555Z",
+  "price": {
+    "close": "1975.97",
+    "high": "1977.31",
+    "low": "1974.2",
+    "open": "1976.18",
+    "change": "-0.01",
+    "datetime": "2026-02-22 07:00:00"
+  },
+  "indicators": {
+    "rsi": 51.60702,
+    "macd": 1.13872,
+    "macd_signal": 2.27206,
+    "sma20": 1979.1365
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理，短期看空",
+      "content": "当前以太坊/美元(ETH/USD)价格在1975.97美元附近，表现出明显的震荡整理走势。价格波动幅度较小，高点和低点分别为1977.31和1974.2美元，显示市场缺乏明确的方向性，处于区间震荡中。\n\n技术指标方面，MACD值为1.13872，表明短期内市场保持轻微的看涨动能，但缺乏明确的买入信号。RSI(14)未给出数据，因此无法用此指标进一步分析超买或超卖状态。20日简单移动平均线(SMA)显示当前价格略低于1979.14美元，暗示上行压力依旧存在。\n\n从支撑和阻力来看，当前支撑位大致在1974美元附近，而1977美元至1980美元区间则为短期阻力区域。若突破该阻力，可能会试图反弹至2000美元。但若价格跌破支撑位，可能会进一步下探至1970美元附近。\n\n建议短期内保持谨慎，建议在1974美元附近寻找买入机会，但要设置止损，避免价格进一步下行。若价格突破1979-1980美元区间，可考虑逐步建仓。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently trading at $1975.97, showing a very slight 24-hour change of -0.01%. This indicates minimal volatility in the short term, with the price hovering near recent highs and lows of $1977.31 and $1974.2 respectively. The market is exhibiting a neutral stance, as no significant bullish or bearish momentum is present. This stability suggests traders may be waiting for clearer signals before committing to stronger positions.\n\nFrom a technical perspective, the price is near its 20-period Simple Moving Average (SMA) of $1979.14, which typically suggests consolidation. The price has not deviated far from the SMA, implying that Ethereum is in a range-bound phase. The lack of an RSI reading makes it difficult to gauge overbought or oversold conditions. Similarly, the MACD is showing a positive value of 1.13872, but without the signal line, the indicator lacks confirmation for either a bullish or bearish trend. Traders should look for confirmation from other indicators before making significant decisions.\n\nKey support for ETH/USD is positioned around $1974.2, as recent lows have touched this level without a substantial break. Should the price fall below this support, the next possible level to watch would be near $1970. On the upside, resistance is seen at $1977.31, aligning with the high from the past 24 hours. A breakout above this level could signal a move towards $1980 and beyond. Without a clear direction in the current data, traders may opt for a cautious approach, using tighter stop losses or waiting for stronger trend confirmations.\n\nFor trading strategies, Ethereum’s current behavior suggests a range-bound market with limited volatility. Intraday traders may consider scalping small price movements between support and resistance levels, while more conservative traders might wait for either a breakout above $1977.31 or a breakdown below $1974.2 before taking larger positions. In the absence of significant momentum, patience and careful monitoring of price action are key to navigating the current market."
+    }
+  }
+}
