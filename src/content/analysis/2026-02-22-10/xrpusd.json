@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-02-22T11:01:03.776Z",
+  "price": {
+    "close": "1.42109",
+    "high": "1.42605",
+    "low": "1.41969",
+    "open": "1.42064",
+    "change": "0.03",
+    "datetime": "2026-02-22 10:00:00"
+  },
+  "indicators": {
+    "rsi": 42.038105,
+    "macd": -0.0036695242,
+    "macd_signal": -0.0020050975,
+    "sma20": 1.43106
+  },
+  "analysis": {
+    "zh": {
+      "title": "瑞波币/美元技术分析：当前震荡整理，短期缺乏明显趋势",
+      "content": "当前XRP/USD的价格维持在1.42109附近，处于震荡整理的状态。从技术图形来看，价格在1.42605和1.41969之间波动，显示出市场暂时缺乏强劲的上涨或下跌动力。短期内，趋势较为平稳，市场情绪偏向谨慎。\n\nMACD指标目前处于负值区间，显示出卖方略占优势。虽然MACD线值较低，但由于信号线数据缺失，未能提供进一步的交易信号。此外，SMA(20)为1.43106，价格低于该均线，暗示可能存在一定的下行压力。\n\n目前的支撑位在1.41969附近，若价格跌破该位置，可能会进一步回落至更低区域。阻力位则位于1.42605附近，突破此水平有可能刺激短期反弹。在此区间内，价格可能会持续震荡，缺乏趋势突破。\n\n考虑到市场目前的震荡态势，对于短期交易者来说，建议谨慎操作。若价格接近支撑位，可以考虑适度做多，但应设立止损以控制风险；反之，在接近阻力位时，则可考虑做空策略，亦需严格控制风险。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "The current XRP/USD market is trading at $1.42109, showing minimal change over the last 24 hours, indicating a relatively stable market. This price action suggests that there is a balance between buying and selling pressure, which often leads to consolidation. The price is just slightly below the 20-period Simple Moving Average (SMA) of $1.43106, signaling a bearish short-term trend, as the SMA acts as dynamic resistance. If this resistance holds, the price may face challenges in advancing beyond this level.\n\nThe lack of a clear RSI reading and MACD signals presents a challenge in evaluating momentum at the moment. The MACD value of -0.0037 indicates a slight bearish bias, but without the signal line for confirmation, it’s difficult to interpret with confidence. The market’s current indecision can be attributed to the absence of strong directional indicators. Traders should remain cautious, as a lack of momentum can lead to further price range-bound behavior.\n\nKey support levels lie near the recent low of $1.41969. A break below this could indicate further weakness, potentially targeting the next support zone at around $1.4000. On the other hand, resistance at $1.42605 is just above the market price, and if the price fails to break this level, the likelihood of a pullback increases. A sustained move above this resistance would signal a potential reversal, with the next resistance at the SMA of $1.43106 and potentially beyond.\n\nFor traders, a cautious approach is advised. A break below the support at $1.41969 might be a signal to enter short positions, while a move above $1.42605 could provide a better entry for long trades. Monitoring additional indicators like volume and other momentum oscillators will be crucial in refining trade entries. Risk management strategies should be employed, as the market currently shows uncertainty."
+    }
+  }
+}
