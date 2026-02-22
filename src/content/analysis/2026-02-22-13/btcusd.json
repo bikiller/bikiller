@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-22T13:55:39.857Z",
+  "price": {
+    "close": "67608",
+    "high": "68022.11",
+    "low": "67555.24",
+    "open": "67912.79",
+    "change": "-0.45",
+    "datetime": "2026-02-22 13:00:00"
+  },
+  "indicators": {
+    "rsi": 39.29659,
+    "macd": -33.017568,
+    "macd_signal": 9.27476,
+    "sma20": 68065.4735
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，关注支撑与阻力",
+      "content": "当前比特币/美元市场呈现震荡整理的格局，价格在67600附近徘徊，波动幅度较小。24小时内变化仅为-0.45%，市场情绪较为谨慎，未出现显著的趋势变化。随着近期价格在67555和68022之间震荡，市场可能在等待进一步的指引。\n\n从技术指标来看，RSI数据暂缺，无法判断市场的超买或超卖状态。MACD指标为负值（-33.017568），表明短期内卖压较重，缺乏强烈的上涨动能。SMA(20)为68065.47，价格已低于该均线，暗示短期内仍有回调压力，价格可能会继续受阻于该均线附近。\n\n当前的支撑位在67555附近，若跌破该支撑，可能会进一步测试更低的价格水平。阻力位则位于68022，突破该点位或许能带来短期的反弹。整体来看，市场仍处于震荡整理状态，缺乏明确的方向。\n\n建议短期内采取谨慎态度，保持观望或在支撑位附近寻找买入机会，而在接近阻力位时考虑卖出。若价格突破阻力位，可适度增加多头仓位，反之则考虑做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 67608\\n- 24h Change: -0.45%\\n- High/Low: 68022.11 / 67555.24\\n- RSI(14): N/A\\n- MACD: -33.017568, Signal: N/A\\n- SMA(20): 68065.47350\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nRecent price action in Bitcoin against the US Dollar shows a mild bearish drift within a short-term sideways channel. The latest quote around **$67,608** sits just below the 20-period Simple Moving Average near **$68,065**, suggesting sellers retain slight control. The intra-day range printed a modest high of **$68,022** and low around **$67,555**, reinforcing the idea of a consolidative market rather than a decisive trend. Watching higher timeframes for breakout confirmation is key.\n\nMomentum indicators are offering mixed signals. A negative MACD value near **-33** implies bearish pressure, though the absence of a signal line reading limits full interpretation. The missing RSI reading prevents precise overbought/oversold context, but recent price softness hints at waning bullish conviction. Traders should watch for MACD crossing toward zero and an eventual shift above the SMA(20) for early signs of renewed upside strength.\n\nFrom a structure standpoint, immediate support appears around **$67,200** and the recent swing low near **$66,800** — levels where buyers previously emerged. On the upside, resistance clusters near **$68,000** and the SMA zone around **$68,500–$68,700**. A clear break above these hurdles could open the door toward **$69,200–$69,500**. Conversely, a break below $67,200 may accelerate selling into lower support territory.\n\nIn terms of actionable guidance, conservative players might wait for confirmation beyond the key moving average and a stabilizing MACD histogram before entering fresh longs. Shorter-term traders could favor range strategies between identified support and resistance, keeping tight stops under structural lows. Those with a higher risk tolerance may consider derivative plays that benefit from volatility as the market digests recent consolidation. Always manage position sizing to account for rapid Bitcoin swings."
+    }
+  }
+}

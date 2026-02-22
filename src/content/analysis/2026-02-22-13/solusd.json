@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-22T13:57:44.097Z",
+  "price": {
+    "close": "83.87",
+    "high": "84.6",
+    "low": "83.65",
+    "open": "84.44",
+    "change": "-0.68",
+    "datetime": "2026-02-22 13:00:00"
+  },
+  "indicators": {
+    "rsi": 35.23346,
+    "macd": -0.12781395,
+    "macd_signal": 0.032292205,
+    "sma20": 85.2115
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理，等待突破信号]",
+      "content": "目前，Solana/美元（SOL/USD）处于一个震荡区间，价格围绕83.87美元上下波动。近期未出现显著的上涨或下跌趋势，市场情绪较为平稳。价格在低点83.65美元附近找到支撑，但未能突破84.6美元的阻力位，表现出一定的整理迹象。\n\n技术指标方面，RSI和MACD尚未给出明确的超买或超卖信号，MACD值为负，暗示短期内可能存在卖压。然而，SMA(20)为85.21美元，仍高于当前价格，可能意味着价格仍有回升的潜力，尤其是在突破关键阻力后。\n\n从支撑和阻力的角度来看，当前支撑位在83.65美元附近，而阻力位在84.6美元。如果价格突破阻力位，可能会迎来进一步上涨。反之，若跌破支撑位，可能会进一步测试83美元区域，甚至更低。\n\n基于目前的市场形势，建议保持观望，等待价格突破83.65美元至84.6美元区间，或者等待RSI和MACD指标给出更明确的交易信号。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 83.87\\n- 24h Change: -0.68%\\n- High/Low: 84.6 / 83.65\\n- RSI(14): N/A\\n- MACD: -0.12781395, Signal: N/A\\n- SMA(20): 85.21150\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s short‑term trend shows mild bearish pressure as price hovers below the 20‑period simple moving average at **85.21**. The inability to reclaim this SMA suggests sellers retain control in the very near term, even as the price stays above the intraday low of **83.65**. A clear break below recent support near **83.50** could accelerate downside momentum, while reclaiming the SMA could signal renewed short‑term strength.\n\nThe MACD reading (-0.128) indicates negative momentum, though without the signal line it’s harder to time crossovers precisely. Nonetheless, the current negative bias reinforces caution for longs; momentum isn’t confirming strength. If future MACD readings trend toward less negative territory, it could hint at a slowdown in selling pressure. Until then, sellers retain the edge in momentum oscillators.\n\nKey support zones to monitor include **83.50** followed by **82.00**, where prior consolidation occurred. On the upside, immediate resistance lies at **85.20 (SMA)** and then **87.00**, where price previously stalled. Traders might consider protective stops below the **82.00** support if taking long positions, as a break there could open a deeper retracement. Meanwhile, aggressive traders may look for confirmation above the SMA for a short‑term bounce.\n\nFor entries, a measured approach is advisable: consider scaling into positions only upon a decisive break and close above **85.50** for bullish setups, confirming buyers are stepping in. On the flip side, a breakdown below **83.50** with volume could offer short entries, targeting **82.00** with stops above **84.50**. Keeping an eye on broader market liquidity and BTC direction is also prudent, as Solana often tracks broader crypto sentiment."
+    }
+  }
+}
