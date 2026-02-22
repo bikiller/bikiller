@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-22T19:05:08.209Z",
+  "price": {
+    "close": "67444.76",
+    "high": "67450",
+    "low": "67392.53",
+    "open": "67392.53",
+    "change": "0.08",
+    "datetime": "2026-02-22 19:00:00"
+  },
+  "indicators": {
+    "rsi": 39.61096,
+    "macd": -156.96194,
+    "macd_signal": -90.77273,
+    "sma20": 67833.1565
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前比特币/美元（BTC/USD）价格在67444.76附近，24小时内变化较小，仅为0.08%。市场表现出一定的震荡整理态势，价格在67392.53和67450之间波动，显示出短期内缺乏明确的方向性。尽管当前无RSI数据，但MACD为负值，暗示市场可能处于较弱的状态。\n\n在技术指标方面，MACD指标的负值（-156.96）表明卖方仍占主导地位，而20日简单移动平均线（SMA）位于67833.16，价格目前低于该均线，进一步确认了短期内的下行压力。没有明显的超买或超卖信号，市场依然需要更多的价格行动来确认下一步走势。\n\n支撑位方面，67392.53是近期的低点，有可能为当前的强支撑区域。一旦价格跌破该位置，可能会继续走低。至于阻力位，靠近67833的SMA位置，如果价格突破这一点，可能会带动上涨至更高的区域，测试新的阻力位。\n\n建议投资者保持观望，密切关注价格是否突破当前区间。如果价格突破67450上方的阻力，可以考虑轻仓多单；反之，跌破67392.53支撑位时，可考虑适度空单。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD market is currently in a narrow range, with the price oscillating between 67392.53 and 67450. The minor 24-hour change of 0.08% suggests indecision among traders, signaling a potential consolidation phase. Without a clear breakout in either direction, it's essential to monitor key support and resistance levels. Support is seen around the 67392 area, while resistance is at 67833, near the SMA(20). A break above or below these levels could provide more clarity on the short-term trend.\n\nThe absence of a significant RSI reading makes it harder to gauge momentum from an overbought or oversold perspective. However, the MACD value at -156.96194 is currently negative, indicating bearish sentiment in the market. This negative MACD might suggest that the current trend could be weak or potentially leaning towards further downside, especially if the price continues to stay below the SMA(20) level. The lack of a clear signal further complicates predicting any immediate reversal.\n\nWith the price near the SMA(20) level, it's important to monitor price action closely. If the price crosses above 67833, it could lead to a short-term bullish move. Conversely, a drop below the 67392 support could indicate a deeper pullback, potentially targeting the 67000 or even lower. These levels should be watched as breakout points for determining the next market direction. Traders should be cautious of sudden volatility and consider using stop-loss orders.\n\nIn conclusion, Bitcoin appears to be in a consolidation phase, and the lack of strong indicators leaves room for uncertainty. A breakout above or below the established range could signal the next move, so it's advisable to stay agile and monitor the market closely for any major shifts in momentum or price action. Patience is key in such a market environment."
+    }
+  }
+}
