@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-22T09:50:15.744Z",
+  "price": {
+    "close": "1976.18",
+    "high": "1976.24",
+    "low": "1971.87",
+    "open": "1973.66",
+    "change": "0.13",
+    "datetime": "2026-02-22 09:00:00"
+  },
+  "indicators": {
+    "rsi": 51.78559,
+    "macd": 0.90114534,
+    "macd_signal": 1.78696,
+    "sma20": 1978.899
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线震荡偏弱整理格局",
+      "content": "当前价格1976.18，24小时波动极窄，高低点仅小幅拉开，显示短线交投清淡。价格略低于SMA20（1978.899），均线形成压制，整体呈现震荡偏弱格局，多空力量暂处均衡但偏空。\n\nMACD柱值为0.901，处于零轴上方但动能有限，说明多头仍有一定惯性，却未形成有效放量。RSI数据缺失，短期超买超卖难以确认，结合价格贴近均线判断，市场更倾向技术性整理而非趋势行情。\n\n下方关注1970一线作为首个短期支撑，若跌破或回测1965区域；上方阻力集中在1980及1985附近，若放量突破并站稳SMA20，则有望打开至1995区域的反弹空间。\n\n操作上建议以区间思路为主，靠近支撑轻仓试多，接近阻力高抛，严格设置止损控制风险。若有效放量突破1985，可顺势跟进短多；若跌破1970，则应转为防守策略。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum price is currently showing minor fluctuations with a slight 24-hour change of +0.13%. At a price of 1976.18, ETH/USD is approaching a neutral territory, as indicated by its minimal price movement in the last 24 hours. The recent high of 1976.24 and low of 1971.87 suggest that the market is consolidating within this narrow range. Without significant momentum, Ethereum could be facing indecisiveness, making it vulnerable to a breakout or reversal depending on market sentiment.\n\nThe absence of an RSI value limits the ability to analyze the overbought or oversold conditions. However, the MACD value of 0.90114534 indicates that the momentum is positive but lacks strong buying pressure. Without the Signal line data, the MACD cannot provide clear directional guidance at the moment, so it’s important to monitor further developments for a potential crossover. The SMA(20) at 1978.899 is near the current price, signaling a neutral short-term trend with no immediate bullish or bearish signal. \n\nSupport is found at 1971.87, with a key resistance level close to 1978. A breakout above 1978 could push ETH towards a retest of the recent highs or higher levels. Conversely, if the price falls below 1971, Ethereum might face further downside risk, potentially targeting the next support around 1950. Traders should stay cautious, monitoring for a clear break from the current range. A breakout may signal an entry point, while a failure to maintain support could suggest a sell signal.\n\nConsidering the overall market conditions, it would be prudent to adopt a wait-and-see approach. Look for signs of momentum shift, either through MACD crossovers or price action breaching the support/resistance zones. A breakout above 1978 could be a signal to buy, while a drop below 1971 would signal potential downside movement. Proper risk management should be applied, given the uncertainty surrounding the current market."
+    }
+  }
+}
