@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-22T17:47:23.071Z",
+  "price": {
+    "close": "1939.97",
+    "high": "1953.7",
+    "low": "1935.17",
+    "open": "1953.06",
+    "change": "-0.64",
+    "datetime": "2026-02-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 28.65674,
+    "macd": -6.34196,
+    "macd_signal": -2.56322,
+    "sma20": 1968.3425
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：当前震荡走势，短期偏空",
+      "content": "当前以太坊/美元价格在1939.97附近，全天变动较小，跌幅约为0.64%。从技术面来看，价格在1953.7与1935.17之间震荡，形成了一定的区间波动。短期内市场情绪相对谨慎，未能突破关键价位，因此呈现震荡整理的走势。\n\nMACD指标当前为负值，表明市场略微偏向空头方向，且未见到明显的反弹信号。RSI（相对强弱指数）数据暂缺，但MACD的负值可为价格走势提供一定的弱势支持，短期内可能会继续小幅回调。SMA(20)指标显示当前价格低于短期均线，暗示价格的上行压力较大。\n\n技术支撑位在1935.17，若价格跌破此点位，可能会继续向下寻找支撑，尤其是1830附近的强支撑位。阻力位则位于1953.7，若突破该水平，则有望出现一波反弹，触及2000关口。当前区间震荡可考虑低位布局短线空单。\n\n建议短期内保持谨慎，若价格进一步回落至支撑区，可以适度尝试做空操作，止损位设置在1955上方。同时，需关注MACD和价格波动变化，确保及时调整策略。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $1939.97, reflecting a slight 0.64% decline in the past 24 hours. The price has been fluctuating between the recent high of $1953.7 and the low of $1935.17, suggesting a tight range in the short term. This price action indicates market consolidation, with the bulls and bears in a near equilibrium. A breakout above $1953 could indicate a continuation toward the next resistance level at $1970, while a drop below $1935 may lead to a retest of $1900.\n\nThe MACD value at -6.34 signals bearish momentum, though without a clear signal line, the strength and sustainability of this momentum remain uncertain. With the absence of RSI data, it's challenging to determine overbought or oversold conditions. Traders should stay cautious, as the MACD indicates potential for further downside pressure. A cross above the MACD line could shift sentiment, but until then, the trend remains neutral to slightly bearish.\n\nThe 20-period simple moving average (SMA) sits at $1968.34, slightly above the current market price. This could act as immediate resistance, and price action suggests that Ethereum may struggle to break above this level in the short term. Traders should observe the price's behavior around this moving average. If the price starts trending higher and crosses above the SMA, it may confirm bullish momentum, but failing to surpass it could reinforce the bearish sentiment.\n\nIn terms of support and resistance, $1935 and $1900 serve as crucial support levels. A break below these levels could lead to more significant downside risk. Conversely, resistance is located around $1953, with the $1970 level acting as a more distant hurdle. For a short-term strategy, traders might consider shorting near resistance or waiting for a confirmed breakout to the upside."
+    }
+  }
+}
