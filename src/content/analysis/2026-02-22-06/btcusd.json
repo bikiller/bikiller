@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-22T06:06:57.957Z",
+  "price": {
+    "close": "68014.03",
+    "high": "68014.57",
+    "low": "67942.97",
+    "open": "67958.83",
+    "change": "0.08",
+    "datetime": "2026-02-22 06:00:00"
+  },
+  "indicators": {
+    "rsi": 49.2681,
+    "macd": 9.35811,
+    "macd_signal": 64.20506,
+    "sma20": 68187.7815
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，谨慎观望]",
+      "content": "当前比特币/美元价格保持在68000美元附近，市场呈现出震荡整理的格局。价格在高点68014.57和低点67942.97之间波动，显示出短期内缺乏明确的上涨或下跌动能。此时，投资者应谨慎对待市场情绪的变化。\n\n从技术指标来看，当前MACD为9.35811，尽管MACD值处于正区间，但Signal数据缺失，缺乏进一步的确认信号。而RSI(14)未提供，可能表明市场尚未达到超买或超卖的极端情况。SMA(20)略低于当前价格，显示出短期内的支撑水平。\n\n支撑位方面，67942.97附近可能是较强的支撑区，如果价格跌破该水平，可能会进一步回调至更低价位。阻力位则在68014.57，突破此阻力可能引发短期的上行趋势。市场需关注这些关键价格区间。\n\n综合来看，当前市场处于震荡阶段，建议投资者可以保持观望，等待价格突破关键支撑或阻力位后再做决策。风险控制和耐心等待更明确的趋势信号是当前的关键。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $68,014.03, reflecting a modest 24-hour change of 0.08%. This slight fluctuation suggests a consolidation phase after recent volatility. The price has formed a narrow range between a high of $68,014.57 and a low of $67,942.97. Observing this price action, traders should remain cautious, as the market may be preparing for a breakout either upward or downward.\n\nFrom a trend analysis perspective, the absence of significant movement indicates that Bitcoin is currently experiencing a short-term consolidation phase. The price is trading below the 20-day Simple Moving Average (SMA) of $68,187.78, which may act as a dynamic resistance level. If the price can break above this SMA, it could signal a bullish momentum, whereas failure to surpass this level might lead to further declines and test lower support levels.\n\nWhen examining the RSI and MACD indicators, the current state lacks full data for a comprehensive assessment. However, the MACD reading of 9.35811 suggests positive momentum, albeit with caution due to the lack of a signal line for context. Traders should keep an eye on these indicators for signs of divergence or convergence as they could provide critical insights into potential reversals or continuations of the current trend.\n\nIn terms of support and resistance levels, immediate support appears to be at the recent low of $67,942.97, while resistance is identified at the SMA of $68,187.78. A breakout above the resistance could provide an entry point for long positions, targeting the next resistance around $69,000. Conversely, a breakdown below $67,942.97 may prompt a reevaluation of long positions, with a potential target towards $67,500 as the next support level."
+    }
+  }
+}
