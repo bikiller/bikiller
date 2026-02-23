@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-23T15:30:44.562Z",
+  "price": {
+    "close": "65727.41",
+    "high": "66231.81",
+    "low": "65677.61",
+    "open": "65906.97",
+    "change": "-0.27",
+    "datetime": "2026-02-23 15:00:00"
+  },
+  "indicators": {
+    "rsi": 40.6353,
+    "macd": -352.50398,
+    "macd_signal": -436.35675,
+    "sma20": 66060.8585
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理中，短期关注关键支撑与阻力",
+      "content": "当前，比特币/美元处于震荡整理阶段。价格在65677.61和66231.81之间波动，表明市场处于观望状态。短期内，若价格突破66231.81，可能出现进一步上涨；若跌破65677.61，则有可能向下测试更低的支撑位。\n\n技术指标方面，MACD值为负值（-352.50398），显示出市场的卖压，但信号线尚未确认，表明短期内可能缺乏明确的方向。RSI（14）暂时无法提供数据，SMA(20)为66060.86，显示出短期内的平稳走势。\n\n支撑位在65677.61附近，若价格回落至此区域，可能会得到买盘支撑。阻力位则位于66231.81，若突破该价位，可能会吸引更多的买盘。建议投资者在支撑位附近考虑进场，止损位设在65600以下，突破阻力时则可考虑顺势做多。\n\n总的来说，比特币在当前区间内震荡整理，市场情绪谨慎。短期内需关注关键价位的突破，结合技术指标适时调整策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $65,727.41, showing a slight decrease of 0.27% over the past 24 hours. The market is experiencing some consolidation with a high of $66,231.81 and a low of $65,677.61. This range-bound movement suggests a lack of clear directional momentum. The price remains just below the 20-period simple moving average (SMA) of $66,060, which acts as a mild resistance level. A break above this level could trigger further bullish momentum towards higher levels, while failure to break it may result in further consolidation or a minor pullback.\n\nLooking at the current technical indicators, the MACD is negative at -352.50, indicating potential bearish momentum. However, with no clear signal value, it's difficult to predict the strength of this move. The absence of a significant RSI reading leaves a gap in momentum assessment, which makes it harder to gauge overbought or oversold conditions. Given the current MACD signal, traders should be cautious of any sudden shifts in market direction and consider waiting for more confirmation before making strong directional bets.\n\nSupport levels can be found around $65,677.61, which aligns with recent lows, providing a potential entry point for buyers looking to capitalize on any upward reversal. If Bitcoin fails to hold above this level, a deeper pullback towards the $64,500-$64,000 range could be in play. On the resistance side, the price needs to breach the $66,230 area to open the path towards $67,500 or higher. A breakout beyond these levels could trigger further bullish behavior, especially if accompanied by strong volume.\n\nConsidering the current market structure, a wait-and-see approach is recommended. Traders should look for a clear breakout above the $66,230 resistance or a solid rejection at this level to gauge the next direction. Risk management is key, as the market shows mixed signals, and being cautious around current levels is prudent for avoiding large swings."
+    }
+  }
+}
