@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-23T12:58:27.105Z",
+  "price": {
+    "close": "80.67",
+    "high": "80.96",
+    "low": "79.85",
+    "open": "80.04",
+    "change": "0.79",
+    "datetime": "2026-02-23 12:00:00"
+  },
+  "indicators": {
+    "rsi": 46.88772,
+    "macd": -1.051135,
+    "macd_signal": -1.31087,
+    "sma20": 80.5455
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 80.67\\n- 24小时变化: 0.79%\\n- 高点/低点: 80.96 / 79.85\\n- RSI(14): N/A\\n- MACD: -1.051135, Signal: N/A\\n- SMA(20): 80.54550\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏多但动量不足\n\n当前SOL价格围绕80美元水平震荡，短期趋势呈区间波动。价格略高于20日SMA(80.545)，显示多头仍有支撑，但上涨动能不强，需关注能否有效站稳80.80上方以确认短线上行意图。\n\nMACD为负且未见明显金叉信号，表明趋势动量偏弱，震荡整理为主。若出现MACD柱缩短并伴随价格上攻，则预示空头动能衰竭；RSI数据缺失但从价格表现看，多空力量较为均衡，短期偏向区间。\n\n关键支撑位在79.50-79.80附近，若跌破则下探78.20区域可能性增大；阻力位在81.50、82.30一线，突破后有望挑战83.50。上述水平区间可作为交易参考节点。\n\n建议短线交易者在支撑位附近逢低布局，同时严格设置止损以控制风险；激进者可待价格突破阻力并伴随量能放大再追多。中长线投资者则可关注基本面配合技术验证趋势方向。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 80.67\\n- 24h Change: 0.79%\\n- High/Low: 80.96 / 79.85\\n- RSI(14): N/A\\n- MACD: -1.051135, Signal: N/A\\n- SMA(20): 80.54550\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSOL/USD’s price action around **$80.67** shows the market hovering just above the short‑term 20‑period simple moving average (SMA(20) ~ 80.55), suggesting a **neutral near‑term trend** with a slight bullish bias due to the modest up‑move over the past 24 hours. While the MACD reading of **–1.051** indicates bearish momentum persisting on momentum oscillators, the lack of a signal line value limits a full MACD interpretation. Still, prices trading above the SMA imply buyers are defending this level before a clearer directional move unfolds.\n\nIn context of broader technical levels, classical pivot analysis places immediate **resistance near ~$82.9–$86.5**, with more significant upside ceilings around **$88.8** if the rally gains traction. On the downside, short‑term support clusters appear around **$77.0** and **$74.8**, with a deeper floor near **$71.1** acting as a psychological buffer zone in sell‑offs. These levels can serve as logical zones for trimming risk or setting protective stops while gauging breakout validity. The proximity between the current price and nearby resistance hints at limited room for immediate upside without confirming strength above this band. \n\nTrend indicators such as RSI (not currently available) and MACD (negative value) lean toward **cautious engagement**, implying momentum is not fully aligned withart your research on Solana with a general overview of SOL's fundamental and technical analysis data.\n\n\nTrend indicators such as RSI (not currently available) and MACD (negative value) lean toward **cautious engagement**, implying momentum is not fully aligned with a strong bullish charge. In such conditions, the market could be range‑bound until eitherers absorb resistance above **~$86** or sellers push back toward the **support zone**. If a downtrend intensifies, losing the **$77** support convincingly might accelerate bearish sentiment and open the door to testing lower supports beneath $70.\n\nFor traders, a balanced approach might involve **entering long on confirmed closes above the immediate resistance** with a target toward the next supply zone, while **risking off near the established support levels**. Conservative entries could await a breakout accompanied by volume to validate momentum, whereas short positions may consider pressure near resistance with tight risk controls. Always align position size and stop levels to account for the typically higher volatility of crypto markets."
+    }
+  }
+}
