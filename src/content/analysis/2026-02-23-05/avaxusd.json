@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-02-23T05:28:57.873Z",
+  "price": {
+    "close": "8.4192",
+    "high": "8.4395",
+    "low": "8.3669",
+    "open": "8.3669",
+    "change": "0.60",
+    "datetime": "2026-02-23 05:00:00"
+  },
+  "indicators": {
+    "rsi": 25.65535,
+    "macd": -0.16351213,
+    "macd_signal": -0.12251909,
+    "sma20": 8.75755
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 8.4192\\n- 24小时变化: 0.60%\\n- 高点/低点: 8.4395 / 8.3669\\n- RSI(14): N/A\\n- MACD: -0.16351213, Signal: N/A\\n- SMA(20): 8.75755\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短期偏弱震荡整理\n\n当前价格位于短期SMA(20)下方，表明多头动能不足，整体趋势偏弱震荡整理。价格在8.36~8.44区间来回震荡，短线缺乏明显方向性，空头压力依旧存在，但未出现大幅下破，反映短期多空力量较为胶着。\n\n技术指标MACD处于负值区域，虽未提供Signal线但暗示动能偏弱，价格未能形成明显背离，说明下行动能尚未彻底释放。而RSI缺失限制了对超买超卖状况的判断，需结合成交量和价格行为进一步观察。\n\n支撑位初步关注近期低点8.36~8.35，其下若失守则可能进一步测试8.20附近较强承接区域。阻力位则在8.76短期均线附近以及9.00整数关口，若价格有效突破这些阻力，则趋势有望转为偏多。\n\n交易建议上，偏向于区间策略，震荡区间下方可关注短线逢低吸纳，但务必设置止损以防下破支撑；上方若突破SMA并站稳，可考虑顺势做多。风险控制为主，避免追高或在无明显方向时重仓介入。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Avalanche vs US Dollar (AVAX/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 8.4192\\n- 24h Change: 0.60%\\n- High/Low: 8.4395 / 8.3669\\n- RSI(14): N/A\\n- MACD: -0.16351213, Signal: N/A\\n- SMA(20): 8.75755\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nAvalanche’s recent price action around **$8.42** reflects a subdued bullish sentiment, with the 24‑hour range tight between **$8.3669** and **$8.4395**. This consolidation near short‑term lows suggests that momentum is struggling to gather strength. The inability to sustain moves above the **20‑period simple moving average (~$8.76)** signals caution, as the trend context remains slightly bearish to neutral. Unless buyers reclaim this average convincingly, the structure leans toward range‑bound behavior.\n\nLooking at the available momentum reading, the **MACD value of –0.1635** indicates that downside pressure still lingers, even without a visible signal line for precise crossover analysis. This negative MACD level reflects that shorter‑term momentum is below its longer‑term counterpart, hinting at a lack of force behind any advance. The absence of a valid RSI figure limits clarity on overbought/oversold conditions, but price failing to exceed recent highs implies buyers aren’t aggressively stepping in.\n\nFrom a levels perspective, immediate support resides near the **$8.36–$8.37** zone — a recent intraday floor that, if broken, could accelerate selling toward the next psychological boundary around **$8.00**. On the upside, resistance lies near the **$8.75–$8.80** area marked by the 20‑period SMA and recent swing highs. A break above this cluster would be the first sign of buyer conviction, potentially opening space toward **$9.20** and beyond. Without such a break, price is likely to remain in a defined horizontal corridor.\n\nIn terms of execution, traders could consider range‑based strategies while price oscillates between established support and resistance. Short positions near **$8.70–$8.80** with tight stops above this zone may offer favorable risk/reward, whereas longs near **$8.35** with stops under that support could benefit from mean reversion. Should volatility pick up, waiting for clear directional confirmation — such as a close above the SMA or below key support — will help reduce false signals."
+    }
+  }
+}

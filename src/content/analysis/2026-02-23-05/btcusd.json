@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-23T05:24:01.277Z",
+  "price": {
+    "close": "65062.67",
+    "high": "65212.58",
+    "low": "64794.99",
+    "open": "64800.39",
+    "change": "0.40",
+    "datetime": "2026-02-23 05:00:00"
+  },
+  "indicators": {
+    "rsi": 28.13799,
+    "macd": -775.47939,
+    "macd_signal": -499.17555,
+    "sma20": 66881.3205
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，待突破关键区间]",
+      "content": "当前比特币在65000美元附近震荡整理，短期内未能突破近期的高点65212.58。市场情绪较为平稳，价格波动在64794.99至65212.58之间。虽然当前没有显著的上涨或下跌趋势，但交易者应注意市场是否会选择突破这一区间。\n\n技术指标方面，MACD显示为负值，表明市场短期内可能处于弱势，但由于Signal线数据缺失，仍无法判断是否存在明确的反转信号。RSI目前无数据显示，但从价格波动来看，市场情绪趋向于中性，未进入超买或超卖区间。\n\n当前比特币的支撑位在64794.99附近，若价格跌破此支撑，可能会测试更低的支撑区域，如64000美元。阻力位则在65212.58一线，若价格突破此阻力，可能进一步挑战66000美元的关键位置。\n\n建议投资者短期内可选择观望，等待价格突破区间再作决策。若突破上方阻力，可考虑适度追涨；若跌破支撑位，则可能需要谨慎操作，防止出现更大幅度的回调风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has shown relative stability over the past 24 hours, with a minor 0.40% price change. The current price of $65,062.67 is positioned just above the recent low of $64,794.99 but still well below the 20-period simple moving average (SMA) of $66,881.32. The market is currently consolidating, indicating indecision. A break above the SMA could signal a potential reversal or continuation of the uptrend. However, the price remains vulnerable to further declines if it slips below the recent low.\n\nThe RSI(14) is unavailable, but the current MACD value of -775.47939 reflects negative momentum. While we do not have the full context of the MACD signal line, this negative MACD suggests that bearish pressure is currently prevailing. Traders should watch for potential divergence as the price moves. If the MACD starts showing signs of a bullish crossover or the signal line reappears, a reversal or continuation of the trend may become more apparent.\n\nSupport is seen around $64,794.99, with the next key level being $63,500. Should the price break these levels, a deeper retracement to the $60,000 range could become a possibility. On the upside, the first resistance level lies near $65,500, and a more significant resistance lies at the 20-period SMA near $66,881.32. A push past this could signal strength and lead to a retest of higher levels around $68,000.\n\nFor trading strategies, waiting for a confirmed breakout above the 20-period SMA could offer a clearer bullish signal, while a breakdown below the support levels would suggest a bearish outlook. Investors should remain cautious and monitor price action closely around the identified levels to adjust their positions accordingly."
+    }
+  }
+}
