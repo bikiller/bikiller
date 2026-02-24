@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-02-24T05:21:46.863Z",
+  "price": {
+    "close": "76.73",
+    "high": "77.3",
+    "low": "76.68",
+    "open": "76.82",
+    "change": "-0.13",
+    "datetime": "2026-02-24 05:00:00"
+  },
+  "indicators": {
+    "rsi": 29.26017,
+    "macd": -1.042873,
+    "macd_signal": -0.98373991,
+    "sma20": 78.6005
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 76.73\\n- 24小时变化: -0.13%\\n- 高点/低点: 77.3 / 76.68\\n- RSI(14): N/A\\n- MACD: -1.042873, Signal: N/A\\n- SMA(20): 78.60050\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线偏弱震荡整理\n\n当前SOL价格在76.7附近横盘，短线趋势偏弱但无急跌信号，价格低于20日均线表明中期承压。近期高点受阻于78.6附近，显示多头动力不足，短线有整理需求。\n\n技术指标MACD仍在零轴下方且未见明显金叉，动能偏弱，RSI虽不可用但结合价格结构看，买盘情绪清淡。价格在76.5-77.3区间来回盘整，波动性有限。\n\n支撑位关注76.0整数关口及近期低点75.8区域，这些位置有望吸引短线买盘。阻力位依次看78.6均线和80.0整数位，上破这些水平才有望确认反弹转强。\n\n交易上建议保持观望为主，若跌至支撑并出现反弹信号可短线轻仓介入，止损设于支撑下方。若价格回升并稳住在78.6之上，可考虑逐步增加多头布局以捕捉可能反弹空间。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "Solana is currently navigating a mild consolidation phase around $76.73 after testing the recent intraday high of $77.3 and low of $76.68. Price action indicates short-term indecision, with the market hovering just below the 20-period SMA at $78.60. This suggests that the immediate trend is slightly bearish, as the SMA acts as dynamic resistance, preventing upward momentum. Traders should watch for a decisive break above this level to confirm a potential bullish continuation.\n\nThe MACD reading of -1.042873, combined with the absence of the signal line, points to a prevailing bearish sentiment. Negative MACD values typically indicate that the shorter-term momentum is weaker than the longer-term trend. While the lack of a confirmed crossover prevents a strong directional signal, the market could face further downward pressure unless buyers step in near established support zones.\n\nKey support lies at the recent swing low of $76.68, which also aligns with short-term consolidation levels. Breaking below this point could open the door toward $75.50, representing the next structural support. On the upside, resistance near $78.60 is critical; a clear breach could lead to an attempt at the $80 psychological level. Traders should remain cautious, using tight stop losses if entering long positions, as volatility remains moderate but prone to sudden shifts.\n\nFor tactical positioning, short-term traders might consider range-bound strategies between $76.70 and $78.60, capitalizing on minor swings. Aggressive momentum traders could wait for a confirmed MACD bullish crossover above the SMA to enter long positions. Conversely, bearish traders may target $76.68 and $75.50 as potential profit zones, while maintaining stops above $78.60 to mitigate risk. Overall, the market favors cautious, disciplined approaches in the near term."
+    }
+  }
+}
