@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-24T15:37:32.976Z",
+  "price": {
+    "close": "63804.36",
+    "high": "63993.68",
+    "low": "63304.38",
+    "open": "63461.99",
+    "change": "0.54",
+    "datetime": "2026-02-24 15:00:00"
+  },
+  "indicators": {
+    "rsi": 45.75777,
+    "macd": -566.21131,
+    "macd_signal": -671.76556,
+    "sma20": 63695.7325
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，待突破",
+      "content": "当前比特币价格呈现震荡整理走势，最新报价为63804.36美元，24小时内上涨0.54%。市场在63300至64000区间内波动，尚未出现明显的趋势性突破。短期来看，比特币似乎在等待更强的动能来决定未来的走势方向。\n\n技术指标方面，RSI(14)未提供，无法评估超买或超卖情况。MACD值为负，显示当前市场存在一定的空头压力，但由于缺少信号线数据，难以判断是否会形成反转。SMA(20)为63695.73，价格略高于该均线，表明当前的支撑水平可能在63695附近。\n\n支撑位方面，63304.38美元附近的低点提供了较强的支撑，而64000美元的高点则可能成为短期内的阻力。若突破64000美元并维持在上方，可能会引发进一步的上涨动能。否则，价格可能继续维持震荡整理状态，直到找到新的突破点。\n\n综合来看，建议保持观望，等待比特币价格突破64000美元或跌破63300美元的明确信号再做决策。短期内，交易者可以在支撑和阻力位之间进行区间交易，控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar (BTC/USD) stands at $63,804.36, reflecting a modest 0.54% increase in the last 24 hours. The market has recently experienced a slight pullback from the daily high of $63,993.68, which suggests a potential consolidation phase. Bitcoin has been trading around the 20-day Simple Moving Average (SMA) at $63,695.73, indicating a neutral market sentiment. The price action shows a balance between bulls and bears, as neither side has taken clear control.\n\nFrom a trend perspective, Bitcoin's recent movement suggests a period of consolidation within a narrow range between $63,304.38 and $63,993.68. This tight range could be setting the stage for a breakout in either direction. Given the slight positive change, the overall trend appears to be moderately bullish, though it is important to wait for a confirmation of either a sustained move above $63,994 or a rejection at support near $63,304. If a breakout occurs, further upward momentum could target the next key resistance level around $65,000.\n\nTechnical indicators such as the MACD remain negative at -566.21131, signaling a bearish divergence in the short term. The lack of an RSI reading makes it difficult to gauge whether the market is overbought or oversold, limiting our insight into potential trend exhaustion. However, the low MACD value could indicate a buildup to a possible shift in momentum, particularly if the price continues to test key levels in the near future.\n\nIn terms of support and resistance, immediate support lies at $63,304.38, while resistance is observed at $63,993.68. A breach below $63,300 could open the door for a deeper pullback towards $62,000 or lower. Traders should monitor these levels closely, as a break above resistance could signal the next leg up, potentially targeting $65,000 or higher. Patience is essential for managing risk in this range-bound market."
+    }
+  }
+}
