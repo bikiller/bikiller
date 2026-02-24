@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-24T11:27:52.556Z",
+  "price": {
+    "close": "1822.57",
+    "high": "1827.28",
+    "low": "1820",
+    "open": "1825.83",
+    "change": "-0.20",
+    "datetime": "2026-02-24 11:00:00"
+  },
+  "indicators": {
+    "rsi": 31.14731,
+    "macd": -20.0028271,
+    "macd_signal": -20.40452,
+    "sma20": 1845.0285
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡走势，关注支撑与阻力区间]",
+      "content": "当前ETH/USD价格维持在1822.57附近，显示出震荡整理的走势。过去24小时价格波动不大，变化仅为-0.20%，说明市场暂时缺乏方向性力量。短期内，价格可能会在1820和1827附近震荡，直到新的动能出现。\n\n从技术指标来看，MACD目前为负值（-20.0028271），虽然信号线数据缺失，但负值通常表明市场的卖压较强。SMA(20)在1845.03，价格低于此水平，显示出短期的下行压力。RSI缺失，意味着我们无法通过其来判断市场是否处于超买或超卖区间。\n\n支撑位方面，1820附近是近期价格的低点，可能会为价格提供支撑。如果跌破该水平，可能会进一步测试更低的支撑区域。阻力位在1845左右，若突破该区间，可能会重新引发上涨动能。\n\n交易建议上，短期内建议观望，除非价格突破1845或跌破1820，才考虑采取相应的交易策略。在当前区间内操作较为谨慎，建议避免过度激进的交易行为。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $1822.57, showing a slight decline of 0.20% over the past 24 hours. The market’s range has been narrow, with a high of $1827.28 and a low of $1820. The price remains close to the recent average but shows a weak bearish pressure as it’s below the 20-period simple moving average (SMA) of $1845.0285. This suggests a near-term downtrend in the market unless a bullish reversal can occur above the SMA.\n\nThe MACD is currently negative at -20.0028271, signaling a potential bearish momentum, but without a clear crossover signal, it’s hard to determine the strength of this downtrend. In addition, the absence of a clear RSI value limits our ability to assess overbought or oversold conditions, making the interpretation of market strength more challenging. If the MACD begins to move closer to zero, we may see a potential shift toward neutral, signaling caution for traders who are looking to take a position based on momentum.\n\nFrom a technical standpoint, Ethereum faces a key support zone around $1820, with $1827.28 acting as the immediate resistance. If the price breaks below $1820, the next support level can be expected around $1800. A break above $1827.28 could suggest a potential rally toward the next resistance at $1850. Traders should monitor these levels closely, as they provide clear entry and exit points in the near term.\n\nConsidering the current indicators and market structure, traders might want to wait for confirmation of either a break above the $1827.28 resistance or a deeper pullback below $1820 for potential entry points. A tight stop-loss strategy is advisable due to the volatile nature of the market. Caution is advised, as the lack of bullish signals and overall bearish tone could indicate further downside."
+    }
+  }
+}
