@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-24T04:32:56.102Z",
+  "price": {
+    "close": "1828.88",
+    "high": "1834.12",
+    "low": "1814.15",
+    "open": "1832.16",
+    "change": "-0.17",
+    "datetime": "2026-02-24 04:00:00"
+  },
+  "indicators": {
+    "rsi": 29.072444,
+    "macd": -20.92638,
+    "macd_signal": -18.52822,
+    "sma20": 1875.477
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[短期震荡，趋弱调整]",
+      "content": "当前ETH/USD价格略微下跌，呈现震荡调整的走势。价格维持在1828附近，接近昨日低点1814，且未能突破上方1834的压力位。短期内，市场情绪偏弱，可能继续在此区间震荡整理，若突破上行，则有机会回归至SMA(20)水平1875附近。\n\n技术指标方面，MACD仍保持负值(-20.92638)，说明卖方压力较大，短期内可能继续拖累价格。RSI值缺失，无法对超买或超卖进行确认，但结合MACD的弱势信号，当前市场整体处于空头控制之下。缺乏强有力的买盘支持，可能导致持续震荡。\n\n支撑位位于1814，若价格下破此处，可能会继续向下寻求新的支撑。阻力位则集中在1834附近，若突破此位，则有可能尝试反弹至SMA(20)所指的1875水平。若突破此区域，则可能开启进一步的反弹走势。\n\n综合来看，短期内以太坊可能会在1814至1834区间震荡整理。若无法有效突破1834，建议保持观望，避免追高。可以考虑在接近支撑位1814时寻找低吸机会，但要设好止损，防止下行风险扩大。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum/USD market is currently in a neutral to slightly bearish trend. With the price hovering around $1828.88, it has shown a minor decline of 0.17% over the last 24 hours. This small retracement suggests consolidation after a brief period of upward momentum. The price action has been capped by a recent high at $1834.12, with a low of $1814.15, showing a tight range. This range-bound movement signals uncertainty, indicating a wait-and-see approach before making further decisions. \n\nLooking at the Simple Moving Average (SMA) of 20 periods, which stands at $1875.48, the price is trading significantly below it. This suggests that Ethereum is currently underperforming relative to its short-term trend. The SMA acts as a dynamic resistance, making it difficult for Ethereum to break through and reclaim higher levels. A price breakout above $1875.48 would be a sign of bullish momentum, while a sustained move below $1814 could signal a deeper correction.\n\nThe lack of an RSI reading and incomplete MACD data complicates the interpretation of momentum and market strength. However, the current MACD value of -20.93 indicates a bearish bias in the short term. A negative MACD below the zero line points to downward pressure, and without significant changes in volume or momentum, Ethereum may struggle to break past resistance levels in the near future. Traders should closely monitor for any shifts in these indicators for clearer signals.\n\nSupport levels are critical for potential short-term trades. The immediate support near $1814 should hold for now, offering a good point for short-term long entries. If Ethereum falls below this level, the next support zone might lie closer to $1780. On the other hand, resistance is found at the $1834 level, with a major resistance point near the $1875 SMA. A break above this level could invite more buyers, leading to potential upward movement."
+    }
+  }
+}
