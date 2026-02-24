@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-24T12:56:59.662Z",
+  "price": {
+    "close": "63013.21",
+    "high": "63341.84",
+    "low": "62946.68",
+    "open": "63211.97",
+    "change": "-0.31",
+    "datetime": "2026-02-24 12:00:00"
+  },
+  "indicators": {
+    "rsi": 27.85158,
+    "macd": -704.4487,
+    "macd_signal": -711.6933,
+    "sma20": 63876.5195
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期偏弱",
+      "content": "当前比特币/美元（BTC/USD）在63000美元附近震荡整理，市场情绪略显谨慎。价格在短期内未出现明显突破，维持在高位附近震荡调整。短期内可能延续这种震荡走势，尚未有明确的趋势信号。\n\n技术指标方面，MACD当前为负值，表明短期内卖压略重，且市场未出现强势买入信号。SMA(20)在63876.52处，表示当前价格低于20日简单移动均线，进一步确认了短期下行压力。RSI指标未提供有效数据，但考虑到当前市场表现，RSI可能处于中性或略微超卖区域。\n\n支撑位方面，62946.68美元附近是近期低点，若价格跌破此位，可能会进一步测试62000美元附近的支撑区域。上行方面，63341.84美元是短期阻力位，突破该点位则可能带来更大的反弹空间。总体来看，比特币目前的走势较为震荡，缺乏明确的方向。\n\n交易建议方面，建议投资者采取观望策略，避免在震荡区间进行频繁交易。如能突破关键支撑或阻力位，可以考虑适时进场，但要设定合理的止损，避免波动带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current market performance shows a slight decline, with a 24-hour change of -0.31%, indicating moderate bearish pressure. The price is hovering around $63,013.21, just below the 20-period Simple Moving Average (SMA) of $63,876.52. This suggests a short-term downtrend as the price has recently failed to hold above the SMA. The current range, with a high of $63,341.84 and a low of $62,946.68, indicates tight consolidation, but the downward pressure is evident. This is often a precursor to further bearish movement or a potential break from the range.\n\nThe absence of an RSI value and the MACD currently at -704.44 present challenges in gauging momentum, making the analysis of trend strength more difficult. A negative MACD reading indicates weakening bullish momentum, but it is essential to watch for any crossover that could signal a potential reversal or consolidation. The lack of an RSI reading further complicates the assessment of overbought or oversold conditions, which are typically useful for short-term trend predictions. Traders should remain cautious in the absence of these indicators.\n\nFrom a support and resistance perspective, the immediate support level appears to be around $62,946.68, while the resistance is located near the $63,341.84 mark. A break below support could see Bitcoin testing lower levels, possibly approaching $62,000 or even the $61,000 zone. Conversely, a breakout above resistance could lead to a retest of higher levels, potentially reaching the $64,000 range. Watching for price action around these levels will be crucial for defining the next move.\n\nIn terms of trading strategy, a conservative approach is recommended due to the current consolidation and unclear momentum. If the price holds above the $63,000 support, a cautious buy position near support could be considered, with a target near resistance. Alternatively, a breakout above resistance may offer a more robust buying opportunity, especially if supported by improved indicators."
+    }
+  }
+}
