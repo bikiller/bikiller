@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-24T03:47:51.528Z",
+  "price": {
+    "close": "592.94",
+    "high": "598.31",
+    "low": "592.68",
+    "open": "598.31",
+    "change": "-0.90",
+    "datetime": "2026-02-24 03:00:00"
+  },
+  "indicators": {
+    "rsi": 39.25052,
+    "macd": -3.015743,
+    "macd_signal": -3.065817,
+    "sma20": 601.098
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 592.94\\n- 24小时变化: -0.90%\\n- 高点/低点: 598.31 / 592.68\\n- RSI(14): N/A\\n- MACD: -3.015743, Signal: N/A\\n- SMA(20): 601.098000\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：短期弱势调整，震荡下行可能性较大\n\n目前价格低于20日均线，表明短期承压，价格未能站稳均线上方，整体走势偏弱。成交量若未放大，则多头推进动力不足，需关注是否出现新的买盘支持。\n\n技术指标显示MACD柱线为负值，空头动能存在，但无信号线数据需谨慎解读。若后续出现背离并伴随强势买盘，可视为潜在反转信号，但当前多空仍偏向平衡偏空。\n\n阻力位初步关注601附近20日均线位置，其上方若突破则有望重拾上升动能。下方支撑位可重点关注585及570区域，若跌破则可能进一步测试更低支撑。\n\n交易建议上，短线更偏向震荡思路，可在接近支撑区域适度减仓或观望，突破阻力确认后再考虑进多。长期投资者可等待趋势明确信号再布局，风险控制优先。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "The current market for Binance Coin (BNB) against the US Dollar (USD) shows a slight decline of -0.90% over the last 24 hours, with the latest price at 592.94. Given the range of 598.31 to 592.68, the price action is consolidating within a tight range, suggesting indecision in the market. The absence of a clear RSI value and an unreported Signal line in the MACD might indicate a lack of clear momentum, further reinforcing the uncertain short-term outlook.\n\nThe price is hovering just above the 20-period Simple Moving Average (SMA) at 601.10, which has historically acted as a short-term resistance level. As the price nears this level, a failure to break above it could signal the continuation of the downtrend, with a potential move lower toward 590 or even the psychological support at 580. If the market manages to regain the SMA and break above recent highs, there could be a move toward resistance around 610, a key level to watch for a reversal of the current trend.\n\nThe MACD value of -3.015743 shows that there is a bearish bias, though the absence of a Signal line makes it difficult to derive clear trading signals. This negative value suggests that the market is still in a corrective phase, lacking strong bullish momentum. Traders may want to monitor the potential for a crossover or divergence in the MACD for confirmation of future price direction. Until then, caution is recommended in taking long positions.\n\nIn the short term, watching for a breakout or a retest of the 592.68 low will provide insight into market sentiment. If the price holds above support at this level, there could be a mild recovery toward the SMA resistance. Conversely, a break below 590 would suggest a continuation of the bearish trend, potentially targeting lower support levels. Conservative traders should wait for confirmation of a reversal before entering new positions."
+    }
+  }
+}

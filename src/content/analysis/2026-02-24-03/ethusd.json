@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-24T03:47:11.246Z",
+  "price": {
+    "close": "1829.86",
+    "high": "1843.63",
+    "low": "1825.03",
+    "open": "1843.63",
+    "change": "-0.78",
+    "datetime": "2026-02-24 03:00:00"
+  },
+  "indicators": {
+    "rsi": 29.56541,
+    "macd": -20.10539,
+    "macd_signal": -17.94735,
+    "sma20": 1878.02
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期看空]",
+      "content": "当前以太坊/美元价格稳定在1829.86附近，呈现出震荡整理的走势。短期内价格持续在1825和1843区间内波动，未能突破关键的支撑与阻力水平。当前市场情绪偏向谨慎，短期内难以找到明确的上涨动力。\n\nMACD值为-20.10539，虽然Signal线数据缺失，但负值表明市场仍然处于看跌状态。RSI值缺失，无法全面分析超买超卖的情况。但结合SMA(20)处在1878.02附近，价格明显低于均线，表明市场情绪偏弱，短期内继续下行的可能性较大。\n\n支撑位在1825一线，一旦跌破此位，价格可能进一步探底至1800区域。阻力位则集中在1843附近，若突破该点位，则可能向1870展开反弹。总体来看，若价格持续在区间内整理，突破的概率较低。\n\n综合来看，短期内ETH/USD可能维持震荡走势，建议谨慎操作，避免追高。建议投资者在支撑位附近寻找进场机会，若价格跌破支撑位，可考虑短空。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) has shown a mild downtrend over the past 24 hours, with the price trading at $1829.86, reflecting a slight decrease of 0.78%. This suggests market indecision, where buyers and sellers are relatively balanced. The recent high of $1843.63 and low of $1825.03 indicate that ETH is currently caught in a narrow range. The market's lack of clear direction is highlighted by the absence of significant momentum, which may signal a waiting period for a clearer breakout in either direction.\n\nThe absence of the RSI (Relative Strength Index) and Signal line for the MACD makes it difficult to assess momentum and overbought/oversold conditions with precision. However, the negative MACD reading of -20.10539 points to a mild bearish sentiment, suggesting that the current price action could continue to face downward pressure. In the absence of bullish indicators, caution is warranted, as further decline might occur if the selling volume increases.\n\nIn terms of support and resistance, key levels to watch are $1825.03, which represents the recent low and a potential support zone, and the $1843.63 level, marking a recent high that could act as resistance. A break below $1825 might signal further weakness, opening the path toward lower support at $1800, while a move above $1843 could lead to a potential recovery toward $1878, the 20-day simple moving average, which now acts as the resistance threshold.\n\nTraders should look for confirmation before entering positions. A sustained move below $1825 might present shorting opportunities, while a breakout above $1843 could offer a chance for a long position. Given the current market conditions, waiting for a clearer trend confirmation through price action or indicator crossovers is recommended to mitigate risk."
+    }
+  }
+}
