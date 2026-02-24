@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-02-24T10:17:01.164Z",
+  "price": {
+    "close": "8.2833",
+    "high": "8.2877",
+    "low": "8.2731",
+    "open": "8.2854",
+    "change": "-0.03",
+    "datetime": "2026-02-24 10:00:00"
+  },
+  "indicators": {
+    "rsi": 36.70119,
+    "macd": -0.094615643,
+    "macd_signal": -0.10026231,
+    "sma20": 8.36327
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 8.2833\\n- 24小时变化: -0.03%\\n- 高点/低点: 8.2877 / 8.2731\\n- RSI(14): N/A\\n- MACD: -0.094615643, Signal: N/A\\n- SMA(20): 8.36327\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短期整理震荡偏弱\n\n当前AVAX价格围绕$8.28附近震荡，整体短线趋势偏弱。尽管24小时价格波动有限，未出现明显单边走势，但价格低于20期简单移动平均线(SMA20)，表明短期空头压力仍然存在，行情整体缺乏上行动力。\n\n技术指标中MACD处于负值区间且未见明显拐头，暗示空头动能仍在发挥，但动能未进一步扩大，说明下跌力度有限。RSI指标不可用，但结合价格与均线关系，可判断买卖双方力量接近平衡偏空，价格可能在当前区间反复震荡。\n\n关键支撑位初步看$8.20附近，若跌破可能进一步测试$8.00整数位心理支撑。阻力位在SMA20水平附近$8.36及上方$8.40区域，若有效突破将提高短线反弹概率。区间交易情绪谨慎，激进操作需关注突破信号。\n\n交易上建议保持观望或在支撑附近择机低多，止损设在$8.15下方以控制风险；若价格站稳$8.40并伴随成交量放大，可考虑中线布局。短线谨防假突破，严格风险管理为要。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "The Avalanche (AVAX) market currently shows a relatively neutral trend, with a slight dip of -0.03% over the past 24 hours. The price is hovering around $8.28, a narrow range between the high of $8.29 and the low of $8.27. This consolidation suggests indecision in the market, with buyers and sellers at equilibrium. The absence of a significant directional move indicates the market is waiting for a catalyst to spark a trend change.\n\nThe SMA(20) at $8.36 is above the current price, suggesting short-term bearish pressure, as the price is below the moving average. However, the MACD value of -0.0946 signals some downward momentum but lacks the confirmation of a strong trend, as the signal line is unavailable. Traders should look for a crossover or a shift in the MACD to confirm a more defined move. The lack of an RSI(14) value prevents us from assessing overbought or oversold conditions, which would typically offer more insight into potential reversals or continuation patterns.\n\nSupport and resistance levels are key to determining trade action. The immediate support lies at the low of $8.27, which has held steady, while resistance is found around the $8.36 area, near the 20-period SMA. If AVAX breaks above the $8.36 level, it may test higher levels, potentially aiming for $8.50. Conversely, a failure to hold the support at $8.27 could result in a deeper retracement, with the next support at $8.00 or lower. \n\nGiven the current market conditions, traders may want to adopt a range-bound strategy, buying near $8.27 and selling near $8.36. Alternatively, a breakout above $8.36 or a breakdown below $8.27 could offer opportunities for momentum-based trades. Monitoring the MACD for a signal line crossover will be crucial in confirming a shift in the prevailing sentiment."
+    }
+  }
+}

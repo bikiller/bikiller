@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-24T10:12:43.685Z",
+  "price": {
+    "close": "1824.5",
+    "high": "1826.78",
+    "low": "1823.58",
+    "open": "1826.57",
+    "change": "-0.16",
+    "datetime": "2026-02-24 10:00:00"
+  },
+  "indicators": {
+    "rsi": 31.8315,
+    "macd": -20.50607,
+    "macd_signal": -20.53366,
+    "sma20": 1848.5915
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：当前震荡整理，短期压力较大",
+      "content": "当前以太坊/美元（ETH/USD）价格为1824.5，短期内表现较为平稳，24小时内仅小幅下跌0.16%。从价格走势来看，ETH/USD目前处于震荡整理阶段，高点1826.78和低点1823.58都表明市场在一个狭窄区间内波动，尚未形成明显的趋势。\n\n在技术指标方面，MACD指标为负值（-20.50607），显示出一定的卖压，但由于Signal线数据缺失，暂时无法进一步确认趋势的强度。SMA(20)为1848.59，价格低于该均线，意味着短期内可能面临一定的下行压力。RSI值暂缺，但若其在接下来几小时内出现，可进一步帮助判断超买或超卖的情况。\n\n支撑位方面，ETH/USD在1823附近有一定支撑，若价格进一步下行，可关注该位置的反弹机会。而在阻力位方面，1848附近的SMA(20)可能成为短期的卖出信号，突破该位置才有可能重新挑战更高价位。\n\n综合来看，建议在当前市场环境中保持谨慎，若价格跌破1823支撑位，可考虑短期卖出操作；若突破1848，则可等待重新入场做多。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum's current price of $1824.5 reflects a slight bearish sentiment, with a 24-hour change of -0.16%. The price has been range-bound, oscillating between $1823.58 and $1826.78. This consolidation suggests indecision in the market, with neither bulls nor bears taking control. The proximity to the 20-period simple moving average (SMA) of $1848.59 indicates potential resistance at this level. Ethereum may struggle to break above this resistance unless significant bullish momentum is observed.\n\nThe MACD at -20.50607 suggests a negative short-term outlook, highlighting downward momentum in the market. However, with no signal line data available, it’s difficult to assess whether this is a temporary dip or the beginning of a larger downtrend. Without a clear RSI reading, it is challenging to determine the level of market overbought or oversold conditions. A further drop in the MACD could indicate more selling pressure, particularly if the price moves closer to the lower end of its recent range.\n\nIn terms of support, $1823.58 could act as the first line of defense, with a further drop potentially targeting the $1800 level. This would be an important area to watch for any signs of a reversal or consolidation. A break below this support would signal potential for deeper losses, with subsequent support around $1780. On the other hand, if Ethereum shows resilience above the $1824.5 level, a potential test of the $1848.59 resistance zone could occur.\n\nFor traders, caution is advised given the current lack of clear directional indicators. A break above $1848.59 could signal a bullish opportunity, while a drop below $1823.58 may open up shorting potential. Traders should monitor for any shifts in the MACD or price action near key support levels before making significant moves."
+    }
+  }
+}
