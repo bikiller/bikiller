@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-25T23:06:18.566Z",
+  "price": {
+    "close": "632.83",
+    "high": "632.86",
+    "low": "629.96",
+    "open": "631.89",
+    "change": "0.15",
+    "datetime": "2026-02-25 23:00:00"
+  },
+  "indicators": {
+    "rsi": 77.006789,
+    "macd": 10.57343,
+    "macd_signal": 9.039635,
+    "sma20": 615.2415
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[震荡整理，短期回调风险]",
+      "content": "当前币安币/美元(BNB/USD)的价格在632.83附近波动，显示出震荡整理的市场特征。尽管价格在过去24小时内仅小幅波动（+0.15%），但仍未突破关键的支撑和阻力水平，暗示短期内缺乏明确的方向性。\n\n从技术指标来看，RSI(14)数据缺失，无法提供超买或超卖的信号。MACD显示为10.57343，当前未能确认其与信号线的交叉情况，显示出市场缺乏强烈的动能。此外，SMA(20)位于615.24附近，提供了短期内潜在的支撑位。\n\n支撑位方面，629.96的低点成为了关键支撑区域，一旦跌破可能会加速回调；而632.86的高点则是近期的短期阻力位。如果价格突破此阻力，则有可能挑战更高的价位。基于当前的走势，短期内可能维持震荡整理的模式。\n\n交易策略建议：短期内可以关注价格是否突破当前的支撑或阻力位。如果出现跌破支撑位的情况，可考虑短线做空，而突破阻力位时则可考虑做多，但需谨慎处理，保持止损设置，以应对可能的反转风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 632.83\\n- 24h Change: 0.15%\\n- High/Low: 632.86 / 629.96\\n- RSI(14): N/A\\n- MACD: 10.57343, Signal: N/A\\n- SMA(20): 615.2415\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is showing **a mild bullish bias** around the current price of *632.83*. The price remains above the 20‑period simple moving average (SMA) at *615.24*, suggesting that short‑term momentum favors the upside. Recent price action has been relatively tight, with a narrow high/low range (*632.86 / 629.96*) indicating consolidation after a prior upswing. This tempering in volatility can be healthy, allowing the market to digest gains before potentially resuming a trend.\n\nAlthough the RSI(14) isn’t available, the positive 24‑hour change (*+0.15%*) and a positive MACD value (*10.57*) hint that buyers still maintain modest control. The lack of a signal line reading limits a full MACD crossover interpretation, but the positive histogram bias supports a continuation of upward movement. Traders should watch for a MACD acceleration with a defined signal, which could confirm strengthening bullish momentum.\n\nKey **support** levels to watch are near the 20‑SMA at *~615*, followed by the psychological zone around *600*. A decisive break below these could invite deeper pullbacks. On the upside, immediate **resistance** lies just above the current price around *640–645*, with a more significant barrier near the *660–670* zone, where previous highs cluster. Breaking above these zones on strong volume would signal renewed buying interest.\n\nFor those considering entries, a cautious approach would involve waiting for a clear breakout above *640* or a disciplined dip near *620–610* with confirmation of support holding. Short‑term traders might aim for *645–660* targets while keeping tight risk controls. Conversely, if the price closes below *600* on heavy selling, it may signal a shift to deeper correction, prompting more defensive positioning."
+    }
+  }
+}
