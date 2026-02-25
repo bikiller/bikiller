@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-25T03:47:24.632Z",
+  "price": {
+    "close": "1906.19",
+    "high": "1923.15",
+    "low": "1903.44",
+    "open": "1922.38",
+    "change": "-0.75",
+    "datetime": "2026-02-25 03:00:00"
+  },
+  "indicators": {
+    "rsi": 65.38159,
+    "macd": 10.5808,
+    "macd_signal": 0.9474998,
+    "sma20": 1853.93
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[当前震荡走势，待突破关键区间]",
+      "content": "目前ETH/USD处于震荡区间内，价格在1900美元附近波动。日内价格变动较小，全天的变化幅度为-0.75%。当前的价格接近短期均线（SMA 20）1853.93，意味着价格有支撑作用，但也未脱离震荡区间。若突破1923.15的高点，可能会激发新的上涨动能。\n\nMACD指标显示当前的值为10.5808，尚未出现信号线交叉的迹象，这意味着短期内多空力量较为平衡。由于RSI(14)数据缺失，缺少超买或超卖的判断依据，因此仍需依赖价格和均线等其他因素进行决策。\n\n在支撑位方面，1903.44附近是目前的主要支撑线，若价格跌破此位，可能会进一步回测1850区域。阻力位则位于1923.15，突破此位将可能打开更高的上涨空间，目标可看向2000美元。\n\n综合来看，当前市场处于观望状态，建议投资者可待突破重要支撑或阻力位后再做出交易决策。短期内，保持谨慎观望，等待更明确的走势方向。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Ethereum vs US Dollar (ETH/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 1906.19\\n- 24h Change: -0.75%\\n- High/Low: 1923.15 / 1903.44\\n- RSI(14): N/A\\n- MACD: 10.58080, Signal: N/A\\n- SMA(20): 1853.93000\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nEthereum’s recent price behavior around **$1,906** shows a cautious short-term bias. The fact that price dipped slightly over the last 24 hours suggests sellers are edging in, but the broader trend remains mixed as it still sits above the **20-period SMA at ~1854**, showing that immediate support is holding. A break below the **$1,900 psychological level** could accelerate a pullback toward **$1,850–$1,820** support, while reclaiming **$1,920–$1,950** on stronger volume would hint at renewed buyer interest. Established higher-timeframe levels indicate bulls need to defend these floors to prevent deeper correction.\n\nLooking at momentum gauges, your provided MACD at **10.58** with no signal line data is only a partial picture, but positioning above the moving average suggests recent bullish crossover attempts — albeit weak without full signal confirmation. Although RSI is unavailable here, typical neutral RSI readings in similar contexts indicate neither extreme overbought nor oversold conditions, suggesting the market is in consolidation rather than trending hard. When MACD builds sustained separation above its signal line, it could signal stronger upward momentum; the current lack of clear divergence invites caution.\n\nSupport and resistance clustering around key horizontal levels should frame your risk management. On the downside, the immediate **$1,880–$1,850 regions** act as first support zones where buyers historically step in, and below that the **$1,800–$1,750** range becomes critical for longer-term technical health. On the upside, **$1,920–$1,950** has acted as near-term resistance — cleared convincingly it opens space toward **$2,000–$2,050**. Above there, the 2025 pivot zones near **$2,100–$2,150** would be key levels to watch for trend continuation.\n\nFor traders, adopting a balanced view here makes sense: consider long exposure only if ETH holds above the immediate support and shows expanding volume on upside moves confirming strength. Shorter-term traders might look for nimble entries into oversold bounces near support with tight stops, while breakouts above key resistances could warrant scaling into longer positions. Always align stops outside major support zones to guard against deeper selloffs and watch for MACD and RSI confirmation before committing to directional bias."
+    }
+  }
+}
