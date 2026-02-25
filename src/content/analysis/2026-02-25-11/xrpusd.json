@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-02-25T11:30:08.482Z",
+  "price": {
+    "close": "1.37514",
+    "high": "1.37731",
+    "low": "1.37281",
+    "open": "1.37588",
+    "change": "-0.02",
+    "datetime": "2026-02-25 11:00:00"
+  },
+  "indicators": {
+    "rsi": 58.2443,
+    "macd": 0.0060021377,
+    "macd_signal": 0.0043828146,
+    "sma20": 1.36412
+  },
+  "analysis": {
+    "zh": {
+      "title": "瑞波币/美元技术分析：[震荡整理，维持区间波动]",
+      "content": "当前XRP/USD的价格在1.37514附近波动，短期内处于震荡整理的状态。价格在1.37281和1.37731之间波动，显示出市场情绪的犹豫。此时，价格未能突破关键的支撑或阻力，表明价格可能在这个区间内继续横盘整理。\n\n从技术指标来看，RSI(14)数据缺失，MACD显示出0.006的正值，但由于信号线缺失，难以明确判断趋势的方向。SMA(20)当前在1.36412附近，这为价格提供了短期支撑。如果价格跌破这一水平，可能会出现进一步下行的风险。\n\n在支撑位方面，1.37281是当前的短期支撑，而1.37731则是阻力位。如果价格突破上行至1.37731以上，可能会迎来更强的反弹，反之跌破支撑位1.37281，则可能会加速回调。总体而言，市场维持在较窄的区间内，波动性相对较低。\n\n建议投资者关注区间的突破情况。若价格突破1.37731，可能是一个买入信号，而跌破1.37281则可以考虑适当减仓或做空。同时，保持谨慎，不建议在区间内频繁交易。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Ripple vs US Dollar (XRP/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 1.37514\\n- 24h Change: -0.02%\\n- High/Low: 1.37731 / 1.37281\\n- RSI(14): N/A\\n- MACD: 0.0060021377, Signal: N/A\\n- SMA(20): 1.36412\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe latest price action in XRP/USD shows a muted session around **$1.37–1.38**, suggesting short-term balance between bulls and bears. Price is hovering slightly above the **20-period simple moving average (SMA)** at ~1.364, a sign the recent pullback may be finding support near this average. The negligible 24-hour change underscores low volatility, potentially signaling consolidation before a directional breakout.\n\nWithout a current **RSI**, we lean on price structure and the MACD reading. The **MACD** positive value around **0.006** hints at residual bullish momentum, though the absence of a signal line comparison tempers confidence. Traders should watch for MACD histogram expansion above zero as confirmation of resumed upside. Conversely, a shift below zero could accelerate sellers. The SMA’s gentle slope continues to act as a dynamic support reference in the near term.\n\nKey **support** lies at the **20-SMA (~1.364)** and the recent low near **1.3728**. A break below these could open the way toward the psychological **$1.35** zone and further into **$1.32–1.30** territory if bearish pressure intensifies. On the upside, immediate **resistance** sits near the **24-hour high of 1.3773**; clearing this could focus attention on **$1.40** and the mid-term swing high around **$1.42–1.44**. These levels should guide entries and risk management.\n\nGiven the current sideways bias, traders might consider **range-oriented strategies** between support and resistance until volatility picks up. Short entries could be probed on clear rejection at resistance with tight stops above recent highs. On the bullish side, breakouts above **1.38** with volume could signal renewed upside. Risk discipline is crucial, especially with mixed indicators and consolidation dominating the near-term price landscape."
+    }
+  }
+}
