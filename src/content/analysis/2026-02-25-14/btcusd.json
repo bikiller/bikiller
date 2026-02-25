@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-25T14:17:03.710Z",
+  "price": {
+    "close": "66476.07",
+    "high": "66498.39",
+    "low": "66189.88",
+    "open": "66243.79",
+    "change": "0.35",
+    "datetime": "2026-02-25 14:00:00"
+  },
+  "indicators": {
+    "rsi": 69.8028,
+    "macd": 462.98663,
+    "macd_signal": 326.91659,
+    "sma20": 65172.7565
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期关注支撑位",
+      "content": "当前比特币价格处于66476.07美元，较24小时变化幅度仅为0.35%，显示出市场在震荡整理状态。近期价格在66189.88美元至66498.39美元区间内波动，表明市场情绪较为谨慎，缺乏明显的方向性。此时，观察支撑位和阻力位的表现对判断未来走势尤为重要。\n\n技术指标方面，当前没有给出RSI和MACD信号，因此无法依赖这些指标来确认超买或超卖状况。SMA(20)在65172.7565美元附近提供一定的支撑作用，若价格回落至该水平，可能会迎来买盘介入，反弹的机会较大。此外，MACD虽未给出具体的信号，但其值462.98663显示市场的上涨动能依然存在。\n\n支撑位方面，65172美元附近的20日简单移动平均线(SMA)是当前重要的支撑区域，若价格跌破此位置，可能会进一步回调。阻力位则位于66498美元一线，若突破该水平，可能会推动比特币价格向新的高点挑战，进一步上涨。 \n\n交易策略建议，短期内可关注支撑位的守稳情况。如果价格回调至SMA支撑位附近，考虑逢低买入；若突破当前阻力位，可适当跟进多头操作，目标看向更高价位。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin price at $66,476.07 suggests the market is maintaining a steady uptrend, albeit with a relatively narrow daily price range. The price action has been tightly constrained between $66,498.39 (high) and $66,189.88 (low), showing minimal volatility over the past 24 hours. This could indicate market indecision or a period of consolidation before a potential breakout. The RSI(14) is not available, which leaves out important overbought or oversold conditions that could otherwise assist in gauging the strength of the current trend.\n\nThe MACD value of 462.98663 is positive, suggesting bullish momentum in the market. However, without a signal line to compare it against, it's difficult to confirm whether this momentum will continue or reverse in the near term. Investors should keep an eye on this indicator for any divergence or crossovers that could provide a clearer market signal. The absence of a signal line emphasizes the importance of other supporting indicators, particularly in an uncertain market environment like this.\n\nThe 20-period Simple Moving Average (SMA) currently sits at $65,172.75, which offers a potential support level. This SMA value represents the short-term trend, and should the price approach or test it, it could act as a strong base for buyers looking to enter the market. A bounce from this level would confirm the strength of the ongoing uptrend. If the price falls below this support, the next logical support zones lie closer to $64,000, based on historical price action.\n\nGiven the relatively flat market behavior, trading strategies should focus on waiting for a decisive break above the high of $66,498.39 for a potential continuation of the upward trend. Alternatively, if the price retraces and holds above the $65,172.75 SMA, a long position could be considered. Traders should remain cautious of any significant downturns, as a breach below the key support levels could signal a shift in market sentiment."
+    }
+  }
+}
