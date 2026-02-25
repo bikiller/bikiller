@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-25T06:19:39.900Z",
+  "price": {
+    "close": "1889.02",
+    "high": "1890.99",
+    "low": "1887.81",
+    "open": "1888.33",
+    "change": "0.07",
+    "datetime": "2026-02-25 06:00:00"
+  },
+  "indicators": {
+    "rsi": 57.33366,
+    "macd": 11.66358,
+    "macd_signal": 6.29556,
+    "sma20": 1863.785
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：市场震荡，短期偏向上行",
+      "content": "当前以太坊价格稳定在1889.02美元附近，全天涨幅微弱，市场呈现出震荡整理的状态。由于价格接近近期的SMA(20)均线1863.785，暗示市场可能正在寻求短期的支撑，当前的价格表现没有显著的突破或反转信号。\n\n从技术指标来看，MACD值为11.66358，虽然没有明确的信号线数据，但MACD本身处于相对高位，表明市场可能保持一定的买盘压力。RSI(14)暂无数据，无法对超买或超卖状态做出直接判断，导致趋势解读的准确性有所降低。\n\n关键的支撑位在1887.81美元，若价格跌破该位，可能会触及下方的更强支撑区间。阻力位则在1890.99美元附近，突破此区域可能会带来进一步的上行动能，推动价格向1900美元关口挑战。\n\n建议投资者在当前震荡区间内保持谨慎，若价格接近支撑位，可考虑短期低位买入策略，反之，接近阻力位时则可选择卖出以规避风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum has shown a relatively stable trend in the short term, with its latest price sitting at $1889.02. The 24-hour price change of 0.07% indicates minimal volatility, suggesting that ETH is consolidating within a narrow range. This range is confined between recent high and low values of $1890.99 and $1887.81, respectively, signaling a market that is indecisive or waiting for a catalyst to initiate a more substantial move. Traders should be cautious of any potential breakout or breakdown beyond these levels, as either scenario could signal the next major directional move.\n\nThe absence of a clear RSI reading makes it difficult to gauge momentum at this moment, but the MACD value of 11.66 suggests there could be some underlying positive momentum. However, with no signal line to compare it against, interpreting this value requires caution. The SMA(20) at $1863.79 provides a dynamic support level, indicating that ETH/USD has maintained its position above this key moving average, which historically acts as a support during minor corrections. A bounce from this level could suggest a continuation of the current range-bound behavior.\n\nSupport levels are found around the $1887.81 to $1887.00 region, and if ETH fails to hold these, a move towards the next significant support at $1860 could occur. Resistance appears to be clustered around the $1890.99 high, with a breakout above this level potentially targeting higher prices near $1900 or beyond. Traders should consider these levels for stop-loss placement and potential entry points.\n\nFor traders looking to capitalize on short-term movements, a breakout above $1890.99 could signal a bullish trend, while a drop below $1887 would imply a bearish outlook. Given the lack of strong momentum indicators, it's advisable to trade cautiously, utilizing tight stops and being prepared for possible reversals."
+    }
+  }
+}
