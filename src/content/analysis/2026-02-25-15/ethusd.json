@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-25T15:41:06.152Z",
+  "price": {
+    "close": "2020.26",
+    "high": "2026.15",
+    "low": "1986.43",
+    "open": "1996.6",
+    "change": "1.14",
+    "datetime": "2026-02-25 15:00:00"
+  },
+  "indicators": {
+    "rsi": 82.23478,
+    "macd": 32.074664,
+    "macd_signal": 20.20573,
+    "sma20": 1909.6155
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理中，关注突破方向]",
+      "content": "当前，ETH/USD的价格为2020.26美元，呈现小幅震荡整理态势。24小时内价格变动1.14%，从2026.15美元的高点回落至1986.43美元的低点，显示出市场暂时缺乏强势方向。短期内，价格可能会维持在此区间内震荡，等待进一步的指引。\n\n技术指标方面，RSI（14）未提供具体数值，因此无法直接评估超买或超卖状态。MACD指标显示当前值为32.07，表明短期内多头力量略占上风，但未能形成明显的趋势信号。SMA（20）为1909.62美元，价格当前远高于该均线，显示出市场依然偏向多头。\n\n支撑位在1986.43美元附近，若价格跌破此位置，可能会进一步测试更低的支撑区域。阻力位则在2026.15美元，如果突破这一水平，可能会引发价格进一步上涨的动能。因此，短期内投资者可关注价格突破这些关键水平，寻找入场或离场的机会。\n\n综合来看，目前市场处于整理阶段，建议投资者耐心等待突破信号的确认，避免盲目跟进。若价格突破支撑位，可以考虑适度做空，而若突破阻力位，则可适量做多。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Ethereum vs US Dollar (ETH/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 2020.26\\n- 24h Change: 1.14%\\n- High/Low: 2026.15 / 1986.43\\n- RSI(14): N/A\\n- MACD: 32.074664, Signal: N/A\\n- SMA(20): 1909.61550\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nEthereum’s price action shows a **bullish bias in the near term**, with the latest level around **$2,020** holding above the 20-period simple moving average (~$1,910). The recent 24-hour gain and higher lows suggest buyers remain in control, although the range’s upper bound near **$2,026** has acted as a short-term resistance. A break above this zone with volume could signal continuation toward prior highs, while failure here may stall the uptrend.\n\nLooking at momentum, the current **MACD reading (~32)** points to positive momentum, even though a signal line isn’t available for a full crossover interpretation. The absence of an RSI figure limits overbought/oversold context, but price staying above the short SMA reflects strength. In this setup, traders should monitor how momentum evolves — a sustained divergence between price and MACD could warn of weakening upside.\n\nImmediate **support** appears around the SMA at **~$1,910**, followed by the recent swing low near **$1,986**. On the upside, overcoming the **$2,026–$2,050** cluster would open the path to psychological and technical resistance near **$2,100–$2,150**. A drop under $1,986 could expose deeper support around $1,900, where buyers previously stepped in, and help clarify whether buyers can defend this zone.\n\nFor those looking to trade, consider **range-aware entries**: long positions near established support with tight risk management and profit targets just below resistance. More aggressive traders might add on breakout confirmations above $2,050 with volume expansion. Conversely, if price breaks under the **$1,986 support**, short exposure with close stops could capitalize on a deeper pullback. Always weigh risk/reward and use stop orders to manage volatility inherent to crypto markets."
+    }
+  }
+}
