@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-26T11:27:21.803Z",
+  "price": {
+    "close": "68229",
+    "high": "68396.9",
+    "low": "68195.08",
+    "open": "68306.04",
+    "change": "-0.11",
+    "datetime": "2026-02-26 11:00:00"
+  },
+  "indicators": {
+    "rsi": 57.38485,
+    "macd": 497.83733,
+    "macd_signal": 650.39625,
+    "sma20": 68461.759
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理中，短期偏向调整]",
+      "content": "当前比特币价格为68229美元，整体表现较为震荡。价格在24小时内微幅下跌0.11%，并未出现显著的突破或回调，维持在68195至68396区间内震荡整理。从短期走势来看，市场情绪相对中性，缺乏强劲的上涨或下跌动能。\n\n从技术指标上看，RSI未显示明显超买或超卖信号，表明市场未出现过度的买卖压力。MACD目前显示出一定的正值（497.83733），但未达到足够强势的买入信号。同时，SMA(20)处于68461附近，略高于当前价格，提示短期内可能面临一定的阻力。\n\n对于支撑位和阻力位的分析，当前支撑位位于68195，而阻力位则在68396附近。突破68396可能会打开进一步上涨空间，而跌破68195则可能引发更多的卖盘压力。短期内，若价格无法突破这些关键水平，预计会继续维持区间震荡。\n\n综合来看，建议在价格接近支撑位时考虑低吸，接近阻力位时考虑卖出。不过，由于市场目前缺乏明确的趋势，建议保持灵活性，避免过度操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD pair is currently experiencing a tight range between 68195.08 and 68396.9, with the price hovering near 68229. The price action suggests that the market is in a consolidation phase, indicating indecision among traders. With a 24-hour change of -0.11%, there is little momentum in either direction. This flat movement could signal a potential breakout in the coming hours or days, depending on how price interacts with key support and resistance levels.\n\nCurrently, the 20-period Simple Moving Average (SMA) at 68461.76 provides a short-term resistance point. If the price manages to push above this level, the next resistance zone lies around 68600 to 68800. A sustained move beyond this resistance could lead to further bullish momentum. On the downside, the key support is at 68195, with the potential for further weakness if this level is breached. A break below this support could expose the next support zone around 67900.\n\nThe lack of a clear Relative Strength Index (RSI) reading and the absence of a signal line for the MACD complicate the analysis. The MACD histogram value of 497.83 suggests that there is some underlying bullish momentum, but without the Signal line and RSI to confirm overbought or oversold conditions, it is challenging to pinpoint a strong trend. This leaves the market in a neutral stance for the short term, awaiting more clarity.\n\nIn the current market, traders should remain cautious. A breakout above the SMA resistance or a failure to hold the current support level will determine the next move. Given the neutral market conditions, waiting for a clearer trend or a confirmation signal would be wise before making any significant trades."
+    }
+  }
+}
