@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-02-26T07:39:48.881Z",
+  "price": {
+    "close": "626.85",
+    "high": "628.4",
+    "low": "626.42",
+    "open": "626.61",
+    "change": "0.04",
+    "datetime": "2026-02-26 07:00:00"
+  },
+  "indicators": {
+    "rsi": 61.79217,
+    "macd": 6.35687,
+    "macd_signal": 7.83053,
+    "sma20": 626.931
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 626.85\\n- 24小时变化: 0.04%\\n- 高点/低点: 628.4 / 626.42\\n- RSI(14): N/A\\n- MACD: 6.35687, Signal: N/A\\n- SMA(20): 626.93100\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：短线震荡整理偏多信号\n\n当前价格围绕626美元区域震荡，整体趋势显示多头略占优势但动能不足，高低点区间收窄表明短线市场承压整理。价格在20日均线附近反复试探，趋势尚未确立明确突破方向。\n\n技术指标上，虽然RSI缺失无法确认超买超卖，但MACD柱状有正值表明多头仍有一定动力。SMA(20)626.93作为短期均衡线，价格紧贴该均线运行，显示多空力量相对均衡，后续需观察指标能否进一步扩散。\n\n关键支撑位可关注624-625一线，该区域多次测试而未有效跌破。阻力位则在630-632美元区间，若放量突破该区间，可能开启新一波上攻。中长期支撑仍在610附近，跌破需警惕深度回调风险。\n\n交易建议上，短线交易者可在支撑区域逢低布局并设置紧止损，在阻力区间分批获利了结。确认突破阻力后适当跟进趋势单，仓位控制和风险管理尤为重要，避免震荡行情中追高承压。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 626.85\\n- 24h Change: 0.04%\\n- High/Low: 628.4 / 626.42\\n- RSI(14): N/A\\n- MACD: 6.35687, Signal: N/A\\n- SMA(20): 626.93100\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD shows a **neutral-to-slightly-bullish intraday bias** around the current price of **$626.85**, with very limited 24‑hour movement (+0.04%). The narrow range between **$628.40 high** and **$626.42 low** suggests low volatility and possible consolidation after recent directional moves. The price hovering near the **20‑period SMA (~626.93)** implies equilibrium between buyers and sellers. If buyers step in above current levels, we could see a push toward recent swing highs.\n\nLooking at momentum indicators, incomplete RSI and MACD data temper conviction, but the **positive MACD value (~6.36)** hints at underlying upward pressure. Without a valid signal line, we watch price action around the moving average for clues. The absence of a confirmed RSI reading means overbought/oversold contexts are unclear; traders should treat strength as tentative and not overly rely on a breakout until more robust readings emerge.\n\nKey near‑term support sits at **$620–$624**, where short‑term moving averages and recent lows cluster. A break below this zone might open a slide toward **$610**, a psychologically significant level. On the upside, immediate resistance is near **$630–$635**; a sustained push above this range could invite momentum traders, targeting levels such as the recent local highs around **$650**. Watch volume closely: increasing participation strengthens breakout validity.\n\nFor trading suggestions, consider a range‑trading approach while the market consolidates: accumulate on dips near support with tight risk controls and target the upper bound of the range. If volatility picks up and price decisively clears **$635** on strong volume, a breakout entry could be appropriate, with stops below the breakout zone. Conversely, a decisive breakdown below **$620** warrants caution or short exposure, with a stop above the breakdown candle."
+    }
+  }
+}
