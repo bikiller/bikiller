@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-26T04:30:14.175Z",
+  "price": {
+    "close": "68608.22",
+    "high": "68695.99",
+    "low": "68178.84",
+    "open": "68215.77",
+    "change": "0.58",
+    "datetime": "2026-02-26 04:00:00"
+  },
+  "indicators": {
+    "rsi": 66.41582,
+    "macd": 825.6476,
+    "macd_signal": 916.41196,
+    "sma20": 67738.6605
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，关注关键支撑位",
+      "content": "当前比特币/美元价格稳定在68608.22美元附近，呈现震荡整理的状态。尽管24小时内涨幅较小（0.58%），但整体维持在一个区间内，未出现明显的趋势性波动。此时市场情绪相对平稳，可能为短期内的调整阶段。\n\n从技术指标上看，MACD的数值为825.65，显示出买盘力量相对较强，但由于Signal线未显示，缺乏明确的交叉信号。RSI未提供数据，因此难以进一步确认超买或超卖状态。SMA(20)位于67738.66，若价格回落至此水平，将构成强支撑，可能引发反弹。\n\n支撑位方面，68178.84是当前短期的关键支撑区域，若跌破此位，可能会导致进一步回调。阻力位则位于68695.99，突破该点位可能会推动价格进一步上行。在此阶段，市场尚未出现明确的趋势，需要耐心等待突破或回调的确认。\n\n基于目前的市场状态，建议投资者保持观望，密切关注68178.84和68695.99的关键技术水平。一旦价格突破这些关键价位，可以适时调整交易策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $68,608.22, exhibiting a modest 0.58% increase over the past 24 hours. This suggests that the market is relatively stable with some upward momentum. The price is sitting near the recent high of $68,695.99, which may act as a short-term resistance level. Given the slight uptick, Bitcoin could potentially test this level again. However, any significant breakout beyond this point may require a catalyst, such as broader market movement or significant news events.\n\nThe 20-period Simple Moving Average (SMA) is at $67,738.66, providing support for the price action. This indicates that Bitcoin is above its short-term average, reflecting bullish sentiment in the market. A pullback toward the SMA could be expected if the price fails to break through the recent high, creating a possible buying opportunity if the support holds. Traders should monitor this level for potential signs of reversal or continuation.\n\nThe absence of the RSI and Signal line data limits detailed overbought or oversold analysis at the moment. However, the MACD value of 825.64760 shows that momentum is still in the positive zone, suggesting that the bullish trend remains intact. Given the current structure, the market appears to be in consolidation, with slight upward pressure. A break above the recent high could signal further bullish continuation, while failure to hold above support could lead to a downside correction.\n\nSupport is clearly defined around the $68,178.84 level, with potential for further downside if the price fails to hold this level. A drop below this support could bring the price closer to the SMA level, and traders may look to sell if the trend reverses. Conversely, a break above $68,695.99 could open the path toward higher resistance levels. The current market environment suggests waiting for confirmation at these key levels to guide trading decisions."
+    }
+  }
+}
