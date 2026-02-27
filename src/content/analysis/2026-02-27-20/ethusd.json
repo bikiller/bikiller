@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-27T20:24:16.309Z",
+  "price": {
+    "close": "1922",
+    "high": "1925.29",
+    "low": "1919.74",
+    "open": "1920.07",
+    "change": "0.08",
+    "datetime": "2026-02-27 20:00:00"
+  },
+  "indicators": {
+    "rsi": 28.27478,
+    "macd": -28.26079,
+    "macd_signal": -21.090824,
+    "sma20": 1983.316
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[短期震荡，整体偏空]",
+      "content": "当前以太坊/美元（ETH/USD）的价格保持在1922美元附近，波动较为有限。价格已经接近20日简单移动平均线(SMA)的1983美元，形成一定的下行压力。在短期内，ETH/USD的价格未显示出强烈的上涨动力，整体趋势偏向震荡下行。\n\n从技术指标来看，MACD处于负值区域，显示出卖方的优势，但由于信号线数据缺失，短期趋势的可靠性较低。RSI指标暂时未提供足够的参考，因此不能明确判断超买或超卖情况。总体而言，市场情绪偏向谨慎。\n\n支撑位方面，1919.74美元附近可能是一个短期的支撑区间，若突破此位置，可能会进一步下探至更低的价格区间。上方则受到SMA(20)的强压，若突破1983美元，短期可能会转为多头行情。\n\n建议短期内采取观望策略，尤其是在缺乏明确信号的情况下。若价格跌破支撑位，可以考虑轻仓做空；若突破SMA(20)的阻力位，则可以考虑适量进场做多。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The ETH/USD market currently exhibits a neutral to slightly bearish short-term outlook. The price is hovering around $1922, just above the low end of the 24-hour range ($1919.74) and well below the 20-day SMA of $1983. This suggests a potential lack of bullish momentum and hints at consolidation. Ethereum remains below the SMA, indicating a struggle to break through resistance levels and showing signs of possible further downside pressure unless stronger buying interest emerges.\n\nWith the MACD at -28.26 and no available Signal data, the lack of bullish confirmation points to a weakening market sentiment. The negative MACD value suggests that the bearish momentum is in play, but it also indicates that the momentum could be waning. Traders should closely monitor the MACD crossover for any signs of a reversal. Without a defined Signal line, it's challenging to gauge the full extent of the trend shift in the near term. \n\nSupport for ETH/USD appears at the $1919.74 level, with a potential for a short-term bounce or consolidation if this area holds. A break below this support could open up further downside towards the next key support level around $1900. On the upside, the $1925.29 high from the current range would act as an immediate resistance. Should ETH surpass this level and clear the SMA at $1983, it could signal a shift toward a more neutral or even bullish stance.\n\nFor traders, this is a relatively cautious environment. Given the lack of definitive bullish indicators, the best approach would be to wait for either a breakout above the $1925 resistance or a confirmation of support at the $1919.74 level. Active traders could consider short-term strategies like range-bound trading or using tight stop-loss orders to manage risk. Patience is key, especially with the market in a consolidation phase."
+    }
+  }
+}
