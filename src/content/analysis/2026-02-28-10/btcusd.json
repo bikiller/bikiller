@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-28T10:54:57.143Z",
+  "price": {
+    "close": "63933.3",
+    "high": "64036.31",
+    "low": "63464.47",
+    "open": "63652.93",
+    "change": "0.44",
+    "datetime": "2026-02-28 10:00:00"
+  },
+  "indicators": {
+    "rsi": 34.41982,
+    "macd": -756.83308,
+    "macd_signal": -598.094166,
+    "sma20": 65169.0625
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，暂时缺乏明确方向",
+      "content": "当前比特币/美元(BTC/USD)的价格为63933.3美元，较昨日的波动较小，显示出市场处于震荡整理阶段。从技术面来看，价格在最近的高点64036.31美元和低点63464.47美元之间震荡，表明买卖双方力量较为均衡。\n\nRSI(14)未提供数据，MACD指标显示负值(-756.83)，但由于缺乏信号线数据，暂时无法得出明确的趋势。短期内，价格可能维持在当前区间内震荡，直到有新的信号出现。SMA(20)显示65169.06美元的短期均线水平，价格仍低于该水平，意味着短期内市场可能偏向空头。\n\n支撑位方面，63464.47美元附近的低点提供了较强的支撑，若价格跌破此处，可能会进一步下探。然而，上方64000美元一线存在强阻力，若价格突破这一水平，可能会重新尝试挑战65169美元附近的高点。\n\n综合来看，当前市场缺乏明确的趋势，建议投资者保持观望，待价格突破支撑或阻力位时再考虑入场操作。如果出现突破上行信号，可以考虑追高；若价格跌破支撑位，则可能需要考虑做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC/USD) is currently experiencing moderate consolidation around the $63,933.3 level, showing a 0.44% increase in the last 24 hours. The price remains below its 20-period simple moving average (SMA) at $65,169.06, suggesting that the short-term trend is bearish. However, the relative stability in the market indicates a potential for price recovery, particularly if Bitcoin manages to break above the recent high of $64,036.31. A break above this level could signal a continuation towards higher resistance zones.\n\nThe current MACD reading of -756.83308 points to a bearish momentum but lacks any immediate signal from the 9-day signal line. With the absence of an RSI, it becomes difficult to fully assess overbought or oversold conditions. However, the MACD remains in negative territory, indicating that bearish pressure may persist. Traders should be cautious in the near term, as the market could be ripe for further downside before any significant bullish reversal is confirmed.\n\nOn the support side, the low of $63,464.47 presents an immediate level to watch. A drop below this could trigger further declines towards more substantial support areas near $62,000, where buyers might re-enter the market. Resistance sits just above at $64,036.31, followed by a more notable resistance around $65,000. A breakout above these levels, accompanied by positive momentum, could set the stage for a test of higher price points, with $66,000 and beyond acting as key psychological barriers.\n\nGiven the current range-bound nature of BTC, traders might consider a wait-and-see approach, monitoring price action at critical levels. A break above $64,036 could trigger a buying opportunity, while a drop below $63,464 could provide a short-selling setup. Always manage risk appropriately, especially in volatile markets such as this."
+    }
+  }
+}
