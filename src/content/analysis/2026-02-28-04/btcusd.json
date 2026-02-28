@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-28T04:09:27.215Z",
+  "price": {
+    "close": "65786.41",
+    "high": "65822.67",
+    "low": "65771.56",
+    "open": "65791.44",
+    "change": "-0.01",
+    "datetime": "2026-02-28 04:00:00"
+  },
+  "indicators": {
+    "rsi": 42.08308,
+    "macd": -343.87631,
+    "macd_signal": -408.63305,
+    "sma20": 65901.419
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期波动有限]",
+      "content": "目前，BTC/USD处于较为平稳的震荡区间内，价格波动幅度较小。最新价格65786.41美元，接近短期均线SMA(20)65901.42美元附近，显示出市场暂时缺乏强烈的动能。价格在65800附近遇到短期阻力，而65770作为支撑位仍在保持稳定。 \n\n从MACD指标来看，目前的负值（-343.87631）提示市场情绪略偏空，但由于Signal线缺失，无法完全确认趋势反转。RSI数据缺失，无法进一步判断超买或超卖状态。当前市场情绪较为谨慎，短期内可能维持震荡整理模式。\n\n支撑位方面，65770美元将继续提供支撑，若突破此价位，可能测试65500区域的强支撑。阻力方面，65820附近的高点仍是关键，突破后价格可能挑战66000美元水平。\n\n交易建议上，对于短期投资者，建议等待突破65820或跌破65770的信号再做决定。突破65820可考虑短线多头布局，跌破65770则可能开启下行调整，建议保持谨慎。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price currently stands at $65,786.41, showing a slight decrease of 0.01% in the past 24 hours. Despite the small price movement, the market is exhibiting low volatility, as evidenced by the narrow price range of $65,822.67 to $65,771.56. This suggests that Bitcoin is consolidating around this level, which could point to either a continuation of the current trend or a breakout in either direction. A breakout above $65,822.67 could signal a move toward higher resistance levels, while a drop below $65,771.56 may trigger further downside potential.\n\nThe lack of an RSI and a signal line on the MACD complicates short-term momentum analysis. However, the negative MACD value of -343.87631 suggests weak downward pressure. If Bitcoin’s price continues to hover near the current level, it may find support from the 20-period Simple Moving Average (SMA) at $65,901.41, which typically acts as a dynamic support/resistance zone. A breach of this SMA could indicate a stronger bearish sentiment, leading to a retest of key support levels.\n\nSupport for Bitcoin seems to be concentrated just below the current price, around $65,700. If this level holds, it could act as a base for a potential reversal or accumulation phase. Should Bitcoin break this support, the next significant level of interest is $65,500, where the market may see stronger buying interest. On the upside, resistance lies near $66,200, and a break above this would likely propel Bitcoin to test the $66,500 region.\n\nIn terms of trading strategy, given the current market conditions, a range-bound approach may be optimal. Traders could look for opportunities to buy near support at $65,700 and sell near resistance at $66,200. Alternatively, a breakout above resistance or a break below support could provide a clearer direction for swing trades. The current market environment requires close monitoring for any signs of increased volatility."
+    }
+  }
+}
