@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-28T14:54:14.856Z",
+  "price": {
+    "close": "64446.01",
+    "high": "65367",
+    "low": "64389.44",
+    "open": "65111.74",
+    "change": "-1.03",
+    "datetime": "2026-02-28 14:00:00"
+  },
+  "indicators": {
+    "rsi": 43.58305,
+    "macd": -585.025254,
+    "macd_signal": -633.060045,
+    "sma20": 64915.6855
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡整理，关注关键支撑与阻力]",
+      "content": "当前比特币价格处于震荡整理阶段，短期内波动较小，最高65367美元，最低64389.44美元。价格持续在64000-65000区间内波动，反映出市场暂时缺乏强烈的趋势动能。当前技术面显示，比特币可能进入横盘整理模式，等待市场进一步的指引。\n\nRSI与MACD指标目前缺乏有效的数据支持，无法提供明确的超买或超卖信号。SMA(20)在64915美元附近，表明短期内价格走势相对接近其平均值，未见明显的偏离。MACD负值表示卖压略占主导，可能暗示价格有进一步下行的风险。\n\n在支撑位方面，64389.44美元为近期低点，若跌破此位，可能引发进一步回调。上方的阻力位则集中在65367美元一线，突破后可能会激发新的上涨动能。若价格持续在此区间震荡整理，建议关注突破方向的确认。\n\n交易建议方面，短期内建议采取区间交易策略，重点关注64389.44美元与65367美元的突破情况。若价格突破上行，则可以考虑逢低买入，反之，则可考虑逢高卖出。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin market presents a mixed outlook, with the price at $64,446.01, down 1.03% in the last 24 hours. The high/low range for the day is relatively narrow, between $65,367 and $64,389.44, indicating low volatility in the short term. Given this tight range, Bitcoin appears to be consolidating near the $64,500 mark, suggesting indecision among traders. If the price maintains this consolidation, we may see a potential breakout above the recent high or a test of lower levels in the coming days.\n\nFrom an indicator perspective, the absence of a current RSI reading makes it difficult to assess overbought or oversold conditions, leaving a gap in momentum analysis. However, the MACD value of -585.025254 is showing a bearish momentum, which suggests that selling pressure is dominating at the moment. Without a clear bullish crossover or improvement in the MACD, it appears that downward pressure may persist unless a catalyst emerges to reverse the trend.\n\nLooking at the SMA(20) at $64,915.69, it offers a near-term reference point. This moving average is slightly above the current price, indicating that the market is still under short-term pressure. Support can be expected at the low of $64,389.44, and a drop below this level could suggest further downside potential, possibly towards the $63,000 range. Resistance is near the $65,000 to $65,400 levels, with a break above these areas potentially signaling a short-term reversal.\n\nFor trading strategies, short-term traders might look to sell near resistance levels or wait for confirmation of a breakout above $65,400. Long-term holders should monitor for signs of stabilization or a breakout past key resistance to increase confidence in holding positions. If the market maintains its current bearish bias, a stop-loss around the $63,000 support area could be prudent to mitigate risk."
+    }
+  }
+}
