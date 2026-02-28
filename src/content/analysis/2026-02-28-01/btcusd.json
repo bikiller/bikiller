@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-02-28T01:27:01.467Z",
+  "price": {
+    "close": "65942.06",
+    "high": "65968",
+    "low": "65814.69",
+    "open": "65934.74",
+    "change": "0.02",
+    "datetime": "2026-02-28 01:00:00"
+  },
+  "indicators": {
+    "rsi": 43.37237,
+    "macd": -410.75021,
+    "macd_signal": -450.90149,
+    "sma20": 66197.437
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，未显著突破]",
+      "content": "当前比特币/美元价格在65942.06美元附近，表现出震荡整理的走势。从短期内看，价格波动幅度较小，且处于20日简单移动平均线(SMA)的支撑附近，这意味着市场正在等待突破信号。目前价格高点65968美元和低点65814.69美元均表明短期内缺乏显著趋势，价格可能继续在这个区间内波动。\n\n技术指标方面，MACD显示负值（-410.75），但由于信号线缺失，无法进一步解读市场的动能变化。RSI值未能提供，无法进行超买或超卖的判断。SMA(20)的支撑位置在66197.44美元，若价格跌破该水平，可能出现进一步下探的风险。\n\n从支撑和阻力的角度来看，短期内65900美元附近有较强支撑，若突破66000美元上方，则可能形成短期上行趋势。若价格未能突破当前水平，可能继续在65800-66000区间震荡整理。\n\n综合来看，建议投资者保持观望，等待价格突破上方66000美元或者下方支撑位的确认，择机进场。对于风险偏好较高的投资者，可在当前区间进行短线操作，但需密切关注市场变化。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price has been hovering around $65,942.06, showing a slight increase of 0.02% over the last 24 hours. The relatively narrow range of the daily high ($65,968) and low ($65,814.69) indicates a period of consolidation, suggesting that the market is in a neutral phase, with neither bullish nor bearish momentum dominating. The price is still below the 20-day simple moving average (SMA) of $66,197.43, which hints at potential resistance in the near term. Until the price breaks above the SMA, the market may continue to experience limited upward momentum.\n\nThe MACD currently stands at -410.75, which signals a weak bearish momentum. Without the accompanying signal line data, it's difficult to determine a clear directional bias. However, the negative MACD value suggests that, in the short term, the sellers are still slightly in control. A potential crossover or shift in this indicator could offer clearer insights into a trend reversal, but traders should watch for an increase in volume to confirm any breakout or breakdown signals.\n\nSupport for BTC/USD appears to be near the $65,800 level, as the price has tested this area multiple times without falling below it. A dip below this level could expose the price to further downside, potentially targeting the next significant support around $65,000. On the upside, the immediate resistance lies near $66,000, which aligns closely with the 20-day SMA. A decisive breakout above this level would open the door for a retest of recent highs, possibly pushing towards $67,000.\n\nGiven the current indecision in the market, traders should exercise caution and wait for clearer signals. A confirmed break above $66,200 or below $65,700 would present a clearer direction for short-term positions. Until then, a range-bound strategy may be appropriate, with stop-loss orders placed near key support and resistance levels to manage risk."
+    }
+  }
+}
