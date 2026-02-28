@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-02-28T08:25:08.723Z",
+  "price": {
+    "close": "1861.25",
+    "high": "1868.93",
+    "low": "1857.96",
+    "open": "1866.91",
+    "change": "-0.32",
+    "datetime": "2026-02-28 08:00:00"
+  },
+  "indicators": {
+    "rsi": 27.95626,
+    "macd": -30.18243,
+    "macd_signal": -25.76309,
+    "sma20": 1918.9875
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，略有回调压力]",
+      "content": "当前以太坊/美元（ETH/USD）的价格为1861.25，呈现出轻微的回调迹象。从24小时变化来看，价格下降了0.32%，反映出短期内市场情绪较为谨慎。价格区间波动在1857.96至1868.93之间，显示出市场处于整理状态，尚未形成明确的趋势。\n\n从技术指标上看，MACD指标为-30.18243，表明短期内卖压较重，但由于信号线数据缺失，难以进一步确认价格反转的信号。20日简单移动平均（SMA）在1918.99附近，目前价格下方有明显的压力，暗示价格可能面临进一步回调。\n\n支撑位方面，1857.96是当前的关键支撑线，如果价格跌破这一水平，可能会进一步下探至1850美元附近。反之，1868.93是短期的阻力位，若突破该位置，可能会出现反弹回升的局面。\n\n综合来看，当前市场处于震荡整理状态，短期内可能会保持在1857.96至1868.93区间波动。建议交易者关注1857.96支撑位的有效性，若价格跌破，可考虑短期做空；若突破1868.93，则可考虑短期做多。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently experiencing a slight pullback, with the latest price of $1861.25 showing a 24-hour change of -0.32%. The price has moved within a tight range between $1857.96 and $1868.93, indicating a period of consolidation. The lack of significant movement suggests that market participants are waiting for clearer directional signals. Given the current range, traders should monitor for any breakout above $1868 or below $1857, as this could determine the next directional move.\n\nThe absence of an RSI value complicates momentum analysis, but the MACD reading of -30.18 indicates that bearish momentum is still present in the market. This negative MACD value suggests that the selling pressure could persist in the short term, with further downside potential if the price fails to reclaim the SMA(20) at $1918.98. A deeper analysis of the MACD, especially once the signal line is available, will offer further insights into the strength or weakness of this momentum shift.\n\nSupport is currently located near the $1857.96 level, with the market potentially testing this zone if selling continues. A break below this level could see further downside toward the next significant support at $1800. On the other hand, resistance remains near $1868.93, which could act as a key level for a potential short-term rally. Traders should watch for a decisive break above this level to target higher resistance zones.\n\nIn the current market environment, traders may want to exercise caution. Given the lack of a clear trend and the presence of bearish momentum as indicated by the MACD, it may be prudent to wait for confirmation before entering positions. A break above $1868.93 could signal a bullish move, while a breakdown below $1857.96 could offer further short opportunities. A more decisive trend will become clearer once momentum indicators like the RSI are available."
+    }
+  }
+}
