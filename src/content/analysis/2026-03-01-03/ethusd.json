@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-01T03:59:05.028Z",
+  "price": {
+    "close": "2024.27",
+    "high": "2039.41",
+    "low": "2023.26",
+    "open": "2033.52",
+    "change": "-0.46",
+    "datetime": "2026-03-01 03:00:00"
+  },
+  "indicators": {
+    "rsi": 70.80915,
+    "macd": 23.37733,
+    "macd_signal": 8.59314,
+    "sma20": 1929.138
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：当前震荡整理，等待突破",
+      "content": "目前ETH/USD处于震荡整理阶段，价格在2039.41和2023.26之间波动。价格略微下跌，显示市场短期内缺乏强烈的买卖动能。当前价格接近支撑区间，若跌破2023.26，可能会进一步回调至SMA(20)的1929附近。\n\nMACD指标显示23.37733，虽然当前Signal线数据缺失，但此值暗示市场存在一定的买方力量。由于RSI(14)数据缺失，无法完全确认超买或超卖状态，需关注价格和成交量变化。若MACD进一步走弱，可能会促使价格回测低点。\n\n支撑位位于2023.26附近，若跌破此区域，可能面临更深的下行空间。阻力位位于2039.41，突破此价位可能为多头提供更大动能，目标价位可能突破2040至2050区间。\n\n考虑到当前震荡行情，建议投资者在2023.26附近寻找买入机会，若价格突破2039.41则可考虑短期多单。投资者应密切关注MACD及价格突破情况，以便做出及时调整。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH/USD) is currently in a consolidation phase, with price action hovering around the $2024 mark. The market has shown a slight decline of 0.46% over the last 24 hours, suggesting a bearish sentiment in the short term. The current price is testing a key support level at $2023.26, which has held in recent hours. A break below this level could signal further downside, with potential targets around $2000. On the upside, resistance is found at the recent high of $2039.41, a level that will need to be broken to signal a reversal of the bearish trend.\n\nLooking at the RSI, which is not currently available, traders would typically expect it to provide insight into the momentum behind the recent price movements. With the absence of this indicator, traders may need to rely more heavily on price action and other technical tools. The MACD is positive at 23.38, indicating some bullish momentum, but the lack of a clear signal line cross suggests uncertainty in the strength of this movement. A crossover to the downside would confirm further weakness in the market.\n\nThe SMA(20) at $1929.14 remains a key longer-term reference point. If price action starts trending lower, this level could serve as a critical support zone. Given that the market is relatively flat, with no clear uptrend or downtrend, traders should be cautious and consider waiting for a clearer breakout above $2039.41 or a breakdown below $2023.26 for more defined directional signals. Short-term trades could look for opportunities around these levels with tight stop losses.\n\nTraders should maintain a neutral stance unless a clear breakout occurs, either above $2039 or below $2023. A breakout above could lead to a retest of higher resistance, while a move below support could prompt a retest of the next significant support level near $2000. Risk management is crucial, given the current lack of momentum indicators, and positioning should be conservative until clearer trends emerge."
+    }
+  }
+}
