@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-01T17:42:13.596Z",
+  "price": {
+    "close": "66043.85",
+    "high": "66231.64",
+    "low": "65726.13",
+    "open": "66149.13",
+    "change": "-0.16",
+    "datetime": "2026-03-01 17:00:00"
+  },
+  "indicators": {
+    "rsi": 44.55423,
+    "macd": 97.1347,
+    "macd_signal": 226.46651,
+    "sma20": 66857.754
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，关注短期支撑和阻力]",
+      "content": "当前比特币/美元（BTC/USD）价格维持在66043.85美元附近，呈现震荡整理态势。价格在24小时内微幅下跌0.16%，未能突破近期高点66231.64美元，也未跌破低点65726.13美元，显示出市场短期内缺乏强烈的方向性。\n\n技术指标方面，MACD目前为97.13，尽管尚未出现信号线交叉，但依然维持一定的上行动能。RSI数据缺失，但从目前的价格走势来看，市场尚未进入过热或过冷的状态，显示出相对平衡的局面。\n\n从支撑和阻力的角度来看，当前价格接近66857.75美元的20日简单移动平均线（SMA），该位置可能成为一个强阻力位。如果价格突破此位置，可能会进一步测试更高的价格区域。下方支撑位在65726.13美元附近，如果跌破此点，可能会引发进一步的回调。\n\n建议投资者保持谨慎，短期内可关注价格在65726.13美元和66857.75美元区间内的波动，适时做出高抛低吸的操作策略，避免在缺乏明确趋势信号时进行大额交易。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $66,043.85, experiencing a minor decline of 0.16% over the past 24 hours. Despite this slight drop, the price has maintained a range between $66,231.64 (high) and $65,726.13 (low), indicating that the market is consolidating around these levels. The lack of strong momentum suggests that Bitcoin might be in a temporary phase of indecision, awaiting a clearer direction. The current trend appears neutral, with a slight bearish bias as it remains below its 20-day simple moving average (SMA).\n\nThe 20-day SMA of $66,857.75 acts as a key resistance point, with Bitcoin failing to break above this level for the past few sessions. This resistance, combined with the recent high at $66,231.64, highlights an area where selling pressure may increase. Conversely, Bitcoin has found support near the $65,726.13 level, as the price has bounced upward off this low multiple times recently. A break below this support could lead to further declines, potentially testing lower support zones.\n\nThe lack of an RSI value means we don't have an immediate gauge of momentum, making it harder to assess overbought or oversold conditions. However, the MACD reading of 97.13470 suggests that there is still some bullish momentum in the market, though without a clear signal line for confirmation, this momentum is not fully reliable. The absence of a confirmed bullish or bearish crossover could indicate that traders should remain cautious for now.\n\nConsidering the current market conditions, it may be wise to wait for a clear breakout above the $66,857.75 resistance or a sustained dip below the $65,726.13 support before making significant trading decisions. Until then, trading within the range of these levels may present opportunities for short-term scalpers, but larger positions should be avoided without confirmation of a trend."
+    }
+  }
+}
