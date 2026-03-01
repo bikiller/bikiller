@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-01T13:53:03.822Z",
+  "price": {
+    "close": "1976.8",
+    "high": "1981.39",
+    "low": "1968.47",
+    "open": "1978.11",
+    "change": "-0.05",
+    "datetime": "2026-03-01 13:00:00"
+  },
+  "indicators": {
+    "rsi": 52.61788,
+    "macd": 13.039226,
+    "macd_signal": 16.90831,
+    "sma20": 1984.554
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理中，短期波动较小]",
+      "content": "当前ETH/USD的价格为1976.8美元，24小时变化为-0.05%，显示出市场的震荡整理状态。价格维持在1968.47至1981.39区间内波动，表明短期内缺乏明确的上涨或下跌趋势。此种波动范围可能为市场提供一个相对安全的交易区间。\n\n从技术指标来看，RSI(14)目前无法获取，缺乏超买或超卖信号。MACD为13.039226，虽然显示出一定的正值，但由于信号线数据缺失，无法进一步确认趋势的强弱。SMA(20)位于1984.55400附近，表示短期内价格依旧偏向高位整理。\n\n当前的支撑位在1968.47美元附近，若价格跌破此位置，可能会进一步测试更低的支撑。阻力位在1981.39美元，若价格突破此水平，可能会迎来短期的反弹走势。建议投资者保持谨慎，若价格接近支撑位，可考虑低位买入；若突破阻力位，则可以适度跟进。\n\n综上所述，ETH/USD处于整理阶段，短期内大幅波动的可能性较低。投资者应关注价格突破区间边界后的走势变化，做好风险控制。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum (ETH) against the US Dollar is hovering at $1976.8, reflecting a very slight 24-hour change of -0.05%. Ethereum appears to be trading within a narrow range, with recent highs and lows at $1981.39 and $1968.47 respectively. This range-bound movement suggests indecision in the market, where buyers and sellers are somewhat balanced. A break either above $1981.39 or below $1968.47 could signal a more defined directional move. \n\nThe Relative Strength Index (RSI) data is currently unavailable, which leaves a gap in understanding the market's momentum. Typically, an RSI reading above 70 would indicate an overbought condition, while readings below 30 suggest oversold conditions. Without this indicator, traders should rely on price action and other tools to gauge market sentiment. As of now, the market remains neutral, with neither bulls nor bears taking clear control.\n\nThe Moving Average Convergence Divergence (MACD) at 13.04, while positive, is not paired with a signal line, making it less reliable for trend direction assessment. It indicates some bullish momentum, but the lack of a clear signal line could suggest that the current upward movement is not yet strong enough to confirm a sustained trend. Traders should be cautious when relying on this alone and may want to wait for more confirmation from other indicators or price action.\n\nThe 20-period Simple Moving Average (SMA) is currently at $1984.55, acting as a minor resistance level. If Ethereum tests this area and fails to break above it, it may indicate a shift towards the lower end of the range. On the downside, support is likely near the $1968.47 level. If this support holds, ETH could potentially attempt another rally toward the $1981.39 resistance zone. For now, a breakout in either direction will likely provide a clearer trading signal."
+    }
+  }
+}
