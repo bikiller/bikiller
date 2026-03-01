@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-01T14:56:14.021Z",
+  "price": {
+    "close": "66861.66",
+    "high": "67323.99",
+    "low": "66758.69",
+    "open": "66945.48",
+    "change": "-0.13",
+    "datetime": "2026-03-01 14:00:00"
+  },
+  "indicators": {
+    "rsi": 55.22424,
+    "macd": 225.5889,
+    "macd_signal": 300.63557,
+    "sma20": 66908.4255
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，震荡偏弱迹象",
+      "content": "当前比特币价格在66861.66美元附近运行，日内波动幅度有限，显示市场短期缺乏明确方向。价格略低于20日均线SMA(20) 66908.43美元，表明多头动能略显不足，市场可能在67000美元附近形成临时阻力。高低点区间收窄，显示震荡整理格局。  \n\nMACD指标显示主线为225.59美元，尚未给出完整信号线参考，但数值仍维持在正区间，说明长期趋势仍偏多，但短线可能承压整理。若RSI指标补充后出现超买或超卖，将更有助于捕捉短线反转机会。投资者需关注指标背离情况，以判断潜在调整风险。  \n\n近期支撑位主要集中在66750美元附近的前低位置，如跌破该点，短线可能下探至66500美元。阻力位则在67300-67400美元区域，多次未能突破形成心理压力。价格若成功上破阻力，则可能延续上涨动能，反之整理或回调概率加大。  \n\n交易上可采用震荡策略，短线交易者可在支撑区附近布局多单，止损控制在前低下方；激进者可在突破阻力后跟进趋势单。整体来看，短期偏向盘整震荡，需密切关注关键技术位和指标变化，以降低不确定性风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has recently shown some consolidation within a tight range, with its price hovering around $66,861. The market remains relatively neutral, as evidenced by the minimal 24-hour change of -0.13%. The current price action is contained between the day’s high of $67,323 and low of $66,758, suggesting the market is waiting for a catalyst to initiate a more definitive move. The lack of strong momentum in either direction reflects the indecision in the market, and traders should closely watch for breakout signals beyond these levels.\n\nThe absence of RSI data makes it difficult to assess overbought or oversold conditions, which is an important indicator for understanding potential price reversal points. However, the current price is positioned near the SMA(20) at $66,908, which is often a key level for trend direction. A price close to or above this moving average could indicate short-term bullish sentiment, while a drop below could signal bearish pressure, especially if support fails to hold.\n\nThe MACD reading at 225.59 indicates a relatively neutral stance, as there’s no significant divergence or crossover to confirm a strong buy or sell signal. This metric highlights the lack of clear momentum, which might suggest traders should adopt a wait-and-see approach for now. If the MACD begins to trend higher, it could signal growing bullish momentum, while a dip may indicate weakening buyer strength.\n\nKey support lies near $66,758, the day’s low, with a more substantial support level at $66,000. Resistance is found around $67,300, just below the day’s high, and further upside could meet resistance at $68,000. In the absence of clear bullish or bearish signals, it would be prudent to wait for a confirmed breakout before entering a position. Consider using tight stop-loss orders for risk management in these uncertain conditions."
+    }
+  }
+}
