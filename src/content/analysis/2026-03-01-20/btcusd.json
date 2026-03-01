@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-01T20:21:46.834Z",
+  "price": {
+    "close": "65501.77",
+    "high": "65972.27",
+    "low": "65378.03",
+    "open": "65963.94",
+    "change": "-0.70",
+    "datetime": "2026-03-01 20:00:00"
+  },
+  "indicators": {
+    "rsi": 39.80218,
+    "macd": -53.55506,
+    "macd_signal": 116.67196,
+    "sma20": 66701.2825
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡整理，等待突破信号]",
+      "content": "目前，比特币/美元在65500附近波动，呈现出短期震荡整理的局面。从近期的价格变化来看，市场情绪较为谨慎。24小时内的价格变化较小，表明投资者情绪相对平稳，但也可能意味着市场缺乏明显的方向性。\n\n技术面上，SMA(20)当前为66701.28，价格低于该均线，表明短期内可能存在一定的下行压力。MACD指标显示当前为负值，表明卖压略占上风，市场未能表现出强劲的买盘动能。RSI数据缺失，无法进一步分析超买或超卖状况。\n\n支撑位方面，价格接近65378.03，若跌破此点位，可能会进一步测试更低的支撑区域。阻力位则在65972.27附近，若价格突破这一水平，可能会重新测试66000上方的区间。因此，短期内比特币/美元可能会在这一区间内震荡整理。\n\n交易建议上，建议投资者观察价格是否突破65972.27或跌破65378.03，以判断市场的短期趋势。在此区间内，宜采取观望策略，等待突破信号再做进一步操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $65,501.77, showing a slight 24-hour decline of 0.70%. The price has experienced some fluctuation between the high of $65,972.27 and the low of $65,378.03, indicating a relatively stable market sentiment for the time being. The price is slightly below the 20-day Simple Moving Average (SMA) of $66,701.28, suggesting a bearish short-term trend. A closer look at the market structure shows that BTC/USD could be entering a consolidation phase, with its price trading within a narrow range.\n\nWith the MACD showing a value of -53.55506, it indicates bearish momentum. Although the signal line isn't provided, a negative MACD often suggests that the sellers are in control. The Relative Strength Index (RSI) is not available, but it would typically help provide additional clarity on overbought or oversold conditions. Given the current MACD reading, traders should exercise caution before entering long positions, as further downside could be in play if the price doesn't manage to break above the SMA resistance level.\n\nKey support levels for Bitcoin are at $65,378.03 and $64,500. These levels are crucial as they represent potential areas where buyers might step in to push the price higher. A break below these levels could signal further downside risk, with the next support around $63,000. On the upside, the $66,000 mark is an important resistance to watch. A break and close above this level could trigger a more sustained upward move.\n\nIn the current market context, it’s suggested to monitor Bitcoin closely for signs of a breakout or breakdown around the key support and resistance zones. For more aggressive traders, short-term positions could be considered near resistance or if a clear breakdown happens at support. However, patience is advised, given the uncertainty around key indicators like the MACD."
+    }
+  }
+}
