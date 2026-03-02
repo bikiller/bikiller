@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-02T18:01:49.699Z",
+  "price": {
+    "close": "69212.76",
+    "high": "69615.36",
+    "low": "68802.67",
+    "open": "69483.28",
+    "change": "-0.39",
+    "datetime": "2026-03-02 17:00:00"
+  },
+  "indicators": {
+    "rsi": 68.29506,
+    "macd": 565.81377,
+    "macd_signal": 205.35359,
+    "sma20": 66921.9815
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，关注突破机会",
+      "content": "目前，比特币价格在69,212.76美元附近波动，呈现出一定的震荡整理态势。过去24小时价格下跌0.39%，显示出市场情绪的谨慎。考虑到价格在近期的高点（69,615.36美元）和低点（68,802.67美元）之间波动，短期内走势可能继续保持区间震荡。\n\n在技术指标方面，MACD值为565.81，表明当前市场处于较强的多头趋势中，但由于缺乏明确的信号线数据，趋势的持续性仍需进一步验证。SMA(20)为66,921.98，处于当前价格之下，显示出短期内有一定的支撑，但价格若持续突破该均线，可能出现更大的上涨动能。\n\n当前市场的支撑位在68,800美元附近，若价格跌破该水平，可能进一步下探67,000美元区域。阻力位则在69,600美元附近，若突破此位置，可能会推动价格向72,000美元附近进发。因此，交易者可以密切关注这些关键水平的突破情况，做好相应的风险管理。\n\n综合来看，短期内比特币价格可能会维持震荡整理，建议交易者在支撑位附近寻找低吸机会，并在接近阻力位时考虑减仓或设置止盈。同时，待MACD和RSI等指标确认信号后再做进一步决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's recent price action shows a slight pullback, with the current price at 69212.76 USD, down by 0.39% over the past 24 hours. The market has experienced minor fluctuations, reaching a high of 69615.36 and a low of 68802.67. The price is still above the 20-period simple moving average (SMA) of 66921.98, suggesting that the overall trend remains bullish in the short term. However, without significant momentum, a short-term consolidation phase might be forming.\n\nThe RSI(14) is not available, which leaves us without a clear indication of whether Bitcoin is overbought or oversold. Nevertheless, the MACD at 565.81 suggests moderate bullishness, though it lacks the signal line for further confirmation. A close look at the MACD histogram could provide a clearer picture of market momentum in the coming hours. If the MACD value increases, it could reinforce the current positive sentiment, but caution is recommended without a stronger confirmation signal.\n\nSupport levels are found near the 68800 mark, with the recent low supporting the price above this threshold. A break below this level could lead to a test of the 66900 zone, where the 20-day SMA lies, presenting stronger support for a potential rebound. On the resistance side, the 69600 level will need to be surpassed for a rally to the next significant resistance around 70,000 USD. A break above this could signal a continuation of the current bullish trend.\n\nIn terms of trading strategy, consider waiting for a more decisive price move either above 69600 or below 68800 to identify the next trend. If the price consolidates near support, it might be a good opportunity to go long, but entering positions after a clear breakout could provide a more reliable entry point."
+    }
+  }
+}
