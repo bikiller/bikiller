@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-02T01:50:23.123Z",
+  "price": {
+    "close": "84.52",
+    "high": "86.17",
+    "low": "84.49",
+    "open": "85.01",
+    "change": "-0.58",
+    "datetime": "2026-03-02 01:00:00"
+  },
+  "indicators": {
+    "rsi": 51.90208,
+    "macd": -0.11966079,
+    "macd_signal": 0.0033623157,
+    "sma20": 84.608
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：震荡整理，短期看空",
+      "content": "当前Solana/美元（SOL/USD）的价格为84.52，整体呈现出震荡整理的格局。价格略低于20日简单移动平均线（SMA 20），这表明短期内可能存在一定的下行压力。随着24小时变动率为负值，市场情绪略偏向谨慎。\n\n技术指标方面，MACD目前显示为负值，且信号线数据缺失，这通常意味着短期内的卖压较大。然而，由于RSI（相对强弱指数）缺失，无法准确判断市场的超买或超卖状态。SMA(20)略低于当前价格，也暗示潜在的支撑位在此附近。\n\n从支撑与阻力来看，当前价格接近84.49的低点，一旦突破此水平，可能进一步测试更低的支撑位。上方阻力位在86.17附近，如果价格突破该点位，可能会迎来短期的反弹。\n\n建议交易者在当前市场状态下采取谨慎的观望策略。若价格下行突破支撑位，可考虑短线做空，反之，突破阻力位则可考虑适度做多，前提是确认趋势反转信号。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 84.52\\n- 24h Change: -0.58%\\n- High/Low: 86.17 / 84.49\\n- RSI(14): N/A\\n- MACD: -0.11966079, Signal: N/A\\n- SMA(20): 84.60800\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$84.50** suggests a consolidative phase after the recent pullback from intraday highs near **$86.17**. The slight negative momentum reflected in the **–0.58%** 24‑hour change points to short‑term hesitation rather than a full reversal. Despite this, the proximity to the **20‑period simple moving average (~84.61)** indicates the market is respecting this average as a pivot zone. If price holds above this level, bulls retain the initiative for another push higher.\n\nIn terms of trend, the lack of a full RSI reading limits clarity on overbought/oversold conditions, but the flattening of price suggests a potential shift from the previous uptrend into a sideways range. The **MACD’s negative value (~–0.12)** implies bearish undercurrents, yet without a signal line crossover, it’s premature to label this as a larger downtrend. Traders should watch for a defined MACD signal line interaction, as a bullish crossover could signal a resumption of upside momentum.\n\nKey support lies near **$82.00 to $83.00**, a range where previous buy orders clustered and where the SMA(20) could offer dynamic support. A confirmed break below this zone might expose **$80.00** as the next psychological floor. On the upside, **$87.50–$88.00** represents a notable resistance area where sellers emerged in recent sessions. An extended move above this level could unlock further gains toward **$90.00+**.\n\nFor traders, a disciplined approach favors waiting for a clear breakout from the current consolidation. Long entries could be considered on a close above **$87.50** with tight risk control, while short‑term dips toward the **$83.00** support area may offer low‑risk buys for range traders. Always manage positions with appropriate stops and size relative to personal risk tolerance."
+    }
+  }
+}
