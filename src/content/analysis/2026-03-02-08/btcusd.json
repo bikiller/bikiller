@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-02T08:39:29.113Z",
+  "price": {
+    "close": "65825.52",
+    "high": "66116.02",
+    "low": "65649.2",
+    "open": "66021.48",
+    "change": "-0.29",
+    "datetime": "2026-03-02 08:00:00"
+  },
+  "indicators": {
+    "rsi": 44.53146,
+    "macd": -24.86896,
+    "macd_signal": 0.35052696,
+    "sma20": 66243.9155
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，关注支撑与阻力区间]",
+      "content": "当前比特币价格在65825.52美元附近，24小时变动幅度较小，仅下降0.29%。整体来看，市场处于震荡整理状态，未出现明显的上涨或下跌趋势。从价格的高点66116.02美元和低点65649.2美元来看，波动范围较为紧凑，反映出买卖双方的力量相对均衡。\n\n技术指标方面，MACD显示出负值（-24.86896），表明短期内市场可能存在一定的下行压力，但由于Signal线未给出具体数据，无法进一步确认趋势反转的信号。RSI值目前无法获取，但基于当前价格行为来看，市场并未出现过度超买或超卖的情形。SMA(20)位于66243.92美元，价格低于该均线，进一步验证了短期内市场偏弱。\n\n在支撑位方面，65649.2美元是近期的重要支撑区域，跌破该价位可能会加速下行。而66116.02美元则形成了较强的阻力区，如果价格突破这一点位，则有可能开启新的上涨空间。因此，关注这些关键价格区域对于接下来的交易决策非常重要。\n\n建议交易者在当前区间内操作时保持谨慎，可以在接近支撑位时寻找买入机会，而接近阻力位时则考虑卖出或止盈。同时，密切关注市场波动，避免过于激进的操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently experiencing a slight decline, with its latest price at $65,825.52. Over the past 24 hours, the asset has shifted by -0.29%, reflecting a modest loss. The price remains within a narrow range, with a high of $66,116.02 and a low of $65,649.2, suggesting some consolidation in the market. The absence of the RSI value limits detailed momentum analysis, but the price movement indicates a period of indecision in the market.\n\nThe MACD stands at -24.86896, signaling that Bitcoin is in a bearish phase. This negative value implies that recent price movements are weaker than the longer-term average, showing an overall lack of buying momentum. While the signal line isn't available for comparison, the current MACD value suggests caution for bullish traders. It would be essential to wait for a bullish crossover or for the price to stabilize before considering entry.\n\nIn terms of support and resistance, the immediate support level appears to be around the recent low of $65,649.2. If the price fails to hold above this level, a deeper pullback could test the $64,500 region. On the upside, resistance is likely to form near the recent high of $66,116.02. A sustained break above this level could open up the path toward $67,000 or higher.\n\nGiven the current market conditions, traders may consider waiting for a confirmation of price action around the key support or resistance levels. A break above $66,116.02 could be seen as a potential entry point for long positions, while a break below $65,649.2 might indicate a short opportunity. Risk management will be crucial, with stop losses placed near these levels to manage potential volatility."
+    }
+  }
+}
