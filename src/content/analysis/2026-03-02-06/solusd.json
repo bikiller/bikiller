@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-02T06:10:54.713Z",
+  "price": {
+    "close": "83.91",
+    "high": "84.24",
+    "low": "83.79",
+    "open": "84.24",
+    "change": "-0.37",
+    "datetime": "2026-03-02 06:00:00"
+  },
+  "indicators": {
+    "rsi": 47.95613,
+    "macd": -0.047792617,
+    "macd_signal": -0.027037524,
+    "sma20": 84.2425
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 83.91\\n- 24小时变化: -0.37%\\n- 高点/低点: 84.24 / 83.79\\n- RSI(14): N/A\\n- MACD: -0.047792617, Signal: N/A\\n- SMA(20): 84.2425\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：当前盘整偏弱震荡\n\n当前价格围绕83.9附近反复震荡，短线缺乏明确趋势动量。价格在20日简单移动平均线下方运行，表明短期均线压力有效，多空力量偏向空方，但跌幅有限，整体维持盘整偏弱格局。若跌破20日均线支撑，则下行风险加大。\n\n技术指标方面，MACD目前为负值且尚未出现明显红柱缩减信号，显示下行动能仍存，但无明显加速迹象。由于RSI数据不可用，需关注未来RSI是否进入超卖区，若出现，则可能带来短线反弹契机。当前动量指标表明市场短期仍偏谨慎。\n\n关键支撑位初步关注82.50附近，其次是80.00整数关口，这些位置若失守可能引发下一轮下探压力。阻力位则首先看向84.50附近，其次是85.80区域，突破则可能重新激活多头动能。价位反复试探这些关键点，提示投资者关注成交量配合情况。\n\n交易策略上，短线可在支撑区间内适度做区间震荡操作，止损设置在下破支撑位下方。趋势未明确前，不建议追高加仓。若价格有效跌破80.00且伴随放量，则考虑等待更明确的反转信号再择机介入。务必控制仓位与风险管理。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 83.91\\n- 24h Change: -0.37%\\n- High/Low: 84.24 / 83.79\\n- RSI(14): N/A\\n- MACD: -0.047792617, Signal: N/A\\n- SMA(20): 84.2425\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s recent price action around **$83.91** shows a slight bearish tone after failing to hold above the short‑term average. The 20‑period simple moving average at **84.24** is acting as immediate resistance, indicating that momentum favors sellers in the very short term. The tight 24‑hour range (84.24 high, 83.79 low) suggests low volatility and potential consolidation, but a sustained break below recent lows could usher in deeper pullbacks. At the moment, trend bias leans neutral‑to‑slightly‑bearish until a decisive breakout occurs.\n\nWith the MACD currently negative at **‑0.0478**, Solana’s momentum is skewed toward the downside despite the absence of a signal line for cross confirmation. This divergence highlights weakening upward pressure, signaling that upside attempts may lack the strength to sustain a rally. Although RSI isn’t available, the price’s inability to strongly exceed the SMA and the shallow range indicate that market participants may be hesitant, awaiting fresh catalysts. In this environment, continuation of sideways trading is probable before trend clarity returns.\n\nKey support resides near **$82.50–$83.00**, aligned with recent intra‑day lows and the psychological $80 neighborhood. A breach below $82 could accelerate bearish activity and expose the next structural support around **$78–$79**, where longer‑term buyers historically engaged. On the upside, clearing the **$85–$86** zone — where the SMA and recent highs cluster — is necessary to shift momentum back toward bullish control. Above this, further resistance at **$88–$90** should be monitored as potential liquidity targets.\n\nFor those trading Solana, a cautious approach is advisable. Range‑oriented strategies could work well, buying near defined support with tight stops and taking profits before resistance zones. Breakout traders might consider long entries only after a convincing close above **$86**, with stops beneath the breakout level. Conversely, short positions may favor a breakdown below $82 with measured targets near $78. Always align position sizing with risk tolerance in this choppy phase."
+    }
+  }
+}
