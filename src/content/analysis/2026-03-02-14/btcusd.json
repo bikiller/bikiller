@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-02T14:10:03.963Z",
+  "price": {
+    "close": "65517.68",
+    "high": "65533",
+    "low": "65250.12",
+    "open": "65427.84",
+    "change": "0.14",
+    "datetime": "2026-03-02 14:00:00"
+  },
+  "indicators": {
+    "rsi": 41.34338,
+    "macd": -129.28802,
+    "macd_signal": -39.89384,
+    "sma20": 66099.615
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期整理，面临区间震荡",
+      "content": "当前比特币/美元（BTC/USD）价格在65500附近震荡整理，显示出短期内市场处于区间波动状态。价格在24小时内变化幅度仅为0.14%，表明市场情绪相对平稳，未出现强烈的多空争斗。短期内，价格可能会继续在65250至66000之间波动。\n\n从技术指标来看，RSI和MACD数据暂缺，无法提供详细的超买或超卖信号。但SMA(20)均线显示价格位于66000下方，暗示近期可能受到一定的下行压力。若价格未能突破66099附近的均线压力，可能会面临进一步回调的风险。\n\n在支撑与阻力方面，65250附近为近期的重要支撑位，若价格跌破该位置，可能加速下行趋势。上方66000则为主要阻力区，突破此区域有可能带来进一步的上涨动能。投资者应密切关注这些关键技术位置，做好风险控制。\n\n建议交易者保持观望，等待价格突破上述关键支撑或阻力位后再做决定。若突破66000，可考虑短线做多；若跌破65250，则可能进行空头布局。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 65517.68\\n- 24h Change: 0.14%\\n- High/Low: 65533 / 65250.12\\n- RSI(14): N/A\\n- MACD: -129.28802, Signal: N/A\\n- SMA(20): 66099.61500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin’s price action around **$65,500** reflects a **neutral to slightly bearish trend** in the short term. After failing to sustain above the **20-day simple moving average (SMA) at ~66,099**, upside momentum appears restrained. The narrow 24-hour range and modest **0.14% change** suggest that market participants are indecisive, waiting for clearer catalysts. Until price can convincingly break above the 20-day SMA, the path of least resistance remains sideways to slightly lower.\n\nWith the **MACD deeply negative at –129.3** and no signal line available for confirmation, momentum clearly favors the bears over recent sessions. The absence of an RSI reading makes it harder to gauge overbought or oversold conditions, but the MACD alone signals weakening bullish conviction. Traders should interpret this as caution-flagged: bulls haven’t regained control, and downside pressure could re-emerge on heavier volume. In this context, oscillators and volume indicators should be monitored closely for early reversal clues.\n\nKey technical levels to watch include immediate support near **$65,000**, which if lost, could expose the **$64,500–$64,000** zone. On the upside, reclaiming **$66,500** would be the first step toward testing the **$67,000–$67,500** resistance area, where sellers have recently defended gains. A sustained break above the 20-day SMA, especially on a daily close, would signal a potential shift back toward bullish control and invite fresh entries on strength.\n\nFor traders, a prudent approach is to wait for **clearer directional confirmation** before initiating new positions. Short-term longs might consider scaling in only if price breaks above the 20-day SMA with improving momentum, while short positions could be favored on a break below key support levels. Tight risk management and attention to macro catalysts will be critical in a market showing low volatility and uncertain trend conviction."
+    }
+  }
+}
