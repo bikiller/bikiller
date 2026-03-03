@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-03T15:32:15.872Z",
+  "price": {
+    "close": "66850.25",
+    "high": "67008.63",
+    "low": "66439.58",
+    "open": "66550.32",
+    "change": "0.45",
+    "datetime": "2026-03-03 15:00:00"
+  },
+  "indicators": {
+    "rsi": 43.0054347,
+    "macd": -226.17263,
+    "macd_signal": -15.27127,
+    "sma20": 67952.667
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，谨慎观望]",
+      "content": "当前比特币/美元的价格在66850.25附近，显示出市场的震荡整理趋势。短期内，价格在66439.58和67008.63之间波动，未能突破明显的支撑或阻力位。投资者需关注这一区间的破位情况，以判断未来的价格动向。\n\n在技术指标方面，MACD处于负值区域，表明短期内可能存在卖压，但由于RSI数据缺失，难以判断超买或超卖状态。20日简单移动平均线(SMA)在67952.67，显示出市场仍然处于下行趋势中，需谨慎对待当前价格行为。\n\n支撑位方面，66439.58是近期低点，若价格跌破该水平，可能会引发进一步下行；而67008.63则是短期阻力位，突破后可能会推动价格回升至68000美元以上。投资者需密切关注价格在这些关键点的表现。\n\n建议投资者在此阶段保持观望，避免在没有明确趋势信号的情况下盲目入场。如果价格突破67008.63，可考虑轻仓做多，反之则在66439.58附近设置止损，确保风险控制。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of 66,850.25 shows a slight bullish momentum with a 24-hour change of 0.45%. However, the price is trading just below its recent high of 67,008.63, indicating a potential resistance level. This area presents a critical point for traders; a break above could lead to further upward movement, while failure to breach it may trigger a pullback. The support level to watch is the recent low of 66,439.58, which could provide a cushion should selling pressure increase.\n\nThe absence of an RSI reading complicates momentum analysis, but the MACD value of -226.17263 suggests bearish momentum in the near term. This negative MACD indicates that sellers may still have the upper hand, especially if the price fails to climb above the recent high. Traders should monitor for any divergence in the MACD, which can signal potential reversals, and watch for a crossover that could align with a bullish trend.\n\nThe 20-period Simple Moving Average (SMA) at 67,952.67 further confirms the bearish sentiment, as the price is trading significantly below this level. A move towards this SMA could serve as a potential resistance point, and traders should look for confirmations such as increased volume or supportive indicators before entering long positions. Conversely, if the price continues to hover below this SMA, it may reinforce selling pressure, prompting traders to consider short positions.\n\nIn conclusion, Bitcoin's current trading environment presents mixed signals. The proximity to resistance combined with bearish indicators calls for cautious trading strategies. Traders might look for short-term opportunities around support levels or consider waiting for a clear bullish signal above resistance. Risk management remains essential, as volatility in the cryptocurrency market can lead to abrupt price swings."
+    }
+  }
+}
