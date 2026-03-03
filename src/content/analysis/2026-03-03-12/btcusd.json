@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-03T12:45:24.974Z",
+  "price": {
+    "close": "67329.85",
+    "high": "67944.84",
+    "low": "67008.75",
+    "open": "67008.75",
+    "change": "0.48",
+    "datetime": "2026-03-03 12:00:00"
+  },
+  "indicators": {
+    "rsi": 46.23213,
+    "macd": -95.081538,
+    "macd_signal": 155.16971,
+    "sma20": 68288.5835
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理中，短期承压",
+      "content": "当前，比特币/美元在67329.85附近震荡整理，价格未能突破前高67944.84，显示出市场的短期承压。当前24小时波动较小，仅有0.48%的变化，显示出市场情绪趋于谨慎。短期来看，价格可能会在67000到68000之间震荡，形成一个区间整理。\n\n从技术指标来看，RSI未提供完整数据，因此难以进一步分析超买或超卖的情况。MACD指标显示当前为负值，-95.08，表明短期内卖压较重。SMA(20)为68288.58，价格位于此均线下方，反映出价格在短期内仍有回落风险。\n\n支撑位在67000附近，若价格跌破此位置，可能会进一步测试更低的支撑位，例如66000或65000。上方阻力位在68200-68500区域，一旦突破该区域，可能会重启上涨趋势。整体来看，当前市场处于整理阶段，价格若突破阻力位则有望恢复上涨，否则可能继续回调。\n\n建议短期内保持观望，等待突破关键支撑或阻力后再决定操作。若突破上方阻力，可考虑追多，若跌破下方支撑，则可以考虑短期做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin stands at 67,329.85, showing a slight 24-hour gain of 0.48%. This reflects a market holding steady with minimal volatility. Bitcoin has been testing key resistance around 68,000, a level that has previously capped price movements. With a high of 67,944.84 and a low of 67,008.75 in the past 24 hours, the market remains within a narrow range, indicating a consolidation phase. The price is slightly above the 20-period simple moving average (SMA), suggesting short-term bullish momentum, but any sustained breakout above 68,000 will be critical for confirming further upside potential.\n\nThe RSI (14) is currently unavailable, limiting our ability to assess overbought or oversold conditions at this moment. The MACD reading of -95.081538, however, indicates that the momentum is currently negative. The absence of a signal line adds to the uncertainty, as it leaves us without a reliable gauge of trend direction. Traders should monitor for any changes in the MACD or the formation of a bullish crossover, which would signal a shift toward positive momentum. Until then, the market's current bias remains neutral to slightly bearish.\n\nKey support for Bitcoin lies at 67,000, with a further level at 66,500, where buying interest is likely to emerge. If Bitcoin drops below these levels, it could potentially test the next significant support zone around 65,000. On the upside, a break above 68,000 would likely push Bitcoin toward the 70,000 level, where the next major resistance lies. In this scenario, traders might look for confirmation of sustained upward momentum before taking long positions.\n\nIn the current environment, cautious trading is advisable. With Bitcoin testing its resistance zone and overall momentum showing signs of weakness, entering long positions would require confirmation of a breakout above 68,000. Alternatively, short positions could be considered if Bitcoin fails to maintain its current levels and shows signs of dropping below support at 67,000."
+    }
+  }
+}
