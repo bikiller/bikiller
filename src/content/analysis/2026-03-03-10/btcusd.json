@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-03T10:02:36.483Z",
+  "price": {
+    "close": "66553.11",
+    "high": "66640.84",
+    "low": "66547.45",
+    "open": "66640.84",
+    "change": "-0.13",
+    "datetime": "2026-03-03 10:00:00"
+  },
+  "indicators": {
+    "rsi": 37.17271,
+    "macd": -43.87732,
+    "macd_signal": 286.78768,
+    "sma20": 68488.796
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前震荡整理，关注短期支撑和阻力位]",
+      "content": "当前比特币价格处于66553.11美元，最近24小时变化幅度较小，下降0.13%。市场表现出震荡整理的特征，价格未能突破关键的支撑与阻力区间。短期内，价格可能会在当前区间内波动，投资者需关注进一步的价格动向。\n\n技术指标方面，MACD处于负值区间，显示出一定的卖压，尽管信号线尚未确认，表明市场尚未完全进入下行趋势。SMA(20)均线处于68488.796，当前价格低于该水平，说明短期内价格有一定的下行压力。\n\n支撑位方面，当前价格接近66547.45美元，这一水平曾多次支撑价格反弹。若下破此点位，可能会加速回调至更低的支撑区间。上方则存在66640.84美元的短期阻力位，突破此位置后，可能会恢复上涨势头。\n\n建议投资者在当前市场中采取观望策略，若价格回测至支撑位并确认反弹，可以考虑适量进场；但若价格持续突破下行支撑，则需要警惕进一步的回调风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $66,553.11, reflecting a slight 24-hour decline of 0.13%. Despite this minor drop, the price remains within a narrow range between the daily high of $66,640.84 and the low of $66,547.45. This tight range indicates market consolidation, suggesting a lack of strong directional momentum at the moment. The market appears to be in a wait-and-see pattern, potentially anticipating a breakout either upwards or downwards in the near future.\n\nThe absence of the RSI(14) and MACD signal makes it challenging to derive immediate momentum indicators. However, the MACD value of -43.87732 points to a slight bearish trend, although the lack of a signal line and other momentum data leaves the situation unclear. Traders should be cautious when interpreting this data, as it does not yet confirm a strong trend in either direction. Without the usual confirmation from oscillators, price action becomes the primary focus for potential trade setups.\n\nThe 20-period Simple Moving Average (SMA) is currently at $68,488.796, which serves as an important resistance level. Any upward movement would likely face resistance around this level, with the market potentially struggling to break above it in the short term. Conversely, immediate support can be found closer to the daily low of $66,547.45, with a strong level of interest seen at this range. A breakdown below this support would signal further bearish pressure, while a bounce could reassert bullish momentum.\n\nFor trading strategies, a range-bound approach seems most appropriate given the current market conditions. Short-term traders might look for price action confirmation at the support or resistance levels, while more risk-averse traders may wait for clearer momentum signals, such as a MACD crossover or a break above the SMA. A break of either key level will likely indicate the next major directional move."
+    }
+  }
+}
