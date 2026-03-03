@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-03T01:52:32.524Z",
+  "price": {
+    "close": "86.5",
+    "high": "87.19",
+    "low": "86.28",
+    "open": "86.9",
+    "change": "-0.47",
+    "datetime": "2026-03-03 01:00:00"
+  },
+  "indicators": {
+    "rsi": 53.39551,
+    "macd": 0.7855868,
+    "macd_signal": 0.79113031,
+    "sma20": 85.85
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 86.5\\n- 24小时变化: -0.47%\\n- 高点/低点: 87.19 / 86.28\\n- RSI(14): N/A\\n- MACD: 0.78558680, Signal: N/A\\n- SMA(20): 85.85\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线承压震荡偏多\n\n当前价格略高于SMA(20)支撑，短期仍维持在均线上方，但24小时小幅回落表明多头动能减弱，趋势暂时处于震荡调整阶段，需关注进一步方向确认。\n\n虽然MACD柱体为正且接近0轴上方，暗示多空力量暂未出现明显背离，但缺乏Signal线数据，使指标解读不完全，短线势能偏弱，尚需更多成交量支持才能确认上涨。\n\n近期支撑位可关注85.0附近SMA及前低区域，若下破则加速回落；阻力则首先在近期高点87.5–88.0一带，多头若突破该区将有望延续上行格局。\n\n交易上建议区间内逢低逐步布局，严格设置止损；若价格有效站上88并伴随量能放大，可考虑短线追多；若跌破85支撑则谨慎短空或离场观望。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 86.5\\n- 24h Change: -0.47%\\n- High/Low: 87.19 / 86.28\\n- RSI(14): N/A\\n- MACD: 0.78558680, Signal: N/A\\n- SMA(20): 85.85\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s short-term price action around **$86.5** suggests a mild consolidation after recent volatility. Over the past 24 hours, SOL has struggled to build upward momentum, reflected in a slight **–0.47%** dip and a narrow trading range between **$87.19 high** and **$86.28 low**. This indicates indecision among traders, where neither buyers nor sellers hold clear control. While the broader trend still leans bullish given longer-term structure, near-term momentum is subdued.\n\nLooking at the moving averages and momentum tools, the **SMA(20) at $85.85** is just below the current price, acting as a dynamic support zone. Price staying above this simple average suggests buyers haven’t fully ceded control. The **MACD reading at ~0.79** (with no signal line available) alone hints at underlying bullish bias, but without a complete MACD crossover picture, momentum interpretation remains incomplete. The absence of RSI values limits overbought/oversold context, so traders should monitor volume behavior for clearer strength signals.\n\nKey horizontal levels are emerging: on the upside, **$88.00–$89.00** is a nearby resistance cluster, where past supply could cap rallies. A breakout above these levels with conviction and rising volume would open the door towards **$92–$95**. On the downside, **$85.50–$85.00** offers immediate support, with a deeper floor around **$82.50** if selling pressure intensifies. A decisive break below the SMA(20) could shift focus toward these lower supports, signaling a possible deeper retracement.\n\nFor those considering tactical positions, a conservative approach might involve playing reactions at support and resistance zones rather than anticipating large directional moves. Long entries near **$85.50** with tight stops below the next support could capture rebounds, while breakout traders might look for clear closes above **$89** to confirm strength. Risk management remains key, as the current range-bound context suggests false breakouts are possible."
+    }
+  }
+}
