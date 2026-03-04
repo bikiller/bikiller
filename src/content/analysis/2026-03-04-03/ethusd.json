@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-04T03:35:43.195Z",
+  "price": {
+    "close": "1951.12",
+    "high": "1980.04",
+    "low": "1950.33",
+    "open": "1979.14",
+    "change": "-1.44",
+    "datetime": "2026-03-04 03:00:00"
+  },
+  "indicators": {
+    "rsi": 39.92134,
+    "macd": -4.20901,
+    "macd_signal": -3.64902,
+    "sma20": 1969.906
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[短期震荡，待突破关键水平]",
+      "content": "当前以太坊价格在1951.12美元附近，处于较为震荡的区间内。从24小时变化来看，价格微幅下跌1.44%。市场未出现明显的趋势性波动，短期内可能会维持整理走势。考虑到当前价格接近20日SMA(1969.91美元)，该均线可能成为短期阻力位。\n\n在技术指标方面，RSI(14)目前无法提供有效解读，而MACD值为-4.20901，显示出卖压较强。虽然MACD信号线数据缺失，但负值表明市场可能处于空头控制下。随着价格接近1950美元区间，支撑位看似逐步得到考验。\n\n目前的支撑位在1950.33美元附近，若跌破该水平，价格可能会进一步回调至更低区域。另一方面，1980美元则为短期的阻力位，一旦突破该水平，可能会引发一定的上涨动力。总体来看，市场暂时缺乏强烈的方向性。\n\n建议投资者在价格回撤至1950附近时可考虑寻找买入机会，止损设在1940美元下方。若突破1980美元，追高操作可以考虑，但需谨慎评估市场情绪。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum (ETH) market currently shows a slight bearish trend, with the latest price at $1951.12, reflecting a 1.44% decrease over the last 24 hours. The price is positioned near the lower end of the recent range, between a high of $1980.04 and a low of $1950.33. This price movement suggests potential consolidation in a narrow band, with market participants likely waiting for a more definitive trend. As the price remains below the 20-day simple moving average (SMA) of $1969.91, it signals ongoing downward pressure.\n\nThe lack of the 14-period Relative Strength Index (RSI) makes it difficult to gauge the current momentum and potential overbought or oversold conditions. However, the MACD reading of -4.20901 indicates bearish sentiment, though the absence of a signal line complicates precise interpretation. This negative MACD reading suggests the potential for further downward movement, but traders should wait for clearer signals before taking action. Once the MACD starts to show divergence with price action, a reversal might be anticipated.\n\nIn terms of key support and resistance, the immediate support level lies around $1950, with a potential dip towards $1900 if the bearish momentum persists. On the resistance side, the recent high of $1980 serves as the nearest obstacle, with a break above it suggesting a potential rally towards $2000. Traders should remain cautious and look for confirmation from other indicators, such as a clear RSI or MACD crossover, to confirm direction.\n\nFor short-term traders, a cautious approach may be warranted given the current market structure. A potential short position could be considered if the price fails to break above $1980 and continues to hover below key moving averages. However, any bullish reversal should be considered if ETH breaks above the resistance at $1980, with possible targets near $2000 or beyond."
+    }
+  }
+}
