@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-04T23:02:26.141Z",
+  "price": {
+    "close": "72787.03",
+    "high": "72800",
+    "low": "72642.93",
+    "open": "72721.88",
+    "change": "0.09",
+    "datetime": "2026-03-04 23:00:00"
+  },
+  "indicators": {
+    "rsi": 64.8879,
+    "macd": 1213.80165,
+    "macd_signal": 1227.30907,
+    "sma20": 71643.0265
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡整理，关注关键支撑位]",
+      "content": "当前比特币价格在72787.03附近震荡，显示出短期内市场情绪较为平稳。考虑到24小时变化仅为0.09%，市场并未出现明显的买卖压力。短期趋势偏向于整理，投资者需密切关注价格在72642.93的低点附近的表现，以判断后市走向。\n\n从技术指标来看，SMA(20)位于71643.0265，显示出价格仍高于该均线，表明短期趋势向上。然而，MACD未提供明确的信号，因此需要谨慎解读目前的动能。RSI指标缺失，无法判断超买或超卖状态，建议继续观察后续价格波动。\n\n支撑位方面，72642.93是关键支撑线，如跌破该位置可能引发卖盘压力，进一步测试更低的支撑位。阻力位则在72800附近，若突破此水平，可能会吸引更多买盘进入，推动价格向73000及更高水平移动。\n\n综合来看，建议投资者在72642.93的支撑位附近寻找买入机会，同时注意设置止损位以控制风险。若价格突破72800则可考虑短期内增加持仓，反之则需谨慎。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of 72,787.03 reflects a relatively stable market, with a minimal 24-hour change of 0.09%. The price has oscillated between a high of 72,800 and a low of 72,642.93, indicating tight consolidation. This behavior suggests that Bitcoin is currently in a period of indecision among traders. The recent price action aligns with a broader bullish trend, as evidenced by the price consistently holding above the 20-day simple moving average (SMA) of 71,643.03, a key indicator of upward momentum.\n\nThe MACD shows a positive value of 1,213.80165, indicating bullish momentum, although the absence of a signal line makes it difficult to determine the strength of this momentum. Traders should observe whether the MACD begins to converge with a signal line in the coming sessions, as this could provide more clarity for potential entry points. The RSI (14) is currently unavailable, but monitoring this indicator will be crucial moving forward to assess overbought or oversold conditions.\n\nFrom a technical perspective, the immediate support level is identified around 72,642.93, while resistance is seen at 72,800. A sustained break above this resistance could trigger further buying interest, potentially targeting higher resistance levels. Conversely, if the price fails to hold above the support level, it could indicate a bearish reversal, prompting traders to reassess their positions. \n\nFor trading strategies, a cautious approach is recommended. Traders might consider entering long positions if Bitcoin manages to break above 72,800, with tight stop-loss orders just below 72,642.93 to mitigate risks. Alternatively, if the price falls below the support level, short positions could be explored, especially if accompanied by increased volume. Overall, maintaining vigilance on key indicators and price levels will be essential for navigating this market effectively."
+    }
+  }
+}
