@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-03-05T12:55:10.104Z",
+  "price": {
+    "close": "1.43904",
+    "high": "1.4422",
+    "low": "1.43286",
+    "open": "1.43637",
+    "change": "0.20",
+    "datetime": "2026-03-05 12:00:00"
+  },
+  "indicators": {
+    "rsi": 57.35915,
+    "macd": 0.0078716127,
+    "macd_signal": 0.0086293683,
+    "sma20": 1.43284
+  },
+  "analysis": {
+    "zh": {
+      "title": "瑞波币/美元技术分析：短线震荡偏多",
+      "content": "目前XRP/USD在1.439附近窄幅波动，日内涨幅有限，显示市场短线呈震荡态势。从价格与20日均线(SMA20)关系看，最新价格略高于SMA20的1.43284，表明短期多头略占优势，但上涨动力并不强。  \n\nMACD指标当前为0.00787，处于零轴上方，提示多头有一定延续性，但缺少信号线参考，意味着趋势尚不明朗，市场可能在震荡区间内蓄势。RSI数据缺失，但结合价格波动，可推测短期未出现超买或超卖压力。  \n\n关键支撑位位于1.4328附近，即20日均线支撑，跌破可能引发短线回调；阻力位则在1.4422高点附近，多次触及未能突破，短线上行空间有限。投资者应关注价格对这些水平的反应，以判断后续走势。  \n\n交易上可考虑区间操作策略，低位接近支撑可小幅布局多单，高位靠近阻力可逐步减仓或短线做空。风险管理上建议设止损于1.4300下方，避免短期震荡引发的意外回撤，同时密切关注市场情绪及重大消息面影响。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Ripple vs US Dollar (XRP/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 1.43904\\n- 24h Change: 0.20%\\n- High/Low: 1.4422 / 1.43286\\n- RSI(14): N/A\\n- MACD: 0.0078716127, Signal: N/A\\n- SMA(20): 1.43284\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nXRP/USD has shown a modest uptick, flirting around **1.4390** with a narrow 24‑hour range. Price action suggests the pair is in a **mild uptrend**, having bounced off recent short‑term support near **$1.43** and steadily holding above the **20‑period simple moving average (SMA)** at **1.43284**. This SMA acting as dynamic support reinforces the idea that buyers remain active near dips, although the lack of wider volatility signals limited conviction so far.\n\nWith RSI unavailable, momentum needs to be inferred from the MACD reading of **0.00787**, which – despite lacking a signal line value – points to slight bullish pressure. The positive MACD suggests buyers are slightly stronger than sellers, but without a clear histogram or signal crossover, this momentum is **not yet robust**. The SMA also supports a cautiously optimistic tilt, with price maintaining above this key short‑term average, indicating that short‑term sentiment hasn’t flipped bearish.\n\nOn the support/resistance front, immediate support clusters around **$1.43** and a secondary zone near **$1.40**, which has previously capped downside attempts. To the upside, the first meaningful resistance lies at the recent high of **$1.4422**, and beyond that, psychological resistance near **$1.45–$1.48** may emerge as profit‑taking zones. Should price decisively breach **$1.45**, it could open runs toward the **$1.50** level.\n\nFor traders, a prudent approach would be to **watch for confirmation of strength above $1.4422** for bullish entries, with tight stops below **$1.43** to manage risk. Range‑bound players might favor buying near support and trimming near resistance until momentum clearly accelerates. Conservative positions could also benefit from waiting on clearer MACD signal confirmation or a sustained break above the immediate resistance area to validate continuation."
+    }
+  }
+}
