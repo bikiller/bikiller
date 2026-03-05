@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-05T21:53:37.791Z",
+  "price": {
+    "close": "71236.05",
+    "high": "71575.75",
+    "low": "71106.4",
+    "open": "71232",
+    "change": "0.00",
+    "datetime": "2026-03-05 21:00:00"
+  },
+  "indicators": {
+    "rsi": 43.73426,
+    "macd": -173.48607,
+    "macd_signal": 77.83637,
+    "sma20": 72118.5775
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，等待突破",
+      "content": "当前比特币/美元（BTC/USD）价格保持在71236.05附近，市场处于震荡整理状态。近期价格波动幅度较小，高点与低点相差约470美元，显示出市场的观望情绪。尽管目前没有明显的趋势，但需关注即将可能出现的突破。\n\n在技术指标方面，MACD处于负值区间（-173.49），这意味着市场可能存在卖盘压力，但信号线（Signal）缺失，暗示短期内走势不明。RSI值缺失，也无法提供有关超买或超卖的明确信号。SMA(20)水平为72118.58，当前价格低于此均线，显示出短期内下行压力较大。\n\n支撑位在71106.4附近，若价格跌破此区域，可能会进一步测试更低的价格区间。反之，71575.75为上方关键阻力位，突破该水平后有望回升至72000以上。短期内，市场呈现出区间震荡走势，投资者应注意等待突破信号的确认。\n\n建议：当前市场震荡整理，交易者可考虑在支撑位附近寻找买入机会，突破阻力位后可考虑做多。然而，由于缺乏强烈的趋势信号，投资者应保持谨慎，设置合理的止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has recently been consolidating around the $71,236 mark, showing little change over the last 24 hours. The price has been fluctuating between $71,106 and $71,575, indicating a tight trading range. This sideways movement suggests indecision in the market, with neither bulls nor bears taking a clear lead. The current price action is likely a result of investors awaiting more significant market catalysts, such as macroeconomic events or regulatory news, before committing to a clear trend.\n\nLooking at the key indicators, the MACD is currently negative at -173.48607, suggesting a bearish momentum. However, without a defined signal line to confirm a crossover, the bearish sentiment is not yet strong enough to drive a substantial downtrend. Meanwhile, the RSI is unavailable, which limits our ability to assess potential overbought or oversold conditions at this time. Therefore, traders should remain cautious and wait for further price action or confirmation before making significant trades based on technical indicators.\n\nThe 20-period simple moving average (SMA) stands at $72,118.58, just above the current price. This indicates the potential for resistance at this level, as price has previously failed to maintain above this moving average. If the price breaks above the SMA, it may signal a short-term bullish move, but traders should watch for volume confirmation before entering long positions. Conversely, the recent low of $71,106 provides immediate support. A break below this level could open the door for further declines towards the $70,000 range.\n\nConsidering the current market conditions, a range-bound trading strategy could be suitable for short-term traders. It is advisable to buy near support levels and sell near resistance levels, while keeping an eye on the broader market sentiment for any shifts. Longer-term positions should await clearer trend signals or the formation of a more pronounced trend before entering. Volatility remains a key risk factor, so managing risk through stop-loss orders is crucial in this environment."
+    }
+  }
+}
