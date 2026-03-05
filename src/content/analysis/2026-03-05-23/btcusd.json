@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-05T23:40:34.960Z",
+  "price": {
+    "close": "70980.6",
+    "high": "71306.02",
+    "low": "70879.33",
+    "open": "71213.53",
+    "change": "-0.33",
+    "datetime": "2026-03-05 23:00:00"
+  },
+  "indicators": {
+    "rsi": 41.4398,
+    "macd": -228.2209,
+    "macd_signal": -28.52623,
+    "sma20": 71971.862
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期承压]",
+      "content": "当前比特币/美元（BTC/USD）价格为70980.6，近期走势表现出一定的震荡整理态势。价格在高点71306.02和低点70879.33之间波动，显示出市场缺乏明确的方向性。短期内，市场可能会继续在这个区间内震荡，等待新的突破信号。\n\n技术指标方面，MACD值为-228.22090，显示出一定的卖压，但目前没有明显的趋势反转信号。RSI（14）数据未提供，但结合当前价格走势，短期内可能仍处于超买或超卖状态。SMA（20）线为71971.862，意味着当前价格低于短期均线，进一步验证了短期的弱势。\n\n从支撑和阻力层面来看，当前的支撑位在70879附近，若价格进一步跌破此水平，可能会加剧下行风险。上方阻力位在71300附近，突破该位置可能会迎来短期反弹的机会。投资者应密切关注这些关键价位的突破与反弹。\n\n交易建议方面，建议在当前震荡区间内采取观望策略，避免盲目追涨杀跌。若价格突破71300或跌破70879，则可考虑相应的进场或止损操作。同时，保持灵活应变的心态，以应对市场的快速波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin market shows a slight downtrend, with a price of $70,980.6, down 0.33% in the last 24 hours. The high of $71,306.02 and low of $70,879.33 indicate a tight trading range, signaling a lack of clear momentum in either direction. Given this range, Bitcoin may be consolidating before a potential breakout. Traders should watch for a breakout above $71,306 or a breakdown below $70,879, as these levels could provide direction for the next move.\n\nThe absence of a 14-day RSI or a clear Signal line for the MACD complicates the assessment of momentum. However, the current MACD value of -228.22090 suggests bearish pressure, pointing to a potential continuation of the downward move unless a reversal signal emerges. The lack of an RSI indicator leaves traders with limited momentum analysis for now, but the MACD’s negative value could point to further downward pressure if it remains below zero.\n\nThe 20-period Simple Moving Average (SMA) at $71,971.86 is a critical level of resistance in the current market. This indicates that Bitcoin is struggling to maintain upward momentum and faces rejection near this point. A push above this SMA could signal bullish momentum returning. On the other hand, if the price continues to test the lower support levels, it might be a sign of further weakness, making a test of $70,000 a likely next support zone.\n\nFor trading strategies, short-term traders may consider watching the current price action closely around key levels—$71,306 as resistance and $70,879 as support. A breakout above the resistance could prompt long positions, while a fall below support may warrant short entries. Longer-term holders should remain cautious, as the lack of momentum indicators leaves uncertainty about the direction in the immediate future."
+    }
+  }
+}
