@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-05T17:59:44.460Z",
+  "price": {
+    "close": "70829.98",
+    "high": "71586",
+    "low": "70639.01",
+    "open": "71321.89",
+    "change": "-0.69",
+    "datetime": "2026-03-05 17:00:00"
+  },
+  "indicators": {
+    "rsi": 37.90504,
+    "macd": 63.43281,
+    "macd_signal": 380.38095,
+    "sma20": 72443.61
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期承压、盘整迹象明显",
+      "content": "当前比特币价格位于70829.98美元，较24小时高点71586美元有所回落，显示短期上涨动力不足。从趋势来看，价格低于SMA(20)72443.61美元均线，短期呈承压整理格局，多头力量暂时偏弱。  \n\nMACD指标为63.43，虽仍处正值区域，但缺少Signal线对比，表明市场多空力量存在分歧，动能可能出现减弱，短线反弹空间有限。若价格持续下行，可能试探70639美元附近支撑位，若守住该水平，则仍有震荡反弹的可能。  \n\n阻力位主要关注SMA(20)均线72443美元附近，突破此位置方可确认短期多头强势回归。支撑位则集中在70639-70700美元区间，一旦失守，下行压力将明显增加，短线投资者需保持警惕。  \n\n交易建议方面，当前适合区间震荡策略，短线可在支撑位附近逢低布局，突破阻力位再考虑追涨；而保守策略可等待明确方向信号后再介入，结合止损设置控制风险，以应对波动性加大的市场环境。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price at 70,829.98 shows a slight decline of -0.69% in the last 24 hours, reflecting moderate bearish pressure. The market has remained within a tight range between 70,639.01 and 71,586. This price action suggests indecision among market participants, potentially indicating a consolidation phase. The overall trend is still upward, but the lack of strong momentum is evident. Traders should watch for signs of either a breakout above 71,586 or a breakdown below 70,639 to gauge the next major move.\n\nLooking at the 20-period simple moving average (SMA), which stands at 72,443.61, Bitcoin is currently trading below this level. The SMA is acting as immediate resistance, reflecting a short-term downtrend. A break above this resistance could signal a return to bullish sentiment, but failure to overcome this level may lead to further consolidation or even a pullback toward lower levels. Traders should focus on whether the price can reclaim this level for a potential continuation of the uptrend.\n\nThe Relative Strength Index (RSI) and MACD indicators are unavailable at this moment, which would typically provide further insights into momentum and overbought/oversold conditions. However, the current price action within the range suggests a neutral-to-bearish outlook in the short term. A downward crossover on the MACD or an RSI moving below 30 would strengthen the bearish case. Until these indicators are available, it is essential to rely on price action and key levels.\n\nSupport is currently seen at 70,639, with potential downside risk if this level fails to hold. A drop below this would likely push Bitcoin to test lower support near 69,000 or even 67,500. On the upside, 71,586 remains the primary resistance, with a breakout above this level suggesting a target toward 73,000. Traders should wait for clearer signals before committing to a position, particularly around key support or resistance levels."
+    }
+  }
+}
