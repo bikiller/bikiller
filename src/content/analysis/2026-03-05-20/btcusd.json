@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-05T20:34:03.894Z",
+  "price": {
+    "close": "71236.96",
+    "high": "71338.64",
+    "low": "70836",
+    "open": "70908.06",
+    "change": "0.46",
+    "datetime": "2026-03-05 20:00:00"
+  },
+  "indicators": {
+    "rsi": 43.74216,
+    "macd": -142.90941,
+    "macd_signal": 141.87776,
+    "sma20": 72188.63
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理趋势]",
+      "content": "当前比特币/美元（BTC/USD）价格为71236.96，最近24小时变动幅度为0.46%。目前市场呈现震荡整理趋势，价格在70836与71338.64之间波动，表明短期内买卖双方的力量相对平衡，市场尚未形成明确的方向。\n\n从技术指标来看，虽然RSI(14)数据缺失，但MACD显示为负值（-142.90941），这可能暗示出市场的弱势信号。同时，20日简单移动平均线（SMA）在72188.63处，显示出当前价格低于这一均线，进一步加强了市场的看空情绪。\n\n在支撑和阻力位方面，目前70836构成关键支撑位，而71338.64则是短期阻力位。如果价格突破71338.64，有望进一步上探至72000的心理关口；反之，跌破70836则可能引发更深的回调，测试69500的支撑区间。\n\n基于当前市场状况，建议投资者采取观望策略，避免在震荡区间内频繁交易。若出现突破信号，可考虑适当布局，但务必设置止损以控制风险。保持警惕，关注市场消息面变化，以便做出及时的调整。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $71,237, showing modest upward momentum with a 24-hour gain of 0.46%. Price action has been relatively contained between the daily high of $71,339 and low of $70,836, suggesting short-term consolidation. The overall trend appears slightly bearish in the near term, as the current price remains below the 20-day simple moving average at $72,189. This indicates that while buyers are present, the market is still under mild selling pressure from recent highs.  \n\nThe MACD reading at -142.91 highlights that bearish momentum dominates, even if a full signal line is unavailable. Typically, a negative MACD value reflects that the shorter-term average is below the longer-term average, implying continued downward pressure. Traders should remain cautious, as momentum indicators are signaling the potential for further retracements, and any sharp price spike could quickly be met with selling. The absence of an RSI limits insight into overbought or oversold conditions, adding uncertainty to timing entries.  \n\nKey support lies near $70,800, slightly above the recent low, providing a potential buffer for downside risk. Immediate resistance is found around $71,340, where prior intraday highs have stalled upward moves. A break above the SMA at $72,188 would be a strong bullish signal, opening a path toward $73,000 in the short term. Conversely, a decisive drop below $70,800 could accelerate selling, with $70,000 acting as the next critical support.  \n\nFor active traders, a cautious approach is recommended. Short-term swing traders might consider entering long positions only on strong support bounces with tight stop-losses near $70,800. Momentum traders could wait for MACD convergence or a clear breakout above the SMA for confirmation of upward continuation. Conservative investors may prefer to hold, monitoring price behavior around the key support and resistance zones before committing to new positions, balancing risk against potential upside."
+    }
+  }
+}
