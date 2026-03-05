@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-05T07:29:13.551Z",
+  "price": {
+    "close": "72589.99",
+    "high": "72683.11",
+    "low": "72438.09",
+    "open": "72563.47",
+    "change": "0.04",
+    "datetime": "2026-03-05 07:00:00"
+  },
+  "indicators": {
+    "rsi": 59.84583,
+    "macd": 661.17722,
+    "macd_signal": 876.36431,
+    "sma20": 72728.4655
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，谨慎观望",
+      "content": "当前BTC/USD价格在72589.99附近微幅波动，24小时变化仅0.04%，显示市场短期缺乏明确方向。从价格与20日均线(SMA20)72728.47相比，现价略低，暗示短期存在轻微下行压力，但整体仍维持均线附近震荡。多空力量暂未明显偏向一方，市场处于整理区间。  \n\nMACD目前为661.18，虽未提供完整信号线，但正值区显示多头动能尚存，但增幅有限，说明上涨动力不足，行情可能延续区间震荡。缺失RSI数据使超买超卖判断暂不可用，但结合价格与均线位置，可初步判断市场未过度偏离均衡区域。  \n\n支撑位初步落在72438附近，若跌破可能触发短线空单压力；阻力位则在72728及72683附近，多头若有效突破可带动短线回升。当前波动幅度有限，区间操作更为稳妥，追涨或抄底需谨慎，避免追高或在震荡区频繁换仓。  \n\n综合来看，短期市场仍以盘整为主，交易策略建议以观望为主，等待MACD完整信号及价格突破均线确认方向后再入场。短线操作可关注支撑阻力区间内的低风险试单，同时严格控制仓位与止损，防范波动突发风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market for Bitcoin shows a relatively neutral stance, with the price hovering around $72,590, only slightly above the recent low of $72,438. This price action suggests consolidation within a tight range, offering no immediate clear directional bias. The high of $72,683 reinforces this notion, as Bitcoin seems to be struggling to break past it. Given this range-bound price movement, the trend is neutral, and the market may require a catalyst to determine the next significant move.\n\nIn terms of technical indicators, the absence of the RSI (14) makes it difficult to gauge overbought or oversold conditions at this point. However, the MACD reading of 661.17722 remains positive, indicating that momentum is still in the bullish camp, albeit weak. The signal line is missing, which leaves some uncertainty in interpreting crossovers or potential reversals. The price is currently trading just below the 20-period SMA, further suggesting a slight bearish bias in the short term. The SMA could serve as a dynamic resistance point if the price attempts to rally higher.\n\nKey support and resistance levels are visible around $72,438 and $72,683. The price has tested the lower level multiple times, and any sustained breach below it could point to further downside, with potential support at $72,000 or even $71,500. On the flip side, if Bitcoin manages to reclaim and close above the 20-period SMA ($72,728), it could target the $73,000 level as the next resistance point. A breakout above that could confirm a renewed bullish trend.\n\nFor trading strategies, short-term traders might consider waiting for confirmation of a breakout above $72,728 or a decline below $72,438 to determine the next direction. A break above $72,728 would make a move toward $73,000 likely, while a breakdown under $72,438 could lead to a more bearish scenario, with a potential target near $72,000 or lower. For long-term investors, watching the broader trend will be crucial, as Bitcoin remains in a range where significant movements are yet to unfold."
+    }
+  }
+}
