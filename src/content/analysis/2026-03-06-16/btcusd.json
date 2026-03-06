@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-06T16:35:55.138Z",
+  "price": {
+    "close": "68488.42",
+    "high": "68803.42",
+    "low": "68210.02",
+    "open": "68498.35",
+    "change": "-0.02",
+    "datetime": "2026-03-06 16:00:00"
+  },
+  "indicators": {
+    "rsi": 25.16086,
+    "macd": -735.50768,
+    "macd_signal": -504.60345,
+    "sma20": 70355.0935
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，需关注支撑与阻力突破]",
+      "content": "目前比特币/美元价格呈现震荡整理态势，当前价格在68488.42附近，24小时变化仅为-0.02%。这种走势显示出市场的犹豫，缺乏明确的上涨或下行动力。短期内，BTC/USD的价格波动主要受市场情绪影响，未能有效突破近期的关键价格区间。\n\n从技术指标来看，MACD值为-735.50768，表明短期内卖盘占优，价格存在下行压力。然而，由于Signal线数据缺失，MACD的参考价值有限。SMA(20)位于70355.093500附近，距离当前价格较远，显示出当前价格偏离均线较大，暗示短期内可能会迎来回调或修复。\n\n支撑位方面，68210.02的低点可能构成短期支撑区域，若价格跌破此区域，则可能出现更深幅度的下探。上方68803.42的高点则是短期内的阻力位，若价格突破该点位，有望迎来反弹。交易者可关注这些关键价格区间的突破情况，以把握下一步的交易机会。\n\n建议投资者在当前震荡格局中保持谨慎，短期内可根据支撑与阻力的突破进行适当布局。若价格有效突破阻力位，短线看多；若跌破支撑位，则应考虑止损或做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating near $68,488, showing minimal movement over the past 24 hours. The intraday high of $68,803 and low of $68,210 indicate a tight trading range, suggesting that market participants are indecisive. The broader trend appears slightly bearish in the short term, as the latest price is below the 20-period simple moving average at $70,355. This gap implies downward pressure, though the small percentage change points to potential sideways accumulation before a decisive move.  \n\nThe MACD reading of -735.50 reinforces bearish sentiment, reflecting momentum favoring sellers. Without a signal line or RSI data, the analysis leans on price action and moving averages. The negative MACD suggests that short-term momentum may remain subdued unless a bullish crossover emerges. Traders should monitor volume closely, as a sudden increase could trigger a breakout in either direction, potentially shifting momentum toward buyers if it crosses above key moving averages.  \n\nSupport levels to watch are around $68,200, the recent intraday low, and a secondary floor near $67,800, where prior consolidation occurred. Resistance is evident at $68,800 and more significantly at the 20-period SMA near $70,355. A break above the SMA would signal renewed bullish interest and could target $71,000–$71,500. Conversely, a sustained drop below $68,200 could accelerate downward movement, making $67,000 a potential next target for sellers.  \n\nTrading strategies should emphasize caution in this range-bound environment. Short-term traders may consider buying near support with tight stop-losses below $68,000, aiming for the $68,800–$70,000 zone. Conversely, aggressive sellers could look for short entries on failed attempts to break the SMA, keeping risk management tight. Overall, momentum is subdued, and clear directional bias may only emerge after a breakout from the current narrow trading corridor."
+    }
+  }
+}
