@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-06T04:24:05.584Z",
+  "price": {
+    "close": "2078.41",
+    "high": "2085.29",
+    "low": "2077.15",
+    "open": "2082.9",
+    "change": "-0.26",
+    "datetime": "2026-03-06 04:00:00"
+  },
+  "indicators": {
+    "rsi": 45.23249,
+    "macd": -6.063979,
+    "macd_signal": -4.18744,
+    "sma20": 2095.1565
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线偏弱震荡，空头略占优势",
+      "content": "当前ETH价格约2078美元，24小时波动较小，整体处于窄幅震荡区间。从短线结构看，价格已跌破SMA(20)均线2095附近，显示短期趋势由此前的整理转向偏弱运行，多头动能有所减弱，市场情绪趋于谨慎。\n\nMACD指标当前为负值，约-6.06，说明动能结构仍处于空头主导阶段，市场动量偏向下行。不过由于价格仍接近日内低点2077附近，短线存在一定技术性反弹需求。RSI数据暂缺，但结合价格结构判断，短期动能仍偏弱。\n\n关键支撑位首先关注2075附近，该区域接近日内低点，一旦有效跌破，下一支撑或下探2050区域。上方短线阻力位在2095附近，即20日均线压力，同时2100整数关口也形成心理阻力。\n\n交易策略方面，短线可关注2075–2080区域的支撑表现，若企稳可尝试轻仓反弹交易，目标2090–2100区间；若价格跌破2075并放量，则需警惕进一步下行风险，顺势做空更为稳妥，注意控制仓位与止损。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum's current price action shows a slight negative trend, with a 24-hour change of -0.26%. The asset is trading at $2078.41, near its low range of the day ($2077.15), indicating some weakness in the short term. The price is below its 20-period simple moving average (SMA) of $2095.1565, suggesting that the short-term momentum is bearish. This could indicate further downside potential if the price fails to reclaim the SMA, with sellers dominating in the immediate term.\n\nThe absence of a current Relative Strength Index (RSI) makes it difficult to assess the overbought or oversold conditions, but the MACD reading of -6.063979 suggests weak bearish momentum. Typically, a negative MACD indicates that the recent price action is unfavorable, with downward pressure on the market. If the MACD begins to converge toward the signal line, this could signal a potential bearish trend reversal, but without the signal, traders must be cautious.\n\nSupport levels for ETH/USD lie around the recent low of $2077.15, which is close to the day’s low. If this level holds, Ethereum may find some short-term relief, but a break below it would expose further downside risks. On the upside, resistance is seen around the SMA level of $2095, with a potential break above this level signaling a recovery toward higher price levels. Traders should closely monitor price action near these levels for breakout opportunities.\n\nGiven the current market structure, cautious traders may prefer to wait for confirmation before taking positions. If the price breaks above the SMA, a potential long position might offer a favorable risk/reward ratio. Alternatively, a break below the support at $2077 could present a short opportunity. With the bearish indicators present, it’s advisable to remain patient and let price action confirm the direction before committing to larger trades."
+    }
+  }
+}
