@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-06T01:49:14.455Z",
+  "price": {
+    "close": "71226.13",
+    "high": "71248.43",
+    "low": "70357.49",
+    "open": "70987.42",
+    "change": "0.34",
+    "datetime": "2026-03-06 01:00:00"
+  },
+  "indicators": {
+    "rsi": 45.29009,
+    "macd": -246.83811,
+    "macd_signal": -109.24925,
+    "sma20": 71814.228
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱整理",
+      "content": "目前BTC/USD价格在71226美元附近盘整，日内波动幅度有限，短期趋势呈现震荡偏弱格局。价格持续低于20日简单移动平均线(SMA20=71814)，显示多头动力略显不足，但未出现明显下跌加速迹象，多空仍处拉锯状态。  \n\nMACD指标呈现负值(-246.84)，表明短期动能偏空，但信号线未提供明确方向，意味着卖压存在但尚未形成强烈下行趋势。缺少RSI数据，无法准确判断超买或超卖，但结合价格与SMA20位置，可推测多头略显疲软，空方压力温和。  \n\n关键支撑位在70350附近，若下破该位置，可能引发进一步回调至70000整数关口；阻力位接近71800-72000区间，上方突破需伴随量能放大才能确认趋势反转。投资者需关注支撑的有效性和价格是否企稳。  \n\n交易策略上，建议短线以区间操作为主，低位可尝试小幅布局多单，止损设在70350下方；高位接近阻力区则可考虑减仓或轻仓空单，保持灵活仓位管理。总体上，当前市场偏向震荡整理，等待明确突破信号再做趋势追随操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $71,226, showing mild bullish stability with a 0.34% gain over the past 24 hours. Price action indicates short-term consolidation, hovering just below the 20-day simple moving average at $71,814. This suggests the market is experiencing minor resistance, with buyers cautiously testing higher levels. The daily high of $71,248 and low of $70,357 reflect a narrow intraday range, implying indecision and potential for a breakout if volume picks up.  \n\nDespite the absence of RSI data, the MACD reading at -246.84 indicates prevailing bearish momentum over the short term, though the lack of a signal line limits full confirmation. Traders should note that the negative MACD reflects the need for caution, as the current bullish price drift could encounter resistance before establishing a strong upward trend. Watching for a MACD crossover or divergence could provide a clearer signal for trend continuation or reversal.  \n\nImmediate support lies around $70,350, formed by the recent intraday low, with a secondary support near $69,800, where buyers historically step in. Resistance is concentrated at the 20-day SMA at $71,814 and extends toward $72,200, marking a key level for potential breakout attempts. A clear close above the SMA with rising volume would signal renewed bullish momentum, while a break below support could invite a retracement toward $69,500–$69,800.  \n\nFor trading strategy, cautious long positions near support levels could be considered with tight stop-losses just below $70,350. Momentum traders might wait for MACD confirmation or a break above $71,814 before entering aggressive longs. Conversely, short-term traders could target $72,200 as a near-term upside, taking profits incrementally, while being mindful of the current consolidation phase. Risk management remains essential given the mixed signals and tight range."
+    }
+  }
+}
