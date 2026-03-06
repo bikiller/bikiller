@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-03-06T06:05:51.940Z",
+  "price": {
+    "close": "0.268635",
+    "high": "0.268638",
+    "low": "0.268525",
+    "open": "0.268525",
+    "change": "0.04",
+    "datetime": "2026-03-06 06:00:00"
+  },
+  "indicators": {
+    "rsi": 43.92746,
+    "macd": -0.0010882654,
+    "macd_signal": -0.0010099143,
+    "sma20": 0.27052455
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期震荡偏弱",
+      "content": "当前艾达币价格维持在 $0.2686$ 附近，距离20日简单移动平均线SMA(20) $0.2705$ 略低，显示短期承压。价格在高点 $0.268638$ 与低点 $0.268525$ 之间波动幅度极小，表明市场多空力量暂时平衡，短线缺乏明确趋势。  \n\nMACD指标呈现负值 $-0.0011$，暗示下行动能略强，但由于信号线数据缺失，趋势确认仍需谨慎。当前缺少RSI参考，但结合价格和均线走势，短线偏向震荡整理，投资者应注意市场情绪变化和成交量的放大或缩小。  \n\n支撑位可关注近期低点 $0.2685$，若跌破则可能引发进一步回调；阻力位则在SMA(20) $0.2705$ 附近，突破需伴随成交量放大才具备持续性。市场短期波幅有限，价格区间操作风险相对可控，但单边冲高或回落的信号仍需警惕。  \n\n交易策略上，短线投资者可考虑区间高抛低吸，止损设置略低于 $0.2685$ 支撑位；激进者可等待突破SMA(20) 并伴随量能确认后再做多单。总体来看，艾达币当前呈震荡偏弱格局，建议以控制仓位和短线灵活操作为主。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano (ADA) is currently exhibiting a subtle consolidation phase around $0.2686, reflecting market indecision after a minor retracement from the short-term SMA(20) at $0.2705. The narrow trading range between $0.2685 and $0.2686 indicates low volatility, suggesting that buyers and sellers are temporarily balanced. The lack of a pronounced momentum signal points to a potential sideways movement in the near term unless a catalyst triggers a breakout.\n\nThe MACD reading of -0.0011, while slightly negative, indicates mild bearish pressure, though the absence of a signal line limits definitive interpretation. This suggests that downward momentum is present but not strongly accelerating, aligning with the price hovering just below the 20-period SMA. Without an RSI value, overbought or oversold conditions are difficult to quantify, so traders should rely more heavily on price action and support/resistance structures for directional clues.\n\nImmediate support can be identified near $0.2685, providing a short-term floor where buying interest may reemerge. Resistance lies close to the SMA(20) at $0.2705, marking a level where sellers could step in. A break above this resistance with volume confirmation could signal a bullish continuation, while a drop below the support level may open the path toward $0.2678 or lower. Monitoring candle patterns around these zones can provide clearer entry and exit signals.\n\nFrom a tactical perspective, traders may consider a cautious approach, favoring range-bound strategies such as scalping between support and resistance. Aggressive buyers could wait for a confirmed break above $0.2705 for momentum entries, while risk-averse participants might set tight stop-losses just below $0.2685. Overall, the current market context suggests patience, as ADA is neither showing strong bullish conviction nor severe downside pressure, making careful position sizing critical."
+    }
+  }
+}

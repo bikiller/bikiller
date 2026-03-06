@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-06T06:02:13.209Z",
+  "price": {
+    "close": "70424.22",
+    "high": "70447.07",
+    "low": "70390.01",
+    "open": "70431.2",
+    "change": "-0.01",
+    "datetime": "2026-03-06 06:00:00"
+  },
+  "indicators": {
+    "rsi": 36.62232,
+    "macd": -343.34153,
+    "macd_signal": -233.29612,
+    "sma20": 71354.8345
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前比特币/美元（BTC/USD）价格稳定在70424.22附近，未出现大幅波动，整体呈现震荡整理的走势。随着价格接近SMA(20)的71354.83，市场情绪较为谨慎。短期内价格可能维持在这个区间内，尚未明确形成强烈的趋势。\n\nMACD指标当前值为-343.34，且无明显信号，表明市场动能较弱。由于RSI(14)数据缺失，无法判断超买或超卖情况，因此需要关注价格是否突破现有区间。若突破70500的低点支撑位，则可能进一步下行，反之，若突破71000的压力位，则可能迎来短期反弹。\n\n支撑位方面，70390.01和70000大关为关键支撑区域。如果价格跌破这些区域，可能会加剧卖盘压力，导致进一步回调。而在上涨行情中，71000和71350则是短期阻力，突破后可能引发更多买盘。\n\n总体而言，建议投资者在当前市场环境下保持观望。短期内，未出现明确的技术信号，交易者可等待价格突破支撑或阻力后再做决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a subtle consolidation around the $70,400 level, hovering just below the 20-day simple moving average at $71,354. This proximity to the SMA suggests short-term bearish pressure, as the price struggles to reclaim this key moving average. The high and low of the past 24 hours, $70,447 and $70,390 respectively, indicate a narrow trading range, hinting at indecision among traders. Overall, the near-term trend appears neutral-to-bearish, requiring a break above $71,350 to signal a potential bullish reversal.  \n\nThe MACD reading of -343.34 points to lingering downward momentum, reflecting selling pressure over recent sessions. Although the signal line is unavailable, the negative divergence alone suggests caution, as downside risk remains present. Without the RSI, overbought or oversold conditions are unclear, but price action near support indicates that momentum may be stabilizing. Traders should monitor for any MACD crossovers that could signal a shift from bearish to bullish sentiment.  \n\nImmediate support is forming around the $70,300 level, reinforced by the recent intraday low of $70,390. A decisive break below this could trigger further downside toward $69,800, aligning with previous swing lows. Resistance is concentrated near the 20-day SMA at $71,350 and extends to $71,500, marking a zone where sellers may reassert control. Price reaction at these levels will be critical for determining whether consolidation continues or a directional move emerges.  \n\nFor trading strategies, cautious range-bound approaches may be suitable given the tight consolidation. Short-term traders might consider buying near support with tight stop-losses around $70,200 and targeting the $71,350–$71,500 resistance zone. Conversely, breakouts above $71,500 could open a bullish extension toward $72,000. Risk management remains crucial, as momentum indicators suggest that any attempt to push higher may face resistance before a clear trend reversal establishes itself."
+    }
+  }
+}

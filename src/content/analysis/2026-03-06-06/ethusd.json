@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-06T06:02:54.927Z",
+  "price": {
+    "close": "2069.17",
+    "high": "2070.82",
+    "low": "2068.22",
+    "open": "2068.78",
+    "change": "0.01",
+    "datetime": "2026-03-06 06:00:00"
+  },
+  "indicators": {
+    "rsi": 42.4374,
+    "macd": -7.79037,
+    "macd_signal": -5.49814,
+    "sma20": 2087.6225
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期盘整偏弱",
+      "content": "当前以太坊价格维持在2069附近，日内波动极小，呈现横盘整理特征。价格略低于20日简单移动平均线(SMA20=2087.62)，表明短期多头动能不足，市场缺乏明显方向，短线趋势偏弱，需关注突破或回调信号。  \n\nMACD显示快线为-7.79，处于零轴下方，暗示空头略占优势，但信号线未给出确认，说明动量尚未完全释放，行情可能维持震荡，投资者应避免追涨杀跌。若RSI数据可用，将有助于判断超买或超卖状态，从而捕捉短期反弹机会。  \n\n关键支撑位在2065-2068区间，多次测试未破，短期可视为防守底部；阻力位接近2088-2090，突破后可能触发上行动能。若价格跌破支撑，则进一步下探至2055附近，需谨慎止损管理。  \n\n交易策略上，可选择低位轻仓布局，多头入场需等待价格稳定企稳或出现放量突破信号；短线操作可围绕2065-2088区间震荡，高抛低吸为主。同时，控制仓位和设置合理止损点，以防市场突发波动对账户造成冲击。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is showing a period of consolidation around the $2,069 level, with price action tightly bound between its recent high of $2,070.82 and low of $2,068.22. The narrow range indicates a lack of immediate directional momentum, suggesting that buyers and sellers are in equilibrium. The slightly lower price relative to the 20-period SMA at $2,087.62 hints at a mild bearish bias in the short term, though the minimal 24-hour change of 0.01% underscores market indecision rather than a clear trend.\n\nMomentum indicators provide mixed signals. The MACD at -7.79 suggests underlying bearish pressure, indicating that selling momentum is slightly stronger than buying. However, the absence of a signal line and a recent RSI value makes it harder to confirm overbought or oversold conditions. Traders should exercise caution, as the current readings imply the market is neither strongly trending nor heavily extended, and sudden shifts could arise from minor catalysts or news affecting Ethereum.\n\nKey support levels to watch include the immediate $2,068 floor, which, if broken decisively, could open the way to $2,050 or lower. Resistance is likely to form around the SMA at $2,087, with further upside capped near $2,100. These zones define the range traders may target for short-term scalps or swing positions. Price behavior near these boundaries will be crucial for determining whether the consolidation resolves into a bullish recovery or a bearish pullback.\n\nGiven the current technical picture, a cautious approach is recommended. Short-term traders may consider range-bound strategies, buying near support and selling near resistance, while longer-term investors might wait for confirmation of a break above the SMA or a more pronounced MACD shift. Risk management remains essential, as the tight trading range indicates that sudden volatility could trigger stop-losses on both sides. Monitoring news and network developments could provide additional clarity for potential directional moves."
+    }
+  }
+}
