@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-07T14:58:38.539Z",
+  "price": {
+    "close": "84.27",
+    "high": "84.42",
+    "low": "83.67",
+    "open": "84.3",
+    "change": "-0.01",
+    "datetime": "2026-03-07 14:00:00"
+  },
+  "indicators": {
+    "rsi": 36.67528,
+    "macd": -0.58622307,
+    "macd_signal": -0.72598968,
+    "sma20": 84.5545
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：价格震荡偏弱，短期承压",
+      "content": "当前SOL/USD价格在84美元附近小幅震荡，短期走势呈横盘整理态势，但略偏弱。价格持续位于20日均线下方，显示短期多头动能不足，市场多空力量相对均衡，短线趋势缺乏明显方向。  \n\nMACD指标为负值，暗示下行压力存在，但由于信号线数据缺失，无法判断死叉或金叉形成，投资者应关注指标进一步变化。价格在84.42附近遇阻，若突破此位可能触发短线反弹；下方支撑在83.67附近，若跌破则可能延续弱势调整。  \n\n从技术角度看，短期交易应以区间操作为主，偏向低位买入、高位卖出策略。投资者可在接近支撑位时考虑小幅建仓，同时设置止损以控制风险。若价格有效站稳20日均线并伴随MACD走强，可考虑顺势做多。  \n\n整体来看，SOL/USD短期承压，行情以震荡偏弱为主，关注关键支撑和阻力位的突破情况，将帮助把握潜在交易机会。风险管理仍是操作核心，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 84.27\\n- 24h Change: -0.01%\\n- High/Low: 84.42 / 83.67\\n- RSI(14): N/A\\n- MACD: -0.58622307, Signal: N/A\\n- SMA(20): 84.55450\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s short-term price action around **$84.27** suggests a **neutral to mildly bearish trend** as the market struggles to maintain recent gains. The 24‑hour range shows limited volatility between **$83.67 and $84.42**, indicating consolidation rather than decisive direction. While price remains near the short‑term **SMA(20) at ~84.55**, the inability to sustain above this average highlights **selling pressure**. Breaks below recent swing lows could signal deeper pullbacks.\n\nIndicator interpretation reinforces this cautious tone. With **MACD at –0.586** and no available signal line, the histogram likely reflects **momentum slowing** on the upside and potential buildup of bearish energy. The lack of a valid **RSI(14)** reading limits overbought/oversold context, but price’s failure to diverge from moving average resistance suggests bulls are losing conviction. Momentum oscillators, when they become available, should be monitored for divergence clues.\n\nKey **support levels** to watch include the recent low near **$83.50–$83.70** and deeper support around **$81.00–$82.00**, which historically acted as a demand zone. On the upside, **$84.55 (SMA 20)** is immediate resistance; a clear break above **$85.00–$86.00** could shift sentiment toward recovery. Above that, **$88.00** may serve as a psychologically meaningful target if buying interest returns. Failure to hold support zones could open risk toward **$80** or lower.\n\nFor traders, a **range‑based approach** is advisable until confirmation of trend direction. Short positions could be considered on rejections near the SMA with tight stops above **$85**, while longs might be layered near **$83.50–$82.50** with defined risk parameters. Patience for a confirmed breakout or breakdown will help avoid false signals. Always align position sizing with volatility and broader market context."
+    }
+  }
+}
