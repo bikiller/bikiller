@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-03-07T17:46:50.485Z",
+  "price": {
+    "close": "9.0048",
+    "high": "9.008",
+    "low": "8.979",
+    "open": "8.98",
+    "change": "0.32",
+    "datetime": "2026-03-07 17:00:00"
+  },
+  "indicators": {
+    "rsi": 44.07775,
+    "macd": -0.041511477,
+    "macd_signal": -0.051145471,
+    "sma20": 9.011345
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 9.0048\\n- 24小时变化: 0.32%\\n- 高点/低点: 9.008 / 8.979\\n- RSI(14): N/A\\n- MACD: -0.041511477, Signal: N/A\\n- SMA(20): 9.011345\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：当前区间震荡偏弱\n\n当前价格围绕9美元整数关口反复震荡，短期趋势缺乏明确方向，价格在SMA(20)下方略微承压，表明多空力量暂时均衡偏向弱势整理。若继续下破8.95，则可能加速下行。\n\n技术指标显示MACD仍为负值，暗示空头动能存在，但缺少Signal线确认，无法给出清晰交叉信号。目前短周期动力不足，RSI虽缺失但从价格结构看偏中性。\n\n重要支撑位关注8.90和8.75附近，历史多次回踩有买盘出现；阻力位在9.05及9.20附近，突破这些阻力可重新吸引多头介入。整数关口区间是短线关键界限。\n\n交易上建议保持谨慎，区间内可低多高空，严格止损控制风险。趋势未明确前避免追高，在确认突破或跌破关键位之后再考虑方向性仓位，量能配合将更可靠。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Avalanche vs US Dollar (AVAX/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 9.0048\\n- 24h Change: 0.32%\\n- High/Low: 9.008 / 8.979\\n- RSI(14): N/A\\n- MACD: -0.041511477, Signal: N/A\\n- SMA(20): 9.011345\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nPrice action for AVAX/USD around **9.00** suggests a **neutral-to-bullish** short-term structure. The pair has gravitated near the 20‑period simple moving average (~9.011), indicating the market is weighing recent gains and losses with no clear directional breakout. The tight 24‑hour trading range reflects trader hesitation. If buyers can sustain above **9.10–9.15**, momentum could improve, while a decisive break below **8.85–8.80** might invite further downside.\n\nWith limited oscillator readings (RSI and MACD signal lines unavailable), our interpretation leans on the available MACD histogram value (-0.0415). This negative reading hints mild bearish momentum, though its magnitude is modest. The proximity of price to the 20SMA reinforces a **range‑bound** environment rather than a strong trend. In a fuller dataset, a rising RSI above 50 or a MACD crossover would bolster a bullish case; conversely, drops below key thresholds could signal deeper corrective phases.\n\nKey **support** resides at recent daily lows around **8.98**, followed by **8.85** and **8.70**. Should sellers intensify below these zones, traders might look to **8.50** as a more extended buffer. On the upside, **9.20–9.25** offers initial resistance, with **9.40–9.50** as the next psychological barrier. These levels are useful for setting entry/exit points in short‑term strategies, with tighter ranges favoring scalpers and breakout traders alike.\n\nFor traders considering positions, a **cautious approach** seems prudent. A long bias could be entertained on sustained closes above **9.15**, targeting **9.40–9.50** with a stop below **8.85** to manage risk. For bearish plays, confirmation below **8.85** may open downside toward **8.70** or lower, with stops above **9.10**. Always calibrate position size to volatility and watch for volume upticks to validate breakouts."
+    }
+  }
+}
