@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-07T19:02:55.433Z",
+  "price": {
+    "close": "83.32",
+    "high": "83.37",
+    "low": "83.31",
+    "open": "83.37",
+    "change": "-0.07",
+    "datetime": "2026-03-07 19:00:00"
+  },
+  "indicators": {
+    "rsi": 27.69527,
+    "macd": -0.64814324,
+    "macd_signal": -0.66137317,
+    "sma20": 84.205
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 83.32\\n- 24小时变化: -0.07%\\n- 高点/低点: 83.37 / 83.31\\n- RSI(14): N/A\\n- MACD: -0.64814324, Signal: N/A\\n- SMA(20): 84.20500\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线偏弱震荡\n\n当前SOL价格围绕83附近震荡，短线趋势偏弱，未能有效站上20日均线84.2上方表明多头动力不足，短线空头压力略显。若价格持续在均线下方整理，可能延续区间震荡格局。\n\n技术指标MACD为负值且未见明显金叉信号，表明动能偏弱。虽然24小时波动极小，但缺乏上行动能。若未来出现指标背离并伴随增量成交，可视为反弹信号。\n\n关键支撑位关注82.0及80.5附近，若跌破则空头将进一步加强。阻力位首先在84.2均线，其次在86.0-87.0区域，临强阻力区间多头难以轻易突破。\n\n交易建议方面，短线可在支撑区间附近采用低多策略，止损设于79.8下方。激进者可于回落至支撑軽仓进场，目标看向84.5-86.0。保持仓位控制，关注成交量变化以确认趋势反转。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 83.32\\n- 24h Change: -0.07%\\n- High/Low: 83.37 / 83.31\\n- RSI(14): N/A\\n- MACD: -0.64814324, Signal: N/A\\n- SMA(20): 84.20500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s recent price action around **$83.32** suggests a market in **short‑term contraction** rather than clear directional momentum. The narrow 24‑hour range (high **$83.37**, low **$83.31**) reveals indecision among traders, with neither bulls nor bears gaining decisive control. In a broader context, the failure to sustain levels above the **20‑period SMA (~$84.21)** points to mild near‑term bearish pressure. Unless buyers reclaim this average with conviction, the tone remains cautious.\n\nAlthough classic momentum metrics like RSI(14) and MACD signal partial data, the available MACD reading at **‑0.648** hints at **bearish undertones**, especially if the MACD line stays below its signal counterpart once calculated. A negative MACD typically reflects weakening upward momentum or strengthening downward pressure. In isolation, this isn’t a strong sell signal, but it cautions against aggressive long entries. Traders who monitor full MACD crossovers should await confirmation before positioning for potential trend shifts.\n\nKey technical levels for Solana now cluster around **support near $80.00–$81.50**, where recent intraday lows and psychological round numbers find alignment. On the upside, the **$84.20 SMA** and a break above **$85.00–$86.00** would provide meaningful resistance zones where sellers may re‑emerge. A breakout above those hurdles could attract stronger buying interest, potentially steering price toward **upper $80s**. Conversely, a breakdown below support zones may open doors toward the **$78–$79** range, especially if broader crypto sentiment weakens.\n\nFrom a practical trading standpoint, consider **range‑responsive strategies** while Volatility remains compressed. Conservative traders might wait for a close above the **20‑SMA** with volume confirmation before taking long positions. For shorter‑term scalps, tight stops below **$81.50 support** help manage risk. If bearish momentum accelerates and Solana closes below **$80**, shorts could be considered with stops above recent swing highs. Always align entries with risk thresholds and broader market factors."
+    }
+  }
+}
