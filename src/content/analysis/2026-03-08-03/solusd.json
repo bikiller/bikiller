@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-08T03:41:33.733Z",
+  "price": {
+    "close": "82.49",
+    "high": "82.74",
+    "low": "82.28",
+    "open": "82.39",
+    "change": "0.12",
+    "datetime": "2026-03-08 03:00:00"
+  },
+  "indicators": {
+    "rsi": 31.69833,
+    "macd": -0.67094211,
+    "macd_signal": -0.66735432,
+    "sma20": 83.5615
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短期震荡整理偏弱",
+      "content": "当前SOL/USD价格徘徊在82.49附近，接近20日均线83.56下方，显示短期多头动能不足。价格在日内波动幅度有限，高低点仅82.74/82.28，暗示市场多空力量暂时平衡，整体呈现震荡整理格局。  \n\nMACD为-0.6709且位于零轴下方，虽然未出现明显交叉，但仍显示空头略占优势。短期RSI未提供数据，但结合价格与均线关系，可推测买入动能有限，需警惕短线回调风险。技术指标整体偏向谨慎观望。  \n\n关键支撑位在82.00附近，若失守可能引发进一步下探至81.50；阻力位在83.50~83.60区间，突破需放量确认。价格若连续站稳均线并伴随MACD回升，则多头信号才会增强。短线操作可围绕支撑轻仓布局，注意控制风险。  \n\n交易策略上，建议逢低分批吸纳，止损设置在支撑下方1-2%，若价格反弹突破83.60阻力，可考虑加仓跟进趋势。激进交易者可关注日内震荡区间操作，但需谨防短期波动放大造成损失。整体操作宜以稳健为主，顺势而为。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 82.49\\n- 24h Change: 0.12%\\n- High/Low: 82.74 / 82.28\\n- RSI(14): N/A\\n- MACD: -0.67094211, Signal: N/A\\n- SMA(20): 83.56150\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nOn the hourly to daily horizon, **SOL/USD** is consolidating near the **$82.50** region after a muted 24‑hour move. Price has oscillated between **$82.28 support** and **$82.74 intraday highs**, signaling a lack of strong directional bias. The short‑term trend remains slightly bearish as the current price sits below the **20‑period SMA (~$83.56)**. This suggests momentum has softened after recent gains, but buyers are defending lower levels.\n\nLooking at momentum, the **MACD** reading at **–0.6709** points to lingering bearish pressure, even though a full signal line isn’t available. Absence of an RSI figure limits overbought/oversold interpretation, but subdued price action around the moving average hints at equilibrium between bulls and bears. Traders should note that until momentum indicators resolve directionally, whipsaw risk remains elevated in tight ranges.\n\nKey levels to monitor: on the downside, **$80.00** serves as a psychological floor, with additional layered support near **$78.50–$79.00** from recent swing lows. To the upside, breaking and holding above **$84.00** could reopen room toward **$86.50**, where supply previously capped rallies. A decisive move above the SMA would shift short‑term bias more bullishly, especially if accompanied by pickup in volume and MACD convergence.\n\nIn terms of positioning, cautious longs can consider scaling in near structural support with tight risk control, ideally closer to **$80** with stops just below. Breakout traders may look for sustained closes above **$84–$85** for confirmation of renewed upward momentum. Conversely, aggressive shorts might revisit breakdown entries beneath the **$80** threshold, targeting the next support cluster. Always balance entry size with clear risk parameters given the current consolidation context."
+    }
+  }
+}
