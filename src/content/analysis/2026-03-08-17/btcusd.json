@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-08T17:43:15.276Z",
+  "price": {
+    "close": "67040.37",
+    "high": "67175.45",
+    "low": "66781.93",
+    "open": "66867.19",
+    "change": "0.26",
+    "datetime": "2026-03-08 17:00:00"
+  },
+  "indicators": {
+    "rsi": 41.95315,
+    "macd": -181.52617,
+    "macd_signal": -192.85132,
+    "sma20": 67239.898
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "当前比特币价格在67040美元附近小幅波动，距离20日均线67239美元略有下方，显示价格短期承压但多头尚未完全失势。日内高低点67175/66781表明波动区间较窄，市场缺乏明确突破信号，短线可能维持震荡整理。  \n\nMACD处于负值区间(-181.53)，显示空头动能略占优势，但未出现明显加速，暗示下行压力有限。RSI数据缺失，无法确认超买或超卖状态，但结合均线位置，可判断多空力量相对均衡。短期技术面仍偏向震荡蓄力，多头趋势尚在形成边缘。  \n\n支撑位方面，下方66780-66800区域为近期短线支撑，如失守可能触发进一步回调至66500附近。阻力位在67240-67300附近，若突破该区间，多头行情有望延伸至67500-67600。交易者可关注突破信号与回踩机会，灵活调仓。  \n\n建议短线交易者可在支撑位附近考虑小幅做多，止损设置于66750以下；若价格向上突破阻力位，则可顺势加仓，但需关注成交量配合，避免震荡行情中的假突破导致风险。中长线投资者则保持观望，等待明显趋势确认后再介入。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has recently been trading in a narrow range, with the price hovering around $67,040.37. The current trend shows minimal movement, reflected in the 24-hour change of just +0.26%. This suggests that market participants are hesitant, possibly waiting for a clearer direction. The price is currently below the 20-period Simple Moving Average (SMA) at $67,239.898, which indicates some short-term bearish pressure. Until the price breaks above this SMA level, the overall sentiment could lean slightly towards a consolidation phase or potential downward continuation.\n\nThe lack of a clear Relative Strength Index (RSI) reading makes it difficult to judge whether Bitcoin is in overbought or oversold territory. However, the MACD value of -181.52617 suggests that the bearish momentum is still present, albeit weaker compared to previous sessions. The MACD line being below the signal line signals ongoing selling pressure, but without a clear crossover or divergence, the signal remains neutral for now. Traders should remain cautious of sudden price fluctuations, which may indicate a shift in momentum.\n\nSupport is found around the $66,781.93 low, with a clear resistance level near $67,175.45, marked by the recent high. A break below the support could trigger a deeper pullback towards the next major support zone, possibly testing the $65,000 level. On the other hand, if Bitcoin can break above the resistance and reclaim the $67,239.898 SMA, it might signal a shift toward bullish momentum, potentially targeting the $70,000 mark in the short term.\n\nGiven the current technical structure, it is advisable to maintain a cautious approach with limited risk exposure. A breakout above the key resistance level could present an opportunity for long positions, while a breach of support may encourage short positions. Traders should also keep an eye on broader market conditions for any developments that might impact sentiment."
+    }
+  }
+}
