@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-08T16:23:19.148Z",
+  "price": {
+    "close": "67134.07",
+    "high": "67259.62",
+    "low": "67030.82",
+    "open": "67201.02",
+    "change": "-0.10",
+    "datetime": "2026-03-08 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.10618,
+    "macd": -154.42982,
+    "macd_signal": -191.42469,
+    "sma20": 67273.8105
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前比特币价格在$67134.07$附近徘徊，较昨日基本持平，显示短期市场缺乏明确方向。价格略低于20日简单移动平均线(SMA20 $67273.81$)，暗示多头动能减弱，短线可能承压，投资者需关注盘整风险。  \n\nMACD指标显示值为$-154.43$，呈现空头倾向，但尚未形成明显的背离信号，说明下行压力存在但力度有限。缺少RSI数据限制了超买超卖的判断，但结合价格接近近期低点($67030.82$)，短线支撑尚在附近，可观察反弹可能性。  \n\n支撑位主要关注$67030$，若跌破该水平，则短期下行空间可能拓展至$66800$附近；阻力位在$67260$至SMA20区域，突破后有望激活上行动能，测试$67500$。震荡区间明显，短线操作需谨慎。  \n\n交易上，偏向观望为主，激进者可在支撑附近尝试低吸，止损设在$66950$以下；追涨者应待价格突破阻力并收于SMA20上方确认多头趋势后再入场。保持仓位控制和风险管理是关键，避免追高操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently navigating a narrow trading range near $67,134, showing minor volatility over the past 24 hours. The price is slightly below the 20-period simple moving average at $67,273, suggesting mild short-term bearish pressure. Despite the negligible daily change of -0.10%, this proximity to the SMA indicates that the market is indecisive, with neither bulls nor bears asserting dominance. Traders may watch for a clear breakout above or below this range to gauge the next directional move.  \n\nThe MACD reading of -154.43 points to lingering bearish momentum, though the absence of a signal line prevents a full crossover analysis. This negative MACD indicates that recent downward price pressure is slightly outweighing upward movement, hinting at potential caution for aggressive long positions. Without RSI data, overbought or oversold conditions are uncertain, but price clustering around key moving averages suggests consolidation rather than a strong trend continuation.  \n\nSupport and resistance are defining the near-term structure. Immediate support sits around $67,030, where buyers previously stepped in, while resistance lies near $67,260, marking the day’s high. A decisive move below support could open the door to retesting $66,800 or lower, whereas a sustained push above resistance may signal a test of $67,500 or the upper $67k region. These levels can help traders plan entries, exits, and risk management effectively.  \n\nFrom a trading standpoint, a cautious approach is recommended given the narrow range and mixed signals. Short-term traders might consider range-bound strategies, entering near support and targeting the upper $67k range while keeping tight stop-loss orders. Longer-term investors could wait for confirmation above the SMA or MACD crossover signals before committing to new positions, minimizing exposure to potential false breakouts. Overall, patience and adherence to risk management will be critical in this consolidation phase."
+    }
+  }
+}
