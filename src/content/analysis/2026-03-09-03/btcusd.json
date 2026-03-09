@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-09T03:43:31.213Z",
+  "price": {
+    "close": "67098.04",
+    "high": "67668.72",
+    "low": "66507.45",
+    "open": "66533.44",
+    "change": "0.85",
+    "datetime": "2026-03-09 03:00:00"
+  },
+  "indicators": {
+    "rsi": 51.020936,
+    "macd": -266.69905,
+    "macd_signal": -266.48849,
+    "sma20": 67019.491
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，关注支撑和阻力",
+      "content": "当前比特币在67000美元附近波动，展现出短期震荡整理的走势。最近24小时涨幅为0.85%，市场情绪偏向谨慎。比特币价格在66500美元到67600美元之间来回波动，显示出市场对进一步突破的等待情绪。\n\n从技术指标看，MACD为负值，且无明确的信号线交叉，这表明短期内买盘力量较弱，市场尚未找到明确的上涨动能。SMA(20)为67019美元，价格目前与该均线接近，可能会形成支撑。RSI(14)暂缺，导致目前无法全面评估市场的超买或超卖情况。\n\n支撑位方面，66500美元区域为较强支撑，若跌破此位置，则可能进一步回撤至66000美元附近。阻力位在67600美元，若突破此位，有望再度挑战68000美元或更高价格。短期内建议投资者密切关注这两个关键区域，若价格在支撑位获得反弹，可考虑逢低做多；若突破阻力位，则可布局看涨。\n\n综合来看，当前比特币处于震荡整理阶段，投资者可保持观望，待价格突破关键支撑或阻力后再作决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has recently shown a mild bullish bias, with the latest price hovering around $67,098. The 24-hour change of +0.85% suggests moderate buying interest, while intraday volatility remains contained between the high of $67,668 and the low of $66,507. This range indicates that traders are cautiously testing higher levels, but momentum is yet to decisively break out. Overall, the short-term trend leans slightly upward, though broader confirmation would require stronger directional movement above the recent highs.  \n\nLooking at moving averages, the 20-period SMA at $67,019 positions the current price slightly above the short-term average, hinting at mild upward momentum. The MACD reading at -266.70, despite the missing signal line, signals that bearish pressure still lingers beneath the surface, likely from longer-term downward forces. This divergence between price action and momentum suggests that while buyers are attempting to reclaim control, market sentiment remains tentative and could react sharply to external triggers.  \n\nKey support lies near $66,500, which has acted as a floor during recent retracements, providing a base for buyers to re-enter. Resistance is concentrated at $67,700, corresponding to the recent intraday high and a psychological barrier that may deter aggressive upward moves. Traders should watch for consolidation around the SMA, as a sustained close above resistance could open targets toward $68,200, while a breakdown below support could see short-term retracements toward $66,000.  \n\nFor trading strategy, short-term participants may consider scaling into long positions near the $66,500 support, with tight stop-losses to mitigate risk. More conservative traders might await a confirmed breakout above $67,700 before committing, to reduce exposure to potential whipsaws. Given the mixed momentum signals, risk management is critical, and incremental position adjustments are preferable over large directional bets. This approach balances upside potential with protection against sudden reversals."
+    }
+  }
+}
