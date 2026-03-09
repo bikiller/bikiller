@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-09T16:54:21.488Z",
+  "price": {
+    "close": "69240.01",
+    "high": "69248.48",
+    "low": "68647.62",
+    "open": "68887.07",
+    "change": "0.51",
+    "datetime": "2026-03-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 66.42427,
+    "macd": 472.46864,
+    "macd_signal": 247.040904,
+    "sma20": 67545.284
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，中期上行趋势仍存压力",
+      "content": "当前比特币价格维持在69240附近，较SMA(20) 67545形成明显上方运行，显示短期多头占优。价格在68647至69248区间波动，短线震荡明显，但仍保有上行动能，市场情绪偏谨慎乐观。  \n\nMACD为472.46864，虽缺少Signal参考，但数值偏高，暗示动能尚在多方区域，仍有继续上探空间。缺少RSI数据限制了超买/超卖分析，但结合均线可判断短期涨幅存在一定回调压力，需警惕快速拉回风险。  \n\n关键支撑位在68650附近，若跌破可能引发短线调整；阻力位约在69250至69500区间，多头需突破方能延续上涨。价格在区间中高位震荡，显示市场多空力量相对平衡，但偏向多头微弱优势。  \n\n交易上，短线可考虑区间操作，高抛低吸策略较为适合；中期持有者可关注突破阻力后的趋势延续机会，但若价格回落至支撑下方，应谨慎控制仓位并设置止损，以防快速波动带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing signs of bullish continuation after consolidating near the $68,600–$69,200 range. The latest price of $69,240.01 is slightly above the 20-day simple moving average at $67,545, indicating short-term momentum is favoring buyers. The intraday high at $69,248 also suggests that BTC is testing resistance near $69,250, while the intraday low of $68,647 provides immediate support. Price action within this narrow band implies a period of accumulation, often preceding a decisive move in either direction.  \n\nThe MACD value at 472.47 points to underlying bullish momentum, although the absence of the signal line limits precise crossover analysis. Nonetheless, the positive divergence from the SMA reinforces the likelihood of upward pressure. Traders should monitor for a MACD histogram expansion or a signal line appearance, which could confirm a stronger bullish bias. RSI is currently unavailable, but the current price structure near resistance may indicate the market is approaching short-term overbought conditions, warranting cautious entry points.  \n\nSupport levels are observed around $68,600 and the SMA at $67,545, providing potential zones for risk management in case of a pullback. Resistance is defined near $69,250–$69,300, where sellers may consolidate gains. A break above this range with sustained volume could open a path toward $70,000 psychological resistance. Conversely, a failure to breach $69,250 might result in a retest of the $68,600 support, offering a more favorable risk-reward for long positions.  \n\nFor traders, short-term strategies could include buying near SMA support with tight stop losses below $67,500, while momentum traders may look for breakout confirmation above $69,250. Conservative traders might wait for a confirmed daily close above resistance before initiating new longs. Risk management remains crucial given Bitcoin’s volatility, with layered entries and exits around key support and resistance levels helping to navigate potential swings in both directions."
+    }
+  }
+}
