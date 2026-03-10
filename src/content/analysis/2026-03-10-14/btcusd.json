@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-10T14:10:18.252Z",
+  "price": {
+    "close": "69665",
+    "high": "70159.23",
+    "low": "69603.06",
+    "open": "69920.2",
+    "change": "-0.36",
+    "datetime": "2026-03-10 14:00:00"
+  },
+  "indicators": {
+    "rsi": 51.59938,
+    "macd": 533.82559,
+    "macd_signal": 619.81906,
+    "sma20": 69788.115
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整趋势偏震荡",
+      "content": "当前比特币价格在69665美元附近波动，较24小时小幅下跌0.36%，显示短期多空力量较为均衡。价格接近20日均线SMA(20) 69788美元，表明短线趋势处于关键均衡区域，市场仍在寻找方向。高低点区间70159-69603美元，提示短期波动幅度有限，整体偏震荡。  \n\nMACD当前值为533.83，但信号线数据缺失，难以完全判断动能强弱。然而，价格低于SMA(20)略微偏弱，暗示若多头无法有效推升至均线以上，短线可能延续盘整或轻微回落。支撑位初步看在69600附近，若跌破此位置可能引发短线空头试探。阻力位关注70150-70200区间，多头若突破此区间，将有机会重启上行动能。  \n\n从技术角度看，RSI数据缺失限制了超买超卖判断，但结合价格与均线，当前市场偏中性。交易策略上，可考虑低多高空，保持短线灵活应对。若价格回落至支撑区可尝试小幅做多，突破阻力则可跟随趋势加仓，但需设置合理止损以防震荡反转。  \n\n综合来看，比特币短期呈震荡整理格局，市场方向尚未明确。多空双方在当前价位附近博弈激烈，操作应以谨慎和顺势为主，避免追高杀跌，同时关注关键支撑和阻力位的突破信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $69,665, showing mild downside pressure with a 24-hour decline of 0.36%. The recent high of $70,159.23 and low of $69,603.06 suggest a relatively narrow intraday trading range, indicating consolidation after a recent upward move. The price is slightly below the 20-day simple moving average at $69,788, implying short-term bearishness. Traders should note that this small deviation from the SMA suggests indecision rather than strong trend reversal.\n\nMomentum indicators show mixed signals. The MACD sits at 533.83, but the absence of the signal line limits the full interpretative power. Still, with price trading below the SMA, short-term momentum may be weakening, though the limited movement suggests no decisive bearish trend. RSI data is not available, making it challenging to assess overbought or oversold conditions; however, the tight price range hints at equilibrium between buyers and sellers.\n\nSupport appears around $69,600, slightly above the recent intraday low, which has acted as a floor for price action. Resistance is near $70,200, just above the recent peak, creating a tight channel that traders should watch closely. Breaching these levels could trigger short-term directional momentum, with a break above resistance potentially opening the door to $71,000, while a dip below support could test $69,000.\n\nFor trading, cautious range-bound strategies may be appropriate. Buyers could consider entering near support with tight stop-losses, targeting the upper channel near $70,200. Conversely, short-term sellers might look for small retracements, but momentum indicators suggest limited downside strength. Overall, BTC/USD remains in a consolidation phase, and traders should await clearer signals before committing to larger directional positions."
+    }
+  }
+}
