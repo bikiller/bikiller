@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-10T16:54:31.205Z",
+  "price": {
+    "close": "71386.18",
+    "high": "71730.94",
+    "low": "70962.9",
+    "open": "71370.62",
+    "change": "0.02",
+    "datetime": "2026-03-10 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.99024,
+    "macd": 724.37993,
+    "macd_signal": 673.40894,
+    "sma20": 70117.4685
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏强，关注阻力压制",
+      "content": "当前比特币价格位于71386.18美元附近，较日内低点70962.9略有回升，整体呈现窄幅震荡走势。价格略高于20日均线(SMA20)70117.47美元，表明短期多头力量占优，但上涨动力有限，市场可能在71000-71700区间反复整理。  \n\nMACD指标显示主线724.38高于信号线，暗示多头趋势仍在，但由于信号线数据缺失，强弱力度难以完全确认，需谨慎跟进。若RSI数据可用，可进一步评估超买或超卖状态，目前只能依赖价格与均线配合判断趋势。  \n\n关键支撑位关注71000美元附近，若跌破可能触发短线回调；阻力位在71730美元及72000美元区域，突破需成交量配合，否则可能形成上行受阻回落。投资者应密切留意该区间波动，警惕短期反转信号。  \n\n交易策略上，短线可考虑区间内低多高空，严格设置止损；若价格稳定站上72000美元并放量突破，可考虑顺势跟多，但需控制仓位，避免追高。稳健投资者可等待价格确认突破或回踩支撑再介入，降低风险敞口。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $71,386, showing minimal movement over the past 24 hours with a marginal 0.02% gain. The intraday range between $70,962 and $71,730 suggests a tight consolidation, reflecting market indecision. Price action above the 20-day simple moving average at $70,117 indicates underlying bullish bias, though the lack of a significant breakout above recent highs limits immediate momentum. Traders should watch for a sustained move above $71,700 to confirm continuation.  \n\nThe MACD reading at 724.38, although incomplete without a signal line, points to bullish momentum building, but caution is warranted as divergence cannot be fully assessed. Absence of the RSI restricts overbought/oversold evaluation, yet price remaining slightly above the SMA signals steady support. Momentum may remain muted unless accompanied by higher volume or decisive candlestick patterns, implying a range-bound environment may persist short-term.  \n\nSupport levels are clearly marked at $70,900 and $70,100, offering zones where buyers could re-enter if dips occur. Resistance is positioned near $71,730 and the psychological $72,000 level, acting as potential profit-taking points. A breach above these levels could open the path toward higher targets, whereas a drop below $70,100 could signal deeper retracement, making careful risk management essential.  \n\nShort-term traders might consider entering long positions near support with tight stops below $70,900, aiming for $71,700–$72,000 as initial targets. Conservative traders could wait for a confirmed breakout with strong volume to reduce false signals. Meanwhile, range-bound strategies or scalping may suit volatile conditions, but maintaining disciplined stop-losses is critical given the narrow intraday movements and the potential for sudden volatility shifts."
+    }
+  }
+}
