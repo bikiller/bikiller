@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-10T18:05:09.328Z",
+  "price": {
+    "close": "70848.55",
+    "high": "70919.72",
+    "low": "70803.02",
+    "open": "70891.97",
+    "change": "-0.06",
+    "datetime": "2026-03-10 18:00:00"
+  },
+  "indicators": {
+    "rsi": 59.53128,
+    "macd": 652.5111,
+    "macd_signal": 669.89151,
+    "sma20": 70325.551
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，偏向多头尝试",
+      "content": "当前比特币价格位于 $70848.55$ 附近，较日内高点 $70919.72$ 和低点 $70803.02$ 波动幅度有限，呈现短期横盘整理特征。价格略高于20日均线 $70325.55$，显示短期多头仍有一定支撑，但整体动力不足，短线方向尚不明朗。  \n\nMACD指标当前值 $652.51$，虽缺少信号线对比，但数值处于中性偏高区，提示上行动能存在，但未形成明确背离或金叉，市场可能继续在现价区间震荡。由于RSI数据不可用，无法判断超买或超卖状态，但均线支撑仍是重要参考。  \n\n支撑位可参考近期均线附近 $70325$，若跌破此位置，短期空头可能获得控制权；阻力位在 $70920$ 附近，突破需成交量配合，否则易形成上方承压。短线震荡中，价格区间约 $70300-70920$，适合谨慎观望或小仓位波段操作。  \n\n交易建议上，激进投资者可在支撑位附近尝试小额买入，并设止损于均线下方；保守策略建议等待价格突破阻力位确认多头趋势后再入场。同时，密切关注成交量变化及MACD形态，以便及时调整仓位，控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of $70,848.55 reflects a narrow range within the past 24 hours, showing a slight decline of -0.06%. This suggests that BTC is in a consolidation phase, with no strong directional momentum in the short term. The market has been largely range-bound, fluctuating between the low of $70,803.02 and the high of $70,919.72, indicating a balance between buyers and sellers. The absence of major price movement suggests that market participants are uncertain about the next significant move.\n\nIn terms of support and resistance, Bitcoin is holding above the 20-period simple moving average (SMA), which stands at $70,325.55. This level is crucial as it provides a dynamic support area, with the price bouncing slightly above it. A break below this SMA would indicate potential weakness, targeting the next major support around $69,500. On the upside, the immediate resistance lies near the high of $70,919.72, with a breakout above this level likely signaling further upside towards the $71,500 range.\n\nThe current lack of RSI and signal data limits a full technical analysis but does not undermine the significance of the existing MACD, which is positioned at 652.51110. This positive MACD value suggests that, for now, the market is slightly bullish, but with no clear trend direction. If the price starts to consolidate above the SMA, traders could look for confirmation of upward momentum, using a potential move above the resistance as a signal to enter long positions.\n\nGiven the relatively tight trading range, it's prudent to wait for a clear breakout either above $70,920 or below $70,325 to establish a more directional view. Until then, trading within the current range may offer opportunities for short-term scalping, but caution is advised as volatility remains low. Traders should look for any shifts in momentum through further indicators to assess the strength of any potential moves."
+    }
+  }
+}
