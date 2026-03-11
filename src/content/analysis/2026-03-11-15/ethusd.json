@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-11T15:31:11.136Z",
+  "price": {
+    "close": "2046.81",
+    "high": "2065.16",
+    "low": "2041.76",
+    "open": "2063.15",
+    "change": "-0.77",
+    "datetime": "2026-03-11 15:00:00"
+  },
+  "indicators": {
+    "rsi": 54.066458,
+    "macd": 1.6545,
+    "macd_signal": -1.24684,
+    "sma20": 2031.084
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多，关注关键支撑位",
+      "content": "当前以太坊价格位于 $2046.81$，较24小时内微幅下跌 $0.77\\%$，显示市场短线略有回调。价格维持在20日简单移动均线(SMA20) $2031.08$ 之上，表明多头仍占据主导，但涨幅动力有限，需要警惕震荡风险。  \n\nMACD显示值 $1.6545$，虽然信号线数据缺失，但柱状图仍偏正，提示短期动能略强。若指标持续上行，可支撑价格向 $2065$ 附近挑战高点。由于RSI未提供，需要结合成交量和价格结构判断超买或超卖情况，短期可能在 $2040$ 附近形成支撑。  \n\n技术上，关键阻力位位于前高 $2065.16$，若突破该水平，多头将获得进一步拉升空间。支撑方面，短期关注 $2030$- $2040$ 区间，跌破则可能触发小幅调整。交易者可在回调至支撑区域时考虑低吸，设置止损以控制风险。  \n\n综合来看，ETH/USD短期仍偏多震荡，但上涨动力有限，操作上宜保持谨慎，结合关键支撑位进行布局。建议密切关注高点阻力和SMA20支撑变化，以调整仓位策略，控制仓位风险，同时关注价格突破或回落信号。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH/USD) is currently trading at $2046.81, showing a slight 24-hour decline of 0.77%. The price has seen a relatively tight range between the day’s high of $2065.16 and low of $2041.76, indicating a period of consolidation. In the absence of a clear trend, this could imply indecision in the market. For traders, watching for breakouts above the recent high or breakdowns below the low will be key to understanding future price direction.\n\nThe lack of an RSI reading and the unavailability of a signal line in the MACD suggests that momentum indicators are providing limited insight into market strength or weakness at the moment. However, the MACD histogram shows a positive value of 1.65450, which implies that there is a mild bullish bias. Without further confirmations from other indicators, this could suggest that ETH/USD might attempt to push higher, but the absence of clear support from momentum indicators suggests caution.\n\nThe price is currently hovering just above the 20-day Simple Moving Average (SMA) at $2031.08, a common level for price to find support or resistance. The proximity of the SMA to the current price suggests that this level will play a crucial role in determining short-term market direction. A failure to hold above this level could trigger further downside movement, possibly testing lower levels like $2000 or even $1975.\n\nFor traders, a prudent approach would involve waiting for confirmation of a clear breakout or breakdown from current levels. A sustained move above $2065 could signal the potential for a rally toward $2100 or higher. Conversely, a drop below the SMA and a break of $2040 could lead to further weakness, with $2000 acting as the next significant support level. Caution is advised in these conditions, as market indecision is high."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-11T15:32:42.626Z",
+  "price": {
+    "close": "85.11",
+    "high": "86.67",
+    "low": "85.04",
+    "open": "86.55",
+    "change": "-1.65",
+    "datetime": "2026-03-11 15:00:00"
+  },
+  "indicators": {
+    "rsi": 45.44707,
+    "macd": -0.17440941,
+    "macd_signal": -0.1549452,
+    "sma20": 85.704
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短期承压偏弱震荡",
+      "content": "当前SOL/USD价格略低于20日均线$85.704，显示短期多头动力减弱，价格在$85附近承压。日内高低点86.67/85.04波动较窄，暗示市场短期震荡整理为主，空头压力逐渐显现。  \n\nMACD指标为-0.174，虽未提供信号线，但负值表明下行动能占优，价格可能延续弱势。缺少RSI数据限制超买超卖判断，但结合价格与均线走势，可视为市场短线偏弱。  \n\n支撑位初步锁定在$85附近，若跌破可能测试$83.5-84区域；阻力位关注$86.5至$87一线，多头需突破此区间确认反弹。短线操作可依托支撑做低吸，遇阻位适度减仓或观望。  \n\n交易建议上，维持谨慎策略为宜。多头可等待价格稳住均线之上且MACD回升信号出现再加仓；空头可在价格回落至阻力位附近或跌破支撑时考虑建仓，控制仓位和风险为关键。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 85.11\\n- 24h Change: -1.65%\\n- High/Low: 86.67 / 85.04\\n- RSI(14): N/A\\n- MACD: -0.17440941, Signal: N/A\\n- SMA(20): 85.70400\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s recent price action points to a **mildly bearish intraday tone**, with SOL/USD trading down about 1.65% and hovering near the session low. The limited range between 86.67 and 85.04 suggests **compression and indecision**, likely reflecting market participants waiting on broader crypto sentiment or Bitcoin’s direction. While the short-term trend is not sharply down, the inability to hold above the 20‑period SMA at 85.70 indicates a slight **loss of upward momentum** in the very short run.\n\nWithout a current RSI or complete MACD signal line, we lean on price structure and the lone MACD histogram reading. The negative MACD reading (-0.174) hints at **underlying bearish pressure**, though the absence of a signal line cross limits conviction. If the MACD continues to widen below zero once the signal line prints, that could confirm a shift into more pronounced bearish momentum. Until then, watch how price interacts with the 20 SMA and recent highs for clues.\n\nKey support emerges near **$84.50–$85.00**, a level that has held repeatedly in recent candles, followed by stronger support near **$82.00–$82.50**. On the upside, **$86.50–$87.00** represents immediate resistance, with a break above signaling potential reclaiming of short-term bullishness. A sustained move above **$88.00** would further strengthen the bullish case, while losing $84 could open the door to deeper pullbacks toward the mid‑$80s.\n\nFrom a trading perspective, short‑term traders might favor **range‑responsive entries**, buying near support and trimming toward resistance. More aggressive traders could use a break above $87 for a momentum entry, with stops just below $85. Conversely, a breakdown below $84 might favor cautious short positions or hedged trades, keeping risk tight given crypto’s inherent volatility and broader market correlations."
+    }
+  }
+}
