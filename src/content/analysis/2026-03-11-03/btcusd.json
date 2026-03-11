@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-11T03:35:29.456Z",
+  "price": {
+    "close": "69636.7",
+    "high": "69907.5",
+    "low": "69504",
+    "open": "69820.9",
+    "change": "-0.27",
+    "datetime": "2026-03-11 03:00:00"
+  },
+  "indicators": {
+    "rsi": 46.18866,
+    "macd": 88.90126,
+    "macd_signal": 261.55261,
+    "sma20": 70401.3005
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱，关注关键支撑",
+      "content": "当前BTC/USD价格约69636附近，较SMA(20)的70401明显处于下方，显示短期均线趋势偏弱。24小时波动区间69907至69504之间，价格整体维持窄幅震荡，市场动能暂时不足，多空双方处于短期博弈阶段。\n\nMACD数值仍处于正值区域，说明中期动能尚未完全转空，但若柱状动能继续收缩，可能形成短线回调压力。由于价格持续运行在20日均线下方，表明短期趋势仍偏弱，市场情绪谨慎，反弹力度有限。\n\n从关键价位来看，69500附近形成短线第一支撑，一旦有效跌破，可能测试69000心理关口。上方阻力主要集中在70000整数位以及70400附近的20日均线区域，若价格无法重新站上该区间，上行空间仍将受限。\n\n交易策略方面，短线交易者可关注69500支撑的防守情况，若出现企稳信号可尝试轻仓反弹交易。若跌破该位置，则需警惕进一步回落风险。整体策略以区间交易为主，等待价格重新站稳70000上方再考虑顺势做多。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $69,636.7, with a slight 24-hour drop of 0.27%. Despite the minor retracement, the overall market remains bullish as the price stays relatively close to the recent high of $69,907.5. The price action indicates a consolidation phase just below key resistance levels, suggesting that the market might be building momentum for another upward push. Buyers are likely waiting for confirmation of bullish continuation before driving the price higher.\n\nIn terms of technical indicators, the lack of an RSI reading leaves us without a clear picture of overbought or oversold conditions. The MACD value of 88.90126 suggests that the bullish momentum remains intact, but with the absence of a defined signal line, caution is advised in terms of timing entries. The lack of a confirmed crossover on MACD suggests that a pullback might be necessary before a stronger upward move can occur. Traders should monitor this closely for any signs of divergence.\n\nThe 20-period simple moving average (SMA) currently sits at $70,401.30, acting as a short-term dynamic resistance level. A price retracing to this level might offer buying opportunities, as it could signal a bounce towards the upper resistance zone around $69,900. A sustained break above this level would confirm further bullish potential towards the next resistance near $71,500. Conversely, a failure to break higher and a retracement below $69,500 could suggest a deeper pullback, targeting support levels around $68,000.\n\nGiven the current market environment, it’s advisable to wait for a clear breakout or pullback before entering trades. A push above $69,900 could provide a solid long entry, while a drop below $69,500 would signal caution or even short opportunities. Risk management strategies, including setting stop-loss orders near key support zones, are essential for mitigating potential downside risks in such volatile conditions."
+    }
+  }
+}
