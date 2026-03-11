@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-11T20:30:46.551Z",
+  "price": {
+    "close": "2071.21",
+    "high": "2075.66",
+    "low": "2068.12",
+    "open": "2075.66",
+    "change": "-0.27",
+    "datetime": "2026-03-11 20:00:00"
+  },
+  "indicators": {
+    "rsi": 59.70518,
+    "macd": 10.17189,
+    "macd_signal": 5.12608,
+    "sma20": 2040.3715
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多趋势",
+      "content": "以太坊当前价格位于 $2071.21$，略高于20日简单移动均线(SMA20) $2040.37$，显示短期价格仍受均线支撑，但24小时微幅下跌 $-0.27\\%$ 表明市场存在一定整理压力。整体来看，多头略占优势，但缺乏强烈推动力。  \n\nMACD值为 $10.17$，虽然信号线未给出，但指标正值通常暗示价格可能仍维持上行动能。然而，由于缺乏RSI信息，无法判断超买或超卖状态，需关注价格对均线的动态反应。短期多空力量趋于平衡，适合密切跟踪指标变化。  \n\n从支撑和阻力角度，短期支撑位可关注前低附近 $2068$，若跌破则可能触发进一步回调；阻力位在近期高点 $2075-2080$ 区间，如突破可确认短线上涨延续。价格在该区间震荡时，多空双方争夺明显，需要谨慎操作。  \n\n交易策略上，若价格回踩均线或支撑位并出现止跌信号，可尝试短线多单，止损设置在 $2065$ 以下；若价格突破阻力并放量，可顺势做多。相反，若跌破关键支撑并伴随加速下行，则考虑轻仓空单或观望，避免追高。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) has been trading in a narrow range over the past 24 hours, with a slight negative change of -0.27%. The price has oscillated between $2075.66 and $2068.12, indicating a consolidation phase. The current market trend is neutral, with no clear direction forming in the short term. However, considering that the price is above the 20-period simple moving average (SMA) at $2040.37, a bullish bias remains, especially if the price can maintain levels above this support zone.\n\nLooking at the technical indicators, the absence of the 14-day RSI and the lack of a signal for the MACD make it challenging to draw strong conclusions. The MACD value of 10.17189 suggests a mild bullish momentum, but without a confirmed crossover or signal, it's difficult to rely on this as a definitive market signal. The RSI would typically provide insight into overbought or oversold conditions, but its absence means traders should be cautious about potential price reversals.\n\nIn terms of support and resistance levels, the immediate support lies near $2068.12, with a potential test of $2040 if the price fails to hold. On the upside, resistance is seen around $2075.66, with the next significant level potentially forming at $2100. A breakout above $2075.66 could signal a continuation towards higher levels, while a drop below $2068.12 could lead to further downside testing the $2040 area.\n\nFor trading strategies, conservative traders may want to wait for a confirmed breakout above $2075.66 or a pullback to the $2040 region for a potential buy opportunity. Given the current neutral stance, intraday scalpers could take advantage of small price movements within this range. Traders should stay alert for any changes in momentum indicators, as these could shift the market outlook."
+    }
+  }
+}
