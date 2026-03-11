@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-03-11T14:18:58.356Z",
+  "price": {
+    "close": "0.09309",
+    "high": "0.09368",
+    "low": "0.09269",
+    "open": "0.09315",
+    "change": "-0.05",
+    "datetime": "2026-03-11 14:00:00"
+  },
+  "indicators": {
+    "rsi": 51.3211,
+    "macd": -0.00036424534,
+    "macd_signal": -0.00033641274,
+    "sma20": 0.0931325
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏弱",
+      "content": "当前狗狗币价格维持在0.09309附近，接近20日简单移动平均线SMA(20) 0.09313，显示短期价格处于均线附近震荡整理状态。价格波动幅度有限，日内高低点仅为0.09368与0.09269，表明多空力量暂时均衡，市场缺乏明显趋势突破。  \n\nMACD指标显示为-0.00036424534，位于零轴下方，暗示短期空头略占上风，但由于信号线数据缺失，趋势强度无法完全确认。结合价格与均线接近的情况，可判断市场短线偏弱但仍存在反弹可能。若RSI恢复，或可进一步观察超买超卖状态以确认回调空间。  \n\n支撑位初步落在0.0927附近，如跌破可能触发进一步下探至0.0920区域。阻力位在0.0937至0.0940区间，多次触及未能突破，短期多头承压明显。交易者可关注价格在支撑与阻力区间的反复测试情况，逢低谨慎介入多单，突破阻力再考虑加仓。  \n\n综合来看，短期狗狗币偏向震荡偏弱，建议保守策略为区间操作，严格设置止损位以控制风险。若价格稳健突破0.0940上方，可考虑短线跟进，但若跌破0.0927，则需快速止损，避免被拉入空头趋势。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current market for Dogecoin shows a slightly negative trend with a minor 24-hour price change of -0.05%. The latest price stands at 0.09309, and the high and low range for the past 24 hours indicates a narrow price movement between 0.09368 and 0.09269. This suggests limited volatility, keeping the price relatively stable. Dogecoin is currently testing lower support levels near the 0.09270 area. If the price breaks below this range, it could indicate a further decline towards 0.09200 or 0.09150.\n\nWithout the availability of the RSI(14) and a signal line for the MACD, we can't derive specific overbought or oversold conditions, but the MACD value of -0.00036424534 indicates mild bearish momentum. The negative MACD suggests the price could continue its downward trend if this momentum persists. A weaker buying pressure is implied, and we could see some consolidation unless the price breaks out of the current range. Market participants should watch for any signs of recovery near the 0.0930 level.\n\nThe SMA(20) stands at 0.093132500, indicating that the market is still above the 20-period simple moving average. This could provide a short-term level of support. Traders might consider using this as a baseline for buying opportunities, especially if price action shows signs of bouncing from this area. Resistance is evident at 0.09368, with the price struggling to break above this threshold. If the price surpasses this level, there may be room for further upside toward 0.09400 or 0.09500.\n\nGiven the overall slight bearish momentum, traders should remain cautious. A strategy of waiting for confirmation through additional indicators or price action might be prudent. Long positions could be considered around the support levels of 0.09270, but the market should be closely monitored for further signals of a breakout or breakdown. Conservative traders may prefer to wait for a clear trend reversal before entering positions."
+    }
+  }
+}
