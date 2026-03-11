@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-11T18:07:04.056Z",
+  "price": {
+    "close": "70874",
+    "high": "70903.27",
+    "low": "70776.36",
+    "open": "70800.94",
+    "change": "0.10",
+    "datetime": "2026-03-11 18:00:00"
+  },
+  "indicators": {
+    "rsi": 59.72818,
+    "macd": 189.57254,
+    "macd_signal": 68.58931,
+    "sma20": 69966.678
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡上行趋势延续",
+      "content": "当前价格约70874美元，整体仍维持短线偏多结构。价格运行在20日简单移动平均线69966上方，说明中短期趋势保持上行节奏。日内波动区间较窄，高低点差距有限，表明市场处于整理阶段，多空双方暂时进入均衡博弈。\n\n从技术指标看，MACD数值保持在正区间且动能仍然偏强，显示多头趋势尚未明显减弱。尽管RSI暂未提供数据，但价格持续位于均线上方通常意味着市场情绪仍偏乐观。不过，当前涨幅较小，也提示短线动能略有放缓，需关注是否出现动能背离。\n\n关键支撑位首先关注70000美元整数关口，其次为SMA20附近的69900区域，这一带若回踩通常可能吸引买盘。上方短期阻力位集中在70900至71200区间，若有效突破该区域，价格有机会进一步测试72000美元附近的前期压力区。\n\n交易策略方面，短线可关注回调至70000—70200区域的低吸机会，结合量能与K线形态确认入场信号。若价格放量突破70900上方，则可考虑顺势跟进多单。但若跌破69900并持续走弱，则应及时止损，等待新的结构形成。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently showing a relatively stable price action around $70,874, with a minor 24-hour price change of 0.10%. This suggests that there is a degree of consolidation at the current level, with traders awaiting further price movement. The high and low of the day indicate minimal volatility, which is common in periods of market indecision. The lack of a clear directional trend is reflected in the current price action, showing a hesitation to either break above resistance or fall towards support.\n\nThe absence of a reliable RSI (Relative Strength Index) reading limits our ability to gauge whether Bitcoin is overbought or oversold in the short term. However, the MACD (Moving Average Convergence Divergence) reading of 189.57254 is relatively strong, suggesting that the bulls have the upper hand. Without the signal line data, it's challenging to fully assess momentum, but the current MACD level implies that a bullish trend may persist if price maintains this range. Traders should look for any crossover in the future to confirm continuation.\n\nLooking at the 20-period Simple Moving Average (SMA), the price is currently well above the $69,966.68 level, which can act as a support in case of a pullback. A test of this SMA could present a buying opportunity for traders, especially if it coincides with other bullish signals. Conversely, if the price falls below this level, it could signal weakness and a potential move towards lower support areas, such as $69,000. Resistance remains just above at $70,903, where the price action has shown resistance in recent hours.\n\nIn terms of trading suggestions, a cautious approach is recommended. If the price holds above the $70,000 level, a breakout above $70,900 could lead to further bullish movement. Conversely, a failure to maintain above the SMA or a break below $69,000 may signal a short-term bearish trend, at which point risk management and stop-loss orders are advisable."
+    }
+  }
+}
