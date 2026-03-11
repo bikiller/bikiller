@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-11T04:24:14.651Z",
+  "price": {
+    "close": "69746.13",
+    "high": "69776.11",
+    "low": "69500.31",
+    "open": "69561.84",
+    "change": "0.27",
+    "datetime": "2026-03-11 04:00:00"
+  },
+  "indicators": {
+    "rsi": 47.79729,
+    "macd": 53.51302,
+    "macd_signal": 218.91468,
+    "sma20": 70349.9235
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，仍存上行压力",
+      "content": "比特币当前价格在 $69746.13$ 附近，日内波动有限，仅上涨 $0.27\\%$，显示市场短期多空力量相对均衡。高低点区间为 $69776.11$ 至 $69500.31$，价格在 $20$ 日简单移动平均线（SMA20）下方运行，短期偏弱，但整体仍维持上行趋势的潜在结构。  \n\nMACD 当前值 $53.51302$，虽缺乏信号线对比，但正值表明多头动能存在，价格若能突破 SMA20 可能触发进一步拉升。由于 RSI 数据缺失，无法确认超买超卖情况，但结合价格整理区间，市场短线可能维持震荡格局，投资者需关注量能变化。  \n\n支撑位主要集中在 $69500$ 附近，如跌破可能引发短期回调；阻力位在 SMA20 $70350$ 附近及日内高点 $69776$，若有效突破，价格有望测试 $70,500$ 附近。技术面显示，若价格企稳支撑，可逢低尝试小幅布局，风险可控。  \n\n交易策略建议以短线震荡操作为主，多单进场需等待回调确认支撑，止损可设置在 $69450$ 以下；若突破阻力，可适度追高，但注意控制仓位。空单操作应谨慎，宜在跌破关键支撑后再考虑介入，以降低风险敞口。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD pair is currently showing a minor upward movement, trading at $69,746.13, with a 24-hour change of 0.27%. This indicates that, in the short term, Bitcoin is in a consolidation phase after reaching a high of $69,776.11 and a low of $69,500.31. The price remains near its 20-period Simple Moving Average (SMA), currently at $70,349.92, suggesting a neutral market sentiment. The lack of a clear trend points to indecision in the market as it balances between the recent high and low levels.\n\nFrom a technical standpoint, the absence of a reliable RSI and a non-specific MACD value adds complexity to interpreting momentum. However, the MACD value of 53.51302 may indicate that there is some upward momentum, but the lack of a signal line makes it difficult to gauge its strength. Traders may want to stay cautious and wait for more confirmed signals before making aggressive trades. The RSI, if available, could have offered further insights into the overbought or oversold conditions, but its absence requires a more conservative approach.\n\nKey support lies at the recent low of $69,500.31, with any further dip potentially bringing the price to test the lower boundary. On the resistance side, the $69,776.11 level provides an immediate hurdle. A break above this resistance could open the door for a rally towards the SMA(20) at $70,349.92, and potentially beyond. Conversely, failure to hold the $69,500.31 support could lead to a bearish move towards lower levels, with a focus on deeper retracement zones.\n\nGiven the current market structure and lack of strong momentum signals, it may be wise for traders to adopt a wait-and-see approach. A break above resistance could provide an entry point for long positions, while a failure to hold support might signal a shift to a bearish outlook. Patience and careful monitoring of the next 24 to 48 hours will be crucial for determining the next decisive move in BTC/USD."
+    }
+  }
+}
