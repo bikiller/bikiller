@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-11T11:22:29.581Z",
+  "price": {
+    "close": "85.21",
+    "high": "85.31",
+    "low": "84.93",
+    "open": "85.25",
+    "change": "-0.06",
+    "datetime": "2026-03-11 11:00:00"
+  },
+  "indicators": {
+    "rsi": 44.036235,
+    "macd": -0.23514508,
+    "macd_signal": -0.083006413,
+    "sma20": 86.0265
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 85.21\\n- 24小时变化: -0.06%\\n- 高点/低点: 85.31 / 84.93\\n- RSI(14): N/A\\n- MACD: -0.23514508, Signal: N/A\\n- SMA(20): 86.026500\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线弱势震荡等待确认趋势\n\n目前SOL价格在85美元附近呈现窄幅震荡，未能有效站上SMA(20)86.03上方，短线多头动能偏弱。价格在高点84.93与低点85.31之间反复震荡，说明多空力量暂时僵持，需等待方向性突破来确认趋势。\n\n技术指标MACD仍在零轴下方运行且未见明显回转迹象，表明下行动能仍在，但缺乏强烈下跌压力。若RSI(14)能够获取数据并回升，则有助验证多头动量回归。当前指标暗示市场偏向震荡整理而非明确趋势。\n\n关键支撑位可关注82.50至83.00区域，该位置历史上提供短线承托。阻力位则集中在86.50与88.00上方，若价格持续受阻于这些水平，短线反复震荡概率上升。投资者应留意成交量变化作为突破确认信号。\n\n交易建议上，较为保守策略是等待价格有效收于86.50上方再考虑做多。若跌破82.50支撑，则短线可寻求逢低小额空单机会并设置紧密止损。控制仓位、明确止损位是降低风险的关键。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The Solana (SOL/USD) market is currently in a slight consolidation phase, with the price trading at $85.21, showing minimal change over the last 24 hours. The asset's price has recently been constrained between $85.31 and $84.93, signaling a range-bound market. Without a clear trend direction, the market sentiment appears neutral. However, further scrutiny suggests that Solana's price may face resistance near the recent high at $86.03, aligning with the 20-period Simple Moving Average (SMA). A breakout above this level could signal a potential bullish move, targeting the next resistance zone around $87.50.\n\nOn the downside, the low of $84.93 presents an immediate support level, and a break below it would open the door to further downside testing. If the price drops below this support, the next critical support level is at $83.00, which could trigger additional selling pressure. With the Relative Strength Index (RSI) and Signal Line data unavailable, traders would be wise to monitor the price action closely for any divergence or confirmation of trend shifts. \n\nThe lack of substantial momentum indicators like the MACD signal adds another layer of caution. The current MACD value at -0.235 indicates a weak bearish momentum but is not conclusive on its own without confirmation from other indicators. Traders may want to adopt a wait-and-see approach, looking for a clear bullish crossover or a stronger bearish signal before committing to any significant positions. \n\nIn terms of trading suggestions, a conservative approach would be to watch for a breakout or breakdown from the $85.00–$86.00 range. Traders could consider buying near support at $84.93 if bullish confirmation emerges, with targets at $86.50 and $87.00. Alternatively, a break below $84.93 could suggest further downside potential, with the next target at $83.00 or lower."
+    }
+  }
+}
