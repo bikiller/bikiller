@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-03-11T10:07:47.953Z",
+  "price": {
+    "close": "0.09188",
+    "high": "0.09192",
+    "low": "0.09163",
+    "open": "0.09169",
+    "change": "0.21",
+    "datetime": "2026-03-11 10:00:00"
+  },
+  "indicators": {
+    "rsi": 40.79718,
+    "macd": -0.00056246143,
+    "macd_signal": -0.00016651187,
+    "sma20": 0.0942025
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：震荡整理，短期承压",
+      "content": "当前狗狗币/美元（DOGE/USD）价格为0.09188，显示出短期内的震荡整理趋势。虽然价格波动较小，但市场缺乏明确的方向性，表明多空双方仍在相对平衡的状态。当前价格接近近期低点0.09163，可能面临一定的支撑挑战。\n\nMACD指标当前为负值（-0.00056246143），显示短期内卖压稍重。然而，由于没有明显的交叉或信号线，因此不能完全确认是否会进一步下行。RSI(14)数据暂缺，这使得我们无法全面评估市场的超买或超卖情况。\n\nSMA(20)线当前为0.0942，价格位于其下方，暗示短期内可能继续承压。如果价格突破0.0942上方，可能会看到一定的反弹。然而，若跌破支撑位0.09163，可能会进一步下行至更低的区域。\n\n交易建议方面，建议短期内保持观望，若价格接近支撑位0.09163时考虑入场买入，止损可设于0.0912附近。反之，若价格突破0.0942，可考虑做多，目标看向0.0950区域。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current market price for Dogecoin (DOGE/USD) is $0.09188, showing a modest 0.21% increase over the last 24 hours. This relatively small fluctuation suggests a period of consolidation within a narrow range. The price is holding just below the 20-period Simple Moving Average (SMA) of $0.0942, indicating a slightly bearish short-term trend. A clear breakout above the SMA would suggest bullish momentum, while failure to break higher may keep the price trapped in the current range or drive it lower toward key support levels.\n\nOn the technical side, the Relative Strength Index (RSI) is unavailable for the moment, but the MACD is currently in negative territory with a value of -0.00056, indicating bearish pressure. The lack of a strong positive divergence or crossover in the MACD signals that Dogecoin could continue experiencing downward pressure unless we see a reversal in momentum. Traders should remain cautious, waiting for either a significant move above or below the current price level for clearer direction.\n\nSupport for DOGE/USD is seen at $0.09163, the low point in the current 24-hour range. A drop below this level could lead to further downside, with the next significant support zone around $0.0900. On the other hand, resistance exists near $0.09192, with the 20-period SMA providing a potential barrier for any rally attempts. If the price breaks through this resistance, it could aim for higher levels, potentially targeting $0.0950 or beyond.\n\nIn terms of trading strategy, a conservative approach might involve waiting for confirmation of a breakout above $0.0920 or a pullback to the support around $0.0910. Traders could use this range-bound price action to enter buy or sell positions based on the momentum shift, ensuring tight stop-loss orders to manage risk."
+    }
+  }
+}
