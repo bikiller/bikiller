@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-12T10:05:36.754Z",
+  "price": {
+    "close": "86.2",
+    "high": "86.36",
+    "low": "86.16",
+    "open": "86.18",
+    "change": "0.01",
+    "datetime": "2026-03-12 10:00:00"
+  },
+  "indicators": {
+    "rsi": 51.71578,
+    "macd": -0.092689518,
+    "macd_signal": -0.083557438,
+    "sma20": 86.278
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 86.2\\n- 24小时变化: 0.01%\\n- 高点/低点: 86.36 / 86.16\\n- RSI(14): N/A\\n- MACD: -0.092689518, Signal: N/A\\n- SMA(20): 86.278\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：价格盘整，短期震荡为主\n\n当前SOL/USD价格围绕86美元上下小幅波动，短线趋势缺乏明确方向性。最新价格86.2美元几乎与20日均线86.278贴合，表明多空力量暂时均衡，市场处于震荡整理阶段，短期上涨动能不足但下跌也未放量。\n\n技术指标方面，MACD直线为负且Signal不可用，暗示动能偏弱且无法确认趋势反转。虽然RSI数据缺失，但价格紧贴均线意味着超买超卖状态不明显。短期技术面偏中性，等待更有力的指标信号来确认多头或空头趋势的形成。\n\n关注关键支撑与阻力位，近支撑在85.5美元附近，如失守可能加速回落测试更低支撑。阻力方面注意87.5–88美元区域，多次未突破将形成明显压制。盘中若能稳住支撑并放量上破阻力，则短线有望上探更高位置。\n\n交易建议上，震荡行情适合区间交易，低多高空并严格设置止损。激进者可在85.5附近试多单，止损设在85美元下方；保守者等待88美元以上确认突破再做多。风险管理优先，关注成交量变化以判断趋势有效性。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 86.2\\n- 24h Change: 0.01%\\n- High/Low: 86.36 / 86.16\\n- RSI(14): N/A\\n- MACD: -0.092689518, Signal: N/A\\n- SMA(20): 86.278\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$86.2** indicates a period of consolidation with muted volatility, underscored by a 24‑hour change of just **0.01%**. This sideways drift suggests neither bulls nor bears have strong conviction at the moment, with price hugging the 20‑period simple moving average near **$86.28**. The tight range between the recent high of **$86.36** and low of **$86.16** reinforces this indecision, implying that a breakout—either above resistance or below support—may be forthcoming as traders await a catalyst.\n\nMomentum indicators currently paint a mixed picture. The MACD sitting at approximately **–0.093** hints at modest bearish pressure, though without a signal line reading, the extent of the divergence is unclear. The absence of a reliable RSI reading limits insights into overbought or oversold conditions, but the proximity of price to its short‑term SMA suggests equilibrium between buying and selling forces. Traders should watch for a MACD crossover back above its signal line as an early sign of renewed upside momentum.\n\nImmediate technical support on SOL/USD lies around **$85.80–$86.00**, where recent intraday lows and the SMA zone converge. A decisive break below this cluster could expose deeper support near **$84.50**, a level that previously acted as a congestion zone. On the upside, initial resistance remains near **$87.00**, with a stronger barrier at **$88.50–$89.00**, a region where prior supply has capped rallies. Breaching these levels with strong volume would shift the short‑term narrative in favor of the bulls.\n\nIn terms of tactical suggestions, range‑bound traders might consider buying nearer support and trimming positions as price approaches defined resistance, while keeping tight stops just below structural levels. For breakout traders, confirmation above **$87.00–$87.50** with increased volume could signal a fresh long entry, targeting **$89+**. Conversely, a break below **$86** with conviction might warrant cautious short exposure, though broader market context should always be factored into execution decisions."
+    }
+  }
+}

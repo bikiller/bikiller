@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-12T10:03:28.490Z",
+  "price": {
+    "close": "69999.57",
+    "high": "70069.99",
+    "low": "69958.02",
+    "open": "69958.02",
+    "change": "0.06",
+    "datetime": "2026-03-12 10:00:00"
+  },
+  "indicators": {
+    "rsi": 51.23838,
+    "macd": -68.082892,
+    "macd_signal": -58.86771,
+    "sma20": 70092.6195
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，待突破]",
+      "content": "当前比特币/美元（BTC/USD）市场表现出震荡整理的趋势，最新价格位于69,999.57美元附近，呈现出短期内的横盘状态。价格在过去24小时的变动仅为0.06%，未能突破前期的高点70,069.99美元。整体市场的波动性较低，缺乏强烈的方向性。\n\n从技术指标来看，RSI（14）数据尚未提供，无法全面评估市场的超买或超卖情况。MACD显示负值（-68.08），表明短期内存在卖压，但信号线数据缺失，无法确认是否存在持续的下行趋势。SMA（20）为70,092.62美元，价格略低于该均线，暗示市场可能有短期下行压力。\n\n支撑位方面，69,958.02美元是近期的低点，若价格下行至此水平，可能会受到一定的支撑。阻力位则位于70,069.99美元附近，突破这一位置可能会重新点燃多头的兴趣，带动价格上涨。若突破该阻力，可能会挑战更高的价格区域。\n\n建议投资者在当前震荡区间内保持谨慎，关注关键的支撑与阻力位。若价格突破70,070美元，可以考虑适当的短期多头操作；若跌破69,958美元，则可能会出现进一步的下行风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD pair is currently trading at $69,999.57, showing a slight 24-hour increase of 0.06%. This minimal price movement suggests that the market is in a consolidation phase, lacking significant volatility. The recent high of $70,069.99 and low of $69,958.02 indicate that the price is currently oscillating within a narrow range. This could signal indecision among traders, with neither the bulls nor the bears in control, as we await further signals to confirm the next direction.\n\nFrom a technical standpoint, the absence of a clear RSI reading and the current MACD value of -68.08 imply that momentum is weak and leaning slightly bearish. However, the lack of a signal line on the MACD prevents a definitive interpretation of market sentiment. The SMA(20) at $70,092.62 provides a near-term resistance level, with the price currently sitting just below it. Should Bitcoin surpass this level, it could signal a potential reversal or bullish continuation toward higher targets.\n\nSupport levels are found near the recent low of $69,958.02, which is crucial for maintaining the current price structure. If the price drops below this level, we could see further bearish pressure, with potential support at $69,500 and $69,000. On the upside, breaking through the SMA(20) at $70,092.62 would expose the next resistance at $70,500, where further price action might gain momentum.\n\nFor traders, caution is advised given the current lack of clear momentum indicators. A breakout above $70,092 could present a buying opportunity, but it's essential to monitor the market closely for confirmation of trend direction. Conversely, if the price tests support levels and fails to hold, short positions might become more attractive, with a focus on lower support zones."
+    }
+  }
+}
