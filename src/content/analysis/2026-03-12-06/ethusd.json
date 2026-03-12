@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-12T06:08:51.798Z",
+  "price": {
+    "close": "2026.96",
+    "high": "2027.93",
+    "low": "2024.82",
+    "open": "2024.93",
+    "change": "0.03",
+    "datetime": "2026-03-12 06:00:00"
+  },
+  "indicators": {
+    "rsi": 42.86994,
+    "macd": -3.30363,
+    "macd_signal": 1.49616,
+    "sma20": 2048.534
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱，承压下行风险显现",
+      "content": "以太坊当前价格位于 $2026.96$，接近日内低点 $2024.82$，显示短期多空力量均衡，但缺乏明显上涨动力。相较于20日简单移动平均线 $2048.534$，价格处于均线下方，表明短线仍承压，趋势偏弱震荡。  \n\nMACD显示当前值为 $-3.30363$，且信号线未提供，但负值暗示空方动能略强，价格可能在短期内面临进一步回落压力。日内波动区间狭窄，表明市场情绪谨慎，突破可能需依赖成交量放大。  \n\n关键支撑位在 $2020$ 附近，如跌破此位置，可能引发短线回调至 $2000$ 整数关口。阻力位则在 $2048$ SMA附近，以及近期高点 $2027.93$ 附近，突破需强劲买盘支撑。交易者应关注价格能否稳住支撑并出现反弹信号。  \n\n操作建议上，短线可逢低轻仓介入，但建议严格设置止损，防止快速回撤。震荡偏弱行情中，激进追高风险较大，可考虑等待价格站稳 $2048$ 上方形成确认后再布局多单，同时留意重要消息对波动的放大效应。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum market against the US Dollar is currently exhibiting a tight price range, with a modest 24-hour change of just 0.03%. The latest price is hovering at $2026.96, near the daily high of $2027.93, indicating a slightly bullish sentiment. However, the absence of a clear RSI value means that we are missing a key indicator of market momentum, which would typically help to gauge overbought or oversold conditions. Without this, other indicators must take the forefront.\n\nThe MACD is showing a value of -3.30363, suggesting a weak bearish momentum. This negative value points to a subtle downtrend, which could signal the possibility of further downward movement if the current momentum holds. However, since the MACD’s signal line is unavailable, it becomes difficult to compare the magnitude of the momentum to previous levels. For a clearer understanding of potential reversals or continuations, this would be an important indicator to monitor in the coming days.\n\nThe 20-day simple moving average (SMA) stands at $2048.534, which is well above the current price of $2026.96. This positioning suggests that Ethereum is currently trading below its short-term average, which may act as a resistance level if price rallies towards it. Traders should consider this SMA as a critical level for potential rejection, but a breakout above it could signal a return to bullish sentiment in the short term. \n\nGiven the present market conditions, cautious trading is advised. Ethereum is at a crossroads, with slight bearish momentum visible on the MACD and a potential resistance at the SMA. Watching for a break above $2048 or a sustained dip below $2024 could provide clearer entry or exit points for traders. A breakout above $2048 would indicate potential upside, while a failure to hold above $2024 might suggest further downside risk."
+    }
+  }
+}
