@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-13T21:50:45.665Z",
+  "price": {
+    "close": "71214.92",
+    "high": "71500.96",
+    "low": "71069.89",
+    "open": "71359.88",
+    "change": "-0.20",
+    "datetime": "2026-03-13 21:00:00"
+  },
+  "indicators": {
+    "rsi": 47.71497,
+    "macd": 142.33322,
+    "macd_signal": 324.64872,
+    "sma20": 71766.7215
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期承压]",
+      "content": "当前比特币在71214.92美元附近震荡整理，日内变化较小，维持在71069.89至71500.96之间的区间内。整体来看，市场未出现明显方向性突破，短期走势仍处于横盘整理阶段。\n\n从技术指标来看，MACD显示142.33的正值，但信号线数据缺失，表明动能仍在，但尚未形成明确的买入或卖出信号。RSI未提供，因此无法完全判断市场超买或超卖状态。20日简单移动平均(SMA)为71766.72，价格接近该水平，提示短期内可能面临阻力。\n\n支撑位在71000美元附近，若价格回调，可能会触及该支撑区间，而阻力位则位于71500至72000美元之间。突破此区域可能会带来上涨的动能。短期内，市场可能会继续整理，除非出现较大的市场波动，否则短期内难以突破当前区间。\n\n建议交易者保持观望，等待价格突破关键支撑或阻力位，或者等到MACD和RSI指标提供进一步的买卖信号。在当前区间内操作时，控制好风险，避免过度杠杆。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market for BTC/USD is showing signs of consolidation, with the price hovering around $71,214.92. Despite a slight 24-hour change of -0.20%, this level of price action indicates a period of indecision. Bitcoin's price has recently tested the high of $71,500.96 and the low of $71,069.89, forming a tight range. Given that these levels remain unbroken, it suggests a temporary consolidation before a potential breakout. The overall trend is neutral, pending further momentum from the market.\n\nThe absence of a clear RSI(14) value and the incomplete MACD signal complicates the analysis. However, the MACD level of 142.33 points to a relatively stable momentum, though it lacks the confirmation of the signal line. This indicates that bullish momentum may be slowing, and traders should remain cautious. If the MACD line begins to cross below the signal, we could see downward pressure building. On the other hand, a crossover in the opposite direction could suggest renewed bullish activity.\n\nKey support lies around the $71,070 level, which has held up well in recent price movements. If this support holds, we could see a potential bounce toward the $71,500 resistance zone. A break above this level could pave the way for a move toward the next resistance area near $72,000. Conversely, if the price falls below $71,070, the next support could be tested at $70,000. Traders should watch these levels for clear breakout or breakdown signals.\n\nGiven the market's current indecision, a cautious approach is recommended. Traders may want to consider waiting for confirmation from the MACD and RSI indicators before making a move. A break above $71,500 could present a buying opportunity, while a break below $71,070 might signal a potential short. Tight stop-loss orders would help mitigate risks, particularly in a choppy market."
+    }
+  }
+}
