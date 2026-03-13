@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-13T09:58:19.216Z",
+  "price": {
+    "close": "72062.05",
+    "high": "72133.6",
+    "low": "71594.68",
+    "open": "71844.77",
+    "change": "0.30",
+    "datetime": "2026-03-13 09:00:00"
+  },
+  "indicators": {
+    "rsi": 66.54089,
+    "macd": 455.42427,
+    "macd_signal": 349.5941,
+    "sma20": 70880.8315
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期略偏多",
+      "content": "当前比特币价格在72000美元附近震荡整理，呈现出短期偏多的走势。近期价格虽然有所波动，但整体未突破明显的支撑和阻力区间，显示出市场在等待突破信号。市场情绪较为谨慎，投资者需关注更长周期的技术指标以确认下一步走势。\n\n从技术指标来看，MACD显示出强势的买盘动能，当前数值为455.42，但因Signal未公布，尚不能确定是否形成明确的交叉信号。RSI缺失数据，无法提供超买超卖的信息。SMA(20)支撑位在70880附近，进一步确认了当前市场的支撑区域。\n\n支撑位方面，价格在71594附近存在较强支撑，若跌破该价位，可能会进一步测试更低区域。阻力位则在72133附近，若突破该点位，可能会打开上行空间，甚至可能挑战73000美元的心理关口。\n\n建议投资者可以在71594附近寻找买入机会，若价格突破72133，则可以尝试逐步加仓。然而，若价格跌破支撑位，需及时止损，避免更大的损失。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a moderately bullish stance near the $72,000 mark, maintaining a price above the 20-day simple moving average of $70,880.83. The upward momentum is subtle but persistent, as evidenced by the 24-hour gain of 0.30%. Price action is consolidating within a tight range between $71,594 and $72,133, suggesting that short-term volatility is low and market participants are evaluating the next directional move. Traders may view this as a period of accumulation before a potential breakout.\n\nThe MACD reading of 455.42 indicates ongoing bullish momentum, though the absence of the signal line limits complete interpretation. Still, the divergence between price and the MACD suggests momentum is slightly skewed upward, favoring buyers. Without an RSI value, overbought or oversold conditions cannot be confirmed, but the price's steady climb above the SMA hints at continued demand. Monitoring the MACD cross with its signal line in the coming sessions could provide stronger confirmation of trend strength.\n\nImmediate support lies around $71,600, slightly above the recent intraday low, while resistance is marked near $72,133, the high of the last 24 hours. Breaching this resistance with volume could trigger further upside toward $73,000 or higher, while a drop below $71,600 might expose $71,000 as the next key level. These levels provide clear zones for risk management and entry or exit strategies for traders seeking to capitalize on short-term swings.\n\nFor trading, a cautious long bias may be warranted, especially for intraday or swing traders targeting the $72,500–$73,000 range. Conservative traders could wait for confirmation above resistance before initiating new positions, while more aggressive participants might consider buying near the support with tight stop-losses. Maintaining discipline with position sizing and monitoring key indicators like MACD and SMA will be critical, given Bitcoin’s tendency for rapid retracements despite an overall bullish posture."
+    }
+  }
+}
