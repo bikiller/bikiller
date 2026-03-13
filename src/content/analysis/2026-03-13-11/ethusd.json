@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-13T11:18:51.052Z",
+  "price": {
+    "close": "2126.66",
+    "high": "2133.05",
+    "low": "2112.94",
+    "open": "2113.53",
+    "change": "0.62",
+    "datetime": "2026-03-13 10:00:00"
+  },
+  "indicators": {
+    "rsi": 64.90319,
+    "macd": 15.55727,
+    "macd_signal": 14.15516,
+    "sma20": 2090.357
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：当前震荡整理，偏多",
+      "content": "目前ETH/USD在震荡区间内整理，价格在2126.66附近波动，整体表现出一定的上涨势头。虽然24小时变动幅度较小，仅为0.62%，但价格接近2133的高点，短期内可能维持横盘或继续小幅上扬。\n\n从技术指标来看，MACD值为15.55727，显示出一定的买盘动能，但由于Signal线尚未形成，MACD可能未能提供足够的可靠性作为短期交易信号。SMA(20)在2090.36附近，意味着短期内若价格跌破此水平，可能会遇到一定的支撑位。\n\n对于支撑和阻力位，2133.05的高点形成了短期的阻力区，而2112.94的低点则提供了支撑。在突破2133后，价格可能会进一步测试2160-2200的上行空间。反之，若价格跌破2112.94，可能会回调至2080附近。\n\n建议短线交易者可以考虑在支撑位附近寻找进场机会，设置止损位在2100附近。长期投资者则可以关注是否出现有效突破2133的信号，进行适时的加仓操作。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum market is currently experiencing mild bullish momentum, as indicated by the slight 0.62% price increase over the last 24 hours. The price is testing key resistance around $2133, which could pose a challenge for further upside movement. With the current price hovering just below this resistance, Ethereum might face a pullback if the level holds. However, a strong breakout above $2133 could open the door for a move toward the next resistance at $2200, which is a significant psychological barrier.\n\nOn the downside, support is currently located near the $2112 level, just above the intraday low. A failure to hold above this level could signal a retracement to the next support zone at the 20-period SMA around $2090.357. If this support holds, Ethereum may consolidate within the range between $2112 and $2133 for some time. A break below $2090 could expose the price to further downside risk, potentially testing deeper support levels in the $2000 region.\n\nThe absence of the RSI and Signal line data leaves us with limited indicators to confirm overbought or oversold conditions. However, the MACD value of 15.55727 suggests a moderate bullish momentum, though caution is advised until more comprehensive data becomes available. Given the current scenario, traders should monitor the price action around the $2133 resistance. If a solid breakout occurs, long positions could be considered with a target near $2200, but a failure to break higher may warrant short positions, especially if price re-enters the $2112-$2090 range.\n\nIn terms of risk management, it is advisable to place stop-loss orders just below the $2112 support level to mitigate any downside risks. Given the market's current uncertainty, conservative traders may prefer waiting for a confirmation of a breakout or a reversal before making any aggressive moves. Additionally, with the current price range relatively tight, trading within these boundaries can offer low-risk opportunities for scalping or short-term positions."
+    }
+  }
+}
