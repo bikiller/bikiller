@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-03-13T03:42:14.317Z",
+  "price": {
+    "close": "0.09611",
+    "high": "0.09641",
+    "low": "0.09594",
+    "open": "0.09599",
+    "change": "0.16",
+    "datetime": "2026-03-13 03:00:00"
+  },
+  "indicators": {
+    "rsi": 60.84705,
+    "macd": 0.00074557233,
+    "macd_signal": 0.00054529408,
+    "sma20": 0.094713
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏多",
+      "content": "当前狗狗币价格维持在 $0.09611$ 附近，较 SMA(20) $0.09471$ 略高，显示短期仍存在轻微上行动力。价格在 24 小时内波动幅度有限，高低点区间仅 $0.09641$ 至 $0.09594$，提示市场多空力量暂时平衡，短线趋势以震荡为主，但偏多格局尚存。  \n\nMACD 当前值为 $0.00074557$，虽未给出信号线，但正值表明多头动能略占优势，若后续形成红柱增长，有望推动价格进一步上探。SMA(20) 位于当前价格下方，可视作初步支撑，若价格回踩仍有承接力度，短线下行空间有限。  \n\n关键阻力位在 $0.0965$ 附近，如能有效突破并稳住该水平，将有望触发短期多头加速。支撑位初步在 $0.0947$ SMA 附近，其次下方 $0.094$ 为心理支撑，如跌破需警惕震荡转弱的风险。结合波动幅度，市场短线波动仍集中在 $0.0947$ 至 $0.0965$ 区间。  \n\n交易策略上，可考虑在支撑位附近低吸短线多单，止损设在 $0.094$ 以下以控制风险；若价格突破 $0.0965$ 并伴随量能放大，可顺势追多，目标看向 $0.098$ 附近。整体策略以区间震荡偏多操作为主，保持灵活止盈止损管理。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current price of Dogecoin against the US Dollar is $0.09611, reflecting a modest 24-hour change of 0.16%. This suggests relatively stable price action within a narrow range between $0.09594 and $0.09641. In the absence of detailed RSI data, it’s important to observe the price’s movement in relation to key technical levels, as the lack of overbought or oversold conditions indicates that Dogecoin is in a neutral zone. The market shows no extreme bullish or bearish pressure, which could signal consolidation or a potential breakout if volatility increases.\n\nLooking at the Simple Moving Average (SMA) with a 20-period lookback, the price is trading just above the $0.09471 level, which serves as an important short-term support. This support zone suggests that the price could face downward pressure near this level, with the possibility of further consolidation or a potential bounce. If the price drops significantly below this point, the next critical support could be found near $0.09350, where previous lows may come into play. On the upside, $0.09750 could act as resistance, limiting any upward movement in the near term.\n\nThe MACD value of 0.00074557233 signals a mild bullish momentum, although the lack of a clear signal line prevents a decisive conclusion. It is crucial to keep an eye on the next few candle close periods to determine if the MACD crosses into a more bullish or bearish zone. Should the MACD cross above a signal line (when available), it could reinforce upward momentum, while a cross below might indicate a reversal to a bearish phase. \n\nFor trading strategies, a range-bound approach could be appropriate in the short term, buying near support and selling near resistance. A breakout above $0.09750 may signal a more substantial upward move, while a breakdown below $0.09471 could trigger further bearish momentum. The key will be to watch for changes in the MACD and other indicators to confirm the next directional move."
+    }
+  }
+}

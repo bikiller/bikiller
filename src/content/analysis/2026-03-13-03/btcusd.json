@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-13T03:38:08.759Z",
+  "price": {
+    "close": "71048",
+    "high": "71294.43",
+    "low": "70962.51",
+    "open": "71148.3",
+    "change": "-0.14",
+    "datetime": "2026-03-13 03:00:00"
+  },
+  "indicators": {
+    "rsi": 57.67575,
+    "macd": 296.062248,
+    "macd_signal": 178.68754,
+    "sma20": 70427.208
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏强",
+      "content": "当前比特币价格在71000美元附近小幅回落，整体维持在20日均线（SMA20）上方，显示短期多头仍占优，但涨势有限。24小时价格波动仅约0.14%，表明市场情绪谨慎，趋势呈现震荡整理特征。日内高低点区间窄，短线操作需关注区间突破。  \n\nMACD数值为296.06，但缺少信号线参考，表明动能仍偏正面，但上涨力度可能不足，需警惕短线回调。均线支撑在70427美元附近，多头可借此区域布局低吸策略。RSI缺失无法判断超买或超卖状态，但从价格贴近均线来看，多空均衡尚未明显失衡。  \n\n短期阻力位关注71294美元高点，若价格突破该水平并伴随成交量放大，有望延续上行趋势。下方支撑依旧在70400-70500美元区间，多头防守强劲，跌破该区域可能触发短线回落至70000美元心理关口。  \n\n交易策略上，短线可采取逢低做多为主，关注区间突破确认趋势；中长线投资者建议维持观望，等待价格明确突破阻力位或回踩支撑形成明确方向再介入，控制仓位以降低回调风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market for Bitcoin is experiencing slight bearish pressure, as evidenced by the minor 24-hour decline of -0.14%. The price is hovering around the $71,048 mark, close to the recent low of $70,962.51. The trend is consolidating in a narrow range, signaling indecisiveness in the market. The recent high at $71,294.43 shows a resistance zone, while the price settling around the current value suggests that Bitcoin is struggling to make a definitive move in either direction.\n\nLooking at the absence of a 14-period RSI, we lack momentum indicators for a more detailed analysis of buying or selling strength. However, the MACD value of 296.062248 indicates a strong bullish sentiment in the short term, although with no signal line for confirmation, this might not be as reliable. Without the RSI and signal line data, relying on price action and historical levels becomes crucial for insight into potential movements.\n\nThe simple moving average (SMA) of 20 periods stands at $70,427.20, acting as immediate support. This level has been tested recently, and a price drop below this mark could lead to further declines toward the next support zone. Resistance remains near $71,294, and breaking through this level could trigger bullish momentum, with the potential for a retest of higher levels above $72,000. This dynamic suggests a range-bound market with short-term risks to the downside if key levels are breached.\n\nIn terms of trading strategies, short-term traders might consider short positions if Bitcoin fails to hold the SMA support and breaks below $70,427. For those looking for a potential reversal, long positions could be favorable if the price manages to break above the resistance level at $71,294. It's advisable to stay cautious until more definitive price actions materialize, as the current consolidation may lead to further uncertainty in the coming days."
+    }
+  }
+}
