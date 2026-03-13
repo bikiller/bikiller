@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-03-13T23:01:40.179Z",
+  "price": {
+    "close": "655.53",
+    "high": "657.45",
+    "low": "653.55",
+    "open": "656.87",
+    "change": "-0.20",
+    "datetime": "2026-03-13 22:00:00"
+  },
+  "indicators": {
+    "rsi": 43.34921,
+    "macd": 0.31110577,
+    "macd_signal": 1.9886,
+    "sma20": 662.1135
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏弱整理",
+      "content": "当前BNB价格位于655.53美元附近，较20日均线662.11美元略低，显示短期价格承压于均线之下，市场多空力量趋于平衡，但偏向弱势整理。日内高低点区间狭窄，表明短线波动有限，多空双方暂时缺乏突破动力。  \n\nMACD指标当前值为0.3111，虽未提供信号线，但数值偏正，暗示上行动能有限且可能出现背离风险。RSI未提供数据，但结合价格低于均线，短期可能存在轻微超卖压力，市场仍需等待进一步确认信号。  \n\n从支撑与阻力来看，短期支撑位约在653.50美元附近，若跌破可能触发加速下行；阻力位在662-664美元区间，突破该区域将增强多头信心，短线可关注该区间的成交量变化。  \n\n交易策略上，建议短线交易者以区间操作为主，可低位逢低轻仓布局，高位靠近均线及阻力位适度减仓或观望；中长期投资者可耐心等待回踩支撑确认后逐步建仓，保持风险控制，避免追高操作。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 655.53\\n- 24h Change: -0.20%\\n- High/Low: 657.45 / 653.55\\n- RSI(14): N/A\\n- MACD: 0.31110577, Signal: N/A\\n- SMA(20): 662.11350\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s short‑term price action shows a mild bearish tilt as BNB/USD trades below the 20‑period simple moving average at **662.11**, with the latest price at **655.53**. The recent high‑low range (657.45 / 653.55) and the modest **–0.20%** 24‑hour move reflect consolidation around a key pivot zone. This suggests sellers are slightly more active near the SMA, while buyers defend levels above **653.50–654.00**.\n\nWithout a current RSI reading, momentum context is limited, but the **MACD histogram’s positive value (0.3111)** implies that underlying momentum still leans bullish, albeit weakening near the moving average. A bullish MACD above zero can hint at latent upward pressure even during sideways phases. However, the absence of a visible signal line and RSI means caution: momentum indicators aren’t confirming a strong trend, and range behavior may dominate until one side asserts control.\n\nImmediate **support** lies near the recent lows around **653–650**, where aggressive bids have shown up; a breakdown below **650** could accelerate selling toward **640–635**. On the upside, **resistance** clusters at the SMA(20) near **662**, then at **670–675**, where prior swing highs could stall rallies. Market participants should watch for a clear break and close above **662–665** on strong volume as confirmation of a renewed uptrend.\n\nGiven the current setup, conservative traders might avoid fresh long positions until price decisively clears the SMA and confirms momentum via indicators like RSI crossing above 50. For those favoring tactical swings, a tight long near support with a stop under **650** and a target toward **665–670** balances risk. Conversely, a break below **650** might offer short‑term shorting opportunities with disciplined risk controls."
+    }
+  }
+}
