@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-13T20:29:47.393Z",
+  "price": {
+    "close": "71301.39",
+    "high": "71490.12",
+    "low": "71151.64",
+    "open": "71190.64",
+    "change": "0.16",
+    "datetime": "2026-03-13 20:00:00"
+  },
+  "indicators": {
+    "rsi": 48.65231,
+    "macd": 184.98842,
+    "macd_signal": 369.29442,
+    "sma20": 71788.463
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，市场观望]",
+      "content": "当前比特币/美元（BTC/USD）价格处于震荡整理阶段，最新价为71,301.39美元，波动幅度较小。24小时变化为0.16%，市场整体情绪偏谨慎。价格在71150美元至71490美元区间震荡，未出现明显突破，显示短期内市场存在一定的整理需求。\n\n技术指标方面，RSI(14)数据暂缺，无法提供超买或超卖信号。MACD指标目前为184.99，未出现明显的交叉，表明市场暂时没有强烈的买入或卖出信号。SMA(20)为71,788.46美元，显示当前价格略低于短期均线，可能预示着短期内的压力位。\n\n支撑位方面，若价格跌破71150美元，可能会进一步测试70500美元的支撑区间。若反弹，则需突破71490美元才能有效确认上涨趋势。操作上，建议关注这些关键价位，突破后再决定进场时机。短期内，保持观望，避免在无明确方向的市场中轻易入场。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market for Bitcoin (BTC/USD) shows a relatively stable price movement, with a slight increase of 0.16% over the past 24 hours. The latest price of $71,301.39 positions Bitcoin just below its recent high of $71,490.12. This suggests the market is currently consolidating, with Bitcoin testing its resistance level around $71,490. A strong breakout above this level could signal a potential uptrend, while a rejection could lead to a pullback toward the support zone near $71,150.\n\nGiven the absence of the RSI and Signal data, it’s difficult to fully assess the momentum from a relative strength perspective. However, the MACD value of 184.99 indicates a moderate bullish trend. This suggests that there could be continued upward pressure, but it may not be as strong without the signal confirmation. Traders should monitor for any divergence between price action and the MACD to assess potential reversal points. \n\nThe 20-period Simple Moving Average (SMA) stands at $71,788, providing a dynamic level of support. If the price dips below this mark, it may indicate a bearish shift in the short term, signaling possible downside movement toward $71,150. Conversely, if the price remains above the SMA and pushes through the resistance at $71,490, it could pave the way for an upward move toward the next key resistance levels. \n\nIn the current scenario, a conservative trading approach might involve watching for confirmation of either support or resistance, with potential long positions above $71,490 and short positions if the price breaks below $71,150. This strategy ensures a controlled risk-to-reward ratio."
+    }
+  }
+}
