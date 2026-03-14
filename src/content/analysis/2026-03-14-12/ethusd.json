@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-14T12:42:36.029Z",
+  "price": {
+    "close": "2072.32",
+    "high": "2078.13",
+    "low": "2070.11",
+    "open": "2073.31",
+    "change": "-0.03",
+    "datetime": "2026-03-14 12:00:00"
+  },
+  "indicators": {
+    "rsi": 41.82783,
+    "macd": -8.42743,
+    "macd_signal": -5.2461,
+    "sma20": 2088.422
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，缺乏明确方向]",
+      "content": "当前以太坊（ETH/USD）处于震荡整理区间，价格在2070至2080美元之间波动。价格波动幅度较小，且没有显著的上升或下降趋势，反映市场缺乏明确的买卖方向。近期的24小时变化仅为-0.03%，进一步证明市场情绪的谨慎。\n\n从技术指标来看，MACD值为负（-8.42743），表明市场处于弱势状态，但由于信号线（Signal）数据未提供，难以进一步确认趋势的反转。SMA(20)为2088.42，价格仍低于20日简单移动平均线，提示短期内可能面临下行压力。\n\n支撑位位于2070美元附近，而2078美元的高点则形成短期的阻力位。若突破2078美元，可能迎来进一步上涨；相反，若跌破2070美元，则可能测试更低的支撑区间。当前市场情绪偏空，交易者应保持警惕，避免在未确认方向前进行大额交易。\n\n建议短期内采取观望策略，关注价格突破关键支撑或阻力位后再做决定。若价格继续在当前区间震荡，则可等待突破确认信号再进行进场操作。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum's price currently hovers around $2072, showing a marginal 24-hour decline of -0.03%. This slight downward movement suggests a period of consolidation following a recent plateau. With the price trading within the $2070 to $2078 range, the market appears neutral, awaiting clearer directional signals. The current trading range indicates the potential for short-term sideways action, as buyers and sellers struggle for control. However, the lack of a strong trend may present opportunities for short-term traders seeking to capitalize on small fluctuations.\n\nThe lack of an available Relative Strength Index (RSI) makes it difficult to gauge whether Ethereum is overbought or oversold at present. The MACD value at -8.42743 further hints at a bearish momentum, yet the absence of the signal line limits the interpretation of this indicator. With a negative MACD reading, traders might anticipate further downward pressure unless a reversal signals the start of a bullish trend. Caution is advised as the market may continue to test lower support levels before showing signs of recovery.\n\nSupport levels around $2070 and resistance near $2080 serve as key price markers. If Ethereum breaks below the support at $2070, it may signal a further decline, with the next significant support possibly occurring near $2050. On the other hand, a break above $2080 could point to a possible rally towards higher levels, with $2100 acting as the next resistance. Traders should watch for any breakout above or below these levels, which would give a clearer indication of the market's direction.\n\nFor those looking to trade, it's advisable to remain cautious and monitor price movements closely. The narrow price range and bearish MACD may suggest waiting for confirmation of either a support bounce or a break below the current range before making significant moves. Short-term trades based on fluctuations within this range could be profitable, but longer-term traders may want to wait for stronger indicators of a directional trend."
+    }
+  }
+}
