@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-14T16:27:03.260Z",
+  "price": {
+    "close": "70633.08",
+    "high": "70663.8",
+    "low": "70509.25",
+    "open": "70597.32",
+    "change": "0.05",
+    "datetime": "2026-03-14 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.46058,
+    "macd": -152.52788,
+    "macd_signal": -145.44872,
+    "sma20": 70777.165
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：价格维持横盘整理，短期偏震荡",
+      "content": "当前BTC/USD价格位于70633.08附近，较日内高低波动幅度有限，仅0.05%，显示市场多空力量相对均衡。短期均线SMA(20)为70777.165，价格略低于均线，暗示短期多头动能偏弱，但整体仍在关键支撑上方，趋势延续性存在不确定性。  \n\nMACD指标显示主线为-152.52788，缺乏信号线对比，但负值状态提示动能偏空，短期可能存在下探压力。若RSI指标可用，将有助判断超买或超卖区间，目前需关注价格在关键均线附近的反应。  \n\n支撑位方面，70500附近为近期低点支撑，若跌破可能引发进一步回调；阻力位位于70780至70800区间，突破需伴随量能确认。市场目前横盘整理，投资者应警惕假突破或虚假拉升，风险偏好较低者可观望。  \n\n交易策略上，短线可在支撑附近逢低布局，止损设置在70450以下以控制风险；偏向保守者可等待价格明确突破阻力或支撑再进场，利用区间震荡进行波段操作更为稳健。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $70,633, showing a relatively flat 24-hour movement of 0.05%, indicating market indecision. The short-term trend appears sideways, as the price is hovering just below the 20-period SMA at $70,777. This SMA level is acting as a minor resistance, while the intraday low of $70,509 provides immediate support. Price consolidation in this narrow range suggests that the market is awaiting a catalyst, making breakout or breakdown scenarios more likely in the short term.\n\nThe MACD reading of -152.53 points to prevailing bearish momentum despite the small price change. With the signal line unavailable, the exact crossover status is uncertain, but the negative MACD reinforces a cautious stance. The absence of RSI data limits overbought or oversold assessments, yet price being slightly below the SMA implies sellers have a modest edge. Traders should monitor shifts in momentum for confirmation before committing to directional trades.\n\nKey support and resistance levels are clear: immediate support at $70,509 and resistance at $70,777, with secondary levels at $70,200 and $71,000, respectively. A sustained break above $70,777 could attract buyers, potentially driving the price toward the $71,500 zone. Conversely, a drop below $70,509 may open the door to $70,200, signaling increased downside risk. Range-bound traders might consider short-term scalps within these thresholds while respecting tight stop-losses.\n\nFor trading strategy, cautious positioning is advised. Long entries could be considered near strong support levels with confirmation of bullish reversal patterns, while shorts may be appropriate if the price decisively breaches support. Avoid chasing breakouts without volume confirmation, as false moves are common in low-volatility conditions. Overall, the market is balanced, with slight bearish momentum, favoring traders who combine technical cues with disciplined risk management."
+    }
+  }
+}
