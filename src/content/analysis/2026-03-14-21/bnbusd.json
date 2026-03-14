@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-03-14T21:46:21.144Z",
+  "price": {
+    "close": "654.24",
+    "high": "654.33",
+    "low": "653.12",
+    "open": "654.06",
+    "change": "0.03",
+    "datetime": "2026-03-14 21:00:00"
+  },
+  "indicators": {
+    "rsi": 48.61405,
+    "macd": -0.83966291,
+    "macd_signal": -1.13737,
+    "sma20": 653.627
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[震荡整理，等待突破信号]",
+      "content": "当前，币安币/美元（BNB/USD）处于震荡整理阶段，价格在654.24附近波动。尽管24小时内价格变化仅为0.03%，但市场情绪相对平稳。从短期来看，价格在653.12到654.33之间反复波动，显示出一定的区间震荡特征。\n\n技术指标方面，MACD处于负值区间（-0.83966291），表明短期内可能存在卖压，但由于信号线缺失，无法确认趋势转变。SMA(20)位于653.627附近，价格接近其均线位置，未能给出明确的买入或卖出信号。此外，RSI数据缺失，无法提供超买或超卖的明确指引。\n\n支撑位位于653.12，而阻力位则在654.33附近。如果价格突破654.33并持续上涨，则有可能进入进一步的上涨趋势。反之，若跌破653.12支撑位，可能会进一步回调，甚至下探更低价位。\n\n交易建议上，建议保持观望，等待价格突破当前震荡区间。若价格突破654.33，可考虑适度追多；若跌破653.12，可短期做空并观察下行趋势。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 654.24\\n- 24h Change: 0.03%\\n- High/Low: 654.33 / 653.12\\n- RSI(14): N/A\\n- MACD: -0.83966291, Signal: N/A\\n- SMA(20): 653.62700\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is showing **very muted price action** around the current level of *654.24*, with the 24‑hour range barely oscillating between *653.12 and 654.33*. This narrow band suggests a **consolidation phase** rather than a decisive uptrend or downtrend in the short term. Traders should recognize that the market is lacking strong directional conviction right now, and until a breakout occurs above recent highs or below recent lows, price may continue to chop sideways.\n\nThe **20‑period simple moving average (SMA)** at *653.62700* sits nearly on top of the latest price, reinforcing the lack of trend momentum. This alignment typically reflects equilibrium between buyers and sellers. The **MACD** reading at *‑0.8397* without a signal line value points to remaining *bearish momentum*, albeit likely weak given the price stability. In isolation, these indicators don’t suggest a strong directional shift — rather a **neutral bias with a slight bearish tilt** that could flip quickly if volume picks up.\n\nKey **support and resistance levels** to watch: immediate support lies near *650*, where buyers have shown interest recently, and secondary support around *640* could serve as a stronger floor if selling accelerates. On the upside, immediate resistance sits just above the *655* mark, followed by a more meaningful resistance zone between *660–665*. A sustained break above this zone could signal renewed bullish momentum targeting higher swing levels, while a break below support could invite short‑term sellers.\n\nFor traders, consider **range‑bound strategies** while price remains between these levels. Scalpers might exploit tight moves between support and resistance, while breakout traders should wait for **clear momentum and volume confirmation** before entering positions. Risk management is key — a stop just outside the range can protect against false breakouts and unexpected volatility."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-14T21:45:00.399Z",
+  "price": {
+    "close": "70750.66",
+    "high": "70821.57",
+    "low": "70674.36",
+    "open": "70821.57",
+    "change": "-0.10",
+    "datetime": "2026-03-14 21:00:00"
+  },
+  "indicators": {
+    "rsi": 47.83568,
+    "macd": -100.67861,
+    "macd_signal": -128.42006,
+    "sma20": 70741.887
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "比特币当前价格围绕70750美元附近波动，全天涨跌幅仅-0.10%，显示市场短期交投情绪谨慎。价格略高于20日均线(SMA20)70741美元，表明短线多头存在支撑，但缺乏明显上行动能，整体呈现横盘整理格局。  \n\nMACD指标为-100.678，虽无信号线数据，但负值暗示空方仍占一定优势，短期多空力量偏向弱势。RSI未提供，但结合价格震荡区间可推测买卖双方力量接近平衡，趋势仍不明朗，需关注指标补全后再做进一步判断。  \n\n关键支撑位可关注70670美元附近低点，若跌破可能触发进一步回调；阻力位在70820美元高点，若价格突破则可能引发短期反弹。均线与前高低点形成的区间压力与支撑，构成交易的重要参考。  \n\n短线交易建议：可采取区间操作策略，在支撑位附近适度建多，阻力位附近轻仓减持，注意止损设置以防突发回调。同时，关注大额成交与MACD信号变化，以捕捉潜在趋势突破机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar sits at $70,750.66, reflecting a slight decline of 0.10% over the past 24 hours. This minor fluctuation indicates a relatively stable market environment, with the high and low for the day recorded at $70,821.57 and $70,674.36, respectively. The price action suggests that Bitcoin is consolidating within this range, which could signal a potential breakout in either direction as market participants assess the next move.\n\nFrom a trend analysis perspective, Bitcoin appears to be in a consolidation phase after a recent surge. The 20-day Simple Moving Average (SMA) at $70,741.887 is closely aligned with the current price, indicating a balance between buyers and sellers. Traders should monitor this level, as any decisive break above or below the SMA could provide insights into the next trend direction. A successful breach above $70,800 could attract bullish momentum, while a drop below $70,600 might trigger bearish sentiment.\n\nThe Relative Strength Index (RSI) and MACD indicators are not currently available, but their absence suggests a need for caution. If the RSI were to be included, a reading above 70 would indicate overbought conditions, while a reading below 30 would signal oversold conditions. Meanwhile, the MACD's negative value signifies a bearish momentum, which could lead to further price corrections if not supported by positive market sentiment. \n\nIn terms of support and resistance levels, key areas to watch include $70,600 as immediate support and $70,800 as resistance. Traders might consider short positions if the price breaks below the support level, with potential targets near $70,400. Conversely, a breakout above $70,800 could open up opportunities for long positions, targeting $71,000. As always, risk management and stop-loss orders should be prioritized to mitigate potential losses in this volatile market."
+    }
+  }
+}
