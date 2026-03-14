@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-14T07:26:06.331Z",
+  "price": {
+    "close": "87.24",
+    "high": "87.44",
+    "low": "87.19",
+    "open": "87.26",
+    "change": "-0.03",
+    "datetime": "2026-03-14 07:00:00"
+  },
+  "indicators": {
+    "rsi": 38.26421,
+    "macd": -0.26406875,
+    "macd_signal": -0.033070397,
+    "sma20": 88.8465
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 87.24\\n- 24小时变化: -0.03%\\n- 高点/低点: 87.44 / 87.19\\n- RSI(14): N/A\\n- MACD: -0.26406875, Signal: N/A\\n- SMA(20): 88.8465\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：价格承压短线偏震荡\n\n当前SOL/USD在87美元附近徘徊，价格略低于20日简单移动平均线（SMA20≈88.85），显示中短期多头动能受抑。价格波动区间窄，短线趋势偏横盘整理，未出现明显单边走势，但下方支撑仍在有效范围内。\n\n技术指标方面，虽然RSI数据不可用，但MACD直线在负值区且无明确信号线交叉，暗示空头动能仍存，多头尚未确认反攻。价格在SMA20下方震荡，表明短线多空力量接近平衡，需关注成交量变化确认突破方向。\n\n关键阻力位看向20日均线附近88.8–89.5区域，其上若收复并稳住，可视为短线转强信号。支撑位则在86.0附近及更下方85.0一线，失守则可能引发进一步调整，注意分级止损策略。\n\n交易建议上，短线可在支撑区间（≈86–87）逢低布局，若价格突破并收复SMA20，择机加仓；反之若跌破85，控制仓位并等待确认企稳再入场。止损和目标位需严格设置，控制风险与顺势而为。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 87.24\\n- 24h Change: -0.03%\\n- High/Low: 87.44 / 87.19\\n- RSI(14): N/A\\n- MACD: -0.26406875, Signal: N/A\\n- SMA(20): 88.8465\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s recent price action around **$87.24** shows a market in a shallow consolidation phase after failing to sustain upside momentum. The narrow 24‑hour range (high **$87.44**, low **$87.19**) suggests low volatility, with neither buyers nor sellers asserting dominance. This kind of drift often precedes a breakout, but clarity will come once key levels are tested. In the broader context, a break and close above **$90–$92** would signal renewed bullish intent, while a drop below **$84–$83** may expose deeper bearish pressure.\n\nAlthough the **RSI(14)** is currently not available, the comparison between price and moving averages gives insight. Solana trading below its **20‑period simple moving average (SMA)** of **88.85** indicates a short‑term negative bias. The SMA is acting as dynamic resistance, and until SOL reclaims this average with conviction, short‑term buyers should remain cautious. The slight negative tilt suggests sellers edge ahead, but the subdued momentum also flags that aggressive selling is absent for now.\n\nThe **MACD** reading at **–0.264** with no signal line available still implies underlying bearish momentum from recent price declines. Negative MACD values typically reflect the faster EMA being below the slower EMA, hinting that short‑term trend strength is waning. Without a clear MACD crossover to the upside, the technical picture leans toward caution. A MACD uptick back towards zero with expansion could prelude an emerging uptrend, but until then, neutral sentiment persists.\n\nIn terms of tactical levels, immediate support sits near **$85**, with more substantial support down near **$80**. On the upside, resistance clusters around **$90** and then **$95–$97**. Traders might consider scaling into longs only upon a verified break above the 20‑SMA with volume, or alternatively favor short proposals if price fails at resistance and breaks below **$85**. Until clearer momentum develops, range‑oriented strategies could be more appropriate than directional bets."
+    }
+  }
+}
