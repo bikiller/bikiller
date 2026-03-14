@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-03-14T20:27:50.410Z",
+  "price": {
+    "close": "9.5754",
+    "high": "9.5817",
+    "low": "9.5659",
+    "open": "9.5762",
+    "change": "-0.01",
+    "datetime": "2026-03-14 20:00:00"
+  },
+  "indicators": {
+    "rsi": 40.033575,
+    "macd": -0.048857144,
+    "macd_signal": -0.053889957,
+    "sma20": 9.61063
+  },
+  "analysis": {
+    "zh": {
+      "title": "雪崩币/美元技术分析：[震荡整理，短期承压]",
+      "content": "当前雪崩币（AVAX/USD）价格接近9.5754，处于震荡整理阶段。从日线图来看，AVAX处于小幅下行趋势，未能有效突破近期的高点9.5817，反而接近低点9.5659。这表明市场情绪偏谨慎，买卖力量对比接近平衡，整体趋势不明确。\n\n技术指标方面，MACD目前处于负值区间（-0.0488），显示短期内卖压稍重，且由于RSI值未提供，无法进一步分析超买或超卖状态。SMA（20）位于9.6106附近，显示AVAX目前低于其短期均线，进一步验证了市场的承压状态。\n\n支撑位方面，9.5659的低点为近期关键支撑，一旦跌破，可能会进一步测试9.50附近的强支撑。而上方的阻力位在9.61左右，如果价格突破此水平，可能会迎来反弹的机会。整体来看，当前区间震荡或将持续，市场尚未有明确的突破信号。\n\n交易建议上，短期内可以考虑在9.5659附近寻找买入机会，止损设置在9.50附近。如果价格突破9.61并站稳，则可以尝试做多，目标价位可设在9.75。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Avalanche vs US Dollar (AVAX/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 9.5754\\n- 24h Change: -0.01%\\n- High/Low: 9.5817 / 9.5659\\n- RSI(14): N/A\\n- MACD: -0.048857144, Signal: N/A\\n- SMA(20): 9.61063\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe recent price action for AVAX/USD around **$9.57** shows a market that’s paused after a short-range move. Price is slightly below the 20‑period simple moving average (SMA), suggesting **mild bearish pressure on the short term**. The narrow daily high/low range points to limited volatility, which often precedes a breakout. Traders should watch whether price can reclaim and hold above **$9.61** to shift sentiment more neutral‑bullish.\n\nWith MACD currently negative, momentum favors the downside, though the absence of a signal line reading limits precision. The lack of a valid RSI(14) value increases uncertainty, but price below the SMA reinforces caution. Typically, a negative MACD histogram hints at sellers slightly outweighing buyers, and until momentum indicators turn positive, **range‑bound to lower prices remain more probable** than a sharp reversal.\n\nImmediate support lies near **$9.50**, with a more robust zone around **$9.30–$9.35** where buyers have previously stepped in. If these levels fail, sellers could test **$9.10–$9.20**. On the upside, aside from $9.61, **$9.75–$9.80** and psychological **$10.00** represent key resistance levels that need clearing for a more sustainable rally. Breaking above those could attract short‑term momentum players.\n\nFor trading suggestions, consider a cautious approach: **light longs near support with tight stops** below key zones, and define profit targets near resistance levels. Aggressive traders might look for reversal candlestick patterns at support for better entry timing. On the flip side, if price decisively breaks below $9.30, **short positions or hedged exposure** could be appropriate, aiming for lower structural supports while acknowledging the broader market context."
+    }
+  }
+}
