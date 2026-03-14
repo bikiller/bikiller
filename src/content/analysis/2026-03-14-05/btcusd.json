@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-14T05:09:16.647Z",
+  "price": {
+    "close": "71122",
+    "high": "71130.01",
+    "low": "70987.15",
+    "open": "71040.24",
+    "change": "0.12",
+    "datetime": "2026-03-14 05:00:00"
+  },
+  "indicators": {
+    "rsi": 48.97443,
+    "macd": -82.54475,
+    "macd_signal": -2.058197,
+    "sma20": 71509.7175
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘震荡，压力略显",
+      "content": "当前比特币价格徘徊在71122附近，与20日均线71509相比略有下行，显示短期走势缺乏明确方向。日内价格波动较小，高低点仅相差约143点，表明市场多空力量相对均衡，短线或以横盘整理为主。  \n\nMACD指标为-82.54475，显示下行动能尚存，但由于信号线数据缺失，需谨慎判断趋势延续性。若能伴随成交量增加出现MACD金叉，可能意味着反弹机会，反之仍需警惕震荡向下的可能性。  \n\n关键支撑位在70987附近，若跌破该水平，短期可能下探70800或更低。阻力位在71510附近，如突破该位置，价格或延伸至71800附近，形成短线多头机会。均线压制与支撑结合，可作为重要参考点。  \n\n交易策略上，建议短线投资者关注区间操作，低位可尝试小仓位多单，高位谨慎短空或观望。中长线投资者应等待趋势明朗信号，如MACD交叉或突破关键均线后再入场，以降低波动风险并把握更稳定的趋势机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a subtle bullish bias, holding above the $71,000 mark after a narrow range consolidation. The price action indicates indecision, with the latest high at $71,130 and a low near $70,987. The proximity to the 20-period simple moving average at $71,510 suggests short-term pressure from overhead resistance. Trend momentum appears muted, hinting that traders are waiting for a catalyst, such as macroeconomic cues or institutional inflows, to drive a clearer directional move.\n\nMomentum indicators provide a cautious outlook. The MACD value of -82.54, without a confirmed signal line, implies that bearish momentum has not yet fully dissipated. While the 20-period SMA is slightly above current prices, this creates a potential pivot for short-term corrections if Bitcoin fails to sustain the level. Traders should note that the lack of RSI data limits overbought or oversold assessment, making it essential to monitor intraday volume and candle structure for early trend confirmation.\n\nImmediate support is positioned near $70,950, aligning with the recent intraday low, while resistance is concentrated at $71,500, coinciding with the 20-period SMA. A decisive break above $71,500 could open the path toward $72,000, whereas failure to hold support may test the $70,500 level. These zones provide clear reference points for risk management, allowing traders to calibrate stop-loss orders effectively to avoid significant drawdowns.\n\nTrading strategies should favor a range-bound or cautious long approach, buying on dips near support and taking partial profits near SMA resistance. Short-term scalpers may exploit minor intraday swings, but position traders are advised to await a breakout confirmation. Conservative traders might wait for MACD crossover or volume surge to validate trend continuity. Overall, market conditions suggest measured optimism, with a slight bullish tilt tempered by resistance overhead and momentum uncertainty."
+    }
+  }
+}
