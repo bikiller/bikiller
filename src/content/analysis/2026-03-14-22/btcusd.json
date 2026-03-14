@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-14T22:59:52.110Z",
+  "price": {
+    "close": "70723.46",
+    "high": "70822.94",
+    "low": "70712.13",
+    "open": "70822.33",
+    "change": "-0.14",
+    "datetime": "2026-03-14 22:00:00"
+  },
+  "indicators": {
+    "rsi": 46.57689,
+    "macd": -90.28629,
+    "macd_signal": -120.0945,
+    "sma20": 70741.425
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，缺乏明确方向",
+      "content": "当前比特币价格围绕70700美元附近震荡，日内波动幅度有限，短期趋势呈现横盘整理特征。价格在20日简单移动平均线(SMA20)70741附近徘徊，表明市场多空力量接近平衡，短期内缺乏强烈单边动能。  \n\n从MACD来看，值为-90.28629且未形成明确信号线交叉，显示短期动能偏弱，市场仍以消化盘整为主。虽然RSI数据不可用，但结合价格与均线关系，可以推测多空双方处于试探阶段，缺乏明显超买或超卖压力。  \n\n关键支撑位位于70712美元附近，若跌破该水平，可能触发短期抛压并测试70600一线支撑。阻力位在70822美元高点，突破后可能引发一波上行动能，测试71000美元心理关口。关注价格与均线的互动，有助于判断潜在反转信号。  \n\n交易上建议短线投资者维持观望，等待MACD形成明确交叉或价格突破关键阻力/支撑后再入场。中长线投资者可考虑逢低分批建仓，控制仓位，并设置合理止损，以应对横盘震荡带来的波动风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently experiencing a period of relative stability, with the price hovering around $70,723.46. The price has seen a modest 24-hour change of -0.14%, reflecting a slight consolidation after reaching a high of $70,822.94 and a low of $70,712.13. This narrow trading range indicates that market participants are awaiting further developments before making decisive moves. The overall sentiment remains neutral, with no strong bullish or bearish momentum emerging at this stage.\n\nIn terms of trend analysis, Bitcoin's price is currently maintaining a tight range near its 20-period Simple Moving Average (SMA), which stands at $70,741.425. This suggests that the short-term trend is neutral, as the price is trading close to this key level. Without a clear breakout above or below the SMA, Bitcoin could remain stuck in this consolidation phase. A break above $71,000 would likely trigger buying interest, while a drop below the $70,700 level could suggest further downside potential, testing support levels.\n\nWith regards to technical indicators, the lack of an available Relative Strength Index (RSI) and Signal line data limits the ability to fully assess overbought or oversold conditions. However, the MACD value of -90.28629 indicates a mild bearish bias, though the absence of a confirmed Signal line reading prevents a clear interpretation of momentum. For now, traders should be cautious of potential short-term fluctuations as Bitcoin navigates this indecisive phase.\n\nSupport levels to watch are near the recent low of $70,712, with a further key zone at $70,500. On the upside, resistance lies just above the high of $70,822, with the next major resistance around $71,500. For traders, waiting for a clear breakout in either direction before committing to positions could be a prudent strategy, minimizing the risk of choppy price action."
+    }
+  }
+}
