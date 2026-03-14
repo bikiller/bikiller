@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-14T19:07:01.051Z",
+  "price": {
+    "close": "70650",
+    "high": "70678.22",
+    "low": "70606.26",
+    "open": "70672.77",
+    "change": "-0.03",
+    "datetime": "2026-03-14 19:00:00"
+  },
+  "indicators": {
+    "rsi": 44.72824,
+    "macd": -135.064646,
+    "macd_signal": -142.35388,
+    "sma20": 70733.0235
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前比特币/美元价格呈现震荡整理的走势，价格在70650附近波动，未出现明显的上涨或下跌趋势。当前市场的微弱变化（24小时-0.03%）表明市场参与者的情绪较为谨慎，缺乏大幅度的资金流入。\n\n技术指标方面，MACD数值为-135.064646，暗示当前价格可能面临一定的卖压，然而由于缺乏信号线数据，尚难判断是否会形成持续下行。RSI指标未给出具体数据，因此无法从动量的角度进行深入分析。\n\n从支撑和阻力的角度来看，当前价格区间位于70606.26至70678.22之间，支撑位相对较强。若价格跌破70600附近，可能会进一步测试更低的支撑位；而突破70680以上则可能带来短期反弹，挑战更高价格区域。\n\n建议投资者在当前市场波动较小的背景下，保持观望态度。若市场出现明显的突破信号，可以考虑进场操作，短期内不宜过度激进。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin market shows a slightly bearish sentiment, as the price stands at $70,650, with a minimal 24-hour change of -0.03%. This small fluctuation signals indecisiveness in the market, with a consolidation phase potentially underway. The high of $70,678.22 and the low of $70,606.26 suggest a narrow range of trading, indicating a lack of momentum to push the price significantly in either direction. A close look at the SMA(20) at $70,733 reveals a near equilibrium price, reinforcing the indecisive market structure.\n\nWith no available RSI data, we must rely on the MACD, which currently stands at -135.064646, suggesting that momentum is slightly bearish, though there is no clear signal crossover to confirm a strong downtrend. Traders should be cautious here, as the absence of a clear MACD signal further implies the lack of directional conviction. However, the proximity of the price to the SMA(20) and the relatively narrow daily trading range might indicate a breakout potential if market conditions shift.\n\nKey support and resistance levels for Bitcoin are located around the recent low of $70,606 and the high of $70,678.22. A breakdown below the support level could lead to further downside pressure toward $70,000 or lower, with the next significant support near $69,500. Conversely, if the price moves above the resistance zone, a break above $70,700 could open the path toward the next resistance at $71,000, signaling a potential recovery.\n\nIn this market environment, traders should exercise patience and watch for either a break above $70,700 or a drop below $70,600 to determine the next move. Considering the lack of strong momentum and the proximity of key levels, a breakout strategy could be effective, while cautious trading within this range is also advised for risk-averse traders."
+    }
+  }
+}
