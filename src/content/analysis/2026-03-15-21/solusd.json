@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-15T21:48:19.413Z",
+  "price": {
+    "close": "90.02",
+    "high": "90.3",
+    "low": "88.57",
+    "open": "88.77",
+    "change": "1.41",
+    "datetime": "2026-03-15 21:00:00"
+  },
+  "indicators": {
+    "rsi": 68.66979,
+    "macd": 0.26203918,
+    "macd_signal": 0.13879071,
+    "sma20": 88.3255
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短期震荡偏多趋势",
+      "content": "当前SOL价格位于$90.02，略高于20日均线$88.33，显示短期多头力量正在积聚。价格在$88.5至$90.3区间波动，短线趋势呈震荡偏多，投资者可关注区间突破情况以捕捉趋势延续机会。  \n\nMACD指标显示快线为0.2620，虽信号线缺失，但快线位于零轴上方，暗示多头动能存在，短线上行潜力尚可。RSI数据缺失，但结合均线和价格行为，价格并未出现明显超买，调整风险可控。  \n\n支撑位主要在$88.5和$87.8附近，若价格回落至此区域可视为短线买入机会。阻力位在$90.3和$91.2，若价格突破这些水平，则可能开启新一轮上行趋势，投资者应关注成交量变化以确认突破有效性。  \n\n交易策略上，短线可考虑低吸高抛策略，逢支撑区域轻仓布局，逢阻力区域适度减仓。若价格稳步突破$90.3，且MACD持续走强，可考虑顺势跟进多单，止损设置在$88.3下方以控制风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 90.02\\n- 24h Change: 1.41%\\n- High/Low: 90.3 / 88.57\\n- RSI(14): N/A\\n- MACD: 0.26203918, Signal: N/A\\n- SMA(20): 88.3255\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s short‑term price action shows a modest bullish tilt as the pair trades above the 20‑period simple moving average (~88.33), suggesting that recent momentum favors buyers. The latest price around **90.02** and the 24‑hour gain reflect a stabilizing uptrend after a corrective phase. Higher highs above **90.30** would confirm continuation, while failure to sustain above the SMA could see range consolidation between **88.50–90.50**. Overall, trend analysis points to a cautiously optimistic setup in the near term.\n\nWith limited oscillator data available, the **MACD level at 0.262** (without a signal line) still indicates positive momentum pressure, implying that buying interest persists. If a signal line were plotted and the histogram remains above zero, it would reinforce bullish sentiment. Traders should watch for potential divergence or weakening momentum around key price barriers, as the absence of a clear RSI reading makes it harder to judge overbought conditions. Supplemental indicators like Stochastics or volume could aid confirmation.\n\nKey support lies near recent intra‑day lows around **88.57–88.30**, anchored by the SMA and prior demand zones. A break below this support could shift bias toward deeper support near **86.00** or the next psychologically significant round number. Resistance clusters currently appear around **90.30–91.50**, with a more meaningful ceiling near **93.00–95.00** based on previous swing highs. Holding above support while probing resistance would keep trend integrity intact.\n\nFor traders, leaning toward **long entries** on corrective dips close to the SMA with tight risk controls makes sense, especially in the absence of confirmed bearish signals. Breakouts above **90.50** with increased momentum could prompt scaling into positions. Conversely, shorts might be more appropriate only if price decisively drops below **88.30** with convincing follow‑through, targeting lower support levels. Always consider broader market drivers and volume for refined execution."
+    }
+  }
+}
