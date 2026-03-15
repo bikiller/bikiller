@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-15T11:01:43.690Z",
+  "price": {
+    "close": "71794",
+    "high": "71925.98",
+    "low": "71726.59",
+    "open": "71798.87",
+    "change": "-0.01",
+    "datetime": "2026-03-15 10:00:00"
+  },
+  "indicators": {
+    "rsi": 65.66715,
+    "macd": 218.8377,
+    "macd_signal": 134.0048858,
+    "sma20": 71154.4175
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，关注短期突破",
+      "content": "目前，比特币在71794美元附近震荡整理，24小时变化幅度较小，表明市场暂时处于观望状态。当前价格接近其20日简单移动平均线（SMA 20），这通常是市场情绪的一个标志。若价格继续维持在此水平上方，可能会有小幅反弹的机会。\n\nMACD指标当前显示218.83770的正值，虽然Signal值缺失，但这仍然暗示市场有一定的上涨动能。如果MACD值进一步上升且接近零轴，可能预示短期内有进一步上涨的潜力。然而，RSI缺失使得我们无法完全判断市场的超买或超卖情况。\n\n从支撑与阻力来看，当前价格接近71726.59的低点，如果下行突破这一支撑位，可能会寻找更低的支撑位，甚至回测71154.41750附近。相对的，上方阻力位则位于71925.98，若突破此价位，有可能引发短期上涨。\n\n建议投资者暂时保持观望，若价格突破71925.98，可以考虑小幅买入并设立适当止损，反之若价格跌破71726.59，则需谨慎调整策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $71,794, showing minimal movement over the past 24 hours with a change of just -0.01%. The market has been consolidating within a narrow range between $71,726 and $71,926, indicating a temporary equilibrium between buyers and sellers. The overall trend appears slightly bullish in the short term, as the price remains above the 20-period simple moving average at $71,154, suggesting that recent buying pressure is still intact despite the lack of strong momentum.  \n\nMomentum indicators present a mixed picture. The MACD value of 218.84, while positive, cannot be fully interpreted without the signal line, but the divergence from SMA indicates a mild upward bias. The absence of RSI makes it difficult to gauge overbought or oversold conditions precisely, but the tight trading range implies neither extreme is currently in play. This stagnation suggests traders are waiting for a catalyst to drive the next directional move, keeping volatility subdued.  \n\nKey support is near the 20-period SMA at $71,154, reinforced by the intraday low at $71,726. A breach below these levels could open the path toward $71,000, which would act as a stronger psychological support. On the upside, resistance is likely to form around $71,926, aligning with the recent high, and a sustained break above $72,000 could signal a continuation of the bullish trend, potentially targeting $72,500 as the next technical barrier.  \n\nFor trading strategies, short-term traders may consider range-bound approaches, buying near support and taking partial profits near resistance. Conservative positions could wait for a confirmed breakout above $72,000 or breakdown below $71,150 before committing. Risk management remains critical, as the narrow daily range suggests a lack of conviction from either side. Overall, the market is poised for a directional move, but caution is warranted until clearer momentum emerges."
+    }
+  }
+}
