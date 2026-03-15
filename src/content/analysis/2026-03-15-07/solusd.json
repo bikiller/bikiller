@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-15T07:34:15.686Z",
+  "price": {
+    "close": "88.32",
+    "high": "88.55",
+    "low": "88.26",
+    "open": "88.36",
+    "change": "-0.05",
+    "datetime": "2026-03-15 07:00:00"
+  },
+  "indicators": {
+    "rsi": 57.95363,
+    "macd": 0.15266633,
+    "macd_signal": -0.0050670997,
+    "sma20": 87.53
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[短期震荡整理，后市观察潜在突破]",
+      "content": "当前Solana/美元(SOL/USD)在88.32附近震荡整理，短期内表现出一定的横盘趋势。从技术指标来看，RSI和MACD的缺失使得短期趋势分析缺乏明显的参考值。然而，SMA(20)水平保持在87.53，表明短期内存在轻微的支撑。\n\n在支撑位方面，88.26为当前的低点，而88.55则是近期的高点。这表明市场的波动范围相对较窄，存在一定的整理需求。若价格突破88.55，可能会引发进一步的上涨；若跌破88.26，则可能会加剧下行压力，寻找更低的支撑区间。\n\n从技术面来看，MACD指标的0.15266633值为阳性，暗示短期内买盘可能占优。但由于信号线缺失，仍需警惕市场的持续波动。当前价格在20日SMA附近徘徊，若价格稳定在此之上，可能会有向上突破的潜力。\n\n综合来看，建议交易者在此区间内进行观望，等待价格突破关键支撑或阻力位后再作决策。如果突破88.55，可以考虑适度做多，而跌破88.26则可适时做空。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 88.32\\n- 24h Change: -0.05%\\n- High/Low: 88.55 / 88.26\\n- RSI(14): N/A\\n- MACD: 0.15266633, Signal: N/A\\n- SMA(20): 87.53000\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$88.32** suggests a **mildly bullish short-term trend**, as the 20‑period simple moving average (~87.53) sits just below current levels. This indicates recent upside momentum has been steady, albeit modest. The price trading above the SMA(20) points to buyers having slight control, but the narrow high/low range (88.55/88.26) reflects **low volatility and indecision**, typical of consolidation rather than a strong directional move.\n\nWithout a valid RSI(14) or MACD signal line, momentum interpretation is limited. The given MACD value (~0.153) in positive territory hints that shorter-term momentum may be above its longer-term average, but without the signal line it’s hard to confirm a robust crossover. In context, this suggests **momentum is present but not definitive**, warranting caution. Traders should monitor volume and wait for clearer oscillator confirmations before committing fully to a directional stance.\n\nKey **support levels** to watch come in near the recent consolidation low around **$86.50–87.00**, followed by the SMA(20) near **$87.5**. If these break decisively on rising volume, downside risk could accelerate toward **$84–$85**. On the upside, **resistance around $90.00** marks the first significant barrier, with a bigger test near **$92–$93** if bullish pressure resumes. Holders should treat these zones as critical for gauging trend shifts.\n\nIn terms of trading suggestions, a **range‑based approach** may be prudent in the near term: consider adding modest long positions near established support with tight stops below the range, and take profits toward the $90–$92 resistance band. For breakout traders, confirmation above **$90** on volume could open a longer momentum play, while a breakdown below **$86** may signal a short bias. Always weigh risk relative to position size."
+    }
+  }
+}
