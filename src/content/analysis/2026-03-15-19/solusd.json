@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-15T19:10:08.598Z",
+  "price": {
+    "close": "87.96",
+    "high": "88.09",
+    "low": "87.85",
+    "open": "87.93",
+    "change": "0.03",
+    "datetime": "2026-03-15 19:00:00"
+  },
+  "indicators": {
+    "rsi": 49.56539,
+    "macd": 0.057851617,
+    "macd_signal": 0.099733442,
+    "sma20": 88.1475
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短期震荡整理，价格承压短期均线",
+      "content": "当前SOL/USD在87.96附近震荡，价格略低于20日简单移动均线(SMA20=88.14750)，显示短期上行动能受阻，市场缺乏明显方向性。24小时涨幅微弱，仅0.03%，表明多空力量基本均衡，短线波动有限。  \n\nMACD指标为0.05785，虽呈正值，但未给出明确信号，暗示市场仍处于观望状态。RSI数据缺失，无法直接判断超买或超卖区域，但结合价格与均线关系，可认为短期仍有下行压力。价格若有效突破SMA20上方，可能触发小幅上涨动能。  \n\n关键支撑位在87.80附近，若跌破该水平，短线可能测试87.50甚至更低支撑；阻力位则在88.15至88.20区间，突破后才可能延伸至88.50。交易者需关注均线与阻力的配合，灵活调整仓位。  \n\n综合来看，短线建议以震荡操作为主，可在支撑区低吸，遇阻力区减仓或止盈，避免追高。若出现突破或跌破关键均线，应顺势调整策略，控制风险，同时关注成交量变化以确认趋势有效性。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The Solana (SOL/USD) market is currently exhibiting a subtle consolidation pattern, with the price hovering around $87.96. Given the relatively small 24-hour change of 0.03%, the market is in a neutral phase, showing limited volatility. The price is confined between the recent high of $88.09 and low of $87.85, indicating tight price action. A break above $88.09 could signal bullish momentum, while a fall below $87.85 may suggest a bearish shift. Traders should remain cautious and wait for clearer price action to confirm the next directional move.\n\nOn the technical front, the absence of RSI and the unavailability of the Signal line for MACD analysis make it difficult to assess market momentum using these indicators. However, the MACD value of 0.0578 suggests a slight bullish bias, as the MACD histogram is above the zero line. This implies that, for now, bulls are in slight control. The SMA(20) at $88.1475 is also in proximity to the current price, signaling that short-term market conditions are largely neutral and may lead to sideways movement unless a catalyst emerges.\n\nSupport and resistance levels are clearly defined around the $87.85 and $88.09 range, respectively. A break below $87.85 could open the door for a test of lower support near $87.50. On the flip side, a move above $88.09 could lead to resistance near the $88.50 level. Traders should watch these levels closely and look for a confirmation of breakout or breakdown before entering positions. The current price action does not suggest immediate volatility, so a patient approach is advisable.\n\nFor those looking to trade, the current setup calls for caution. A range-bound strategy could be effective, trading within the support and resistance levels until a breakout occurs. Alternatively, traders with a more aggressive stance may consider entering long if the price breaches $88.09 or short if it slips below $87.85. Risk management remains crucial, given the relatively tight price range and lack of strong momentum indicators."
+    }
+  }
+}
