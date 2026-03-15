@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-15T13:58:29.192Z",
+  "price": {
+    "close": "71519.55",
+    "high": "71697.68",
+    "low": "71274.01",
+    "open": "71624.85",
+    "change": "-0.15",
+    "datetime": "2026-03-15 13:00:00"
+  },
+  "indicators": {
+    "rsi": 55.66467,
+    "macd": 207.15339,
+    "macd_signal": 176.068325,
+    "sma20": 71308.26
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏强，关注关键支撑位",
+      "content": "比特币当前价格维持在71500美元附近，短期呈现轻微回调态势，但整体仍偏向震荡偏强。价格在20日简单移动平均线(SMA20)上方运行，显示短线多头力量仍在，市场短期可能延续区间波动。\n\nMACD指标显示快线为207.15，虽未提供信号线，但正值意味着多头动能仍存在，趋势尚未转空。缺少RSI数据限制了超买超卖的判断，但结合价格与SMA位置，可初步判定短线压力有限，市场整体情绪偏中性至略多。\n\n支撑位方面，71274为今日低点，也是短线关键支撑，若跌破可能触发进一步调整；阻力位在71697附近，如价格突破该位置，短线上行空间或扩大。投资者应重点关注这些价格节点，调整止损与止盈策略。\n\n交易建议上，短线可考虑低吸高抛策略，尤其在靠近支撑位时逐步建仓；若价格突破阻力且伴随成交量放大，可顺势追多。但需警惕快速回落风险，严格控制仓位与风险，保持灵活应对市场波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a subtle downtrend as it is experiencing a slight decline of 0.15% over the past 24 hours. The latest price stands at $71,519.55, with the high and low for the day ranging between $71,697.68 and $71,274.01. This modest fluctuation indicates that the market sentiment remains cautious, and price action has not been volatile enough to signal a strong directional shift. The support level can be seen around $71,300, with a potential breach below this level opening the door for further downside. The immediate resistance is at $71,700, where sellers have previously stepped in.\n\nThe current absence of a clear RSI and signal line complicates a precise assessment using momentum indicators. The MACD at 207.15339, without a defined signal line, doesn't offer clear bullish or bearish signals. However, this non-signaling behavior suggests a market that is in a neutral phase, lacking strong momentum in either direction. Until the RSI and MACD signal line are available, traders should remain cautious, as price movements may be driven more by market sentiment rather than technical strength.\n\nThe 20-period simple moving average (SMA) stands at $71,308, acting as a short-term trend indicator. This SMA suggests that the market is largely moving sideways around this average price level, with neither bulls nor bears able to maintain control for an extended period. A break above the SMA could signal a possible rally towards resistance levels at $71,700, while a dip below could suggest further consolidation or a slight correction towards the next support zone.\n\nGiven the current technical landscape, traders may consider waiting for clearer signals before making aggressive moves. For those already in positions, maintaining stop losses just below $71,300 could help manage risk, while aiming for a potential breakout above $71,700. Caution is advised as the market lacks significant momentum indicators for a strong directional move at this stage."
+    }
+  }
+}
