@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-15T15:01:11.050Z",
+  "price": {
+    "close": "71633.43",
+    "high": "71636.36",
+    "low": "71351.84",
+    "open": "71610.08",
+    "change": "0.03",
+    "datetime": "2026-03-15 14:00:00"
+  },
+  "indicators": {
+    "rsi": 58.98298,
+    "macd": 205.29208,
+    "macd_signal": 183.068686,
+    "sma20": 71360.82
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期趋势待定]",
+      "content": "当前比特币/美元的价格为71633.43美元，24小时内变化幅度较小，仅为0.03%。从价格波动来看，市场处于震荡整理状态，未出现明显的上涨或下跌趋势。高点和低点相差不大，表明市场情绪谨慎，缺乏强烈的买卖信号。\n\n技术指标方面，RSI（14）数据暂时不可得，可能是由于缺乏近期的价格波动。MACD的值为205.29，尽管该数值表明市场仍保持一定的上涨动能，但由于信号线数据缺失，无法完全确认趋势强度。20日SMA显示价格略高于71360.82，进一步确认市场维持在一个窄幅震荡区间内。\n\n支撑位位于71351.84，若价格突破此水平，可能会触发下行修正，需关注更低支撑区域。阻力位在71636.36附近，突破该价位可能会引发短期上涨行情。综合来看，当前市场仍然缺乏明确的方向，短期内可能继续维持震荡走势。\n\n建议交易者保持观望，避免在无明确趋势的情况下进行大额交易。如果价格突破重要支撑或阻力位，可以适时进场，设置合理止损以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading around $71,633, showing very little movement over the past 24 hours with a marginal 0.03% change. Price action suggests a short-term consolidation phase, hovering near the 20-period simple moving average at $71,360. This proximity to the SMA indicates a neutral bias, as the market is balancing between bullish and bearish pressures. The narrow daily range, between $71,351 and $71,636, reinforces the idea of low volatility, signaling traders may be waiting for a decisive breakout to define the next directional move.\n\nMomentum indicators provide mixed signals. Although the RSI is unavailable, the MACD reading of 205.29 without a signal line makes interpretation challenging, but the positive MACD suggests underlying bullish momentum. Traders should monitor the MACD closely for a crossover with its signal line, which could confirm a stronger trend continuation or signal a reversal. Maintaining awareness of price action around the SMA is crucial, as a sustained move above it would favor buyers, while a drop below may invite short-term selling pressure.\n\nKey support is established near $71,350, aligning with the daily low and SMA buffer, which could serve as a floor in case of pullbacks. On the upside, resistance lies at $71,636, coinciding with the daily high. Breaching this level convincingly could pave the way for a retest of the next psychological barrier around $72,000. Conversely, a breakdown below support may expose lower levels near $71,000, suggesting caution for traders holding long positions in the near term.\n\nFor active traders, a cautious approach is recommended given the current consolidation. Consider entering long positions above $71,650 with tight stop losses below $71,350 to manage risk effectively. Short-term scalpers may exploit the narrow range through quick in-and-out trades, capitalizing on minor fluctuations. For longer-term holders, patience may be warranted until a clear breakout confirms the next directional trend, minimizing exposure to potential whipsaw movements in this tight price corridor."
+    }
+  }
+}

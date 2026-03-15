@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-03-15T15:05:19.168Z",
+  "price": {
+    "close": "0.09552",
+    "high": "0.09559",
+    "low": "0.09546",
+    "open": "0.09559",
+    "change": "-0.09",
+    "datetime": "2026-03-15 15:00:00"
+  },
+  "indicators": {
+    "rsi": 47.37827,
+    "macd": 0.000076987537,
+    "macd_signal": 0.00013225432,
+    "sma20": 0.0958605
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏弱，趋势谨慎观望",
+      "content": "当前DOGE/USD价格维持在0.09552附近，较日内高低波动有限，显示市场短期内缺乏明确方向。价格低于20日简单移动均线(SMA20=0.09586)，表明短线存在一定下行压力，但跌幅有限，呈现震荡整理特征。  \n\nMACD指标微弱正值(0.000077)，显示多空力量接近平衡，缺乏强烈趋势信号。尽管RSI数据缺失，但结合价格在均线下方运行，可推测市场动能偏弱，多头尚未完全占优。短期投资者应注意波动放大可能带来的风险。  \n\n关键支撑位关注0.09546附近日低，若有效守住，则短期或维持横盘整理；阻力位在SMA20附近0.09586，如突破需关注随后的0.0962阻力确认。价格若失守支撑，可能加速下行测试0.0952附近支撑。  \n\n交易策略上，建议观望为主，避免追涨杀跌。若短线回调至支撑并出现反弹信号，可考虑小幅介入，止损设置略低于支撑位；若价格突破阻力且伴随成交量放大，可逐步布局多单，但应控制仓位，注意市场波动风险。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current price of Dogecoin against the US Dollar stands at $0.09552, showing a minor 24-hour decrease of -0.09%. The price action has been largely neutral, with a slight range between $0.09546 and $0.09559. This indicates a consolidation phase, suggesting indecisiveness in market direction. The absence of the RSI and Signal for the MACD limits a more comprehensive momentum evaluation, though the data available does not signal any extreme overbought or oversold conditions.\n\nLooking at the trend, Dogecoin has been hovering near the 20-period simple moving average (SMA) of $0.09586, which is a key level to monitor. The price is currently just below this moving average, which might indicate a mild bearish bias in the short term. However, without a clear downtrend or notable momentum, this could be a short-lived move rather than a continuation of bearish action. A break above $0.09586 could signal a potential reversal, while a further decline towards the low of $0.09546 could strengthen bearish sentiment.\n\nSupport and resistance levels are forming near $0.09546 and $0.09559. A significant break below $0.09546 may expose deeper support near $0.0950, which could act as a psychological barrier for further downward movement. Conversely, resistance at $0.09559 is crucial; a sustained move above this level could lead to a retest of the 20-period SMA, with potential for higher resistance levels near $0.0960 and beyond. Traders should remain cautious, watching for confirmation from price action.\n\nGiven the current market conditions, a cautious approach is recommended. Day traders might find opportunities by entering short positions near resistance levels and targeting the lower support zone. For longer-term traders, it would be prudent to wait for more clarity on the trend before committing to positions. Patience will be key, especially in a market characterized by narrow price action and uncertainty."
+    }
+  }
+}
