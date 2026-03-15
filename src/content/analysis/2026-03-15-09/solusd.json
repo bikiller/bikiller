@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-15T09:54:53.495Z",
+  "price": {
+    "close": "88.58",
+    "high": "88.89",
+    "low": "88.44",
+    "open": "88.5",
+    "change": "0.09",
+    "datetime": "2026-03-15 09:00:00"
+  },
+  "indicators": {
+    "rsi": 60.75033,
+    "macd": 0.20600602,
+    "macd_signal": 0.06557099,
+    "sma20": 87.6655
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 88.58\\n- 24小时变化: 0.09%\\n- 高点/低点: 88.89 / 88.44\\n- RSI(14): N/A\\n- MACD: 0.20600602, Signal: N/A\\n- SMA(20): 87.66550\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏多但关注关键阻力\n\n当前 SOL/USD 价格围绕 88 美元附近波动，短线走势呈现震荡整理格局。昨日高低点 88.89/88.44 显示多空力量暂时均衡，价格稳在 SMA(20) 之上暗示短期均线支撑存在，多头略占优，但突破力度不足导致延缓上涨节奏。\n\n技术指标方面，MACD 处于正值区间（0.206）表明多头动能存在，但缺少信号线数据使得具体交叉判断受限。若能形成 MACD 与信号线金叉，将进一步确认上涨趋势；反之若背离风险加剧，短线震荡或延续。RSI 未提供，但结合价格与均线位置，可初步判断买卖激烈程度较为温和。\n\n支撑位上看 87.66（SMA20）及前低区间 87.00 附近为主要支撑，跌破则可能回探 85.50 区域；阻力位方面 89.50-90.00 为密集区间，多次尝试受阻将压制上攻动能。日内若能够稳固收于 90.00 上方，则短线趋势有望向 92.00 甚至更高扩展。\n\n交易建议上，建议逢低在 87.50-88.00 轻仓布局多单，止损设在 86.80 以控制风险；若价格有效突破 90.00，可考虑追加多头；谨慎者可等待突破确认再进场以减少震荡中的假突破损失。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current price of Solana (SOL) against the US Dollar stands at $88.58, showing a modest 24-hour change of +0.09%. The price has been hovering in a narrow range between the high of $88.89 and the low of $88.44, which suggests a consolidation phase. This period of low volatility indicates market indecision, with no clear trend emerging in the short term. Investors should watch for a breakout or breakdown from this range to gauge the next potential move.\n\nThe absence of an RSI reading makes it difficult to assess overbought or oversold conditions, which typically offer insights into potential reversal points. However, the MACD value of 0.2060 indicates some bullish momentum, though it is not yet confirmed by a significant signal line crossover, leaving the market sentiment somewhat neutral. Without a clear trend or strong momentum, price action will likely be driven by external factors or a potential breakout from current price levels.\n\nLooking at the 20-period Simple Moving Average (SMA) of $87.67, the price is currently above this level, suggesting some short-term bullish sentiment. This moving average can act as a dynamic support level, providing a cushion if the price begins to retrace. A move below this support would likely signal a bearish shift, especially if accompanied by a drop below the recent low of $88.44. Conversely, a break above $88.89 would indicate potential for further upside, testing resistance around $90 or higher.\n\nGiven the current market structure, a cautious trading approach is advisable. A breakout above $88.89 could provide a buy signal, targeting higher resistance levels. On the flip side, a breach below $88.44 would suggest a bearish shift, making a short position potentially attractive. Traders should closely monitor volume and price action for confirmation before making significant trades."
+    }
+  }
+}
