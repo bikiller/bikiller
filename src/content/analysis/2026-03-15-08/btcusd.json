@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-15T08:32:24.416Z",
+  "price": {
+    "close": "71592.55",
+    "high": "71714.59",
+    "low": "71464.07",
+    "open": "71464.07",
+    "change": "0.18",
+    "datetime": "2026-03-15 08:00:00"
+  },
+  "indicators": {
+    "rsi": 62.24617,
+    "macd": 167.348,
+    "macd_signal": 88.31835,
+    "sma20": 71042.307
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏强",
+      "content": "比特币当前价格位于71592.55美元，略高于20日均线71042.31美元，显示短期仍有多头支撑，但涨幅有限。日内高低点差距不大，市场呈现轻微波动，短线趋势偏向震荡整理。价格在均线之上运行，表明多头仍有控制权，但突破力度不足。  \n\nMACD柱状图为正值167.35，虽未提供信号线，但正值暗示上行动能仍在积累。缺少RSI数据使超买超卖判断受限，但从价格结构来看，短期未出现明显过热，震荡偏强格局依旧。均线支撑提供了下行缓冲，而上方高点71714.59构成初步阻力位，需要关注突破确认。  \n\n支撑位方面，71000附近为关键支撑区域，多头若守住此位置可维持短线稳定。阻力位在71750至71800区间，如价格有效突破，可打开上行空间至72000美元附近。若未突破阻力，多空可能在高位形成博弈，波动区间加大。  \n\n交易策略上，短线可关注支撑附近低吸，止损设置略低于71000美元；若价格突破71750美元，可考虑顺势追涨，但需控制仓位，避免回调风险。中期保持观望，等待趋势确认后再加大布局，谨防短线震荡带来的波动损失。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of $71,592.55 shows a mild upward trend, with a 24-hour change of 0.18%. This suggests the market is maintaining a stable bullish bias in the short term. The high and low values for the last 24 hours—$71,714.59 and $71,464.07—show limited volatility, with price staying within a tight range. The SMA(20) at $71,042.31 indicates support close to this level, reinforcing a potential consolidation around this range, but market direction could shift depending on external market events.\n\nThe absence of an RSI reading means we can't gauge immediate overbought or oversold conditions. However, with the MACD at 167.34800 and no clear signal, there seems to be a lack of strong momentum in either direction. This neutral stance in the MACD suggests the market is in a waiting phase, with neither buyers nor sellers in control. A shift in either the MACD or the appearance of the RSI would help indicate future price direction and potential breakout opportunities.\n\nKey support and resistance levels are visible in the range of $71,464.07 and $71,714.59, respectively. Should the price break above $71,714.59, we might see a continuation of the bullish trend with the next resistance around $72,000. Conversely, a dip below the $71,464.07 support could lead to further consolidation or even a slight pullback toward the SMA(20) or lower support at $71,000. Traders should monitor these levels closely to gauge entry or exit points.\n\nConsidering the current market conditions, traders may want to adopt a wait-and-see approach. Given the low volatility and lack of momentum signals, entering long positions may be more suitable for those expecting a breakout above resistance. However, caution is warranted as a breach of support could lead to temporary losses. Watching for key indicator signals like the RSI and MACD will provide clearer guidance."
+    }
+  }
+}
