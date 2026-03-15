@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-15T16:28:58.065Z",
+  "price": {
+    "close": "2091.41",
+    "high": "2098.83",
+    "low": "2089.26",
+    "open": "2093.79",
+    "change": "-0.12",
+    "datetime": "2026-03-15 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.64546,
+    "macd": 2.72189,
+    "macd_signal": 4.7376,
+    "sma20": 2101.423
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期关注支撑与阻力]",
+      "content": "当前，ETH/USD价格在2091.41附近震荡整理，较小的波动范围反映出市场的不确定性。价格维持在较窄的区间内，未能突破关键的支撑或阻力，显示出市场短期内缺乏明确的趋势方向。\n\n从技术指标来看，RSI(14)缺失信息，导致无法对市场超买或超卖状态进行分析。MACD值为2.72189，说明当前市场存在一定的买盘力量，但由于Signal线未提供，无法确认趋势的强度和持续性。20日SMA支撑位在2101.423附近，价格若突破此位置可能会继续上涨。\n\n支撑位方面，2089.26为当前的短期低点，若价格跌破此位置，可能会进一步测试2080水平的支撑。阻力位则位于2101.423附近，突破该阻力位可能会推动价格上行至2130左右。\n\n建议交易者关注价格在支撑与阻力之间的波动。如果价格回调至支撑位附近，可以考虑寻找低价买入的机会；若突破阻力位，则可以关注继续上涨的潜力。在此区间内操作时，务必设置止损来管理风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently showing a slight bearish bias as it hovers around $2091.41, just below the 20-day simple moving average of $2101.42. The narrow intraday range between $2089.26 and $2098.83 indicates consolidation after a minor pullback. The market is struggling to maintain upward momentum, suggesting short-term indecision among traders. A break below the lower bound could signal increased selling pressure, while a move above the SMA would indicate a potential return to bullish sentiment.  \n\nThe MACD reading of 2.72189, with the signal line not available, suggests momentum is positive but weakening. Without a clear signal crossover, it’s difficult to confirm trend strength, leaving traders cautious. The absence of RSI data removes an additional momentum confirmation tool, emphasizing reliance on price action and SMA levels. Traders should monitor the MACD closely for a potential bullish or bearish crossover that could trigger short-term opportunities.  \n\nKey support appears near $2085, slightly below the 24-hour low, acting as a buffer against further declines. Resistance is found around $2105-$2110, slightly above the SMA, which has capped recent upside attempts. A strong breach above this zone could open the path toward $2120. Conversely, a sustained breakdown under $2085 could accelerate downward movement toward $2070. These levels provide clear reference points for managing entries, exits, and stop-loss placements.  \n\nFor trading strategies, cautious range trading is advisable given the current consolidation. Aggressive traders may look for dips toward $2085 to buy with tight stops, targeting $2105-$2110. More conservative participants might wait for a confirmed break above the SMA with volume support before entering long positions. Short-term scalpers could benefit from minor oscillations around the $2090-$2100 range, keeping risk management tight to mitigate sudden volatility."
+    }
+  }
+}
