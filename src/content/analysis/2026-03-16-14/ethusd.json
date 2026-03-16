@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-16T14:41:43.093Z",
+  "price": {
+    "close": "2266.25",
+    "high": "2304.09",
+    "low": "2258.45",
+    "open": "2288.72",
+    "change": "-0.99",
+    "datetime": "2026-03-16 14:00:00"
+  },
+  "indicators": {
+    "rsi": 65.64224,
+    "macd": 41.057654,
+    "macd_signal": 39.42062,
+    "sma20": 2222.521
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏空，潜在支撑关注2250附近",
+      "content": "以太坊当前价格位于2266.25，较24小时内高点2304.09有所回落，显示短期空方压力略显增强。价格仍高于20日均线2222.52，意味着中期趋势依然偏多，但近期波动承压，市场短线可能延续震荡下行。  \n\nMACD当前值41.06，虽然Signal值缺失，但正值区间仍显示多头动能存在。若MACD线与Signal线形成死叉，则短期可能加速回调。缺乏RSI参考，建议结合价格形态观察超买或超卖压力，当前接近前低支撑，短线承压迹象明显。  \n\n支撑位初步关注2250附近，其为近期波动低点及心理整数关口，跌破后可能测试2200-2210区间；阻力位在2300-2310一带，若价格突破并站稳，可打开反弹空间至2350。交易策略上，短线可关注低位逢低布局，同时控制仓位，避免追高冲动。  \n\n总体来看，ETH/USD短期偏空震荡，但中期多头基础尚存。建议关注关键支撑2250和阻力2300区域的反应，结合成交量及K线形态，谨慎操作，短线可适度分批入场，趋势不明时以震荡策略为主。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum's current market price stands at $2266.25, reflecting a slight decline of 0.99% in the last 24 hours. The price is consolidating within a narrow range between the daily high of $2304.09 and the low of $2258.45. This sideways movement signals market indecision, with neither bulls nor bears gaining control. Traders should watch for a breakout either above $2304 or below $2258, as these levels will dictate the next significant price move.\n\nThe Relative Strength Index (RSI) is unavailable at the moment, making it difficult to gauge potential overbought or oversold conditions. However, the current MACD value of 41.06 suggests positive momentum, though without a clear signal line for confirmation, the strength of this trend remains uncertain. The absence of the RSI and signal line indicates that traders should rely on price action and support/resistance levels for decision-making.\n\nThe 20-period Simple Moving Average (SMA) sits at $2222.52, indicating a short-term bullish bias as the price remains above this level. This SMA can act as dynamic support in the event of a pullback. A breach below this moving average may signal further downside pressure, with potential support at $2200 or the next significant psychological level. If Ethereum maintains its position above the SMA, a possible retest of $2300 could be on the horizon.\n\nFor traders, a cautious approach is recommended. The price action around $2304 and $2258 will likely set the tone for the upcoming trend. Those looking for short-term opportunities might consider trading within this range, while more aggressive traders could wait for a confirmed breakout. Managing risk with tight stop-loss orders is critical given the current market uncertainty."
+    }
+  }
+}
