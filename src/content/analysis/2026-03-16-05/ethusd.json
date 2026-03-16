@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-16T05:06:19.397Z",
+  "price": {
+    "close": "2258.68",
+    "high": "2268.73",
+    "low": "2235.34",
+    "open": "2235.67",
+    "change": "1.06",
+    "datetime": "2026-03-16 04:00:00"
+  },
+  "indicators": {
+    "rsi": 81.66152,
+    "macd": 32.30283,
+    "macd_signal": 19.74574,
+    "sma20": 2141.454
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期关注支撑与阻力]",
+      "content": "当前以太坊/美元（ETH/USD）价格为2258.68，呈现出震荡整理的走势。价格已在2240至2270区间内波动一段时间，显示出市场的观望情绪。短期内，市场可能继续维持此区间震荡，等待更明确的方向性信号。\n\n从技术指标来看，RSI(14)数据缺失，无法判断超买或超卖状态。MACD显示为32.30283，但由于信号线未给出，无法确认趋势的强弱。20日SMA处于2141.45，表明价格仍高于短期平均水平，整体处于偏多的态势，但也需警惕短期回调风险。\n\n支撑位方面，2235.34是短期的关键支撑点。如果价格跌破此位，可能会测试更低的支撑水平，如2200。阻力位位于2268.73，突破此价位可能会推动价格向2300靠近，进一步确认上行趋势。\n\n对于交易者，建议短期内保持观望，待突破2240至2270区间后再做决定。若价格突破2268.73，可考虑做多；若跌破2235.34，则建议短期做空，目标指向2200附近。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently showing a modest upward trajectory against the US Dollar, trading near $2258.68. The 24-hour gain of 1.06% suggests mild bullish momentum, reinforced by the recent high of $2268.73. Despite the absence of a full RSI reading, the price remaining above the 20-day SMA at $2141.45 indicates that short-term buyers are maintaining control. The overall trend appears to favor gradual accumulation rather than aggressive breakout behavior, suggesting stability in the near term.\n\nThe MACD, with a current value of 32.30, hints at continued upward pressure, though the missing signal line limits a full convergence/divergence interpretation. Traders should note that the current price trading above the SMA further supports bullish bias. Volatility remains contained, reflected in the intraday range of $2235.34 to $2268.73, implying that sharp reversals are less likely unless influenced by broader market catalysts or news events affecting Ethereum.\n\nSupport is likely to be found around $2235 and extends to the 20-day SMA at $2141, offering solid entry zones for long positions. Resistance is apparent near $2268 and may intensify closer to $2300, which could serve as a near-term target for bullish traders. Breaks above this level could signal stronger momentum, potentially opening the path toward higher $2300–$2350 levels, while any retreat below SMA levels may indicate a consolidation phase or minor pullback.\n\nFor trading strategy, cautious long positions are advisable while monitoring intraday highs for breakout confirmation. Conservative traders might wait for MACD signal confirmation or a clear RSI reading to avoid overextension. Risk management through stop-loss placement near support levels is recommended, given that Ethereum remains sensitive to broader crypto market sentiment and macroeconomic developments. Overall, the technical picture favors steady accumulation with moderate upside potential."
+    }
+  }
+}
