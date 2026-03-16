@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-16T06:50:27.194Z",
+  "price": {
+    "close": "73762.11",
+    "high": "74205.33",
+    "low": "73610.29",
+    "open": "74201.02",
+    "change": "-0.59",
+    "datetime": "2026-03-16 06:00:00"
+  },
+  "indicators": {
+    "rsi": 68.72891,
+    "macd": 631.37778,
+    "macd_signal": 449.83301,
+    "sma20": 72356.7285
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "当前比特币价格在73762美元附近波动，短期走势呈现轻微回调迹象，但整体仍维持在20日均线72356美元之上，显示多头仍具一定支撑。价格未大幅跌破近期低点73610美元，短线维持区间震荡，短期趋势偏多。  \n\nMACD数值为631.38，尚未给出信号线对比，表明动能仍存在，但未出现明确的买卖信号，需关注后续柱状图变化以判断动能强弱。20日均线作为关键支撑，若价格持续守住该位置，多头力量可能延续。RSI数据缺失，但结合价格区间和均线，短线不宜过度追空。  \n\n阻力位主要在近期高点74205美元附近，若价格突破该水平，短期可能延伸至74400-74500美元区域。支撑位则在73610美元及72350美元附近，若跌破这些关键支撑，则震荡格局可能转为偏空。交易者应关注价格在支撑位的反应，以捕捉短线机会。  \n\n操作上，可考虑在价格回落接近20日均线或支撑位附近轻仓做多，止损设置在支撑下方100-150美元处；突破阻力位时，可适度加仓追涨，但需防范高位回调风险。整体策略保持短期偏多、耐心等待确认信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a modest downward correction after testing the $74,200 region, suggesting short-term profit-taking by traders. The price is hovering around $73,762, slightly below the 20-day simple moving average at $72,356, which is now acting as a dynamic support level. This proximity indicates that the medium-term bullish trend remains intact, but the current pullback may continue if selling pressure persists, particularly if the price breaks below $73,600, a near-term support.\n\nThe MACD reading of 631.38, while lacking a confirmed signal line for cross reference, hints at sustained bullish momentum over the longer term. Without the RSI available, traders should monitor volume and price action closely for divergence signs. The absence of a clear overbought or oversold condition means momentum could either stabilize above support or resume a mild retracement, reinforcing the importance of observing daily candle closes around the SMA(20) for confirmation of trend continuation or reversal.\n\nKey resistance levels are currently positioned at $74,200 and $74,500, representing short-term selling zones where traders may anticipate profit-taking. On the downside, support is observed at $73,610 and further at $73,200, providing potential entry points for swing traders aiming to capitalize on the prevailing uptrend. A decisive break above $74,500 could signal renewed bullish pressure, while a drop below $73,200 may invite deeper consolidation near $72,500.\n\nFrom a trading perspective, short-term traders might consider entering long positions near $73,600–$73,700 with a tight stop below $73,200 to manage risk. Conversely, cautious traders could wait for a confirmed rebound above $74,200 before scaling in, reducing exposure to potential short-term volatility. Overall, BTC/USD demonstrates a balance between bullish medium-term structure and short-term corrective pressure, emphasizing disciplined entry and risk management."
+    }
+  }
+}
