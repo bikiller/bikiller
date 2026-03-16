@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-16T11:31:47.501Z",
+  "price": {
+    "close": "73564.92",
+    "high": "73844.93",
+    "low": "73543.88",
+    "open": "73801.78",
+    "change": "-0.32",
+    "datetime": "2026-03-16 11:00:00"
+  },
+  "indicators": {
+    "rsi": 61.35795,
+    "macd": 545.21449,
+    "macd_signal": 525.12748,
+    "sma20": 72805.2345
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡整理，观望为主",
+      "content": "当前比特币/美元价格在73564.92附近震荡整理，呈现出短期内小幅波动的趋势。价格未能突破73844.93的高点，也未跌破73543.88的低点，表明市场尚处于观望状态，缺乏明确的趋势方向。需要关注后续动向，以判断是否出现新的突破。\n\n技术指标方面，RSI和MACD都没有提供明确的买卖信号。MACD的数值为545.21449，但缺乏Signal线的配合，无法确认是否有强烈的买入或卖出信号。SMA(20)为72805.23，价格略高于其水平，显示出一定的支撑作用。\n\n从支撑和阻力层面来看，73543.88是当前关键支撑位，若跌破此位置，可能会导致进一步下行压力。反之，73844.93则是短期阻力位，突破该区域可能会打开进一步上涨空间。投资者可关注这些关键价格点。\n\n交易建议方面，当前市场较为震荡，建议投资者保持谨慎，避免激进操作。若价格突破阻力位，可考虑短线做多；若跌破支撑位，则可能会面临回调风险。保持观望，等待更明确的信号出现。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of $73,564.92 suggests a market in a relatively tight range, with a minor 24-hour change of -0.32%. This subtle pullback indicates a lack of strong momentum either upwards or downwards. The price remains above the 20-period simple moving average (SMA) of $72,805.23, which suggests the overall trend is still bullish in the short term. However, the market's hesitation to push higher may be signaling a consolidation phase, possibly indicating a period of indecision before a breakout or a deeper pullback.\n\nThe absence of an RSI reading and the unclear MACD signal presents a challenge for a thorough momentum analysis. The MACD value of 545.21 suggests some positive momentum, but without the signal line for comparison, it's difficult to confirm the strength or sustainability of this trend. The lack of RSI data further complicates any immediate overbought or oversold assessments. Traders should be cautious and look for a clearer signal before making any major moves, as the current indicators do not provide clear directional guidance.\n\nKey support and resistance levels to watch are $73,543.88 on the lower side and $73,844.93 on the upper side. The price is currently near the lower end of this range, with the next support level potentially lying closer to $73,000. If the price breaks below this level, we could see a test of $72,500, which has acted as a support level in the past. On the upside, a breakout above $73,844.93 could signal further bullish momentum, potentially targeting $74,500 or higher.\n\nGiven the current market conditions, a cautious approach is advised. Traders may want to wait for confirmation of a breakout or breakdown from the established range. Short-term trades could consider entering near support with tight stops, while waiting for stronger momentum signals to position for a more substantial move."
+    }
+  }
+}
