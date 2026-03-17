@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-17T05:21:11.335Z",
+  "price": {
+    "close": "2311.67",
+    "high": "2311.8",
+    "low": "2305.99",
+    "open": "2310.59",
+    "change": "0.03",
+    "datetime": "2026-03-17 05:00:00"
+  },
+  "indicators": {
+    "rsi": 56.45543,
+    "macd": 30.97629,
+    "macd_signal": 39.75138,
+    "sma20": 2318.109
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，等待突破信号]",
+      "content": "当前ETH/USD的市场价格处于2311.67附近，全天波动较小，24小时内的涨幅仅为0.03%。这表明市场短期内处于整理状态，缺乏明显的方向性动能。价格维持在2305.99和2311.8之间震荡，显示出一定的支撑和阻力。\n\n技术指标方面，RSI值暂时无法提供参考，但MACD数值为30.98，表明短期内可能存在一定的上涨动能。然而，由于缺乏有效的信号线，MACD尚未显示出明确的趋势转变。SMA(20)位于2318.11，稍微高于当前价格，暗示价格可能会遇到一定的阻力。\n\n从支撑和阻力的角度来看，当前支撑位在2305附近，而阻力位则接近2320。如果价格突破2320，则可能进一步向2340接近；反之，若跌破2305支撑，可能会测试2290附近的低点。\n\n综合来看，建议在短期内关注价格突破的信号。若突破2318以上的阻力，可考虑采取短期多头策略；反之，若跌破2305支撑，则需谨慎操作，可能会面临下行风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum market shows a relatively stable environment, with a slight 24-hour change of 0.03%. The current price of $2311.67 is near the daily low, which suggests a potential range-bound market. Ethereum's price seems to be consolidating between $2305.99 and $2311.80, indicating short-term indecisiveness. In this scenario, further confirmation of support or resistance will determine the next key movement. Traders should observe if price action breaks beyond these levels, signaling the next directional move.\n\nThe lack of an RSI reading leaves us without momentum analysis, but the current MACD value of 30.97629 suggests potential bullish momentum if it continues to rise. However, with no signal line available, the MACD alone cannot provide a definitive conclusion. Therefore, it is essential to monitor price action closely to confirm if the current momentum aligns with the broader market trend. A bullish crossover in the MACD would signal a stronger buy signal, while a failure to gain further strength could result in a pullback.\n\nThe 20-period Simple Moving Average (SMA) sits at $2318.10900, slightly above the current price, adding an additional layer of resistance. If the price attempts to break this level, it will likely face a test of strength. A breakout above this level could signal a continuation toward higher levels, potentially targeting $2350 or higher, depending on market sentiment. Conversely, any rejection at this resistance could suggest a return to the lower range near $2300 or lower.\n\nFor traders, this market offers a balanced risk-reward setup. A close above the $2318 resistance could prompt a buying opportunity, aiming for higher targets. Alternatively, if the price breaks below the $2305 support, a short position could be considered, with targets near the next support around $2300. Traders should remain vigilant and consider the broader market conditions for confirmation."
+    }
+  }
+}
