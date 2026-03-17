@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-17T17:01:37.413Z",
+  "price": {
+    "close": "2324.77",
+    "high": "2336.92",
+    "low": "2312.83",
+    "open": "2315.78",
+    "change": "0.35",
+    "datetime": "2026-03-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 55.011,
+    "macd": 13.15944,
+    "macd_signal": 18.36536,
+    "sma20": 2331.17
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡整理偏多",
+      "content": "目前ETH/USD维持在2324.77美元附近，日内波动幅度有限，高低点分别为2336.92与2312.83，显示市场处于短期震荡整理状态。价格略低于20日简单移动均线(SMA20=2331.17)，暗示多空力量相对均衡，但略有回落压力。  \n\nMACD指标显示主线为13.15944，虽未提供信号线数据，但处于零轴上方区域，暗示多头仍有一定支撑。若后续MACD形成金叉，则可能带动价格向上测试近期高点。短期内，RSI数据缺失，但结合价格与成交量，可判断市场尚未出现超买或超卖信号，波动相对温和。  \n\n支撑位方面，2312-2315美元区域为关键短线支撑，若跌破可能触发进一步调整；阻力位在2335-2340美元附近，突破则有望开启新一轮反弹。投资者应关注关键支撑和阻力附近的成交量变化，以判断趋势延续或反转概率。  \n\n交易策略上，建议以低位逢低布局为主，重点关注2315美元附近的买入机会，同时在接近阻力位2335-2340美元区域适当减仓。风险管理方面，可将止损设置在2310美元下方，以防止突发市场回调带来的损失。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum market against the US Dollar shows a relatively stable price movement over the past 24 hours with a slight positive change of 0.35%. The price has oscillated between $2312.83 and $2336.92, indicating a narrow range and a possible consolidation phase. The current price of $2324.77 suggests that ETH is neither in a strong uptrend nor downtrend, but could be preparing for a breakout if the price can hold above key levels.\n\nAnalyzing the technical indicators, we notice that the MACD is positive at 13.15944, which signals potential bullish momentum. However, the absence of a signal line or further clarification on the MACD’s behavior limits a more decisive interpretation. The RSI value is unavailable, but this could mean that there is insufficient price movement or that it’s neutral, indicating a lack of strong overbought or oversold conditions.\n\nThe 20-period Simple Moving Average (SMA) is currently at $2331.17, just above the current price, reinforcing that resistance is likely around $2336.92, the recent high. If ETH can push above this level and sustain the momentum, it may target $2400 as the next resistance zone. Conversely, if the price fails to break through the SMA or faces rejection, the immediate support level at $2312.83 could act as a base, with further downside possible if it dips below this point.\n\nIn terms of trading strategy, a cautious approach is advisable, with traders watching for a clear break above $2336.92 or a move below $2312.83 to establish clearer directional trends. For those looking to enter the market, waiting for confirmation through additional indicators or price action at these key levels will help reduce risk. Maintaining tight stop-loss orders near these levels could also help protect against sudden reversals."
+    }
+  }
+}

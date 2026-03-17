@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-03-17T17:02:22.069Z",
+  "price": {
+    "close": "671.27",
+    "high": "671.28",
+    "low": "670.68",
+    "open": "670.85",
+    "change": "0.06",
+    "datetime": "2026-03-17 17:00:00"
+  },
+  "indicators": {
+    "rsi": 47.38487,
+    "macd": -1.75697,
+    "macd_signal": -1.28658,
+    "sma20": 673.961
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[震荡整理，略偏弱势]",
+      "content": "当前币安币/美元（BNB/USD）处于震荡整理区间，价格维持在671.27附近，24小时变化仅为0.06%，显示出市场情绪较为平稳。在短期内，价格没有显著突破，表明市场观望情绪较浓。高点和低点之间的波动幅度较小，进一步印证了价格短期内可能继续横盘整理。\n\n从技术指标来看，当前MACD显示负值（-1.75697），但缺少信号线（Signal），说明短期内市场动能较弱。由于RSI（14）数据未能提供，无法通过超买超卖情况判断市场的极端情绪。20日简单移动平均线（SMA）目前在673.961附近，价格小幅低于此均线，表明短期内价格有向下回调的压力。\n\n在支撑和阻力位方面，当前支撑位位于670.68附近，若跌破该支撑，可能会进一步向下测试更低的支撑位。阻力位在673附近，若突破此位，价格可能会恢复向上的趋势。短期内若价格持续低于SMA（20），则偏向空头趋势。\n\n综合来看，当前市场整体表现较为弱势，建议保持谨慎。若价格反弹至673附近，可以考虑卖出操作；若跌破670.68支撑，则可适当采取止损策略。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 671.27\\n- 24h Change: 0.06%\\n- High/Low: 671.28 / 670.68\\n- RSI(14): N/A\\n- MACD: -1.75697, Signal: N/A\\n- SMA(20): 673.961\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nRight now, BNB/USD is showing *very muted movement* around the current price (~671), which suggests the market is in a **consolidation phase** after recent volatility. The slight uptick (0.06% in the last 24h) combined with tight high/low range (671.28/670.68) points to indecision among traders. Since price sits just below the 20‑period simple moving average (~673.96), the short‑term trend leans slightly bearish. A clean break and hold above the SMA would be needed to confirm renewed bullish momentum.\n\nLooking at available indicators, the MACD value of –1.75697 indicates persistent bearish pressure; although without the signal line we can’t confirm a crossover, the negative reading alone tells us sellers are still a factor. The lack of an RSI reading complicates momentum interpretation, but given the proximity to the moving average and flat price action, we can infer momentum is *dull rather than trending*. Traders should watch for any MACD momentum shift from negative toward zero — that could signal early accumulation.\n\nIn terms of **key levels**, near‑term support is likely around the 660–665 zone, where previous sideways congestion and volume clusters have appeared. If that breaks decisively, the next psychological support lies closer to the 640–650 zone. On the upside, immediate resistance sits at the 674–677 range, tied to the SMA and short‑term swing highs. A sustained breakthrough above ~680 would be meaningful and could fuel a test of larger resistance near 700.\n\nFor trading suggestions, consider range‑based strategies with tight risk controls while BNB remains sideways. Long entries near support with stops just below, and short entries near resistance with stops just above, align with current price behavior. Only shift to trend‑following positions once we see clear breaks of these levels with volume confirmation."
+    }
+  }
+}
