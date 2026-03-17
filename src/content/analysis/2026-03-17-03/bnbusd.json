@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-03-17T03:45:28.159Z",
+  "price": {
+    "close": "676.01",
+    "high": "683.1",
+    "low": "675.37",
+    "open": "682.73",
+    "change": "-0.98",
+    "datetime": "2026-03-17 03:00:00"
+  },
+  "indicators": {
+    "rsi": 48.80566,
+    "macd": 2.4485,
+    "macd_signal": 2.826,
+    "sma20": 678.3145
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏弱",
+      "content": "从当前价格676.01美元来看，BNB短期呈现轻微回调，未能突破日内高点683.1美元，显示多头动力有所减弱。结合20日简单移动均线(SMA20)678.31美元，价格略低于均线，短期趋势偏向弱势震荡，但仍未形成明显下跌信号。  \n\nMACD当前值为2.4485，虽然未提供信号线，但数值为正，说明多头仍有一定存在，但动能减弱，市场可能处于整理阶段。缺少RSI参考意味着超买或超卖状态无法确认，投资者应注意短线波动风险。  \n\n关键支撑位在675美元附近，如跌破可能触发更深调整，而阻力位则在683-685美元区间，多次测试未能有效突破则可能引发回落。价格在支撑与阻力之间震荡的概率较高，短线操作需谨慎。  \n\n交易建议方面，可关注低位支撑附近的逢低吸纳机会，设置严格止损以防下行风险；若价格成功突破683美元阻力并站稳，可考虑短线追涨，但需警惕回调压力。总体来看，短期市场偏弱整理，激进操作不宜过度加仓。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 676.01\\n- 24h Change: -0.98%\\n- High/Low: 683.1 / 675.37\\n- RSI(14): N/A\\n- MACD: 2.44850, Signal: N/A\\n- SMA(20): 678.31450\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is showing signs of consolidation after a recent uptick, hovering just below the short-term SMA(20) of **678.31**. The latest price at **676.01** and a modest **24‑hour decline** suggest the market is testing the short-term moving average as a pivot. While this could indicate temporary weakness, the lack of a steeper drop points to an overall sideways trend rather than a clear reversal. Traders should watch for decisive price action above or below this dynamic level.\n\nThe **MACD reading of 2.44850**—albeit without a signal line for direct comparison—suggests lingering bullish momentum on recent price action. However, without a corresponding signal or RSI data, the strength and sustainability of this momentum remain ambiguous. If the MACD can expand with a rising signal, it would support bullish continuation. Conversely, a MACD turnover could foreshadow weakening momentum; in either scenario, additional indicator clarity would help confirm directional conviction.\n\nKey **support and resistance levels** are evident around **670** on the downside and **690–700** on the upside. The 670 support zone has shown resilience in recent sessions, acting as a psychological and technical floor. A break below this level with volume could open the door to deeper pullbacks toward **650–660**. On the upside, a break through **683–690** could clear the path toward the prior swing highs near **700–710**, renewing positive bias for risk‑on participants.\n\nFrom a trading standpoint, a cautious approach calibrated to breakout signals is sensible. Long entries near support with tight stops below 670 may offer favorable risk/reward, while aggressive traders could look for a break above **690** with confirmation. For short positions, confirmation of a breakdown below key support and MACD divergence could offer setups, but overall volume and broader market context should guide position sizing and risk management."
+    }
+  }
+}
