@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-17T08:48:38.182Z",
+  "price": {
+    "close": "2331.7",
+    "high": "2335.44",
+    "low": "2317.31",
+    "open": "2327.45",
+    "change": "0.18",
+    "datetime": "2026-03-17 08:00:00"
+  },
+  "indicators": {
+    "rsi": 61.61414,
+    "macd": 24.42137,
+    "macd_signal": 32.83291,
+    "sma20": 2325.2775
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多",
+      "content": "当前以太坊价格维持在2331.7美元附近，较24小时高点2335.44略低，显示短期内多空力量相对均衡，但略微偏向多头。价格站稳20日均线SMA(20) 2325.28上方，说明短期支撑有效，多头仍占据一定主动。  \n\nMACD指标显示为24.42，但信号线数据缺失，无法明确金叉或死叉，但MACD为正值，意味着动能仍偏多。虽然RSI数据不可用，但结合价格走势和均线表现，短期市场可能处于轻微超买区域，需关注回调风险。  \n\n关键支撑位在2325附近，为20日均线支撑区域，下方次级支撑可关注2317低点；阻力位则在日内高点2335及前期压力区2350附近。若价格突破阻力，可能开启新一轮上行波段；若跌破支撑，则短线可能回落至2310-2315区间。  \n\n交易策略上，建议短线多单可在2330-2325区域布局，止损设在2315以下，目标位锁定在2340-2350区间。若价格未能有效突破阻力，可考虑高位减仓或短线观望，等待明确趋势信号后再介入。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently experiencing a period of relatively stable movement, with a slight 24-hour change of 0.18%. The price is consolidating around $2331.7, staying within a narrow range between its recent high of $2335.44 and low of $2317.31. This range-bound action suggests a potential pause before the next significant market move. With the current price sitting just above the 20-period simple moving average (SMA) of $2325.28, it shows that the immediate market trend is slightly bullish, though no clear directional bias is established.\n\nIn terms of technical indicators, the RSI is unavailable at this moment, leaving the analysis to rely on other tools like the MACD. The MACD value of 24.42 indicates a positive momentum, suggesting that buying pressure is still in play. However, without a signal line for comparison, the interpretation is limited, and the lack of a clear signal line prevents us from gauging whether the momentum is weakening or strengthening. The price’s proximity to the SMA(20) and MACD indicates potential for short-term continuation in a neutral to slightly bullish market structure.\n\nSupport levels for ETH are situated around the low of $2317.31, with the potential for further testing of this level in the event of downward pressure. If the price manages to hold above this support, there is a higher probability of a retest of the recent high at $2335.44. On the upside, breaking through this resistance level could open the way for ETH to challenge higher price points, but this would require a solid shift in momentum, ideally supported by additional bullish signals like an increasing RSI or MACD crossovers.\n\nIn the current market context, traders should consider a cautious approach, waiting for a confirmation of a breakout above $2335.44 or a clear rejection near $2317.31. A price bounce off the lower support zone might offer an opportunity for short-term buys, while a sustained break below $2317.31 could signal further downside risk, suggesting that short positions might become favorable with careful risk management."
+    }
+  }
+}
