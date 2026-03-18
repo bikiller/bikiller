@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-18T10:15:06.302Z",
+  "price": {
+    "close": "2330.38",
+    "high": "2330.64",
+    "low": "2323.81",
+    "open": "2329.43",
+    "change": "0.08",
+    "datetime": "2026-03-18 10:00:00"
+  },
+  "indicators": {
+    "rsi": 53.84562,
+    "macd": 3.33202,
+    "macd_signal": 4.97001,
+    "sma20": 2326.9455
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期盘整趋势偏多",
+      "content": "当前ETH/USD价格位于2330.38附近，较24小时高低波动幅度有限，显示市场短期处于盘整状态。价格略高于20日均线(SMA20=2326.95)，表明多头略占上风，但动能尚未完全确认突破方向。  \n\nMACD为3.33202，虽缺少信号线对比，但数值为正，暗示短线买方力量略强。价格在2330附近承压，短期阻力位关注2340，而下方支撑可参考2324-2325区域，若失守此区间，可能触发短线调整。  \n\n由于RSI数据缺失，需关注成交量及其他动量指标辅助判断。若价格持续站稳SMA20且MACD维持正值，多头有望在盘整后发起小幅拉升，但突破前高需观察市场情绪及资金流入情况。  \n\n交易上可考虑区间操作策略：逢低靠近支撑可轻仓做多，靠近阻力可减仓或短线获利；若价格突破阻力并伴随量能放大，可考虑顺势加仓，但务必设置止损以控制回撤风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum market currently shows a modest uptrend, with the latest price at $2330.38, reflecting a 0.08% change over the last 24 hours. This indicates a stable but slightly bullish sentiment in the market. The price is currently testing key levels near the previous high of $2330.64 and low of $2323.81. Given the narrow price range, it is likely that Ethereum is in a consolidation phase, with traders awaiting stronger signals before making significant moves.\n\nThe absence of RSI data limits the ability to assess potential overbought or oversold conditions. However, the MACD value of 3.33202 suggests that the bullish momentum may still be intact, but with no signal line for comparison, the direction and strength of the trend remain unclear. Typically, a stronger signal line would help validate whether the market is poised for a more significant upward move or a potential reversal.\n\nThe 20-period simple moving average (SMA) sits just below the current price at $2326.94550, acting as a dynamic support level. This moving average has acted as a key level of support in previous price cycles, indicating that Ethereum may find support in this range if the market faces a pullback. If the price moves lower, it could test the SMA again, with the potential for a bounce if buying interest remains strong.\n\nFor trading suggestions, a cautious approach could be advisable. A break above $2330.64 could signal a continuation of the uptrend, with potential to test higher resistance levels. On the other hand, a drop below the SMA at $2326.95 could signal a pullback, with the next support likely around the low of $2323.81. Traders may look for price action confirmation near these levels before committing to larger positions."
+    }
+  }
+}

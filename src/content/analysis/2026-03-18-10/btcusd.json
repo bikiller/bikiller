@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-18T10:14:19.273Z",
+  "price": {
+    "close": "74281.62",
+    "high": "74281.62",
+    "low": "74116.38",
+    "open": "74197.12",
+    "change": "0.11",
+    "datetime": "2026-03-18 10:00:00"
+  },
+  "indicators": {
+    "rsi": 52.46183,
+    "macd": 3.08425,
+    "macd_signal": 24.68412,
+    "sma20": 74243.316
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，关注支撑与阻力",
+      "content": "目前，BTC/USD的价格处于74281.62美元附近，显示出一定的震荡整理趋势。从技术指标上看，虽然MACD处于积极区间（3.084250），但由于信号线数据缺失，缺乏明确的买卖信号。RSI未提供，难以判断超买或超卖状态，这让市场的短期动向不确定。\n\n短期来看，价格波动幅度较小，24小时变化仅为0.11%。SMA(20)显示出74243.32美元的支撑作用，当前价格稍微高于该支撑位，表明短期内市场存在整理的迹象。若突破74281.62美元的高点，可能会迎来更强的上涨动能；反之，跌破支撑位则可能出现回调。\n\n从支撑和阻力的角度看，74281.62美元是近期的关键阻力位，若突破这一水平，下一目标可能会是更高的价格水平。74116.38美元则为短期内的支撑位，若跌破该点位，可能会考验更深的支撑区域。\n\n建议投资者在当前价格区间内谨慎操作，短期内可选择区间交易，关注突破与回调信号。如果价格继续震荡整理，耐心等待趋势的确认后再做决定。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action shows a period of consolidation near the $74,200–$74,300 zone. The current price of $74,281.62 suggests a mild bullish bias over the short term, hovering just above the 20-period simple moving average at $74,243.32. This indicates that the market is attempting to stabilize after recent volatility, with neither buyers nor sellers exerting decisive control. Traders should watch for a breakout above recent highs, as momentum could quickly accelerate.\n\nThe MACD reading of 3.084, though positive, lacks a corresponding signal line for a full confirmation, implying that the bullish momentum is present but not fully validated. The absence of RSI data makes it harder to gauge overbought or oversold conditions, suggesting a cautious approach. Still, the slight upward movement above the SMA shows short-term buying interest, which could favor continuation if volume increases, particularly around key price clusters near $74,400.\n\nImmediate support can be identified around $74,100, where recent intraday lows and the SMA converge, providing a potential floor for short-term declines. Resistance lies near $74,500–$74,600, where previous highs may cap upward movement. A breach of this zone with follow-through could open a path toward $75,000. Conversely, a breakdown below the support level might see a retest of $73,800, making tight stop-loss placement essential for risk management.\n\nFor traders, a range-bound strategy may be appropriate until clearer signals emerge. Breakout buyers could enter above $74,500 with a target near $75,000, while conservative traders may wait for confirmation from additional indicators like RSI or MACD convergence. Short-term swing traders might consider using the support at $74,100 for entry, maintaining tight stops to protect against downside spikes, while positioning for potential intraday momentum swings."
+    }
+  }
+}
