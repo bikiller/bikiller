@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-03-18T15:53:08.506Z",
+  "price": {
+    "close": "647.67",
+    "high": "650.66",
+    "low": "645.3",
+    "open": "648.14",
+    "change": "-0.07",
+    "datetime": "2026-03-18 15:00:00"
+  },
+  "indicators": {
+    "rsi": 22.34032,
+    "macd": -4.82042,
+    "macd_signal": -2.16935,
+    "sma20": 667.7915
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏弱，压力明显",
+      "content": "当前BNB价格在$647.67附近，接近24小时低点$645.3，显示短期内多空力量略显平衡，但价格仍低于20日均线$667.79，表明短期整体偏弱，多头动能不足。若价格未能有效突破均线，空头可能继续占优。  \n\nMACD指标显示当前值为-4.82042，未出现明显信号线交叉，但负值意味着下行动能存在，卖压仍在市场中积累。若未来出现MACD柱状回升，可能提示短线反弹机会，但需关注均线和关键阻力位的压制。  \n\n支撑位方面，近期低点$645可作为短线支撑，若跌破可能触发进一步回调至$640附近；阻力位则在$650-$667区间，尤其是20日均线附近承压明显，突破难度较大。成交量若无法放大，突破成功概率有限。  \n\n交易建议上，短线可关注支撑区$645-$640的低吸机会，同时谨慎设置止损，避免追涨。若价格站稳20日均线并伴随MACD多头信号，可考虑小幅多单布局，但整体以震荡偏弱策略为主，控制仓位和风险管理仍是关键。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 647.67\\n- 24h Change: -0.07%\\n- High/Low: 650.66 / 645.3\\n- RSI(14): N/A\\n- MACD: -4.82042, Signal: N/A\\n- SMA(20): 667.79150\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe BNB/USD chart currently reflects a short‑term **bearish tilt** as prices trade below the 20‑period simple moving average (~667.8), signaling sellers have recently outweighed buyers. With the latest price at 647.67 and marginal 24‑hour change, directional conviction is low, yet this position beneath SMA(20) suggests downward pressure persists. If BNB fails to reclaim this average decisively, the prevailing trend context remains cautiously negative for near‑term momentum.\n\nMomentum indicators are incomplete, limiting clarity. The **MACD reading at –4.82** indicates bearish momentum, though without its signal line for crossover confirmation, interpretation leans on price action and moving averages. Absence of a valid RSI leaves us blind to overbought/oversold conditions, but current sideways drift between 650 and 645 suggests indecision. Traders should watch for an MACD histogram uptick or eventual signal line cross that could confirm a momentum shift.\n\nKey **support levels** to monitor include the recent low near **645.30**; a break and close below this level could invite deeper retracement toward psychological support around **630–625**. On the upside, the immediate **resistance cluster** sits near **650–655**, with a more meaningful barrier at the 20‑period SMA (~667.8). A sustained close above SMA could embolden buyers and open the door to reclaiming 670+.\n\nFrom a tactical standpoint, consider **range‑aware strategies** while volatility stays muted: light long exposure near support with tight stops beneath 645, targeting 655–660 on strength, or short positions only if support breaks with volume confirmation. Longer‑term bulls should wait for a decisive breakout above the 20‑period average to add, while risk‑averse traders may remain sidelined until clearer momentum signals emerge."
+    }
+  }
+}

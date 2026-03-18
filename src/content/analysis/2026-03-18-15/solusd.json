@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-18T15:53:50.803Z",
+  "price": {
+    "close": "89.25",
+    "high": "89.4",
+    "low": "88.56",
+    "open": "88.96",
+    "change": "0.31",
+    "datetime": "2026-03-18 15:00:00"
+  },
+  "indicators": {
+    "rsi": 23.57515,
+    "macd": -1.1283,
+    "macd_signal": -0.5070869,
+    "sma20": 93.4465
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 89.25\\n- 24小时变化: 0.31%\\n- 高点/低点: 89.4 / 88.56\\n- RSI(14): N/A\\n- MACD: -1.12830, Signal: N/A\\n- SMA(20): 93.4465\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线整理偏弱承压\n\n当前价格围绕**89.25**震荡，短期趋势偏弱，未能有效突破中期均线。价格在**88.56–89.40**区间盘整，波动性收敛暗示动力不足，短线仍偏向**区间整理或下探支撑**。\n\n从指标看，**MACD处于负值区**且未见明显红柱扩张，动能偏弱，显示多头力道不足；**20日SMA在93.45上方**构成明显阻力，短线反攻需站稳该均线才能确认转强。因为RSI不可用，需关注成交量配合动量变化来确认突破力度。\n\n关键支撑位在**88.50附近**，若失守有可能继续下试**87.00–86.50**低位支撑；阻力位则在**90.50**、**92.00**及**93.45均线**位置，特别是93.45如不能突破则可能再次回落整理。支撑压力区域清晰，有利于短线操作设立止损。\n\n交易上建议短线谨慎，中性偏弱策略为主：若价格回踩接近88.50支撑并出现反转信号，可考虑小仓位做多、止损设在87.90下方；若突破90.50上方并伴随放量，可逐步加仓向93.45进攻。若跌破88.50且量能放大，则谨慎空头思路，目标看向87.00。整体把握好止损与仓位控制，避免趋势确认前过度追高。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 89.25\\n- 24h Change: 0.31%\\n- High/Low: 89.4 / 88.56\\n- RSI(14): N/A\\n- MACD: -1.12830, Signal: N/A\\n- SMA(20): 93.4465\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$89.25** reflects a **neutral-to-slightly-bearish intra‑day tone**, with the pair struggling to sustain gains above **$89.40**. The relatively narrow high/low range suggests low volatility at this stage. On a broader timeframe, prices remain below the **20‑period simple moving average (~$93.45)**, indicating that short‑term momentum favors the downside. A break and close above this SMA would be needed to validate a shift toward recovery, otherwise sellers could dominate near resistance zones.\n\nThe lack of reliable RSI and full MACD data complicates momentum assessment, but the available **MACD value at –1.12830** hints at residual bearish pressure. Without a plotted signal line, we infer that the oscillator remains in negative territory, implying that bearish conviction has not yet reversed. This is consistent with price being below the 20 SMA—typically a dynamic resistance on short‑term pullbacks. Traders should be cautious about chasing long entries until more confirmatory momentum readings (like a rising MACD histogram or a printed RSI above 50) emerge.\n\nFrom a **support and resistance perspective**, key levels to watch include **support near $88.00–$88.50**, a zone that has provided short‑term stability. A decisive break below this support could accelerate selling toward the next structural level around **$85.00**. On the upside, initial resistance sits at **$90.00**, with more significant supply near the **$93.40 SMA** and then **$95.00**, where sellers may re‑emerge. These levels offer practical reference points for risk management and stop placement.\n\nIn terms of **trading suggestions**, consider a range‑based approach in the absence of strong directional bias. Short‑term traders might look to fade rallies into the $90–$93 area with tight stops, while longs could target the $88 support zone, seeking a favorable risk/reward setup. Once a clear break above the 20 SMA materializes with accompanying volume and momentum confirmation, longer positions could be more justified."
+    }
+  }
+}
