@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-18T23:02:50.276Z",
+  "price": {
+    "close": "71096.14",
+    "high": "71187.04",
+    "low": "71088.83",
+    "open": "71149.27",
+    "change": "-0.08",
+    "datetime": "2026-03-18 23:00:00"
+  },
+  "indicators": {
+    "rsi": 29.031436,
+    "macd": -784.13927,
+    "macd_signal": -690.60584,
+    "sma20": 72413.4595
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏空，回调压力显现",
+      "content": "目前比特币价格在71000美元附近横盘整理，日内波动幅度极小，显示短期市场缺乏明确方向。与20日均线72413美元相比，价格仍低于均线，暗示中短期存在下行压力，但跌幅有限，多空力量接近平衡。\n\nMACD显示主线为-784.14，处于负值区间，说明空头动能略占优势，但由于信号线数据缺失，动能变化尚不明确。若RSI可用，或能进一步判断超买超卖状态，目前需关注MACD柱线延续情况，作为短期趋势参考。\n\n支撑位主要集中在71000美元整数关口，若跌破该水平，可能测试70800附近低点；阻力位在71500至72400美元区域，短线突破上方均线需较强买盘配合。价格在支撑附近有一定承托，但反弹空间有限，易受均线压制。\n\n交易策略上，短线建议逢低试探多单，止损设在70800美元以下，控制风险；若价格回升并突破72400美元，可考虑中线加仓机会。日内操作宜以低位接多、轻仓观望为主，避免追高情绪造成损失。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin market shows a subtle bearish trend as it trades at $71,096.14, a slight decrease of 0.08% over the past 24 hours. The high and low for the day are $71,187.04 and $71,088.83, respectively, indicating a narrow trading range. Despite the lack of a clear upward movement, the market remains relatively stable. This suggests that Bitcoin may be consolidating near its recent levels, waiting for a clear catalyst to drive price action. \n\nThe absence of a clear RSI (Relative Strength Index) reading means we cannot assess immediate overbought or oversold conditions. However, the MACD is currently negative at -784.13927, which signals that downward momentum is slightly in play. The lack of a signal line complicates further interpretation of potential reversals or buy signals. A closer look at the MACD indicates that the market could be in a consolidation phase with some weak bearish momentum, rather than a strong sell-off.\n\nThe current price is trading below the 20-period SMA (Simple Moving Average) of $72,413.46, which acts as a significant resistance level. The SMA also indicates the market is currently in a short-term downtrend, as the price has been below this level for a few days. Traders should be cautious of selling near this level unless a clear breakout above the SMA occurs. Support is seen around the low of $71,088.83, and a break below this could expose further downside risks to the next key support zone.\n\nIn terms of trading strategy, patience is key. The lack of significant indicators like RSI and a neutral MACD suggests the market could continue its range-bound behavior. Short-term traders might consider targeting the support level of $71,088.83, while waiting for a stronger signal of a breakout above the SMA before entering long positions. A cautious approach with tight stop-loss levels is recommended until a more definitive trend emerges."
+    }
+  }
+}
