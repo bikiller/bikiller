@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-18T20:32:47.083Z",
+  "price": {
+    "close": "71005.86",
+    "high": "71065.73",
+    "low": "70474.83",
+    "open": "71065.73",
+    "change": "-0.08",
+    "datetime": "2026-03-18 20:00:00"
+  },
+  "indicators": {
+    "rsi": 26.53378,
+    "macd": -818.66196,
+    "macd_signal": -599.30731,
+    "sma20": 72877.5835
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期回调风险]",
+      "content": "当前比特币价格持续震荡整理，近期走势略显疲软。从最新价格来看，BTC/USD处于71000附近，波动幅度较小，显示市场观望情绪较重。短期内，价格缺乏明确的上涨动力，可能会面临一定的回调压力。\n\n技术指标方面，MACD值为负，表明卖方占优，短期内缺乏强势买盘支撑。RSI(14)未给出有效数据，但从价格和MACD走势来看，当前市场情绪较为谨慎。SMA(20)显示价格较其水平低，可能暗示短期内价格有进一步下行的风险。\n\n支撑位方面，70470附近为近期低点，若价格跌破此位置，则可能会进一步回撤至更低的水平。阻力位位于72877附近，若突破该点位，可能会迎来短期反弹。交易者应密切关注这些关键价位的突破情况。\n\n鉴于当前市场的震荡走势，建议保持谨慎操作。短期内若回调至支撑位，可以考虑小范围买入，但若跌破支撑位，则应保持观望，避免追高。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price has been trading in a narrow range recently, hovering around $71,000, reflecting a slight negative 24-hour change of -0.08%. The market is currently consolidating, with the price moving within a range of $70,474.83 to $71,065.73. This indicates indecision among investors, with neither the bulls nor the bears able to establish clear dominance. However, the overall trend remains upward, with Bitcoin still well above its 20-period Simple Moving Average (SMA) of $72,877.58, suggesting that the long-term bullish momentum could persist if the support levels hold.\n\nThe absence of a defined Relative Strength Index (RSI) and moving average convergence divergence (MACD) signal complicates a clear momentum reading. However, the negative MACD value of -818.66 signals that there might be a lack of strong buying pressure at present, with bearish momentum slightly outweighing bullish attempts. This lack of strong indicators could lead to cautious trading in the near term. Investors should watch closely for the next clear move, as a crossover in the MACD or RSI could give a better idea of upcoming trends.\n\nIn terms of support and resistance, the price is currently testing a critical support level around $70,474.83, where the price has bounced back a few times. If this support holds, we could see a potential reversal towards the resistance zone near $71,065.73, with the next major resistance level appearing close to the $73,000 mark, aligning with the SMA. A breakout above this resistance would signal a continuation of the bullish trend, while a break below support could open the door to further downside potential.\n\nFor traders, it’s advisable to monitor the price action closely in relation to these support and resistance levels. If the price manages to hold above $70,474.83, it could present a buying opportunity, with a target near $73,000. On the other hand, a break below support could signal a shift towards more bearish conditions, suggesting a cautious or short-sell approach in the near term."
+    }
+  }
+}
