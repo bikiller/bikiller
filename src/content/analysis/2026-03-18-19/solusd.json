@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-18T19:38:26.228Z",
+  "price": {
+    "close": "89.82",
+    "high": "90.07",
+    "low": "89.55",
+    "open": "89.58",
+    "change": "0.26",
+    "datetime": "2026-03-18 19:00:00"
+  },
+  "indicators": {
+    "rsi": 33.44499,
+    "macd": -1.31328,
+    "macd_signal": -0.97507092,
+    "sma20": 92.36
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 89.82\\n- 24小时变化: 0.26%\\n- 高点/低点: 90.07 / 89.55\\n- RSI(14): N/A\\n- MACD: -1.31328, Signal: N/A\\n- SMA(20): 92.36\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：震荡偏空整理\n\n当前价格89.82美元处于近期区间下沿震荡位置，短期趋势偏弱但无明显下破下降通道，整体呈现整理结构。价格在90美元关口附近受阻，未能持续上破，表明多头仍需更强动力才能转为上升趋势。\n\n技术指标方面，MACD为-1.31328且未见明显金叉迹象，短线动能偏弱；SMA(20)92.36上方压制明显，价格位于均线下方运行暗示趋势承压。缺少RSI数据限制了超买超卖判断，但现有指标偏向观望。\n\n支撑位方面，可关注近期低点89.50附近以及更下方心理整数位88.00区间，若跌破可能引发加速下行。阻力上则密集于90.50至92.50区域，多次未能有效上破提示该带阻力强劲。\n\n建议上采取分阶段策略，激进者可在回踩支撑区域择机小仓位布局，严格设止损；保守者等待价格有效站稳92.50以上确认结构性反转后再考虑进场。风险管理必不可少，控制仓位避免波动冲击。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 89.82\\n- 24h Change: 0.26%\\n- High/Low: 90.07 / 89.55\\n- RSI(14): N/A\\n- MACD: -1.31328, Signal: N/A\\n- SMA(20): 92.36\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s short-term price action around **$89.82** suggests a pause in bullish momentum after a rebound attempt. The market has been trading in a relatively tight range between **$89.55 and $90.07**, indicating indecision among buyers and sellers. From a trend perspective, prices remain below the **20‑period simple moving average (SMA) at 92.36**, which signals that the near‑term bias is still tilted toward the downside unless buyers can reclaim that level decisively.\n\nThe absence of a current RSI value complicates overbought/oversold readings, but the **MACD histogram at -1.31328** reflects lingering bearish pressure. This negative MACD suggests that downward momentum could persist, especially if the MACD line continues to diverge below a not‑available signal line. Traders should watch for any narrowing of this gap as an early hint of bullish convergence, though at present the momentum picture leans cautious rather than strong.\n\nKey support is likely to form around **$88.50–$89.00**, a zone that has previously contained declines. A break below this area on strong volume might open the way toward deeper support around **$85.00**, where psychological buying interest and historical price reactions have clustered. On the upside, clearing the 20‑period SMA near **$92.36** will be critical; surpassing that with conviction could shift the narrative back toward upside potential and invite trend‑following entries.\n\nFor traders considering positions, a more conservative approach would be to wait for confirmation: entry on a close above **$92.50** for longs, or a break and retest of **$88.50** for disciplined short setups. Stop‑loss orders should be placed just beyond these levels to manage risk effectively. Overall, consolidative price structure with bearish lean suggests patience and confirmation before significant allocation."
+    }
+  }
+}
