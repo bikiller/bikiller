@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-03-19T15:36:07.597Z",
+  "price": {
+    "close": "636.2",
+    "high": "640.41",
+    "low": "635.63",
+    "open": "638.13",
+    "change": "-0.30",
+    "datetime": "2026-03-19 15:00:00"
+  },
+  "indicators": {
+    "rsi": 27.82812,
+    "macd": -5.40866,
+    "macd_signal": -4.84404,
+    "sma20": 647.122
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[震荡走势，短期承压]",
+      "content": "当前，币安币/美元（BNB/USD）在636.2附近震荡整理，价格在635.63至640.41区间波动，表明市场缺乏明显的方向性。整体呈现震荡走势，短期内难以突破当前区间的高低点，显示出一定的整理压力。\n\n从技术指标来看，MACD目前呈现负值（-5.40866），虽然信号线数据缺失，但负值的MACD表明短期内卖盘稍占优势，市场情绪偏弱。SMA(20)为647.122，距离当前价格约11点，短期内可能作为潜在的阻力位。RSI数据缺失使得我们难以进行完整的超买或超卖判断，但市场情绪偏谨慎。\n\n在支撑位方面，635.63为近期价格的低点，若跌破该水平，可能会加剧下行压力，进一步测试630.00附近支撑。而阻力位则位于640.41和SMA(20)的647.122，突破这些水平可能会带来短期反弹行情。交易者应关注这些关键价格区间的突破情况。\n\n建议投资者短期内保持观望，等待价格突破上述关键支撑或阻力位再进行决策。如有突破，可以考虑顺势操作；若价格持续在震荡区间内，则应避免过度交易，耐心等待更明确的趋势信号。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 636.2\\n- 24h Change: -0.30%\\n- High/Low: 640.41 / 635.63\\n- RSI(14): N/A\\n- MACD: -5.40866, Signal: N/A\\n- SMA(20): 647.122\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s recent price action around **$636.2** suggests a short-term **neutral to slightly bearish trend**. After failing to sustain above the **20‑period simple moving average (~$647)**, momentum has softened, indicating sellers are more active than buyers in the immediate term. Price compression between **$635–$640** reflects indecision, but the inability to reclaim higher levels hints that the broader uptrend may be pausing rather than reversing.\n\nLooking at momentum indicators, the **MACD reading at –5.40866** without an available signal line suggests downside pressure, though the lack of a complete MACD histogram limits full interpretation. Without RSI data, we infer strength from price structure: the recent failure at the SMA(20) and modest negative change (-0.30%) indicate momentum has waned. If MACD were to cross toward its signal, it could signal cooling selling pressure, but current readings favor cautious positioning.\n\nIn terms of **support and resistance**, near‑term support lies close to the **24‑hour low (~$635.6)**, followed by a psychological zone near **$630** and more significant technical support near recent swing lows. Immediate resistance clusters around the **$640–$650** range, with the 20‑period SMA acting as a dynamic ceiling. A decisive break above **$650** could reinvigorate bullish interest, while a break below **$630** may expose deeper support near **$620** or lower.\n\nFrom a trading standpoint, consider entering **long positions** only if price convincingly holds above short‑term support with improving momentum—confirmation would be a reclaim and close above the SMA(20). Short‑term **shorts** could be considered on weak bounces that fail near resistance, with tight stops above $650 to manage risk. Use prudent position sizing and watch for macro catalysts; volatility remains possible around key levels, so patience and disciplined entries/exits are essential."
+    }
+  }
+}
