@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-19T12:56:02.000Z",
+  "price": {
+    "close": "69230.73",
+    "high": "69950",
+    "low": "69100",
+    "open": "69950",
+    "change": "-1.03",
+    "datetime": "2026-03-19 12:00:00"
+  },
+  "indicators": {
+    "rsi": 23.91665,
+    "macd": -751.84312,
+    "macd_signal": -709.23946,
+    "sma20": 70768.8165
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期偏弱震荡下行",
+      "content": "当前价格位于69230附近，较20日均线明显下方运行，显示短期趋势已转为偏弱结构。日内高低点收窄，表明市场处于整理区间，但整体重心下移，空头略占主导，短期仍以震荡偏空看待。\n\n从技术指标来看，MACD处于负值区间且动能扩大，说明下行动能尚未释放完毕。尽管RSI缺失，但结合价格跌破均线判断，市场超买压力已释放，短期或仍有惯性下探需求，但不排除技术性反弹。\n\n关键支撑位关注69000及68500区域，一旦有效跌破，可能引发进一步下行。上方阻力集中在70000及70700附近，即20日均线区域，该位置若无法突破，反弹高度将受限。\n\n操作上建议以反弹做空为主，接近70000附近可分批布局空单，止损设于均线上方。若价格企稳69000并出现放量反弹，可短线轻仓尝试多单，但需严格控制风险，避免追涨。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market for Bitcoin shows signs of consolidation, with the price hovering around $69,230.73. The 24-hour price change of -1.03% indicates mild bearish pressure, suggesting a lack of strong upward momentum at the moment. This could be a temporary pullback or the beginning of a more substantial retracement, depending on how the price reacts to key support levels. Bitcoin is facing resistance near the $69,950 mark, which has acted as a high during the day. A failure to break above this level may result in further downside movement, especially if traders begin to book profits.\n\nOn the other hand, the low of $69,100 in the last 24 hours marks an important support level. A significant breach of this support could open the path for further declines, targeting the next support zone. Without the RSI (14) or Signal values, relying on price action becomes critical. The absence of a clear RSI value implies that momentum is not easily interpreted, making the MACD a more vital tool for now. The current MACD reading of -751.84 signals bearish sentiment, though without a crossing of the signal line, it's difficult to project a major trend reversal.\n\nThe SMA(20) of $70,768.82 is an important indicator of near-term price direction. Bitcoin is currently trading below this moving average, which further supports the bearish bias. Traders often watch for a price reversal above or below the SMA, as it provides insights into market strength. A close above the 20-period moving average could suggest a shift towards more bullish behavior, but a failure to reclaim this level might signal continuation of downward pressure.\n\nFor traders, it’s recommended to keep a close eye on both the support around $69,100 and the resistance at $69,950. If the price breaks below support, the next downside target would likely be $68,000. Conversely, a successful test of resistance could result in a move towards $71,000, with caution around the $70,000 psychological level. Caution is essential, especially with the current lack of key momentum indicators."
+    }
+  }
+}
