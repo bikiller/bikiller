@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-19T14:14:57.319Z",
+  "price": {
+    "close": "69722.31",
+    "high": "70153.32",
+    "low": "69546.84",
+    "open": "69899.99",
+    "change": "-0.25",
+    "datetime": "2026-03-19 14:00:00"
+  },
+  "indicators": {
+    "rsi": 33.57223,
+    "macd": -727.035476,
+    "macd_signal": -717.15437,
+    "sma20": 70607.4965
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整偏弱趋势",
+      "content": "目前比特币价格维持在69722.31美元附近，日内微幅下跌0.25%，显示短期买卖力量相对均衡，但价格仍低于20日均线70607.50美元，暗示短期存在一定下行压力。高低点70153.32/69546.84显示市场震荡区间有限，波动幅度收窄。  \n\nMACD当前为-727.04，且信号线未给出，但负值明显表明空方动能略占上风，市场短期偏弱。缺乏RSI数据限制了超买超卖判断，但结合均线和价格走势，短期仍以回调防守为主。投资者应关注趋势变化确认信号，以防盲目追涨。  \n\n关键支撑位在69500美元附近，如跌破可能触发进一步下探；阻力位在70600美元附近，突破难度较大。结合震荡格局，价格可能在支撑与阻力区间内反复波动，短线操作应谨慎选择进出点。  \n\n交易策略上，可考虑区间操作为主，低位轻仓做多，高位减仓或观望为宜。若价格稳步上破20日均线并伴随MACD回升，可择机加仓多头。短期避免追高，以降低回调风险，同时密切关注市场情绪与成交量变化。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing mild short-term weakness, trading below its 20-period moving average, which suggests a soft bearish bias in the immediate trend. The price hovering around 69,700 after failing to hold above 70,000 indicates hesitation among buyers. The recent range between roughly 69,500 and 70,150 reflects consolidation, but the inability to reclaim higher ground may signal fading upward momentum.\n\nFrom a technical indicator perspective, the negative MACD value points to bearish momentum building, even though the absence of a signal line limits confirmation strength. Price trading below the SMA(20) reinforces this downside pressure, suggesting sellers currently have slight control. While RSI data is unavailable, the overall structure implies neither extreme oversold nor overbought conditions, leaving room for continuation in either direction depending on volume and sentiment shifts.\n\nKey support appears near 69,500, aligning closely with the recent low. A break below this level could expose further downside toward the 68,800–69,000 zone. On the upside, resistance is clearly established near 70,600, matching the SMA(20), followed by stronger resistance around 71,000. Reclaiming these levels would be necessary to restore bullish confidence and potentially trigger a short-term recovery.\n\nTraders may consider a cautious approach in this environment. Short-term bearish setups could be favored below 70,600, particularly on failed rallies, with tight risk management. Conversely, a confirmed breakout above resistance with volume could offer a long opportunity. Range-bound strategies may also work while price remains compressed, but volatility expansion should be anticipated soon."
+    }
+  }
+}
