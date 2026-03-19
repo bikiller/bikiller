@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-19T11:22:22.537Z",
+  "price": {
+    "close": "70188.66",
+    "high": "70262.84",
+    "low": "70077",
+    "open": "70131.46",
+    "change": "0.08",
+    "datetime": "2026-03-19 11:00:00"
+  },
+  "indicators": {
+    "rsi": 31.91303,
+    "macd": -684.26506,
+    "macd_signal": -694.78087,
+    "sma20": 70881.4655
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前比特币/美元(BTC/USD)价格在70188.66附近震荡整理，整体处于区间波动状态。最近24小时价格波动较小，仅有0.08%的变化，显示市场情绪较为平稳，缺乏明确的方向性。当前价格接近日内低点70077附近，短期内难以突破上方的阻力位。\n\n从技术指标来看，MACD处于负值区间，且没有明确的信号线，这意味着短期内可能缺乏强势的买入信号。SMA(20)在70881.47，形成了短期的阻力水平，若价格突破该水平，可能会迎来进一步的上涨动能。然而，若继续承压于此水平，可能会导致价格进一步回落。\n\n支撑位方面，70000附近可能成为一个关键支撑区域，若跌破该水平，则可能会出现更多的下行压力。反之，若价格反弹并突破上方阻力位70262.84，则可以考虑短期做多。RSI(14)暂时无法提供足够的数据来确认市场是否超买或超卖，因此，短期内可以参考MACD和SMA作为主要技术依据。\n\n综上所述，建议在突破关键支撑或阻力位时采取相应的交易策略，当前市场相对谨慎，适合短期观望，等待更明确的趋势信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin price against the US Dollar (BTC/USD) stands at $70,188.66, reflecting minimal movement in the past 24 hours, up by 0.08%. The market is showing consolidation, with the high at $70,262.84 and the low at $70,077, signaling a narrow trading range. The lack of significant volatility suggests that market participants are waiting for a clearer direction. In the absence of clear trends, the range-bound movement could continue unless triggered by a substantial breakout or macroeconomic event.\n\nThe absence of a recent RSI(14) value makes it challenging to assess the overbought or oversold conditions, which typically offer insights into potential reversal zones. However, the MACD indicator shows a negative value at -684.26506, which indicates bearish momentum, but the absence of a signal line further complicates interpreting the strength or potential reversal of this trend. This lack of a confirmed momentum shift suggests that BTC/USD might remain neutral or slightly bearish in the short term unless strong buy/sell signals emerge.\n\nLooking at the Simple Moving Average (SMA) over the past 20 days, we see it at $70,881.46550. The current price is below this SMA, suggesting a bearish short-term bias. If Bitcoin remains below the 20-day SMA, it could struggle to move higher, and traders should be cautious of resistance around $70,880-$71,000. A break below the recent low near $70,077 may open the door for a test of deeper support levels, possibly around $69,500, which could serve as a critical zone for buyers to step in.\n\nConsidering the technical landscape, it may be prudent to look for potential buy opportunities if BTC/USD shows a clear rebound near key support levels around $70,000. On the flip side, a decisive break below the support zone could prompt traders to favor short positions, targeting support near $69,500. Patience and caution are essential, as the market is currently lacking a definitive trend."
+    }
+  }
+}
