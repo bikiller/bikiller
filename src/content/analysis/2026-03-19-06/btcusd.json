@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-19T06:13:30.282Z",
+  "price": {
+    "close": "70848.74",
+    "high": "70968.02",
+    "low": "70720",
+    "open": "70823.94",
+    "change": "0.04",
+    "datetime": "2026-03-19 06:00:00"
+  },
+  "indicators": {
+    "rsi": 30.96866,
+    "macd": -649.79676,
+    "macd_signal": -687.14302,
+    "sma20": 71351.424
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期区间波动]",
+      "content": "当前比特币/美元(BTC/USD)在70848.74附近震荡整理，价格波动较为平稳。近期价格接近SMA(20)的71351.42，暗示着短期内价格可能会维持在这一水平附近的震荡区间。当前市场情绪较为谨慎，缺乏强烈的买卖信号。\n\nMACD当前为负值(-649.80)，显示出空方力量的存在，但由于缺少信号线数据，短期趋势难以明确判断。RSI指标暂时不可用，进一步限制了对市场超买或超卖状态的判断。价格未突破重要的支撑或阻力位，表明市场处于等待新的推动因素。\n\n支撑位方面，当前低点70720附近可能会提供短期支撑，一旦突破可能会进一步下探至70500水平。上方阻力位在70968.02附近，若价格突破该点，可能会测试72000关口。建议投资者密切关注价格在这些区间的表现，以判断突破方向。\n\n在当前市场条件下，建议采取区间交易策略，待价格触及支撑或阻力位时考虑进出场。谨慎操作，避免在无明显趋势时做出过于激进的决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action over the past 24 hours shows a tightly confined range, hovering around $70,848 with minimal movement of 0.04%. The market is currently testing the upper bound near $70,968 while maintaining support close to $70,720. This narrow range indicates a consolidation phase, suggesting that market participants are indecisive at this price level. Trend-wise, the short-term momentum appears slightly bearish as the price trades below the 20-period simple moving average of $71,351, signaling potential resistance overhead.  \n\nFrom a technical indicator perspective, the MACD reading of -649.80 points to bearish momentum in the short term. Without a confirmed signal line or RSI value, the strength of the trend cannot be fully quantified, but the negative MACD suggests sellers currently outweigh buyers. Traders should monitor any MACD crossover toward zero for early signs of reversal. The lack of a decisive breakout either above the SMA or below recent support reinforces the view of consolidation rather than an active trend continuation.  \n\nKey support levels to watch include $70,720 and a psychological floor at $70,500, where buyers may step in if the price dips further. On the upside, immediate resistance resides at $71,351, aligning with the 20-SMA, and a stronger barrier near $71,500 could cap any short-term bullish move. Price action respecting these levels may present intraday trading opportunities, particularly for range-bound strategies such as scalping or swing trades, while breakouts beyond these points could indicate the start of a trend.  \n\nFor traders, cautious positioning is advised. Buying near support with tight stops under $70,500 could provide favorable risk-reward for short-term trades, while shorting near resistance with stops above $71,500 may capture retracements. Longer-term holders should await a confirmed break above the SMA and $71,500 for bullish confirmation or below $70,500 for bearish continuation. Overall, the market is poised in a low-volatility consolidation, awaiting a catalyst to define the next directional move."
+    }
+  }
+}
