@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-20T21:49:12.050Z",
+  "price": {
+    "close": "2144.56",
+    "high": "2157.32",
+    "low": "2130.5",
+    "open": "2133.3",
+    "change": "0.57",
+    "datetime": "2026-03-20 21:00:00"
+  },
+  "indicators": {
+    "rsi": 50.46847,
+    "macd": -6.31299,
+    "macd_signal": -7.89811,
+    "sma20": 2140.208
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多",
+      "content": "当前以太坊价格位于2144.56美元，接近20日简单移动均线(SMA20)2140.21美元，显示价格在均线附近震荡整理，短期趋势偏多但缺乏强势突破信号。日内高低点2157.32/2130.5美元表明多空双方仍在博弈，市场尚未形成明确方向。\n\nMACD指标显示主线为-6.31，处于零轴下方，尽管显示空头压力，但未出现明显背离或加速下跌迹象，暗示短期回调可能有限。若结合缺失RSI数据，可推测市场动能相对中性，价格震荡概率较高，需要关注成交量变化以确认趋势强度。\n\n支撑位方面，2130美元附近是近期低点支撑，如跌破可能引发进一步下探至2120美元区域。阻力位则在2157美元附近，如能有效突破并站稳，可打开上行空间至2170美元。均线支撑提供了短期技术底部参考。\n\n交易策略上，短线可考虑逢低布局多单，止损设置在2128美元下方，以防快速回调。若价格突破2157美元阻力，可顺势加仓多头；反之，谨慎观望，避免在区间震荡中过度追高，以控制风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum/USD market is currently showing a relatively neutral short-term trend. The latest price of $2144.56 reflects a small 0.57% increase in the last 24 hours, suggesting stable price action without strong upward or downward momentum. The high and low range of $2157.32 to $2130.5 indicates low volatility within the past day. This suggests a potential consolidation phase, with the market finding balance around the $2140 level, reflected by the 20-period simple moving average (SMA) of $2140.21.\n\nLooking at the support and resistance levels, the immediate support is found around the $2130 level, where the price has recently tested and bounced back. If the price moves below this level, we could see further downside with the next major support at $2100. On the resistance side, the price has recently encountered selling pressure at $2157.32. If this level is breached, the next resistance zone lies closer to $2180, which would signal a stronger upward movement.\n\nThe Relative Strength Index (RSI) is unavailable at the moment, making it challenging to gauge overbought or oversold conditions. Similarly, the MACD reading at -6.31299 suggests a slight bearish bias, but without the signal line, it's difficult to assess whether this momentum is gaining or losing strength. Given this, the market could be in a waiting pattern, awaiting clearer signs from other indicators before committing to a more decisive move.\n\nFor traders, a cautious approach seems prudent in the current market. A breakout above $2157 could open up opportunities for long positions, targeting $2180 as the next resistance. Conversely, if the price fails to hold above $2130, short positions could be considered, with a potential target near $2100. Managing risk with tight stop losses near support and resistance levels is essential."
+    }
+  }
+}
