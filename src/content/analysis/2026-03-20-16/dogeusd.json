@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-03-20T16:43:22.325Z",
+  "price": {
+    "close": "0.09373",
+    "high": "0.09443",
+    "low": "0.09359",
+    "open": "0.09423",
+    "change": "-0.49",
+    "datetime": "2026-03-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 46.10241,
+    "macd": -0.00011123025,
+    "macd_signal": -0.00012861107,
+    "sma20": 0.094045
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期偏弱震荡",
+      "content": "当前狗狗币价格徘徊于 $0.09373$ 附近，较 SMA(20) $0.094045$ 略低，显示短期均线压力仍在，市场存在轻微下行倾向。24小时内波动幅度有限，价格在 $0.09359$ 至 $0.09443$ 区间震荡，表明多空力量相对均衡，但略偏空头。  \n\nMACD 当前为负值 $-0.00011123$，虽然 Signal 不可用，但负值暗示短期空头动能占优，价格可能面临进一步下探压力。缺少 RSI 数据限制了超买超卖判断，但结合价格低于 SMA 可初步判定市场处于弱势整理阶段。  \n\n支撑位方面，短线关注 $0.0935$ 附近，若跌破可能引发加速下行；阻力位则在 $0.0944$ 附近，若突破则有机会重返震荡上行格局。成交量若能放大并突破阻力，将进一步确认多方反攻意图。  \n\n交易策略上，短线投资者可考虑区间操作，靠近支撑轻仓做多，触及阻力可适度减仓或短线获利；激进交易者可等待 MACD 出现金叉或价格稳稳站上 SMA20 后再加码。总体上，建议以控制风险为主，谨防短期波动带来的追高风险。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current market for Dogecoin (DOGE/USD) is displaying slight bearish pressure with a minor 24-hour decline of 0.49%. The price has hovered between the daily high of 0.09443 and low of 0.09359, signaling a relatively stable range, but still within a narrow corridor. A closer look reveals that the asset is trading just below its 20-period Simple Moving Average (SMA) of 0.09405, suggesting a short-term downtrend. The SMA often acts as a key dynamic resistance level, and a break above this could indicate a potential reversal or continuation of upward momentum. However, the price staying below it may reinforce further bearish action.\n\nLooking at the MACD indicator, the negative value of -0.000111 indicates the presence of downward momentum, though without a clear Signal line available, it’s difficult to gauge a strong trend. The MACD’s current state suggests that the selling pressure is still intact, but the absence of a clear Signal line also implies uncertainty. Investors should watch for any divergence in the MACD, as a crossover above zero could provide confirmation of a shift in momentum toward the upside. However, traders must remain cautious as the lack of momentum indicators can indicate a consolidation phase rather than a clear trend.\n\nKey support is located at 0.09359, where price action has recently rebounded. If this support fails, the next potential level lies at 0.09250, which could trigger further selling pressure. On the upside, resistance is currently seen at 0.09443. A break above this would suggest a bullish move, with further resistance likely around 0.09500. For short-term traders, entering long positions at support levels or short positions at resistance levels could be considered, with a focus on a breakout or a breakdown from the established range.\n\nGiven the current technical setup, traders may want to exercise caution and wait for additional confirmation before making significant moves. A break above 0.09443 could trigger a more bullish outlook, while a drop below 0.09359 would likely keep the bearish sentiment intact. With the market lacking a clear trend, a range-bound strategy would likely be prudent for now."
+    }
+  }
+}
