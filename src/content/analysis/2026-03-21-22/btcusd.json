@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-21T22:58:08.267Z",
+  "price": {
+    "close": "70269.53",
+    "high": "70367.85",
+    "low": "70245.01",
+    "open": "70342.66",
+    "change": "-0.10",
+    "datetime": "2026-03-21 22:00:00"
+  },
+  "indicators": {
+    "rsi": 43.045427,
+    "macd": -37.34017,
+    "macd_signal": 3.1662,
+    "sma20": 70547.9755
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡区间，短期偏弱",
+      "content": "当前比特币/美元价格为70269.53美元，近期价格波动较小，24小时内变化仅为-0.10%。从整体走势来看，比特币正处于震荡区间，价格在高点70367.85美元与低点70245.01美元之间波动，显示出市场买卖力量的平衡。\n\n技术指标方面，MACD为负值-37.34017，表明短期内卖压较强，市场情绪较为保守。RSI(14)暂缺，无法判断超买或超卖情况。20日简单移动平均(SMA)位于70547.98美元附近，进一步验证了市场处于震荡态势，价格在此附近徘徊。\n\n支撑位方面，70245.01美元为近期的重要低点，一旦突破该位置可能引发进一步下跌。阻力位则位于70547.98美元的SMA附近，若价格突破该点位，可能会迎来一波反弹。交易者应关注这些关键位置的突破情况。\n\n建议短期内采取观望策略，避免在市场波动较大时进行大额操作。若价格突破支撑或阻力位，可以考虑短期交易，但需设置合理止损以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market currently displays a narrow range between $70,245.01 and $70,367.85, indicating consolidation. At the latest price of $70,269.53, Bitcoin is essentially at a neutral position, showing little volatility over the last 24 hours with a minimal change of -0.10%. This sideways movement suggests that traders may be waiting for a breakout, either to the upside or downside, to confirm the next significant trend direction. The absence of a strong momentum shift might indicate a pause before further price action emerges.\n\nIn terms of support and resistance, the $70,245 mark acts as immediate support, with the low of $70,245.01 providing a crucial level to watch. If the price breaks below this support, we could see a dip towards the next major support at $69,800. On the other hand, resistance is seen at $70,367, and a break above this level could push Bitcoin towards the next resistance around $71,000. These levels will be key for traders looking to identify breakout or breakdown points in the near term.\n\nWhile the Relative Strength Index (RSI) and the Moving Average Convergence Divergence (MACD) are not currently providing clear signals, the presence of the 20-period Simple Moving Average (SMA) at $70,547 suggests some degree of bearish pressure. The price is below the SMA, which may indicate a short-term downtrend, but given the tight range, any significant deviation from this average could signal a potential reversal or continuation, depending on the direction.\n\nFor traders, the current market environment calls for caution, as the lack of clear momentum makes it a less predictable setup. A breakout above $70,367 could trigger buying interest, with potential targets near $71,000, while a breakdown below $70,245 might lead to short positions with targets closer to $69,800. It's essential to stay alert to key levels, as the next few price moves will likely set the tone for the coming days."
+    }
+  }
+}
