@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-21T19:03:25.526Z",
+  "price": {
+    "close": "70405.99",
+    "high": "70413.92",
+    "low": "70363.73",
+    "open": "70363.73",
+    "change": "0.07",
+    "datetime": "2026-03-21 19:00:00"
+  },
+  "indicators": {
+    "rsi": 46.94491,
+    "macd": -9.84195,
+    "macd_signal": 32.27849,
+    "sma20": 70588.8605
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，偏向观望",
+      "content": "当前BTC/USD价格位于$70405.99，接近20日简单移动平均线SMA(20) $70588.86，显示短期价格在均线附近震荡。全天波动幅度有限，高低点差仅约$50，市场缺乏明确方向，短期趋势呈横盘整理状态。  \n\nMACD指标当前为-9.84195，仍处于零轴下方，显示动能偏弱，空头压力尚存。然而信号线数据缺失，需关注下一步交叉变化以判断潜在反转或延续。RSI指标未提供，但结合价格走势和波动幅度，可推测市场处于中性偏弱区间。  \n\n支撑位初步锁定在$70360附近，如跌破可能触及$70200区域；阻力位则在$70590上方，若有效突破则短线可能上探$70750。当前价格在关键均线附近徘徊，波动小，市场短线交易风险相对集中。  \n\n建议短线交易者保持观望，等待突破信号确认后再入场。偏好稳健策略者可在支撑位附近小幅布局多单，止损控制在$70350下方；激进交易者可关注突破阻力后的跟随上行机会，同时注意快速止盈以降低回撤风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action around $70,405 indicates a period of consolidation after recent upward momentum. The narrow daily range between $70,363 and $70,413 reflects a lack of decisive direction, suggesting traders are weighing potential breakout or reversal scenarios. While the price remains slightly below the 20-period simple moving average at $70,588, this indicates short-term resistance, with the SMA acting as a dynamic ceiling. Market sentiment appears cautious, with limited volatility preventing clear trend dominance.\n\nThe MACD reading of -9.84195 points to mild bearish pressure, although the absence of a signal line limits the ability to confirm momentum shifts. Without a reliable RSI, assessing overbought or oversold conditions is challenging, but the minimal 24-hour change of 0.07% hints at equilibrium between buyers and sellers. Traders may interpret this stagnation as a pause before a stronger directional move, emphasizing the importance of observing upcoming volume and price action for confirmation.\n\nKey support appears near $70,350, where recent lows suggest buying interest may reemerge. Resistance is concentrated around $70,590, aligning closely with the SMA(20), which could act as a pivot for short-term trades. A sustained breach above this level could signal renewed bullish momentum, while a drop below support might trigger a corrective pullback toward lower levels. Price clustering around these zones emphasizes the importance of tight risk management.\n\nGiven the current technical landscape, short-term traders may consider range-bound strategies, buying near support and taking profits near resistance. Momentum traders should wait for confirmation, such as a decisive MACD crossover or breakout above the SMA, before committing. Conservative positions could benefit from stop-losses slightly below support to mitigate potential downside risk while remaining poised to capture upside opportunities if bullish momentum resumes."
+    }
+  }
+}
