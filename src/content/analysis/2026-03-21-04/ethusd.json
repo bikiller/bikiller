@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-21T04:19:52.712Z",
+  "price": {
+    "close": "2156.3",
+    "high": "2158",
+    "low": "2153.08",
+    "open": "2153.08",
+    "change": "0.14",
+    "datetime": "2026-03-21 04:00:00"
+  },
+  "indicators": {
+    "rsi": 55.03234,
+    "macd": 0.826246,
+    "macd_signal": -2.31501,
+    "sma20": 2141.777
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，待突破关键点]",
+      "content": "目前，ETH/USD价格保持在2156.3附近，显示出市场的震荡整理格局。价格波动相对较小，24小时变化为0.14%。在此阶段，市场情绪较为平稳，未出现明显的上涨或下跌趋势。当前走势缺乏明显的推动力量，可能会在一定区间内盘整。\n\n从技术指标来看，MACD的当前值为0.82624600，但由于Signal数据缺失，无法准确判断趋势强度。RSI未提供，但结合SMA(20)在2141.777的支撑位，市场可能会继续在此区间震荡。价格若突破2158高点，可能会测试更高的水平，而若跌破2153.08的低点，则可能会面临进一步回调。\n\n在支撑和阻力方面，2153.08为近期低点，是短期内的关键支撑位。若价格跌破此位置，则可能进一步向下测试2140附近的支撑。反之，2158则是重要的阻力位，突破后可能出现上行动力，目标位可看至2170附近。\n\n对于短期交易者，建议关注2153.08和2158的突破情况。若价格突破2158并站稳，则可以考虑适度买入，目标价位在2170附近。反之，若跌破2153.08，则应考虑做空，止损设置在2158附近。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $2156.3, showing a slight increase of 0.14% over the past 24 hours. The price has remained within a tight range between $2158 and $2153, suggesting a period of consolidation. This price action indicates indecision in the market, with traders awaiting a catalyst for a breakout. In the short term, the market appears neutral, and any major price movements will likely depend on upcoming macroeconomic events or shifts in market sentiment.\n\nLooking at the technical indicators, the absence of the RSI(14) and the Signal for the MACD makes it difficult to perform a full momentum analysis. However, the MACD value of 0.82624600 suggests some upward momentum, though this is not confirmed without the signal line for context. The lack of confirmation leaves room for price action to continue its consolidation. Traders should wait for a more definitive signal, especially when combined with any new information that could influence market sentiment.\n\nThe support level for Ethereum is situated around the low of $2153.08, which could act as a safety net should the market see a minor pullback. Below that, the next key support lies at the $2140 level. On the resistance side, the price has recently tested the $2158 level, which is acting as a temporary ceiling. A break above this level could signal a potential bullish breakout, targeting the next resistance zone near $2175. Watch for a decisive move beyond these levels for clearer direction.\n\nGiven the current range-bound behavior, traders should adopt a cautious stance. A breakout above $2158 could present a buying opportunity, with an immediate target of $2175. Conversely, a break below $2153 may suggest a move towards the lower support at $2140. Tight risk management should be in place, especially given the lack of clear momentum indicators at the moment."
+    }
+  }
+}
