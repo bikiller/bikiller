@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-21T10:58:54.087Z",
+  "price": {
+    "close": "70587.44",
+    "high": "70682.85",
+    "low": "70542.83",
+    "open": "70651.74",
+    "change": "-0.09",
+    "datetime": "2026-03-21 10:00:00"
+  },
+  "indicators": {
+    "rsi": 51.8936,
+    "macd": 80.10027,
+    "macd_signal": 59.82065,
+    "sma20": 70426.431
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期未见明确趋势]",
+      "content": "当前比特币/美元价格维持在70587.44美元附近，全天波动幅度较小，仅变化了0.09%。当前价格在70542.83和70682.85之间震荡整理，显示出市场情绪较为平稳，缺乏强烈的方向性推动。短期内，市场可能继续维持震荡整理的态势，等待更多信号确认未来的趋势。\n\n从技术指标来看，MACD为80.10027，处于较高水平，但未能形成明显的交叉信号，表明市场力量较强但尚未明确指向上涨或下跌。RSI值缺失，无法提供相应的超买超卖信号。SMA(20)处于70426.43，暗示近期的价格可能在此附近找到支撑。短期内，若价格跌破此水平，则可能会测试更低的支撑位。\n\n在支撑位方面，70542.83和70426.43是关键区域，若价格跌破这些支撑位，可能会引发进一步下行调整。上方的阻力位为70682.85和71000美元，若突破这些位置，则有望出现短期上涨行情。\n\n综合来看，当前比特币市场呈现震荡整理状态，建议交易者在价格未突破当前支撑或阻力位之前保持观望，等待更多技术信号明确趋势方向。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a subtle consolidation phase around the $70,500–$70,700 range. Price action indicates that bullish momentum is slowing, with the latest candle forming near the daily high but failing to sustain a breakout. The market seems to be respecting the 20-period simple moving average at $70,426 as a short-term support, which has held during intraday pullbacks. Overall, the trend appears cautiously bullish, though momentum indicators suggest a potential pause before a decisive move.\n\nThe MACD reading of 80.10, while not paired with a signal line, indicates underlying bullish pressure, but the absence of a clear divergence or cross limits the strength of this signal. Without a confirmed RSI, traders should monitor relative strength using shorter-term oscillators or intraday momentum. Price hovering above the SMA suggests trend continuity, but the flatness of the average warns of potential sideways movement. Market sentiment may shift quickly if the support zone near $70,400 is breached.\n\nKey support and resistance levels remain critical in guiding trade entries. Immediate support lies at $70,426, followed by a stronger floor around $70,000. On the upside, resistance is evident near the daily high at $70,682, with the next significant barrier around $71,000. Price rejection at these points could trigger retracements, whereas a break above $71,000 may resume the broader uptrend. Traders should watch volume patterns closely, as low-volume consolidation often precedes sharp directional moves.\n\nFor tactical positioning, short-term traders might consider light long positions near support with tight stop-losses below $70,400, aiming for intraday gains toward $70,700–$71,000. Conversely, cautious traders could wait for a confirmed breakout above resistance or a retest of the SMA to ensure trend sustainability. Risk management remains paramount, given Bitcoin’s historical volatility and the current lack of strong momentum confirmation. Patience and selective entries could optimize risk-reward opportunities."
+    }
+  }
+}
