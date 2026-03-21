@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-21T03:33:51.275Z",
+  "price": {
+    "close": "90.4",
+    "high": "90.59",
+    "low": "90.3",
+    "open": "90.45",
+    "change": "-0.03",
+    "datetime": "2026-03-21 03:00:00"
+  },
+  "indicators": {
+    "rsi": 62.61024,
+    "macd": 0.24653905,
+    "macd_signal": 0.080066257,
+    "sma20": 89.3755
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短线震荡，偏多整理",
+      "content": "当前SOL价格围绕90美元附近震荡，短期趋势呈现横盘整理态势。价格略高于20日简单移动平均线(SMA20≈89.38)，显示中短期买盘存在一定支撑，但涨势尚未形成明显突破，市场仍在观望中。日内波动幅度有限，高低点分别为90.59与90.3，说明多空力量相对平衡。  \n\nMACD指标显示多头动能仍在积累，数值为0.2465，尽管信号线暂未提供参考，但当前柱状图偏正，暗示上行动能略占优。若RSI可用，结合超买超卖区间可进一步确认短期强弱，但目前仅能依赖价格与均线配合判断。  \n\n关键支撑位在89.0至89.5区域，若价格跌破该区间，短线下行风险加大；阻力位在91.0至91.5附近，如能有效突破，将打开进一步上涨空间。成交量若伴随突破，将增强行情延续性，否则仍可能回落测试支撑。  \n\n交易上，建议短线投资者可在支撑附近适度布局多单，止损设置略低于88.8；若价格突破阻力并伴随放量，可考虑加仓顺势跟进。激进交易者可关注区间高低点差进行波段操作，但需控制仓位，避免震荡行情中的反向风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 90.4\\n- 24h Change: -0.03%\\n- High/Low: 90.59 / 90.3\\n- RSI(14): N/A\\n- MACD: 0.24653905, Signal: N/A\\n- SMA(20): 89.3755\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$90.4** suggests a **consolidation phase** after a modest pullback. The recent 24‑hour range of **$90.30–$90.59** reflects tight trading, hinting at indecision between bulls and bears. With the current price slightly above the 20‑period simple moving average (**SMA(20) ~89.38**), short‑term momentum leans mildly bullish, but the lack of strong directional movement suggests that breakout confirmation is still pending.\n\nIndicator interpretation is mixed. The **MACD histogram reading of ~0.2465** implies underlying bullish pressure, but without a clearly defined signal line crossover, its strength remains uncertain. The absence of an **RSI(14)** reading limits visibility into overbought or oversold conditions, yet price hugging the SMA indicates equilibrium between buyers and sellers. Traders should watch for MACD convergence or divergence relative to price, which could foreshadow sustained moves.\n\nKey levels to watch include support near the **$88.50–$89.00** zone, anchored by the SMA and recent consolidation lows. A break below this area might open the door to deeper retracements toward **$85.00**, a psychologically relevant level. On the upside, resistance around **$92.50–$93.00** represents a meaningful barrier — a decisive move above it could signal a return to more sustained upside momentum, potentially targeting **$95.00** and higher.\n\nIn terms of actionable guidance, short‑term traders might consider range‑based strategies, buying near support and trimming positions toward resistance until a clear trend emerges. Breakout traders can set entries above **$93.00** with tight stops, aiming for momentum continuation. Conversely, a failure to hold **$88.50** could justify bearish positions, with risk management anchored to recent structure. Always balance position size with volatility, as Solana’s price can shift quickly when sentiment changes."
+    }
+  }
+}
