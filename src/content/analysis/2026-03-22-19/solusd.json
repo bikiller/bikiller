@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-22T19:07:17.092Z",
+  "price": {
+    "close": "86.93",
+    "high": "87.03",
+    "low": "86.72",
+    "open": "87.01",
+    "change": "-0.10",
+    "datetime": "2026-03-22 19:00:00"
+  },
+  "indicators": {
+    "rsi": 35.77993,
+    "macd": -0.53215581,
+    "macd_signal": -0.53804694,
+    "sma20": 87.5885
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短期震荡偏弱",
+      "content": "当前SOL/USD价格在86.93附近徘徊，较日内高点87.03和低点86.72波动有限，显示短期市场多空力量相对均衡，但稍偏空头。价格低于20日均线87.59，暗示近期多头动能略显疲软，短线可能承压整理。  \n\nMACD指标为-0.532，位于零轴下方，表明空头力量占优，但信号线尚未完全明确，显示下行动能存在，但未形成加速。由于RSI数据缺失，超买超卖状态不完全明确，建议结合价格形态和成交量观察短期压力点。  \n\n关键支撑位在86.70附近，如跌破可能测试86.20-86.00区域；阻力位在87.50-87.60区间，突破后有望短线回升至88美元上方。价格在支撑附近有一定反弹概率，若连续下破支撑，则需警惕进一步回调。  \n\n交易上，短线投资者可关注支撑区域的低吸机会，设置严格止损，防止突破支撑后的下行风险；激进策略可在阻力位附近减仓或短空，以防压力区间反复承压。整体来看，SOL短期偏弱震荡为主，操作需谨慎并关注关键均线和支撑位置。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 86.93\\n- 24h Change: -0.10%\\n- High/Low: 87.03 / 86.72\\n- RSI(14): N/A\\n- MACD: -0.53215581, Signal: N/A\\n- SMA(20): 87.58850\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s recent price action around **$86.93** suggests a cautious short-term picture as the market lacks strong directional momentum. The slight **24‑hour decline of -0.10%** and the clustering between **$87.03 high and $86.72 low** indicate consolidation rather than a decisive breakout. Price trading below the **20‑period simple moving average (~87.59)** hints at mild bearish bias, but the horizontal price range suggests bulls and bears are in a temporary standoff.\n\nThe **MACD reading at -0.532** with an undefined signal line points toward continued bearish momentum, though without complete MACD data, the strength of that signal is muted. If the MACD histogram remains negative or expands further below zero, bearish pressure could intensify. The absence of an **RSI reading** limits momentum assessment, but price behavior near the SMA without clear divergence implies limited buying enthusiasm at current levels.\n\nKey technical levels to watch are **support near $86.50–$86.00**, the recent swing lows where buyers previously stepped in, and **resistance around $88.50–$89.00**, where sellers had stifled advances. A decisive break above the 20‑SMA and resistance zone could attract short‑term longs targeting the next psychological boundary near **$90**. Conversely, a breakdown below $86.00 would open space toward lower supports near **$83–$82** where longer‑term buyers might reengage.\n\nFor traders, a range‑bound strategy with disciplined entries and stops is sensible until a clear trend emerges. Consider buying dips toward **$86.00** with tight stops under that level while scaling out near **$89–$90**. Aggressive traders could watch for a clean MACD crossover back above zero as a buy signal; those more risk‑averse might wait for price confirmation above the 20 SMA before committing."
+    }
+  }
+}
