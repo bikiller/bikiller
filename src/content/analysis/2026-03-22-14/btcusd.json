@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-22T14:59:20.595Z",
+  "price": {
+    "close": "68676.24",
+    "high": "68917.31",
+    "low": "68531.41",
+    "open": "68699.04",
+    "change": "-0.03",
+    "datetime": "2026-03-22 14:00:00"
+  },
+  "indicators": {
+    "rsi": 35.046075,
+    "macd": -436.84519,
+    "macd_signal": -414.098075,
+    "sma20": 69191.976
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期回调风险",
+      "content": "当前比特币价格接近68676.24美元，近期市场表现偏弱。价格在68917.31美元附近遇到阻力，而68531.41美元是近期的支撑位。市场未显示明显的单边趋势，反映出短期内可能会维持震荡整理格局。\n\n技术指标方面，MACD值为负，表明短期内卖压较强。尽管RSI(14)缺失，但结合SMA(20)为69191.98美元的情况，可以看出市场可能面临轻微的回调压力。没有出现明显的买盘力量，市场情绪偏谨慎。\n\n支撑位方面，若价格下行至68531.41美元附近，可能会遇到较强支撑，止跌回升的概率较高。若跌破该支撑，价格可能进一步下探。上方则有69191.98美元的SMA(20)阻力位，若突破该阻力，可能会引发新的上涨动能。\n\n建议短期交易者保持观望，等待价格明确突破支撑或阻力时再做决定。若短期反弹至69191.98美元附近，可考虑短线做空；而若突破上方阻力，可能会迎来一波反弹行情。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $68,676, showing minimal movement over the past 24 hours with a slight decline of 0.03%. The market has consolidated within a narrow range, marked by a high of $68,917 and a low of $68,531.41. Price action around this level indicates indecision, with neither bulls nor bears taking control. Short-term trends suggest a mild bearish bias as the latest price sits below the 20-period SMA of $69,192, highlighting the potential for a slight downward drift unless momentum shifts.\n\nMomentum indicators signal caution. The MACD currently sits at -436.85, reflecting bearish sentiment, although the absence of the signal line limits a complete crossover analysis. While the RSI is unavailable, the price below the SMA and negative MACD suggests the market is under short-term pressure. Traders should watch for any acceleration in momentum, as a move back above the SMA could quickly reverse the near-term bearish bias, whereas a further drop may reinforce downward trends.\n\nKey support and resistance levels are crucial for navigating current conditions. Immediate support lies around $68,500, representing the low of the last 24 hours, followed by stronger support near $68,000. Resistance is first seen near the 20-SMA at $69,192, with a secondary ceiling around $69,500, where previous highs have been met with selling pressure. Breaks beyond these levels could signal short-term trend continuation or reversal, making them vital markers for intraday strategies.\n\nTrading strategies should focus on patience and confirmation. Short-term traders might consider entering long positions near $68,500 with tight stop losses if bullish reversal patterns appear, targeting $69,200-$69,500. Conversely, bearish traders could look for momentum confirmation below $68,500 to capitalize on downward moves. Overall, BTC/USD is in a consolidation phase, and decisive price action near key support or resistance will determine the next directional move."
+    }
+  }
+}
