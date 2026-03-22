@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-22T09:52:51.624Z",
+  "price": {
+    "close": "87.35",
+    "high": "87.65",
+    "low": "87.18",
+    "open": "87.36",
+    "change": "-0.01",
+    "datetime": "2026-03-22 09:00:00"
+  },
+  "indicators": {
+    "rsi": 34.58816,
+    "macd": -0.54081931,
+    "macd_signal": -0.39510605,
+    "sma20": 88.768
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 87.35\\n- 24小时变化: -0.01%\\n- 高点/低点: 87.65 / 87.18\\n- RSI(14): N/A\\n- MACD: -0.54081931, Signal: N/A\\n- SMA(20): 88.768\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏弱但关注支撑反弹\n\n当前价格围绕87.35震荡，短线趋势偏震荡整理。价格低于20日均线88.768表明短期承压，未形成明显上升动能，需关注价格是否继续下破或企稳反弹。\n\n技术指标上MACD处于负值区域（-0.5408），显示空方动能仍在，但缺乏Signal线确认使信号不够明确。若未来形成MACD上穿Signal，则可能提示下跌动能衰竭。\n\n关键支撑位看向87.00心理位及86.50前低，若跌破则可能扩展至85.00区域；主要阻力位在88.70-89.20附近，突破该区域有助于重拾多头节奏。\n\n建议短线交易者在支撑区域观察反弹信号再布局多单，止损设在关键支撑下方；波段交易者等待明确突破均线及指标确认后再进场，控制仓位管理风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 87.35\\n- 24h Change: -0.01%\\n- High/Low: 87.65 / 87.18\\n- RSI(14): N/A\\n- MACD: -0.54081931, Signal: N/A\\n- SMA(20): 88.768\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s short‑term trend currently shows a mild bearish bias as price hovers below the 20‑day simple moving average. The recent price range between **$87.18–87.65** reflects indecision after a small negative drift. A break convincingly below **$87.00** could signal deeper corrective pressure toward the next support cluster near **$83–$85**. Conversely, reclaiming and closing above the SMA(20) would be the first step toward strengthening bullish conviction.\n\nAlthough we lack a current RSI reading, the available momentum data points to caution. The negative MACD reading suggests bearish momentum is still present even if modest. Without a positive signal crossover and with the price beneath its short‑term average, the bias remains tilted toward sellers in the near term. Traders should watch for a MACD histogram contraction or a turn toward positive territory as an early sign of fading downside pressure.\n\nKey support sits near **$85**, with a secondary layer of support near **$80**, where historical volume and previous swing lows tend to cluster. Resistance is immediate at **$88.50–$89.50**, followed by stronger resistance up near the recent swing high around **$92–$93**. These levels can help frame risk management: stops beneath support, and partial profit targets near each resistance zone if entering longs.\n\nGiven current dynamics, more conservative traders might prefer to wait for clearer directional confirmation. A sustainable move above the SMA(20) with expanding volume could justify a long entry with tight risk controls. Shorter‑term traders might consider range plays between support and resistance, keeping stops tight and adjusting positions if momentum indicators shift toward oversold or overbought conditions."
+    }
+  }
+}
