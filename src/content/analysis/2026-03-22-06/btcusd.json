@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-22T06:09:06.015Z",
+  "price": {
+    "close": "69092.92",
+    "high": "69161.4",
+    "low": "69063.99",
+    "open": "69142.84",
+    "change": "-0.07",
+    "datetime": "2026-03-22 06:00:00"
+  },
+  "indicators": {
+    "rsi": 30.64001,
+    "macd": -370.55147,
+    "macd_signal": -276.87689,
+    "sma20": 69930.97
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前比特币价格在$69092.92$附近徘徊，较24小时内波动幅度极小，呈现明显的短期震荡格局。虽然价格接近20日简单移动平均线SMA(20) $69930.97$，但仍处于其下方，显示中短期空头压力仍在，趋势偏弱。  \n\nMACD指标显示为$-370.55$，未提供信号线参考，但负值表明短期动能处于下行状态，多空力量对比偏向空方。缺乏RSI数据限制了超买超卖判断，但结合价格位置与均线，可以推测市场尚未出现超卖反弹迹象。  \n\n支撑位方面，近期低点$69063.99$构成第一支撑，如果跌破则可能进一步测试$68800$附近心理关口；阻力位在SMA(20) $69930$及上方$70000$整数关口，短线反弹受阻可能性较大。投资者需关注价格与均线交互及关键支撑破位情况。  \n\n交易策略上，短线可考虑低位观望或轻仓逢低做多，止损设置略低于$69000$；反弹接近SMA(20)或$70000$可逐步减仓或短线获利了结。整体来看，短期波动幅度有限，但空头压力仍存，操作需保持谨慎。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price is currently in a narrow consolidation phase around $69,092, reflecting a 24-hour change of -0.07%. This tight price action suggests that the market is waiting for a catalyst to drive the next major move. The recent high at $69,161.4 and low at $69,063.99 indicate minimal volatility, which could be signaling indecision among traders. If this low-range consolidation continues, it may eventually lead to a breakout in either direction.\n\nOn the technical front, Bitcoin's RSI(14) is unavailable, leaving us without a clear momentum indicator. The MACD reading of -370.55, though negative, shows that bearish pressure is present, but with no significant momentum behind it, indicating a weak downtrend. With no significant trend reversal signals, BTC/USD might continue to oscillate within its current range unless we see stronger buying or selling pressure emerge.\n\nSupport levels can be identified at $69,063, where the recent low has held. A break below this support would open the door for a deeper pullback, potentially testing lower levels around $68,500 or $68,000. On the resistance side, the SMA(20) at $69,930 is serving as an initial resistance point. If the price breaks above this level, it could signal a short-term bullish reversal with the potential to test previous highs near $70,500.\n\nGiven the current market conditions, traders might consider waiting for a breakout above $69,930 or a breakdown below $69,063 for clearer price action. Intraday traders could look for short-term scalping opportunities, while longer-term investors might want to monitor for confirmation of a trend shift before entering any new positions. Risk management will be key, as the market remains range-bound and prone to sudden volatility."
+    }
+  }
+}
