@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-22T03:47:39.976Z",
+  "price": {
+    "close": "69318.01",
+    "high": "69577",
+    "low": "69108.49",
+    "open": "69268.36",
+    "change": "0.07",
+    "datetime": "2026-03-22 03:00:00"
+  },
+  "indicators": {
+    "rsi": 34.060161,
+    "macd": -342.95421,
+    "macd_signal": -198.51683,
+    "sma20": 70144.242
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱整理",
+      "content": "当前价格处于69300附近，整体仍运行在短期均线下方，显示市场动能偏弱。日内波动幅度收窄，说明多空双方进入观望阶段，短期趋势以震荡整理为主，略带下行压力，尚未形成明确反转信号。  \n\n从技术指标看，价格低于SMA(20)约70000上方，表明中短期趋势偏空。MACD处于负值区域，动能柱延续弱势，暗示空头仍占主导。RSI数据缺失，但结合价格结构，市场处于弱势震荡区间，缺乏强势买盘推动。  \n\n关键支撑位关注69100一线，为日内低点附近，若跌破可能测试68800甚至更低区域。上方阻力位在70000至70200区间，该区域同时对应均线压制，一旦有效突破，才有望打开反弹空间。  \n\n操作上建议以区间交易思路为主，短线可在支撑附近轻仓尝试低吸，但需严格止损；若反弹至70000上方受阻，可考虑高位减仓或短空。整体仓位控制为主，等待趋势明确后再进行方向性布局。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing signs of short-term consolidation around the $69,300–$69,600 range. The price remains below the 20-period simple moving average at $70,144, indicating mild bearish pressure in the near term. The recent high at $69,577 and low at $69,108.49 suggest a tight trading range, with the market struggling to gain upward momentum. This sideways action points to market indecision, often preceding a more pronounced directional move.  \n\nThe MACD value of -342.95 reflects underlying bearish momentum, despite the negligible 24-hour price change of 0.07%. Although the signal line is not provided, the negative MACD suggests that sellers currently outweigh buyers. Without RSI data, gauging overbought or oversold conditions is limited, but the price staying below the SMA hints that bulls need stronger support to regain control. Monitoring any MACD crossover could provide early entry or exit signals.  \n\nKey support lies near $69,100, which has held in recent sessions, while resistance is likely to emerge around $69,600–$69,600, with a stronger barrier at the SMA around $70,144. A breakout above $70,100 could trigger a short-term bullish run, while a decisive drop below $69,100 may accelerate downside pressure toward $68,500. Traders should remain alert to intraday volatility, as tight ranges often precede sharp movements.  \n\nFrom a tactical perspective, cautious traders may favor range-bound strategies, such as buying near support and trimming near resistance, while keeping stops just beyond these levels. Aggressive traders could watch for a confirmed breakout or breakdown from the current consolidation range to enter trending positions. Position sizing and risk management are crucial, as Bitcoin’s volatility can quickly reverse short-term gains. Patience and disciplined entry points remain key under the current market structure."
+    }
+  }
+}
