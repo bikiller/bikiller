@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-23T21:52:52.789Z",
+  "price": {
+    "close": "70923.31",
+    "high": "70986.13",
+    "low": "70804.69",
+    "open": "70901.43",
+    "change": "0.03",
+    "datetime": "2026-03-23 21:00:00"
+  },
+  "indicators": {
+    "rsi": 61.15392,
+    "macd": 611.48601,
+    "macd_signal": 478.71097,
+    "sma20": 69712.816
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，关注关键支撑与阻力",
+      "content": "比特币当前价格约为 $70,923，日内波动幅度极小，呈现横盘整理格局。价格位于20日简单移动平均线（SMA20）上方，显示短期多头仍占优势，但市场动能有限，需警惕突破乏力导致的回调风险。  \n\nMACD数值为611.48601，虽未提供信号线数据，但正值表明多头力量占优，价格可能维持震荡上行。若MACD柱线持续扩张，可进一步确认买方主导的趋势，但若出现收缩，则可能触发短线回落。  \n\n关键支撑位可参考近期低点 $70,804$，若价格跌破该水平，短期空头压力将增加。阻力位位于日内高点 $70,986$，突破后可能触发进一步上攻。交易者应关注价格在支撑与阻力之间的反复震荡，并结合量能判断突破的可信度。  \n\n综合来看，短线可偏向多头操作，但需控制仓位，建议在接近支撑位逢低布局，突破阻力时适度加仓，同时设好止损以防快速回撤。震荡行情下，追涨杀跌风险较高，保持谨慎和灵活调整策略是关键。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a subtle upward bias near $70,900, hovering just above the 20-period simple moving average at $69,713. The price remains within a narrow intraday range between $70,804 and $70,986, suggesting consolidation rather than strong directional momentum. While short-term volatility is low, the proximity above the SMA indicates underlying bullish sentiment, but traders should watch for a decisive break above $71,000 to confirm continuation of the uptrend or a drop below $70,500 to signal potential retracement.\n\nThe MACD reading of 611.49, although lacking the signal line for full confirmation, implies persistent positive momentum. In the absence of the RSI, momentum interpretation relies on price action relative to SMA and MACD. The upward sloping SMA reflects moderate buying interest, and the tight range may indicate accumulation ahead of a breakout. Technical traders may consider entering long positions on sustained moves above $71,000, with stop-losses slightly below the SMA to manage risk.\n\nKey support levels to monitor include $70,500 and the 20-period SMA at $69,713, providing buyers with potential entry zones in case of pullbacks. Resistance near $71,000 remains critical; a breakout here could open the path toward $71,500 and the psychological $72,000 mark. Conversely, a breakdown below support might trigger accelerated selling, testing $69,500 and possibly $69,000, emphasizing the importance of disciplined position management in this consolidating phase.\n\nFor trading strategy, cautious longs on confirmed breakouts above $71,000 with trailing stops are advisable, while scalpers may exploit the tight $70,800–$70,986 range using short-term reversals. Momentum-based traders should combine MACD crossovers with price above SMA for entries, while swing traders should watch for consolidation resolution. Overall, Bitcoin demonstrates mild bullish bias, but confirmation through breakouts or breakdowns is essential before committing larger positions."
+    }
+  }
+}
