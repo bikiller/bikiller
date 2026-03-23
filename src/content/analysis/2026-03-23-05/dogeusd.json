@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-03-23T05:32:40.516Z",
+  "price": {
+    "close": "0.09079",
+    "high": "0.09121",
+    "low": "0.09077",
+    "open": "0.09103",
+    "change": "-0.26",
+    "datetime": "2026-03-23 05:00:00"
+  },
+  "indicators": {
+    "rsi": 44.46113,
+    "macd": -0.00042984252,
+    "macd_signal": -0.00055282846,
+    "sma20": 0.090872
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：震荡整理中，短期看空",
+      "content": "目前DOGE/USD处于震荡整理阶段，价格维持在0.09077至0.09121区间内。虽然价格略有回调，但幅度较小，表明市场情绪仍较为谨慎。短期内缺乏强烈的上涨或下跌动能，整体趋势偏向震荡。\n\n从技术指标来看，MACD值为负，且没有明确的信号线交叉，显示出市场缺乏明确的趋势指引。当前的SMA(20)为0.09087，基本与现价持平，进一步验证了市场的盘整状态。RSI数据缺失，但如果补充数据，可能会有助于判断是否存在超卖或超买风险。\n\n在支撑和阻力位方面，0.09077附近的低点为短期支撑位，若价格跌破此位，则有可能进一步回测0.09000附近的更强支撑。上方的阻力位则在0.09121，突破此位后可能会重新测试0.09200区域的阻力。\n\n建议交易者在当前市场条件下保持谨慎，短期内可考虑在区间内进行短线操作，突破支撑或阻力后再决定是否进行更大幅度的交易。避免追高或追低，尤其在缺乏明确趋势信号的情况下。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The DOGE/USD market is currently showing a slight bearish momentum, as indicated by its 24-hour price change of -0.26%. The price is hovering near the low end of its daily range, with a recent high of 0.09121 and a low of 0.09077. This suggests the market may be experiencing a consolidation phase, with the current price positioned near key support levels. The lack of substantial upward movement points to a potential short-term downtrend unless a breakout occurs.\n\nIn terms of technical indicators, the MACD is slightly negative at -0.00043, hinting at weakening momentum. However, since the signal line data is not available, the overall trend is harder to confirm. The absence of RSI data means we lack insight into overbought or oversold conditions, making it crucial to watch for further signals from price action and volume. The market may remain neutral or mildly bearish until clearer directional indicators emerge.\n\nSupport for DOGE/USD is likely near the 0.09077 level, with a break below this point potentially leading to further declines toward 0.09000. On the upside, resistance is found at 0.09121, a level that has already held in the current trading session. Should the price breach this resistance, a potential rally could bring the price back toward the 0.0920 region. Traders should monitor these levels closely, as they are pivotal for gauging the market’s next move.\n\nFor traders, the current market conditions suggest a cautious approach. Given the relatively tight range and the negative MACD, it may be prudent to wait for confirmation of a breakout above resistance or a breakdown below support before taking significant positions. Day traders may find short-term opportunities by trading within this range, but patience is key to managing risks in the current market environment."
+    }
+  }
+}
