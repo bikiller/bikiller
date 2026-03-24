@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-03-24T13:04:37.247Z",
+  "price": {
+    "close": "637.98",
+    "high": "638.31",
+    "low": "637.4",
+    "open": "637.48",
+    "change": "0.08",
+    "datetime": "2026-03-24 13:00:00"
+  },
+  "indicators": {
+    "rsi": 54.46294,
+    "macd": 0.87713866,
+    "macd_signal": 0.59282081,
+    "sma20": 636.138
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏多，趋势谨慎上行",
+      "content": "当前BNB/USD价格徘徊在637.98附近，较日内高点638.31略低，显示短线多空力量接近平衡。价格位于20日简单移动均线(SMA20)636.14之上，表明短期均线支撑有效，多头存在一定承接。MACD柱状线为正且快速线0.877高于信号线，暗示动能仍偏向多方，但缺乏RSI数据需谨慎观察超买压力。  \n\n从支撑与阻力角度看，近期下方关键支撑位在636附近，跌破可能引发短期回调；上方阻力集中在638-640区间，突破后有望向645-650试探。价格在窄幅震荡中，呈现短线多空博弈特征，波动幅度有限但存在短期突破机会。  \n\n交易策略上，可考虑短线低吸高抛，利用支撑位进行多头尝试，同时在阻力位附近控制仓位和止盈。若价格突破638-640阻力，短线可顺势加仓，但需关注成交量配合以确认突破有效性。若跌破636支撑，建议及时止损或减仓以防快速下行。  \n\n总体来看，BNB/USD短期呈震荡偏多格局，技术面显示多头略占优势，但波动空间有限，操作上需结合风险控制和确认信号，避免追高追涨。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 637.98\\n- 24h Change: 0.08%\\n- High/Low: 638.31 / 637.4\\n- RSI(14): N/A\\n- MACD: 0.87713866, Signal: N/A\\n- SMA(20): 636.13800\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is currently exhibiting a mild bullish tone as price sits just above the 20‑period simple moving average at 636.14. The tight 24‑hour range and minimal change suggest consolidation, with the market digesting recent gains around the mid‑600s. This price action indicates that buyers are defending near‑term levels, but upside conviction remains tentative until a clearer breakout above short‑term resistance materializes.\n\nThe MACD reading remains positive at ~0.88, signaling that momentum is still skewed toward the bulls despite the lack of a signal line for confirmation. In the absence of an RSI reading, traders should be cautious about overstretched conditions; however, the fact that BNB is holding above its SMA(20) implies that the near‑term trend hasn’t flipped bearish. Should momentum accelerate, a cross into higher MACD territory could support further upside exploration.\n\nKey technical levels to monitor include immediate resistance around the recent high near 638.3–640.0. A clean break and sustained close above this zone could open the door toward 650 and beyond. On the downside, initial support sits near the 20‑period SMA and the intraday low around 637.4. A breach of these levels into the 630s could invite additional selling pressure, with stronger support clustered near 620–625.\n\nFor traders inclined to act, a range‑bound strategy may be appropriate in the near term, favoring long entries on defined support bounces and cautious profit targets near resistance. More aggressive participants might wait for a breakout above 640 with volume confirmation before scaling in, while risk‑averse traders could tighten stops below 635 to manage downside exposure."
+    }
+  }
+}
