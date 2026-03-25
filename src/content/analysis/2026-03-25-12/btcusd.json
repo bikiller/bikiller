@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-25T13:00:13.152Z",
+  "price": {
+    "close": "71684.85",
+    "high": "71935.2",
+    "low": "71110",
+    "open": "71673.96",
+    "change": "0.02",
+    "datetime": "2026-03-25 12:00:00"
+  },
+  "indicators": {
+    "rsi": 67.23612,
+    "macd": 347.18338,
+    "macd_signal": 235.8262,
+    "sma20": 70653.282
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期偏多]",
+      "content": "当前比特币价格维持在71684.85美元附近，整体波动较小，24小时变化仅为0.02%。从价格走势来看，近期处于震荡整理阶段，未出现明显的突破。短期内，价格可能会继续在71110至71935.2美元区间内波动。\n\n技术指标方面，RSI(14)暂时无法提供数据，而MACD指标显示出347.18的正值，表明市场动能偏强，但信号线未给出明确的超买或超卖信号。SMA(20)在70653.28美元附近，当前价格略高于此水平，进一步确认了近期的上行趋势。\n\n在支撑位方面，71110美元是一个关键支撑，若价格跌破此位，可能会引发更多的下行压力。阻力位则位于71935.2美元，若突破该水平，可能会刺激更强的上行势头，目标位有望进一步向73000美元靠近。\n\n综合来看，尽管市场仍在震荡整理，但整体偏向多头。建议投资者在价格接近支撑位时寻找低位买入机会，并设置合理的止损位以应对可能的回调。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD pair is currently trading at $71,684.85, experiencing a marginal 24-hour change of 0.02%. This suggests a period of consolidation, with minimal volatility over the past day. The price has been moving between a high of $71,935.20 and a low of $71,110, reflecting a tight range. The lack of significant movement indicates a market indecision, which could precede a more substantial breakout. The recent high could be tested again, with a break above potentially signaling bullish momentum.\n\nFrom a technical perspective, the current price remains above the 20-period simple moving average (SMA) of $70,653.28, indicating that the prevailing trend is still bullish. The SMA provides dynamic support and could act as a floor in case of price corrections. If the price begins to dip toward this level, traders might view it as a buying opportunity, provided there is no strong breakdown below this support. Any fall beneath the SMA could trigger further selling pressure, potentially reaching the low $70,000s.\n\nThe Relative Strength Index (RSI) is unavailable at the moment, which limits our ability to assess whether the market is overbought or oversold. However, the MACD value at 347.18 suggests some bullish momentum, but without a clear signal line for confirmation, it’s challenging to assert the strength of this signal. Traders should remain cautious and await further confirmation from additional indicators to determine whether the market can sustain its upward trajectory.\n\nFor now, immediate support lies around the $71,110 mark, with the resistance level coming in just under $72,000. A breakout above $72,000 would confirm the continuation of the bullish trend. On the other hand, if BTC/USD fails to hold above its current range and moves below the SMA, it could face a retest of lower levels. Traders should keep an eye on volume, as any surge could precede a stronger move in either direction."
+    }
+  }
+}
