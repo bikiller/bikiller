@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-03-25T15:53:06.126Z",
+  "price": {
+    "close": "0.09611",
+    "high": "0.09695",
+    "low": "0.09556",
+    "open": "0.09689",
+    "change": "-0.81",
+    "datetime": "2026-03-25 15:00:00"
+  },
+  "indicators": {
+    "rsi": 53.84935,
+    "macd": 0.00077326775,
+    "macd_signal": 0.00079191754,
+    "sma20": 0.0960045
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏弱",
+      "content": "从价格走势来看，DOGE/USD在0.096附近震荡，近期高低点波动幅度有限，短期整体呈现轻微下行压力。价格略高于20日均线(SMA20=0.0960045)，显示短期均线支撑仍在，但多空力量尚未明显分化。  \n\nMACD指标当前为0.000773，虽未提供信号线，但正值表明多头略占优势，动能尚在，但强度有限。缺少RSI数据限制了超买超卖判断，整体技术面显示价格可能延续小幅盘整或温和回调。  \n\n关键支撑位在0.0955附近，若跌破该水平，可能触发短线空头加速；阻力位位于0.0970-0.0972区间，若突破则有望回补上方缺口并测试0.098。交易者应关注价格在均线附近的承压与反弹情况。  \n\n操作策略上，短线可在支撑附近布局低吸，设置止损于0.0954下方；若价格突破阻力，可考虑顺势追多，但需控制仓位。总体而言，市场暂呈震荡偏弱格局，短线谨慎操作为宜。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently trading near $0.09611, showing a slight bearish bias with a 24-hour decline of 0.81%. Price action remains close to the 20-period simple moving average at $0.09600, suggesting a consolidation phase rather than a strong directional trend. The intraday high of $0.09695 and low of $0.09556 indicate a tight trading range, reflecting market indecision. Traders should watch for a breakout above the recent highs to confirm renewed bullish momentum or a drop below support for potential short-term weakness.\n\nMomentum indicators provide mixed signals due to incomplete data. The MACD at 0.0007733, while positive, lacks a corresponding signal line for confirmation, hinting that upward pressure exists but may not be decisive. The absence of a current RSI reading limits overbought or oversold insights; however, price hovering near the SMA implies equilibrium between buyers and sellers. Market participants should remain cautious and avoid aggressive positions until stronger indicator alignment emerges.\n\nKey support is positioned around $0.09550, aligning with recent swing lows. A break below this level could expose Dogecoin to further downside toward the $0.09450 zone. On the upside, resistance near $0.09695 and psychological barriers at $0.09750 may cap gains in the short term. These levels can serve as reference points for stop-loss placements or profit-taking, helping manage risk in a market that shows limited directional conviction at present.\n\nFrom a trading perspective, short-term strategies may favor range-bound tactics, buying near support and selling near resistance. Traders could consider small, incremental positions with tight stops, waiting for a confirmed trend breakout before committing to larger trades. Caution is advised as market volatility could accelerate if either support or resistance is decisively breached, potentially triggering stronger momentum moves that align with broader market sentiment in the crypto sector."
+    }
+  }
+}
