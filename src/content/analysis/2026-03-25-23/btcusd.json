@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-25T23:07:33.277Z",
+  "price": {
+    "close": "71352.38",
+    "high": "71442.34",
+    "low": "71334",
+    "open": "71341.93",
+    "change": "0.01",
+    "datetime": "2026-03-25 23:00:00"
+  },
+  "indicators": {
+    "rsi": 57.34857,
+    "macd": 144.97165,
+    "macd_signal": 168.16656,
+    "sma20": 71165.512
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理中，短期区间波动",
+      "content": "当前比特币/美元价格处于震荡整理阶段，价格在71334与71442区间内波动。整体趋势没有明显的上涨或下跌动能，市场情绪较为谨慎，可能因多空力量相对均衡。短期内，BTC/USD可能会继续在这个区间内震荡，直到市场出现更明确的方向。\n\n从技术指标来看，RSI(14)和MACD的缺失数据使得无法得出明确的超买或超卖信号。SMA(20)处在71165附近，若价格进一步突破该位置，可能会向上突破当前的震荡区间。但如果价格无法维持在这一水平之上，回落至71165下方可能会进一步承压。\n\n支撑位在71334，若价格跌破此位置，可能会引发进一步下行至71165附近。阻力位在71442附近，突破此价位后，可能会带来上行的动能，进一步测试更高价位。在当前区间内，投资者可考虑短期内低买高卖。\n\n交易建议：对于波动较小的市场，适合采取区间交易策略。关注支撑和阻力位的突破信号，突破后可采取顺势操作。同时建议保持一定的资金灵活性，避免大额仓位以应对市场的不确定性。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating around the $71,350 level, showing minimal 24-hour movement, which suggests market indecision. The narrow trading range between $71,334 and $71,442 indicates a short-term equilibrium between buyers and sellers. The trend appears cautiously bullish, as the price is hovering slightly above the 20-period simple moving average at $71,165, which provides underlying support. This suggests that despite the sideways price action, the market retains a mild upward bias.\n\nThe MACD reading of 144.97, although lacking a signal line for cross confirmation, indicates positive momentum remains in play. Traders should note that without an accompanying RSI, overbought or oversold conditions cannot be precisely gauged. Nonetheless, the proximity to the SMA(20) provides a dynamic support zone. A sustained break below this moving average may signal weakening bullish conviction, potentially leading to a short-term retracement towards $71,000 or lower support levels.\n\nImmediate resistance is observed near the intraday high of $71,442, which has capped recent price advances. A decisive breakout above this level could open the path to $71,800–$72,000, where previous consolidation zones may act as further resistance. Conversely, if price fails to hold above the SMA support and dips below $71,150, traders should anticipate increased volatility, with $71,000 serving as the next critical support threshold for intraday trades.\n\nFor tactical positioning, range-bound strategies such as buying near $71,150–$71,165 and targeting $71,400–$71,450 may be effective, while stop-loss placement below $71,000 can help manage risk. Momentum traders might wait for a confirmed MACD crossover or a breakout above $71,450 to enter longer positions. Overall, the market is balancing between cautious bullishness and consolidation, suggesting careful, measured trading until a decisive trend emerges."
+    }
+  }
+}
