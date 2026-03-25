@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-25T19:34:32.705Z",
+  "price": {
+    "close": "91.64",
+    "high": "91.98",
+    "low": "91.59",
+    "open": "91.66",
+    "change": "-0.03",
+    "datetime": "2026-03-25 19:00:00"
+  },
+  "indicators": {
+    "rsi": 50.316,
+    "macd": 0.31034713,
+    "macd_signal": 0.46221552,
+    "sma20": 92.029
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 91.64\\n- 24小时变化: -0.03%\\n- 高点/低点: 91.98 / 91.59\\n- RSI(14): N/A\\n- MACD: 0.31034713, Signal: N/A\\n- SMA(20): 92.029\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：区间震荡偏弱整理\n\n当前SOL价格在$91左右窄幅震荡，短线多空力量相对平衡，但20日均线略高于现价，表明短期偏弱整理态势。价格未能有效上破均线阻力，短期趋势仍需更多动量确认。\n\n技术指标方面，MACD柱体仍维持正值，显示一定多头动能残留，但因Signal缺失、RSI数据缺乏，动能强度不明，多头力度有限。若指标向下交叉，则可能加速调整。\n\n关键阻力位在$92.0附近，若突破该水平并稳住，可打开进一步上行空间；支撑位则关注$90.0和更下方$88.5区域，短线承压后可能迎来反弹机会。成交量若放大，可加强方向可信度。\n\n交易建议上，偏向区间操作，反弹接近阻力可考虑部分获利了结，回踩支撑可择机低多。严格设置止损，若下破$88则谨慎看空，确认趋势反转后再调整仓位。稳健者可等待明确方向信号再入场。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The current market for Solana (SOL) against the US Dollar shows a relatively stable price action, with the latest price sitting at $91.64, indicating a minor 24-hour drop of -0.03%. Over the past day, the price has oscillated between $91.59 and $91.98, suggesting low volatility. Given the narrow trading range, the market appears to be consolidating, possibly preparing for a breakout. A breakout above the recent high of $91.98 could indicate a continuation of bullish momentum, targeting the next significant resistance level around $93.00.\n\nLooking at the 20-period Simple Moving Average (SMA), which currently stands at $92.029, the price is trading slightly below this level. This suggests a mild bearish bias in the short term, as the price is underperforming relative to its recent average. The market could be facing a slight resistance at the $92.00 level. If SOL manages to break above the SMA, it may trigger renewed buying interest, testing the next resistance zone near $94.00. A failure to do so could lead to further consolidation or a possible test of lower levels.\n\nIn terms of support, the immediate area of interest lies around the $91.50 zone, just below the current market price. A breach below this level would bring $90.00 into focus as a potential support level. While the Relative Strength Index (RSI) and MACD figures are unavailable at this point, these indicators would usually provide useful confirmation for overbought or oversold conditions. If RSI were to enter overbought territory above 70, it would signal caution for bullish traders.\n\nConsidering the current setup, traders may want to stay patient, awaiting a clear price action breakout above $91.98 or a solid rejection around $92.00. Short-term traders might consider scalping small ranges, while swing traders may look for a more substantial move past resistance to confirm a bullish trend. Proper risk management, including stop-loss orders near $91.50 or lower, would be advisable in this tight range."
+    }
+  }
+}
