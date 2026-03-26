@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-03-26T02:02:39.505Z",
+  "price": {
+    "close": "0.268923",
+    "high": "0.268923",
+    "low": "0.268781",
+    "open": "0.268897",
+    "change": "-0.05",
+    "datetime": "2026-03-26 02:00:00"
+  },
+  "indicators": {
+    "rsi": 49.17583,
+    "macd": 0.00069210517,
+    "macd_signal": 0.0012661595,
+    "sma20": 0.2708894
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期横盘震荡，价格承压SMA",
+      "content": "当前艾达币价格略低于20日简单移动均线(SMA20)，显示短期内多空力量均衡，市场缺乏明确趋势。24小时内价格波动极小，仅微幅下跌0.05%，高低点接近，表明横盘整理格局占主导。MACD值为0.000692，接近零轴，暗示动能仍然偏弱，多空双方仍在试探平衡。  \n\n技术指标方面，虽然RSI数据缺失，但结合价格与SMA20的位置，短期市场仍偏向承压状态。MACD正值但接近零轴，显示多头动能有限，若价格突破SMA20上方，有望形成短期反弹，但缺乏强烈上行动力。整体来看，震荡特征明显，趋势延续性不强。  \n\n关键支撑位在$0.2687$附近，若跌破该区域可能引发小幅下探至0.2675-0.2670附近。阻力位位于SMA20附近$0.2708$，突破该水平可能带动价格短线反弹，但需关注成交量确认。交易者可关注支撑区域的止损策略，并谨慎设置获利目标。  \n\n综合分析，短线投资者可采取区间操作策略，低位试多、高位试空，以防止价格突破震荡区间造成损失。对于中长线持有者，建议耐心观望，等待明显趋势信号后再增加仓位，以降低市场波动风险。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano is currently trading around $0.2689, showing a largely neutral movement over the past 24 hours with a minor decline of 0.05%. The narrow daily high and low range between $0.268923 and $0.268781 suggests consolidation, indicating that the market is waiting for a catalyst before committing to a directional move. The price sits slightly below the 20-period simple moving average at $0.2709, hinting at mild bearish pressure, although the trend is not decisively negative.\n\nThe MACD reading of 0.0006921, with the signal line unavailable, provides limited insight but implies that momentum is minimal, supporting the observation of sideways trading. Without the RSI, overbought or oversold conditions are difficult to gauge; however, the proximity to the SMA suggests the asset is in a neutral zone, neither strongly bullish nor bearish. Traders may view this as a period of accumulation or indecision before a more pronounced move.\n\nKey support levels appear near $0.2680 and $0.2665, which could act as buffers in case of downward pressure, while resistance is likely around $0.2715 and $0.2730. A sustained breakout above these resistance points would indicate renewed bullish momentum, whereas a drop below support could trigger further retracement. The tight trading range emphasizes the need for confirmation before entering positions.\n\nFor trading strategy, cautious traders might wait for a clear break above the SMA or a rebound from support to consider long positions. Short-term traders could capitalize on small oscillations within the range, but volatility remains limited. Risk management is essential, as sudden moves could occur if market sentiment shifts, particularly due to broader crypto market trends or Cardano-specific news, which often serve as triggers for directional trends."
+    }
+  }
+}
