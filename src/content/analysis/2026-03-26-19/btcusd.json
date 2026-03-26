@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-26T19:42:00.929Z",
+  "price": {
+    "close": "68560.3",
+    "high": "68596.6",
+    "low": "68287.98",
+    "open": "68431.78",
+    "change": "0.19",
+    "datetime": "2026-03-26 19:00:00"
+  },
+  "indicators": {
+    "rsi": 27.29744,
+    "macd": -577.35789,
+    "macd_signal": -448.78424,
+    "sma20": 69754.416
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡，回调压力增大]",
+      "content": "当前比特币/美元(BTC/USD)的价格为68560.3美元，表现出短期震荡的走势。尽管24小时变化仅为0.19%，但价格波动较大，显示出市场的不确定性。在当前区间内，比特币呈现出多空力量对峙的局面，短期内可能继续维持震荡整理的状态。\n\n从技术指标来看，MACD当前处于负值区间（-577.35789），显示出卖盘压力仍然较强，短期内价格可能面临回调的风险。SMA(20)位于69754.416美元，价格低于该均线，表明当前市场处于下行压力中。由于RSI(14)数据缺失，我们无法准确评估超买或超卖状态，但现阶段指标倾向于看空。\n\n支撑位方面，68287.98美元是近期的低点，若价格跌破这一位置，可能会进一步回测更低支撑。阻力位则在69000美元附近，突破这一位置可能会缓解当前的回调压力，但尚未确认明确的上涨信号。\n\n综合来看，短期内比特币可能会在现有区间内震荡整理，建议投资者保持谨慎，关注关键支撑和阻力位的突破情况。在回调过程中，可考虑低位买入，但应设定止损点，防范进一步下跌风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has been showing relatively stable price action around $68,560, with a modest 0.19% increase in the past 24 hours. Despite this, the market remains range-bound, with a recent high of $68,596 and a low of $68,287. The lack of significant movement indicates that BTC/USD is consolidating in the short term, holding steady within this tight range. A break above $69,500 could signal a bullish continuation, while a drop below $68,000 might indicate a bearish trend.\n\nThe absence of an RSI reading leaves a gap in momentum analysis, but the current MACD value of -577.36 suggests a bearish lean, indicating that sellers still have some control. If the MACD crosses above its signal line in the future, it could indicate a reversal or shift in market sentiment. However, for now, the market remains slightly negative, favoring a cautious approach until momentum indicators confirm any new trend direction.\n\nSupport for Bitcoin can be found at the lower end of the range near $68,000, and further downside could lead to testing $67,500. On the resistance side, the immediate zone around $69,000-$69,500 will likely act as a barrier for bullish moves. A solid break above this level could pave the way for Bitcoin to target its previous highs near $72,000. Until such a breakout occurs, traders should look for opportunities within the established range.\n\nGiven the current market conditions, cautious trading is recommended. Range traders may consider short positions near resistance at $69,000, while waiting for a clear breakout above this level for long entries. Risk management will be key, especially with the prevailing bearish MACD reading."
+    }
+  }
+}
