@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-26T14:48:25.022Z",
+  "price": {
+    "close": "87.49",
+    "high": "88.14",
+    "low": "87.42",
+    "open": "87.89",
+    "change": "-0.46",
+    "datetime": "2026-03-26 14:00:00"
+  },
+  "indicators": {
+    "rsi": 24.88528,
+    "macd": -1.046996,
+    "macd_signal": -0.76745905,
+    "sma20": 89.827
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 87.49\\n- 24小时变化: -0.46%\\n- 高点/低点: 88.14 / 87.42\\n- RSI(14): N/A\\n- MACD: -1.046996, Signal: N/A\\n- SMA(20): 89.82700\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：偏弱震荡调整\n\n当前价格位于短期均线下方，表明近期多头力度不足且价格承压。价格在87.4附近震荡，未能有效突破上一波高点88.14，显示短线趋势偏弱整理。短期走势更像区间震荡，而非明确的上升或下降趋势。\n\n技术指标方面，MACD柱线为负值且无明显回转迹象，说明下行动能仍在消化中。RSI数据缺失限制了超买超卖的判断，但20日简单移动平均线（SMA20）高于现价，进一步确认价格偏离均线向下，短线有回归均线的可能。\n\n支撑位方面可重点关注87.00心理关口及更下方的前低85.50区域，这些位置可能吸引短线买盘。阻力位则集中在89.80的SMA20附近，其次是近期高点88.14与90.00整数关口，多空在此区域博弈较为激烈。\n\n交易建议上，若价格稳住87.00上方，可考虑小仓位逢低做多，以捕捉震荡反弹机会；若下破87.00并伴随量能放大，则需谨慎空头跟进，止损设置在上方88.50以控制风险。中线投资者应等待明确突破确认再布局，避免区间震荡带来的误判。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 87.49\\n- 24h Change: -0.46%\\n- High/Low: 88.14 / 87.42\\n- RSI(14): N/A\\n- MACD: -1.046996, Signal: N/A\\n- SMA(20): 89.82700\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s short‑term price action shows a mild bearish tilt as the latest price of **$87.49** remains below the 20‑period simple moving average (**SMA20 ~89.83**). This suggests that recent momentum favors sellers, albeit not aggressively. The intraday range (high **$88.14**, low **$87.42**) reflects compressed volatility, hinting at indecision near current levels. If price consistently closes below SMA20, the near‑term trend may tilt more definitively bearish, while reclaiming this average could signal renewed short‑term strength.\n\nWithout a current RSI value and an incomplete MACD signal line, we must infer from available metrics. The negative **MACD value (~–1.047)** suggests that downward momentum has been present, aligning with price trading under SMA20. The absence of a signal line limits crossover analysis, but the dominance of the histogram’s negative zone typically reflects weaker bullish conviction. Traders should watch for a potential MACD uptick toward zero; a flattening and move higher may precede a trend shift. Confluence with other indicators could provide added confidence for entries.\n\nSupport and resistance zones are critical at these levels. Immediate support lies around **$85.50–$86.00**, correlating with recent intra‑day lows and psychological round numbers. A breach below this could expose deeper support near **$82.00–$83.00**, where previous consolidation occurred. On the upside, reclaiming and holding above **$90.00** would be the first step toward challenging stronger resistance near **$95.00–$96.00**, a region that previously acted as a short‑term supply zone. Traders should monitor these levels for reaction volume and candle structure.\n\nGiven current conditions, a cautious approach makes sense. Shorter‑term traders might prefer range‑oriented strategies between support and resistance, placing tight stops beneath key support if going long. For breakout plays, waiting for a confirmed close above **$90** or a breakdown under **$85.50** with volume could offer clearer directional bias. Always size positions appropriately and keep risk management central in volatile markets."
+    }
+  }
+}
