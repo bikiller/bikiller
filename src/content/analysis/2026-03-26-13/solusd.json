@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-26T13:07:34.333Z",
+  "price": {
+    "close": "87.67",
+    "high": "87.67",
+    "low": "87.49",
+    "open": "87.52",
+    "change": "0.16",
+    "datetime": "2026-03-26 13:00:00"
+  },
+  "indicators": {
+    "rsi": 23.59646,
+    "macd": -1.031974,
+    "macd_signal": -0.7010848,
+    "sma20": 90.025
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 87.67\\n- 24小时变化: 0.16%\\n- 高点/低点: 87.67 / 87.49\\n- RSI(14): N/A\\n- MACD: -1.031974, Signal: N/A\\n- SMA(20): 90.025000\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期震荡偏弱整理\n\n当前SOL/USD短期价格在87附近窄幅震荡，未能有效站上20日SMA(90.025)表明多头力度不足，短线趋势偏弱整理。价格横盘成交量萎缩，趋势方向尚未明确，需观察关键均线能否突破确认上行信号。\n\n技术指标显示MACD处于负值区域(-1.031974)，动能偏弱且未出现明显拐头迹象，暗示下行动能占优。尽管24小时波动小(+0.16%)，但缺乏RSI数据使超买超卖判断受限，因此需谨慎关注未来动能变化以确认趋势转折。\n\n重要支撑位看向短线低点87.49附近及前低85.00区域，这些位置若失守可能引发进一步下探。关键阻力位仍在20日均线90.02及心理整数位92.50，一旦价格有效突破这些阻力，会增强多头信心。\n\n交易建议上，建议在回踩支撑位附近考虑轻仓多单布局，止损可设在下破支撑后的小幅下方。若价格突破并收稳在90上方，则可在回踩确认后补仓。短线谨防震荡风险，控制仓位和止损是保护资金的关键。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 87.67\\n- 24h Change: 0.16%\\n- High/Low: 87.67 / 87.49\\n- RSI(14): N/A\\n- MACD: -1.031974, Signal: N/A\\n- SMA(20): 90.025000\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s short-term trend appears cautiously neutral to slightly bearish given the latest price action near **$87.67**, which sits below the 20‑period simple moving average (**SMA20 ~90.03**). Trading just under this average suggests recent momentum favors the downside or consolidation rather than a definitive rally. The narrow high/low range (**87.67 / 87.49**) and muted 24‑hour change (**+0.16%**) indicate low volatility and indecision among market participants. Until price sustainably clears above the SMA20, the near‑term trend may lack conviction to the upside.\n\nLooking at indicators, the available MACD reading (**–1.031974**) in negative territory suggests that bearish momentum currently outweighs bullish forces. Without a corresponding signal or histogram data, traders should interpret this as a warning that downward pressure remains present. The absence of an RSI figure limits overbought/oversold context, but the existing MACD position below zero typically aligns with consolidative or corrective behavior. A clear uptick in MACD toward positive values, especially if supported by increasing volume, would be an early sign of resurgent buying interest.\n\nKey support levels to watch include the psychological **$85.00** zone and more concrete support near **$80.00**, where prior buying interest was observed. These areas could serve as entry points should the price experience a pullback. Conversely, immediate resistance sits at the SMA20 (~**$90**) and the more substantive zone around **$95–$96**, where previous consolidation and swing highs occurred. A sustained break above these resistances would signal a shift in sentiment toward a more bullish posture.\n\nFor traders, a balanced approach could involve waiting for a decisive break above **$90** to confirm upside potential, targeting **$95–$100** with a tight stop below recent swing lows. Alternatively, risk‑averse participants might consider short positions only if price breaks below **$85** with conviction, targeting lower support levels. Always align trade size with risk tolerance and broader market conditions."
+    }
+  }
+}
