@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-26T21:49:53.787Z",
+  "price": {
+    "close": "2071.08",
+    "high": "2077.1",
+    "low": "2060.31",
+    "open": "2064.8",
+    "change": "0.29",
+    "datetime": "2026-03-26 21:00:00"
+  },
+  "indicators": {
+    "rsi": 37.11661,
+    "macd": -24.55805,
+    "macd_signal": -23.97683,
+    "sma20": 2090.607
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏空，价格承压移动均线",
+      "content": "当前以太坊价格在2071附近波动，虽较昨日略有上涨，但整体仍低于20日均线2090，显示短期多头动能有限。高点2077与低点2060形成窄幅震荡区间，短线趋势偏向整理偏空。价格若持续未能站稳均线，可能延续回调压力。  \n\nMACD指标处于负值区间，虽然信号线数据缺失，但负值表明空头力量略占上风。缺乏RSI参考时，可通过价格相对均线位置判断短线强弱，目前价格低于SMA20，提示短期多头承压，短线买入需谨慎。  \n\n支撑位关注2060附近的短期低点和前期成交密集区域，若跌破该水平，可能触发进一步回调；阻力位则在2090-2100区间，若突破并收复均线，多头信号增强，可考虑轻仓入场。  \n\n交易建议上，短线可以观望为主，等待价格站稳均线确认趋势再布局；若已有多单，建议设置2060附近止损，控制回撤风险。偏好波段操作者可关注阻力突破或支撑反弹，结合成交量确认信号再入场。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading around $2071, showing a modest 0.29% gain over the past 24 hours. The market has been consolidating between $2060.31 and $2077.1, suggesting short-term indecision among traders. The price sits slightly below the 20-period simple moving average at $2090.61, indicating mild downward pressure. While the overall trend remains neutral, the inability to break above this SMA could signal a potential retest of lower support levels if buying momentum fails to pick up.\n\nThe MACD reading of -24.558 suggests bearish momentum, even though the absence of the signal line prevents a full confirmation. This negative MACD indicates sellers are currently in control, albeit with relatively low intensity given the small intraday price change. Traders should monitor for a potential MACD crossover or divergence, which could provide an early warning for a trend reversal. Combining this with price action near key levels will be crucial for short-term positioning.\n\nImmediate support lies near $2060, a level that has held during recent dips, while resistance is projected around $2090, aligning with the SMA. A breakout above $2090 could trigger further upside toward $2105–$2110, whereas a failure to hold $2060 may see Ethereum revisit $2045. These levels provide actionable zones for both swing traders and scalpers, highlighting where risk-reward setups could be favorable.\n\nGiven the current setup, cautious traders might consider waiting for confirmation of a trend direction before entering positions. Short-term buyers could look for entries on a bounce from $2060 with tight stops, while more aggressive traders might target a breakout above $2090. Overall, the market shows mixed signals, so patience and disciplined risk management are essential to avoid premature exposure in a market that currently lacks strong directional conviction."
+    }
+  }
+}
