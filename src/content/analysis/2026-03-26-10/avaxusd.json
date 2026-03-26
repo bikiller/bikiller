@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-03-26T10:19:54.312Z",
+  "price": {
+    "close": "9.2568",
+    "high": "9.2897",
+    "low": "9.2417",
+    "open": "9.2858",
+    "change": "-0.41",
+    "datetime": "2026-03-26 10:00:00"
+  },
+  "indicators": {
+    "rsi": 18.32893,
+    "macd": -0.076124193,
+    "macd_signal": -0.033065161,
+    "sma20": 9.56859
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 9.2568\\n- 24小时变化: -0.41%\\n- 高点/低点: 9.2897 / 9.2417\\n- RSI(14): N/A\\n- MACD: -0.076124193, Signal: N/A\\n- SMA(20): 9.56859\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短线偏弱震荡整理\n\n当前价格略低于SMA(20)均线，表明短期价格承压在均线下方震荡运行，趋势仍偏弱且未有效上破关键均线压力，短线多空力量较为均衡。\n\n技术指标上，MACD柱线为负值暗示空头动能仍在，缺少Signal值限制判断力度，但价格未出现明显下跌加速；RSI数据缺失需结合成交量等辅助确认超卖区域。\n\n支撑位初步关注近期低点9.24附近，其次可看心理整数位9.00；阻力位在SMA(20) 9.56及前高9.28-9.30区域，若上破则短线转为震荡偏多。\n\n交易建议上，若价格站稳均线并放量上攻，可逐步布局多单；反之若跌破9.24支撑，可考虑短线止损离场或逢低试探短空，但仓位控制需严格。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Avalanche vs US Dollar (AVAX/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 9.2568\\n- 24h Change: -0.41%\\n- High/Low: 9.2897 / 9.2417\\n- RSI(14): N/A\\n- MACD: -0.076124193, Signal: N/A\\n- SMA(20): 9.56859\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nAvalanche’s recent price action around **$9.25** reflects a subdued short-term trend, as the market lacks conviction above the 20‑period simple moving average (SMA). The SMA at **9.5686** remains above the current price, suggesting mild bearish pressure and a possible continuation of the downward drift unless buyers step in. The limited 24‑hour range shows low volatility, and the price trading below the moving average reinforces a cautious stance among traders.\n\nThe absence of a defined RSI reading complicates momentum analysis, but the **negative MACD** indicates that downside momentum is present. A negative MACD histogram suggests that selling pressure currently outweighs buying interest. Without a clear signal line for confirmation, it’s prudent to interpret these conditions as tentative bearish momentum rather than a strong reversal setup. Traders should watch for MACD crossover behavior to assess potential shifts in trend strength.\n\nKey **support levels** to monitor are near recent intraday lows around **$9.24** and psychologically significant round levels near **$9.00**. Failure to hold these zones could invite further downside toward **$8.80–$8.60**. On the upside, immediate **resistance** sits at the 20‑period SMA near **$9.57** and extends toward **$9.80–$10.00**, where selling interest has previously emerged. Breakouts above these resistances with strong volume would signal improved bullish participation.\n\nFrom a trading perspective, cautious traders might consider **short positions** only if breakdowns below support occur with confirmation, keeping tight risk parameters. For more aggressive entries, a rebound above the SMA could be an early sign of trend improvement, but confirmation with MACD turning positive and increased volume would boost confidence. Always size positions to risk tolerance and be prepared for heightened volatility around key technical thresholds."
+    }
+  }
+}
