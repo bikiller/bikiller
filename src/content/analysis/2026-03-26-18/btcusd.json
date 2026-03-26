@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-26T18:13:06.974Z",
+  "price": {
+    "close": "68359.41",
+    "high": "68557.73",
+    "low": "68250",
+    "open": "68437.49",
+    "change": "-0.11",
+    "datetime": "2026-03-26 18:00:00"
+  },
+  "indicators": {
+    "rsi": 23.28994,
+    "macd": -572.4901,
+    "macd_signal": -417.79545,
+    "sma20": 69885.6965
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，关注短期支撑]",
+      "content": "当前比特币/美元价格呈现震荡整理的走势，最新价格为68359.41美元。价格波动较为温和，24小时内变化仅为-0.11%。目前市场处于高点68557.73与低点68250之间，未能突破明显的支撑或阻力位。\n\n从技术指标来看，MACD为-572.49010，表明市场动能偏弱，空头情绪占据主导。然而，RSI(14)尚无数据，缺乏进一步的超买或超卖信号。SMA(20)为69885.6965，价格已远离该均线，反映出短期内价格有回调的风险。\n\n支撑位方面，68250附近是当前的关键支撑区域，若价格跌破该位，可能进一步测试下方区域。阻力位则在68557附近，一旦突破，可能会迎来新的上涨动能。建议短期内保持观望，谨慎操作，等待价格确认突破方向后再做进一步决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing subtle signs of short-term consolidation after testing highs near $68,557. The current price around $68,359 reflects a marginal decline of 0.11% over 24 hours, indicating limited selling pressure. The market appears to be in a mild corrective phase, hovering below the 20-period SMA at $69,886, which is acting as immediate resistance. This suggests that bullish momentum is temporarily slowing, though the overall trend remains positive above recent support levels near $68,250.  \n\nThe MACD value of -572.49 points to underlying bearish pressure, highlighting that momentum has weakened despite the narrow price range. While the absence of the signal line limits the precision of crossovers, the negative MACD indicates that short-term sellers could dominate if the price fails to hold key levels. Traders should watch for a MACD shift above zero for a more confident bullish confirmation.  \n\nSupport is currently anchored at $68,250, which has held in recent intraday sessions, providing a foundation for potential rebounds. Resistance remains just under the 20-SMA near $69,886, forming a key ceiling for buyers. A break above this SMA could trigger renewed upside, targeting previous highs around $70,000, while a decisive breach below support could open a path toward $67,500 or lower, intensifying short-term selling pressure.  \n\nFor trading strategy, cautious long positions could be considered near current support with tight stops around $68,000, aiming for initial resistance targets near $69,500–$69,900. Short-term traders may exploit small-range oscillations while waiting for a clear trend confirmation. Risk management remains essential due to potential volatility spikes, and confirmation from additional indicators like RSI or volume could enhance entry timing and overall trade confidence."
+    }
+  }
+}
