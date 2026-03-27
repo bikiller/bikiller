@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-03-27T13:02:43.845Z",
+  "price": {
+    "close": "8.7948",
+    "high": "8.796",
+    "low": "8.7856",
+    "open": "8.7856",
+    "change": "0.10",
+    "datetime": "2026-03-27 13:00:00"
+  },
+  "indicators": {
+    "rsi": 25.61479,
+    "macd": -0.1352993,
+    "macd_signal": -0.117533,
+    "sma20": 9.008095
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 8.7948\\n- 24小时变化: 0.10%\\n- 高点/低点: 8.796 / 8.7856\\n- RSI(14): N/A\\n- MACD: -0.13529930, Signal: N/A\\n- SMA(20): 9.0080950\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：偏弱区间震荡\n\n当前AVAX价格在8.79附近横盘，短期趋势偏弱。价格低于20日SMA(9.008)，说明多头动力不足，市场处于均线下方整理状态。虽24小时波动极小，但未出现明显反弹信号，短线仍可能延续区间震荡。\n\n技术指标上，MACD负值(-0.1353)表明下行动能占优，但信号线数据缺失限制判断力度。若能观察完整MACD柱缩短且出现金叉，则可能终结弱势；RSI不可用，但结合均线和动能指标，短期卖盘压力仍大于买盘。\n\n关键支撑位初步看8.50区域，跌破或加速下探至8.20-8.10附近；阻力位在9.00至9.20区间，突破上方可打开反弹空间。若收盘稳住9.00上方，可逐步确认短线底部，但目前仍以下方试探为主。\n\n交易建议上，维持区间思路，短线可于支撑附近适量布局，止损设置在8.40下方，防止快速回落风险。反弹至阻力区域则建议减仓或短空参与，待指标回暖和价格企稳再考虑方向性建仓。风险管理仍为首要。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "Avalanche (AVAX) is currently trading at $8.7948, showing minimal movement with a 24-hour change of just +0.10%. The price action remains relatively stable, with the high and low range being quite narrow (8.796 - 8.7856), indicating a lack of significant volatility in the short term. This subtle fluctuation suggests market indecision, likely resulting from a balance between buying and selling pressure. At this stage, the overall trend appears neutral, with no clear bullish or bearish momentum.\n\nThe absence of a visible RSI (14) and Signal line for the MACD makes it difficult to gauge momentum from these indicators. However, the current MACD value of -0.1353 suggests slight bearish sentiment, as the histogram remains negative, reflecting the potential for downward pressure in the near term. Without a cross over or confirmation from the Signal line, the trend remains inconclusive. Traders should remain cautious of further bearish continuation, but the lack of strong downward momentum implies the market may soon look for a reversal or consolidation phase.\n\nThe 20-day simple moving average (SMA) at $9.0081 indicates that the price is currently below this level, suggesting a potential resistance zone. If the price attempts to break above this SMA, a bullish move may develop, with a target of testing the $9.20-$9.40 resistance range. Conversely, if the price fails to regain the SMA and moves lower, the key support levels lie around $8.70 and $8.50, which could offer opportunities for a bounce. A sustained breakdown below these levels could open the door to further downside risks.\n\nIn terms of trading strategy, a breakout above the SMA could provide a buy signal, especially if coupled with stronger momentum indicators like a rising MACD or an RSI above 50. However, if AVAX fails to break resistance and shows signs of further bearish action, short positions or a wait-and-see approach might be prudent, focusing on the support levels for possible entries. Risk management will be key, with stop-loss orders placed near $8.50 to protect against downside risks."
+    }
+  }
+}
