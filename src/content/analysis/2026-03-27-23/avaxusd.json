@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-03-27T23:09:53.809Z",
+  "price": {
+    "close": "8.77",
+    "high": "8.7702",
+    "low": "8.7599",
+    "open": "8.7689",
+    "change": "0.01",
+    "datetime": "2026-03-27 23:00:00"
+  },
+  "indicators": {
+    "rsi": 31.13699,
+    "macd": -0.10470551,
+    "macd_signal": -0.11807441,
+    "sma20": 8.84586
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 8.77\\n- 24小时变化: 0.01%\\n- 高点/低点: 8.7702 / 8.7599\\n- RSI(14): N/A\\n- MACD: -0.10470551, Signal: N/A\\n- SMA(20): 8.84586\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短线偏弱震荡\n\n当前价格位于SMA(20)下方，短期均线承压未能向上突破，表明市场多头动能不足，趋势偏弱震荡。价格微幅波动但未显著下破关键支撑，整体趋势仍需观察进一步确认。\n\n技术指标MACD为负值，暗示下行动量存在，但缺少Signal线数据限制判断完整性。若后续MACD柱缩短并出现死叉，则下跌概率加大。RSI数据缺失，无法确认超买超卖状态。\n\n关键支撑位关注前期低点约8.50附近，其次为心理整数位8.00；阻力位短期集中在SMA(20)附近8.84，其次为9.20区间。若价格能有效站上阻力，则趋势可能转为震荡偏多。\n\n交易策略上，日内可在支撑位附近低多布局，止损设置略低于8.40；若上破8.84则考虑逢低加仓。若跌破主要支撑则果断离场或短线做空，严格控制风险敞口。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "Avalanche (AVAX/USD) has been hovering close to $8.77, showing a minimal 24-hour change of 0.01%. This slight movement reflects a consolidation phase, where the asset is neither strongly bullish nor bearish. In the immediate term, the price is trapped within a narrow range between its recent high of $8.7702 and low of $8.7599, indicating a lack of clear momentum. This price action suggests that the market is waiting for a catalyst to push the asset in either direction.\n\nThe absence of an RSI (14) reading complicates the analysis, leaving out a crucial metric for understanding potential overbought or oversold conditions. However, the MACD reading of -0.10470551 indicates that the momentum is slightly bearish, but without a signal line to compare, it's difficult to gauge whether this is a developing trend or just noise. Given the proximity to the 20-period simple moving average (SMA) at $8.84586, it is clear that the asset is in a neutral state, with price action fluctuating slightly below this level.\n\nSupport and resistance levels are critical to understanding potential breakout or breakdown zones. The recent low of $8.7599 acts as a short-term support level, with any further decline below this could test the next key support near $8.70. On the other hand, the $8.85 level, near the SMA, could act as resistance, with any upward movement facing selling pressure around this point. A breach above $8.85 would suggest potential for a retest of higher levels, possibly around $9.00.\n\nGiven the current market structure, a wait-and-see approach is advisable until a clear breakout occurs. Traders may consider entering long positions on a confirmed break above $8.85, while shorting could be an option if the price breaks below $8.75, targeting the next support at $8.70. Risk management with stop losses will be crucial due to the lack of decisive trends at the moment."
+    }
+  }
+}
