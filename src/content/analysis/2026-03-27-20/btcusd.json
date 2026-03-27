@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-27T20:34:24.315Z",
+  "price": {
+    "close": "65810.1",
+    "high": "66101.22",
+    "low": "65749.11",
+    "open": "65977.24",
+    "change": "-0.25",
+    "datetime": "2026-03-27 20:00:00"
+  },
+  "indicators": {
+    "rsi": 24.10926,
+    "macd": -906.50254,
+    "macd_signal": -846.42339,
+    "sma20": 67171.686
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期承压震荡，趋势偏弱",
+      "content": "当前比特币价格位于65810.1美元，较短期SMA(20) 67171.69下方运行，显示短期均线承压，价格难以突破近期高点66101.22，整体呈现震荡偏弱格局。下方支撑位主要关注65749一线，若跌破该水平，可能引发进一步回调。  \n\nMACD指标显示主线为-906.50，处于负值区域，说明下行动能仍占主导，但信号线未提供明确指引，需要关注是否形成潜在金叉或死叉。RSI数据暂不可用，但结合价格位置和均线趋势，可判断市场多空力量偏向空方。  \n\n短期阻力位在67000附近，与SMA(20)接近，突破该区域需量能配合，否则价格可能持续震荡整理。下方支撑区域在65750-65500，若承压未破，短线可视为低吸机会，但需控制仓位，避免追高。  \n\n交易策略上，建议保持谨慎，短线可逢低小幅布局，多单以支撑位附近为入场点，止损设在支撑下方；激进交易者可关注价格突破SMA20后确认趋势强势，再跟进多头。总体来看，市场短期偏弱，操作需以防守为主，顺势而为。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has recently been trading around the $65,810 mark, showing a slight decline of 0.25% over the last 24 hours. The price movement remains confined within the range of $65,749.11 to $66,101.22, which indicates a consolidation phase following recent volatility. The absence of an RSI value makes it challenging to assess immediate overbought or oversold conditions, but the price's inability to break above the SMA(20) of $67,171 suggests a bearish bias in the short term. A sustained move below this level could open up the possibility of further downside.\n\nThe MACD reading of -906.50254 reflects bearish momentum, although the lack of a signal line leaves the current market posture ambiguous. Given the current MACD, it seems that Bitcoin is still under the influence of negative pressure, which could lead to more downward movement if the bearish momentum continues. Traders should be cautious about entering long positions until more clarity emerges, especially if a negative crossover develops in the MACD or the RSI becomes available for a clearer overbought/oversold signal.\n\nLooking at key support and resistance levels, the current price is just above the immediate support level at $65,749. A break below this support could expose the next significant level around $64,000, where the market could find some stabilization. On the upside, resistance remains at the SMA(20) near $67,171, and any substantial rally needs to overcome this resistance to confirm a bullish reversal. \n\nTraders should look for price action to either respect the support at $65,749 or challenge the resistance at $67,171. For a potential long entry, a breakout above the SMA(20) could offer an opportunity to target the next resistance levels. Conversely, if the price closes below $65,749, it would be wise to adopt a more defensive stance and consider shorting toward the $64,000 zone."
+    }
+  }
+}
