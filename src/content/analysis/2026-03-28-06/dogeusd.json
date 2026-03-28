@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-03-28T06:18:10.885Z",
+  "price": {
+    "close": "0.09027",
+    "high": "0.09032",
+    "low": "0.09013",
+    "open": "0.09031",
+    "change": "-0.06",
+    "datetime": "2026-03-28 06:00:00"
+  },
+  "indicators": {
+    "rsi": 46.087581,
+    "macd": -0.00032989589,
+    "macd_signal": -0.00045439428,
+    "sma20": 0.0900435
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏弱，关注支撑位反弹",
+      "content": "当前狗狗币价格在$0.09027$附近小幅波动，较24小时内的高低点变化有限，显示市场短期缺乏明确方向。价格略高于20日简单移动平均线(SMA20 $0.09004$)，短线仍有轻微支撑，但整体波动幅度有限，趋势偏向震荡整理。  \n\nMACD当前为负值($-0.00033$)，表明短期下行动能存在，但未出现明显的离散信号，市场尚未进入强烈空头阶段。由于RSI数据不可用，需要结合价格行为和成交量来判断超买或超卖状态。价格与SMA20贴近，暗示多空力量均衡，短期可能延续窄幅震荡。  \n\n支撑位可重点关注$0.09013$附近的日内低点，以及$0.0898$一线心理价位，这里可能出现技术性止跌。阻力位在$0.09032$及$0.091$附近，若价格突破，可带动短线上行。投资者需注意突破和回调的信号，防止被震荡区间的假突破误导。  \n\n交易策略上，建议短线以区间操作为主，低位可适量布局，突破阻力位可考虑轻仓跟进。若跌破支撑，应谨慎控制仓位，避免追高。总体来看，狗狗币短期波动有限，但震荡偏弱，需结合市场情绪与成交量进一步确认趋势。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin (DOGE) is currently exhibiting a neutral-to-slightly bearish trend, with the latest price at $0.09027 and a minimal 24-hour change of -0.06%. The price has fluctuated between $0.09013 and $0.09032, showing limited volatility during this period. While the market remains relatively stable, a closer inspection reveals a potential for minor downward pressure as it struggles to maintain momentum above the $0.090 level. Traders should remain cautious of sudden price swings, as the lack of substantial price movement may indicate indecision within the market.\n\nThe lack of a current Relative Strength Index (RSI) reading leaves some uncertainty around momentum strength, but the MACD shows a slight negative value of -0.00033. This suggests that there might be weak bearish momentum, though it is not a definitive signal of a downtrend. The absence of a signal line for the MACD further implies that there is no clear trend direction, leaving the market in a consolidation phase. Traders could look for confirmation from future MACD crossovers or other indicators to decide on trend shifts.\n\nIn terms of support and resistance, the recent low of $0.09013 presents a key short-term support level, while the high of $0.09032 acts as resistance. If DOGE breaks below $0.09013, the next support may lie around $0.08950. On the other hand, if the price breaches the $0.09032 resistance, a potential rally could target the $0.091 level. These levels provide a framework for identifying potential breakout or breakdown scenarios.\n\nGiven the current market data, a conservative approach is recommended. Traders should monitor the price action around the support and resistance levels for potential breakout opportunities or short-term reversals. Waiting for confirmation from indicators like MACD or RSI could provide more clarity before entering significant trades. With low volatility and mixed signals, cautious trading and a watchful approach are prudent."
+    }
+  }
+}

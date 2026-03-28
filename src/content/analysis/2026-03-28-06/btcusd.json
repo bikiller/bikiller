@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-28T06:13:29.308Z",
+  "price": {
+    "close": "66298.64",
+    "high": "66362",
+    "low": "66254.99",
+    "open": "66298.47",
+    "change": "0.00",
+    "datetime": "2026-03-28 06:00:00"
+  },
+  "indicators": {
+    "rsi": 39.36073,
+    "macd": -455.22318,
+    "macd_signal": -603.68329,
+    "sma20": 66135.5885
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期观望为主",
+      "content": "当前比特币/美元价格在66298.64附近，短期内价格波动较小，24小时变化为0.00%，显示市场处于震荡整理状态。从高低点来看，价格在66362与66254.99之间波动，进一步表明市场暂无明确的方向性突破。\n\n在技术指标方面，RSI(14)数据缺失，无法评估超买或超卖状态。MACD值为负，显示出一定的卖压，但由于Signal线数据未提供，无法得出清晰的趋势判断。SMA(20)位于66135.59，价格略高于此水平，暗示当前价格接近短期支撑。\n\n支撑位位于66254附近，若跌破此价位，可能进一步测试66135一带。上方阻力位在66362附近，若突破此处，可能会引发短期上涨。综合来看，市场缺乏明显趋势，建议短期内保持观望，等待价格突破支撑或阻力位后再决定入场策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently in a tight range, with the price hovering just above $66,000. The lack of significant movement over the last 24 hours suggests a period of consolidation. The recent high of $66,362 and low of $66,254 indicate a narrow range, which typically signals indecision in the market. Traders are waiting for a clear directional breakout, either to the upside or downside, before committing to significant positions.\n\nThe absence of a visible RSI and the current negative MACD of -455.22318 suggest that bearish pressure is present, though the market remains neutral overall. The MACD is showing a weak downward momentum, but no clear trend reversal is visible without the signal line data. This indicates that while there might be slight bearish sentiment, the market is not yet oversold or overbought, leaving room for either direction. It’s important to monitor the MACD closely for any potential crossovers.\n\nThe SMA(20) at $66,135.59 is acting as a mild support level, with the price staying just above this moving average. If Bitcoin drops below this level, it could signal further downside towards the next key support zone around $65,500. On the other hand, a break above $66,362 would indicate a potential move to higher levels, possibly testing resistance near $67,000. Traders should watch for these levels to determine the next move.\n\nGiven the current market conditions, a breakout from the $66,000 level would be crucial. Traders might look for a confirmation of either a bullish or bearish breakout above $66,362 or below $66,135, respectively. Until then, a range-bound strategy with tight stop-loss orders could be a prudent approach, allowing traders to capture small price movements without taking on excessive risk."
+    }
+  }
+}
