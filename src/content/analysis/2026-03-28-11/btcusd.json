@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-28T11:03:07.837Z",
+  "price": {
+    "close": "66169.7",
+    "high": "66169.7",
+    "low": "66169.69",
+    "open": "66169.69",
+    "change": "0.00",
+    "datetime": "2026-03-28 11:00:00"
+  },
+  "indicators": {
+    "rsi": 38.50435,
+    "macd": -309.083316,
+    "macd_signal": -424.81608,
+    "sma20": 66130.3265
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：价格维持盘整，短期震荡为主",
+      "content": "当前比特币价格围绕 $66169.7$ 美元水平徘徊，日内波动极小，显示市场缺乏明确方向。从趋势上看，短线呈现震荡盘整格局，多空力量暂时均衡，价格尚未形成突破信号。投资者需警惕短期假突破引发的波动风险。  \n\n技术指标显示，MACD为负值 $-309.08$，虽然信号线不可用，但暗示空头压力仍在，市场短期偏弱。20日简单移动平均线 $SMA(20) = 66130.33$ 美元略低于当前价位，表明价格略处于均线上方，但整体仍靠近支撑区域。RSI缺失使超买超卖判断不明确，需结合价格行为观察。  \n\n支撑位可关注近期均线附近 $66130$ 美元，以及心理整数位 $66000$ 美元，若跌破可能引发进一步调整；阻力位则在当前价位附近 $66200-66300$ 美元区间，如突破则短期多头可能活跃。价格在区间内运行时，短线交易机会更适合波段操作。  \n\n交易策略上，建议保持观望或小仓位操作，低位可尝试短线多单，止损设置在支撑下方；高位可考虑短线空单或离场观望。当前阶段以控制风险为主，避免追涨杀跌，等待明确突破信号再加仓，以减少盘整震荡带来的损耗。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price has been relatively stable around $66,169.7, with no significant 24-hour change. The narrow high/low range of $66,169.7 to $66,169.69 indicates a market in consolidation, likely a period of indecision. This sideways movement suggests that traders are awaiting a clearer catalyst to trigger the next price move. While there’s a lack of volatility, the strong level near $66,170 might suggest a temporary support zone, with the market showing signs of equilibrium at this level.\n\nThe RSI (Relative Strength Index) is not available at this time, which limits a deeper understanding of the momentum or potential overbought/oversold conditions. However, the MACD value at -309.08 indicates a bearish sentiment, though without a signal line to compare, its full implications remain unclear. A negative MACD reading typically points to bearish momentum, which could signal a further decline if the market fails to reclaim higher ground. Watch for MACD crossovers to confirm directional shifts in momentum.\n\nThe 20-period Simple Moving Average (SMA) sits at $66,130.33, indicating slight support near this level. This moving average can act as a reference point, with prices often respecting it as support in the short term. A dip below this SMA might open up further downside towards the next support zone, potentially around $66,000. Conversely, any break above the SMA could signal a continuation toward higher resistance levels, particularly near $67,000, which could act as a psychological resistance barrier.\n\nTraders should monitor key levels around $66,130 for potential breakouts or breakdowns. A sustained move above the SMA could lead to a short-term bullish bias, while failure to hold this level might suggest further consolidation or even a potential downward move. With the current MACD and lack of strong momentum, waiting for a clearer trend confirmation might be the safest approach before entering new positions."
+    }
+  }
+}

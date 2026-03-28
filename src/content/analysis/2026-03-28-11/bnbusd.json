@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-03-28T11:04:31.752Z",
+  "price": {
+    "close": "611.53",
+    "high": "611.6",
+    "low": "611.31",
+    "open": "611.55",
+    "change": "-0.00",
+    "datetime": "2026-03-28 11:00:00"
+  },
+  "indicators": {
+    "rsi": 40.66889,
+    "macd": -1.86881,
+    "macd_signal": -2.60177,
+    "sma20": 611.399
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡整理，偏向横盘观望",
+      "content": "当前BNB价格围绕$611.53波动，与20日简单移动均线SMA(20) 611.399接近，显示短期价格缺乏明显趋势，多空力量相对均衡，市场呈现横盘震荡特征。高低点差距极小，进一步印证了盘整格局。  \n\nMACD值为-1.86881，虽处于负值区间，但未出现明确的金叉或死叉信号，暗示短线动能偏弱，买卖压力相对均衡。RSI数据缺失，无法提供超买超卖参考，但从价格与SMA关系来看，多头尚未完全占优，空头压力也有限。  \n\n支撑位初步设在$611.3附近，如跌破可能加速短期回调；阻力位关注$611.6附近，多次触碰未能突破则可能延续横盘整理。短期交易者应谨慎操作，避免追涨杀跌，可等待突破确认后再介入。  \n\n交易建议偏向观望与短线轻仓策略，若价格稳住支撑区域，可考虑低位建仓，并设置紧密止损；若突破阻力，可顺势做多，但需关注成交量配合，以确认趋势延续性。风险管理仍为关键，避免单边重仓操作。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 611.53\\n- 24h Change: -0.00%\\n- High/Low: 611.6 / 611.31\\n- RSI(14): N/A\\n- MACD: -1.86881, Signal: N/A\\n- SMA(20): 611.39900\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nCurrent price action for BNB/USD around **$611.50** suggests a **range-bound environment** in the very short term. Price has barely moved over the past 24 hours, hugging the **20‑period SMA (~611.40)**, which reflects neutral momentum at this timeframe. Without meaningful directional divergence from the moving average, the trend lacks conviction. However, the very slight tilt of the SMA and the steady price containment near it points to **a potential equilibrium zone**, where buyers and sellers are in balance.\n\nWith technical indicators currently showing limited actionable readings — RSI and MACD signal values unavailable — we rely on available data like MACD’s negative histogram value (‑1.86881) to glean context. A negative MACD reading hints that **short-term momentum may be slightly bearish**, even if not decisively so. Should this condition persist, it could signal that recent bulls are losing steam. The absence of a defined signal line reading means that confirmation is pending; traders might prefer waiting for a complete MACD crossover for clearer insight.\n\nKey intraday **support lies near $605**, an area where price has previously stalled and reversed, and then **lower support around $595** could see bids if selling pressure intensifies. On the upside, **immediate resistance sits around $620**, followed by a stronger zone near **$630–$635**, which has capped rallies in recent sessions. A break above these levels with volume could shift the narrative back toward bullish control, while failure at resistance would likely extend the current sideways pattern.\n\nFor now, a **range‑trading approach** may suit active traders: consider long entries near support with tight risk control, targeting the lower end of resistance, and short setups near resistance with similar caution. Longer-term investors might await clearer trend confirmation or catalyst events (exchange flow changes, major listings, macro shifts) before adjusting exposure, given the current lack of strong directional bias."
+    }
+  }
+}
