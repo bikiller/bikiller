@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-28T16:29:31.032Z",
+  "price": {
+    "close": "67018.89",
+    "high": "67047.99",
+    "low": "66868.69",
+    "open": "66961.67",
+    "change": "0.09",
+    "datetime": "2026-03-28 16:00:00"
+  },
+  "indicators": {
+    "rsi": 58.42829,
+    "macd": -63.4368,
+    "macd_signal": -234.49537,
+    "sma20": 66367.5245
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，缺乏明确方向",
+      "content": "目前比特币价格处于67000美元附近，显示出震荡整理的局面。近期价格波动较小，24小时变化仅为0.09%，表明市场情绪较为平静，买卖双方力量较为均衡。在这种背景下，短期内可能出现横盘整理的走势，缺乏明确的上涨或下跌动力。\n\n从技术指标来看，MACD显示出负值，表明短期内卖方稍占上风。然而，由于Signal线数据缺失，我们无法进一步确认其趋势是否持续。SMA(20)位于66367美元附近，作为近期的支撑位，若价格跌破此水平，可能会导致更多的抛压。RSI未提供，暂时无法判断市场是否超买或超卖。\n\n当前比特币的支撑位大致在66868美元附近，若价格突破该支撑位，可能会进一步向下测试更低的水平。上方阻力位大致在67048美元，若突破此位，则可能迎来短期的反弹。综合来看，短期内比特币价格可能继续维持震荡整理，投资者可关注关键支撑和阻力位的突破。\n\n交易建议方面，考虑到当前市场缺乏明确趋势，短线交易者可采取观望策略，等待价格突破关键技术水平后再决定进场。同时，投资者应密切关注MACD等技术指标的进一步变化，以便抓住潜在的入场信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has shown a subtle shift towards consolidation within the current price range, fluctuating between $66,868.69 and $67,047.99. This tight range suggests indecisiveness in market participants, leaving the asset vulnerable to breakout moves in either direction. Given that the price is hovering just above the 20-period Simple Moving Average (SMA), which sits at $66,367.52, the short-term trend appears mildly bullish, with the price maintaining support near this level. A close above $67,048 would indicate the potential for a move towards higher levels, likely targeting the next resistance zone around $68,000.\n\nHowever, the MACD reading of -63.43680 reflects underlying bearish momentum, despite the lack of a clear signal line to confirm the trend. The negative MACD histogram suggests that the momentum is still tilted towards the downside, which raises caution for potential downside risks. Traders should be mindful of a break below the $66,868.69 support level, as this could signal further downward pressure, potentially targeting key support around $66,000 or even the $65,000 region.\n\nThe Relative Strength Index (RSI) is unavailable for this analysis, but considering the price behavior and MACD readings, market participants should pay attention to volume and market sentiment for signs of exhaustion or divergence. If the price begins to test the support zones while the MACD shows diminishing negative momentum, it may indicate a buying opportunity near the lower support levels. Conversely, if the price fails to maintain above the $67,048 resistance, further downside could unfold.\n\nIn terms of strategy, a cautious approach is advised. Buyers may look for confirmation of a break above $67,048 to initiate positions targeting the $68,000 zone, while sellers could consider shorting near resistance or after a confirmed break below $66,868.69, aiming for lower support. Active traders should remain vigilant and monitor the evolving price action."
+    }
+  }
+}
