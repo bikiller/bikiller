@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-28T07:32:57.659Z",
+  "price": {
+    "close": "66405.98",
+    "high": "66430.93",
+    "low": "66326.02",
+    "open": "66339.4",
+    "change": "0.10",
+    "datetime": "2026-03-28 07:00:00"
+  },
+  "indicators": {
+    "rsi": 42.25026,
+    "macd": -407.72179,
+    "macd_signal": -563.97088,
+    "sma20": 66123.488
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多趋势",
+      "content": "目前比特币价格围绕66400美元附近波动，日内涨幅有限，仅0.10%，显示市场短期多空力量相对平衡。价格略高于20日简单移动平均线(SMA20=66123)，表明中短期多头仍有一定支撑，但整体动力尚未显著增强。高低点波动幅度有限，进一步确认短期横盘整理特征。  \n\nMACD指标处于负值区间(-407.72)，虽未提供信号线数据，但负值表明空方压力仍在，市场尚未出现明确的趋势反转信号。若MACD开始收窄或形成金叉，可能预示短线多头动力增强。RSI数据缺失，但结合价格接近SMA20，可推测市场尚未出现超买或超卖状态，短线波动以区间整理为主。  \n\n支撑位可关注66100美元附近的SMA20及前低价位66326美元，若跌破则短期空头有机会加剧。阻力位则在日内高点66430美元附近，突破后有望测试66500美元及更高心理关口。价格在支撑与阻力之间震荡，操作需谨慎控制仓位。  \n\n交易上，建议短线关注低位轻仓做多，止损设置在支撑略下方，以防回调风险。若价格站稳日内高点，可考虑追涨，但需警惕市场延续性不足造成的假突破。整体策略以顺势操作、谨慎加仓为主，保持灵活应对短期波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating near the $66,400 level after a period of sideways movement. The price has remained within a narrow range between $66,326 and $66,431 over the past 24 hours, indicating a temporary equilibrium between buyers and sellers. Short-term momentum appears subdued, with the 20-period simple moving average acting as a mild support around $66,123. The current price hovering slightly above this SMA suggests buyers are maintaining mild control, but any sharp move below it could signal increased selling pressure.\n\nThe MACD reading of -407.72 indicates underlying bearish momentum, even though the price has stabilized near its current levels. The absence of a signal line limits the ability to detect immediate trend reversals, but negative MACD values typically point to the potential for downward pressure if buyers fail to step in. Despite this, the lack of a sharp decline in the last 24 hours suggests market participants are indecisive, creating a window for potential breakout scenarios once volume intensifies.\n\nSupport levels to watch are $66,123 at the SMA and the psychological floor near $66,000. On the upside, resistance exists around $66,430, with more substantial obstacles near $66,800–$67,000 if bullish momentum resumes. A sustained move above the resistance range could invite short-term traders to push for a retest of $67,500, while a break below support may open the door for a retest of $65,800. These levels are critical for managing risk and positioning trades effectively.\n\nFor trading strategies, cautious participants may consider waiting for confirmation of a breakout before entering long positions, ideally above $66,500 with volume confirmation. Short-term traders could exploit intraday oscillations between $66,123 and $66,430, targeting minor scalps while keeping stop-losses tight to protect against sudden volatility. Longer-term investors might use dips toward SMA support for accumulation, balancing exposure with disciplined risk management given the mixed momentum signals."
+    }
+  }
+}

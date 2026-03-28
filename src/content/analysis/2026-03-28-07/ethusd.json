@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-28T07:33:41.819Z",
+  "price": {
+    "close": "2005.33",
+    "high": "2007.65",
+    "low": "2000.78",
+    "open": "2001.43",
+    "change": "0.21",
+    "datetime": "2026-03-28 07:00:00"
+  },
+  "indicators": {
+    "rsi": 48.22967,
+    "macd": -11.30618,
+    "macd_signal": -16.73623,
+    "sma20": 1989.645
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[市场震荡，短期持稳]",
+      "content": "当前以太坊/美元(ETH/USD)的市场表现呈现震荡整理状态，价格处于2000美元附近的关键水平。24小时变化幅度较小，显示出市场暂时缺乏明确方向，价格在2000.78至2007.65区间内波动，表明市场短期内可能保持震荡。\n\n技术指标方面，RSI(14)数据缺失，无法提供超买或超卖的明确信号。MACD为负值(-11.30618)，显示出卖方力量较强，但由于缺乏信号线数据，无法准确判断价格反转的可能性。SMA(20)位于1989.645，作为支撑位，显示出短期内2000美元附近的支撑力度较强。\n\n从支撑与阻力来看，2000美元是关键支撑位，如果价格跌破该水平，可能进一步向下测试更低的支撑区间。上方2007.65则是当前的阻力位，若突破此点，可能带来短期上涨动能。建议在2000美元附近寻找买入机会，并密切关注突破阻力位时的走势变化。\n\n总的来说，目前市场缺乏明确的趋势，投资者应保持谨慎，关注支撑位的守稳与阻力位的突破，适时调整仓位。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum's price has been showing a slight upward movement, currently priced at $2005.33, reflecting a modest 0.21% gain over the last 24 hours. This limited price change suggests a consolidation phase after recent volatility, with ETH/USD ranging between $2000.78 and $2007.65. The market appears to be taking a breather before potentially breaking out in either direction. A critical observation is the price's proximity to its recent high, which could indicate a potential resistance level at $2007.65. A breach above this level may open the door for further bullish momentum toward the next resistance zone near $2050.\n\nIn terms of technical indicators, the current MACD reading at -11.30618 indicates a mild bearish momentum, although it is not particularly strong. The absence of a signal line complicates any immediate crossover analysis, but the negative MACD may hint at potential downward pressure if market sentiment weakens. The Relative Strength Index (RSI) is unavailable at the moment, making it difficult to gauge overbought or oversold conditions. However, the absence of significant momentum signals suggests the market is in a wait-and-see mode, poised for a breakout once the RSI becomes available.\n\nThe 20-period Simple Moving Average (SMA) stands at $1989.645, providing a useful reference for potential support. If the price moves lower and tests the SMA, it could act as a dynamic support level, and a bounce from here could signal a continuation of the uptrend. On the flip side, a move below the SMA may indicate a shift in sentiment, opening up the possibility of testing deeper support zones near $1950 or lower.\n\nFor traders, the key levels to watch are the $2007.65 resistance and the $1989.645 SMA support. A breakout above the resistance could offer long positions with targets around $2050, while a break below the SMA could warrant caution and potential short opportunities with targets around $1950. As always, market conditions should be monitored closely for any significant shifts in momentum."
+    }
+  }
+}
