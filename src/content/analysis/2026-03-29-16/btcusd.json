@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-29T16:30:18.337Z",
+  "price": {
+    "close": "66553.56",
+    "high": "66608.63",
+    "low": "66368.52",
+    "open": "66469.98",
+    "change": "0.13",
+    "datetime": "2026-03-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 47.7069,
+    "macd": -29.47602,
+    "macd_signal": -18.2407,
+    "sma20": 66608.617
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱，关注关键支撑",
+      "content": "当前比特币价格围绕66550美元附近小幅波动，日内涨幅有限，仅0.13%，显示市场短期动能偏弱。高低点区间窄幅震荡，反映多空力量暂时均衡，短线趋势难以明确突破，存在震荡整理的可能性。\n\n从技术指标来看，MACD负值且略低于零轴，暗示短期空方略占优势，但信号线数据缺失，需关注后续金叉或死叉形态确认趋势反转。20日均线位于66608美元上方，价格稍低于SMA，显示短线承压，短线可能延续整理或回调。\n\n支撑位方面，当前价格接近66350美元附近的短期支撑，如失守可能下探66200美元。阻力位则集中在66650-66700美元区间，如能有效突破，将为多方提供继续上行空间。注意观察成交量变化，量能放大或缩小均可能影响突破强度。\n\n交易策略上，短线建议保持观望，等待MACD信号线明确，或价格站稳20日均线再考虑多单布局。对于激进交易者，可在接近支撑区间尝试低位做多，同时设置止损于66150美元下方，以控制风险，防止短线快速回撤带来损失。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin price of $66,553.56 represents a relatively stable market with a slight 24-hour change of 0.13%. The high and low during this period show a narrow range, suggesting indecision in the market. This consolidation phase often signals potential breakout or breakdown scenarios depending on the next volume or price action. Given the lack of significant price movement, it’s crucial to watch for any sudden shifts that may push Bitcoin toward more pronounced levels.\n\nThe absence of the RSI (Relative Strength Index) and Signal Line for the MACD leaves us with limited momentum insights. However, the MACD reading of -29.47602 indicates a bearish trend, though this is not conclusive without a Signal Line to compare it to. This suggests that, while current momentum appears weak, we may need further confirmation through volume or a break of key levels before deciding whether the market is transitioning into a stronger downtrend or simply consolidating before a bullish move.\n\nLooking at the SMA(20), which is positioned at $66,608.62, we observe that the price is hovering just below this level, which may act as immediate resistance. A break above this level could trigger a move towards the higher end of the recent price range, potentially testing previous resistance points around $66,600–67,000. Conversely, a failure to break the SMA might suggest a pullback toward the support zone around $66,000 and $65,500, with the risk of further downside if these levels break.\n\nConsidering the current market conditions, a cautious approach may be warranted. Traders should monitor for a clear breakout above the $66,600 level or a breakdown below $65,500. If either happens, it could signal a more substantial move in either direction. For now, awaiting a clearer trend confirmation would be prudent."
+    }
+  }
+}
