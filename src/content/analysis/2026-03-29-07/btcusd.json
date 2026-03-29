@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-29T07:37:52.393Z",
+  "price": {
+    "close": "66588.33",
+    "high": "66676.5",
+    "low": "66495",
+    "open": "66674.92",
+    "change": "-0.13",
+    "datetime": "2026-03-29 07:00:00"
+  },
+  "indicators": {
+    "rsi": 47.7162,
+    "macd": -5.091529,
+    "macd_signal": -17.56082,
+    "sma20": 66698.5575
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，偏空格局",
+      "content": "当前比特币价格徘徊在$66,588附近，较24小时微幅下跌0.13%，显示短期多空力量接近平衡。价格仍低于20日均线$66,698，暗示短期偏空，但整体跌幅有限，呈现震荡整理态势。高低点$66,676/$66,495区间短期支撑明确。  \n\nMACD指标显示当前值为-5.09，负值表明空方动能略占优势，但信号线缺失限制了进一步确认，短线仍需观察动能变化。RSI未提供，但结合均线及价格走势，市场多空双方均谨慎，行情可能在现有区间反复震荡。  \n\n短期支撑位可关注$66,495及$66,300附近，若价格跌破则可能进一步回探$66,000心理关口；阻力位则在$66,700至$66,800区间，多头若突破该区域，将有望短线反弹至$67,200。均线压制明显，突破难度不小。  \n\n交易上建议保持谨慎，短线可考虑区间高抛低吸策略，避免追涨杀跌。若价格稳住$66,500上方并放量上涨，可适度做多；反之若跌破支撑且放量增加，应及时减仓或观望，严格控制仓位与风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently experiencing a relatively neutral trend, with a slight decline in the past 24 hours, showing a -0.13% change. The latest price stands at 66,588.33, indicating a consolidation phase near the key level of 66,700. This suggests a balance between buyers and sellers, with no clear direction emerging. The price is trading between the recent high of 66,676.5 and low of 66,495, reflecting tight price action and low volatility in the short term. \n\nWithout the RSI(14) and Signal for the MACD, it’s challenging to assess the momentum and strength of the market fully. However, the current MACD reading of -5.091529 indicates that the market might be in a mild bearish phase. If the MACD continues to show negative values, it could suggest a potential continuation of the downtrend, especially if further weakness is confirmed by a break below the 66,495 support level. In such cases, traders should watch for signs of bearish continuation, possibly targeting lower support levels.\n\nThe price is hovering just below the 20-period simple moving average (SMA) at 66,698.55750, which can act as a resistance level. A break above this SMA could indicate a bullish reversal, pushing the price higher toward the 66,700 region. The price action around the SMA suggests indecision, and traders may wait for a breakout or breakdown to confirm a more substantial move. Short-term traders might look for buying opportunities on a confirmed break above the SMA or consider shorting if the price fails to sustain above it.\n\nFor support levels, traders should keep an eye on the 66,495 level. A breach of this support could open the door for further downside movement, potentially testing lower support levels. Conversely, if Bitcoin can hold above this level and reclaim the 66,700 resistance, there could be opportunities for short-term gains. As always, risk management strategies like stop-loss orders should be employed to mitigate potential losses."
+    }
+  }
+}
