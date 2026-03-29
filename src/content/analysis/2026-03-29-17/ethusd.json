@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-29T17:52:20.641Z",
+  "price": {
+    "close": "1995.86",
+    "high": "2000.37",
+    "low": "1988",
+    "open": "1998.24",
+    "change": "-0.12",
+    "datetime": "2026-03-29 17:00:00"
+  },
+  "indicators": {
+    "rsi": 44.83565,
+    "macd": -3.92521,
+    "macd_signal": -3.27858,
+    "sma20": 2001.2145
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[当前震荡整理，关注支撑与阻力]",
+      "content": "当前以太坊/美元(ETH/USD)处于震荡整理的格局中，价格在1995.86附近波动。24小时变化幅度较小，仅为-0.12%。此时市场缺乏明显的上行或下行动力，可能意味着短期内继续维持区间波动。\n\n技术指标方面，RSI（相对强弱指数）未提供数据，难以准确判断超买或超卖状态。MACD显示负值（-3.92521），但缺乏信号线数据支持，因此仍难以确认趋势的转变。SMA(20)为2001.21450，说明当前价格略低于短期移动平均线，可能存在一定的下行压力。\n\n支撑位方面，1988为关键支撑，若价格跌破该位置，可能会测试更低的水平。上方的2000.37则构成初步的阻力位，突破该水平可能打开进一步上涨的空间。因此，操作上需要重点关注这些关键点位的突破情况。\n\n建议交易者在当前市场条件下采取观望策略，避免过早入场。若价格有效突破2000.37，可以考虑短期看涨。若跌破1988，则可适时调整为看空策略，风险控制应随时到位。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $1995.86, reflecting a slight 24-hour decline of 0.12%. The price is hovering near its recent low of $1988, which suggests a period of consolidation within a narrow range. The market's relative stability may signal a lack of clear direction, with traders potentially awaiting further catalysts for a breakout. A close below the $1988 low could open up the possibility of further downside towards the next key support at $1975, while any upside would need to breach the $2000 level to gain traction.\n\nThe absence of a clear RSI(14) reading makes it difficult to assess whether Ethereum is currently overbought or oversold. However, the MACD at -3.92521, with no signal line data available, indicates a bearish short-term momentum, suggesting that selling pressure is dominating at the moment. This could indicate a potential continuation of the downward trend unless the market finds fresh buying interest or positive news to reverse the momentum.\n\nThe 20-period simple moving average (SMA) at $2001.21 is a critical reference point, acting as resistance for Ethereum. Should the price retest and break above this level, it would suggest renewed bullish momentum, potentially targeting higher levels near $2025 or $2050. Conversely, any failure to reclaim the SMA could point to additional downside, especially if the price remains below $2000, confirming continued bearish sentiment.\n\nTraders may consider monitoring the $2000 level closely for any signs of reversal or breakout. A sustained move above this level would present an opportunity for long positions, with a stop loss near $1988 to limit risk. On the flip side, a breakdown below $1988 could trigger short positions, with targets near $1975 or lower. Patience and caution are key, as market sentiment can shift quickly in either direction."
+    }
+  }
+}
