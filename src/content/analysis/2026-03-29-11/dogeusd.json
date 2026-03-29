@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-03-29T11:08:48.181Z",
+  "price": {
+    "close": "0.09108",
+    "high": "0.09112",
+    "low": "0.09056",
+    "open": "0.09056",
+    "change": "0.56",
+    "datetime": "2026-03-29 11:00:00"
+  },
+  "indicators": {
+    "rsi": 47.73743,
+    "macd": -0.00014641209,
+    "macd_signal": -0.000052871227,
+    "sma20": 0.0914335
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏弱",
+      "content": "当前狗狗币价格在0.09108附近徘徊，较20日简单移动平均线(SMA20) 0.09143略低，显示短期承压迹象。价格在日内高低区间0.09112/0.09056内波动，缺乏明显单边趋势，市场呈现震荡整理格局。短线多空力量相对均衡，需关注突破SMA20的动态变化。  \n\nMACD指标显示为-0.000146，处于零轴下方，提示短期动能偏弱，但尚未形成明显死叉信号。由于RSI数据不可用，超买超卖状态难以判断，但结合价格接近支撑位置，可视为市场短线回调有限。技术指标整体反映多空力量胶着，短期可能延续震荡。  \n\n支撑位初步锁定在0.09056附近，为近期低点，若跌破可能引发进一步下行压力。阻力位关注0.09143及0.0920区域，接近SMA20和近期高点。价格在支撑和阻力之间震荡，短期行情可通过区间策略操作，关注突破方向。  \n\n交易策略上，建议短线投资者维持观望或区间低吸高抛为主，若价格稳住支撑且MACD出现拐头，可尝试小额多单；激进者可等待突破SMA20确认上涨动能后介入。风险控制上，跌破0.0905需设置止损，避免追高。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current market for Dogecoin (DOGE/USD) is showing a relatively stable price action, with the latest price at $0.09108, reflecting a slight 0.56% increase over the last 24 hours. The high and low prices of $0.09112 and $0.09056 suggest a tight trading range, indicating consolidation. This stability could signal an indecisive market, where buyers and sellers are in a standoff, and a breakout may be needed to define the next directional move. If Dogecoin continues to trade within this range, a breakout above $0.09112 could act as a bullish trigger, while a break below $0.09056 would confirm short-term bearish sentiment.\n\nThe technical indicators available provide some insight into potential future moves, though the Relative Strength Index (RSI) is currently unavailable, limiting our ability to analyze overbought or oversold conditions. The MACD shows a negative value at -0.00014641209, which could suggest a slight bearish momentum in the short term. However, since the MACD is not currently above the signal line, the trend is not confirmed as strongly bearish. Once the RSI data becomes available, it will provide additional context to gauge whether the market is nearing exhaustion.\n\nFrom a support and resistance perspective, the immediate support level lies at the low of $0.09056, while resistance is identified at $0.09112. A clear break above this resistance could open up further bullish potential, with targets at the next higher levels, such as $0.0920 or even $0.0940. On the downside, a breach of $0.09056 would bring the price closer to potential support around $0.0890, suggesting a possible retracement. \n\nFor traders, it's crucial to observe price action closely around these key levels. If the price breaks above the resistance, a cautious buy entry could be considered, with a stop loss near the support. Conversely, if the price fails to sustain above $0.09112 and begins to decline, a short entry near $0.091 could be a strategy, with stops above the resistance zone."
+    }
+  }
+}

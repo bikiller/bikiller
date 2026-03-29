@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-29T11:05:06.315Z",
+  "price": {
+    "close": "1996.98",
+    "high": "1996.98",
+    "low": "1995.42",
+    "open": "1996.33",
+    "change": "0.05",
+    "datetime": "2026-03-29 11:00:00"
+  },
+  "indicators": {
+    "rsi": 42.8574,
+    "macd": -2.93889,
+    "macd_signal": -1.79017,
+    "sma20": 2008.545
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏空整理",
+      "content": "当前以太坊价格徘徊在1996美元附近，较SMA(20) 2008.55略低，显示短期均线承压，整体呈震荡偏空格局。价格波动幅度有限，日内高低点仅相差约1.5美元，市场缺乏明确方向，多空力量处于均衡状态。  \n\nMACD指标显示快线低于零轴，且数值为-2.93889，暗示动能偏弱，但由于信号线缺失，趋势确认仍需谨慎。短期RSI缺失，难以判断超买或超卖，但结合价格与均线关系，可推测买方力量暂时受限，市场偏向承压整理。  \n\n支撑位可关注前低1995.4附近，若跌破可能触发短线空头加速；阻力位位于20日均线2008.5，突破该位置则可能重启上行趋势。价格若在支撑与阻力区间持续震荡，则区间交易机会较多，适合短线操作。  \n\n交易建议上，谨慎偏空思路为主，短线可在接近支撑区域适量做多，止损设置在前低下方；若价格靠近均线阻力，可考虑减仓或短线轻仓做空，关注突破信号以判断趋势反转的可能性。整体保持灵活应对，控制仓位风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum’s price action around $1996.98 suggests a period of short-term consolidation. The narrow intraday range between $1995.42 and $1996.98 indicates low volatility, with neither bulls nor bears showing decisive control. Compared with the 20-day simple moving average at $2008.54, the current price is slightly below, signaling mild bearish pressure. This minor deviation suggests the market may retest the SMA as resistance if upward momentum resumes, or consolidate near the current level before any directional breakout.  \n\nThe MACD reading at -2.93889, despite the absence of the signal line, points to prevailing bearish momentum. While the value is not extreme, it reflects that selling pressure has slightly dominated over short-term gains. In combination with a price slightly below the SMA, this could imply cautious sentiment among traders. Without the RSI for confirmation, momentum interpretation should rely on price behavior near key technical levels and volume indicators, which may reveal early signs of a shift in trend.  \n\nImmediate support appears near $1990, where previous price reactions have stalled declines, while resistance is expected around the $2008-$2010 zone, coinciding with the 20-day SMA. A sustained break above $2010 could trigger renewed buying interest, targeting $2030 and higher levels. Conversely, failure to hold $1990 may open the path toward $1975, testing deeper support. Traders should watch for candlestick patterns at these levels to gauge potential reversal or continuation signals.  \n\nFor trading strategies, short-term traders might consider a range-bound approach, capitalizing on minor oscillations between support and resistance. Conservative positions could wait for a clear breakout above the SMA or a confirmed breakdown below $1990. Position sizing and stop-loss placement are crucial given the current low-volatility environment. Overall, while Ethereum shows restrained movement, technical signals lean slightly bearish, and careful observation of key levels will be essential for identifying actionable opportunities."
+    }
+  }
+}
