@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-03-30T22:03:23.253Z",
+  "price": {
+    "close": "1.33126",
+    "high": "1.33126",
+    "low": "1.33041",
+    "open": "1.33041",
+    "change": "0.04",
+    "datetime": "2026-03-30 22:00:00"
+  },
+  "indicators": {
+    "rsi": 43.26683,
+    "macd": -0.0026946584,
+    "macd_signal": -0.0001472813,
+    "sma20": 1.34389
+  },
+  "analysis": {
+    "zh": {
+      "title": "瑞波币/美元技术分析：短期盘整偏弱",
+      "content": "当前XRP/USD价格徘徊在1.33126附近，距离20日简单移动均线(SMA20)1.34389仍有一定下行空间，显示短期上行动能有限。价格在高低点之间波动极小，说明市场多空力量相对均衡，短期趋势偏向盘整整理。  \n\nMACD指标为-0.0027，虽未提供信号线，但负值表明空方略占上风，动能尚未出现明显反转。结合价格逼近均线下方，可理解为短期仍承压，但缺乏强烈卖盘，因此可能以横盘震荡为主。  \n\n支撑位初步关注1.3300附近，若跌破该水平，可能进一步下探1.3250附近；阻力位则在1.3439附近，若突破则有望重拾上行动能。该区间内波动有限，操作上应控制仓位，注意风险管理。  \n\n交易建议上，短线投资者可考虑区间震荡策略，低位小幅买入，高位减仓离场；中长线投资者则应等待价格稳健突破SMA20或关键阻力位，确认趋势方向后再加仓，以降低回撤风险。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "The Ripple (XRP) market is currently in a narrow range with price fluctuations between $1.33126 and $1.33041, indicating a consolidation phase. Despite the minimal 24-hour change of 0.04%, the price has failed to break out decisively in either direction, pointing to a lack of strong momentum. In the absence of clear trend signals from the RSI and MACD, this suggests a market in equilibrium, with both bulls and bears lacking enough power to push the price meaningfully in one direction.\n\nThe absence of an RSI reading leaves the momentum aspect unclear, but the MACD value of -0.0027 points to a slight bearish bias. The negative MACD shows that recent momentum is marginally downward, although the trend is not strongly negative. Traders should watch closely for potential reversals or an increase in trading volume, which may signal either a breakout to the upside or downside. A positive crossover in the MACD or an RSI reading above 50 could provide early indications of bullish momentum.\n\nIn terms of price action, the 20-period Simple Moving Average (SMA) at $1.34389 acts as a potential resistance level, while the recent low near $1.33041 provides a key support. If XRP fails to break the resistance at $1.34389, a retreat towards the lower boundary around $1.33041 is likely. A break below this support could signal a deeper pullback towards the next key support level, potentially around $1.32. Conversely, a breakout above the SMA could initiate a rally towards higher resistance levels near $1.35.\n\nFor traders, short-term scalpers may consider range trading between $1.33041 and $1.34389, taking advantage of the current lack of direction. However, for those looking for a longer-term position, it would be prudent to wait for more confirmation of momentum either from a MACD crossover or a breakout above the SMA, as this would suggest a more substantial move in either direction."
+    }
+  }
+}
