@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-30T02:04:28.101Z",
+  "price": {
+    "close": "66670.42",
+    "high": "66698.99",
+    "low": "66595.49",
+    "open": "66595.49",
+    "change": "0.11",
+    "datetime": "2026-03-30 02:00:00"
+  },
+  "indicators": {
+    "rsi": 54.064931,
+    "macd": -64.96087,
+    "macd_signal": -82.15345,
+    "sma20": 66461.4805
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡整理，偏多思路",
+      "content": "当前BTC/USD价格在66670附近小幅波动，日内涨幅有限，仅0.11%，显示市场多空力量暂时均衡。短期趋势呈震荡整理，价格在20日均线$66461.48$上方运行，短线仍有轻微多头支撑，但缺乏明显突破信号，需关注波动区间。  \n\nMACD处于负值区域，显示动能偏弱，但尚未出现快速下行，暗示短期空方压力有限。结合缺少RSI数据，可参考均线附近支撑判断市场承压能力，价格若能稳定在20日均线上方，则有进一步回升空间。短线操作宜谨慎，以震荡盘整策略为主。  \n\n日内支撑位初步设在$66595$附近，若跌破则可能回调至$66450$一线；阻力位在$66699$附近，若突破则短线可能测试$66850$左右。多空分界清晰，突破关键支撑或阻力将引发下一波趋势。  \n\n交易建议上，短线可考虑低多高空策略，控制仓位并设置止损。长期投资者可等待20日均线确认支撑后逐步布局，避免追高。谨防假突破及高波动带来的风险，保持耐心与纪律性操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently showing a tight trading range, hovering near the $66,670 mark. Over the past 24 hours, the price has experienced a modest 0.11% increase, suggesting a period of consolidation. The price action between the high of $66,698.99 and the low of $66,595.49 indicates a lack of significant momentum, with market participants unsure of the next direction. Without clear breakouts in either direction, Bitcoin appears to be testing its current support and resistance levels.\n\nThe lack of an available RSI and Signal data means that typical momentum-based indicators aren't providing insights into overbought or oversold conditions. However, the MACD reading at -64.96 suggests a negative short-term trend. This bearish MACD crossover points to potential selling pressure, though it remains far from extreme levels. Traders should watch for a potential MACD cross-over into the positive range for signs of trend reversal.\n\nIn terms of price action, the 20-period SMA at $66,461.48 acts as a crucial short-term support level. Any breach below this level could lead to further downside risk, testing lower support levels. Conversely, the immediate resistance zone lies just above the recent high, around $66,700. A sustained break above this level could signal the continuation of bullish momentum, and traders should monitor this zone for possible breakout opportunities.\n\nGiven the current market behavior, a cautious approach is recommended. For risk-averse traders, waiting for confirmation of a breakout above $66,700 or a breakdown below $66,461 could offer clearer trading signals. For those with higher risk tolerance, short-term scalping strategies may be considered, but careful attention to volume and volatility is essential."
+    }
+  }
+}
