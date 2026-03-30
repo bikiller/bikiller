@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-30T18:11:58.035Z",
+  "price": {
+    "close": "82.91",
+    "high": "83.36",
+    "low": "82.87",
+    "open": "83.18",
+    "change": "-0.32",
+    "datetime": "2026-03-30 18:00:00"
+  },
+  "indicators": {
+    "rsi": 45.43221,
+    "macd": 0.31788358,
+    "macd_signal": 0.41507555,
+    "sma20": 83.553
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 82.91\\n- 24小时变化: -0.32%\\n- 高点/低点: 83.36 / 82.87\\n- RSI(14): N/A\\n- MACD: 0.31788358, Signal: N/A\\n- SMA(20): 83.553\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：震荡偏弱延续\n\n当前价格回落至82.9附近，短期趋势呈**横盘震荡偏弱**。价格未有效站上20日均线83.55，显示上行动能不足，多空仍在附近反复博弈，短线方向依赖关键阻力/支撑的突破确认。\n\n技术指标MACD仍维持在中性偏多区（0.317），但Signal不可用使信号不够明确，无法确认强烈买入信号。RSI数据缺失使超买超卖判断受限，需结合成交量与其他震荡指标辅助分析。\n\n短期阻力位关注**83.5–84.2区域**，多次触及未能突破；支撑关注**82.0–81.5区域**，若失守则可能下探更深调整。区间内震荡特征明显，支撑、阻力密集，波动空间有限。\n\n建议短线交易以区间操作为主，近阻力区尝试逐步减仓或观望，上破确认后再考虑进场；下破支撑可考虑分批做空或轻仓跟进，但风险控制至关重要，止损须紧随结构位设置。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 82.91\\n- 24h Change: -0.32%\\n- High/Low: 83.36 / 82.87\\n- RSI(14): N/A\\n- MACD: 0.31788358, Signal: N/A\\n- SMA(20): 83.553\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nThe short‑term trend for SOL/USD appears to be mildly bearish as price is trading below the 20‑period simple moving average, which suggests short‑term sellers have control despite modest sideways movement. The latest quote around **82.91** reflects a slight pullback from recent highs, and the narrow intraday range shows consolidation rather than strong directional conviction. If selling pressure intensifies, the pair could revisit recent support near **81.50–81.00**.\n\nWith incomplete oscillator data, we infer momentum cautiously. The MACD reading at **0.3179** without a signal line makes trend strength ambiguous, but price hovering around key averages suggests waning bullish momentum. The absence of an RSI figure leaves a gap in overbought/oversold context, yet the price below SMA(20) generally aligns with mild bearish undertones. Should the MACD cross lower once fully calculated, it could reinforce bearish momentum.\n\nKey support levels to watch include the recent swing lows near **81.50**, with a deeper support around **80.00**; a break below these could open the door to **78.50–78.00**. On the upside, resistance lies near the 20‑period SMA around **83.55**, followed by psychological resistance at **85.00**. Clearing and holding above these would be a positive sign for bulls, especially if volume increases.\n\nFrom a trading standpoint, cautious traders might wait for confirmation of direction — ideally price closing above the SMA(20) with improving indicators for longs, or a decisive break and retest of support for shorts. Tight risk management is crucial; placing stop‑losses just beyond **85.50** on longs or **79.50** on shorts can help manage adverse moves while aligning with the current mixed technical picture."
+    }
+  }
+}
