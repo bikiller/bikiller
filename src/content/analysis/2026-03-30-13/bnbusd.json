@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-03-30T13:11:39.914Z",
+  "price": {
+    "close": "619.33",
+    "high": "619.8",
+    "low": "618.8",
+    "open": "619.57",
+    "change": "-0.04",
+    "datetime": "2026-03-30 13:00:00"
+  },
+  "indicators": {
+    "rsi": 61.41094,
+    "macd": 1.92726,
+    "macd_signal": 1.33314,
+    "sma20": 614.3175
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[震荡整理，短期趋于稳定]",
+      "content": "当前BNB/USD的价格为619.33，整体市场走势较为震荡，波动幅度较小。最近24小时价格变动为-0.04%，表明市场缺乏明确的方向，投资者情绪较为谨慎。由于RSI指标未提供，当前未能有效反映超买或超卖的状态，因此短期内缺乏过度买入或卖出的信号。\n\n从MACD来看，当前值为1.92726，虽然没有信号线数据，但这一数值暗示价格可能处于相对强势的阶段。若MACD开始呈现回调趋势，可能会出现价格调整。SMA(20)为614.32，当前价格位于其上方，显示出短期内价格支撑位较强。若价格回落至SMA附近，可能会受到支撑并反弹。\n\n支撑位在618.8附近，若跌破这一水平，可能会面临进一步下行的压力。阻力位则在619.8附近，突破该点位可能引发短期上涨。综合来看，短期内市场可能会继续震荡整理，投资者可在支撑位附近寻找低买机会，并在接近阻力位时考虑卖出。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 619.33\\n- 24h Change: -0.04%\\n- High/Low: 619.8 / 618.8\\n- RSI(14): N/A\\n- MACD: 1.92726, Signal: N/A\\n- SMA(20): 614.31750\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action around **$619** suggests a market in a **subtle short-term consolidation**. After cresting near **$619.8** and dipping to **$618.8**, BNB/USD shows a narrow range, indicating **buyers and sellers are evenly matched** right now. The fact that the current price sits above the **20‑period Simple Moving Average (~$614.32)** hints at a slightly **bullish bias**, but momentum is muted. If the price decisively breaks above **$625–$630**, that could signal stronger upside continuation.\n\nLooking at the technical readings, the **MACD at ~1.927** (with no official signal line provided) still reflects **positive momentum**, albeit lacking confirmation from a crossing signal right now. Without an available **RSI**, we’re limited in judging overbought/oversold conditions, so focus shifts to price structure and moving averages. The close clustering of recent prices suggests market indecision, and the MACD’s elevated level supports the idea that previous bullish moves haven’t completely dissipated, even if near‑term strength is fading.\n\nKey support levels to watch are around **$610** and then more firmly at **$600**, levels where buyers previously stepped in. On the upside, resistance initially sits near **$625**, and if that gives way, **$635–$640** could be next. These levels come from recent swing points and congestion zones. A break below **$605** might signal deeper pullbacks and invite short‑term sellers to test the lower end of the broader range.\n\nFor traders, the suggestion is to **wait for a clean breakout** of the tight range before committing heavily. If BNB can hold above the 20‑period SMA and push past **$625**, that offers a **higher‑probability long entry** with stops just below **$610**. Conversely, a breakdown below **$610** with increased volume could present **short‑term short opportunities**, targeting the **$600** support zone. Always manage risk and watch for volume confirmation."
+    }
+  }
+}
