@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-30T09:07:19.052Z",
+  "price": {
+    "close": "67582.99",
+    "high": "67617.21",
+    "low": "67544",
+    "open": "67617.21",
+    "change": "-0.05",
+    "datetime": "2026-03-30 09:00:00"
+  },
+  "indicators": {
+    "rsi": 63.85156,
+    "macd": 265.14874,
+    "macd_signal": 139.43598,
+    "sma20": 66767.6
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，等待方向突破",
+      "content": "当前比特币价格维持在67580美元附近，较昨日几乎无明显波动，显示市场短期多空力量相对均衡。价格略高于20日均线(SMA20=66767.6)，表明中期仍有轻微上行支撑，但动能不足以推动强烈趋势。短期内行情可能继续维持震荡整理，等待突破信号确认方向。  \n\nMACD指标显示当前柱状图为正值(265.15)，但缺乏信号线数据，暗示上行动能存在但不够明确，市场仍处于观望阶段。若未来MACD柱状图持续扩大并形成金叉，则可能引发短线多头进攻；反之，若柱状图缩小或出现死叉，则多头动能迅速减弱。  \n\n支撑位主要关注67000美元附近，若跌破该区域可能触发短期回调至66800-66700美元；阻力位位于67650-67700美元区间，多次未突破将加大震荡压力。投资者可根据价格接近支撑/阻力区灵活调整仓位，并结合成交量观察突破有效性。  \n\n交易建议上，短线可采取区间交易策略，在支撑附近小幅做多，靠近阻力区短线减仓或止盈。中长线投资者应耐心等待趋势明朗后再入场，避免追高或盲目加仓，同时关注市场消息面和整体比特币资金流动性，以降低操作风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $67,583, showing minimal movement in the past 24 hours with a negligible 0.05% decline. The short-term trend appears cautiously bullish as the price remains above the 20-period simple moving average at $66,768. This suggests that despite minor retracements, momentum is favoring buyers, and the market is holding higher lows. The intraday price range between $67,544 and $67,617 indicates consolidation near a recent high, signaling indecision among traders before a potential directional move.  \n\nThe MACD at 265.15, although lacking a current signal line for confirmation, suggests that momentum is positive but may be approaching an overextended region. Traders should be alert to a potential slowdown in bullish momentum. The absence of a precise RSI reading limits the assessment of overbought or oversold conditions, but given the proximity to recent highs, caution is warranted for those considering fresh long positions. Short-term retracements could provide opportunistic entry points rather than chasing upward momentum.  \n\nSupport levels are evident near the 20-period SMA at $66,768 and the daily low of $67,544, which could act as a floor in case of corrective moves. Resistance is concentrated around $67,617, the intraday high, with psychological barriers near $68,000 potentially testing buyers’ conviction. Traders should watch these zones closely, as a decisive break above $68,000 may signal an extension of the bullish trend, whereas a breach below $66,768 could trigger a deeper pullback toward the mid-$66,000 range.  \n\nGiven the current setup, cautious long strategies with defined stop-loss levels just below $66,768 may be prudent. Scalpers could consider short-term range trades between $67,544 and $67,617 while waiting for confirmation of trend continuation. Risk management remains critical, as volatility spikes could occur during breakout attempts. Overall, Bitcoin shows underlying strength, but careful attention to momentum signals and key support/resistance levels will determine near-term trading opportunities."
+    }
+  }
+}
