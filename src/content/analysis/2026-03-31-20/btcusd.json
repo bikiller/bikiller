@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-31T20:39:23.355Z",
+  "price": {
+    "close": "68016.1",
+    "high": "68135.82",
+    "low": "67762.7",
+    "open": "67772.92",
+    "change": "0.36",
+    "datetime": "2026-03-31 20:00:00"
+  },
+  "indicators": {
+    "rsi": 60.45016,
+    "macd": 158.42388,
+    "macd_signal": 31.9406,
+    "sma20": 67230.833
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，关注突破",
+      "content": "目前，比特币/美元(BTC/USD)的价格处于震荡整理区间，最新价格为68016.1美元，24小时变化幅度为0.36%。价格在67762.7美元和68135.82美元之间波动，显示市场情绪相对谨慎。短期内，比特币未出现强势突破，市场仍在等待明确的方向信号。\n\n从技术指标来看，RSI(14)未提供数据，因此暂时无法进行超买或超卖的判断。MACD指标显示158.42的正值，说明短期内多头力量稍占优势，但缺乏信号线的确认，进一步的上涨动力仍需等待确认。SMA(20)位于67230.83，表明价格高于短期均线，整体偏向多头趋势。\n\n支撑位方面，67762.7美元是短期的关键支撑区域，若价格跌破该位，可能进一步测试更低的支撑。而阻力位则位于68135.82美元，一旦突破该点位，可能会引发新的上涨趋势，突破后目标可能指向69000美元以上。\n\n建议交易者在当前震荡区间内保持观望，等待价格突破67762.7美元或68135.82美元时再作进一步决策。若价格突破阻力位，可考虑适度进场多单，若跌破支撑位，则可考虑空单。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing signs of short-term strength, trading around $68,016. The price has slightly exceeded the 20-period simple moving average at $67,230, suggesting a mild bullish momentum. Recent intraday fluctuations between $67,762 and $68,135 indicate consolidation, as the market seeks direction. While the 24-hour change of 0.36% reflects moderate upward movement, traders should note that the limited volatility hints at a potential continuation of this sideways range before a decisive breakout occurs.  \n\nThe MACD reading of 158.42, despite the absence of a signal line, signals underlying bullish momentum. Historically, rising MACD values above the moving average suggest increasing upward pressure, which aligns with Bitcoin holding above its short-term SMA. The lack of an RSI value limits overbought/oversold interpretation, but price positioning near recent highs indicates caution. Momentum traders might wait for confirmation of MACD crossovers or divergence to time entries with lower risk.  \n\nKey support appears near $67,230, corresponding to the 20-period SMA, and additional support exists around $67,000, providing a buffer against short-term pullbacks. Resistance is immediate at $68,135, marking the recent intraday high, and a break above $68,500 could open the path toward $69,000. These levels frame potential trading zones, helping traders define stop-loss points and profit targets in anticipation of trend continuation or reversal scenarios.  \n\nFor tactical positions, conservative traders may prefer waiting for a clear breakout above $68,135 before entering long positions, using $67,500 as a protective stop. More aggressive traders could consider buying near the SMA support, targeting the $68,500–$69,000 range while monitoring volatility closely. Short positions should be reserved for confirmed breakdowns below $67,000, with stops just above the recent consolidation high to manage risk effectively. Consistent attention to intraday price behavior and MACD shifts is essential for navigating the current mixed momentum environment."
+    }
+  }
+}
