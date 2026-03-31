@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-31T11:33:11.609Z",
+  "price": {
+    "close": "66620.01",
+    "high": "66821.08",
+    "low": "66174.33",
+    "open": "66301.2",
+    "change": "0.48",
+    "datetime": "2026-03-31 11:00:00"
+  },
+  "indicators": {
+    "rsi": 44.27193,
+    "macd": -110.034137,
+    "macd_signal": 13.14102,
+    "sma20": 67003.032
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前比特币价格在66620美元附近波动，接近20日简单移动均线(SMA20)67003美元下方，显示短期承压迹象。价格虽较昨日小幅上涨0.48%，但未能有效突破SMA20，暗示多头动力有限，市场情绪偏中性偏弱。  \n\nMACD处于-110左右，仍为负值，虽缺少信号线参考，但负值区间显示空方力量仍占优势，短线可能延续整理或轻微回落。高低点66821/66174形成短期震荡区间，若突破上沿，则可能迎来反弹机会；跌破下沿则需警惕进一步下探支撑。  \n\n关键支撑位关注66174及前期低点65800附近，若价格守稳可考虑低位布局；阻力位在67000及67250附近，短线突破确认后可逐步建仓。震荡行情下，建议以区间操作为主，避免追高，严格设置止损控制风险。  \n\n综合来看，比特币当前处于短期偏弱震荡格局，多空力量交织，建议保持观望，等待MACD形成明确多头信号或价格突破SMA20上方确认趋势，交易策略应以顺势和风险管理为核心。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has shown mild upward momentum in the past 24 hours, trading around $66,620 after hitting a daily high of $66,821 and a low of $66,174. Price action suggests short-term consolidation near the $66,500–$66,800 range. Despite the small 0.48% increase, the asset remains slightly below its 20-period simple moving average at $67,003, indicating sellers are still subtly influencing market direction. Overall, the market currently reflects a cautious bullish bias with limited follow-through.\n\nThe MACD value of -110.03 points toward a bearish undertone, suggesting that the momentum from previous upward moves is weakening. With the signal line unavailable, traders should focus on crossover patterns and divergence in the coming sessions for confirmation. The absence of a computed RSI leaves a gap in overbought/oversold insights, so price action and moving averages will be critical in gauging short-term momentum shifts.\n\nSupport levels appear around $66,200, representing a floor for intraday dips, while resistance is clearly near $67,000–$67,100, coinciding with the SMA(20). A breakout above this range with volume could trigger a sustained upward leg, whereas a breach of support may test lower zones near $65,800. Observing candle structures and trading volume will provide clues for potential trend continuation or reversal scenarios.\n\nGiven the mixed signals, cautious traders may consider range-bound strategies, buying near support and trimming positions close to resistance. Momentum traders should wait for confirmation of MACD recovery or SMA breach before entering new positions. Stop-loss placement just below $66,000 would help manage risk, while targets near $67,500–$68,000 align with potential upside momentum if bullish pressure resumes. Patience and confirmation remain key in this market phase."
+    }
+  }
+}
