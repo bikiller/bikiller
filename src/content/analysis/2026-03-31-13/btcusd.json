@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-03-31T13:08:02.390Z",
+  "price": {
+    "close": "66657.18",
+    "high": "66700.03",
+    "low": "66589.89",
+    "open": "66589.89",
+    "change": "0.10",
+    "datetime": "2026-03-31 13:00:00"
+  },
+  "indicators": {
+    "rsi": 45.041517,
+    "macd": -134.49974,
+    "macd_signal": -38.70744,
+    "sma20": 66960.776
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[当前震荡整理，等待突破信号]",
+      "content": "当前比特币/美元市场价格为66657.18，呈现小幅震荡整理的态势。价格高低点在66700.03与66589.89之间波动，显示出市场情绪处于暂时平衡状态。由于缺乏明显的上涨或下跌动能，市场暂时未能形成明确的趋势方向。\n\n技术指标方面，RSI和MACD未提供有效的信号。MACD值为负值（-134.49974），表明短期内市场可能面临卖压，但信号线和RSI数据缺失，导致难以给出进一步的买入或卖出建议。在SMA(20)为66960.776的背景下，短期内价格依然被压制在这一水平附近。\n\n支撑位方面，66589.89是近期低点，若价格下行突破该位，可能会考验更深的支撑区间，如66000附近。阻力位则位于66700一线，突破该价位可能带来短期反弹，甚至重新测试67000区域的阻力。\n\n基于当前市场态势，建议投资者保持观望，等待价格突破66700或66589.89，确认后再做进一步操作。若突破上涨，可以考虑短线多单；若跌破支撑位，则需注意止损，防止下行风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently in a range-bound phase, with the price fluctuating between the high of $66,700.03 and the low of $66,589.89 over the past 24 hours. The latest price of $66,657.18 reflects minimal movement, indicating a period of consolidation. Without a clear directional trend, market participants may find it difficult to establish a strong bias, suggesting that Bitcoin is in a wait-and-see mode. However, its proximity to the $66,960.776 20-period Simple Moving Average (SMA) suggests a slight bearish tilt in the short term, but this is not conclusive on its own.\n\nFrom an indicator perspective, the MACD value of -134.49974 indicates a bearish momentum, though no clear signal line crossover has yet formed, leaving the market uncertain. The absence of a Relative Strength Index (RSI) further complicates the analysis, but the MACD's negative reading may indicate a potential for further downward pressure if the momentum intensifies. Currently, Bitcoin seems to be caught between two forces: a potential shift lower and the presence of the SMA support, which could offer a bounce if prices test the $66,500 level.\n\nLooking at key support and resistance levels, immediate support appears near $66,589, with a deeper support zone forming around $66,400. On the upside, Bitcoin faces resistance just above the SMA at $66,960, and any upward movement beyond this may need to clear the $67,000 mark before confirming a breakout. Traders should watch for a breakout in either direction, as a strong move through either $66,400 or $66,960 could trigger an extended rally or a deeper retracement.\n\nIn terms of trading strategies, maintaining a neutral stance may be prudent until a clearer trend is established. For risk-averse traders, waiting for either a breakout above $66,960 or a breakdown below $66,400 could offer better opportunities to enter positions. For more aggressive traders, a range-bound strategy may work, capitalizing on small price movements within the established range."
+    }
+  }
+}
