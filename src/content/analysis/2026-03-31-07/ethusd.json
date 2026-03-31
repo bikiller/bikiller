@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-03-31T07:55:41.665Z",
+  "price": {
+    "close": "2054.29",
+    "high": "2062.48",
+    "low": "2042.11",
+    "open": "2062.2",
+    "change": "-0.38",
+    "datetime": "2026-03-31 07:00:00"
+  },
+  "indicators": {
+    "rsi": 53.084279,
+    "macd": 7.27582,
+    "macd_signal": 7.14639,
+    "sma20": 2052.705
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，等待方向突破]",
+      "content": "当前以太坊/美元的价格维持在2050附近，市场呈现震荡整理的状态。短期内价格波动在2042和2062之间，尚未出现明显的趋势突破。当前没有RSI数据，而MACD线则为7.27582，表明市场略微处于上升势头，但信号线缺失，导致趋势判断较为模糊。\n\n从SMA(20)指标来看，2052.7的均线为支撑位，价格稳步运行在该均线附近，显示出一定的横盘整理特征。若价格跌破这一水平，可能会进一步回调至2042附近，形成强支撑。而若突破2062阻力位，则可能启动新的上行走势。\n\n考虑到目前的市场波动性，投资者应密切关注2042和2062的关键价格区间。若价格突破2062，建议谨慎看多；若跌破2042，则可以考虑适度做空，目标下行空间至2000关口附近。市场目前较为平静，适合短线交易者进行区间操作。\n\n总的来说，短期内以太坊/美元可能继续维持震荡整理的格局，投资者需耐心等待突破信号，避免追高或盲目做空，灵活应对市场变化。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently in a slightly bearish short-term trend, as indicated by the minor drop of 0.38% over the last 24 hours. The price has been fluctuating within a narrow range between the high of 2062.48 and the low of 2042.11, suggesting consolidation. The market is showing indecision, with the price holding just above the 20-period simple moving average (SMA) of 2052.705, which is acting as a dynamic support level. A break below this SMA could signal further weakness and a potential retest of the lower boundary around 2042.\n\nThe RSI, which is not available in this instance, would typically provide valuable insight into whether Ethereum is in overbought or oversold conditions, and could be helpful for gauging potential reversal points. In the absence of this indicator, traders should pay close attention to price action for signs of momentum shift. Currently, the MACD is slightly positive at 7.27582, indicating that the short-term momentum is still bullish, though without a clear confirmation from the signal line, it is difficult to assess the sustainability of this momentum.\n\nLooking at support and resistance levels, the immediate support is at 2042.11, with a break below that level opening the door for further downside towards the next key support at 2000. On the upside, resistance is found at 2062.48. If ETH manages to break above this level with strong volume, it could target the 2100 level, which might serve as a more substantial resistance zone. \n\nFor trading, cautious buying near the support levels of 2042 or 2052 could present opportunities if price action confirms a bounce. Alternatively, waiting for a clear break above 2062 could trigger a more confident long position. Conversely, traders could consider shorting if the price fails to hold above the SMA and breaks below 2042. Consistent monitoring of the MACD and subsequent price behavior will provide further insight into market direction."
+    }
+  }
+}
