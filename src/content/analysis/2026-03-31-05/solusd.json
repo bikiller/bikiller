@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-03-31T05:45:07.699Z",
+  "price": {
+    "close": "83.28",
+    "high": "83.34",
+    "low": "82.83",
+    "open": "83.26",
+    "change": "0.01",
+    "datetime": "2026-03-31 05:00:00"
+  },
+  "indicators": {
+    "rsi": 50.68071,
+    "macd": 0.050863118,
+    "macd_signal": 0.066831185,
+    "sma20": 83.439
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 83.28\\n- 24小时变化: 0.01%\\n- 高点/低点: 83.34 / 82.83\\n- RSI(14): N/A\\n- MACD: 0.050863118, Signal: N/A\\n- SMA(20): 83.439\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：横盘观望趋势震荡\n\n当前价格在83.28附近反复震荡，短线趋势偏中性整理，没有明显上破或下破信号，市场多空力量暂时均衡。价格围绕20日均线83.439轻微波动，表明短期多头动能未能显著扩大，但也未衰竭。\n\n技术指标MACD柱线为正但力度不强，显示动能有温和偏多倾向，但信号线数据缺失限制判断精准度。若未来MACD形成金叉且放量，可能提示趋势转强；反之若回落破零轴则偏向弱势。\n\n支撑位可以关注82.50附近前低区域，若价格失守该支撑则下探空间打开。阻力位则在83.60~84.00区域，如果突破并站稳，可视为短线多头确认，吸引追随买盘带来进一步上攻。\n\n交易建议上，短线策略宜以震荡为主，耐心等待明确趋势信号。可在支撑附近轻仓做多，止损略低于82.50，同时阻力区间遇阻适当减仓或短期获利了结，控制风险为先。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 83.28\\n- 24h Change: 0.01%\\n- High/Low: 83.34 / 82.83\\n- RSI(14): N/A\\n- MACD: 0.050863118, Signal: N/A\\n- SMA(20): 83.439\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nPrice action around **$83.28** suggests a very tight range over the last 24 hours, showing *near-term indecision*. The *slight uptick* from the session low of **$82.83** toward the high **$83.34** points to a muted bullish bias but lacking conviction. Given the 20‑period simple moving average at **83.439**, SOL is slightly below this dynamic reference, signaling that short‑term momentum is sagging and trend direction is unclear rather than decisively up or down.\n\nWithout a valid RSI(14) reading, momentum strength is harder to quantify, but the positive MACD value (~0.051) still hints at underlying bullish energy. The absence of the signal line reading means we must be cautious interpreting crossover signals, yet the MACD being above zero typically aligns with upward bias over the medium timeframe. Traders might see this as a *mild bullish confirmation* but should look for divergence or confirmation once full values are available.\n\nKey levels to watch: support near **$82.50–$82.80** from recent lows, and a more meaningful support around **$80** based on psychological round numbers. On the upside, immediate resistance lies around the **$83.40–$83.60** cluster of the recent highs and SMA(20). A break above **$84** could attract fresh buyers, while failure to hold the **$82.50** zone might open door toward **$80–$79** support.\n\nGiven the rangebound structure, short‑term traders might favor *range strategies*, scaling longs near support with tight stops and targeting the upper end of the range. For trend followers, waiting for a clean break above **$84** with volume confirmation or a drop below **$82.50** would offer clearer directional cues. Always consider risk management, as low volatility can precede sharp moves in either direction."
+    }
+  }
+}
