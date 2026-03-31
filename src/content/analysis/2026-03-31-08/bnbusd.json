@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-03-31T08:55:22.776Z",
+  "price": {
+    "close": "608.2",
+    "high": "611.21",
+    "low": "606.4",
+    "open": "611.02",
+    "change": "-0.46",
+    "datetime": "2026-03-31 08:00:00"
+  },
+  "indicators": {
+    "rsi": 39.26309,
+    "macd": -0.87270685,
+    "macd_signal": -0.46226483,
+    "sma20": 613.003
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期偏弱整理趋势",
+      "content": "当前BNB价格在608.2附近震荡，较20日均线SMA(20)613略低，显示短期承压。价格在24小时内微幅下跌0.46%，高低点区间紧凑，反映市场多空力量暂时均衡，趋势尚未明确突破。短期可能继续在606-613区间整理。  \n\nMACD为-0.8727，处于零轴下方，显示空头动能略占优势，但因Signal线未提供，无法完全确认趋势强弱。若MACD出现红柱缩短或反转，可能预示短线企稳信号。缺少RSI数据，需要结合均线和价格形态辅助判断超买超卖状态。  \n\n关键支撑位在606附近，如跌破可能触发进一步回调至600-602区域；阻力位在613-615，如突破将有望上攻620附近。价格连续在均线下方震荡，短线偏弱整理特征明显，但多空仍在博弈，操作需谨慎。  \n\n交易策略上，偏向区间操作为主。短线可关注低位支撑附近的试多机会，止损设置在605以下；激进者可等待价格突破均线与阻力位确认上涨趋势后建仓，风险控制与仓位管理需严格执行，以应对可能的波动。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 608.2\\n- 24h Change: -0.46%\\n- High/Low: 611.21 / 606.4\\n- RSI(14): N/A\\n- MACD: -0.87270685, Signal: N/A\\n- SMA(20): 613.0030000\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB’s short‑term price structure shows a mild bearish bias as the latest price of **$608.2** trades below the **20‑period simple moving average (~613.00)**. This suggests recent downward momentum has outpaced short‑term gains. The 24‑hour bittersweet high/low range (611.21/606.40) reflects a tight consolidation just under moving average resistance, indicating muted volatility and market hesitation around current levels.\n\nAlthough we lack a current RSI reading, the **MACD reading at –0.87** implies momentum is skewed to the downside. Without a corresponding signal line value, the raw negative oscillator typically denotes declining upward pressure and room for further weakness before oversold conditions attract buyers. This aligns with price languishing under SMA(20), commonly viewed as dynamic resistance in sideways to downtrending phases.\n\nKey technical levels to monitor include **support near $600**, a psychological pivot and recent intra‑day low. A decisive break below this could expose deeper retracement toward the $580–$590 zone. On the upside, **resistance clusters around the $615–$620 area** near the SMA and recent highs will likely challenge bullish attempts. A clean break above this region, particularly on increased volume, would recalibrate sentiment toward neutral to bullish short term.\n\nFor traders, a conservative approach may favor range‑bound tactics—scalping near support with tight risk, scaling out near overhead resistance. More aggressive participants might look for confirmation above **$620** for a trend shift trade, or below **$600** to target deeper pullbacks. Risk management remains crucial; volatility spikes can quickly unseat directional trades, so aligning entries with confirmations such as breakouts, retests, or divergence signals can improve odds in this consolidative regime."
+    }
+  }
+}
