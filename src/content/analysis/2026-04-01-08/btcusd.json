@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-01T08:05:02.055Z",
+  "price": {
+    "close": "68666.38",
+    "high": "68724.5",
+    "low": "68631.05",
+    "open": "68660.96",
+    "change": "0.01",
+    "datetime": "2026-04-01 08:00:00"
+  },
+  "indicators": {
+    "rsi": 61.020557,
+    "macd": 390.32576,
+    "macd_signal": 309.68983,
+    "sma20": 67930.4235
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏强趋势",
+      "content": "当前BTC/USD价格徘徊在68666附近，距离20日简单移动均线(SMA20)67930略高，显示短期价格仍维持均线上方，整体多头略占优势，但涨幅有限，呈现震荡整理态势。价格日内高低差仅约93美元，波动性偏小，市场观望情绪明显。  \n\nMACD当前为390.33，虽信号线数据缺失，但正值显示多头动能存在，短线上涨潜力尚可，但缺乏强烈趋势确认，投资者需关注未来动能变化。若MACD持续向上且出现金叉，则可能带来进一步上涨机会；反之若下行，则需警惕回调风险。  \n\n支撑位方面，近期可关注68000-67930区间，多次触及该区域未出现跌破，构成短期支撑；阻力位则在68724附近，上方突破压力不大，但需等待成交量配合确认。若突破阻力并站稳，可视为短线进攻信号。  \n\n交易策略上，建议短线操作以区间交易为主，低吸高抛，保持仓位灵活；中长线投资者可等待价格稳步突破阻力或回调至支撑附近后分批建仓，严格设置止损，避免追高操作。关注技术指标变化及成交量配合，动态调整仓位。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price of $68,666.38 shows minimal price movement in the last 24 hours, reflecting a tight range between the high of $68,724.50 and the low of $68,631.05. This sideways action indicates market indecision. Without significant momentum in either direction, Bitcoin appears to be in a consolidation phase. A breakout above $68,725 could initiate a move toward higher resistance levels, while failure to hold above $68,600 might see prices testing lower support levels around $68,000.\n\nThe absence of an RSI value makes it difficult to assess whether Bitcoin is overbought or oversold at the moment. However, the MACD at 390.33 provides some insight, signaling bullish momentum, though the lack of a Signal Line or histogram complicates a clear interpretation of trend strength. If the MACD continues to rise, Bitcoin could maintain its upward bias, but a potential crossover with a future Signal Line would strengthen the case for continued bullish action. For now, traders should wait for additional confirmation from other indicators before making significant trades.\n\nThe 20-period Simple Moving Average (SMA) stands at $67,930, acting as a key support zone in the current market environment. A drop below this level would suggest bearish sentiment, with further support near the $67,500 area. On the upside, the immediate resistance is located around $69,000, where the price has struggled to break higher in recent sessions. If Bitcoin manages to breach this level, the next target would be around $69,500, marking a potential extension of the uptrend.\n\nGiven the current lack of volatility, traders might want to adopt a wait-and-see approach, watching for a breakout above $68,725 or a breakdown below $68,000 for clearer directional signals. A cautious approach, focusing on support and resistance levels with an eye on MACD movement, will help guide entry and exit points."
+    }
+  }
+}
