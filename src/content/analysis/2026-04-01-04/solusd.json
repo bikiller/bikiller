@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-04-01T04:25:30.040Z",
+  "price": {
+    "close": "83.46",
+    "high": "83.51",
+    "low": "83.18",
+    "open": "83.37",
+    "change": "0.11",
+    "datetime": "2026-04-01 04:00:00"
+  },
+  "indicators": {
+    "rsi": 57.14005,
+    "macd": 0.18235299,
+    "macd_signal": 0.022242691,
+    "sma20": 82.1315
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前，SOL/USD的价格在83.46美元附近震荡整理，走势相对平稳。短期内价格在83.51美元的高点和83.18美元的低点之间波动，呈现出一定的区间震荡状态。市场情绪暂时没有明显的方向性，投资者需关注是否会突破该区间。\n\n从技术指标来看，当前的MACD为0.18235299，但由于Signal线数据缺失，无法进一步确认是否存在背离或交叉信号。RSI(14)未提供，无法分析超买或超卖状态。SMA(20)为82.13150，价格在此之上，表明短期内有支撑作用，若价格下跌至此水平，可视为买入机会。\n\n在支撑方面，83.18美元是近期的低点位置，若价格跌破该位置，可能会进一步测试下方的支撑区间。在阻力方面，83.51美元为近期的高点，如果突破该水平，可能会激发更多的上涨动能。若价格持续站稳高点附近，后市有可能迎来新一轮上涨。\n\n建议投资者在价格接近支撑位时可考虑短期多单操作，而若突破当前阻力位，则可考虑加仓。然而，鉴于市场震荡，保持谨慎并设定合适的止损是必要的。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 83.46\\n- 24h Change: 0.11%\\n- High/Low: 83.51 / 83.18\\n- RSI(14): N/A\\n- MACD: 0.18235299, Signal: N/A\\n- SMA(20): 82.13150\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$83.46** suggests a **mild bullish tilt** in the very short term. After a modest consolidation between **$83.18** and **$83.51**, buyers are showing enough interest to keep candles above the 20‑period SMA at **82.13**, which now acts as dynamic support. This baseline suggests short‑term strength, but the lack of a defined breakout range means volatility remains contained for now.\n\nThe RSI isn’t available, but the positive MACD reading at **0.1823** implies that recent momentum is favoring the upside. Without a signal line to confirm crossovers, this should be interpreted cautiously, but the fact that MACD is above zero indicates buyers have the edge over recent selling pressure. If the MACD continues climbing, it would reinforce the case that accumulation is happening at these levels, especially as prices hover above the key moving average.\n\nImmediate support levels to watch are **$82.13** from the 20‑period SMA and the recent low at **$83.18**; a drop below these could invite deeper pullbacks toward **$80.00**. On the upside, the minor resistance around **$83.50** must yield first before a run toward **$85–$87** becomes plausible. Breaking past **$87** with convincing volume could open a path toward the high‑$90s. Conversely, failing to hold support could see choppy action near the 20‑SMA.\n\nFor traders, a balanced approach works best: consider **long entries on dips toward the SMA** with tight stops under **$82**, while breakout traders might wait for a credible close above **$85** with volume confirmation. Risk management is key—Solana can swing quickly, and clear stops near support/resistance help protect capital. Short‑term scalpers may find diminishing returns in low volatility; patience around key levels could pay off more than frequent trades."
+    }
+  }
+}
