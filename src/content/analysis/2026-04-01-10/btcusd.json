@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-01T10:18:01.957Z",
+  "price": {
+    "close": "68489.6",
+    "high": "68644.11",
+    "low": "68465.12",
+    "open": "68623.98",
+    "change": "-0.19",
+    "datetime": "2026-04-01 10:00:00"
+  },
+  "indicators": {
+    "rsi": 58.066667,
+    "macd": 368.90616,
+    "macd_signal": 332.54819,
+    "sma20": 68094.9035
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期偏弱",
+      "content": "当前比特币/美元的价格处于震荡整理区间，价格轻微下跌0.19%。短期内，市场情绪较为谨慎，未能突破前高68644.11，价格可能会继续在68465.12至68644.11区间内波动。价格维持在20日简单移动平均线(SMA)之上，表明市场仍处于一定的支撑区域，但缺乏足够的上涨动能。\n\nMACD指标当前为368.90616，但未出现明确的买卖信号，显示市场缺乏强烈的方向性。RSI(14)未给出数据，难以进一步确认是否处于超买或超卖区。虽然价格未突破前高，但MACD仍保持正值，表明市场可能继续震荡，短期内出现小幅回调的概率较高。\n\n支撑位位于68465.12附近，若跌破此价位，则可能面临进一步的下行压力，目标位为68000附近。阻力位则在68644.11附近，突破此价位可能迎来进一步上涨至69000区域。若未能突破阻力，价格可能会继续在现有区间内整理。\n\n建议短期内采取谨慎的交易策略，可以关注68465.12的支撑和68644.11的阻力，等待价格突破关键区间时再进行操作。对于保守型投资者，建议保持观望，等待更明确的趋势确认。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating around the $68,490 level after a mild pullback over the last 24 hours. Price action shows a relatively narrow daily range between $68,465 and $68,644, suggesting indecision among traders. The proximity to the 20-period simple moving average at $68,095 indicates short-term support is holding, while minor intraday resistance appears near the recent high. Overall, the market shows a cautious bullish bias, with momentum lacking conviction to push significantly higher.  \n\nThe MACD reading at 368.91, though without a visible signal line, suggests that upward momentum is present but not yet strongly accelerating. Without the RSI value, overbought or oversold conditions remain unclear, meaning traders should monitor price reactions at key levels before committing. The slow pace of movement implies that breakout or breakdown scenarios could hinge on external market catalysts, such as broader crypto sentiment or macroeconomic events influencing risk appetite.  \n\nKey support can be identified at the SMA(20) around $68,095, with a secondary floor near $68,000, where previous consolidation occurred. On the upside, immediate resistance sits near $68,644, with stronger barriers closer to $69,000. These levels may act as decision points for short-term traders, with smaller position sizes advised until a clear directional bias emerges. Volatility remains moderate, favoring tactical entries and exits rather than aggressive swings.  \n\nFor trading considerations, cautious long positions may be considered near support, targeting intraday resistance with tight stop-losses below $68,000 to limit downside risk. Conversely, short positions could be evaluated near $68,644, anticipating minor retracements. Given the current technical setup, the safest approach is range-trading within these bounds, remaining nimble for a decisive breakout above $69,000 or a break below $68,000 that could set the tone for the next directional move."
+    }
+  }
+}
