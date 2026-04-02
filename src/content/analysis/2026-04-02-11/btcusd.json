@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-02T11:30:39.559Z",
+  "price": {
+    "close": "66432.49",
+    "high": "66472",
+    "low": "66140.71",
+    "open": "66448.33",
+    "change": "-0.02",
+    "datetime": "2026-04-02 11:00:00"
+  },
+  "indicators": {
+    "rsi": 36.26644,
+    "macd": -455.29703,
+    "macd_signal": -343.56699,
+    "sma20": 67382.19
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡整理，市场观望情绪浓厚",
+      "content": "当前比特币/美元价格维持在66432.49附近，呈现轻微下跌趋势，24小时变动为-0.02%。此价格区域接近近期的低点66140.71，显示出市场震荡整理的态势。高点66472未能突破，意味着短期内上行动能不足。\n\n从技术指标来看，MACD显示出负值-455.29703，表明当前市场可能缺乏强烈的上涨动力。RSI(14)数据缺失，使得短期超买或超卖的情况难以评估，但一般来说，RSI值低于30则视为超卖，超过70则为超买。\n\n支撑位方面，价格若下破66140.71，可能会进一步考验65500区域的支撑强度。阻力位则位于SMA(20)的67382附近，若突破此水平，可能会迎来新的上涨动力。\n\n建议短期内保持谨慎观望，避免在震荡区间内频繁交易。若价格突破67382阻力位，可以考虑布局多单，若跌破66140.71支撑位，则需考虑做空的可能性。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC/USD) is currently experiencing a slight downward movement, trading at $66,432.49. This price action follows a brief test of its recent high at $66,472, which was followed by a modest retreat. The lack of a clear uptrend suggests a consolidation phase, with the price moving within a narrow range between $66,140.71 and $66,472. Traders are likely waiting for clearer signals, and the market seems to be awaiting further confirmation before deciding on the next significant move.\n\nThe RSI(14) is unavailable for this analysis, but the MACD is currently negative at -455.29703. A negative MACD typically indicates bearish momentum, but with no signal line data to compare against, the precise strength of the bearish trend remains uncertain. In the absence of an immediate trend confirmation, the market might continue to trade within the recent range or possibly face additional selling pressure if the negative MACD persists.\n\nThe 20-period simple moving average (SMA) stands at $67,382.19, which is acting as a resistance level. If Bitcoin struggles to break through this price level, it could indicate that the market is encountering difficulty in pushing higher. The support level to watch is $66,140.71, as the price has recently tested this zone and rebounded. If this support holds, a retest of the $66,472 level could be in play, but further downward movement could occur if the support level fails.\n\nFor traders, a cautious approach is recommended, watching for confirmation signals such as a MACD crossover or a breakout above the 20-period SMA. A break above $67,382.19 could indicate a potential uptrend, while a failure to hold $66,140.71 could suggest further downside risk. Monitoring these levels will provide a clearer direction for short-term trades."
+    }
+  }
+}
