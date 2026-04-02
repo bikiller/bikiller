@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-02T15:40:05.079Z",
+  "price": {
+    "close": "66946.94",
+    "high": "66985.24",
+    "low": "66630",
+    "open": "66853.77",
+    "change": "0.14",
+    "datetime": "2026-04-02 15:00:00"
+  },
+  "indicators": {
+    "rsi": 47.66603,
+    "macd": -386.52217,
+    "macd_signal": -405.33383,
+    "sma20": 67011.6235
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前市场横盘震荡，短期维持谨慎观望",
+      "content": "比特币目前处于横盘整理阶段，最新价格为66946.94美元，24小时变动幅度较小，仅为0.14%。当前价格略低于20日简单移动平均线(SMA 20)，这一点显示出市场的短期弱势。高点和低点的波动范围较窄，反映出市场暂时缺乏方向性，投资者观望情绪较浓。\n\nRSI和MACD指标暂时无法提供明确的超买或超卖信号，且MACD为负值，显示出一定的下行压力。由于RSI数值缺失，无法判断市场是否已经进入过度卖出区间，因此短期内需保持谨慎。市场的技术面信号相对中性，缺乏强劲的买入或卖出动能。\n\n当前的支撑位位于66630美元，而阻力位则接近67000美元。这一价格区间的震荡可能会延续一段时间，突破这些关键位置将可能引发较大的价格波动。若价格突破67000美元，可能会激发多头的进一步买盘。\n\n对于短期交易者，建议在66946.94美元附近保持观望，若价格突破67000美元后再考虑做多操作。相反，若价格跌破66630美元支撑位，可能会出现进一步下行，投资者可考虑短期做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has shown a relatively stable price range over the past 24 hours, hovering around $66,946.94. The minimal 0.14% change indicates consolidation, with the intraday high at $66,985.24 and a low near $66,630. This narrow trading range suggests indecision among market participants, possibly awaiting fresh catalysts. Overall, the short-term trend appears neutral, with slight bullish bias if prices hold above the 20-period SMA of $67,011.62, which acts as a dynamic resistance in this range-bound phase.  \n\nThe MACD currently reads -386.52, suggesting underlying bearish momentum despite the modest price increase. The absence of a signal line complicates precise crossover analysis, but the negative MACD implies sellers still dominate momentum. Traders should monitor potential MACD convergence toward zero, which could signal an early bullish reversal. While RSI data is unavailable, price behavior relative to moving averages provides partial insight, highlighting that immediate support around $66,600 is critical for sustaining bullish conditions.  \n\nKey support and resistance levels frame potential trading strategies. Immediate support lies near $66,600, reinforced by recent lows, while resistance aligns with the 20-period SMA at $67,011 and the intraday high of $66,985. A sustained breakout above $67,050 could open targets toward $67,500, while a failure to hold support may trigger a short-term pullback toward $66,300. These levels offer clear reference points for risk management and position sizing in both long and short strategies.  \n\nGiven the current indicators, a cautious approach is recommended. Short-term traders could consider long positions near support, employing tight stop-losses below $66,600, while momentum-based traders might wait for MACD confirmation or a SMA breakout before committing. Conversely, bearish strategies could be activated if the price falls below $66,500, aiming for a controlled pullback. Overall, patience and disciplined execution remain key in navigating this consolidation phase."
+    }
+  }
+}
