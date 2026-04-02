@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-02T20:32:14.292Z",
+  "price": {
+    "close": "2071.81",
+    "high": "2071.84",
+    "low": "2060.99",
+    "open": "2065.76",
+    "change": "0.31",
+    "datetime": "2026-04-02 20:00:00"
+  },
+  "indicators": {
+    "rsi": 50.3794,
+    "macd": -10.46818,
+    "macd_signal": -14.54671,
+    "sma20": 2054.425
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多走势",
+      "content": "目前以太坊价格位于2071.81美元附近，较昨日小幅上涨0.31%，短期呈现震荡偏多的格局。价格略高于20日简单移动均线(SMA20)2054.43美元，表明多头仍有一定支撑，但整体波动幅度有限，需要关注是否能持续站稳该均线。  \n\nMACD当前为-10.46818，处于零轴下方且负值较大，显示短期动能偏弱，但仍未形成明显死叉或金叉，暗示趋势尚未明确反转。缺失RSI数据，无法判断超买或超卖状态，但结合价格与均线关系，可初步认为市场仍有轻微买盘支撑。  \n\n关键支撑位参考2060美元附近，若跌破该水平，短期可能测试2050美元区域；阻力位在2075-2080美元区间，如价格有效突破该区间，多头有望进一步延伸至2100美元。关注成交量变化以判断突破的有效性。  \n\n交易策略上，短线投资者可在价格回踩SMA20附近考虑小额多单布局，设置合理止损以防快速下跌；若价格上破2080美元，可跟随突破趋势追加多头仓位。保守者可等待更明确的MACD金叉或价格稳步站上关键阻力后再介入。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently in a neutral range, trading at $2071.81 with a 0.31% increase over the past 24 hours. The market is showing slight consolidation, as reflected in the narrow price movement between the high of $2071.84 and the low of $2060.99. This type of price action suggests a wait-and-see attitude from investors, likely due to the absence of strong catalysts in the short term. However, the price is staying above the 20-period Simple Moving Average (SMA) at $2054.43, which could indicate a mild bullish sentiment.\n\nThe lack of an RSI reading and the negative MACD value of -10.46818 add some cautionary signals. The negative MACD shows the current trend is slightly bearish, although it has not yet entered a major downward phase. The absence of a Signal line complicates the interpretation, leaving traders with fewer clues for momentum shifts. Until a clear crossover occurs, the MACD suggests that Ethereum may face some downward pressure, especially if it breaks below key support levels.\n\nSupport is well-defined at the $2060 mark, a level that ETH has held in the past few hours. If ETH fails to maintain this level, the next key support lies at $2050, where buyers may step in. On the upside, resistance is seen around the $2075 level. A breakout above this price could signal renewed bullish momentum, but only a decisive move past $2100 would confirm a strong uptrend.\n\nTraders should adopt a cautious approach in the near term. A break below $2060 could trigger a move toward $2050, while a bounce off the support might offer buying opportunities toward $2075. Risk management is key, as the market shows indecision, and any clear momentum shift will require further confirmation from indicators like RSI or a MACD crossover."
+    }
+  }
+}
