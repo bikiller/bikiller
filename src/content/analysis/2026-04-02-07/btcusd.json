@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-02T07:50:13.234Z",
+  "price": {
+    "close": "66893.99",
+    "high": "66903.45",
+    "low": "66547.52",
+    "open": "66672.42",
+    "change": "0.33",
+    "datetime": "2026-04-02 07:00:00"
+  },
+  "indicators": {
+    "rsi": 40.4569,
+    "macd": -383.55424,
+    "macd_signal": -199.59843,
+    "sma20": 67790.392
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期承压，趋势震荡",
+      "content": "当前比特币价格位于$66,893.99，接近日内低点$66,547.52，但仍低于20日简单移动平均线(SMA20) $67,790.39，显示短期多头动力不足，多空双方处于震荡博弈阶段。价格在SMA20下方运行，意味着多头暂时受阻，回调风险增加。  \n\nMACD为-383.55，呈现空头偏向，但信号线数据缺失，使趋势确认存在不确定性。价格未明显突破前高$66,903.45，也未跌破重要支撑$66,500附近，说明市场短期内可能延续区间震荡。若MACD继续扩大负值，空方压力可能增强，价格或在$66,500-67,000区间内反复波动。  \n\n关键支撑位位于$66,500附近，若跌破则可能触发更深回调至$66,000附近；阻力位在$67,500-68,000区间，突破该水平可恢复短期多头信心。投资者应关注成交量变化，以确认突破有效性。  \n\n交易策略上，短线操作可在支撑附近逢低布局多单，止损控制在$66,400以下；反之在接近阻力区域可考虑部分获利了结或轻仓空单，保持严格风控。整体来看，市场仍以震荡整理为主，多空转换需谨慎应对。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market shows a slight positive movement with a 24-hour change of 0.33%. The price is currently sitting at $66,893.99, near the daily high of $66,903.45. This price action suggests a consolidation phase, with the market struggling to make a significant break above the $67,000 level. A close above this level would signal potential continuation toward higher resistance zones. However, with no RSI data available, it's difficult to confirm the strength of the current momentum. Still, the absence of strong bullish signals suggests a cautious outlook.\n\nIn terms of the MACD, the current value of -383.55424 reflects a bearish sentiment, although there isn't enough information on the signal line to assess crossovers or changes in momentum. The negative MACD reading indicates a mild downtrend or weakening bullish momentum in the market. If the MACD continues to remain negative and below the signal line, it may suggest further downward pressure, potentially testing lower support levels. This bearish divergence needs to be closely monitored for any signs of a reversal or consolidation.\n\nFrom a technical perspective, the market remains within a short-term bearish trend, particularly given the current price hovering just below the 20-period simple moving average (SMA) of $67,790.392. This SMA has proven to act as a dynamic resistance level, and a rejection from this zone would further reinforce the downward bias. On the downside, key support levels can be found at the recent low of $66,547.52. If the price breaks this support, a deeper pullback toward $66,000 or even $65,500 could be on the horizon.\n\nTraders should remain vigilant in the current environment, given the neutral market structure. Those looking for long positions should wait for a confirmed breakout above the $67,000 resistance or a bullish reversal in the MACD and RSI. Conversely, short positions may become viable if the market tests and fails at the $67,000 resistance or if the price breaks below the $66,500 support, signaling further downside potential."
+    }
+  }
+}
