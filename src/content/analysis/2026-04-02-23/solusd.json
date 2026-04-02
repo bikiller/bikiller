@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-04-02T23:06:49.214Z",
+  "price": {
+    "close": "78.96",
+    "high": "79",
+    "low": "78.85",
+    "open": "78.99",
+    "change": "-0.04",
+    "datetime": "2026-04-02 23:00:00"
+  },
+  "indicators": {
+    "rsi": 43.34596,
+    "macd": -0.57102031,
+    "macd_signal": -0.74733307,
+    "sma20": 78.9145
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 78.96\\n- 24小时变化: -0.04%\\n- 高点/低点: 79 / 78.85\\n- RSI(14): N/A\\n- MACD: -0.57102031, Signal: N/A\\n- SMA(20): 78.91450\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期震荡偏弱，中期仍存多头潜力\n\n当前SOL价格在约78.96附近横盘整理，短线趋势偏震荡，承压于20日均线附近震荡运行，价格未能形成明确单边突破，说明短期市场情绪谨慎且多空力量较为均衡。结合价格高低点79 / 78.85的极窄波动区间来看，短线趋势缺乏强动能释放。市场整体呈观望状态。\n\n技术指标层面，虽无RSI可用，但20日简单移动平均线（SMA20 ≈78.91）与当前价格几乎重合，暗示短期没有明显超买或超卖趋势。MACD值为负且未见明显DIF与DEA交叉信号，表明短线动能偏弱、趋势未确认回升。指标暗示多头尚未完全占优，但随时可能因成交量变化而形成趋势加速。\n\n支撑位方面，短期关键支撑约在78附近，是本轮盘整底部和心理整数关口；若跌破此位，下方可能看向更强支撑如$70或更长期均线位置（按历史数据不完全、需结合实时图表分析）。阻力位则应关注刚上方的20日均线及79–80这一窄幅阻力带，若有效突破则开启更强上行机会。\n\n交易建议上，短线观望为主，若价格稳守78支撑并放量上攻突破均线与79阻力，可考虑小仓位多单进场，目标看向上方82–85区域；若失守该支撑，则建议谨慎控制仓位，降低多头暴露，等待更明确趋势信号再布局。结合风险管理，做好止损设置尤为关键。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 78.96\\n- 24h Change: -0.04%\\n- High/Low: 79 / 78.85\\n- RSI(14): N/A\\n- MACD: -0.57102031, Signal: N/A\\n- SMA(20): 78.91450\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSOL/USD is currently exhibiting **a range‑bound setup** around the $78–$79 level after a brief pullback. Price action remains close to the 20‑period simple moving average at **$78.91**, suggesting limited directional conviction in the immediate term. The intraday high of $79 and low of $78.85 reflect very tight trading, hinting at equilibrium between buyers and sellers. Without a breakout above $80 or breakdown below $77.50, the market may continue to chop sideways.\n\nLooking at momentum, the MACD’s negative reading (**–0.571**) indicates a slight bias toward bearish momentum, though the absence of a signal line value tempers strong conclusions. Traders should interpret this as a **mild bearish tilt**, not an aggressive sell signal. The missing RSI(14) leaves a gap in classic momentum confirmation, but based on available oscillators the pace of declines appears moderate rather than extreme. If MACD continues widening its negative divergence, sellers could edge control, especially on lower timeframes.\n\nKey **technical levels** to watch include support near **$77.00–$77.50**, which has acted as a short‑term floor in recent sessions. A break below this zone could expose **$75.50** and then the psychologically significant **$75** area. On the upside, resistance clusters near **$79.50–$80.00**; a sustained move beyond $80 would increase the odds of retesting **$82.50** or the late‑March swing highs. Volume expansion near these thresholds will add credibility to any breakout or breakdown.\n\nFor traders, a **neutral bias with conditional entry triggers** suits the current backdrop. Consider long positions only above $80 with stops under $78.50, targeting $82–$83, while shorts might be more attractive under $77.50 with stops above $79 and targets toward $75. Managing risk tightly given the subdued volatility is crucial; anticipate swift reversals in this tight range environment."
+    }
+  }
+}
