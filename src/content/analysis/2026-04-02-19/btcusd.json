@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-02T19:35:01.403Z",
+  "price": {
+    "close": "66881.95",
+    "high": "67106.36",
+    "low": "66870",
+    "open": "66982.44",
+    "change": "-0.15",
+    "datetime": "2026-04-02 19:00:00"
+  },
+  "indicators": {
+    "rsi": 47.52483,
+    "macd": -242.49734,
+    "macd_signal": -332.96509,
+    "sma20": 66749.2915
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "当前比特币价格围绕66880附近波动，较20日均线(66749)略高，显示短期存在支撑，但上涨动能有限。日内价格波动幅度较小，高低点67106/66870，反映市场多空力量暂时均衡，短期趋势偏向震荡整理。  \n\nMACD呈负值-242.5，但缺少信号线对比，意味着动能偏弱，空头压力仍在，但尚未形成明显趋势反转。价格持续在均线附近盘整，短期技术面显示买卖力量接近平衡，投资者需关注动能指标确认突破方向。  \n\n支撑位在66750附近，若跌破则可能测试66600；阻力位位于67100-67200区间，突破上方可带动短线上涨。整体结构显示区间震荡为主，多空力量互相制衡，但短线仍偏多，谨防假突破。  \n\n交易上建议短线投资者可在支撑区低位轻仓做多，止损设于66600下方；激进者可关注阻力突破后的跟进机会，但需控制仓位，避免高位追涨。同时，等待MACD和RSI等动能指标确认趋势，可降低风险，提高操作效率。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market appears to be consolidating around the current price of $66,881.95, with a slight 24-hour decline of -0.15%. This indicates a period of low volatility, which often precedes a breakout or continuation. The price is hovering near recent highs ($67,106.36) and lows ($66,870), suggesting a potential range-bound market. Traders should keep an eye on whether Bitcoin can break above this range, which could signal a move toward higher resistance levels.\n\nThe MACD is currently in negative territory at -242.49734, indicating bearish momentum. While the absence of a signal line value reduces its clarity, the negative MACD points to a lack of strong upward pressure. Without a crossover or a significant change in volume, a downward trend or continuation of the current consolidation phase seems likely. However, any reversal in the MACD could give an early indication of a bullish move.\n\nBitcoin's 20-period SMA stands at $66,749.29, providing a short-term support level for the market. If the price moves below this level, we may see a shift toward deeper support zones. On the upside, the resistance remains near the recent high of $67,106.36, which will likely need to be surpassed for a clear bullish breakout. A break above this resistance could trigger further upside potential, potentially targeting the $69,000 range.\n\nTraders should consider waiting for a clear breakout or a shift in momentum before entering positions. If the price breaks below $66,700, the market could be headed for further downside, with support levels around $66,000 and $65,500. Conversely, a breakout above $67,100 might provide a good entry for long positions, especially if accompanied by higher volume or a bullish MACD crossover. Keep a close watch on volume and momentum shifts to refine entry and exit strategies."
+    }
+  }
+}
