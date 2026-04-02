@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-02T21:55:54.149Z",
+  "price": {
+    "close": "2061.57",
+    "high": "2070.58",
+    "low": "2055.88",
+    "open": "2068.85",
+    "change": "-0.33",
+    "datetime": "2026-04-02 21:00:00"
+  },
+  "indicators": {
+    "rsi": 46.74318,
+    "macd": -9.74101,
+    "macd_signal": -13.62909,
+    "sma20": 2052.3305
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱",
+      "content": "以太坊当前价格位于 $2061.57$ 美元，接近日内低点 $2055.88$，短线走势显示一定的下行压力。价格略高于20日均线 $2052.33$，表明中期均线仍提供支撑，但跌幅有限，整体呈现震荡整理状态。短期均线多空分歧，市场情绪偏中性偏弱。  \n\nMACD指标显示主线为 $-9.74101$，处于零轴下方，暗示下行动能仍存在，但信号线数据缺失，需要关注可能的死叉形态形成。虽然RSI数据缺失，但结合价格区间和均线，短线超买超卖状态不明显，意味着多空双方仍在博弈。  \n\n支撑位可参考近期低点 $2055$ 附近及20日均线 $2052$，若跌破该区域，可能进一步向 $2040$ 附近寻求支撑。阻力位在近期高点 $2070$，若价格突破该水平并站稳，可重新激活多头动能，短线有望反弹至 $2080$ 上方。  \n\n交易建议上，短线可偏向观望或低位逢低小仓位买入，注意控制风险和设置止损在 $2050$ 以下。若价格突破阻力 $2070$ 并伴随成交量放大，可考虑追涨，但整体建议维持谨慎，避免高位追空或盲目跟风。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum's current price at $2061.57 shows a slight bearish sentiment, with a 24-hour change of -0.33%. Despite this minor pullback, the overall price action remains within a narrow range, indicating indecision in the market. The daily high of $2070.58 and low of $2055.88 suggest that traders are hesitant to push the price in either direction. The market is currently consolidating, and a decisive breakout from this range could define the next move. A break above $2070 could lead to a retest of higher resistance levels, while a breakdown below $2055 would likely open up further downside potential.\n\nThe absence of a Relative Strength Index (RSI) value and a non-confirmed MACD signal add uncertainty to the analysis. However, the MACD value of -9.74101 indicates some negative momentum, which could suggest a continuation of the bearish trend if the market doesn't find support soon. A stronger bearish signal would emerge if the MACD line crosses below its signal line, but this requires further data for confirmation. Until then, it's essential to watch for any trend reversals or bullish divergences that could present opportunities for longs.\n\nSupport levels are key to watch in this range, with the SMA(20) at $2052.33 providing a possible cushion for the price. If ETH/USD tests and holds above this moving average, there could be a chance for a reversal or consolidation. The next major support is around $2055, and if the price sustains above this area, a move toward higher levels becomes more probable. Conversely, failure to maintain support could signal further declines, potentially testing lower levels.\n\nTraders should remain cautious but attentive to price action. If the market shows signs of a break above resistance at $2070, consider entering long positions with targets toward $2100 and beyond. On the flip side, a sustained move below $2055 could present a shorting opportunity, targeting $2020 as the next key support level."
+    }
+  }
+}
