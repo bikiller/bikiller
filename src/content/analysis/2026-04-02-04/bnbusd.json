@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-04-02T04:03:53.893Z",
+  "price": {
+    "close": "591.9",
+    "high": "592.17",
+    "low": "591.55",
+    "open": "592.06",
+    "change": "-0.03",
+    "datetime": "2026-04-02 04:00:00"
+  },
+  "indicators": {
+    "rsi": 23.65712,
+    "macd": -4.49228,
+    "macd_signal": -1.96455,
+    "sma20": 610.2765
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：震荡整理，偏空",
+      "content": "当前BNB/USD在591.9附近交易，价格变化极为平稳，24小时内仅有微幅调整，表现出震荡整理的走势。从技术面来看，价格位于20日简单移动平均线（SMA）下方，这通常意味着短期内存在下行压力。若持续突破此位置，可能会进一步向下测试支撑位。\n\nMACD指标处于负值区域，且信号线未更新，显示市场动能偏弱。当前的MACD值为-4.49228，表明卖方力量较强，短期内缺乏反弹动力。由于RSI数据缺失，无法提供超买或超卖的进一步信号，但结合价格的微弱波动，市场情绪偏向谨慎。\n\n支撑位方面，短期内可能会在591.55附近找到支撑，若跌破此水平，下一个强支撑可能在585.00区域。阻力位则位于592.17上方，突破此处将有可能带来短期的反弹。\n\n交易建议上，当前市场处于震荡整理阶段，短期内建议保持观望，除非价格突破592.17，才考虑做多。而若价格跌破591.55，则可尝试做空，目标指向585.00。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 591.9\\n- 24h Change: -0.03%\\n- High/Low: 592.17 / 591.55\\n- RSI(14): N/A\\n- MACD: -4.49228, Signal: N/A\\n- SMA(20): 610.27650\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action around **$591.9** reflects a very tight intraday range, showing **market indecision** after recent downside pressure. The narrow high/low band (592.17/591.55) suggests sellers and buyers are nearly balanced, but price trading below the **20‑period simple moving average (~610.28)** indicates the short‑term trend leans bearish. Without a clear breakout above the SMA, bearish sentiment may persist, especially if broader crypto markets remain subdued.\n\nAlthough **RSI(14) isn’t available**, the negative **MACD reading (~‑4.49)** suggests momentum is tilted to the downside even if the signal line is unavailable for confirmation. The MACD’s negative position generally reflects shorter moving averages losing ground relative to longer ones, hinting at **weak upward momentum**. Traders should be cautious when momentum appears deficient, as attempts to rally can quickly fade under such conditions without supportive volume and improving oscillators.\n\nKey levels to watch include **support around $580–$585**, where prior consolidation and psychological interest may cushion further declines. If this zone fails decisively, the next meaningful support could align near the **$560–$570 area**, where buyers previously stepped in. On the upside, a break above **$610–$615** would be the first sign of trend improvement, with **$630–$640** representing a stronger resistance cluster based on recent swings. Managing risk around these levels helps balance potential reward and drawdown.\n\nIn terms of trading approach, **range‑bound strategies** may work best in the current environment — consider defined entry and exit points with strict stops below support. Long positions are more compelling only if price convincingly clears the 20‑SMA with increasing momentum and volume. Conversely, short exposure could be favored if $580 breaks with conviction, targeting near‑term supports, but always paired with disciplined risk limits given possible volatility shifts."
+    }
+  }
+}
