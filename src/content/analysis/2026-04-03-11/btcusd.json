@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-03T11:25:07.678Z",
+  "price": {
+    "close": "66928.67",
+    "high": "66935",
+    "low": "66817.8",
+    "open": "66878.29",
+    "change": "0.08",
+    "datetime": "2026-04-03 11:00:00"
+  },
+  "indicators": {
+    "rsi": 50.94616,
+    "macd": -47.14219,
+    "macd_signal": -101.13197,
+    "sma20": 66833.2575
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏强格局延续",
+      "content": "当前价格围绕66900一线窄幅波动，日内振幅较小，显示市场处于整理阶段。从结构看，价格维持在短期均线上方，整体仍属偏强震荡格局，但动能略显不足，短线方向尚未明确突破。\n\n从技术指标来看，SMA(20)位于66833附近，对价格形成支撑，表明短期趋势仍偏多。MACD处于负值区域，说明动能尚未完全转强，可能存在一定回调压力。RSI缺失使超买超卖判断有限，但结合波动率看并未进入极端区间。\n\n关键支撑位关注66800与66700区间，若跌破则可能测试更低支撑。上方阻力位在67000及67200一线，若有效突破将打开上行空间。当前价格贴近区间上沿，突破与否将决定短线方向。\n\n操作上建议以区间交易为主，低吸高抛为宜。激进者可在66800附近尝试多单，止损设于66700下方；若突破67000并放量，可顺势跟多。谨防假突破，注意控制仓位与风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action currently shows a period of consolidation around the $66,900 level, reflecting minimal volatility in the last 24 hours. The narrow daily range between $66,817 and $66,935 suggests market indecision, with neither bulls nor bears asserting dominance. Short-term momentum appears neutral, and traders may interpret this sideways movement as a preparatory phase before a potential breakout or pullback. Observing subsequent candlestick patterns will be crucial to gauge whether momentum shifts toward an upward or downward trajectory.  \n\nFrom a technical standpoint, the MACD reading at -47.14 indicates that bearish momentum is present, albeit not strongly accelerating. The absence of the signal line prevents a full crossover analysis, but the negative MACD implies that sellers retain a slight edge. The 20-period SMA at $66,833 currently acts as a dynamic pivot, closely aligned with the price, signaling equilibrium between short-term buyers and sellers. In such conditions, price reactions near this SMA can provide early clues for entry or exit strategies.  \n\nImmediate support is identified around $66,800, marking a zone where buyers have previously stepped in, while resistance lies near $66,950–$67,000. Breaching either level with significant volume could trigger more decisive price movements. Traders may consider employing tight stop-loss orders below support for long positions or above resistance for shorts to manage risk effectively. Sideways markets like this often reward patience, focusing on breakout confirmations rather than speculative entries.  \n\nFor tactical positioning, short-term traders could wait for a clear break above $67,000 to initiate bullish exposure, targeting the next psychological resistance around $67,500. Conversely, a drop below $66,800 could open the path toward $66,500. Neutral-to-cautious approaches are advisable until a definitive trend emerges. Monitoring intraday volume alongside key indicators will help in validating breakout strength, while risk management remains critical in this low-volatility environment."
+    }
+  }
+}
