@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-04-03T01:59:33.457Z",
+  "price": {
+    "close": "584.26",
+    "high": "587.06",
+    "low": "583.66",
+    "open": "584.03",
+    "change": "0.04",
+    "datetime": "2026-04-03 01:00:00"
+  },
+  "indicators": {
+    "rsi": 42.69093,
+    "macd": -4.30236,
+    "macd_signal": -5.97214,
+    "sma20": 582.188
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏多",
+      "content": "当前BNB/USD价格位于584.26美元，较20日简单移动平均线SMA(20)的582.19略高，显示短期内价格存在温和支撑，多头情绪略占优势。然而，日内波动幅度有限，高低点仅为587.06至583.66，表明市场仍处于窄幅震荡阶段，趋势尚未完全明朗。  \n\nMACD值为-4.30236，虽处于负值区域，但缺乏信号线确认，暗示下行动能仍在，但多空双方处于均衡状态，短线可能呈现箱体整理。由于RSI缺失，无法准确判断超买超卖，但结合价格与均线关系，可认为短期上行动能有潜力被触发。  \n\n关键支撑位在582附近，若跌破则可能测试578至580区域，而阻力位在587至590之间，多次尝试未能突破可能形成短期顶部压制。投资者可关注价格在支撑附近的反弹机会，同时谨慎对待突破阻力的短线买入信号。  \n\n交易策略上，建议短线交易者以支撑附近低吸为主，止损可设置于580下方；趋势追随者可等待价格突破590并伴随成交量放大时再介入，以降低回撤风险。保持仓位灵活，关注市场情绪和整体加密货币行情变化。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 584.26\\n- 24h Change: 0.04%\\n- High/Low: 587.06 / 583.66\\n- RSI(14): N/A\\n- MACD: -4.30236, Signal: N/A\\n- SMA(20): 582.18800\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s recent price action around **$584.26** shows a relatively tight trading range, reflecting short‑term consolidation. The negligible 24‑hour change and narrow high/low band (587.06/583.66) suggest limited directional conviction at the moment. While the broader trend still leans bullish compared to longer‑term cycles, the lack of strong momentum of late indicates buyers and sellers are in balance. Monitoring breakout or breakdown from this range will clarify the next swing.\n\nLooking at the available indicators, the **SMA(20) at ~582.19** sits just below the current price, offering a mild upward bias and short‑term dynamic support. The **MACD’s negative value (‑4.30)** points to lingering bearish pressure, albeit without a signal line to confirm divergence or convergence. Missing RSI data means we’re flying partially blind on overbought/oversold levels, but the flat price and average SMA alignment hint that momentum is subdued rather than trending strongly.\n\nKey levels to watch include **support near $580**, reinforced by the 20‑period moving average, and nearer‑term bulls’ pivot around **$590–$595**. A clear break above the recent high near $587 with increased volume could open room toward $600 and beyond, whereas a decisive break below **$580** might expose deeper support around **$570–$565**. Traders often treat such zones as psychological markers where order flow can accelerate shifts in sentiment.\n\nFor traders preferring tactful positioning, consider waiting for confirmation of range expansion. A conservative long bias may be reasonable above **$590**, targeting incremental moves with tight risk controls. Conversely, those anticipating a downside leg could look for a break below **$580–$578** with stop orders, mindful of whipsaws in tight ranges. Adjust position sizes to volatility and be mindful of announcements that might disrupt the current equilibrium."
+    }
+  }
+}
