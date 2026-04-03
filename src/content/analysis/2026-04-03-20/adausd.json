@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-04-03T20:35:31.590Z",
+  "price": {
+    "close": "0.247439",
+    "high": "0.248411",
+    "low": "0.24717",
+    "open": "0.247439",
+    "change": "-0.06",
+    "datetime": "2026-04-03 20:00:00"
+  },
+  "indicators": {
+    "rsi": 61.26547,
+    "macd": 0.0017082414,
+    "macd_signal": 0.0014700662,
+    "sma20": 0.24504065
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期震荡整理，趋势偏弱",
+      "content": "当前艾达币价格在 $0.2474$ 附近波动，24小时仅微幅下跌 $0.06\\%$，显示市场短期缺乏明确方向。结合20日均线 $SMA(20)=0.2450$，价格略高于均线，说明短线仍有支撑，但动能不足以形成明显上涨趋势。  \n\nMACD 指标为 $0.0017$，虽略为正值，但缺乏信号线参考，暗示买卖力量相对均衡，趋势延续性不强。短期内多空双方处于拉锯状态，波动区间窄，市场情绪谨慎，投资者需关注动量指标的进一步确认。  \n\n关键支撑位在 $0.2450$ 附近，与均线重合，若跌破此位置，可能触发进一步回调至 $0.2430$。阻力位则在 $0.2484$ 高点，突破则有望测试 $0.2500$ 整数关口，但短期内突破概率有限。  \n\n交易策略上，建议在支撑位附近谨慎低吸，同时设定严格止损；若价格接近阻力位，可考虑部分获利了结，避免追高。短期内以震荡区间操作为主，保持灵活仓位管理，等待明确趋势信号出现再加仓。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "The ADA/USD pair is currently experiencing a relatively stagnant market, with a 24-hour change of just -0.06%. Price movement has been constrained between the recent high of 0.248411 and low of 0.24717, showing a narrow range in the last 24 hours. The overall trend appears to be neutral at the moment, with no significant bullish or bearish momentum driving the market. Given this, traders should look for signs of a breakout beyond these boundaries to confirm the next potential move.\n\nThe absence of the 14-period Relative Strength Index (RSI) data makes it difficult to assess the strength or weakness of the current price action in the context of overbought or oversold conditions. Meanwhile, the Moving Average Convergence Divergence (MACD) line at 0.0017082414 indicates a slight positive bias, but without a confirmed signal line, it doesn't offer a strong directional signal. Traders should remain cautious and wait for additional confirmation through the MACD or other indicators before entering trades.\n\nThe Simple Moving Average (SMA) of 20 periods is currently at 0.24504065, indicating some potential support. This level could act as a cushion if the price pulls back from the current range, offering a potential entry point for buyers who anticipate a rebound. Conversely, if ADA/USD continues to fail to break above the recent highs, a deeper pullback toward the SMA could be a signal to watch for long-term support at lower levels.\n\nSupport around 0.2450 seems significant, while resistance remains near the high of 0.2484. Traders could look for opportunities to enter on a retracement near the SMA, targeting a breakout above 0.2484 for further upside potential. Conversely, a drop below the 0.2450 level might suggest further weakness, potentially signaling a larger downtrend if accompanied by a surge in selling pressure."
+    }
+  }
+}
