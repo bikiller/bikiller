@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-03T21:53:29.558Z",
+  "price": {
+    "close": "2058.6",
+    "high": "2061",
+    "low": "2052.61",
+    "open": "2052.61",
+    "change": "0.29",
+    "datetime": "2026-04-03 21:00:00"
+  },
+  "indicators": {
+    "rsi": 51.044919,
+    "macd": -2.82994,
+    "macd_signal": -3.64547,
+    "sma20": 2055.679
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多",
+      "content": "当前以太坊价格位于 $2058.6$ 附近，接近20日简单移动均线（SMA20）$2055.68$，显示短期多头略占优势，但价格波动幅度有限，形成轻微震荡格局。日内高低点 $2061 / 2052.61$ 表明上方压力相对明显，下方支撑稳健。  \n\nMACD指标当前值为 $-2.82994$，显示市场动能偏弱，但尚未出现明显的空头加速信号。缺少RSI数据限制了超买超卖判断，但结合均线位置，可初步认为短线仍有反弹空间，尤其在价格靠近SMA20附近时多方可能试探上攻。  \n\n关键支撑位在 $2052$ 附近，如果跌破该水平，可能引发进一步回调至 $2045$。阻力位初步锁定在 $2065-2070$ 区间，如能突破该位置，将确认短期上行趋势延续。投资者应关注价格对均线的稳健性反应。  \n\n交易策略上，短线可考虑逢低做多，止损设置略低于 $2050$，目标关注 $2065$。若价格持续受阻回落，可选择观望或轻仓空单，结合市场整体波动和消息面进一步优化仓位管理。风险控制仍是当前操作的核心。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum against the US Dollar stands at 2058.6, showing a modest 0.29% increase in the past 24 hours. The price has moved within a tight range between 2061 and 2052.61, indicating limited volatility in the short term. The market is consolidating after a period of price stability, with no significant directional shift observed. Given this, ETH/USD is currently in a neutral phase, with neither bullish nor bearish momentum taking dominance.\n\nThe 20-period Simple Moving Average (SMA) at 2055.68 serves as an important reference point. The price trading just above this level suggests mild bullish sentiment, with the SMA acting as potential support. A breach below this level could open up the possibility for further downside, possibly testing the lower bound of the recent range near 2052.61. Conversely, a break above the high of 2061 would signal the potential for upward momentum, potentially reaching higher resistance levels around 2070-2080.\n\nWithout the Relative Strength Index (RSI) and Signal line for the MACD, the analysis must rely on the available technical data. The negative MACD value of -2.83, however, implies a weak bearish trend, though the absence of a confirmed signal line reading makes it difficult to assert the direction with certainty. Investors should remain cautious, awaiting more concrete indicator confirmations to clarify market direction.\n\nGiven the current technical structure, traders should consider a range-bound strategy. Short-term trades could be viable by buying near support around 2052.61 and selling closer to resistance at 2061. However, with a lack of strong trends or signals, caution is advised, and longer-term positions should only be considered after a confirmed breakout or breakdown from the current consolidation range."
+    }
+  }
+}
