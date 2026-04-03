@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-03T05:40:31.318Z",
+  "price": {
+    "close": "66749.99",
+    "high": "66810.96",
+    "low": "66410.01",
+    "open": "66601.5",
+    "change": "0.22",
+    "datetime": "2026-04-03 05:00:00"
+  },
+  "indicators": {
+    "rsi": 46.73048,
+    "macd": -149.14086,
+    "macd_signal": -176.035376,
+    "sma20": 66698.651
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期观望",
+      "content": "当前比特币价格为66749.99美元，全天波动较小，只有0.22%的变化。当前价格接近20日简单移动平均线(SMA)，显示出市场处于震荡整理阶段。若价格持续在此区间波动，则短期内难以出现明显趋势。\n\n技术指标方面，MACD处于负值区域(-149.14)，表明当前卖压较重，但由于Signal线数据缺失，难以确认是否有进一步的下行风险。RSI值无法获取，因此无法对超买或超卖状态做出明确判断，增加了市场的不确定性。\n\n从支撑和阻力来看，当前比特币在66410.01美元附近有较强的支撑，而66810.96美元则是短期内的重要阻力位。突破该阻力位可能带来新的上涨动能，反之则可能进一步回调。\n\n综合来看，由于市场缺乏明确的趋势信号，建议投资者采取观望策略，待价格突破关键支撑或阻力后再做决策。对于风险承受能力较强的交易者，可以在支撑位附近尝试小额建仓，设定严格止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $66,750, holding a narrow range within its 24-hour high of $66,810 and low of $66,410. Price action shows a mild bullish bias as it sits slightly above the 20-day simple moving average of $66,698, suggesting short-term upward momentum. Despite the modest gain of 0.22% over the past day, the market appears cautious, consolidating near key psychological levels. Traders should note that sideways movement could persist unless volume increases significantly.  \n\nThe MACD reading of -149.14, despite the absence of a signal line, indicates underlying bearish pressure from recent price declines. Without the RSI data, assessing overbought or oversold conditions is limited, but the proximity to the SMA suggests a potential rebound if buying interest strengthens. The short-term moving average acts as a dynamic support, and a break below it could trigger accelerated selling, while holding above could maintain the current consolidation.  \n\nImmediate support is identified around $66,410, the intraday low, with stronger support near $66,000, where previous consolidation occurred. Resistance levels are evident at $66,810 and $67,000, marking the upper end of the recent trading range. A decisive break above $67,000 could open the door to retesting $67,500, while a breach below $66,000 may expose $65,500 as the next support, signaling potential downside continuation.  \n\nTrading strategies should be cautious in the current environment. Short-term traders may consider range-bound approaches, buying near support and selling near resistance, while keeping tight stops to manage risk. Longer-term holders should watch for confirmation of trend direction above $67,000 to validate bullish momentum. Overall, Bitcoin demonstrates a delicate balance between bullish consolidation and lingering bearish undertones, requiring disciplined entry and exit points for effective positioning."
+    }
+  }
+}
