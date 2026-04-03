@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-04-03T10:08:35.020Z",
+  "price": {
+    "close": "79.92",
+    "high": "80",
+    "low": "79.9",
+    "open": "79.96",
+    "change": "-0.05",
+    "datetime": "2026-04-03 10:00:00"
+  },
+  "indicators": {
+    "rsi": 54.34045,
+    "macd": -0.025448211,
+    "macd_signal": -0.22165051,
+    "sma20": 79.2915
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 79.92\\n- 24小时变化: -0.05%\\n- 高点/低点: 80 / 79.9\\n- RSI(14): N/A\\n- MACD: -0.025448211, Signal: N/A\\n- SMA(20): 79.29150\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线盘整偏弱震荡\n\n当前价格略高于20日均线，表明短期仍有支撑力量，但动能不足，价格在79.9–80区间震荡。成交缺乏明显放量，趋势尚未明确确认，多空力量暂时平衡，偏向盘整。\n\n从技术指标看，MACD负值且未见快速上穿，暗示下行动能仍在；虽无RSI数据，但价格接近均线，未出现超买或超卖信号。SMA(20)79.29提供动态支撑，若价格跌破该位，可能加速下探。\n\n关键支撑位在79.29下方附近前低78.5一线，若跌破则进一步测试77.阻力位首看80一线，其次是80.8区间，突破可带动买盘信心回升。短线区间博弈明显，需留意成交量变化确认方向。\n\n建议短线观望为主，若在79.2附近维持支撑，可尝试小仓位做多，止损设在79下方；突破80.5上方再考虑跟进多头，止盈可设在81–82区间。风险管理要严格，避免追高承压。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "The Solana (SOL) market is showing a stable price at 79.92, with a slight 24-hour change of -0.05%. This minor fluctuation suggests a period of consolidation, where price action is relatively tight, hovering between 79.9 and 80. The market appears to be in a neutral phase, lacking significant momentum to drive prices up or down. Given the lack of substantial volatility, traders may want to monitor the price for any breakout or breakdown signals.\n\nThe absence of a visible RSI value makes it difficult to gauge whether the asset is overbought or oversold. However, the MACD reading of -0.025448211 suggests a slightly bearish bias, as the price is under a mild downtrend, though this is not yet indicative of a strong market reversal. Traders should look for any divergence between the price and the MACD to anticipate a potential trend change. With the signal line not provided, caution should be exercised when interpreting this momentum indicator.\n\nThe 20-period simple moving average (SMA) at 79.29150 suggests that the current price is slightly above the short-term trend, which is a positive sign but not strong enough to establish a clear bullish trend. This SMA serves as a potential support level, with a break below it indicating a move toward lower price levels. On the upside, the resistance level is at the 80 price mark, which has already shown some price rejection, making it a critical level to watch for potential bullish breakouts.\n\nIn the current market context, traders should remain cautious and consider waiting for confirmation before taking any significant positions. A break above 80 could signal a move toward the next resistance levels, while a drop below the 79.29 support may open the door for further declines. A strategy of waiting for a confirmed breakout or breakdown could be beneficial in managing risk in this environment."
+    }
+  }
+}
