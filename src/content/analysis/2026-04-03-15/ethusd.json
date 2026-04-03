@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-03T15:28:19.653Z",
+  "price": {
+    "close": "2052.9",
+    "high": "2057.58",
+    "low": "2050.96",
+    "open": "2054.13",
+    "change": "-0.06",
+    "datetime": "2026-04-03 15:00:00"
+  },
+  "indicators": {
+    "rsi": 44.92983,
+    "macd": -3.75629,
+    "macd_signal": -4.18366,
+    "sma20": 2057.2835
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，缺乏明确趋势]",
+      "content": "目前，ETH/USD的价格维持在2050至2060美元区间内震荡整理，短期内缺乏明确的上涨或下跌动能。从整体走势来看，价格未突破重要支撑或阻力位，市场情绪较为中性。近期价格波动较小，显示出市场参与者的不确定性。\n\n从技术指标来看，RSI指标目前无法提供有价值的判断，而MACD数值为负，表明短期内卖压仍占主导地位。尽管价格在20日简单移动平均线（SMA）附近震荡，但缺乏突破信号，显示出价格走势趋于平稳。若未来MACD出现金叉，可能会带动价格上涨。\n\n当前支撑位位于2050.96美元，若价格下破该水平，可能会引发更深的回调，支撑区间进一步下探至2000美元左右。而阻力位则位于2057.58美元附近，一旦突破该阻力，价格有望向2080美元甚至更高水平发展。\n\n综合来看，建议投资者保持谨慎，待市场明确方向后再作决定。对于短期交易者，可以在支撑位附近寻找买入机会，止损设置在2050美元下方。而对于长线投资者，建议等待价格突破阻力位后再进行介入。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading in a tight consolidation range near $2050, reflecting a lack of strong directional conviction. Price action hovering just below the 20-period moving average suggests mild short-term bearish pressure, though the extremely narrow high-low range indicates low volatility and potential buildup for a breakout. The marginal 24-hour decline reinforces a neutral-to-slightly bearish tone, but not enough to confirm a sustained downtrend.\n\nThe MACD reading in negative territory points to weakening momentum, even though the absence of a signal line limits confirmation of a clear crossover. With RSI unavailable, momentum assessment relies more heavily on price structure and moving averages. Trading below the SMA(20) at approximately $2057 implies sellers maintain slight control, though the proximity of price to this level suggests that even modest buying pressure could shift sentiment quickly.\n\nImmediate support is seen around $2050, aligning closely with the recent session low of $2050.96. A breakdown below this level could expose the $2025–$2030 zone as the next downside target. On the upside, resistance sits near $2057–$2060, where the moving average converges with recent highs. A decisive move above this band would likely open the path toward $2080, signaling a short-term bullish reversal.\n\nFrom a trading perspective, range-bound strategies may be most appropriate until a breakout occurs. Traders could consider short-term longs near support with tight risk controls, or fade rallies near resistance. Breakout traders should wait for confirmed volume expansion beyond either boundary. Given the subdued volatility, patience is key, as the current compression phase often precedes a more pronounced directional move."
+    }
+  }
+}
