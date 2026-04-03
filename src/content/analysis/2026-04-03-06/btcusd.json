@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-03T06:40:57.246Z",
+  "price": {
+    "close": "66715.98",
+    "high": "66774",
+    "low": "66555",
+    "open": "66605.72",
+    "change": "0.17",
+    "datetime": "2026-04-03 06:00:00"
+  },
+  "indicators": {
+    "rsi": 46.12768,
+    "macd": -147.5518,
+    "macd_signal": -172.17993,
+    "sma20": 66705.0215
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "当前比特币价格徘徊在$66,715附近，较SMA(20) $66,705略高，显示短期多头仍有一定支撑，但价格波动幅度有限，呈现横盘震荡特征。日内高低点$66,774/$66,555进一步印证市场缺乏明确突破方向，多空力量相对均衡。  \n\nMACD处于负值区间，尽管缺少Signal线数据，但负值状态提示动能偏弱，短期上涨动能有限，需要关注指标的交叉变化以判断潜在反转信号。RSI数据缺失，无法从超买超卖角度确认过度状态，但结合价格走势，可推测多空力量暂时胶着。  \n\n支撑位初步设在$66,550附近，如跌破则可能触发短线空头加速；阻力位在$66,775上方，若能有效突破并收盘站稳，则短期上行空间可延伸至$67,200左右。交易者应密切关注关键支撑/阻力触发情况，结合成交量判断突破有效性。  \n\n短线交易建议：偏向震荡区间操作，可在支撑附近尝试低吸，阻力附近考虑短线获利了结。若价格出现突破且伴随放量，则可顺势加仓做多，但注意严格设置止损以控制回撤风险，避免追高造成不必要损失。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin market shows a relatively stable range between 66,555 and 66,774, with the price hovering near 66,715.98. The modest 24-hour change of 0.17% indicates limited volatility, suggesting consolidation within this range. Without a clear breakout in either direction, the market seems neutral, yet poised for movement depending on external factors. If Bitcoin can maintain the support at 66,555 and push past resistance at 66,774, we may see a shift toward higher levels.\n\nFrom a technical standpoint, the lack of a defined RSI(14) or MACD signal complicates short-term predictions. The current MACD value of -147.55180 suggests that selling pressure is present but not overwhelming. This negative MACD reading indicates that there is potential bearish momentum, though it is not yet confirmed as strong enough to push the price below support levels. As such, traders should keep an eye on the MACD and the development of other indicators for further confirmation.\n\nThe SMA(20) at 66,705 provides a key reference point, reinforcing the notion of a neutral market. The fact that Bitcoin is trading just above the 20-period simple moving average suggests that a slight upward bias could be in play, though the lack of a clear trend means traders should remain cautious. A break above the SMA or the previous high could offer an opportunity for further upward movement. Conversely, a drop below the SMA would suggest a bearish shift.\n\nFor traders, maintaining a wait-and-see approach seems prudent unless a clear breakout occurs. Buy opportunities might arise if Bitcoin breaks above 66,774 with strong volume, targeting a potential rally toward the next resistance zone. On the other hand, a breakdown below 66,555 could signal a bearish trend, with potential to test lower levels. Risk management through stop losses is essential in this uncertain market environment."
+    }
+  }
+}
