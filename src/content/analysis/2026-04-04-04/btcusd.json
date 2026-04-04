@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-04T04:31:30.902Z",
+  "price": {
+    "close": "66856.5",
+    "high": "66856.5",
+    "low": "66770.64",
+    "open": "66830.06",
+    "change": "0.04",
+    "datetime": "2026-04-04 04:00:00"
+  },
+  "indicators": {
+    "rsi": 49.36036,
+    "macd": -6.33627,
+    "macd_signal": -9.13137,
+    "sma20": 66865.856
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，观望为主",
+      "content": "当前比特币价格维持在66850美元附近，接近20日均线66865.86美元，短期趋势偏横盘整理。价格波动幅度有限，说明多空力量暂时平衡，短线大幅突破概率不高。若价格跌破66800美元区域，可能触发短期回调。  \n\nMACD指标显示主线为-6.33627，处于负值区间，暗示多头动能不足，但尚未出现明显死叉信号，短期仍有震荡可能。结合缺失的RSI数据，整体动能判断需谨慎，多空转换随市场消息面波动明显。  \n\n支撑位初步关注66770-66750美元区间，如跌破则可能下探66600美元；阻力位关注66950-67000美元区间，若突破则有望测试67200美元附近高点。均线附近运行显示短期均衡，市场方向尚不明朗。  \n\n交易策略上，建议观望为主，逢低短线做小仓位多单，止损可放在66750美元下方；若价格突破67000美元上方，可考虑顺势加仓多单。激进交易者可等待明确突破信号再介入，以降低横盘震荡带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin price is hovering near the $66,856 mark, showing minimal movement with a 24-hour change of just 0.04%. This suggests that the market is in a consolidation phase, with the price locked in a tight range between $66,856 and $66,770.64, as seen in the daily high/low. The lack of significant volatility indicates that market participants may be waiting for a clear catalyst to drive the next major move. At these levels, Bitcoin's short-term trend seems neutral, and traders are likely adopting a wait-and-see approach.\n\nThe absence of an RSI value makes it challenging to assess momentum in the traditional sense, but the MACD at -6.33627 hints at slight bearish pressure. Without the signal line data, this could suggest that the recent downtrend may be slowing down or consolidating. A closer look at the Simple Moving Average (SMA) 20 of $66,865 shows that the price is trading very close to this level, reinforcing the idea of consolidation. A breakout above this SMA could indicate a shift towards a more bullish sentiment, while a drop below it might signal further downside.\n\nIn terms of support and resistance, the key levels to watch are the $66,770.64 low as support and the $66,856 high as resistance. A breakout above $66,856 would likely lead to a test of the next resistance zone, which could be around $67,000 or higher. Conversely, if the price fails to hold above the $66,770 support, there may be potential for a pullback to the next support level, around $66,500 or lower.\n\nFor traders, a cautious approach is advised in this range-bound market. Entering long positions near the support level of $66,770 with a tight stop-loss could be an opportunity if the price breaks above the $66,856 resistance. However, if the price continues to hover within this narrow range without a clear direction, patience may be required until a breakout or breakdown occurs."
+    }
+  }
+}
