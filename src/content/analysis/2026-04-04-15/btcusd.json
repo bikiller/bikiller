@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-04T15:04:29.587Z",
+  "price": {
+    "close": "67196.96",
+    "high": "67199.8",
+    "low": "67175.62",
+    "open": "67199.8",
+    "change": "-0.00",
+    "datetime": "2026-04-04 15:00:00"
+  },
+  "indicators": {
+    "rsi": 60.58038,
+    "macd": 79.66176,
+    "macd_signal": 50.47284,
+    "sma20": 66985.769
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，谨慎观望",
+      "content": "当前，比特币/美元（BTC/USD）维持在67000美元附近，市场呈现震荡整理的状态。价格在67175.62至67199.8美元区间波动，显示出短期内缺乏明显的方向性。短期趋势趋于平稳，未见突破性的上涨或下跌。\n\n从技术指标来看，RSI(14)未提供有效数据，MACD显示79.66176的数值，表明市场在短期内保持强势，但由于缺乏信号线的对比，这一指标难以单独判断方向。SMA(20)为66985.77，表示市场价格略高于其20日简单移动平均线，仍处于上升通道内。\n\n支撑位方面，67000美元是关键心理关口，若下行跌破，可能会进一步考验更低的支撑位66700美元。阻力位则集中在67300美元一线，若突破该区域，价格可能会尝试进一步上涨。\n\n建议投资者在当前行情下保持谨慎，尤其在缺乏明确信号的情况下，可选择短线操作，或待价格突破关键支撑或阻力位时再做决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $67,196, showing a neutral short-term price movement as the 24-hour change hovers around 0%. The pair has tested a narrow range between $67,175 and $67,200, indicating consolidation after a recent upward push. The overall trend remains bullish in the medium term, supported by the price staying above the 20-day simple moving average at $66,985. This level acts as a key dynamic support, with a breach potentially signaling a temporary retracement toward $66,500.  \n\nThe MACD reading at 79.66 suggests bullish momentum, although the absence of a signal line limits a precise crossover analysis. Traders should monitor for MACD divergence or convergence to anticipate potential shifts. While RSI data is unavailable, the tight price range implies neither overbought nor oversold conditions, reinforcing a period of equilibrium. Short-term traders may focus on micro-trend setups using intraday charts to capitalize on minor swings within this consolidation phase.  \n\nSupport is concentrated near $66,985, aligning with the 20-day SMA, and further downside could find buyers around $66,500. Resistance emerges in the $67,200–$67,250 zone, where repeated testing may precede a breakout. A sustained move above $67,250 could open targets toward $67,500–$67,700, providing scope for momentum traders. Conversely, failure to hold the SMA could trigger a retracement to $66,500 or lower, suggesting caution for long positions.  \n\nConsidering these dynamics, cautious traders might favor range-bound strategies or small position entries near support levels, with stop-losses slightly below $66,950. Aggressive traders could wait for a confirmed break above $67,250 to capitalize on bullish continuation, using trailing stops to lock gains. Overall, BTC/USD exhibits a controlled bullish bias with short-term consolidation, warranting disciplined risk management and attention to key support and resistance levels for effective trade planning."
+    }
+  }
+}
