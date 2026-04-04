@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-04T21:49:54.787Z",
+  "price": {
+    "close": "2068.55",
+    "high": "2069.21",
+    "low": "2062.75",
+    "open": "2062.86",
+    "change": "0.28",
+    "datetime": "2026-04-04 21:00:00"
+  },
+  "indicators": {
+    "rsi": 63.9799,
+    "macd": 2.13785,
+    "macd_signal": 0.32819326,
+    "sma20": 2055.074
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线震荡偏多",
+      "content": "当前以太坊价格位于2068.55美元，接近日内高点2069.21，显示短线多空力量相对均衡。价格仍高于20日简单移动平均线(SMA20) 2055.07，表明短期趋势偏多，但涨幅有限，市场可能在2060-2070区间震荡整理。  \n\nMACD数值为2.13785，处于正值区间，显示多头动能存在，但信号线数据缺失，需要关注后续交叉确认。RSI指标暂不可用，但价格与SMA20的贴近提示市场未进入超买或超卖状态，短期波动可能依赖盘面情绪。  \n\n关键支撑位参考日内低点2062.75和SMA20 2055附近，一旦下破可能引发短线回调；阻力位在2069.2及2075附近，若有效突破，则多头可能延续至2080美元上方。价格波动幅度有限，适合区间操作策略。  \n\n交易策略上，短线偏向逢低做多，关注2062-2065美元附近支撑的承接力度，同时在突破2069-2070阻力后可考虑加仓追多。风险控制上，止损建议设置在2050美元下方，确保回撤有限。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum has been holding steady around $2068, showing mild bullishness as the price remains above the 20-period SMA of $2055. The intraday range between $2062.75 and $2069.21 suggests consolidation, indicating market indecision before a potential directional move. While the short-term trend shows slight upward bias, the absence of a clear RSI reading limits momentum clarity. Traders should watch for a decisive close above $2070 to confirm a continuation of the current bullish phase.  \n\nThe MACD value of 2.13785, although lacking a confirmed signal line, implies positive momentum, hinting that buyers are still slightly dominant. If the MACD crosses above a yet-to-be-calculated signal, it could reinforce a bullish bias, whereas any downward reversal might signal short-term exhaustion. Price oscillations near the SMA suggest equilibrium between buyers and sellers, making micro-breakouts or breakdowns more meaningful for short-term strategies.  \n\nImmediate support is likely found near $2055, coinciding with the SMA and recent intraday lows. A break below this level could expose $2040 as the next support zone. Resistance remains tight near $2070, with stronger barriers around $2085 if momentum strengthens. These levels provide clear entry and exit points for traders seeking tactical opportunities, allowing both swing and intraday participants to plan risk-reward strategies effectively.  \n\nFor trading, cautious long positions can be considered above the SMA with tight stops around $2050 to limit downside exposure. Short-term traders might monitor the $2070 breakout for momentum entries, while contrarian strategies could look for brief retracements toward support for lower-risk accumulation. Overall, Ethereum appears mildly bullish but within a narrow trading band, suggesting careful position sizing and vigilant monitoring for breakout confirmation or reversal cues."
+    }
+  }
+}
