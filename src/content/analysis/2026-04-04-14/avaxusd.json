@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-04-04T14:08:01.139Z",
+  "price": {
+    "close": "8.8638",
+    "high": "8.8738",
+    "low": "8.8638",
+    "open": "8.8688",
+    "change": "-0.09",
+    "datetime": "2026-04-04 14:00:00"
+  },
+  "indicators": {
+    "rsi": 44.93518,
+    "macd": -0.0088916429,
+    "macd_signal": -0.0043001597,
+    "sma20": 8.89342
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 8.8638\\n- 24小时变化: -0.09%\\n- 高点/低点: 8.8738 / 8.8638\\n- RSI(14): N/A\\n- MACD: -0.0088916429, Signal: N/A\\n- SMA(20): 8.89342\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短期震荡整理偏弱\n\n目前价格维持在8.86附近窄幅波动，短期趋势偏横盘整理。虽然24小时跌幅不大，但价格未能有效站上20日均线(SMA20≈8.893)，显示多头动能不足，仍有下探可能。\n\n从MACD指标看，当前快线在0轴下方微弱走低，虽无明显发散，但表明空头压力尚存。RSI缺失使超买超卖判断受限，但结合均线与价格结构，可认为动量偏弱。\n\n首要阻力位关注8.89-8.90区域，若反弹遇阻回落，短线承压明显。支撑位在8.70附近，其下破则或延续下一段调整。观察成交量变化，可辅助确认突破有效性。\n\n交易建议上，波段交易者可等待回踩支撑确认再布局多单，止损设于支撑下方。短线激进者可在阻力附近逢高减仓，谨慎控制仓位与风险。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "Avalanche (AVAX) is currently trading at a price of 8.8638, reflecting a slight decline of 0.09% over the past 24 hours. The price movement has been relatively stable, with a daily high of 8.8738 and a low of 8.8638. This price action suggests a consolidation phase, which often precedes a breakout or breakdown. Traders should keep an eye on the overall market sentiment and potential catalysts that could influence AVAX’s price movement in the short term.\n\nThe absence of a calculated Relative Strength Index (RSI) limits our ability to assess momentum. However, the Moving Average Convergence Divergence (MACD) is currently at -0.0089, indicating a bearish sentiment in the short term. This negative value suggests that the momentum is leaning towards selling pressure, which may influence traders to adopt a cautious approach. Moreover, the 20-period Simple Moving Average (SMA) is positioned at 8.89342, serving as a dynamic resistance level that the price has yet to overcome.\n\nIn terms of support and resistance levels, immediate support can be observed around 8.8600, while resistance is evident near the 8.8900 mark. If the price breaks below the support level, it could trigger further declines towards the next significant support zone. Conversely, a decisive move above the 8.8900 resistance could signal a bullish reversal, attracting more buyers and potentially leading to a retest of recent highs.\n\nTraders should consider employing a range-bound strategy given the current price action. A conservative approach might involve buying near the support level and selling at resistance. Conversely, aggressive traders could look for confirmation of a breakout above resistance or a breakdown below support for more significant trading opportunities. Maintaining a close watch on market developments and technical indicators will be crucial for informed trading decisions."
+    }
+  }
+}
