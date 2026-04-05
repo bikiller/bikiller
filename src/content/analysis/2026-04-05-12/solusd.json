@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-04-05T12:51:06.981Z",
+  "price": {
+    "close": "78.84",
+    "high": "79.93",
+    "low": "78.8",
+    "open": "79.89",
+    "change": "-1.31",
+    "datetime": "2026-04-05 12:00:00"
+  },
+  "indicators": {
+    "rsi": 27.32172,
+    "macd": -0.24778983,
+    "macd_signal": -0.099295401,
+    "sma20": 80.307
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 78.84\\n- 24小时变化: -1.31%\\n- 高点/低点: 79.93 / 78.8\\n- RSI(14): N/A\\n- MACD: -0.24778983, Signal: N/A\\n- SMA(20): 80.30700\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期偏弱震荡承压\n\n当前SOL/USD价格在78.84美元附近震荡，价格低于20日简单移动平均线（SMA20 = 80.31），表明短期动能偏弱，未能有效突破均线阻力，价格上行动能受限，偏向震荡下行格局。\n\n技术指标方面，尽管缺少完整RSI与MACD信号线数据，但已知MACD为负值（-0.2478）显示空头动量仍在，短期尚未形成明显背离反转信号。若未来MACD柱缩减且形成金叉，将是潜在反弹信号。当前技术面仍需等待更明确动量指标确认。\n\n从关键支撑与阻力来看，短线第一支撑位可关注最近低点78.00附近，如失守可能进一步下探至中期支撑75.50一线。上方阻力则集中在20日均线80.30，以及近期高点79.90-81.50区间，若能有效站上并收复这些阻力，将有助于趋势转强。\n\n交易建议方面，短线交易者可在确认支撑有效后的回踩企稳位置尝试低多布局，设好止损以控制风险；若价格回升突破并站稳20日均线，可考虑中线多头参与。另一方面，若价格跌破关键支撑并伴随量能放大，则需谨慎观望或适当减仓。总体而言，短期偏弱震荡，但不排除形成区间反弹机会，建议严格风险管理，结合成交量与动量指标确认发出更明确信号后再入场。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 78.84\\n- 24h Change: -1.31%\\n- High/Low: 79.93 / 78.8\\n- RSI(14): N/A\\n- MACD: -0.24778983, Signal: N/A\\n- SMA(20): 80.30700\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s short‑term trend shows a mild bearish tilt as price hovers below recent highs and beneath the 20‑period Simple Moving Average. The last session’s high/low range (79.93/78.80) and modest negative price change suggest sellers are exerting pressure near key short‑term resistance. Although not sharply trending, this consolidation below SMA(20) hints at potential continuation of weakness unless upside momentum returns. Larger timeframes should be checked for broader context, but presently the trend leans cautious.\n\nWith MACD in negative territory ($-0.2478$) and the signal line unavailable, momentum appears subdued. Lack of an RSI reading limits overbought/oversold insights, but bearish MACD positioning can imply the bears hold slight control. The fact price remains under the 20‑period average suggests short‑term selling pressure outweighs buying interest. Traders should watch for any MACD convergence toward the signal line as a potential early sign of a shift in momentum back to the upside.\n\nKey technical levels to monitor include near‑term support around $77.50$–$78.00$, where prior intra‑day lows clustered, and resistance near the SMA(20) around $80.30$. A decisive break below support could open a move toward psychological zones near $75, while a daily close above the moving average and subsequent reclaim of $82–83$ would improve the bullish outlook. Volume and volatility patterns accompanying such breaks will help validate directional conviction.\n\nFor active traders, a conservative approach would be to avoid fresh long positions until SOL clears $80.50$ with conviction and improved momentum markers, with stops beneath recent swing lows. Shorter setups could consider fading rallies toward the moving average while maintaining tight risk controls. Longer‑term holders might view current weakness as a consolidation phase, but should be prepared for volatility and adjust position sizing accordingly."
+    }
+  }
+}

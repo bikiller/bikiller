@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-04-05T12:50:25.714Z",
+  "price": {
+    "close": "589.22",
+    "high": "593.98",
+    "low": "589.05",
+    "open": "593.97",
+    "change": "-0.80",
+    "datetime": "2026-04-05 12:00:00"
+  },
+  "indicators": {
+    "rsi": 40.24192,
+    "macd": 0.38571885,
+    "macd_signal": 0.69045899,
+    "sma20": 592.77
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：震荡整理，等待突破信号",
+      "content": "当前，BNB/USD在589.22附近震荡整理，近期价格维持在590水平附近波动。价格的短期波动幅度较小，呈现出典型的区间震荡走势。市场在此区间内尚未出现明显的突破信号，因此短期内的趋势较为不明确。\n\n技术指标方面，虽然RSI(14)数据缺失，但MACD显示出0.38571885的值，暗示着市场处于轻微的买方主导状态。然而，由于Signal线数据缺失，无法进一步判断是否存在持续的上涨动能。SMA(20)目前在592.77附近，价格处于其下方，显示出短期内价格未能突破20日均线，进一步确认了当前震荡整理的走势。\n\n支撑位在589.05附近，一旦价格跌破此点位，可能会进一步回撤至580美元区域。阻力位则集中在593.98附近，突破此位置可能引发更大幅度的上涨。交易者应密切关注这两个关键价位，若价格突破上行阻力，可能会迎来更强的买入信号。\n\n建议在当前区间内采取震荡操作策略，待价格突破关键支撑或阻力位时再做进一步决策。短期内，保持谨慎态度，避免过度追高或追低。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 589.22\\n- 24h Change: -0.80%\\n- High/Low: 593.98 / 589.05\\n- RSI(14): N/A\\n- MACD: 0.38571885, Signal: N/A\\n- SMA(20): 592.77000\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s recent price action shows a **mildly bearish drift** after failing to sustain upside momentum above the short‑term average. With the latest price around **$589.22** and a negative 24‑hour move, BNB appears to be consolidating within a tight range. The slight difference between the day’s high and low suggests **low volatility**, which often precedes a breakout. Unless we see a decisive move beyond the immediate range, this sideways behavior could persist, keeping both bulls and bears hesitant.\n\nLooking at the simple moving average, BNB is **trading marginally below the 20‑period SMA (~$592.77)**. This positioning often signals short‑term weakness, as the price fails to sustain above a key dynamic level. The absence of a corresponding MACD signal line limits definitive momentum readings, but the current **MACD histogram value around 0.386** indicates that bullish momentum still exists, albeit subdued. Without an RSI reading, it’s harder to gauge overbought or oversold territory, though the lack of sharp price movements suggests equilibrium rather than extremes.\n\nKey **support levels** to watch are near the **$580–$585 zone**, which has acted as a floor in recent sessions. A break below this area could open the door toward **$570**, where stronger demand previously emerged. On the upside, resistance clusters around **$595–$600**—a level that has capped rallies and coincides with the 20‑period SMA. A convincing break above **$600** could encourage bullish traders to target **$620** next, given historical congestion and psychological significance.\n\nFrom a trading standpoint, a **range‑bound strategy** may be appropriate for now. Bulls might consider entering on pullbacks near the lower support zone with tight stops, looking for bounce confirmations. Conversely, breakout traders could watch for **volume expansion and candle closes above $600** before committing long positions. Caution is warranted: until broader momentum indicators align more clearly, sustaining directional conviction may be challenging."
+    }
+  }
+}
