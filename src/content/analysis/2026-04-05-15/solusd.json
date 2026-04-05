@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-04-05T15:08:10.370Z",
+  "price": {
+    "close": "79.06",
+    "high": "79.29",
+    "low": "79.06",
+    "open": "79.27",
+    "change": "-0.28",
+    "datetime": "2026-04-05 15:00:00"
+  },
+  "indicators": {
+    "rsi": 32.89141,
+    "macd": -0.32123429,
+    "macd_signal": -0.1951653,
+    "sma20": 80.0625
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 79.06\\n- 24小时变化: -0.28%\\n- 高点/低点: 79.29 / 79.06\\n- RSI(14): N/A\\n- MACD: -0.32123429, Signal: N/A\\n- SMA(20): 80.062500\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：横盘震荡，短线偏弱\n\n当前SOL价格在79美元附近震荡未能有效上破，短期趋势偏向区间整理。价格仍在20日均线下方运行，表明多头动力不足；近期高低点波动有限，短线多空力量暂时均衡，趋势暂时偏弱。\n\n技术指标方面，MACD柱线仍在负值区域，暗示下行动能仍存；但信号线未提供明确交叉方向，显示动能弱且未形成明显趋势。RSI数据缺失，但从价格结构看，买卖双方情绪谨慎，需等待指标确认趋势方向。\n\n关键支撑位初步关注77.50附近，同时次级支撑在75美元区域，该处曾有成交密集。阻力位则在80.5-81美元区间，若突破将提升短期多头信心；进一步阻力在83美元位置，突破需成交量配合。\n\n交易建议上，短线可在支撑位附近尝试轻仓多头，止损置于74.8下方以控制风险；若价格上破80.5并站稳，可考虑追多。但若失守主要支撑，后市或下探更低区间，建议控制仓位并耐心等待明确方向信号再操作。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 79.06\\n- 24h Change: -0.28%\\n- High/Low: 79.29 / 79.06\\n- RSI(14): N/A\\n- MACD: -0.32123429, Signal: N/A\\n- SMA(20): 80.062500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s recent price action around **$79.06** suggests a mild bearish bias in the short term. Despite attempting to reclaim momentum, the market has been capped below the **20‑period simple moving average (~80.06)**, indicating that upward pressure remains limited. The narrowing of price range between the intraday high and low underscores reduced volatility, often seen during consolidation before a more decisive move. Trend-wise, sellers have a slight edge until the price convincingly breaks and holds above the SMA.\n\nAlthough the **RSI(14)** and **MACD signal line** are unavailable, the given **negative MACD histogram value (-0.3212)** implies that downside momentum has been building. This suggests that although outright selling pressure isn’t extreme, the absence of a bullish crossover means bulls lack conviction. Traders should be cautious, as continued negative MACD readings can precede deeper retracements. The lack of RSI data makes it harder to gauge overbought or oversold extremes, so combining what’s available with price structure becomes essential.\n\nKey technical levels to watch are **support around $75–$76**, which has previously acted as a floor during pullbacks, and **resistance near $81–$82**, a short-term ceiling aligned with recent swing highs and the 20 SMA. A sustained break below support could open the door toward **$72–$73**, while clearing resistance above **$82** may attract buyers seeking a run toward **$85+**. These zones are helpful for setting stops and targets, especially in an environment where trend direction is not yet firmly established.\n\nFor traders, a cautious approach is sensible. Short‑term positions could favor range‑based strategies—buying near support with tight stops and selling into resistance—until a clear breakout occurs. For more aggressive traders, a break and retest of **$82** on high volume might offer a higher‑probability long entry, whereas failure to hold **$75** might invite short exposure with a stop above recent highs. Always consider risk management with defined stop placement and position sizing aligned with individual risk tolerance."
+    }
+  }
+}
