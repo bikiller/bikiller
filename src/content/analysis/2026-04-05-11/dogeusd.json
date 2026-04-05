@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-04-05T11:10:00.757Z",
+  "price": {
+    "close": "0.09024",
+    "high": "0.09028",
+    "low": "0.09017",
+    "open": "0.09021",
+    "change": "0.02",
+    "datetime": "2026-04-05 11:00:00"
+  },
+  "indicators": {
+    "rsi": 32.32609,
+    "macd": -0.00035086377,
+    "macd_signal": -0.00019516052,
+    "sma20": 0.0913045
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏弱，关注关键支撑位",
+      "content": "当前狗狗币价格在 $0.09024$ 附近窄幅波动，日内涨跌幅极小，仅 $0.02\\%$，显示市场短期观望情绪浓厚。价格低于20日均线 $0.0913$，短期均线呈压制状态，暗示多头力量不足，短线偏弱格局明显。  \n\nMACD当前为负值 $-0.00035086377$，虽信号线数据缺失，但负值显示空头动能仍存在，价格短期可能承压整理。缺乏RSI数据限制了超买超卖判断，但结合价格与均线位置，市场短线仍倾向于震荡下行。  \n\n支撑位关注近期低点 $0.09017$，若跌破该水平可能引发进一步下探至 $0.0895$ 附近；阻力位则在20日均线 $0.0913$，若价格突破，可能带来反弹机会。成交量若未放大，突破可靠性有限，需谨慎观察。  \n\n交易策略上，短线可考虑低位轻仓做多，止损设置在 $0.0900$ 以下，以控制风险；激进交易者可待价格站稳均线后再跟进，多头信号更明确。中性策略则建议观望，等待市场选择方向，避免频繁追涨杀跌。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently consolidating around the $0.09024 mark, showing minimal volatility over the last 24 hours. The tight price range between $0.09017 and $0.09028 indicates indecision among market participants, with neither buyers nor sellers asserting strong control. This sideways movement suggests that the market is in a short-term neutral phase, and a decisive breakout above or below this range will likely set the next directional bias. Monitoring volume during such moves will be critical to confirming the strength of any breakout.  \n\nThe SMA(20) at $0.09130 is slightly above the current price, hinting at mild short-term bearish pressure. Price remaining below this moving average often signals that bulls are struggling to sustain momentum. The negative MACD value of -0.00035086377 reinforces this cautious outlook, suggesting that selling pressure marginally outweighs buying. However, the absence of a MACD signal line prevents a full confirmation of trend reversal, so traders should exercise caution before committing to aggressive positions.  \n\nImmediate support can be identified near $0.09010, which has provided a floor for price action during intraday fluctuations. On the upside, resistance around $0.09130 coincides with the SMA, acting as a barrier to further upward movement. A sustained move above this level could open the door to a short-term bullish rally toward $0.09200, while a breakdown below support could trigger a deeper retracement. Attention to these levels will be key for risk management and timing entries or exits.  \n\nFor trading strategy, conservative traders may prefer to wait for clear confirmation of a breakout above $0.09130 or a drop below $0.09010 before entering positions. Range-bound traders could consider short-term scalps within the current consolidation band, focusing on tight stop-loss placement to mitigate sudden volatility. Overall, the market’s current lack of momentum suggests patience is warranted, with careful observation of support, resistance, and potential catalysts likely to influence near-term direction."
+    }
+  }
+}
