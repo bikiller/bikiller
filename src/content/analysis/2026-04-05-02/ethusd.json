@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-05T02:04:31.500Z",
+  "price": {
+    "close": "2054.7",
+    "high": "2057.11",
+    "low": "2053.89",
+    "open": "2057.11",
+    "change": "-0.13",
+    "datetime": "2026-04-05 02:00:00"
+  },
+  "indicators": {
+    "rsi": 46.010552,
+    "macd": 1.65562,
+    "macd_signal": 1.70747,
+    "sma20": 2057.3565
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期盘整，谨慎等待突破",
+      "content": "当前以太坊价格位于 $2054.7$ 美元附近，日内波动幅度较小，高低点在 $2057.11$ 和 $2053.89$ 之间，显示短期内多空力量相对均衡。价格略低于20日简单移动平均线（SMA20 $2057.36$），表明上行动力不足，市场可能处于盘整阶段。  \n\nMACD指标显示主线为 $1.65562$，虽缺乏信号线数据，但正值仍暗示多头略占优势。然而，由于价格紧贴均线，短期趋势不明显，投资者需关注价格是否突破阻力 $2060$ 美元或跌破支撑 $2050$ 美元以确认方向。  \n\n支撑位方面，$2050$ 美元是关键心理价位，若有效守住可短线吸引买盘。阻力位位于 $2060$ 美元和前期高点 $2070$ 美元，突破需成交量配合方可形成趋势延续，否则可能出现回调。  \n\n交易策略上，短线交易者可在支撑附近尝试轻仓买入，止损置于 $2048$ 美元以下，逢阻力位可考虑部分获利了结。中长线投资者则建议保持观望，等待价格明确突破或回调确认趋势再介入，以降低震荡风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH/USD) is currently showing slight bearish momentum, with a small decline of 0.13% in the last 24 hours. At a price of $2054.7, the market has remained within a narrow range between $2053.89 and $2057.11. The inability to break above the $2057 resistance indicates a potential short-term consolidation or downward pressure. The price action remains flat, suggesting indecisiveness among market participants as they await stronger momentum or fundamental news to drive direction.\n\nThe lack of a clear RSI reading and absence of a reliable Signal line on the MACD complicates the picture slightly. However, the MACD value of 1.65562 does indicate bullish strength in the recent past, suggesting that buyers have been active, but there is no confirmation of continuation at this stage. Without the RSI or a clear Signal line to guide momentum shifts, ETH’s movement will likely depend on external market catalysts. A potential breakout could occur if the price manages to hold above the SMA(20) level of $2057.36.\n\nSupport levels lie around $2053, just below the current price, providing a possible floor in case of a short-term dip. The proximity to the 20-period simple moving average adds further importance to this level, as it aligns with the potential for upward reversal if the price remains stable above it. A break below this support could lead to a deeper retracement toward $2045, with further testing of lower levels such as $2040.\n\nFor traders, it may be prudent to wait for confirmation of a breakout or breakdown. A strong move above $2057 could trigger buying pressure, targeting the next resistance levels around $2065 and beyond. On the other hand, a breakdown below $2053 could signal short-term selling opportunities, with a focus on the lower support levels for potential profit-taking. Keep an eye on MACD crossovers for additional confirmation of trend shifts."
+    }
+  }
+}
