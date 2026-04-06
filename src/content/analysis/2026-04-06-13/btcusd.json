@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-06T13:01:31.883Z",
+  "price": {
+    "close": "69367.96",
+    "high": "69642",
+    "low": "69323.88",
+    "open": "69620",
+    "change": "-0.36",
+    "datetime": "2026-04-06 12:00:00"
+  },
+  "indicators": {
+    "rsi": 66.21908,
+    "macd": 576.43937,
+    "macd_signal": 541.96007,
+    "sma20": 68741.532
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期关注关键支撑位]",
+      "content": "当前比特币价格为69367.96美元，略微下跌0.36%。从近期走势来看，比特币呈现震荡整理状态，价格波动区间相对较窄，高点和低点分别为69642美元和69323.88美元。价格未出现明显的突破或反转信号，市场情绪相对谨慎。\n\nMACD指标当前为576.43937，但没有信号线的数据支持。由于MACD信号的缺失，难以依赖此指标确认短期趋势，需更多的技术数据支持。SMA(20)为68741.53200，表明短期内价格维持在其之上可能支撑上行，但若跌破此点，短期内可能出现下行压力。\n\n考虑到市场波动性，建议在接近支撑位（约69300美元）时谨慎布局，逢低买入的策略可关注。如果价格突破69650美元，可能会迎来更高的上涨空间。相反，如果价格跌破20日均线68740美元支撑，短期可能会有进一步的回调风险。\n\n总的来说，当前市场处于观望期，投资者应关注关键支撑位及阻力位的突破，灵活调整仓位，避免过度追涨杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC/USD) is currently exhibiting a subtle bearish trend after showing minor losses in the last 24 hours, with a price change of -0.36%. The price is trading just below the recent high of 69642, testing the lower range at 69323.88. This suggests a potential for short-term consolidation, as the price struggles to break past resistance. The failure to maintain upward momentum may indicate a period of sideways price action, with caution being advised for traders anticipating further corrections or retracements.\n\nThe absence of a clear Relative Strength Index (RSI) reading makes it difficult to assess overbought or oversold conditions, which limits some key momentum insights. Additionally, the MACD indicator is positive at 576.43, but with no available signal line for reference, the trend's strength and potential for continuation or reversal remain uncertain. Traders should closely monitor for any divergence between the price and MACD, as it may provide clues regarding the sustainability of the current trend.\n\nSupport levels for BTC/USD are observed near the 68741 range, with the price finding stability above the SMA(20) of 68741.53. If the price dips below this level, it could test the next significant support around 68000. Conversely, the immediate resistance lies at 69642, and a break above this could potentially lead to a retest of higher levels. A strong close above resistance would trigger bullish momentum, while a failure to breach it could signal further consolidation or possible downside risk.\n\nGiven the current price action, it’s advisable to adopt a wait-and-see approach until clearer signals emerge. For short-term trades, scalping within a defined range might be effective, but for longer-term positions, waiting for a breakout above resistance or a clear trend reversal near support levels could offer better risk-to-reward opportunities."
+    }
+  }
+}
