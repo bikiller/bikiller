@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-07T10:18:42.687Z",
+  "price": {
+    "close": "68953.94",
+    "high": "69208.14",
+    "low": "68834.29",
+    "open": "69150.36",
+    "change": "-0.28",
+    "datetime": "2026-04-07 10:00:00"
+  },
+  "indicators": {
+    "rsi": 50.62339,
+    "macd": -14.9687,
+    "macd_signal": 26.95727,
+    "sma20": 69118.853
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "目前比特币价格徘徊在68950美元附近，较20日均线69118美元略低，显示短期价格存在一定回落压力。日内高低点69208/68834区间波动，说明多空力量相对均衡，但整体偏向弱势整理，市场情绪谨慎。  \n\nMACD为-14.97，显示空头动能仍占优，但信号线未给出，需观察后续动量变化。缺失RSI数据限制了超买超卖判断，但结合价格运行于均线下方，可初步认为短线承压。价格如回升至均线附近遇阻，可能形成短期回落。  \n\n支撑位方面，68800附近为近期低点支撑，如跌破可能进一步下探至68500-68600区域。阻力位主要在69100-69200区间，若突破该区域，则可能触发短线反弹。投资者应关注价格在均线及关键支撑位的反应，以判断多空力量强弱。  \n\n交易策略上，短线可保持观望或轻仓逢低买入，严格控制止损于68800下方；激进者可在突破69200后考虑短线追多，结合量能确认趋势延续。整体建议以顺势为主，避免逆势操作，同时关注市场消息面影响波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC/USD) is currently consolidating near the $68,950 level, showing minor negative movement over the last 24 hours with a decline of 0.28%. This suggests a period of low volatility, and the price action remains largely range-bound between the intraday high of $69,208 and the low of $68,834. The market appears to be in a short-term consolidation phase, which could indicate either a potential breakout or breakdown depending on how the next few hours unfold. However, the lack of significant directional movement points to indecision.\n\nIn terms of indicators, the MACD is showing a negative value of -14.96870, signaling bearish momentum. This suggests that, in the immediate term, downward pressure could continue unless the market can find strong support and initiate a bullish reversal. Without an available RSI or Signal line, there is limited insight into the strength of current trends or potential overbought/oversold conditions. Traders may want to monitor the MACD closely, as a bullish crossover could suggest a shift in momentum, while continued negative divergence might reinforce bearish sentiment.\n\nThe SMA(20) currently sits at $69,118, which serves as a dynamic resistance level in the short term. If Bitcoin breaks above this, it could signal a potential continuation of the uptrend, but such a move would need strong confirmation from other indicators. On the downside, immediate support can be observed near $68,834. A break below this level could open the door for further downside towards $68,000, depending on broader market conditions. Therefore, traders should be cautious about taking long positions unless a clear breakout above $69,118 is observed.\n\nGiven the current market environment, a neutral strategy might be prudent, with a watchful eye on potential breakouts. A conservative approach would suggest waiting for either a decisive break above the 20-period SMA or a confirmation of support at lower levels to initiate positions. For aggressive traders, short-term opportunities may arise if the price dips toward key support zones, but a solid risk management plan would be essential."
+    }
+  }
+}
