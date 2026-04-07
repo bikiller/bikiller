@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-07T11:37:38.372Z",
+  "price": {
+    "close": "2088.26",
+    "high": "2093.54",
+    "low": "2081.74",
+    "open": "2089.08",
+    "change": "-0.02",
+    "datetime": "2026-04-07 11:00:00"
+  },
+  "indicators": {
+    "rsi": 39.83459,
+    "macd": -4.99697,
+    "macd_signal": -1.28624,
+    "sma20": 2116.948
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理，短期偏弱",
+      "content": "当前以太坊/美元价格维持在2088.26美元，全天变化幅度较小，仅-0.02%。价格处于一个震荡整理的状态，显示出市场缺乏明确的方向。由于价格未突破重要支撑或阻力，短期内可能会继续横盘整理。\n\n在技术指标方面，MACD值为-4.99697，虽然没有给出明确的信号，但负值表明短期内仍处于弱势区。SMA(20)位于2116.95美元，价格远低于此水平，说明短期内依然承压。RSI(14)数据缺失，无法提供额外的超买或超卖信号。\n\n从支撑位来看，2081.74美元是关键支撑区域，一旦价格跌破该水平，可能会进一步测试2050美元附近的支撑。而阻力位则集中在2093.54美元附近，如果突破此阻力，可能会暂时恢复上行趋势，挑战2100美元整数关口。\n\n建议短期内观望，避免追高。若价格回测至支撑区间，可以考虑小幅做多；若跌破支撑位，注意风险控制，等待更低的进场机会。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) has been showing a relatively neutral price action recently, with the latest price sitting at 2088.26, down just 0.02% over the past 24 hours. This indicates a lack of significant momentum in either direction. However, the high of 2093.54 and low of 2081.74 suggest the market is trading within a narrow range. The price is below the 20-period Simple Moving Average (SMA) of 2116.95, signaling that the short-term trend is currently bearish, but with limited downside pressure.\n\nThe absence of a current RSI reading makes it difficult to assess overbought or oversold conditions. However, the MACD at -4.99697 indicates bearish momentum, though it does not provide clear signals for an immediate reversal. This suggests that while the market is leaning towards the downside, it is not in an extreme state that would suggest an imminent sell-off. Traders should remain cautious, especially given the narrow trading range observed.\n\nKey support for ETH/USD lies around the 2081.74 low, and any further decline could see the price test lower levels. A break below this support could signal a shift towards deeper bearish conditions, with 2050 or even 2000 as potential next targets. On the other hand, resistance is located near the 2093.54 level, with further upside capped by the 20-period SMA at 2116.95. A breakout above this level would suggest potential for a recovery and a test of the next significant resistance levels.\n\nGiven the current market conditions, a range-bound strategy may be appropriate. Traders could consider entering near the lower support levels and selling around resistance. However, a breakout above 2116.95 would warrant caution and may present an opportunity for a long position. Conversely, a drop below 2081.74 could prompt short positions, as it would indicate further weakness in the market."
+    }
+  }
+}
