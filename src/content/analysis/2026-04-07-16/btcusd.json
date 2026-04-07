@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-07T16:53:22.052Z",
+  "price": {
+    "close": "68326.37",
+    "high": "69039.74",
+    "low": "68060.31",
+    "open": "68152.71",
+    "change": "0.25",
+    "datetime": "2026-04-07 16:00:00"
+  },
+  "indicators": {
+    "rsi": 45.02031,
+    "macd": -206.56404,
+    "macd_signal": -130.0057989,
+    "sma20": 68603.106
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡整理，待突破关键区间",
+      "content": "目前，比特币在68326.37美元附近震荡整理，日内波动幅度较小，仅为0.25%。价格处于69039.74美元的日内高点与68060.31美元的低点之间，显示出市场暂时处于观望状态。若突破69000美元水平，可能迎来短期上行动能；反之，若跌破68000美元支撑，则可能引发进一步回调。\n\n在技术指标方面，MACD值为负206.56404，显示出短期内卖盘压力较大，且由于Signal线数据缺失，暂时难以确认反转信号。RSI指标目前无法获取，但基于当前价格区间，假设RSI值未超买或超卖，市场情绪依然相对平稳。SMA(20)均线位于68603.11美元，起到轻微的支撑作用。\n\n从支撑位来看，68000美元区域是一个关键支撑，若该价位失守，价格可能进一步下探至67000美元甚至更低的水平。阻力位方面，69000美元附近为强劲阻力，突破该位后，有望测试69500美元及70000美元大关。\n\n建议投资者保持观望，待比特币突破68000美元或69000美元关键区间后再做决策。若市场突破上行，可以考虑适量买入；若下行破位，则可等待低位再入场。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a slight bullish bias with a modest 0.25% increase in the past 24 hours. The price is holding just above the 20-period simple moving average (SMA), which stands at 68,603, suggesting potential support at this level. However, the absence of a defined Relative Strength Index (RSI) and the MACD value being negative implies a lack of clear momentum in either direction. Traders should remain cautious until clearer bullish or bearish signals emerge.\n\nSupport for BTC/USD is observed near the 68,060 level, which aligns with the low of the day. If the price moves below this point, further downside pressure could take it toward the next key support at 67,000, marking a potential area to watch for buyers to step in. On the other hand, resistance lies just above 69,000, a psychological barrier that has capped the recent rally. A break above this resistance could signal a stronger bullish momentum, pushing Bitcoin higher.\n\nFrom an indicator standpoint, the MACD's negative value hints at a potential bearish momentum, but without the signal line for confirmation, it remains inconclusive. The lack of an RSI reading further complicates the analysis, leaving traders without the typical momentum confirmation. For now, the price remains range-bound between the high at 69,039 and the low at 68,060, which could define the short-term price action unless a breakout occurs.\n\nConsidering the current market conditions, a range trading strategy may be suitable. Traders should look for buying opportunities near 68,060 support and aim for the 69,000 resistance. Conversely, a break below 68,060 could present a chance to short toward 67,000. Patience is key, as Bitcoin remains in a consolidation phase, and clearer signals may materialize in the coming sessions."
+    }
+  }
+}
