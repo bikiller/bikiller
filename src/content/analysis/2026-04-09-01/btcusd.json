@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-09T01:54:01.754Z",
+  "price": {
+    "close": "70869.81",
+    "high": "70942",
+    "low": "70468.74",
+    "open": "70813.8",
+    "change": "0.08",
+    "datetime": "2026-04-09 01:00:00"
+  },
+  "indicators": {
+    "rsi": 48.12706,
+    "macd": 145.69149,
+    "macd_signal": 311.91604,
+    "sma20": 71432.747
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期偏空",
+      "content": "当前比特币/美元价格呈现出震荡整理的走势。最近的价格波动较小，24小时变化仅为0.08%。目前价格接近其20日简单移动平均线(SMA)的71432.75附近，这一水平对市场起到一定的短期阻力作用。由于未出现强烈的上行突破，市场短期内可能继续处于横盘整理状态。\n\n在技术指标方面，MACD线目前位于145.69149，虽然没有具体的信号线数据，但当前MACD值依然较高，显示出市场的潜在上涨动力。然而，RSI指标缺失，无法通过超买或超卖信号进一步确认买入或卖出的强度。这意味着市场情绪仍有不确定性。\n\n从支撑和阻力角度来看，比特币价格的短期支撑位在70468.74附近，而阻力位则在70942附近。如果价格突破70942，可能会进一步测试更高水平；若跌破70468.74，可能会加剧下行压力。\n\n建议交易者保持谨慎，短期内可以等待价格突破关键支撑或阻力位后再做决定。如果短期内持续横盘整理，则可考虑在支撑位附近低位入场，但需设定止损以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently consolidating in a narrow range, trading at $70,869.81, with a slight 24-hour change of 0.08%. The price is near the upper boundary of this range, as indicated by the recent high of $70,942 and a low of $70,468.74. The market sentiment suggests a neutral to slightly bullish trend, with Bitcoin holding steady around this price level. A breakout above $71,432 could trigger further upside momentum, while a drop below $70,468 may signal bearish pressure.\n\nTechnical indicators show limited data, with the Relative Strength Index (RSI) currently unavailable. However, the MACD is at a positive 145.69149, suggesting that the current price action is still showing bullish momentum. This indicates that while there is a lack of volatility, the momentum is still favoring the buyers. Traders should monitor the MACD for any potential divergence, as it could signal a reversal in trend.\n\nSupport and resistance levels are key to understanding potential market moves. The current support is found around $70,468.74, where recent lows have formed. A break below this level could lead to a deeper correction, potentially targeting $69,000. On the other hand, the immediate resistance lies at $71,432.747, as this level aligns with the 20-period simple moving average (SMA), a crucial short-term barrier for bullish continuation.\n\nTraders should adopt a cautious approach in this consolidation phase, waiting for clear breakout signals. A move above $71,432 would be a strong signal for long positions, while a dip below $70,468 could open opportunities for short entries. It's important to wait for confirmation from volume or further indicator alignment before entering trades."
+    }
+  }
+}
