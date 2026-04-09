@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-09T10:36:36.568Z",
+  "price": {
+    "close": "71397.33",
+    "high": "71548.49",
+    "low": "71357.05",
+    "open": "71540.04",
+    "change": "-0.20",
+    "datetime": "2026-04-09 10:00:00"
+  },
+  "indicators": {
+    "rsi": 55.21906,
+    "macd": 93.28533,
+    "macd_signal": 102.51773,
+    "sma20": 71209.433
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期观望]",
+      "content": "当前比特币/美元（BTC/USD）价格在71397.33附近，全天波动较小，呈现轻微的下跌趋势（-0.20%）。从当前的走势来看，比特币正处于震荡整理阶段，价格在71500附近出现短期的反弹压力，暂时未能突破。\n\n技术指标方面，MACD指标为93.28533，虽然没有明确的信号线数据，但此数值说明市场仍然呈现一定的买盘动力，且未出现明显的卖压。SMA(20)均线在71209附近，为当前的支撑位，短期内若价格下破该水平，可能会进一步测试低点。\n\n在支撑位方面，当前的支撑位为71357.05，而上方的阻力位则为71548.49，若价格突破71550，将有可能试探新高。但考虑到RSI和信号线缺乏数据，市场情绪较为不明确，操作上建议保持观望，避免激进交易。\n\n总体来说，比特币当前处于横盘整理阶段，未出现明显的趋势信号。建议投资者关注价格是否突破当前区间，并等待更明确的技术确认后再做进一步操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is showing a neutral to slightly bearish short-term trend, with the price currently at 71,397.33 USD. The slight 24-hour decline of -0.20% suggests the market is consolidating within a narrow range. Bitcoin’s inability to break above the recent high of 71,548.49 USD, combined with the low of 71,357.05 USD, indicates a lack of clear momentum, implying that traders are waiting for a decisive move. This could suggest the market is in a phase of indecision, potentially leading to a breakout or further consolidation.\n\nCurrently, Bitcoin’s price is positioned slightly above the 20-period simple moving average (SMA), which stands at 71,209.43 USD. This SMA acts as a minor support level, and a price drop below this could open the door to a further decline toward the next significant support around 71,000 USD, then potentially 70,500 USD. On the other hand, if the price recovers and breaks above 71,548 USD, resistance may appear at the 72,000 USD level. Traders should monitor for a breakout or rejection at these levels to assess future price direction.\n\nRegarding technical indicators, the lack of a current RSI and the absence of a defined signal line in the MACD leaves a gap in providing clarity on market momentum. However, the MACD value of 93.28533 suggests there is some bullish pressure in the background, though not enough to trigger a strong upward move at this point. Traders should wait for further confirmation through indicator crossovers or price action to confirm bullish or bearish signals.\n\nIn terms of trading strategy, if Bitcoin dips below the SMA support, short positions could be considered with targets near 71,000 USD or lower. On the other hand, breaking above 71,548 USD would trigger potential long opportunities, with resistance at 72,000 USD to watch for a potential price reversal. Caution is recommended in this range-bound environment until clearer signals emerge."
+    }
+  }
+}
