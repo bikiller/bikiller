@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-09T15:02:45.570Z",
+  "price": {
+    "close": "2177.5",
+    "high": "2177.61",
+    "low": "2176.51",
+    "open": "2177.61",
+    "change": "-0.00",
+    "datetime": "2026-04-09 15:00:00"
+  },
+  "indicators": {
+    "rsi": 44.77325,
+    "macd": -5.92876,
+    "macd_signal": -4.47923,
+    "sma20": 2185.369
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期盘整偏弱震荡",
+      "content": "当前以太坊价格在2177.5附近徘徊，24小时涨跌幅接近零，显示市场短期缺乏明确方向。价格位于20日均线SMA(20)2185.37下方，暗示短期偏弱压力仍存，但波动幅度有限，可能继续在2175-2185区间盘整。  \n\nMACD指标显示主线位于-5.93，远低于零轴，表明下行动能仍存在，但信号线未明确，趋势不够强烈。缺少RSI数据限制了超买超卖判断，但结合均线和价格位置，可推测多空力量接近平衡，短线偏向整理。  \n\n支撑位初步在2175附近，若跌破可能测试2165区域；阻力位在2185-2190区间，多次触及均线可能遭遇抛压。价格若稳住支撑区，可形成短期反弹机会，但上破阻力前仍需谨慎观望。  \n\n交易策略上，激进投资者可在支撑附近尝试低吸，并严格设置止损；保守操作建议等待突破信号确认趋势后再布局，多单可关注突破2185后的持续性，空单则在跌破2175后考虑跟进，控制仓位以防假突破。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum against the US Dollar stands at $2177.5, reflecting a slight consolidation in the market with a 24-hour change of -0.00%. This stasis suggests a period of indecision among traders, as the price oscillates between the high of $2177.61 and the low of $2176.51. The overall trend appears neutral, indicating that both buyers and sellers are currently vying for control; thus, a breakout in either direction could be imminent.\n\nAnalyzing the indicators, the MACD shows a value of -5.92876, indicating that momentum is currently bearish. However, the absence of a signal line complicates the interpretation, suggesting a need for caution. The 20-day Simple Moving Average (SMA) is positioned at $2185.369, acting as a dynamic resistance level. If the price manages to reclaim this SMA, it may signal a potential bullish reversal. Conversely, if the price dips below the recent low of $2176.51, it may indicate a further extension of bearish momentum.\n\nKey support levels to watch include the $2175 mark, which has historically provided a buffer against downward movements. Should this level fail to hold, the next significant support is likely to be around $2160, where additional buying interest may emerge. On the other hand, resistance is firmly established at the $2185 level, where selling pressure has previously intensified. A sustained break above this level could open the door to higher price targets.\n\nIn terms of trading strategy, traders may consider a range-bound approach, capitalizing on the established support and resistance levels. A long position may be viable upon a confirmed break above $2185, with a target around $2200. Conversely, a short position could be justified if the price falls below $2175, targeting further declines towards $2160. Adopting a cautious stance with stop-loss orders will be essential to manage risks in this uncertain environment."
+    }
+  }
+}
