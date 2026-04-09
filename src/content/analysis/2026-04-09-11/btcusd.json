@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-09T11:36:35.088Z",
+  "price": {
+    "close": "71136.62",
+    "high": "71368.2",
+    "low": "71055.81",
+    "open": "71284.51",
+    "change": "-0.21",
+    "datetime": "2026-04-09 11:00:00"
+  },
+  "indicators": {
+    "rsi": 50.81968,
+    "macd": 74.46628,
+    "macd_signal": 95.46746,
+    "sma20": 71195.1235
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，暂时缺乏明确方向",
+      "content": "当前比特币价格保持在71136.62美元附近，整体表现呈现震荡整理状态。价格略微回调，24小时变化为-0.21%。尽管波动幅度较小，但市场情绪仍显谨慎，缺乏明确的上涨或下跌趋势。\n\n技术指标方面，RSI(14)数据缺失，无法通过超买或超卖情况进一步分析市场动向。MACD指标为74.46628，但信号线数据未给出，表明当前趋势尚不明朗。SMA(20)均线为71195.12350，价格略低于该均线，显示市场可能处于短期调整阶段。\n\n在支撑和阻力方面，当前价格接近71055.81美元的低点，若跌破该支撑位，可能会进一步下探至70000美元附近的关键支撑区域。阻力位则在71368.2美元附近，突破该水平可能会引发短期反弹。\n\n综合来看，当前市场仍处于震荡区间内，建议短线交易者密切关注支撑与阻力位的突破情况。若价格突破关键阻力位，可以考虑适度做多；反之，若跌破支撑位，则应保持谨慎，避免过度追涨杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating near the $71,100–$71,400 range after minor intraday fluctuations. The market shows slight bearish pressure, reflected in the modest 0.21% decline over the last 24 hours. Price action remains close to the 20-period simple moving average at $71,195, suggesting a neutral short-term trend. Traders may view this as a period of indecision, where neither buyers nor sellers have established strong momentum, making it crucial to monitor volume for confirmation of any breakout.\n\nThe MACD reading of 74.46628 indicates bullish momentum is present, but the absence of a signal line limits immediate interpretive clarity. Typically, such a level above zero points to underlying strength, but without the signal comparison, the market’s directional bias cannot be conclusively confirmed. RSI data is unavailable, yet price hovering near the SMA suggests equilibrium between overbought and oversold pressures. Short-term swings may thus remain muted until either indicator signals a decisive move.\n\nSupport and resistance levels are critical for risk management in this environment. Immediate support is observed near $71,050, with a more substantial level around $70,900, acting as a safety net for short-term buyers. Resistance is positioned at $71,400, with a higher barrier near $71,500. A decisive break above this range could open room for bullish continuation toward $72,000, while a breakdown below support may attract selling pressure, potentially testing the $70,500–$70,600 zone.\n\nTrading strategies should focus on cautious, range-bound approaches, given current consolidation. Short-term traders could consider buying near support with tight stop-losses, aiming for the upper resistance targets. Conversely, momentum traders might wait for a confirmed breakout or breakdown before entering positions to avoid false signals. Overall, the market currently favors patience, emphasizing careful positioning and attention to volume and emerging technical confirmations."
+    }
+  }
+}
