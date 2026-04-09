@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-09T22:00:13.220Z",
+  "price": {
+    "close": "72274.07",
+    "high": "72715",
+    "low": "72154",
+    "open": "72430",
+    "change": "-0.22",
+    "datetime": "2026-04-09 21:00:00"
+  },
+  "indicators": {
+    "rsi": 60.024816,
+    "macd": 320.043323,
+    "macd_signal": 224.71,
+    "sma20": 71483.428
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏强，短线维持上行格局",
+      "content": "BTC/USD目前维持震荡偏强走势，价格运行于72200附近，虽24小时略有回落，但整体仍稳守20日均线上方，短线结构仍偏向多头。\n\n从指标看，20日均线位于71483，对价格形成较强支撑。MACD维持正值且高于零轴，显示中期动能仍偏多，但上涨力度开始放缓。\n\n短线下方首要支撑位在72150，其次关注71480附近。上方阻力位位于72700至73000区间，若放量突破，有望进一步测试73500。\n\n操作上建议以回调做多为主，激进者可在72200附近轻仓试多，跌破71480应及时止损；若无法突破72700，则需警惕高位震荡回落。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $72,274, showing a marginal 0.22% decline over the past 24 hours, suggesting a consolidation phase after recent upward momentum. Price action has largely remained within the $72,154–$72,715 range, indicating that short-term volatility is contained. The 20-period simple moving average at $71,483 provides a foundational support level, implying that recent dips have been absorbed near this SMA, keeping the medium-term bullish bias intact. Overall, the trend remains cautiously upward, with price above the SMA signaling sustained strength.\n\nDespite the absence of a computed RSI, the MACD reading at 320.04 suggests bullish momentum, although the lack of a signal line value prevents a precise crossover assessment. Traders should watch for divergence or acceleration in the MACD histogram, as this could signal either a continuation or a pause in the rally. The limited 24-hour movement implies that momentum is neither overextended nor exhausted, creating a balanced environment where short-term swings could dictate immediate trading opportunities without a clear trend exhaustion signal.\n\nKey support is established around the $71,483 SMA and the $72,154 intraday low. Should Bitcoin breach these levels decisively, it could test $71,000–$71,200 as secondary support. On the upside, resistance is encountered near the $72,715 intraday high, with further barriers at $73,000 and psychological levels near $73,500. Traders should consider these levels when planning entries or exits, as they represent zones where price reactions are historically amplified due to previous consolidation and reversal points.\n\nFrom a tactical standpoint, short-term traders might favor long positions on dips near the SMA support, with tight stop-losses below $71,400 to manage downside risk. Conversely, aggressive traders could target the upper resistance levels with partial profit-taking around $72,700–$73,000. Given the contained volatility and mixed indicator signals, a measured approach emphasizing risk management is prudent, while longer-term investors can view the current consolidation as a potential continuation setup within a broader bullish trend."
+    }
+  }
+}
