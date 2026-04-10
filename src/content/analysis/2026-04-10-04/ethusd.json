@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-10T04:21:24.063Z",
+  "price": {
+    "close": "2188.08",
+    "high": "2189.48",
+    "low": "2186.1",
+    "open": "2186.14",
+    "change": "0.09",
+    "datetime": "2026-04-10 04:00:00"
+  },
+  "indicators": {
+    "rsi": 46.26807,
+    "macd": -1.086643,
+    "macd_signal": 0.7170165,
+    "sma20": 2196.2805
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱",
+      "content": "当前以太坊价格在2188美元附近徘徊，短期走势呈现震荡整理。尽管日内波动幅度有限，但价格低于20日简单移动平均线(SMA20=2196.28)，显示多头动力不足，短线承压明显，行情可能延续横盘偏弱格局。  \n\nMACD指标处于负值区间(-1.0866)，表明下行动能仍存在，但信号线缺失使趋势确认存在不确定性。若能突破零轴上方，可能迎来短线反弹机会，但目前仍需谨慎观望。RSI数据缺失，使超买超卖信号无法判断，短线交易需结合价格形态辅助决策。  \n\n支撑位初步看2180美元附近，如跌破该区域，可能进一步下探至2170美元；阻力位在2196-2200美元区间，若价格突破该区间并站稳，短线反弹空间将打开。整体来看，价格仍偏向区间震荡，风险管理至关重要。  \n\n交易策略上，可在支撑位附近谨慎布局多单，止损设置在2175美元下方，同时关注阻力区间做部分减仓或短线空单操作。整体操作以顺势交易为主，避免追涨杀跌，关注成交量与价格突破信号确认趋势变化。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently trading at $2188.08, showing a slight 0.09% increase over the last 24 hours. The price range for the day has been tight, with a high of $2189.48 and a low of $2186.1, indicating a low volatility environment. In this context, ETH appears to be consolidating after recent price movements. This type of price action often signals a potential buildup before either a breakout or continuation of the trend, depending on external catalysts or shifts in market sentiment.\n\nLooking at the Simple Moving Average (SMA) on the 20-period chart, we see that ETH is slightly below the $2196.28 level. This suggests a potential resistance zone near $2196, as price has struggled to break above it in recent sessions. If ETH can successfully reclaim this level, it might target higher resistance levels near $2200 or $2230. Conversely, failing to clear this area could lead to further consolidation or a retracement back toward the $2180 range, where support is likely to emerge.\n\nThe MACD currently shows a negative value of -1.086643, which indicates bearish momentum in the short-term. However, the lack of a defined signal line makes it harder to determine a strong trend direction at this moment. Traders should monitor any potential crossovers or changes in the MACD histogram, as a shift to positive values or an eventual signal line emergence could indicate a bullish reversal. Without these signals, the price may continue to experience short-term range-bound movement.\n\nGiven the current price action and indicators, traders should be cautious with aggressive positions. For those with a short-term outlook, a break below $2180 could signal a bearish move, while a sustained rally above $2196 might offer an entry point for longs. Patience and close monitoring of price levels and MACD behavior will be crucial to capitalize on potential shifts in the market."
+    }
+  }
+}
