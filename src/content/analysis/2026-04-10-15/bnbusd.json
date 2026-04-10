@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-04-10T15:33:43.625Z",
+  "price": {
+    "close": "605.58",
+    "high": "608.76",
+    "low": "605.3",
+    "open": "606.93",
+    "change": "-0.22",
+    "datetime": "2026-04-10 15:00:00"
+  },
+  "indicators": {
+    "rsi": 56.62255,
+    "macd": 0.021284314,
+    "macd_signal": -0.50281567,
+    "sma20": 602.944
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：[震荡整理中，等待突破]",
+      "content": "当前，BNB/USD 正处于震荡整理阶段。价格在 605.58 附近徘徊，未能突破近期的高点 608.76 和低点 605.3，市场缺乏明确的趋势指引。从短期来看，价格走势平稳，未显示出强烈的上涨或下跌信号。\n\n在技术指标方面，虽然 RSI(14)数据缺失，MACD 值为 0.021284314，但没有明确的信号线显示出趋势变化。SMA(20)为 602.944，略低于当前价格，显示出短期内有一定支撑。当前的 MACD 值相对较低，说明市场缺乏动能，可能需要一段时间来确认新的走势。\n\n从支撑和阻力的角度来看，价格在 605.3 附近有支撑，而 608.76 则构成了阻力位。若价格突破 608.76，可能会引发短期的上涨趋势，反之，若跌破 605.3支撑位，则可能继续回落。\n\n综合来看，当前市场处于区间整理，建议投资者关注价格突破上述支撑与阻力位的动向。突破 608.76 可考虑看多，跌破 605.3 则可考虑短期看空。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 605.58\\n- 24h Change: -0.22%\\n- High/Low: 608.76 / 605.3\\n- RSI(14): N/A\\n- MACD: 0.021284314, Signal: N/A\\n- SMA(20): 602.94400\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is exhibiting a short‑term sideways to mildly bullish bias as price action hovers just above the 20‑period simple moving average at **602.94**. The slight negative 24‑hour move and narrow high/low range suggest indecision between buyers and sellers. Given the latest price **605.58**, the trend lacks strong momentum, yet holding above the SMA indicates underlying support near 600. A break above recent highs could reinvigorate bullish control, while sustained losses under the 20‑SMA would shift focus to lower levels.\n\nIndicator interpretation currently offers a mixed view. Although the lack of a calculated RSI limits overbought/oversold insights, the MACD reading of **0.0213** above zero hints at nascent bullish energy. Without a signal line for confirmation, this should be treated cautiously; momentum is present but not yet confirmed. Traders should watch for MACD expansion above a future signal line cross to validate an uptrend. Conversely, any contraction back toward zero could signal waning strength and potential sideways consolidation.\n\nKey support is expected near **600**, a psychologically significant round number and proximate to the SMA(20). A drop below this zone would expose **585–590** as a secondary support cluster, where past price reactions have occurred. On the upside, immediate resistance sits at **608–610**. A convincing breakout above **610** could open the path to **620–630**, where sellers previously emerged. Monitoring volume at these thresholds will be crucial; strong volume on breakouts confirms conviction, while weak volume may indicate false moves.\n\nFor traders, a measured approach is advisable. Consider long entries on decisive closes above **610** with tight risk control near **600**. Shorter‑term traders might lean into range strategies between **600** and **610** until clearer directional cues emerge. Always align position size with risk tolerance and market volatility."
+    }
+  }
+}

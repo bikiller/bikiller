@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-10T15:32:05.498Z",
+  "price": {
+    "close": "72825.44",
+    "high": "73339.39",
+    "low": "72808.81",
+    "open": "72953.11",
+    "change": "-0.18",
+    "datetime": "2026-04-10 15:00:00"
+  },
+  "indicators": {
+    "rsi": 64.14131,
+    "macd": 250.43812,
+    "macd_signal": 178.38901,
+    "sma20": 72091.787
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，关键支撑受关注",
+      "content": "当前比特币价格在72825附近震荡，较日内低点72808略高，显示多空力量暂时平衡。短线趋势呈震荡整理，价格依托20日简单移动平均线(SMA20)72091保持支撑，多头仍有一定企稳迹象，但波动性有所增加。  \n\nMACD指标处于正值区间250.44，表明整体多头动能仍存在，但缺乏信号线参考，短期趋势判断需结合价格行为观察。RSI未提供具体数值，无法确认超买或超卖状态，但结合价格和均线，市场尚未出现明显过热，震荡为主。  \n\n支撑位可参考72000-72100区间，若跌破则可能触发更深调整；阻力位在日内高点73339附近，突破则可能延伸上涨空间至73500一线。短期操作上，建议以低吸高抛策略为主，控制仓位，等待关键阻力确认突破后再加仓。  \n\n综合来看，比特币短期偏多但震荡明显，操作宜保持灵活。多头应关注均线支撑和成交量配合，空头则可在强阻力附近布局小幅止盈策略，以防市场突然回调造成风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market shows a slight bearish sentiment in the short term, with the latest price at $72,825.44, marking a minor decrease of 0.18% over the past 24 hours. This modest decline follows a range-bound market between a high of $73,339.39 and a low of $72,808.81. With Bitcoin trading close to the previous day's low, there is a chance the price could experience further downward pressure, particularly if it fails to hold above the 20-period Simple Moving Average (SMA) at $72,091.78.\n\nLooking at the MACD, currently at 250.44, we see a potential sign of bullish momentum; however, without a corresponding signal line value, it’s difficult to gauge the sustainability of this momentum. The lack of RSI data also limits the interpretation of overbought or oversold conditions, leaving us with the SMA as a primary indicator. If the price sustains above the SMA, it might indicate a consolidation phase, potentially building up for another rally. On the other hand, a drop below this support level could open up further downside toward the $71,000 region.\n\nSupport levels are critical to observe in the current market, with the immediate one being near the SMA at $72,091. If this level is breached, the next support could be around $71,000, providing a cushion for price stabilization. On the resistance side, the recent high of $73,339 will likely be the first obstacle to overcome for any bullish recovery. A break above this level could trigger buying interest, potentially revisiting $75,000 or higher.\n\nFor traders, a cautious approach is advisable until more conclusive signs of a trend emerge. Watching for confirmation at the key support and resistance zones will provide clearer guidance. A potential breakout above $73,339 could present an opportunity for long positions, while a drop below $72,000 might warrant a short position with a target near $71,000."
+    }
+  }
+}
