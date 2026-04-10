@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-10T20:31:05.674Z",
+  "price": {
+    "close": "73217.29",
+    "high": "73324.48",
+    "low": "73156.29",
+    "open": "73286.01",
+    "change": "-0.09",
+    "datetime": "2026-04-10 20:00:00"
+  },
+  "indicators": {
+    "rsi": 66.60245,
+    "macd": 403.84406,
+    "macd_signal": 299.43361,
+    "sma20": 72350.636
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，偏多谨慎",
+      "content": "比特币当前价格位于 $73,217.29$ 附近，较日内高低波动有限，呈现窄幅震荡格局。整体短期趋势偏向多头，但缺乏明显突破动力，价格仍在 20 日简单移动均线 $SMA(20)=72,350.64$ 上方，显示中线支撑有效，短线可能在此均线附近获得承接。  \n\nMACD 数值为 $403.84$，虽然 Signal 未提供，但指标处于正值区间，暗示多头动能仍存在，需关注柱状图变化以判断动能增强或减弱。缺失 RSI 数据使超买超卖判断不完整，但结合价格波动可视作暂未出现极端行情。  \n\n关键支撑位在 $SMA(20)$ 附近 $72,350$，若跌破可能触发短期回调，下一支撑关注 $72,000$ 附近；阻力位则在日内高点 $73,324$，突破此位可延伸至 $74,000$ 区域。价格若持续在窄幅整理，震荡策略较为适宜。  \n\n交易上可考虑短线逢低布局，止损设置在支撑下方 $72,300$ 附近；若价格突破阻力，可顺势加仓，但需警惕高位回撤风险。整体建议保持偏多思路，同时控制仓位，结合均线与 MACD 动能调整入场节奏。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $73,217, showing minimal movement over the past 24 hours with a slight decline of 0.09%. Price action remains tight, confined between the intraday high of $73,324 and low of $73,156. This consolidation near recent highs suggests the market is in a short-term equilibrium, with neither buyers nor sellers asserting dominance. Observing the broader trend, the persistent climb above the 20-period SMA at $72,351 indicates that the bullish momentum from earlier sessions remains intact, though the pace has slowed.  \n\nThe MACD reading of 403.84, despite the absence of a signal line for reference, still points to continued upward pressure. Typically, a rising MACD above zero reflects that bullish momentum is prevailing, signaling potential continuation of the uptrend. With the RSI currently unavailable, traders should monitor for divergence or overbought conditions once data is updated, as these would provide additional confirmation for entry or exit timing. For now, the steady MACD and price above the SMA suggest cautionary optimism.  \n\nImmediate support lies near the 20-period SMA at $72,351, providing a buffer against short-term pullbacks. Should the market fall below this level decisively, the next support zone appears near $72,000, marking a psychological floor. On the upside, resistance is evident around the $73,500-$73,600 area, where previous buying interest has met selling pressure. A sustained break above this region could open the path toward $74,000, reinforcing the bullish narrative, while failure to breach this ceiling may result in a period of sideways consolidation.  \n\nFor traders, a measured approach is advisable. Short-term buyers may consider entering near support levels with tight stop-losses to manage downside risk. Those holding positions could consider partial profit-taking around resistance, while monitoring MACD trends for momentum shifts. Overall, Bitcoin remains in a bullish posture, but the narrow intraday range and slowing momentum highlight the importance of disciplined risk management and waiting for confirmatory signals before initiating larger positions."
+    }
+  }
+}
