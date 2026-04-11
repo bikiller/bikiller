@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-11T21:51:21.913Z",
+  "price": {
+    "close": "73454.18",
+    "high": "73542.59",
+    "low": "73236.98",
+    "open": "73333.2",
+    "change": "0.16",
+    "datetime": "2026-04-11 21:00:00"
+  },
+  "indicators": {
+    "rsi": 60.81115,
+    "macd": 214.87649,
+    "macd_signal": 173.38804,
+    "sma20": 73010.6235
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡整理，关注支撑与阻力",
+      "content": "当前比特币价格在73454.18附近震荡整理，24小时微幅上涨0.16%。价格处于相对区间内波动，最高触及73542.59，最低回落至73236.98，显示市场情绪保持谨慎。尽管价格表现出一定的震荡性，但未显现出明显的趋势性信号。\n\nRSI和MACD指标均未提供足够的趋势信息，其中RSI(14)未更新，MACD当前数值214.87649，但没有明确的信号线数据，表明市场缺乏强势的买入或卖出信号。SMA(20)则显示出73010.62作为一个短期支撑位，价格略高于此支撑，市场多空力量依然均衡。\n\n从支撑与阻力来看，73236.98附近的低点为关键支撑位，若跌破此位置，则可能进一步测试72000区域的支撑。上方阻力位则位于73542.59，突破该位置或可进一步挑战74000的上方水平，形成短期反弹的可能。\n\n建议投资者在当前区间内可关注价格的回调至支撑位时寻找买入机会，而若价格突破上方阻力位，考虑适时跟进。保持谨慎，避免盲目追涨杀跌，合理设置止损止盈。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 73454.18\\n- 24h Change: 0.16%\\n- High/Low: 73542.59 / 73236.98\\n- RSI(14): N/A\\n- MACD: 214.87649, Signal: N/A\\n- SMA(20): 73010.62350\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is showing a **mild bullish drift** around the current price of **73,454**, with limited volatility over the past 24 hours. The narrow trading range between **73,236 and 73,542** suggests a period of consolidation, likely reflecting hesitation before the next directional move. Given the slight positive change of **0.16%**, the market appears to be digesting recent gains rather than pushing aggressively higher.\n\nLooking at momentum signals, **MACD at 214.88** (with no signal line available) implies underlying positive momentum, albeit without confirmation of a crossover. The absence of RSI data makes overbought/oversold assessment difficult, but the price resting above the **20‑period Simple Moving Average (SMA) at 73,010** reflects short‑term bullish bias. Traders might interpret this as a sign that dips are being supported and that the short trend remains upward.\n\nKey **support levels** are immediately around **73,010 (20‑SMA)** and deeper at the psychologically important **72,800–73,000** zone. A breakdown below this zone could open play toward the **72,200** mark, where historical volume and previous swing lows converge. On the upside, **resistance near 73,540 and then 74,000** will be important barriers. A decisive move above **74,000** could spur renewed buying interest, while failure to clear resistance could keep BTC in a tight sideways range.\n\nFor traders, a **range‑oriented approach** may be appropriate given the current structure. Consider light long positions on dips near the SMA with tight stops below key support, targeting breakouts above **73,540–74,000**. More aggressive entries might wait for a confirmed break above resistance or a clear MACD signal crossover. Risk management remains essential—volatility can expand quickly in either direction once the market resolves this consolidation."
+    }
+  }
+}
