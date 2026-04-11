@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-11T14:03:27.813Z",
+  "price": {
+    "close": "72663.63",
+    "high": "72691.78",
+    "low": "72648.99",
+    "open": "72690.13",
+    "change": "-0.04",
+    "datetime": "2026-04-11 14:00:00"
+  },
+  "indicators": {
+    "rsi": 48.29357,
+    "macd": 91.30216,
+    "macd_signal": 154.75415,
+    "sma20": 72930.804
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期趋势偏空]",
+      "content": "当前比特币/美元（BTC/USD）市场维持震荡整理状态，价格在72660附近窄幅波动。尽管近期没有明显的上涨或下跌动力，但随着高点和低点的紧密区间，市场呈现出疲态。短期来看，价格若突破72690的上方阻力位，可能会重新测试73000附近。\n\n从技术指标来看，MACD处于91.30附近，尚未出现交叉信号。由于RSI和MACD信号缺失，市场未能提供明确的超买或超卖信号。SMA(20)处于72930，价格低于此均线，进一步确认市场短期内的弱势走势。此时的技术面未能支持强烈的买入信号。\n\n在支撑和阻力方面，当前价格下方的支撑位在72650附近，一旦跌破此位置，可能会测试72400甚至更低的水平。上方的主要阻力位则在73000区域，突破此位置可能会有进一步的反弹，但短期内突破的概率不大。\n\n建议短期内投资者保持观望，避免在无明显趋势的情况下盲目入场。若价格跌破72650支撑位，可以考虑轻仓做空；而若价格突破73000并稳定在其上方，则可关注短期的反弹机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently trading in a narrow range with the latest price at $72,663.63, reflecting a minimal change of -0.04% over the last 24 hours. This slight fluctuation indicates that market participants are in a consolidation phase, likely awaiting a catalyst to drive further movement. The high of $72,691.78 and the low of $72,648.99 demonstrate limited volatility, with price action hovering around the $72,650 level. This range-bound behavior could signal indecision in the market.\n\nOn the technical front, the absence of a detailed RSI (14) and the incomplete MACD data makes it difficult to assess overbought or oversold conditions fully. However, the MACD value of 91.30216 indicates some positive momentum, though its current trend cannot be confirmed without a signal line for comparison. With the SMA(20) positioned at $72,930.80, Bitcoin is trading slightly below the short-term moving average, which suggests a neutral to bearish bias for the immediate term. If the price fails to reclaim the SMA, we could see further pressure toward support levels.\n\nLooking at support and resistance levels, immediate support appears around $72,650, with a potential break below this could lead to testing lower levels such as $72,500. On the resistance side, the price will likely face challenges near the $73,000 mark, which could limit upward movement unless there's a shift in market sentiment. A breakout above $73,000 could signal a continuation of the bullish trend.\n\nTraders should consider cautious positions given the tight price range. A breakout above $73,000 could present buying opportunities, while a fall below $72,650 might encourage short positions. Monitoring the market for any substantial news or shifts in momentum will be key for determining the next directional move."
+    }
+  }
+}
