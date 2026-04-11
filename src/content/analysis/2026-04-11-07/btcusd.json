@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-11T07:37:29.055Z",
+  "price": {
+    "close": "72834.01",
+    "high": "72875.73",
+    "low": "72776",
+    "open": "72803.28",
+    "change": "0.04",
+    "datetime": "2026-04-11 07:00:00"
+  },
+  "indicators": {
+    "rsi": 54.40413,
+    "macd": 188.91924,
+    "macd_signal": 260.50216,
+    "sma20": 72911.3455
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡整理偏多",
+      "content": "当前BTC/美元处于高位窄幅震荡格局，价格围绕72800附近运行，整体多空拉锯明显，但短线仍偏整理状态。市场观望情绪较浓。\n\nSMA20位于72911上方，现价略低形成短期压制，MACD仍为正值188.9，显示多头动能尚存但有减弱迹象，RSI缺失增加不确定性。\n\n下方支撑关注72760及72700一带，若失守可能下探72600区域；上方阻力集中于72910与73000附近，突破需放量确认。\n\n短线策略以区间交易为主，未突破72910前谨慎追多，可在回踩72750附近轻仓低吸，严格设置止损控制风险。等待有效突破再跟随趋势。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a tight consolidation phase around 72,834 USD, with price action compressed within a very narrow 24-hour range. The market shows a lack of directional conviction, as volatility remains subdued and candles cluster near equilibrium. Trading below the 20-period SMA suggests mild short-term bearish pressure, although the broader structure remains largely neutral rather than decisively downward. This kind of compression often precedes a stronger directional move.\n\nThe MACD reading at 188.9 indicates that underlying momentum still leans slightly bullish, but the absence of a clear signal line reading limits confirmation of trend strength. Without RSI data, momentum assessment is incomplete, yet the proximity of price to the SMA suggests equilibrium between buyers and sellers. The divergence between a positive MACD and price trading just under the SMA hints at latent bullish energy that has yet to translate into upward continuation.\n\nImmediate resistance is located at 72,875, which aligns with the recent 24-hour high and marks the first barrier for upside continuation. Above that, the 20-period SMA at 72,911 acts as dynamic resistance and a key short-term pivot. A sustained breakout above this zone could open the path toward the psychological 73,000 level. On the downside, initial support sits at 72,776, with stronger demand likely emerging near 72,700 if selling pressure intensifies.\n\nIn the current environment, range-bound strategies remain most effective, with traders considering entries near support and exits near resistance while conditions remain compressed. Breakout traders should wait for a confirmed close above 72,911 or below 72,700 before taking positions, as false signals are common in low-volatility phases. Strict risk management is important, since tight ranges can quickly expand into volatile moves once equilibrium breaks."
+    }
+  }
+}
