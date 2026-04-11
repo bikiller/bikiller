@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-11T05:23:32.966Z",
+  "price": {
+    "close": "72822.6",
+    "high": "72866.26",
+    "low": "72712.21",
+    "open": "72849.04",
+    "change": "-0.04",
+    "datetime": "2026-04-11 05:00:00"
+  },
+  "indicators": {
+    "rsi": 54.24887,
+    "macd": 235.36852,
+    "macd_signal": 297.14109,
+    "sma20": 72835.694
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏弱",
+      "content": "比特币现报72822.6，日内波动极窄，价格略低于20日均线72835附近，显示短线仍处高位整理。24小时跌幅仅0.04%，整体趋势偏弱但尚未出现明显破位。\n\n从指标看，MACD数值仍维持在235上方，说明中期多头动能尚未完全消失，但缺少信号线配合，显示上涨力度正在放缓。RSI缺失下，需重点观察均线与成交变化。\n\n短线支撑位先看72700，其次在72550附近；若失守，价格可能进一步回踩72300。上方阻力集中在72870至73000区域，只有有效突破，才有机会重新打开上行空间。\n\n操作上建议以区间交易为主，靠近72700附近可轻仓试多，跌破则及时止损；若突破73000并站稳，可顺势跟进。当前不宜追涨，耐心等待方向确认。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin (BTC/USD) price is hovering at 72,822.6, with a minimal 24-hour change of -0.04%. The market is showing relative stability, trading within a narrow range, as indicated by the high of 72,866.26 and the low of 72,712.21. While the minor price shift suggests a consolidation phase, it's crucial to observe if BTC maintains its position above this range or breaks lower. Traders should watch for a breakout or breakdown from this zone to signal the next directional move.\n\nThe absence of an RSI value leaves us without direct insight into overbought or oversold conditions, making the price action and volume more critical for short-term analysis. The MACD shows a value of 235.36852, though with no signal line, it doesn't offer a clear momentum trend at this time. This lack of confirmatory indicators means traders should rely on the price structure itself and key support/resistance levels to gauge market sentiment and potential movements.\n\nThe 20-period Simple Moving Average (SMA) sits at 72,835.69, reflecting a slight bullish bias since the price is above the SMA, but its proximity to the current price suggests a neutral stance. Immediate support can be found near the recent low of 72,712.21, with resistance around the high of 72,866.26. A sustained break above the resistance could trigger a move towards higher levels, while a drop below support may signal further downside risks.\n\nFor trading strategies, short-term traders could consider range-bound strategies, buying near support and selling near resistance. However, those seeking a longer-term view might want to wait for more conclusive technical signals, such as a stronger MACD cross or a breakout beyond current price boundaries. Given the tight range and lack of momentum confirmation, caution is advised in taking significant positions without clearer indications."
+    }
+  }
+}
