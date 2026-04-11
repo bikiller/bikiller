@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-11T06:17:11.354Z",
+  "price": {
+    "close": "2231.86",
+    "high": "2233.96",
+    "low": "2229.77",
+    "open": "2232.75",
+    "change": "-0.06",
+    "datetime": "2026-04-11 06:00:00"
+  },
+  "indicators": {
+    "rsi": 51.10235,
+    "macd": 7.69892,
+    "macd_signal": 10.51181,
+    "sma20": 2239.5435
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱趋势",
+      "content": "当前以太坊价格维持在2231.86美元附近，日内波动幅度有限，高低点区间为2233.96至2229.77美元，显示短线市场情绪谨慎。价格仍低于20日均线2239.54美元，暗示短期内上行动力不足，多空力量处于均衡偏弱状态。  \n\nMACD指标值为7.69892，虽未给出信号线，但数值接近零轴上方，暗示近期动能温和，买卖双方交替活跃。缺少RSI数据限制了超买超卖判断，但结合价格和均线位置，可初步判定市场短期可能呈现震荡整理。  \n\n支撑位初步位于2229.77美元附近，若跌破则可能触及更低支撑区域2215-2220美元。阻力位主要关注2239.54美元的20日均线及2245-2250美元区间，短期突破难度较大，需要成交量配合确认。  \n\n交易策略上，短线可关注低位逢低承接，止损设置略低于2229美元；若价格有效突破20日均线并站稳，可考虑中线做多，但仍需控制仓位，谨防高位追涨带来的回撤风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum’s price action around $2231.86 shows a mild consolidation phase, as the 24-hour change is nearly flat at -0.06%. The narrow daily range between $2229.77 and $2233.96 suggests limited volatility and indecision among traders. With the current price slightly below the 20-period SMA of $2239.54, short-term momentum leans mildly bearish, but the absence of strong directional movement indicates that neither buyers nor sellers are fully in control at this level.  \n\nThe MACD reading of 7.69892, without a corresponding signal line, hints at lingering bullish potential, though confirmation is missing. Traders should be cautious, as the incomplete signal prevents clear interpretation of trend strength. Once the MACD line crosses above a valid signal, it could reinforce upward momentum. Conversely, a downward crossover would align with the slight bearish bias suggested by the price below the SMA, indicating potential near-term retracement.  \n\nSupport levels to watch include $2229, a recent intraday low that may act as a buffer against further declines. Immediate resistance sits near $2240, close to the 20-period SMA, where sellers could step in. Breaching either boundary with conviction and volume would likely trigger the next directional move. Observing these zones can help manage risk, as price oscillation within this tight range may persist until a breakout or breakdown occurs.  \n\nTrading strategies should favor short-term range plays unless a breakout confirms trend direction. Conservative traders may wait for the price to decisively move above $2240 for long positions or below $2229 for shorts. Those already holding ETH could tighten stop-losses near support levels to protect against minor dips. Overall, the current setup reflects cautious optimism, with careful attention to the SMA and MACD signals providing guidance for potential entries and exits."
+    }
+  }
+}
