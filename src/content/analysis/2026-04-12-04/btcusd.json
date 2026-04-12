@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-12T04:22:40.696Z",
+  "price": {
+    "close": "71598.25",
+    "high": "71718.27",
+    "low": "71517.12",
+    "open": "71621.55",
+    "change": "-0.03",
+    "datetime": "2026-04-12 04:00:00"
+  },
+  "indicators": {
+    "rsi": 31.51473,
+    "macd": -221.44041,
+    "macd_signal": 0.018948981,
+    "sma20": 72834.979
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘整理，偏向压力受阻回落",
+      "content": "当前比特币价格围绕71598美元徘徊，日内波动有限，显示市场短期缺乏明确方向。价格仍低于20日简单移动平均线(SMA20)72834美元，表明中期仍有一定下行压力，短线走势可能在区间内震荡。日内高低点差仅约200美元，反映多空力量暂时均衡。  \n\nMACD指标显示-221，虽未提供信号线，但负值暗示空方动能略占优势，价格在高位承压。缺乏RSI数据，但结合价格与SMA关系可推测短期已接近超买与均衡区域交界，多空分歧明显。若价格突破SMA20，将可能触发新一轮上攻或调整信号。  \n\n支撑位方面，71500美元为近期盘整下沿，如失守可能引发短线回调至71200美元附近；阻力位则在71800-72800美元区间，尤其是SMA20上方区域，多空博弈激烈。成交量若随价格向上放大，则突破阻力概率增加。  \n\n交易上建议谨慎操作，短线可考虑区间高抛低吸策略，关注71500-71800美元区间震荡。中线投资者则可等待明确突破信号再布局，同时注意潜在回调风险，控制仓位与止损，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD pair is currently exhibiting a relatively neutral short-term trend with minimal volatility. The price has slightly retraced from its recent highs, with the latest price at $71,598.25, just above the daily low of $71,517.12. This price movement suggests a consolidation phase, indicating that the market is in a wait-and-see mode. The slight decline in price over the last 24 hours (-0.03%) reflects market indecision, with no clear upward or downward momentum at this point.\n\nThe absence of a defined RSI value and a MACD signal makes it difficult to gauge the exact strength of the current price movement. However, the negative MACD value of -221.44 points to some bearish pressure, though it's not conclusive in signaling an immediate downtrend. With the MACD yet to cross above or below the signal line, market sentiment remains neutral, and traders should be cautious when positioning themselves. Any significant movement in either direction would likely be more visible once additional data or trends start to form.\n\nThe 20-period Simple Moving Average (SMA) is at $72,834.98, providing a potential resistance level above the current price. A break above this level could signal renewed buying interest and the potential for a price rally. On the downside, key support levels can be seen at $71,500 and $71,000, where the price has bounced off in the recent past. If the price holds above these support levels, a recovery could be expected, while a break below could open the door for further downside toward $70,000.\n\nTraders may consider a cautious approach, monitoring for price action near the support and resistance zones. If BTC/USD finds support above $71,500, a short-term buy could be viable with a target around the SMA resistance level. Conversely, a break below the support zone could trigger a bearish strategy, with targets in the $70,000 range. Risk management is key, given the current market indecision."
+    }
+  }
+}
