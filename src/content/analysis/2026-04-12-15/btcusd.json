@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-12T15:21:54.177Z",
+  "price": {
+    "close": "70811.96",
+    "high": "70874.03",
+    "low": "70761.24",
+    "open": "70774.68",
+    "change": "0.05",
+    "datetime": "2026-04-12 15:00:00"
+  },
+  "indicators": {
+    "rsi": 25.34896,
+    "macd": -491.096975,
+    "macd_signal": -382.27755,
+    "sma20": 71898.8095
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：价格震荡整理，短线偏弱",
+      "content": "当前BTC/USD价格围绕70811美元附近波动，日内涨幅微乎其微，仅0.05%，显示市场多空力量处于相对均衡状态。高低点区间窄，暗示短期缺乏明确突破动力，价格可能继续在70760至70870美元之间整理。  \n\n技术指标方面，MACD为-491.10，呈现弱势动能，未形成明确金叉或死叉信号。SMA(20)位于71898美元上方，价格在均线下方运行，表明中短期趋势偏空，市场存在一定回调压力。RSI数据缺失，但结合MACD和均线位置，可推测超买超卖状态不明显，震荡整理为主。  \n\n支撑位上看，70760美元为近期低点支撑，若跌破可能触发进一步回调至70500美元附近。阻力位在高点70874美元及20日均线71898美元区域，突破难度较大。交易者可关注支撑附近的逢低布局机会，风险控制在前低附近。  \n\n综合来看，短线操作应以观望和小幅回调交易为主，谨慎追高。建议区间震荡策略，低吸高抛，同时设置止损点位，控制单笔风险，等待价格有效突破均线或高低点形成趋势信号后再考虑趋势跟随策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a near-neutral price movement, hovering around $70,812 with minimal intraday change. The narrow daily range between $70,761 and $70,874 suggests low volatility, indicating a period of consolidation after recent bullish momentum. Traders should note that the price remains below the 20-period SMA at $71,899, signaling that short-term upward momentum is limited and that any rally may encounter resistance near this moving average. The overall trend appears cautiously neutral to mildly bearish.  \n\nThe MACD is showing a significant negative value at -491.10, reflecting underlying downward pressure in momentum. While the signal line is unavailable, the substantial gap indicates that short-term selling pressure still outweighs buying interest. This bearish bias is reinforced by the price trading below the SMA(20), suggesting that unless momentum accelerates, BTC could struggle to sustain upward movements. Traders should watch for a potential crossover if MACD begins to converge toward neutral levels.  \n\nImmediate support lies around the daily low at $70,761, which has held in recent sessions. Breach of this level could open a downside target near $70,200, where prior consolidation zones have provided a cushion. Resistance is concentrated at the SMA(20) near $71,899 and the daily high at $70,874. A breakout above these points could reinvigorate bullish sentiment, potentially paving the way toward $72,000. Conversely, failure to surpass resistance may result in continued sideways movement or mild retracement.  \n\nFor traders, cautious positioning is advisable given the tight trading range and muted volatility. Short-term buyers may prefer confirmation above $71,000 before entering, while conservative sellers could wait for a breakdown below $70,761 to capitalize on downside pressure. Risk management should remain a priority, with stop-loss levels set near recent intraday extremes. Overall, Bitcoin appears poised for a measured move rather than aggressive swings, making disciplined entries and exits critical in this market environment."
+    }
+  }
+}
