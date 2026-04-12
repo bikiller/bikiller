@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-12T06:51:50.890Z",
+  "price": {
+    "close": "2215.23",
+    "high": "2221.08",
+    "low": "2215",
+    "open": "2217.64",
+    "change": "-0.11",
+    "datetime": "2026-04-12 06:00:00"
+  },
+  "indicators": {
+    "rsi": 37.79191,
+    "macd": -6.29839,
+    "macd_signal": 2.99446,
+    "sma20": 2256.349
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期偏弱震荡整理",
+      "content": "当前价格运行在2215附近，日内波动极窄，显示市场动能不足。价格低于SMA(20)均线2256一线，表明短期趋势偏弱，整体处于震荡下行结构中，多头缺乏持续推动力。\n\n从技术指标看，MACD处于负值区间且未见明显收敛，空头动能仍占主导。RSI暂无数据，但结合价格贴近低位横盘，预计处于中性偏弱区间，市场情绪较为谨慎，未出现超卖反弹信号。\n\n关键支撑位关注2210与2180区域，一旦跌破可能加速下行；上方阻力位在2250及2280附近，与均线形成压制。短期价格若无法有效站回SMA(20)，反弹空间将受到限制。\n\n交易策略上，建议以区间思路为主，反弹至阻力位附近可轻仓做空，止损设于2280上方；若回踩支撑不破，可尝试短多，但需严格控制仓位，等待趋势明确后再加大操作力度。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) against the US Dollar has been relatively stable with a slight negative trend over the past 24 hours, currently priced at 2215.23. The price remains within a narrow range, between a high of 2221.08 and a low of 2215, indicating a lack of strong momentum. The market's hesitation is reflected in the subtle 0.11% drop in value, suggesting consolidation before any significant move. This stagnation could be attributed to broader market conditions or a temporary pause in Ethereum's price action.\n\nIn terms of technical indicators, the absence of the RSI value makes it difficult to assess the current momentum accurately. However, the MACD reading of -6.29839 suggests bearish pressure in the market, with the possibility of further downward movement if the momentum does not shift. Without a Signal line available, it is challenging to discern if the MACD will cross into a more bullish zone or continue to signal weakness. Traders should stay cautious and monitor the MACD's behavior for any potential reversal.\n\nThe price is currently below the 20-period SMA of 2256.349, confirming a short-term downtrend. The SMA acts as a dynamic resistance level, meaning Ethereum will need to break above this level to confirm a change in the trend. As for support, the immediate area around 2215 may act as a minor support zone, while a further drop could see ETH testing deeper levels around 2200 or lower. The key resistance remains at the recent high of 2221.\n\nConsidering the technical setup, traders may want to adopt a wait-and-see approach, observing for clear signs of a breakout above the SMA or further declines towards support levels. A confirmed bullish reversal or break above 2221 could provide a good entry point for long positions, while further weakness below 2215 might lead to short opportunities. Close attention to the MACD and price action near support will be crucial in making informed decisions."
+    }
+  }
+}
