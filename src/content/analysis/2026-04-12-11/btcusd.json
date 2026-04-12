@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-12T11:20:51.525Z",
+  "price": {
+    "close": "71530.47",
+    "high": "71574.83",
+    "low": "71450.89",
+    "open": "71486.53",
+    "change": "0.06",
+    "datetime": "2026-04-12 11:00:00"
+  },
+  "indicators": {
+    "rsi": 33.69836,
+    "macd": -368.26807,
+    "macd_signal": -271.0092669,
+    "sma20": 72395.8135
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期波动加剧]",
+      "content": "当前比特币/美元的价格在71530.47附近，呈现震荡整理走势。24小时的变化幅度仅为0.06%，表明市场缺乏强烈的方向性，投资者情绪相对谨慎。价格在71450.89至71574.83区间内波动，短期内难以突破重要的技术区间。\n\n从技术指标来看，当前的MACD为负值（-368.26807），显示出市场存在一定的卖压，但信号线缺乏确认，表明趋势尚不明确。RSI(14)数据未提供，但结合价格走势，可推测当前市场存在一定的超卖或超买风险，需留意短期内可能的反转信号。\n\n短期支撑位位于71450附近，若跌破该价位，则可能进一步下探至71000附近。上方阻力位则在72395一线，突破后可能会带来更大的上涨空间。投资者可以关注这些关键价格区域，合理安排止损与止盈。\n\n综合来看，市场仍处于震荡整理阶段，适合采取区间交易策略，耐心等待突破信号。如果价格突破上方阻力，可以考虑轻仓入场，反之，跌破支撑则需考虑做空策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC) against the US Dollar (USD) is currently showing a relatively neutral market sentiment, with the price slightly above $71,500. The 24-hour change of just 0.06% indicates a lack of significant volatility in the short term. However, this stability does not suggest any immediate direction for the market. BTC has been fluctuating within a narrow range between the daily high of $71,574.83 and low of $71,450.89. The absence of notable momentum suggests that the market is waiting for further price action or external catalysts before establishing a clearer trend.\n\nFrom a technical standpoint, Bitcoin is currently trading below its 20-period Simple Moving Average (SMA) of $72,395.8135, signaling potential bearish sentiment. If this trend continues, the SMA could act as a resistance level that prevents the price from moving higher. On the downside, the recent low of $71,450.89 may serve as a key support level. If Bitcoin fails to hold above this, it could signal a deeper correction, with subsequent support potentially forming near the $71,000 mark. A break below this level would open up further downside potential.\n\nThe MACD is currently negative at -368.26807, indicating weak bearish momentum. Since there is no signal line available, the MACD value itself points to possible downward pressure. However, the lack of a significant signal or divergence suggests that this bearish trend is not particularly strong at the moment. Without a clear crossing of the MACD line or additional confirmation from other indicators, the market remains uncertain, and traders should be cautious when considering entry points.\n\nTraders might consider waiting for a breakout either above the SMA at $72,395.8135 for a potential bullish move, or a breakdown below the $71,450 support level for further downside momentum. Given the current neutral to slightly bearish technicals, entering long positions is advisable only if there’s a confirmed rally above the key resistance level. Conversely, short positions could be more favorable if the price slips below $71,450, confirming further bearish pressure."
+    }
+  }
+}
