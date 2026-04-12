@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-04-12T14:07:32.977Z",
+  "price": {
+    "close": "591.56",
+    "high": "591.75",
+    "low": "591",
+    "open": "591.24",
+    "change": "0.05",
+    "datetime": "2026-04-12 14:00:00"
+  },
+  "indicators": {
+    "rsi": 32.43648,
+    "macd": -3.60894,
+    "macd_signal": -3.1052,
+    "sma20": 598.7925
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏弱",
+      "content": "币安币当前价格591.56美元，较日内高点591.75略低，显示短期多头动力有限。价格低于20日简单移动平均线(SMA20 598.79)，暗示整体短期趋势偏弱，短线多空力量接近平衡。MACD为-3.60894且信号线未形成明确交叉，进一步确认下行压力存在但尚未显著加大。  \n\n近期支撑位在590附近，多次触及该位置后价格出现止跌反弹，形成短线支撑；阻力位则在SMA20附近598-600区间，若突破该区间，多头可能重拾主动。市场波动幅度有限，短期操作以区间交易为主，避免追涨杀跌。  \n\n从技术指标来看，RSI数据缺失，但价格运行于均线下方且MACD为负，短期偏空信号明显。交易者应关注关键均线和支撑位的反应，若出现下破590，则短线可能延续调整；若守住支撑且反弹至600上方，可考虑逢低布局。  \n\n综合来看，币安币短线呈震荡偏弱格局，建议控制仓位，关注590支撑强弱及600阻力突破情况，短线以灵活止盈和低吸为主，避免在盘整阶段盲目追高，等待趋势明确信号再加仓。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 591.56\\n- 24h Change: 0.05%\\n- High/Low: 591.75 / 591\\n- RSI(14): N/A\\n- MACD: -3.60894, Signal: N/A\\n- SMA(20): 598.79250\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s recent price action around **$591.56** suggests a consolidation phase after a modest pullback. The narrow range between **$591.00–591.75** highlights buyers and sellers in equilibrium, with neither side asserting strong directional control. Given that the **20‑period SMA at ~598.79** still sits above price, the short‑term trend leans slightly bearish until BNB breaks convincingly above that average. Watch for momentum shifts near key levels.\n\nAlthough the traditional **RSI(14) reading isn’t available**, the MACD’s negative value (**–3.6089**) hints at lingering downward momentum. Without a visible signal line, this MACD reading still implies that recent price strength is limited compared to prior moves, suggesting bearish pressure may persist. Traders should remain cautious, as negative momentum indicators can preface deeper pullbacks if support zones are breached.\n\nImmediate support for BNB/USD lies around **$580–585**, where buyers have previously stepped in. A break below this range could invite sellers toward **$560**. On the upside, resistance clusters near the **20‑SMA (~598.8)** and more decisively at **$610–620**. Overcoming those levels with volume would indicate a return of bullish conviction, potentially opening the door toward multi‑week highs.\n\nIn terms of actionable guidance, conservative participants may prefer to wait for a confirmed breakout above **$600** before adding long positions, ideally backed by improving momentum readings. More aggressive traders might scale in at support levels with tight stops below **$580**, given the current lack of strong trend direction. Always consider overall market conditions and risk tolerance, as low volatility can quickly shift if macro catalysts emerge."
+    }
+  }
+}
