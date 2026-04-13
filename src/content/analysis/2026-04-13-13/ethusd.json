@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-13T13:18:33.310Z",
+  "price": {
+    "close": "2196.53",
+    "high": "2200.31",
+    "low": "2192.76",
+    "open": "2192.76",
+    "change": "0.19",
+    "datetime": "2026-04-13 13:00:00"
+  },
+  "indicators": {
+    "rsi": 48.29193,
+    "macd": -6.63388,
+    "macd_signal": -8.10089,
+    "sma20": 2195.5885
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期观望]",
+      "content": "目前，ETH/USD的价格呈现震荡整理态势，最新价格为2196.53美元。价格区间维持在2192.76至2200.31之间，显示出一定的横盘整理信号。若突破2200美元的阻力位，可能迎来进一步的上涨动力。反之，跌破2192美元支撑位，则可能会导致价格回调。\n\n技术指标方面，MACD当前为负值(-6.63388)，这意味着短期内存在卖压。然而，由于没有RSI数据和信号线可供参考，市场情绪较为不确定。SMA(20)的值为2195.59美元，表明价格维持在其上方，显示出短期多头动能的存在。\n\n支撑位方面，2192美元为短期关键支撑位，如果跌破该价位，可能会进一步回落至2180美元。2200美元则是当前的强阻力位，突破后可能推动价格测试更高水平，进一步上涨至2220美元。\n\n综合来看，建议保持观望，等待价格突破关键支撑或阻力位后再做决策。若价格突破2200美元，可以考虑适量做多；若跌破2192美元，则考虑短期做空策略。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum (ETH) against the US Dollar stands at $2196.53, showing a slight increase of 0.19% over the past 24 hours. The market appears to be in a tight consolidation phase, with a high of $2200.31 and a low of $2192.76 during the day. Given the narrow range and the slight positive movement, Ethereum is currently neither in a strong bullish nor bearish trend but rather moving sideways. This suggests that market participants may be waiting for a clearer directional signal before committing to larger positions.\n\nThe absence of a current Relative Strength Index (RSI) and Signal for the Moving Average Convergence Divergence (MACD) complicates the overall momentum analysis. However, the MACD value of -6.63388 indicates a somewhat bearish short-term outlook, as the negative value implies a lack of strong buying pressure. The lack of an available signal line further limits the ability to confirm any potential crossover patterns, which typically signal trend reversals. Given these technical conditions, Ethereum’s immediate price movement will likely remain muted unless additional market drivers emerge.\n\nFrom a support/resistance perspective, the immediate support level appears to be around $2192.76, while resistance sits near the $2200 mark. If the price manages to break above $2200 and sustain its position, there could be potential for a test of higher resistance levels, possibly extending toward the $2220-$2250 range. Conversely, a failure to hold the $2192 level could lead to further downside movement toward the $2175 zone, where additional support may be found.\n\nGiven the current market conditions and lack of strong momentum indicators, traders may consider adopting a cautious approach, with a focus on range trading. A breakout above $2200 could be a signal for potential long entries, while a breakdown below $2192 could provide an opportunity to enter short positions. However, it’s important to monitor any developments in external factors such as macroeconomic data or broader market trends to refine risk management strategies."
+    }
+  }
+}
