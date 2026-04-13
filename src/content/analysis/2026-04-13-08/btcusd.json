@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-13T08:35:03.553Z",
+  "price": {
+    "close": "70758.02",
+    "high": "70890.09",
+    "low": "70638.81",
+    "open": "70842.01",
+    "change": "-0.12",
+    "datetime": "2026-04-13 08:00:00"
+  },
+  "indicators": {
+    "rsi": 36.95909,
+    "macd": -254.59002,
+    "macd_signal": -281.048139,
+    "sma20": 71020.79
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱整理",
+      "content": "当前价格围绕70700一线窄幅波动，日内振幅较小且涨跌幅接近持平，显示市场处于整理阶段。价格运行在SMA(20)下方，短期均线形成压制，整体趋势偏弱但尚未出现明显加速下跌结构。\n\nMACD处于负值区间，动能偏空，说明市场卖压仍占主导，但未见明显放量，空头力量相对温和。RSI数据缺失，但结合价格横盘表现，推测市场处于中性偏弱状态，短期方向仍需等待确认信号。\n\n关键支撑位关注70600附近，该位置接近日内低点，一旦跌破可能引发进一步回落测试70000整数关口。上方阻力位在71000-71200区间，对应SMA(20)及短期密集成交区，突破难度较大。\n\n操作上建议以区间思路为主，短线可在支撑附近轻仓尝试多单，严格止损；若反弹至均线压制区域可考虑高抛。趋势交易者宜等待有效突破71000或跌破70600后再顺势跟进，避免震荡行情中过度交易。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin/USD market is currently showing a slight bearish trend, with the price hovering just below $71,000. The recent price fluctuation has been minimal, marked by a 24-hour change of -0.12%, indicating a period of consolidation. This could be a pause before the next major move, with the current price near the lower end of the recent high-low range ($70,890.09 to $70,638.81). A close above the $71,000 mark could signal a short-term reversal or a push towards higher levels, potentially testing the next resistance at $72,000.\n\nLooking at the indicators, the MACD is currently negative, sitting at -254.59002, which suggests that downward momentum is still in play. However, since the Signal line data is not available, it’s important to remain cautious about drawing any definitive conclusions. The absence of the RSI(14) also leaves an analytical gap, which could have provided insights into whether Bitcoin is overbought or oversold. Traders may want to wait for further clarity on these indicators before making large trades.\n\nSupport levels are evident near the $70,638 mark, which has served as a recent low. If the price dips below this level, there’s a potential for further downside toward $69,000. On the upside, the $71,000 level is a critical resistance, and breaking above it could bring Bitcoin back into bullish territory. Traders should keep an eye on these key levels, as breaks could lead to more aggressive moves in either direction.\n\nFor trading strategies, it would be prudent to wait for confirmation from other indicators like the RSI or moving averages before acting. A breakout above $71,000 with strong volume could provide a clear buying signal, while failure to hold above $70,600 might suggest the continuation of the current bearish trend. Caution is advised until additional data points are available for confirmation."
+    }
+  }
+}
