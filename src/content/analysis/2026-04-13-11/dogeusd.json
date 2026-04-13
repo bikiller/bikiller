@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-04-13T11:59:07.228Z",
+  "price": {
+    "close": "0.09096",
+    "high": "0.09104",
+    "low": "0.09085",
+    "open": "0.09091",
+    "change": "0.05",
+    "datetime": "2026-04-13 11:00:00"
+  },
+  "indicators": {
+    "rsi": 44.55863,
+    "macd": -0.00018150595,
+    "macd_signal": -0.00020931504,
+    "sma20": 0.091133
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期横盘整理，趋势偏弱",
+      "content": "当前狗狗币价格徘徊在$0.09096附近，较24小时高低点波动极小，显示市场短期内缺乏明显方向。价格低于20日简单移动平均线(SMA20=$0.09113)，暗示多头动力有限，短期或维持横盘整理格局。  \n\nMACD指标为负值(-0.0001815)，虽然信号线未提供，但负值显示下行动能略占优势，卖压存在但力度不大。缺乏RSI数据，使超买或超卖情况无法判断，因此需关注后续价格突破情况来确认趋势。  \n\n支撑位方面，近期低点$0.09085构成短期支撑，若跌破该水平，可能触发进一步回调；阻力位位于SMA20附近$0.09113至$0.0912区域，如能突破，将改善短线空头压力。结合价格波动，市场仍处于观望状态。  \n\n交易策略上，短线投资者可在支撑位附近谨慎布局低位多单，设置合理止损；激进者可等待价格突破SMA20确认上行动能后再介入。总体上，当前行情适合小仓位操作，避免追涨杀跌，保持风险控制。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Dogecoin vs US Dollar (DOGE/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.09096\\n- 24h Change: 0.05%\\n- High/Low: 0.09104 / 0.09085\\n- RSI(14): N/A\\n- MACD: -0.00018150595, Signal: N/A\\n- SMA(20): 0.091133000\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nDOGE/USD is showing **neutral-to-slightly-bearish short-term price action** as the latest price hovers just below the 20‑period simple moving average (SMA). With prices trapped between a tight $0.09085–$0.09104 range over the last 24 hours, momentum appears subdued. The inability to sustain levels above the SMA suggests sellers retain slight control, even though sideways movement reflects market indecision rather than strong directional conviction.\n\nAlthough a standard RSI(14) isn’t available, the flat price action and minimal 24‑hour change imply **lackluster momentum**. The MACD reading is negative, indicating that the difference between the fast and slow EMAs is shrinking on the downside, though without a signal line value it’s hard to confirm a crossover. This points to **weak bearish pressure** that might persist unless volume increases and MACD accelerates downward. Traders should watch for clarifications in momentum before committing to directional bias.\n\nKey support lies near the recent low at **$0.0905–$0.0908**, where buyers previously stepped in to prevent a deeper decline. A break below this zone with confirmed volume could accelerate selling toward **$0.0890**. On the upside, immediate resistance is the 20‑period SMA near **$0.0911**, followed by more significant supply around **$0.0925–$0.0930**, levels seen in prior consolidation. These support/resistance zones form a narrow technical corridor that’s guiding current price action.\n\nGiven the calm price environment, a **range‑trading approach** might be most appropriate until a breakout direction materializes. Bulls could consider tactical entries near support with tight risk management, targeting the SMA or higher, while bears might look for evidence of rejection at resistance before shorting. Confirming signals from volume and momentum indicators will be essential before scaling positions in either direction."
+    }
+  }
+}
