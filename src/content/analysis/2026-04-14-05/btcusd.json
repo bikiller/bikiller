@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-14T05:58:46.307Z",
+  "price": {
+    "close": "74200.56",
+    "high": "74470.37",
+    "low": "74193.01",
+    "open": "74421.25",
+    "change": "-0.30",
+    "datetime": "2026-04-14 05:00:00"
+  },
+  "indicators": {
+    "rsi": 67.20491,
+    "macd": 802.1852,
+    "macd_signal": 691.70323,
+    "sma20": 73035.252
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，等待突破]",
+      "content": "当前比特币/美元价格为74200.56，显示出震荡整理的走势。从24小时变化来看，市场略有下跌（-0.30%），但整体波动幅度较小。价格目前在74470.37的高点和74193.01的低点之间反复震荡，显示出短期内市场缺乏明确的方向。\n\n从技术指标来看，RSI(14)尚未提供有用信息，可能是由于当前市场处于整理阶段。MACD显示为802.18520，但信号线数据缺失，表明市场动能不强。SMA(20)位于73035.252附近，说明短期内价格仍在该均线之上，支持看涨的短期观点。\n\n就支撑位而言，74193.01附近是一个重要的短期支撑，若跌破该位置，可能会加剧下行风险。上方的阻力位为74470.37，如果价格突破该点位，可能会吸引更多买盘，推动价格进一步上涨。\n\n综合来看，短期内比特币/美元呈现震荡整理走势，建议交易者关注支撑与阻力位的突破情况。若价格突破74470.37，考虑进场做多；若跌破74193.01，可适当考虑做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a slight downward movement, with the latest price standing at $74,200.56, reflecting a 24-hour change of -0.30%. The price has remained relatively stable within a tight range between $74,470.37 and $74,193.01, suggesting a period of consolidation. The market appears to be in a neutral phase, lacking significant momentum in either direction. This indicates potential for either a continuation of the current range or a breakout depending on upcoming market catalysts.\n\nThe absence of an RSI (14) reading leaves us without a clear momentum signal for overbought or oversold conditions. The MACD is currently at 802.18520, but without a signal line, it’s difficult to determine a definitive bullish or bearish crossover. However, the current MACD value is still relatively high, suggesting that Bitcoin’s price has maintained positive momentum, but further confirmation from the signal line would be crucial for precise predictions. Without these indicators, we rely heavily on price action to gauge future movements.\n\nOn the technical front, Bitcoin is holding above the 20-period simple moving average (SMA), which is at $73,035.25. This suggests that the overall trend remains bullish as long as the price stays above this key support level. Should Bitcoin drop below this SMA, there could be increased selling pressure, with potential support at the previous low around $74,193. On the upside, if the price pushes past the daily high of $74,470.37, a retest of higher resistance levels near $75,000 could be in play.\n\nFor traders, caution is recommended given the current lack of strong indicators. Those looking to trade may consider entering near support around $73,035.25, with a tight stop-loss, or waiting for a confirmed breakout above $74,470.37 for a more aggressive bullish position. Conversely, any breakdown below the SMA could lead to further downside risks."
+    }
+  }
+}
