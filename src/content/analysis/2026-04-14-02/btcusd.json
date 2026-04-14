@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-14T02:07:38.419Z",
+  "price": {
+    "close": "74462.42",
+    "high": "74500",
+    "low": "74397.54",
+    "open": "74421.22",
+    "change": "0.06",
+    "datetime": "2026-04-14 02:00:00"
+  },
+  "indicators": {
+    "rsi": 72.82609,
+    "macd": 821.59537,
+    "macd_signal": 572.71885,
+    "sma20": 72503.063
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘整理，偏多震荡",
+      "content": "当前比特币价格位于74462.42美元附近，接近24小时高点74500美元，短期波动幅度有限，显示市场多空力量相对均衡。从趋势来看，价格在SMA(20)72503美元之上运行，表明中期仍偏多，但缺乏明显的突破信号。  \n\nMACD指标为821.59537，虽缺少信号线对比，但处于正值区间，暗示多头动能占优，短线仍可能维持震荡偏多格局。由于RSI数据缺失，需要观察价格能否持续收高以确认动能强弱。当前价格附近可能形成心理阻力，短线回调风险仍存在。  \n\n支撑位可关注SMA(20)72503美元，以及近期低点74397美元附近，若价格跌破这些位置，则短期偏多信号可能减弱。阻力位主要集中在74500美元和75000美元整数关口，突破这些水平可激活更高涨幅。  \n\n交易策略上，建议短线投资者可在回调靠近支撑位时尝试轻仓多单，止损设置在74390美元下方；中线投资者可维持持仓观望，等待突破阻力确认趋势延续，同时注意成交量变化，以防假突破带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing signs of consolidation around the $74,460 level after a modest 0.06% gain in the past 24 hours. Price action has remained tightly bound between the intraday high of $74,500 and low of $74,397, indicating low volatility and market indecision. The proximity to the 20-period simple moving average at $72,503 suggests that the longer-term uptrend remains intact, and any retracement to this SMA could offer a potential buying opportunity for trend-following traders.  \n\nMomentum indicators present a mixed picture. The MACD is positive at 821.59537, reflecting bullish bias, but the absence of a signal line makes it difficult to confirm the strength of momentum. While RSI data is unavailable, the price's stability near recent highs implies a healthy, non-overextended market. Traders should note that the lack of pronounced momentum could mean that the market is waiting for a catalyst before committing to a decisive directional move.  \n\nSupport appears around $74,000, slightly below the intraday low, with a more robust floor near the 20-period SMA at $72,500. Resistance is immediate at $74,500, followed by $75,000, a psychological barrier that has historically limited upside. A strong break above these levels could signal the continuation of the broader bullish trend, whereas a drop below the SMA could prompt deeper retracement toward $71,500-$72,000 levels.  \n\nShort-term trading strategies may favor range-bound approaches while momentum consolidates. Buying near the SMA or support zone with tight stop losses offers limited risk entry points, whereas breakout traders should monitor volume closely for validation of a sustained move above $74,500. Conservative traders might wait for clearer confirmation of MACD crossovers or RSI levels before entering, balancing potential gains with the current subdued volatility."
+    }
+  }
+}
