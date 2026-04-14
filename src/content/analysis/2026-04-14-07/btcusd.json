@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-14T07:03:11.013Z",
+  "price": {
+    "close": "74549.16",
+    "high": "74562.49",
+    "low": "74543.86",
+    "open": "74562.49",
+    "change": "-0.02",
+    "datetime": "2026-04-14 07:00:00"
+  },
+  "indicators": {
+    "rsi": 69.58693,
+    "macd": 787.68185,
+    "macd_signal": 729.22074,
+    "sma20": 73405.4135
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡，中期偏多",
+      "content": "当前比特币价格在$74,549附近徘徊，24小时波动幅度极小，显示市场短线缺乏明确方向。价格略高于SMA(20) $73,405，表明中期均线仍对价格提供一定支撑，多头情绪尚存，但上涨动力有限。高低点区间窄，短线可能延续横盘震荡格局。  \n\nMACD值为$787.68且信号线未提供，可见动能尚未形成明确的趋势信号。若MACD开始与信号线形成金叉，短期可能迎来反弹；若死叉出现，则可能引发小幅回调。RSI数据缺失，使超买超卖判断受限，因此需结合价格形态和均线观察。  \n\n支撑位方面，近期短线支撑集中在$73,400至$74,000区间；阻力位位于$74,800至$75,000附近，若突破该阻力，可能进一步挑战$75,500。当前价格在支撑与阻力中间整理，投资者应关注关键点位突破与回踩情况，以捕捉短期机会。  \n\n交易策略上，建议短线以区间操作为主，低位可适量建仓，高位逐步减仓以锁定利润。中期投资者可关注均线支撑和突破信号，等待MACD和价格形态确认趋势后再考虑加仓，控制风险为核心。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price remains relatively stable, currently trading at $74,549.16 with a slight decrease of 0.02% over the past 24 hours. The price has moved between $74,562.49 and $74,543.86, showing minimal volatility in this range. This tight price action suggests a period of consolidation, where market participants are awaiting clearer direction. As long as Bitcoin stays within this narrow range, the market may continue to exhibit sideways movement, with neither bulls nor bears gaining clear control.\n\nThe lack of an available RSI (14) and the absence of a defined signal for the MACD make it challenging to assess momentum indicators. However, the MACD value of 787.68185 indicates that there is some underlying bullish pressure, though it’s not strong enough to confirm a breakout or significant trend shift. Traders will need to watch for a divergence in the MACD or the appearance of a new signal line to gain more clarity. With the current market environment, Bitcoin could remain in a neutral stance until further momentum is confirmed.\n\nOn the technical front, the 20-period simple moving average (SMA) sits at $73,405.41, providing a potential support level. If Bitcoin’s price dips toward this level, it may attract buying interest, as it has historically shown some resilience in holding this zone. On the upside, the immediate resistance lies near $74,600, a level that has capped recent price moves. A breach above this resistance could open the door for a more substantial rally, targeting the next key resistance zones higher.\n\nTraders should consider a cautious approach in the current range-bound market. A breakout above $74,600 could signal a buying opportunity, while a dip towards the SMA (20) may present a chance to enter at a lower price point. Overall, a confirmation of trend direction is essential before making significant trades. Patience and close monitoring of price action are advised in the current environment."
+    }
+  }
+}
