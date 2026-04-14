@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-14T19:51:51.519Z",
+  "price": {
+    "close": "74210",
+    "high": "74461.01",
+    "low": "73939.31",
+    "open": "74145.14",
+    "change": "0.09",
+    "datetime": "2026-04-14 19:00:00"
+  },
+  "indicators": {
+    "rsi": 51.5009,
+    "macd": 447.78605,
+    "macd_signal": 607.99716,
+    "sma20": 74590.083
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前比特币价格围绕74210美元附近波动，全天涨幅仅0.09%，显示市场短期动能有限，多空力量基本平衡。从价格与20日简单移动平均线(SMA20)对比来看，当前价格略低于SMA20的74590美元，暗示短期偏弱整理，价格可能面临轻微回调压力。  \n\nMACD指标显示主线447.78605，缺少信号线对比，但数值仍处于正区间，说明中期趋势仍维持一定多头势能，短线交易者需关注动能变化以判断潜在反转或延续。若价格持续在SMA20下方运行，则多头动力可能减弱。  \n\n日内关键支撑位在73940附近，若跌破可能引发进一步下探至73500-73600区间；阻力位则在74460及SMA20附近，突破可短期触发回升。技术形态显示当前处于高位横盘阶段，多空双方谨慎试探，短线波动可能加大。  \n\n交易策略上，建议保持观望为主，避免追涨。在支撑位附近可考虑小仓位做多，止损设在73800以下；若价格突破阻力位并站稳，可增加多单仓位。整体上，短期震荡偏弱，中长期仍需结合成交量及动能指标确认趋势延续。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current market for Bitcoin (BTC) against the US Dollar (USD) shows a relatively stable price action, with the latest price standing at $74,210. The slight 0.09% change over the past 24 hours indicates limited volatility, suggesting consolidation within a defined range. The high of $74,461 and low of $73,939 over this period further reflect this tight trading environment. As a result, the market is moving sideways, awaiting a catalyst for a potential breakout or breakdown.\n\nFrom a trend perspective, Bitcoin is hovering just below its short-term resistance, which aligns with the 20-period Simple Moving Average (SMA) of $74,590. This proximity to the SMA suggests a lack of clear direction, with Bitcoin consolidating beneath this level. Should the price break above the SMA, the next major resistance is the $74,461 high, potentially leading to higher levels. Conversely, a break below the current low at $73,939 could indicate further weakness, potentially triggering a move toward lower support levels.\n\nThe Relative Strength Index (RSI) remains unavailable, which limits the ability to gauge overbought or oversold conditions. Without the RSI, focus shifts to the MACD, which shows a reading of 447.78605, indicating a slight bullish momentum, though it remains unconfirmed by a signal line crossover. A sustained bullish movement could indicate strength, but the absence of other confirming indicators leaves a degree of uncertainty in the analysis.\n\nFor traders, this market presents a waiting game. A breakout above the SMA could present a buying opportunity with targets around the $74,461 high. On the other hand, failure to hold above $73,939 could trigger a more conservative approach, with traders potentially looking for short positions targeting further declines. A clear break from this range is necessary to provide a more definitive trading signal."
+    }
+  }
+}
