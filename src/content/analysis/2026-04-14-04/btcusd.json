@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-14T04:20:25.372Z",
+  "price": {
+    "close": "74484.31",
+    "high": "74530.53",
+    "low": "74403.89",
+    "open": "74474.68",
+    "change": "0.01",
+    "datetime": "2026-04-14 04:00:00"
+  },
+  "indicators": {
+    "rsi": 72.47835,
+    "macd": 834.53381,
+    "macd_signal": 665.088667,
+    "sma20": 72868.676
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "当前BTC/USD维持在74484附近，日内波动幅度有限，显示短期市场处于震荡整理状态。价格略高于20日均线SMA(20)72868，表明多头仍占据一定优势，但整体动力不足以形成强势突破。高低点区间74530-74403构成短期震荡区间，投资者需关注突破信号。  \n\nMACD为834.53，显示多空动能偏多，但由于缺少信号线参考，趋势确认仍需观察。若价格稳住在SMA上方，短线多头有望继续维持，但若出现回撤至72868附近，可能触发支撑反弹。RSI数据缺失，无法直接判断超买超卖状态，需配合价格结构与成交量分析。  \n\n支撑位初步设在74400和72860，前者为日内低点支撑，后者为均线支撑；阻力位则在74530及75000心理关口附近，多空博弈集中在该区间。若价格有效突破75000，可能引发短期趋势上行加速，否则仍以区间震荡为主。  \n\n交易策略上，稳健者可在支撑区间适量布局多单，止损设置略低于72860；激进者可等待突破阻力后追多，短线可考虑利用区间震荡进行波段操作。整体来看，短期偏多，需关注关键支撑和阻力确认趋势。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD pair is currently trading at $74,484.31, showing a marginal 24-hour change of 0.01%. This indicates a period of relative stability, with the price fluctuating between a high of $74,530.53 and a low of $74,403.89. The market appears to be consolidating at this level, and the lack of significant movement suggests that traders are waiting for a catalyst. As the price is just above the 20-day simple moving average (SMA) of $72,868.68, it indicates a mild upward trend, but the momentum is currently neutral.\n\nThe absence of a clearly defined RSI and MACD signal complicates the interpretation of the momentum. The MACD value of 834.53 suggests positive momentum, but with no clear crossover or signal line information, its reliability is limited. Traders should be cautious and look for confirmation of a trend before making larger moves. The lack of a precise RSI also leaves the analysis incomplete, so traders will need to rely on price action and volume to gauge the next move.\n\nIn terms of support and resistance, the immediate support is seen around the low of $74,403.89, while resistance is likely near the recent high of $74,530.53. A break above the resistance could signal a continuation toward higher levels, with $75,000 acting as a psychological barrier. Conversely, a drop below the support level might trigger a retest of the SMA at $72,868.68, which could act as a more significant support zone.\n\nFor trading strategies, a cautious approach seems appropriate until more data points become available. A breakout above $74,530.53 with strong volume could present a buying opportunity, while a drop below $74,403.89 may prompt a short entry. Traders should monitor volume and potential MACD crossovers for further indications of trend direction."
+    }
+  }
+}
