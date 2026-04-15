@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-04-15T18:19:45.665Z",
+  "price": {
+    "close": "84.95",
+    "high": "85.05",
+    "low": "84.6",
+    "open": "84.72",
+    "change": "0.26",
+    "datetime": "2026-04-15 18:00:00"
+  },
+  "indicators": {
+    "rsi": 61.14081,
+    "macd": 0.042771044,
+    "macd_signal": -0.17753867,
+    "sma20": 83.725
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 84.95\\n- 24小时变化: 0.26%\\n- 高点/低点: 85.05 / 84.6\\n- RSI(14): N/A\\n- MACD: 0.042771044, Signal: N/A\\n- SMA(20): 83.72500\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏多\n\n目前SOL/USD价格在84.95附近维持横盘，短期趋势呈现震荡偏多走势。尽管24小时涨幅微弱，但价格仍站稳SMA(20)83.73之上，表明多头短线略占优，但缺乏明显动能突破。\n\n技术指标上，MACD柱状维持正值0.0427，显示上涨动量尚存，但因Signal值缺失难以确认金叉趋势。若能收复并稳固于更高均线或形成MACD金叉，则上涨动能有望加强。\n\n关键支撑位在83.7附近SMA(20)处，其下方次级支撑为83关口；阻力位初步看向85.5–86.0区间，若突破该区域，可进一步测试前高87附近。整体支撑与阻力分布较紧，区间震荡特征明显。\n\n交易建议上，短线可考虑区间内低多高空策略，止损置于83.5下方以防下破强支撑；若价格有效突破86上方并放量，可逐步跟进多头。中线投资者建议等待MACD信号确认及更明确趋势方向。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 84.95\\n- 24h Change: 0.26%\\n- High/Low: 85.05 / 84.6\\n- RSI(14): N/A\\n- MACD: 0.042771044, Signal: N/A\\n- SMA(20): 83.72500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$84.95** shows a market that’s grinding higher with modest momentum. Over the past 24 hours, the marginal **0.26% uptick** and very narrow high/low range reflects consolidation rather than aggressive directional conviction. The near‑term trend still favors mild bullishness as price sits above the **20‑period simple moving average (~83.73)**. However, this structure suggests traders are cautious; volatility has contracted, often a precursor to a sharper move once a clear breakout or breakdown catalyst appears.\n\nLooking at momentum, the **MACD histogram reading of ~0.0428** in the absence of a signal line can still be interpreted as positive internals, albeit weak. Without an RSI value, we can’t gauge overbought/oversold extremes, but the MACD’s positive slope hints that short‑term trend forces are additive. Confirmation from a rising signal line or a crossover above zero would strengthen bullish conviction. In a flat market, these minor divergences matter: a sustained MACD uptick could attract momentum traders and help expand the range higher.\n\nKey levels to watch are **support near $83.50–$84.00** where the SMA and recent lows converge, and **resistance around $86.00–$86.50**, where buying pressure has stalled previously. Below that, a break under $83 could open $81–$80 as a deeper support zone. Above resistance, targets near **$88** could be attainable if volume picks up. These technical inflection points will help define whether the current consolidation resolves to the upside or sets up for a deeper pullback.\n\nFor traders, a conservative plan would be to wait for a **clear breakout above $86 with expanding volume** before adding new long positions, using a tight stop just below the breakout. Alternatively, shorter‑term scalpers might prefer fading the range: consider selling near resistance with stops above $86.75 and taking profit near the lower support band. Always watch broader market liquidity and crypto sentiment, as correlated moves in Bitcoin and Ethereum can rapidly shift Solana’s technical landscape."
+    }
+  }
+}
