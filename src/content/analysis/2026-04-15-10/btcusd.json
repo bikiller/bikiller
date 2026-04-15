@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-15T10:40:08.936Z",
+  "price": {
+    "close": "73863.81",
+    "high": "74205.48",
+    "low": "73818.64",
+    "open": "74033",
+    "change": "-0.23",
+    "datetime": "2026-04-15 10:00:00"
+  },
+  "indicators": {
+    "rsi": 45.76762,
+    "macd": -8.86757,
+    "macd_signal": 98.34009,
+    "sma20": 74309.304
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前比特币价格在73863.81美元附近徘徊，较24小时内略微下跌0.23%，短线呈现震荡调整态势。日内高低点分布在74205.48至73818.64之间，显示价格仍在短期区间内整理，缺乏明确突破信号。整体趋势偏弱，但未出现快速下行，市场仍有观望情绪。  \n\n技术指标方面，MACD为-8.86757，虽未提供信号线，但负值表明短期空头力量占优。20日简单均线(SMA20)位于74309.30美元之上，价格位于均线下方，强化短期压力。RSI数据缺失，但结合均线和MACD可初步判断，市场处于轻微超卖附近，可能存在反弹需求。  \n\n支撑位主要集中在73800美元附近，若跌破该位置，可能加速空头趋势，下一关键支撑在73500美元左右。阻力位在74200-74300美元区间，价格若突破，将有望打开短期上涨空间。交易者应关注价格对均线的测试情况，确认突破方向后再做操作。  \n\n交易策略上，短线可采取震荡交易，低位买入、高位减仓为主。风险偏好较低者可等待价格站稳均线并伴随MACD拐头后再考虑介入。止损设置在支撑下方50-100美元，确保控制下行风险，同时可利用区间波动捕捉短线收益。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price is showing a slight decline of 0.23% in the last 24 hours, trading at $73,863.81. The price has remained range-bound between $73,818.64 and $74,205.48, suggesting a period of consolidation after a previous rally. This sideways movement indicates a potential for either a breakout or a deeper pullback, with traders closely monitoring for clear direction.\n\nThe absence of a clear RSI reading leaves us without immediate overbought or oversold signals, though the MACD value of -8.86757 suggests a bearish momentum in the short term. This negative MACD is indicative of a weakening trend, with the market potentially looking for support before any substantial reversal can occur. Traders may want to watch for a crossover in the MACD or a rise above zero, signaling a potential shift in momentum.\n\nThe SMA(20) sits at $74,309.30, further confirming the range-bound action as the price currently trades below this moving average. This SMA serves as the near-term resistance, and should Bitcoin breach this level with volume, it could indicate a continuation of the bullish trend. Alternatively, failure to break above this level could imply further downward pressure or a deeper consolidation.\n\nFor traders, the current market presents both opportunity and caution. A break above $74,309.30 could signal a continuation of the uptrend, targeting the previous high of $74,205.48 as the next resistance. On the other hand, a drop below $73,818.64 would signal potential weakness, suggesting a test of the lower support around $73,000. Conservative traders may consider waiting for clear direction before entering a position."
+    }
+  }
+}
