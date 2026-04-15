@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-04-15T05:16:33.349Z",
+  "price": {
+    "close": "0.240924",
+    "high": "0.241893",
+    "low": "0.240732",
+    "open": "0.240883",
+    "change": "0.02",
+    "datetime": "2026-04-15 05:00:00"
+  },
+  "indicators": {
+    "rsi": 47.05969,
+    "macd": -0.00070289554,
+    "macd_signal": -0.00053170799,
+    "sma20": 0.2420202
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：震荡整理，短期维持区间波动",
+      "content": "当前艾达币/美元(ADA/USD)处于震荡整理阶段，价格在0.240732与0.241893之间波动。短期内未出现明显的上涨或下跌趋势，市场情绪较为平稳。价格维持在20日简单移动平均线(SMA)附近，反映出市场多空力量的对抗。\n\nRSI(14)指标未提供数据，但从MACD值-0.0007来看，当前市场力量偏弱，短期内可能持续呈现整理走势。MACD处于负值区域，表明卖压略大于买盘，市场尚未找到明确的方向。\n\n支撑位在0.240732附近，若价格下跌突破该位置，可能会进一步向0.2400关口靠拢。阻力位则位于0.241893和SMA(20)附近，若突破此阻力，可能会触及0.2450左右的高点。因此，短期内震荡区间的交易策略较为合适。\n\n建议投资者保持观望，等待价格突破支撑或阻力后再做决策。若突破上方阻力，可以考虑短期多头布局；反之，跌破支撑则可以考虑做空。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano is currently exhibiting a period of consolidation around the $0.2409 level, showing minimal volatility in the past 24 hours. The narrow range between the high of $0.2419 and low of $0.2407 indicates indecision among market participants. This sideways movement often precedes a stronger directional move, and traders should watch for a breakout above $0.2425 or a breakdown below $0.2400 to signal potential momentum shifts. Short-term momentum appears neutral given the limited price movement.\n\nThe SMA(20) at $0.2420 slightly exceeds the current price, suggesting mild downward pressure in the immediate term. While the MACD shows a negative value of -0.0007, the absence of a signal line reading prevents a clear trend confirmation. Overall, these indicators point to weak bearish sentiment, but not strong enough to trigger immediate selling pressure. A decisive move above the SMA could restore confidence for bulls, while failure to reclaim this level may leave ADA vulnerable to minor retracements.\n\nKey support levels to monitor include $0.2400 and the recent intraday low of $0.2407, which serve as immediate cushions against further downside. Resistance lies near $0.2420–$0.2425, coinciding with the SMA(20) and the recent high. A breach of this resistance could lead to a retest of $0.2450. Traders should consider setting stop-losses just below support to manage risk, particularly given the tight trading range and limited momentum indicators.\n\nFor tactical positioning, short-term traders might favor range-bound strategies, buying near support and selling near resistance. Longer-term investors could wait for confirmation of trend direction via a sustained breakout or improved MACD momentum. Until clearer signals emerge, maintaining caution and avoiding over-leveraging is advisable, as the current market lacks strong directional conviction and could remain confined within this narrow corridor."
+    }
+  }
+}
