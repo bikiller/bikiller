@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-04-15T04:23:54.882Z",
+  "price": {
+    "close": "0.09326",
+    "high": "0.09341",
+    "low": "0.09316",
+    "open": "0.09316",
+    "change": "0.11",
+    "datetime": "2026-04-15 04:00:00"
+  },
+  "indicators": {
+    "rsi": 47.59089,
+    "macd": -0.000076726782,
+    "macd_signal": 0.000083553087,
+    "sma20": 0.09403
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏弱",
+      "content": "当前狗狗币价格在0.09326美元附近徘徊，短期波动幅度有限，显示出明显的震荡格局。与20日简单移动平均线SMA(20)0.09403美元相比，价格略低，暗示市场短线偏弱，多头动力不足，但尚未形成明确下跌趋势。  \n\nMACD指标显示负值-0.0000767，虽然信号线未提供，但负值表明空头略占优势，市场动能偏弱。缺乏RSI数据限制了超买超卖判断，但结合价格位置，市场可能处于轻微整理阶段，投资者需警惕短线波动加剧。  \n\n支撑位初步在0.0930美元附近，若跌破可能触发进一步下探，下一支撑在0.0925美元。阻力位则在SMA(20)0.0940美元附近，突破该位置或为短线反弹信号，但需成交量配合确认。  \n\n交易策略上，短线可采取观望为主，关注关键支撑和阻力的反应。如价格接近支撑并出现反弹信号，可尝试小额做多；若失守支撑，则考虑止损或短线空单。风险控制为关键，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently exhibiting a mild consolidation around the $0.0932 mark, reflecting a relatively neutral short-term sentiment. The slight 0.11% increase over the last 24 hours suggests indecision among traders, with neither buyers nor sellers asserting dominance. Price has been fluctuating tightly between $0.09316 and $0.09341, indicating low volatility and a potential buildup for a more decisive move. Observing this range can help identify potential breakout opportunities as the market tests these levels repeatedly.  \n\nFrom a technical perspective, the MACD is slightly negative at -0.0000767, signaling weak bearish momentum. While the absence of the signal line limits the precision of trend strength analysis, this minor negative reading suggests that sellers have a slight upper hand, but pressure is not overwhelming. The SMA(20) sits at $0.09403, slightly above the current price, indicating that short-term momentum favors the downside. Traders should note this gap, as it may act as a dynamic resistance level during intraday moves.  \n\nKey support appears near $0.0930, forming a base that has prevented deeper declines in recent sessions. Immediate resistance lies at $0.0940, aligning with the SMA(20), and a sustained break above this level could invite renewed bullish interest. Conversely, a breach below $0.0930 may accelerate selling toward the next psychological support around $0.0925. Monitoring price action near these zones is crucial for short-term strategy, as false breakouts are common in low-volatility environments like this.  \n\nFor traders, a cautious approach is advisable given the current sideways structure. Short-term scalping strategies could capitalize on minor oscillations between $0.0930 and $0.0940. Longer-term traders might consider waiting for confirmation above SMA(20) for bullish positions or a confirmed breakdown below support for bearish entries. Risk management is essential, given the tight price range and muted momentum, as sudden spikes in volume could trigger sharp, rapid moves in either direction."
+    }
+  }
+}
