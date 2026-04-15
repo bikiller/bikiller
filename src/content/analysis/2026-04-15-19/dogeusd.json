@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-04-15T19:56:21.570Z",
+  "price": {
+    "close": "0.09626",
+    "high": "0.09682",
+    "low": "0.09513",
+    "open": "0.0952",
+    "change": "1.04",
+    "datetime": "2026-04-15 19:00:00"
+  },
+  "indicators": {
+    "rsi": 70.94138,
+    "macd": 0.00043548266,
+    "macd_signal": 0.00014095382,
+    "sma20": 0.093708
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：当前价格震荡区间整理",
+      "content": "根据当前市场数据，狗狗币/美元（DOGE/USD）价格在0.09513和0.09682区间内波动，显示出短期内震荡整理的特征。现价0.09626较接近震荡区间的上限，这表明市场情绪偏向谨慎，缺乏明确的趋势方向。\n\nMACD指标目前显示为0.00043548266，但由于缺乏信号线（Signal），该指标无法提供明确的买卖信号。此外，RSI（14）数据缺失，无法判断超买或超卖的状态，这限制了进一步的技术分析精度。SMA(20)在0.0937附近，显示出短期内价格对这一均线有一定的支持作用。\n\n从支撑和阻力角度来看，0.09513为近期的支撑位，而0.09682则构成了上行阻力。如果价格突破0.09682并稳定在该水平之上，可能会开启更强的上涨势头。反之，若跌破0.09513，则可能进一步下探0.0937附近的支撑区域。\n\n对于短期交易者，建议关注突破与回调策略。在当前震荡区间内，可以考虑在支撑位附近寻找进场机会，止损设定在0.09513下方，同时密切关注突破0.09682后的跟进信号。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin (DOGE) is currently experiencing a mild uptrend, trading at 0.09626 against the US Dollar. Over the last 24 hours, the price has increased by 1.04%, indicating some bullish momentum. However, this is occurring within a relatively narrow range, with a high of 0.09682 and a low of 0.09513. This suggests that the market may be consolidating, awaiting a catalyst for a more significant move. A break above the recent high could indicate a continuation of the uptrend, while a drop below the low might signal a potential reversal.\n\nIn terms of technical indicators, the Relative Strength Index (RSI) remains unavailable at the moment, which limits our ability to assess whether DOGE is overbought or oversold. The Moving Average Convergence Divergence (MACD) is showing a positive value of 0.00043548266, though the absence of the signal line prevents a full MACD analysis. Generally, a positive MACD reading signals bullish momentum, but it’s important to wait for further confirmation. Meanwhile, the 20-period Simple Moving Average (SMA) stands at 0.0937, providing a potential support level. If the price dips toward this level, it could serve as a key point for a bounce back.\n\nThe current support level for DOGE is found around 0.09500, with the 20-period SMA offering additional support near 0.0937. A break below 0.09500 could expose the coin to further declines, with the next key support zone being the 0.0900 mark. On the resistance side, the immediate barrier lies near 0.09680, followed by potential resistance at 0.09800. If the price manages to close above 0.09680, it would confirm the continuation of the bullish trend.\n\nFor traders, the ideal strategy would be to monitor the price action near key support and resistance levels. A breakout above 0.09680 could present an opportunity for a long position, with the potential for further gains toward 0.09800. Conversely, a breakdown below 0.09500 would call for caution, as it may lead to further downside movement. Tight stop-loss orders should be considered to manage risk, particularly in such a range-bound market."
+    }
+  }
+}
