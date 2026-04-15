@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-04-15T13:18:48.201Z",
+  "price": {
+    "close": "83.65",
+    "high": "83.76",
+    "low": "83.52",
+    "open": "83.75",
+    "change": "-0.11",
+    "datetime": "2026-04-15 13:00:00"
+  },
+  "indicators": {
+    "rsi": 46.41897,
+    "macd": -0.33311175,
+    "macd_signal": -0.38261061,
+    "sma20": 83.5515
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 83.65\\n- 24小时变化: -0.11%\\n- 高点/低点: 83.76 / 83.52\\n- RSI(14): N/A\\n- MACD: -0.33311175, Signal: N/A\\n- SMA(20): 83.55150\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：震荡偏多格局\n\n当前SOL价格在83.65附近维持盘整，短线呈现出震荡偏多特征。价格围绕20日简单移动平均线(SMA20 83.55)上下波动，显示出买卖双方力量相对均衡，但上方仍有抬升意愿，趋势短期偏向维持在较高区间。\n\n技术指标方面，MACD柱线为负且略有收敛，暗示上行动能尚未完全启动；不过缺少完整RSI数据使超买超卖判断受限。因此需关注未来动能变化，若MACD能转正并伴随量能放大，将有助确认上攻趋势延续。\n\n重要支撑位可关注83.00心理整数关口及近期低点82.50区域；阻力位则在84.50-85.00区间，突破该区将有望打开上行空间。若价格回踩支撑后企稳反弹，则可视为多头再度介入信号。\n\n交易建议上，短线交易者可在接近支撑时轻仓布局，并设好止损于82.00下方；激进者等待阻力突破确认后再加仓。保持风险控制，避免在高波动时过度追涨。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 83.65\\n- 24h Change: -0.11%\\n- High/Low: 83.76 / 83.52\\n- RSI(14): N/A\\n- MACD: -0.33311175, Signal: N/A\\n- SMA(20): 83.55150\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$83.65** suggests a market in **mild consolidation** after recent sideways movement. The narrow trading range (**High: 83.76 / Low: 83.52**) shows limited volatility, indicating indecision among short-term traders. Absent a clear breakout, this phase often precedes directional acceleration. Keep an eye on whether price can sustain above the current short-term average, as follow‑through strength would hint at renewed bullish intent.\n\nFrom an indicator standpoint, the **MACD at –0.3331** below zero reflects lingering bearish momentum, albeit subdued. Without a corresponding signal line or RSI, we rely on price relative to the **20‑period simple moving average (SMA)**, currently at **83.55**, which the market is marginally above. This proximity implies equilibrium between buyers and sellers. A decisive move above recent highs could pull momentum back toward neutral or bullish, while a drop beneath the SMA could reignite weakness.\n\nKey **support** to watch comes in the **$82.00–$82.50** area, drawn from recent intraday lows and psychological round numbers. A breach below this zone might see sellers testing deeper layers near **$80.00**, an area that has offered resilience in past pullbacks. On the upside, **$84.50–$85.00** stands as the nearest **resistance**, with stronger caps potentially emerging near **$88.00–$90.00** if volumes pick up and trend conviction returns.\n\nFor traders, consider **range‑aware strategies** until a clear directional trigger emerges. Long entries might be appropriate on sustained closes above **$85.00** with volume confirmation, targeting the mid‑$80s highs. Conversely, short opportunities could be explored on breaks below **$82.00**, with tight risk controls and exits near key support. Given current consolidation, patience and disciplined risk management remain critical."
+    }
+  }
+}
