@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-16T20:47:24.133Z",
+  "price": {
+    "close": "2344.02",
+    "high": "2345.64",
+    "low": "2334.85",
+    "open": "2344.34",
+    "change": "0.05",
+    "datetime": "2026-04-16 19:00:00"
+  },
+  "indicators": {
+    "rsi": 52.57112,
+    "macd": -3.064674,
+    "macd_signal": -2.84059,
+    "sma20": 2340.293
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线震荡整理，观望为主",
+      "content": "以太坊当前价格在2344附近震荡，全天波动幅度极窄，显示市场多空力量相对平衡。价格略高于20日简单移动平均线SMA(20)2340，短期均线支撑有效，但缺乏明显上涨动能，短线趋势偏向整理。  \n\nMACD指标处于-3.06的负值区间，显示下行动能存在，但由于信号线数据缺失，难以确认明确死叉或金叉，市场短期内仍可能维持横盘震荡。成交量若继续低迷，突破方向可能不明，投资者应谨慎。  \n\n支撑位初步位于2335附近，若跌破可能触发进一步回调；阻力位则在2346-2350区间，短线多头若无法收复此区域，将面临压力测试。技术形态显示，价格在支撑与阻力之间波动，缺乏明确趋势。  \n\n交易策略上，建议短线投资者保持观望，避免追高。可考虑低位轻仓试多或高位谨慎短空，但需严格设置止损，控制风险。等待MACD信号线或RSI指标出现明确方向，确认趋势后再进行更大仓位操作。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The ETH/USD market is currently experiencing a subtle upward trend, with the latest price of $2344.02 reflecting minimal movement in the past 24 hours. The price has fluctuated between $2345.64 and $2334.85, suggesting that there is a tight range of consolidation at present. With no major volatility, the market is taking a breather after previous movements, and a short-term neutral bias is forming. The lack of strong momentum could be indicative of traders waiting for further confirmation before making any significant moves.\n\nFrom a technical perspective, the Relative Strength Index (RSI) is currently unavailable, which limits our ability to gauge overbought or oversold conditions. However, the MACD is showing a negative value of -3.064674, indicating bearish momentum. This negative reading suggests that, in the short term, sellers are still in control, and the price may face downward pressure. Until we see a stronger shift in the MACD towards positive territory or a higher RSI, the trend remains subdued. \n\nLooking at key support and resistance levels, the immediate support can be found around $2334.85, the recent low, which has held up well in the past 24 hours. Should the price break below this level, further downside could be seen towards $2300. On the other hand, resistance lies at $2345.64, the high of the day, and a break above this could push the price toward $2370 or even higher, depending on market conditions. The 20-period simple moving average (SMA) of $2340.29 suggests that price action is in a slight upward bias, but it’s still relatively flat in the short term.\n\nConsidering the current market dynamics, trading strategies could focus on short-term trades within the $2334-$2345 range. A cautious approach would be to look for a bounce off support or a break above resistance for clearer directional confirmation. Risk management remains crucial in these tight market conditions, especially with the current MACD indicating caution."
+    }
+  }
+}
