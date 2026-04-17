@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-17T13:10:12.459Z",
+  "price": {
+    "close": "76386.87",
+    "high": "76549.99",
+    "low": "76094.41",
+    "open": "76270.22",
+    "change": "0.16",
+    "datetime": "2026-04-17 13:00:00"
+  },
+  "indicators": {
+    "rsi": 68.65192,
+    "macd": 370.15718,
+    "macd_signal": 219.048788,
+    "sma20": 75235.269
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期保持观望]",
+      "content": "当前比特币/美元（BTC/USD）价格为76,386.87美元，较24小时内变化0.16%。从近期走势来看，市场处于震荡整理阶段，价格在高点76549.99美元与低点76094.41美元之间波动，缺乏明确的突破方向。\n\n技术指标方面，MACD为370.16，显示出较强的上行动能，但由于Signal数据缺失，暂时无法判断是否有背离或过度购买信号。RSI指标暂未提供，因此无法准确评估市场的超买或超卖情况。SMA(20)在75,235.27美元附近，说明当前价格略高于20日均线，短期仍具支撑。\n\n支撑位在75,000美元附近，若跌破这一水平，可能会进一步下探至74,000美元左右。阻力位则在76,500美元至77,000美元区域，一旦突破可能会引发进一步上涨。建议在当前区间内保持观望，等待突破或回调确认。\n\n对于短期交易者，建议等待价格突破关键阻力位或支撑位，避免在震荡区间内盲目入场。风险控制尤为重要，止损位可设置在75,000美元下方。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently experiencing a slight upward movement, with the latest price standing at $76,386.87, reflecting a modest 0.16% increase over the past 24 hours. This indicates a generally stable short-term trend. The price is trading near the higher end of the recent range, which suggests potential for further upward momentum if buying pressure persists. However, given the lack of significant RSI data, this assessment lacks confirmation from momentum indicators, making it crucial to closely monitor market sentiment.\n\nThe MACD reading of 370.16 suggests that Bitcoin remains in a positive momentum phase, although the absence of a signal line hampers a clear interpretation of a potential crossover. A closer look at the Simple Moving Average (SMA) at 75,235.27 provides insight into potential support. If the price dips below this level, there may be heightened risk of further downside towards lower support levels. Conversely, if the price holds above the SMA, it could signal the continuation of a bullish short-term trend.\n\nSupport is likely to emerge at the recent low of $76,094.41, with a key level of interest just below at $75,000, where significant buying interest might return. On the upside, resistance is seen near the recent high of $76,549.99. A sustained break above this level could open up the potential for a move toward the next resistance area around $77,000, which could invite fresh buying. Traders should watch these levels for breakout or reversal opportunities.\n\nFor short-term trading, a cautious approach might involve waiting for a clear signal from the RSI or MACD before entering a position. A bullish setup could emerge if the price remains above the SMA and moves toward the upper range. Traders should look for buy opportunities near the support zone around $75,000, with a stop-loss just below this level to limit potential downside."
+    }
+  }
+}
