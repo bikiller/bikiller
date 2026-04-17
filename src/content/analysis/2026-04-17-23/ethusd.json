@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-17T23:24:56.573Z",
+  "price": {
+    "close": "2416.75",
+    "high": "2433.46",
+    "low": "2415.03",
+    "open": "2432.75",
+    "change": "-0.68",
+    "datetime": "2026-04-17 23:00:00"
+  },
+  "indicators": {
+    "rsi": 58.65911,
+    "macd": 23.21524,
+    "macd_signal": 22.36698,
+    "sma20": 2393.181
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[短期震荡，暂时保持偏弱]",
+      "content": "目前ETH/USD的价格呈现小幅震荡走势，最新报2416.75美元。从24小时变化来看，价格下跌约0.68%，显示出市场的谨慎情绪。高点和低点区间较小，反映出买卖双方力量的平衡。短期内，价格仍有可能维持在当前区间内震荡。\n\n技术指标方面，RSI目前未显示，因此无法依据过买或过卖的状态判断市场情绪。MACD值为23.21524，尽管这一数据略偏高，但由于没有配合信号线的信息，暂时无法确认明确的趋势反转信号。从SMA(20)的表现来看，价格轻微高于2393.18美元的均线，显示出价格短期内可能偏向上行，但未突破明显的上行动力。\n\n支撑位方面，价格在2415美元附近有较强支撑，若突破此位置，可能会下探到更低区域，如2390美元左右。阻力位位于2433.46美元，突破这一点可能会迎来更大的上涨空间。整体来看，ETH/USD短期内的行情仍偏震荡整理。\n\n综合来看，如果价格回撤至支撑位2415美元附近，考虑到当前的震荡特性，可以适度做多，但需谨慎操作，保持短线思维。若突破2433.46美元，可尝试做多追涨。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current market data for Ethereum (ETH/USD) suggests a relatively stable price movement with a slight downward shift of 0.68% over the past 24 hours. The price is testing support at $2415, which has proven to be a solid level recently. With the recent high at $2433, ETH appears to be consolidating within a tight range, indicating indecisiveness among market participants. The lack of a clear trend suggests that ETH might continue to oscillate within this range unless a breakout or breakdown occurs.\n\nThe absence of RSI and signal line data prevents a detailed interpretation of momentum, but the MACD reading of 23.22 hints at positive momentum, although it is important to note that this is not accompanied by an immediate shift in the trend. Given the current market structure, traders should watch for price action around $2415 to see if it holds as support. A drop below this level could signal a bearish move toward the next support zone, likely near $2390, which corresponds to the 20-period SMA at $2393.18.\n\nWith the 20-period SMA near the current price, it adds further weight to the support at $2415. If ETH manages to bounce off this level, a retest of the $2430 to $2440 resistance zone is plausible. Any breach above $2440 could lead to a more sustained rally. However, without a clear bullish signal, caution is advised, as the broader market context remains somewhat neutral, with a slight bearish bias emerging.\n\nTraders should consider monitoring volume for confirmation of price movement and be cautious of entering trades without a clear breakout or breakdown. A conservative approach would be to wait for a confirmed move above $2440 for a bullish confirmation or below $2415 for a bearish signal, managing risk accordingly with tight stop-loss orders near these levels."
+    }
+  }
+}
