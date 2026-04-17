@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-17T22:03:24.418Z",
+  "price": {
+    "close": "77456.42",
+    "high": "77475",
+    "low": "77433.74",
+    "open": "77475",
+    "change": "-0.02",
+    "datetime": "2026-04-17 22:00:00"
+  },
+  "indicators": {
+    "rsi": 65.19966,
+    "macd": 705.15607,
+    "macd_signal": 662.64304,
+    "sma20": 76430.1505
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整偏多",
+      "content": "比特币当前价格位于77456附近，较24小时波动幅度极小，呈现短期横盘整理格局。价格略高于20日均线SMA(20)76430，显示短期均线支撑有效，但整体动能尚未形成明显突破趋势，市场观望情绪浓厚。  \n\nMACD指标显示数值为705.15607，但缺乏信号线参考，无法确认强烈买入或卖出信号。结合价格走势和均线位置，短期多空力量大致平衡，仍需关注后续价格对SMA的测试情况。若MACD向上拐头并突破信号线，将提供潜在多头动能。  \n\n支撑位主要集中在20日均线附近的76430及近期低点77433，若价格下破这些水平，短线可能延伸回调。阻力位在77475及近期高点区间，突破阻力将有助于形成短期上攻格局。投资者可关注价格在支撑与阻力之间的震荡机会，合理控制仓位。  \n\n综合来看，短期内比特币呈现盘整偏多状态，适合小幅波段操作。建议在支撑附近布局多单，止损控制在低于SMA20附近；若价格上破阻力位，可跟随趋势加仓，但需警惕横盘震荡带来的假突破风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD market is currently hovering around the 77,456 level, showing a slight 24-hour change of -0.02%. This reflects a neutral market sentiment with minimal volatility. The high of 77,475 and low of 77,433.74 indicate a tight trading range, suggesting a consolidation phase. The price is near its recent 20-period simple moving average (SMA), which is at 76,430.15. A potential breakout or breakdown could occur, depending on the next price action relative to this moving average.\n\nWithout RSI data, it’s difficult to gauge overbought or oversold conditions, which would typically offer insights into potential reversal points. However, the MACD value of 705.15607 provides some insight into momentum. Since there's no signal line to compare, it’s essential to monitor for any crossover signals in the coming hours. The current MACD suggests a bullish momentum, but the absence of key indicators means caution is required.\n\nFrom a support and resistance perspective, the recent low of 77,433.74 acts as immediate support, while 77,475 sets the nearest resistance level. A break below support could suggest further downside potential, possibly retesting lower levels near the 76,000 range. On the other hand, breaking through resistance may drive BTC/USD towards new highs, with targets potentially extending toward 78,000 or higher.\n\nFor traders, a prudent strategy would be to wait for a clear break above resistance or below support to confirm the next move. Given the tight price action, waiting for confirmation could reduce risk. Alternatively, traders might consider scalping smaller timeframes, targeting intraday moves between the 77,433.74 support and 77,475 resistance zones."
+    }
+  }
+}
