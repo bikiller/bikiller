@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-17T08:15:50.900Z",
+  "price": {
+    "close": "75110.19",
+    "high": "75186.66",
+    "low": "75027",
+    "open": "75094.02",
+    "change": "0.02",
+    "datetime": "2026-04-17 08:00:00"
+  },
+  "indicators": {
+    "rsi": 55.9507,
+    "macd": 97.093266,
+    "macd_signal": 83.70409,
+    "sma20": 74769.4615
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏强趋势",
+      "content": "当前比特币价格在$75110.19附近窄幅震荡，24小时波动仅0.02%，显示短期多空力量接近平衡。从趋势来看，价格略高于SMA(20)的$74769.46，表明短期仍有轻微上行动能，但整体市场缺乏明确突破信号。  \n\nMACD指标显示主线为97.093266，尽管缺少信号线参考，但正值区域暗示多头力量存在，市场可能在高位整理。若未来MACD金叉形成，将进一步确认上行动能，而出现死叉则需警惕短期回调。  \n\n支撑位在$75027附近，若跌破可能触发进一步调整；阻力位在$75186-75200区间，多次试探未能有效突破，暗示短期承压。投资者应关注成交量变化，配合技术指标判断突破强度，以防假突破带来的风险。  \n\n交易策略上，可考虑短线低多高空策略：接近支撑尝试小仓位买入，止损设置略低于$75000；若突破阻力且伴随成交放大，可顺势加仓追涨；同时谨慎控制仓位，避免高位追涨带来的回撤压力。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC/USD) is currently showing mild consolidation around the $75,110 level, a slight change from the prior day’s price. With a 24-hour change of only 0.02%, the market sentiment appears neutral. The price is oscillating within a narrow range, with the high of $75,186 and a low of $75,027, indicating some indecision from both buyers and sellers. This consolidation could be a precursor to a breakout or continued sideways movement.\n\nThe market's Relative Strength Index (RSI) is unavailable at the moment, leaving a gap in gauging momentum. However, the MACD reading of 97.093266 suggests moderate bullish strength, though the absence of a signal line makes it difficult to draw definitive conclusions regarding its momentum direction. Traders should keep an eye on the MACD for further developments that could signal a stronger trend. A cross above zero would strengthen bullish sentiment.\n\nThe price is currently above the 20-period Simple Moving Average (SMA) of $74,769, which suggests a short-term bullish trend. The SMA has acted as a support zone over recent price action, and if the price dips towards this level, it could serve as a key buying opportunity. Conversely, the recent high of $75,186 is a resistance zone that will need to be cleared for further upside potential. A break above this level could lead to a more significant upward movement.\n\nGiven the current market conditions, traders might look for confirmation of a trend before entering positions. A move above $75,186 could present a buy signal, while a pullback near the SMA support at $74,769 could offer a favorable entry point for a bounce. On the other hand, a breakdown below the support level of $74,769 could trigger a bearish outlook, with further downside potential toward $74,000."
+    }
+  }
+}

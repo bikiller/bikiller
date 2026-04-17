@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-17T08:16:34.143Z",
+  "price": {
+    "close": "2336.44",
+    "high": "2338.57",
+    "low": "2332.66",
+    "open": "2333.68",
+    "change": "0.15",
+    "datetime": "2026-04-17 08:00:00"
+  },
+  "indicators": {
+    "rsi": 50.3971,
+    "macd": -2.31767,
+    "macd_signal": -2.11875,
+    "sma20": 2332.7265
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，缺乏明确趋势]",
+      "content": "当前以太坊/美元(ETH/USD)价格为2336.44，整体市场呈现震荡整理状态。从24小时变化来看，仅有0.15%的小幅波动，价格处于较为平稳的区间内，短期内缺乏强烈的上涨或下跌动能。当前的高点和低点分别为2338.57和2332.66，显示出市场在此区间内盘整。\n\n技术指标方面，MACD指标为负值(-2.31767)，表明短期内卖压较为明显，但由于信号线（Signal）尚未计算，无法明确判断趋势的强弱。SMA(20)为2332.73，略低于当前价格，显示出短期支撑位位于此水平附近。RSI(14)缺失，因此无法通过超买或超卖信号进一步确认市场情绪。\n\n支撑位位于2332.66，而阻力位则在2338.57附近，反映出市场在这两个价格区间内波动。若突破上方阻力位，则可能开启短期上涨，反之，若跌破支撑位，可能会引发进一步的下行压力。建议投资者在现阶段保持观望，等待更清晰的突破信号，避免在无明确方向的市场中冒险交易。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is showing signs of a mild consolidation around the $2,336 level after hovering within a narrow range between $2,332.66 and $2,338.57 over the past 24 hours. Price action suggests a short-term equilibrium as neither bulls nor bears have asserted dominance. The proximity of the current price to the 20-period simple moving average at $2,332.73 indicates the market is testing a key pivot point, with any sustained move above this level likely to attract additional buying interest.  \n\nThe MACD reading of -2.31767 suggests bearish momentum is still slightly present, though the absence of the signal line limits precise interpretation. Traders should note that the MACD being below zero can indicate underlying weakness, but combined with the near-flat price movement, it may also signal a potential slowdown in the downtrend. The market could remain range-bound unless confirmed by volume spikes or stronger momentum shifts.  \n\nSupport appears robust near $2,332, reflecting the SMA alignment and recent lows, while immediate resistance is observed at $2,338–$2,340, corresponding to the recent high and potential psychological barrier. A breakout above this zone could target $2,350–$2,360, while a drop below support might expose $2,325 as the next test. Monitoring candlestick patterns around these levels can provide early cues for directional bias.  \n\nFor traders, a cautious approach is advisable. Short-term range trading strategies could capitalize on minor oscillations between support and resistance, while breakout traders should wait for confirmation above $2,340 or below $2,332 with volume validation. Risk management remains crucial, particularly given the narrow price fluctuations and subdued momentum signals, which suggest potential volatility spikes if market sentiment shifts suddenly."
+    }
+  }
+}
