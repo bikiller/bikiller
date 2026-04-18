@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-04-18T23:11:32.293Z",
+  "price": {
+    "close": "0.250364",
+    "high": "0.250787",
+    "low": "0.249863",
+    "open": "0.249956",
+    "change": "0.18",
+    "datetime": "2026-04-18 23:00:00"
+  },
+  "indicators": {
+    "rsi": 40.12178,
+    "macd": -0.0020815192,
+    "macd_signal": -0.0020480016,
+    "sma20": 0.25227615
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：当前盘整偏弱，短期谨慎观望",
+      "content": "目前艾达币价格在0.2503美元附近徘徊，较日内高点0.2507和低点0.2498波动幅度有限，显示市场短期缺乏明确方向。价格低于SMA(20) 0.2523美元，说明短期均线承压，整体趋势偏弱，但尚未形成明显下跌动能。  \n\nMACD指标为-0.00208，处于零轴下方，表明空方力量略占上风，但信号线尚未提供明确的买卖信号。RSI数据暂缺，无法直接判断超买或超卖，但结合价格波动和均线状态，可推测短期动能偏弱。  \n\n支撑位关注0.2498美元的日内低点及0.2485美元的心理关口，若跌破可能引发进一步调整。阻力位在0.2523美元SMA及0.2530美元前期高点附近，突破需明显成交量配合，否则难以持续。  \n\n交易策略上，建议短线投资者以观望为主，等待价格明确突破阻力或跌破支撑再进行布局。激进交易者可在接近支撑位尝试小额低吸，同时设置严格止损，防范短期波动风险。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano (ADA) is currently exhibiting a neutral to slightly bearish trend against the US Dollar. The price has recently hovered around the $0.250 level, with minor fluctuations observed in the last 24 hours, a change of just 0.18%. The high and low for the day, $0.250787 and $0.249863 respectively, suggest limited volatility, indicating indecision in the market. Without a clear trend direction, ADA remains in a consolidation phase, offering traders an opportunity to watch for clearer momentum before making major moves.\n\nLooking at the short-term technicals, ADA is currently below its 20-period Simple Moving Average (SMA) at $0.2523, which indicates a slight bearish bias. The price trading below this level suggests that bearish pressure is present in the market. However, it is essential to note that the relative strength index (RSI) and moving average convergence divergence (MACD) values aren't providing a full picture due to unavailable or incomplete data. This limits the analysis, but the price action around the SMA can still give valuable insights for near-term market direction.\n\nSupport and resistance levels are crucial in determining ADA’s next possible moves. The immediate support lies around $0.2499, the recent low, which has held the price relatively stable in the short term. A break below this could see the price testing lower levels around $0.2475. On the upside, the $0.2523 level (SMA 20) is the key resistance. If the price manages to break and hold above this level, it may signal a potential bullish reversal, providing a trading opportunity towards higher targets.\n\nFor traders, patience is essential. In the current environment, it would be wise to wait for clearer signals from the MACD and RSI or a break of either support or resistance. A conservative approach could involve waiting for confirmation of price movement beyond these key levels to ensure lower-risk entries. If a breakout above the SMA occurs, consider positioning for a short-term upward move, while a break below support could lead to further downside."
+    }
+  }
+}
