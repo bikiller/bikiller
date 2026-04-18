@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-18T21:53:06.871Z",
+  "price": {
+    "close": "75785.5",
+    "high": "75875.83",
+    "low": "75628.41",
+    "open": "75784.94",
+    "change": "0.00",
+    "datetime": "2026-04-18 21:00:00"
+  },
+  "indicators": {
+    "rsi": 38.3508,
+    "macd": -225.74218,
+    "macd_signal": -112.89745,
+    "sma20": 76408.3645
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前区间震荡，短期偏弱",
+      "content": "近期比特币价格围绕75785美元震荡，日内波动幅度有限，高低点在75875与75628之间，显示市场短线多空力量均衡。短期均线SMA(20)位于76408上方，形成上方阻力区，价格承压明显，显示短线仍偏弱势。  \n\nMACD当前为负值-225.74，尽管缺少信号线，但负值意味着空头动能仍存在，短期上涨动能有限。RSI指标缺失，无法提供超买超卖信号，但结合价格在均线下方运行，可判断市场偏向整理格局，需警惕突发放量冲击。  \n\n支撑位初步关注75600附近，若跌破可能引发进一步下探，次级支撑在75400左右。阻力位则集中在SMA(20)76400及前高75875附近，突破需放量确认，否则可能反复震荡。  \n\n交易上，短线可考虑高位减仓或观望，低位若出现明显支撑和止跌信号，可尝试小仓位布局做多。中期投资者仍需关注均线压制和MACD负值表现，控制仓位，设置合理止损，以应对区间震荡风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC) currently remains in a relatively neutral position against the US Dollar (USD), with a price of $75,785.5. Over the past 24 hours, BTC has seen no significant movement, indicating that the market is in consolidation. The lack of price change, along with a range between $75,628.41 and $75,875.83, suggests that buyers and sellers are in equilibrium, with neither side able to take control. A further break above the high of $75,875.83 or below the low of $75,628.41 could indicate the next short-term move.\n\nThe absence of a clear trend is further reflected in the lack of relevant RSI data, which would typically help gauge momentum. Additionally, the MACD remains negative at -225.74218, signaling bearish market conditions. However, with the MACD not yet crossing above its signal line, there are no immediate indications of a bullish reversal. Traders should remain cautious as long as the negative MACD persists, suggesting that downward pressure could continue.\n\nLooking at the Simple Moving Average (SMA) of 20 periods, we find that the price is currently trading below this level, indicating that the short-term trend is bearish. The SMA at $76,408.36 could act as a potential resistance point, and any move toward it may face resistance. A sustained break above the SMA would suggest a potential bullish reversal, but until then, the bearish sentiment should dominate the market. \n\nFor support, the key level lies near $75,628.41, which is currently holding the price. If this level breaks, we could see further downward movement, potentially targeting lower support areas. On the upside, traders may look for signs of strength near the $75,875.83 high, but without a clear reversal signal from indicators, it’s advisable to remain cautious and wait for confirmation of a breakout or breakdown before committing to positions."
+    }
+  }
+}
