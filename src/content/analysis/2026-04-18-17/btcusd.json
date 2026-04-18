@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-18T17:55:56.124Z",
+  "price": {
+    "close": "75905.97",
+    "high": "75988.98",
+    "low": "75809.9",
+    "open": "75968.11",
+    "change": "-0.08",
+    "datetime": "2026-04-18 17:00:00"
+  },
+  "indicators": {
+    "rsi": 38.14435,
+    "macd": -128.74134,
+    "macd_signal": 29.30815,
+    "sma20": 76707.96
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘震荡，潜在回调风险",
+      "content": "当前比特币价格在 $75,905.97$ 附近小幅震荡，日内波动幅度有限，高低点差仅约 $179$ 美元，显示市场短期多空力量相对均衡。价格位于 20 日均线 $76,707.96$ 下方，短线承压明显，但跌幅有限，呈现弱势整理格局。  \n\nMACD 指标为负值 $-128.74134$，显示下行动能仍存在，但缺乏信号线对比，需关注未来交叉情况确认趋势方向。缺失 RSI 数据增加了短期超买或超卖判断的不确定性，投资者需结合均线及价格结构观察市场节奏。  \n\n关键支撑位可关注近期低点 $75,809.9$，若跌破该水平可能引发短线回调加速；阻力位在 $76,707.96$ 附近的 20 日均线以及日内高点 $75,988.98$，突破这些点位将有助于反转多头趋势的确认。  \n\n交易策略上，建议短线投资者保持观望或轻仓操作，以逢低试探支撑为主，避免追高；中长线投资者可等待明确均线突破或 MACD 金叉信号后再考虑加仓，风险控制应严格设置止损位置以应对横盘波动或潜在回调。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC) is currently experiencing a slight bearish sentiment, as reflected by the recent 24-hour price change of -0.08%. The price action has been oscillating near the $75,900 level, with recent highs and lows recorded at $75,988.98 and $75,809.9, respectively. The short-term trend is characterized by consolidation, indicating that Bitcoin is potentially awaiting a catalyst to determine its next directional move. The SMA(20) at $76,707.96 provides a reference for the current moving average, and the price is slightly below this level, suggesting that bearish momentum may persist unless a break above this mark occurs.\n\nThe lack of available RSI data makes it challenging to assess overbought or oversold conditions at this moment. However, the MACD value of -128.74134 indicates a potential bearish trend, as the MACD is currently in negative territory. This negative MACD reading suggests that selling pressure is dominant in the market. It is important to watch for any divergence or convergence that could provide further clarity on the market’s direction. Without the Signal line available for comparison, the current focus should be on price action and the broader market sentiment.\n\nKey support for Bitcoin lies around the $75,809.9 mark, with further downside risk if this level is breached. If selling pressure intensifies, the next support could potentially test levels lower than $75,000. On the resistance side, the price must break above the $76,707.96 SMA(20) to confirm bullish potential, with further resistance potentially located at $77,500. A failure to break these resistance levels may suggest prolonged consolidation or a deeper correction.\n\nTraders should watch for price action near the support and resistance zones. A break above $76,700 could signal a buying opportunity, while a break below $75,800 might indicate further downside. Due to the lack of definitive RSI data, careful observation is needed for more detailed trading strategies, with a cautious approach recommended in the current choppy market."
+    }
+  }
+}

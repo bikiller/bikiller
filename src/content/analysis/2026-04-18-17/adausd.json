@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-04-18T17:59:40.073Z",
+  "price": {
+    "close": "0.249591",
+    "high": "0.249836",
+    "low": "0.247648",
+    "open": "0.249303",
+    "change": "0.12",
+    "datetime": "2026-04-18 17:00:00"
+  },
+  "indicators": {
+    "rsi": 32.11645,
+    "macd": -0.0021807207,
+    "macd_signal": -0.0014318476,
+    "sma20": 0.2549435
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期震荡偏弱",
+      "content": "当前艾达币价格维持在 $0.2495$ 附近，较昨日波动有限，显示市场短期多空力量相对均衡。价格低于20日简单移动均线(SMA20) $0.2549$，暗示短期上行动能不足，多头趋势受抑制，可能延续震荡调整格局。  \n\nMACD指标显示差值为负值 $-0.00218$，表明空头动能仍占优势，但幅度有限，市场尚未出现强烈下行信号。由于缺少RSI数据，超买超卖状态暂不可判断，但结合价格与均线关系，短线谨慎偏空更为合理。  \n\n支撑位方面，近期低点 $0.2476$ 构成短线下方支撑，如跌破可能触发更深调整；阻力位位于SMA20附近 $0.2549$，上方压力明显，多头突破需伴随成交量放大。短期区间约在 $0.2476$ 至 $0.2549$ 之间震荡为主。  \n\n交易策略上，建议短线投资者可考虑逢低小幅布局，止损设置在支撑下方以控制风险；偏好趋势策略者可等待价格有效突破阻力确认多头信号后再介入。中线持有者应关注市场量能与价格是否持续站稳均线。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano (ADA) is currently exhibiting a subtle consolidation phase near the $0.2496 mark, showing minimal intraday volatility with a 24-hour change of just 0.12%. The tight trading range between $0.2476 and $0.2498 suggests that buyers and sellers are evenly matched, creating a temporary equilibrium. This sideways movement following a previous downward correction indicates market indecision, with the short-term trend slightly bearish due to the price remaining below the 20-period SMA at $0.2549. Momentum is subdued, setting the stage for a potential breakout or continued consolidation.\n\nThe MACD reading of -0.00218 hints at weak bearish momentum, although the absence of a current signal line makes interpretation incomplete. Traders should monitor MACD crossovers closely, as a rising MACD above its signal could indicate renewed buying pressure. Meanwhile, the RSI is unavailable, but given the narrow price oscillation, it is likely hovering near neutral levels. Overall, momentum indicators suggest that ADA is neither overbought nor oversold, which reinforces the idea of consolidation rather than a strong directional trend at this stage.\n\nKey support lies around $0.2475, where recent price action has repeatedly found buying interest. Resistance is immediately at the $0.2500 psychological level, with the next major hurdle being the SMA(20) near $0.2549. A sustained move above this SMA would signal a potential trend reversal to bullish territory, whereas a breach below $0.2475 could accelerate selling pressure toward lower support zones near $0.2450. Traders should remain cautious of false breakouts in this tight range.\n\nFor tactical positioning, short-term traders could consider range-bound strategies, buying near support and taking profits near $0.2500 while keeping tight stop-losses to manage risk. More conservative investors may prefer waiting for confirmation of a breakout above the SMA(20) before entering long positions. Given current technical conditions, patience is warranted, with focus on breakout levels and MACD confirmation to avoid entering during a low-momentum consolidation phase."
+    }
+  }
+}
