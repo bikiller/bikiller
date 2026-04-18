@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-18T07:44:58.152Z",
+  "price": {
+    "close": "77023.99",
+    "high": "77162.02",
+    "low": "77000",
+    "open": "77160",
+    "change": "-0.18",
+    "datetime": "2026-04-18 07:00:00"
+  },
+  "indicators": {
+    "rsi": 55.45877,
+    "macd": 357.2511,
+    "macd_signal": 478.53431,
+    "sma20": 77310.0915
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整偏弱",
+      "content": "从价格走势来看，比特币当前在77000附近波动，距20日简单移动均线(SMA20)77310略低，显示短期多头动能不足，价格存在回落压力。整体趋势呈现小幅盘整，市场多空力量处于相对平衡状态。短期内若无法有效突破SMA20，上行空间有限。  \n\nMACD当前值为357.25，虽无信号线参考，但数值仍显示多头动能存在，但势头减弱，价格可能在高位承压。结合日内高点77162与低点77000，可视为短期阻力与支撑，价格若跌破支撑，可能加速回落，反之若上破阻力，则有机会重新测试77350附近。  \n\n技术指标缺少RSI数据，使超买或超卖判断暂不明确，但从价格贴近SMA20看，市场偏向震荡。交易上建议谨慎操作，短线可关注支撑位附近低吸，止损设置在76950以下；若价格突破阻力位，可适度追涨，但应控制仓位以防回调风险。  \n\n综合来看，比特币短期偏向弱势盘整，市场多空交织，投资者应关注关键支撑与阻力的变化，同时密切跟踪MACD动能变化，结合风险管理进行稳健交易操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD market is currently showing slight bearish pressure, with a 24-hour change of -0.18%. The price is hovering near the low of the day at 77,000, indicating a possible consolidation phase after recent volatility. The high for the session has been recorded at 77,162, but there’s a noticeable failure to break through this resistance, suggesting a potential lack of bullish momentum at this point. This may signal the market could be gearing up for either a continuation of the downtrend or a potential reversal, depending on upcoming price action.\n\nIn terms of technical indicators, the absence of a defined RSI(14) makes it difficult to assess overbought or oversold conditions. The MACD, currently at 357.25, suggests some bullish momentum, but without a signal line, the interpretation remains unclear. If the MACD line begins to converge or cross over its signal line, it may indicate a stronger bullish reversal, but further confirmation is needed before taking any significant positions. As of now, caution is advised for traders looking for trend confirmation.\n\nSupport is currently visible near the 77,000 mark, with a strong possibility of further support around 76,500 if the price declines further. If Bitcoin manages to maintain its position above this level, it could set up for a potential rebound, although the lack of strong bullish indicators makes it unclear whether this support will hold for a significant period. On the other hand, a breach of the 77,000 support could lead to a test of lower support zones, with 75,500 acting as the next significant level.\n\nResistance remains just above the current price near 77,160, with the SMA(20) also marking a slight resistance level at 77,310. A sustained break above this could signal the potential for a rally towards higher levels, though with caution due to the lack of robust bullish indicators. A key strategy for traders would be to monitor these levels closely for breakouts or further consolidation, adjusting positions accordingly."
+    }
+  }
+}
