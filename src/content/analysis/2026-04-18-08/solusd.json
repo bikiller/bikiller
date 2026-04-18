@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-04-18T08:44:56.247Z",
+  "price": {
+    "close": "87.18",
+    "high": "88.54",
+    "low": "87.13",
+    "open": "88.49",
+    "change": "-1.46",
+    "datetime": "2026-04-18 08:00:00"
+  },
+  "indicators": {
+    "rsi": 35.59322,
+    "macd": -0.058406007,
+    "macd_signal": 0.18769801,
+    "sma20": 89.073
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 87.18\\n- 24小时变化: -1.46%\\n- 高点/低点: 88.54 / 87.13\\n- RSI(14): N/A\\n- MACD: -0.058406007, Signal: N/A\\n- SMA(20): 89.073000\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期弱势震荡下行承压\n\n当前价格在87.18附近震荡，短线走势偏弱，价格连续未能有效站稳20日均线89.07上方，显示多头动力不足且短期承压。若下破87整数关口，进一步下探支撑的可能性增大。\n\n从MACD来看快线在零轴下方运行且趋势未明显发散，表明空头力量仍占一定优势。虽然RSI数据缺失，但结合价格与均线关系，可推断动能偏弱，等待超卖信号确认更为稳妥。\n\n关键支撑位关注前低86.50一线及更下方85.00区域，这些位置如能保持支撑或有短线反弹机会；阻力位则在89.00附近，其次是90.50区间，多头需有效突破才能重拾上攻节奏。\n\n交易上建议依循趋势，短线操作以低多高空为主，接近阻力区可布局部分空单，跌破支撑谨慎观望或逐步加仓多单。严格控制风险，设置止损在主要支撑下方，等待明确趋势信号再调整策略。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 87.18\\n- 24h Change: -1.46%\\n- High/Low: 88.54 / 87.13\\n- RSI(14): N/A\\n- MACD: -0.058406007, Signal: N/A\\n- SMA(20): 89.073000\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action against the U.S. Dollar currently shows a mild bearish bias as the latest price at **87.18** sits below the **20‑period simple moving average (SMA)** at **89.07**. This indicates that short‑term momentum is losing upside strength. Recent highs near **88.50** have repeatedly failed to sustain, suggesting overhead supply. If this pattern persists, traders may view the market as range‑bound with a lower tilt until a decisive break above the SMA.\n\nThe lack of a valid **RSI(14)** and **MACD signal line** complicates momentum interpretation, but the reported **MACD value of –0.0584** implies negative divergence in the shorter timeframe. Even without the signal component, negative MACD suggests bears currently have the edge. Should the RSI become available and confirm oversold conditions near the **30 level**, it could hint at nearer‑term relief. Absent that, expect cautious sentiment until momentum gauges veer positive.\n\nKey technical levels remain the best guide for entries. Immediate **support** resides around **86.50–87.00**; a decisive break below 86 could open the door toward the **84.00** zone, where prior demand emerged. On the upside, the **88.50–89.50** band contains short‑term resistance, and only a close above **90.00** would meaningfully shift bias toward buyers, exposing the **92.00–93.00** region. Traders should watch volume around these thresholds—higher volume on breaks often signals enduring moves.\n\nGiven current readings, short‑term traders might consider **range‑oriented strategies**, selling near resistance and managing risk with tight stops. For more conservative positions, waiting for confirmation above the SMA with supportive momentum divergence would reduce false break risk. Always align position size with risk tolerance, and be ready to adapt as new momentum and trend signals develop."
+    }
+  }
+}

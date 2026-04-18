@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-18T08:43:34.501Z",
+  "price": {
+    "close": "2373.21",
+    "high": "2405.19",
+    "low": "2368",
+    "open": "2403.58",
+    "change": "-1.27",
+    "datetime": "2026-04-18 08:00:00"
+  },
+  "indicators": {
+    "rsi": 39.25094,
+    "macd": 6.39367,
+    "macd_signal": 13.72024,
+    "sma20": 2422.0175
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期偏空震荡",
+      "content": "目前以太坊价格报 2373.21 美元，较日内高点 2405.19 美元有所回落，呈现短期下行压力。结合 SMA(20) 2422.02 美元来看，价格处于均线下方，显示多头动能减弱，市场短线偏空，需关注关键支撑。  \n\nMACD 当前值为 6.39367，但信号线缺失，无法完整判断交叉方向。整体来看，若 MACD 继续向下运行，则短期空头可能延续。日内高低点形成的波动区间 2368-2405 可作为操作参考，价格回落至区间下沿可能吸引短线买盘。  \n\n支撑位关注 2368 美元附近，若跌破则可能打开进一步下行空间至 2340-2350 区间。阻力位集中在 2405-2422 美元附近，突破该区域需较强的买盘才能形成上行趋势。投资者应关注成交量变化，判断行情延续性。  \n\n交易策略上，可采取区间内高抛低吸策略，短线空单需严格止损于阻力位上方。中线投资者可等待价格回踩支撑确认多头信号后再考虑建仓，避免追高操作，降低波动风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum (ETH) against the US Dollar is $2373.21, reflecting a modest 1.27% decline over the last 24 hours. This slight pullback indicates a consolidation phase after ETH previously traded higher, with a high of $2405.19 and a low of $2368. The overall market sentiment remains neutral, as ETH has shown signs of range-bound movement. The price is hovering just below the 20-period Simple Moving Average (SMA) of $2422, suggesting that the short-term trend may be in a bearish phase, as the price is unable to break above the SMA convincingly.\n\nLooking at potential support and resistance levels, the key support area is around the recent low of $2368, which could provide a foundation for price stabilization. If this level holds, a rebound towards $2400 and even $2420 may be expected, with the SMA serving as an immediate resistance zone. If the price breaks below $2368, further downside could materialize, targeting $2300 or lower. Resistance is initially seen at $2405, followed by the SMA at $2422, which could act as a barrier to upward momentum.\n\nCurrently, the absence of an RSI reading and an incomplete MACD signal leaves some ambiguity in the short-term trend. The MACD value of 6.39 is somewhat bullish, though its lack of a signal line makes it difficult to fully interpret. Traders should wait for a clearer crossover or divergence in the MACD and look for confirmation from the RSI for a more reliable trade setup. For now, a cautious approach is recommended, especially as the price fluctuates near support.\n\nTraders looking for a breakout scenario might consider watching for price movement above $2405 to confirm a continuation towards higher levels, potentially targeting $2450. On the other hand, if Ethereum fails to maintain its support at $2368, short positions could be considered, with a stop-loss above $2405. This strategy ensures that risk is kept manageable while waiting for more definitive market signals."
+    }
+  }
+}
