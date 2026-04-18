@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-18T15:23:32.058Z",
+  "price": {
+    "close": "76185.17",
+    "high": "76391.85",
+    "low": "76155",
+    "open": "76280.61",
+    "change": "-0.13",
+    "datetime": "2026-04-18 15:00:00"
+  },
+  "indicators": {
+    "rsi": 42.63564,
+    "macd": -58.24209,
+    "macd_signal": 109.76396,
+    "sma20": 76856.0265
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期持平]",
+      "content": "当前比特币价格在76185.17美元附近，显示出震荡整理的局面。尽管24小时变化幅度较小，市场未能突破关键价格区间，维持在76391.85和76155美元之间。整体上，短期内的市场情绪趋于谨慎，缺乏明显的方向性。\n\n技术指标方面，MACD值为负（-58.24209），显示出卖压存在，但由于Signal值缺失，无法提供进一步的买卖信号。RSI指标暂时无法获取，因此无法分析超买或超卖状态。SMA(20)处于76856.03美元，当前价格低于该均线，表明短期内可能存在下行压力。\n\n支撑位位于76155美元附近，若价格跌破此水平，可能会进一步回落至更低位置。阻力位则位于76856美元附近，若价格突破该水平，则可能会迎来一轮上涨。投资者应密切关注这些关键价格点。\n\n在短期内，建议保持谨慎，避免过度交易。对于风险偏好较低的投资者，可以考虑在接近支撑位时尝试逢低买入，而在接近阻力位时则保持观望或适时卖出。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price currently sits at $76,185.17, showing a marginal 24-hour decline of -0.13%. This subtle decrease suggests a period of consolidation after recent volatility. The price remains near its high of $76,391.85, indicating a lack of significant bearish momentum, but also a reluctance to break through the upper range. Bitcoin is encountering resistance in this area, with the SMA(20) at $76,856 providing a near-term cap. The market is likely to either find strength at this level or experience a pullback toward the lower end of the range, near $76,155.\n\nWithout an available RSI or MACD signal, interpreting momentum becomes a bit challenging, but the MACD value of -58.24 indicates a negative short-term trend. This could suggest underlying bearish sentiment, particularly if the price fails to reclaim the SMA(20). Short-term traders might focus on this level as a potential trigger for further movement, especially if Bitcoin struggles to hold above $76,000. If the market doesn’t show clear bullish reversal signs soon, the risk of further decline exists, targeting the next support level at $75,000.\n\nThe key support level for BTC/USD is currently around $76,155. Should this level hold, it may offer an opportunity for a bounce toward resistance at $76,391. However, if the price falls below this support zone, Bitcoin could be set for a more significant pullback, potentially toward the $75,000 range. Traders should stay alert for either a breakout above $76,856 for confirmation of a bullish trend or a drop below $76,000, signaling further downside risk.\n\nIn summary, while Bitcoin remains in a short-term consolidation phase, caution is advised. The price is testing critical levels, and with the absence of strong momentum indicators, the market may lean towards a range-bound scenario. Patience is key here, as any breakout above resistance could present opportunities for the bulls, while a sustained drop below support might create short-selling opportunities."
+    }
+  }
+}
