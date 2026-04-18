@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-04-18T11:25:19.239Z",
+  "price": {
+    "close": "0.251811",
+    "high": "0.252521",
+    "low": "0.251258",
+    "open": "0.252521",
+    "change": "-0.25",
+    "datetime": "2026-04-18 11:00:00"
+  },
+  "indicators": {
+    "rsi": 34.08574,
+    "macd": -0.0010868401,
+    "macd_signal": -0.000091969058,
+    "sma20": 0.25840615
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期震荡整理，可能面临支撑测试",
+      "content": "当前艾达币/美元(ADA/USD)价格处于0.251811附近，短期内走势呈现震荡整理的态势。价格已接近日内低点0.251258，但未显现强烈的下行动能。考虑到目前的价格波动幅度较小，可能会在0.251水平附近找到支撑，维持区间震荡。\n\n从技术指标来看，RSI(14)未提供具体数值，难以进一步确认超买或超卖状态。MACD显示当前值为负值（-0.0011），表明短期内卖方力量略微占优，但由于信号线未出现明显变化，尚无法确认明确的趋势反转。SMA(20)位于0.258406，价格低于此均线，表明近期的价格相较于20日均线处于偏弱状态。\n\n就支撑与阻力而言，短期支撑位位于0.251258附近，若下破该位置，可能会测试更低的支撑区域。阻力位则位于0.252521和0.258406之间，突破这些水平后，价格可能会重新向上试探。鉴于目前市场表现震荡，建议谨慎操作，逢低买入，若突破上方阻力，则可考虑适量卖出。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano (ADA) is currently in a consolidation phase, hovering around $0.2518. The recent price action indicates a minor downtrend with a 24-hour change of -0.25%. However, the lack of strong momentum suggests the market is testing lower support levels. The current price is near the recent low of $0.2513, which could act as an immediate support level. If ADA holds above this point, there may be a slight potential for a rebound toward the SMA(20) at $0.2584, providing resistance.\n\nThe absence of the RSI and a negative MACD value (-0.0011) suggests weak bearish pressure, but the market is not yet oversold. The MACD crossover is still in negative territory, signaling a potential continuation of the downtrend. While the RSI is missing, the MACD’s position indicates that ADA may face further downside if the selling pressure persists. Traders should watch for a break below the support at $0.2513 to confirm further weakness and look for targets at the next significant support near $0.2500.\n\nIn the case of a recovery, ADA would need to reclaim the SMA(20) level at $0.2584 to initiate a more positive trend. A move above this level would suggest a possible continuation toward resistance at $0.2600. The market may remain in a tight range until a clear breakout occurs. However, traders should exercise caution, as the negative MACD and lower price range indicate that upward momentum is currently lacking.\n\nFor a more cautious approach, traders might consider shorting ADA if the price breaks below $0.2513 with a target near the $0.2500 support. On the other hand, a confirmed rebound with a close above the SMA(20) would set a buy signal with a potential target at $0.2600."
+    }
+  }
+}

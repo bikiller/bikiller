@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-18T11:21:40.685Z",
+  "price": {
+    "close": "76074.58",
+    "high": "76222.5",
+    "low": "75940",
+    "open": "76222.49",
+    "change": "-0.19",
+    "datetime": "2026-04-18 11:00:00"
+  },
+  "indicators": {
+    "rsi": 39.27758,
+    "macd": 86.49991,
+    "macd_signal": 301.39458,
+    "sma20": 77120.1495
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡整理，短期看空",
+      "content": "近期比特币/美元价格在76000附近震荡整理，短期走势略显疲软。当前价格接近20日简单移动平均线(SMA)的支撑位77120，形成一定支撑，但价格未能持续突破该水平，表明市场存在一定的卖盘压力。此时，短期趋势偏向横盘整理，暂时缺乏明确的上行动力。\n\n从技术指标来看，MACD为86.49991，尚未有明显的信号交叉，显示出市场动能较弱。RSI(14)暂时未提供有效信号，因此对市场的超买或超卖情况难以做出明确判断。价格波动区间狭窄，市场多空力量相对平衡，进一步的动向需关注接下来的价格波动。\n\n在支撑和阻力方面，当前的支撑位可见在75940附近，而上方的阻力则集中在76222.5附近。若价格突破76222.5，则可能会短期反弹并接近77000，但若无法突破该阻力位，则可能会再次回落并测试75940的支撑位。\n\n对于交易者而言，建议保持谨慎，避免在当前横盘阶段盲目入场。短期内可以等待价格突破关键支撑或阻力后再进行交易，若突破76222.5，则可考虑做多，反之则可做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 76074.58\\n- 24h Change: -0.19%\\n- High/Low: 76222.5 / 75940\\n- RSI(14): N/A\\n- MACD: 86.49991, Signal: N/A\\n- SMA(20): 77120.14950\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is currently consolidating around $76,000 after a strong impulsive move that recently tested the $75,000–$76,000 resistance zone. The broader trend remains cautiously bullish in structure, but momentum is cooling as price oscillates just below short-term resistance. The fact that BTC is holding above $75,000 suggests underlying demand, yet repeated rejection near $76,200 indicates supply pressure at higher levels. This setup is typical of a breakout attempt followed by short-term consolidation.\n\nFrom a trend perspective, price is still trading above key psychological support at $70,000, preserving the medium-term bullish bias. However, the loss of momentum beneath the 20-day SMA around $77,120 signals that buyers are no longer in full control in the immediate term. Recent action reflects a range-bound phase between approximately $73,300 and $75,200–$76,200, where the market is deciding whether to extend the uptrend or rotate into a deeper retracement.\n\nIndicator-wise, MACD remains positive at 86.5, suggesting that bullish momentum has not fully reversed, but the absence of a signal line confirmation points to weakening trend strength. Without RSI data, price behavior and moving averages become more important: trading below the 20-day SMA while holding above major support typically indicates a neutral-to-slightly-bullish consolidation phase rather than a trend reversal. Volume behavior (not provided) would be key for confirming breakout direction.\n\nKey support sits at $75,000, then $73,300, with a stronger floor near $70,600 if selling accelerates. Resistance is layered at $76,200 and then the SMA cluster around $77,100–$78,000. A clean break and hold above $76,200 could reopen upside toward $78,000–$80,000. For trading, range strategies favor buying dips near support with tight stops, while breakout traders should wait for a confirmed close above resistance before targeting continuation moves."
+    }
+  }
+}
