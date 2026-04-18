@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-18T06:41:33.530Z",
+  "price": {
+    "close": "2409.4",
+    "high": "2411.63",
+    "low": "2405.47",
+    "open": "2408.8",
+    "change": "0.02",
+    "datetime": "2026-04-18 06:00:00"
+  },
+  "indicators": {
+    "rsi": 54.50186,
+    "macd": 11.8596,
+    "macd_signal": 16.87437,
+    "sma20": 2419.4695
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱",
+      "content": "当前以太坊价格在2409.4附近徘徊，日内波动幅度较小，仅0.02%，显示市场短期缺乏明确方向。价格略低于20日简单移动均线(SMA20=2419.47)，提示多头动力有限，短期可能承压回落，整体呈现震荡偏弱格局。  \n\nMACD当前值为11.86，但信号线未提供，仍可初步判断为多空能量处于均衡状态，短线趋势不明朗。RSI缺失数据，无法确认超买或超卖状态，但结合价格与SMA20的关系，短线空头风险略高。  \n\n关键支撑位在2405附近，若跌破该水平，可能触发短线止损盘，加速回调至2395-2400区域；阻力位在2412-2420区间，若上破该区间，将重新激活多头动能，短线上涨空间有限。投资者应关注价格对SMA20的反应。  \n\n交易策略上，可考虑区间震荡操作，低位接近支撑可小仓做多，高位靠近阻力则短线获利了结。避免追高或盲目加仓，严格止损和控制仓位，以应对市场不确定性和短期波动风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum (ETH) against the US Dollar stands at 2409.4, reflecting a modest 0.02% change over the past 24 hours. This suggests a rather neutral market sentiment in the short term. With a daily range between 2411.63 and 2405.47, the price is currently consolidating within this tight range. There is no clear direction, indicating that traders are waiting for a catalyst to break the current balance. The price is also trading slightly below its 20-period simple moving average (SMA) of 2419.47, which could suggest some bearish pressure in the near term.\n\nIn terms of support and resistance, the immediate support level appears at 2405.47, the recent low. Should this level break, the next potential support lies around 2400, a psychological level. On the resistance side, the immediate hurdle is 2411.63, followed by the 2420 region, which aligns closely with the SMA(20). A break above the SMA could signal a possible bullish shift, but a failure to surpass this level would suggest continued sideways movement or a bearish trend.\n\nThe absence of a clear Relative Strength Index (RSI) value and the incomplete MACD readings leave some uncertainty in assessing momentum. The MACD value of 11.86 indicates a potential positive bias, but with no signal line for confirmation, its reliability is uncertain. The current setup leans toward a more cautious approach, awaiting more clear signals from momentum indicators or a breakout from key price levels.\n\nConsidering these technical factors, it might be prudent for traders to monitor the price closely near the support at 2405.47. A break below this level could trigger further downside towards 2400. Conversely, a breakout above the resistance at 2411.63 could provide an opportunity for a short-term buy position. However, caution is advised as the market appears indecisive at present, with no strong trend established."
+    }
+  }
+}
