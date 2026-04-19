@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-19T06:55:22.455Z",
+  "price": {
+    "close": "75440",
+    "high": "75584.79",
+    "low": "75323.74",
+    "open": "75580.01",
+    "change": "-0.19",
+    "datetime": "2026-04-19 06:00:00"
+  },
+  "indicators": {
+    "rsi": 34.26349,
+    "macd": -246.58036,
+    "macd_signal": -224.80584,
+    "sma20": 75823.897
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期回调风险",
+      "content": "当前比特币/美元（BTC/USD）处于震荡整理阶段，价格在75500附近小幅波动，未出现明显趋势性突破。市场短期内可能面临回调风险，需关注是否能维持在当前价位附近稳定。若突破75400支撑位，则可能进一步下探至75000附近。\n\n技术面上，RSI未提供有效数据，且MACD呈现负值，表明当前市场卖压较重，缺乏上行动力。SMA(20)为75823.897，价格接近此均线，若跌破此水平，短期内可能继续承压。MACD信号线缺失，显示出市场的不确定性，缺乏明确的买卖信号。\n\n支撑位方面，75400附近存在较强支撑，若跌破可能会引发更大幅度的回调。上方阻力位则集中在75800附近，突破此阻力可能迎来反弹行情。因此，投资者需密切关注这些关键水平的变化，以判断市场走势。\n\n建议投资者短期内保持谨慎，避免盲目追多。若价格跌破75400支撑，可考虑短期做空，止损设置在75800以上。同时，建议等待明确的趋势信号出现后再做决定。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering near $75,440, showing minor bearish pressure with a 24-hour decline of 0.19%. The price has tested the intraday range of $75,323 to $75,584, indicating low volatility and market indecision. Overall, the trend appears neutral to mildly bearish, as the current price is slightly below the 20-period SMA at $75,823. This suggests that short-term momentum favors sellers, although the market remains close to key equilibrium levels, waiting for a directional catalyst.  \n\nTechnical indicators hint at potential weakness. The MACD reading of -246.58 indicates that bearish momentum is dominant, signaling that downward pressure may persist unless offset by strong buying. Although the RSI is unavailable, the proximity to the SMA suggests that BTC/USD is neither deeply oversold nor overbought. Traders should watch for confirmation of trend continuation or reversal, particularly if price action breaches the short-term moving average, which often serves as a pivot for momentum-driven moves.  \n\nImmediate support can be identified near $75,323, with stronger validation around $74,900 if sellers intensify. Resistance resides at the daily high of $75,584, followed closely by the SMA at $75,823, which has acted as a ceiling in recent sessions. A break above this zone could trigger short-term bullish pressure, whereas failure to hold support could prompt a deeper pullback. Monitoring candlestick patterns around these levels can provide early entry or exit signals for active traders.  \n\nFor traders, a cautious approach is recommended. Short-term buyers may consider entering on dips toward support, using tight stop-losses to manage risk, while more aggressive traders could attempt short positions below the SMA, targeting intraday lows. Longer-term investors might wait for a clear breakout above the $75,823 resistance to confirm renewed upward momentum. Overall, the market reflects consolidation with mild bearish bias, suggesting selective, risk-managed trades are most appropriate at this stage."
+    }
+  }
+}
