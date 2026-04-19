@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-19T19:29:46.206Z",
+  "price": {
+    "close": "74979.56",
+    "high": "75076.1",
+    "low": "74806.71",
+    "open": "74806.71",
+    "change": "0.23",
+    "datetime": "2026-04-19 19:00:00"
+  },
+  "indicators": {
+    "rsi": 38.36948,
+    "macd": -227.82915,
+    "macd_signal": -189.13694,
+    "sma20": 75462.123
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，短期观望为主",
+      "content": "当前比特币价格为74979.56美元，短期内表现出震荡整理的走势。从技术面来看，价格位于SMA(20)均线附近，显示出市场尚未决定明确的趋势方向。高点75076.1和低点74806.71的范围相对狭窄，表明市场参与者对未来走势存在不确定性。\n\nMACD指标显示出负值(-227.82915)，说明短期内市场可能存在一定的卖压。然而，由于未提供RSI和Signal的具体数据，当前难以完全判断超买或超卖情况。若RSI出现低位区间，可能提示短期超卖，反弹的机会会增大。\n\n支撑位方面，74800美元附近为近期低点，若价格跌破该水平，可能会进一步下探至74000美元。阻力位则位于SMA(20)附近的75460美元，一旦突破该点位，市场可能会迎来反弹走势。\n\n建议投资者暂时观望，等待价格突破重要支撑或阻力位后再做决策。若价格突破75460美元，可以考虑做多；反之，跌破74800美元，则可适当考虑做空策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently experiencing a slight upward movement with the latest price at $74,979.56, reflecting a modest 0.23% increase over the past 24 hours. The high and low of the day range between $75,076.10 and $74,806.71, indicating a narrow trading range. The market seems to be consolidating after a slight upward bias. A breakout above $75,000 could signal further upside potential, while a dip below $74,800 may indicate a more bearish trend.\n\nThe lack of an available RSI (14) makes it difficult to gauge momentum directly, but the MACD value of -227.82915 suggests that the current market sentiment is bearish, as the MACD is in negative territory. This could indicate a potential slowdown in upward movement, as the market could be in a corrective phase. Without a confirmed signal or additional indicators, caution is advised until more definitive trends emerge. \n\nThe 20-period Simple Moving Average (SMA) at $75,462.12 is acting as a short-term resistance level. If Bitcoin manages to break and sustain above this level, it could test the next significant resistance near $76,000. Conversely, the support level seems to be around $74,800, which aligns with the day’s low. A move below this level could push the price down further toward the next support at $74,500, increasing the chances of a deeper retracement.\n\nFor traders, the current market presents a scenario where waiting for confirmation is key. A break above the SMA could provide a buy signal, while failure to hold above $74,800 might offer a short opportunity. Given the flat MACD and lack of RSI, it’s advisable to approach trades with caution and consider more conservative strategies until clearer market conditions are established."
+    }
+  }
+}
