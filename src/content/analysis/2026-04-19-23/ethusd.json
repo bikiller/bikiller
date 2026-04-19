@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-19T23:20:52.234Z",
+  "price": {
+    "close": "2264.37",
+    "high": "2269.27",
+    "low": "2256.51",
+    "open": "2268.92",
+    "change": "-0.25",
+    "datetime": "2026-04-19 23:00:00"
+  },
+  "indicators": {
+    "rsi": 21.98859,
+    "macd": -20.64276,
+    "macd_signal": -16.32495,
+    "sma20": 2310.987
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡整理，关注支撑位和阻力位",
+      "content": "当前以太坊/美元(ETH/USD)在2264.37附近震荡整理，价格未能突破关键阻力2310.98700的SMA(20)，短期内呈现震荡走势。近期价格在2269.27和2256.51之间波动，市场情绪保持谨慎，未出现明显的多头或空头趋势。\n\n技术指标方面，MACD目前为负值（-20.64276），表明市场短期内呈现一定的空头压力，尽管Signal值尚未显示明确的趋势。RSI(14)暂缺数据，因此无法对超买或超卖状态进行进一步分析。不过，负MACD信号意味着下行风险仍然存在。\n\n在支撑位方面，2256.51是近期的低点，可能提供一定的支撑。如果价格下跌至此水平，可能会出现技术性反弹。而2310.98700的SMA(20)作为上方阻力位，突破此价位可能会引发更多买盘介入，推动价格进一步上涨。\n\n建议投资者关注当前区间的支撑与阻力，若价格突破2310.98700，则可考虑适度做多；若跌破2256.51，则应警惕进一步下行风险，适合暂时观望或做空。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH/USD) is currently exhibiting a sideways market structure, with the price hovering around the $2264 level. Despite a slight 24-hour loss of -0.25%, the price remains relatively stable, indicating indecision in the market. The recent high of $2269.27 and low of $2256.51 suggest a tight range, with neither bulls nor bears gaining a clear upper hand. This range-bound movement could indicate a period of consolidation before a more defined directional move.\n\nThe RSI(14) is unavailable, making it difficult to assess the momentum in the market. However, the negative MACD value of -20.64 signals bearish pressure, suggesting that the short-term trend is currently to the downside. The absence of a clear signal line crossover further implies a lack of strong momentum in either direction. Traders should be cautious of potential further declines if the MACD remains negative, particularly if the price tests the lower support levels.\n\nThe 20-period Simple Moving Average (SMA) currently sits at $2310.99, acting as a dynamic resistance level. This SMA suggests that any upward movement could face resistance around $2310, which has historically been a point of rejection. If ETH/USD continues to struggle at this level, it may not be able to overcome the resistance and could potentially fall back towards the support zone near $2256.\n\nFrom a trading perspective, the current price is in a consolidation phase, and the key strategy is to watch for a breakout. A move above the SMA at $2310 could signal a potential bullish reversal, while a drop below $2256 may indicate further downside risks. Traders might consider employing range-bound strategies until a decisive breakout or breakdown occurs, with stop-loss orders placed near key support or resistance levels to manage risk effectively."
+    }
+  }
+}
