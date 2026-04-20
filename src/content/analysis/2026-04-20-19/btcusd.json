@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-20T19:43:35.875Z",
+  "price": {
+    "close": "76282.36",
+    "high": "76528.01",
+    "low": "76184.85",
+    "open": "76466.25",
+    "change": "-0.24",
+    "datetime": "2026-04-20 19:00:00"
+  },
+  "indicators": {
+    "rsi": 63.37324,
+    "macd": 256.26228,
+    "macd_signal": 66.48646,
+    "sma20": 75113.3135
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整偏多趋势",
+      "content": "比特币当前价格位于76282美元附近，较20日简单移动平均线(SMA20)75113美元明显偏高，显示中短期多头仍占主导，但24小时微幅下跌0.24%表明市场存在短期获利回吐压力。整体走势呈现高位震荡，暂未突破近期高点76528美元。  \n\nMACD指标处于正值区间，虽缺少信号线参考，但大幅正值暗示多头动能仍在，但随时可能因连续高位震荡而出现动能减弱。RSI数据缺失，需要关注后续动能变化以确认超买或超卖状态，短线操作需谨慎。  \n\n支撑位初步落在SMA20附近的75113美元，若跌破则可能触发短期回调至74800美元附近；阻力位关注前高76528及77000美元心理关口，多头突破将有助于打开上行空间。高位震荡时应关注成交量变化，避免盲目追高。  \n\n交易策略上，建议以短线逢低布局为主，严格设置止损以防突发回调。多头可考虑在75100-75500美元区间轻仓进场，目标价位逐步上看76500-77000美元，同时保持警惕高位回调风险，灵活调整仓位以应对盘整行情。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently in a neutral-to-slightly bearish stance, as indicated by the recent price movement and 24-hour change of -0.24%. The price of BTC/USD is holding above the key support level of 76185, which coincides with the recent low. This suggests that the market is consolidating in a narrow range between 76185 and 76528, with buyers and sellers unable to push the price significantly in either direction at the moment. The lack of a significant directional move highlights potential indecisiveness among traders.\n\nThe lack of a defined RSI value at this point makes it difficult to assess the immediate momentum of Bitcoin. However, the current MACD reading of 256.26 indicates that the momentum is positive, but without a clear signal line, it leaves room for uncertainty. If the MACD continues to climb, it may indicate strengthening bullish momentum, though caution should be exercised until more reliable indicators confirm this trend. Until then, traders should look for additional signs of strength or weakness before committing to major positions.\n\nBitcoin is currently above its 20-period SMA, which is positioned at 75113.31, providing some support to the downside. A break below this moving average could signal a more pronounced bearish move, potentially targeting the next support level around 75000. On the resistance side, the immediate level to watch is 76528, which has capped recent upward attempts. If BTC/USD breaks above this level with strong volume, it could signal a potential bullish continuation towards higher levels, possibly testing the 77000 range.\n\nFor traders, the market's current indecision suggests a wait-and-see approach might be prudent. A break above 76528 could trigger a long position, while a fall below the 20-SMA or 76185 support level could prompt a short entry. Risk management through stop-losses near key levels is essential, as the market has yet to show clear direction."
+    }
+  }
+}
