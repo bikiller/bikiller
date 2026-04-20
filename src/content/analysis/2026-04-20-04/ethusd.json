@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-20T04:33:21.947Z",
+  "price": {
+    "close": "2281.29",
+    "high": "2286.31",
+    "low": "2279.98",
+    "open": "2286.31",
+    "change": "-0.23",
+    "datetime": "2026-04-20 04:00:00"
+  },
+  "indicators": {
+    "rsi": 38.007737,
+    "macd": -17.15939,
+    "macd_signal": -17.76136,
+    "sma20": 2300.0485
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期承压，价格震荡偏弱",
+      "content": "当前ETH/USD价格在2281附近波动，较SMA(20)2300存在下行压力，显示短期多头动能减弱。价格未能突破前高2286，短线可能延续震荡整理，市场情绪偏谨慎，空头存在一定防守优势。  \n\nMACD显示值为-17.16，暗示空头动能仍占主导，但未出现加速下跌信号，表明调整幅度可能有限。缺少RSI数据使超买超卖判断不完整，但结合价格与均线位置，可推测当前偏向中性偏弱震荡。  \n\n支撑位关注2275附近，若跌破可能引发进一步下探至2260区域；阻力位则在2300附近SMA处，突破需伴随成交量放大。短线交易者应注意价格在支撑与阻力区间的震荡反复。  \n\n建议保守操作者可在接近支撑位布局小仓多单，止损2270以下；激进者可在阻力未破前维持空单观察，避免追涨杀跌。总体来看，以太坊短期承压整理，等待明确趋势信号后再做主动加仓。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum has been exhibiting a neutral to slightly bearish trend recently, with its price fluctuating within a narrow range between 2279.98 and 2286.31. The price of 2281.29 is relatively close to the middle of this range, indicating indecisiveness among buyers and sellers. Without a clear breakout or breakdown, the market may remain in consolidation until a decisive move occurs. The absence of a clear trend signals that traders should watch for either a rise above 2300 or a drop below 2279 to indicate further movement.\n\nLooking at the SMA(20) at 2300.05, Ethereum is currently trading below this level, signaling short-term bearish momentum. Typically, when the price trades under the SMA, it suggests that the bearish pressure is more dominant. However, the price is not too far from this moving average, meaning a potential reversal or break to the upside could quickly shift the trend. Traders may watch for a price crossover above this level as a confirmation of upward momentum.\n\nThe lack of a clear RSI(14) reading means that we cannot assess current overbought or oversold conditions accurately. However, the MACD reading of -17.15939 implies some underlying bearish pressure, indicating that momentum is currently favoring sellers. While this is not necessarily a strong signal on its own, it suggests that buyers are struggling to push the price higher. Traders should look for confirmation of weakening bearish momentum or a shift in the MACD toward a more neutral or positive value for more bullish signals.\n\nIn terms of support and resistance, key levels to watch include 2279.98 as immediate support, and 2300 as resistance. A breach of the resistance level at 2300 could set Ethereum on a course toward higher targets, while a failure to hold the 2279 support could lead to a test of lower support levels. In this range-bound market, cautious trading strategies such as waiting for clear breakout signals or using tight stop-loss orders are advisable."
+    }
+  }
+}
