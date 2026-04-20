@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-20T09:00:22.780Z",
+  "price": {
+    "close": "74745.38",
+    "high": "75029.01",
+    "low": "74646.93",
+    "open": "74860.01",
+    "change": "-0.15",
+    "datetime": "2026-04-20 08:00:00"
+  },
+  "indicators": {
+    "rsi": 46.76702,
+    "macd": -241.13766,
+    "macd_signal": -311.9916,
+    "sma20": 74815.3
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，关注支撑与阻力区间",
+      "content": "当前比特币/美元（BTC/USD）在74745.38附近交易，呈现出短期震荡整理的趋势。价格轻微下跌，24小时变化为-0.15%，且未能突破75000美元关口，显示市场缺乏明确的方向性。此时，BTC/USD可能处于调整阶段，投资者应保持谨慎。\n\n技术指标方面，MACD为-241.13766，表明当前市场处于弱势状态，但缺乏强烈的卖出信号。由于缺少RSI数据，无法进一步分析超买或超卖的情况。SMA(20)位于74815.3附近，提供了短期支撑位，若价格跌破此水平，可能会进一步回调。\n\n在支撑和阻力层面，当前支撑位在74646.93附近，而阻力位则位于75000美元附近。突破75000美元关口可能会重新引发上行趋势，而跌破74600美元可能会导致下行趋势加剧。投资者应密切关注这些关键价位，做好止损和止盈设置。\n\n综合来看，当前市场处于震荡整理阶段，适合短线交易者进行区间操作。建议在支撑位附近考虑买入，在阻力位附近适时卖出。长线投资者可等待价格突破关键区间后再做决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a slight downward trend, trading at $74,745.38 after experiencing a 24-hour change of -0.15%. The price has fluctuated between $74,646.93 and $75,029.01, indicating a narrow trading range within this period. The market seems to be consolidating, suggesting indecision among traders. A breakout above the $75,000 level could signal a continuation of the bullish trend, while a drop below $74,500 might confirm further bearish momentum.\n\nThe absence of an RSI reading and the negative MACD value of -241.14 highlight a bearish divergence. The MACD’s negative value suggests that selling pressure is currently outweighing buying interest. Without the Signal line data, it’s challenging to determine whether a trend reversal is imminent, but the MACD remains an important indicator for monitoring shifts in market momentum. Traders should be cautious, waiting for either confirmation of a bullish crossover or the persistence of negative momentum to gauge market direction.\n\nSupport is being seen near the $74,500 level, which could act as a short-term floor for prices. If Bitcoin fails to hold this level, it may retest the $74,000 mark or lower. On the resistance side, the $75,000 level continues to act as a psychological barrier. A sustained breakout above this resistance could lead to the next key level at $75,500. Traders should watch for confirmation of either a breakout or breakdown to decide on their positioning.\n\nGiven the current market conditions, a cautious approach is recommended. For those looking to go long, a breakout above $75,000 could present a favorable entry point, while those leaning bearish might wait for confirmation below the $74,500 support level. As always, risk management through stop-losses is crucial, especially in such a volatile market."
+    }
+  }
+}
