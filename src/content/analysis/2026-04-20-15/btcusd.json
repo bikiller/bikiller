@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-20T15:56:49.392Z",
+  "price": {
+    "close": "75614.79",
+    "high": "75816.18",
+    "low": "74730.01",
+    "open": "75072.98",
+    "change": "0.72",
+    "datetime": "2026-04-20 15:00:00"
+  },
+  "indicators": {
+    "rsi": 59.50596,
+    "macd": 34.097209,
+    "macd_signal": -98.39071,
+    "sma20": 74754.2865
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期偏强震荡",
+      "content": "目前BTC/USD在75614.79附近波动，较前日微涨0.72%，显示市场短期多头力量略占优势。价格已突破SMA(20)74754.29，表明均线支撑有效，但高点75816.18尚未被稳固突破，短期仍存在震荡整理的可能。  \n\nMACD为34.10且尚未提供信号线，显示多空动能偏向多头，但缺乏明确交叉信号，需关注后续动能变化。若MACD与Signal形成金叉，将强化上涨趋势，而出现死叉则提示潜在回调压力。RSI数据缺失，使超买超卖判断受限，但从价格震荡区间来看，短线仍有适度上行空间。  \n\n支撑位主要关注SMA(20)74754及近低点74730.01，若跌破可能触发更深回调；阻力位在75816及76000附近，如突破则可能延伸至76500一线。技术上，支撑稳固可提供逢低吸纳机会，而阻力未破前需控制仓位。  \n\n交易策略上，建议短线交易者可在支撑区附近考虑小额多单，止损设置在74650左右；激进投资者可等待价格稳破75816确认上涨趋势再加仓。总体来看，市场偏强震荡，但仍需警惕区间回调风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading around $75,614.79, showing a modest 0.72% gain over the past 24 hours. Price action suggests a short-term bullish bias, with the latest candle forming near the upper boundary of the intraday range. The recent low at $74,730 provides immediate support, while $75,816 marks the daily high, acting as near-term resistance. The market seems to be consolidating just above the 20-period simple moving average at $74,754, indicating a cautious continuation of the uptrend.\n\nFrom a momentum perspective, the MACD at 34.09, despite the missing signal line, indicates growing upward pressure, suggesting that buyers are currently controlling price action. The absence of a calculated RSI limits the visibility of potential overbought conditions, but the slight upward drift in price hints that the market is not yet overheated. Traders should remain attentive to any shifts in volume or abrupt MACD divergence, as these could signal early trend reversals or acceleration.\n\nSupport and resistance levels are particularly relevant for intraday trading. Key support lies near $74,730 and the SMA20 at $74,754, providing a floor for potential pullbacks. On the upside, a break above $75,816 could open the path to $76,200–$76,500, which may act as a secondary resistance zone. Monitoring these levels allows traders to place disciplined stop-losses and define entry points, balancing risk against the current upward momentum.\n\nFor trading strategy, cautious long positions could be considered while maintaining tight stop-loss orders below $74,730 to protect against sudden retracements. Short-term traders might focus on scalping around $75,800, using intraday swings to capture profits. Overall, the technical picture points to a controlled bullish sentiment with limited volatility, favoring measured entries and exits rather than aggressive positioning, while keeping an eye on broader market catalysts that could disrupt the current range."
+    }
+  }
+}
