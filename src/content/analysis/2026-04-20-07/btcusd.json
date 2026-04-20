@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-20T07:25:31.998Z",
+  "price": {
+    "close": "75494.8",
+    "high": "75578.39",
+    "low": "74723.11",
+    "open": "74820.18",
+    "change": "0.90",
+    "datetime": "2026-04-20 07:00:00"
+  },
+  "indicators": {
+    "rsi": 56.81675,
+    "macd": -216.57025,
+    "macd_signal": -319.53558,
+    "sma20": 74890.4975
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，回调受支撑",
+      "content": "当前BTC/USD价格在75494.8附近小幅上涨，日内波动区间约75578.39至74723.11，显示市场多空力量相对均衡。从均线来看，20日SMA位于74890.5下方，价格略高于均线，短期存在温和支撑，整体趋势偏多但缺乏明确动力。  \n\nMACD指标处于负值区间（-216.57），显示空头动能仍在，但缺少信号线数据，暗示趋势可能延续震荡整理。投资者需关注MACD柱状图变化，若出现缩短或回升迹象，可能预示短线买入机会。  \n\n关键支撑位可参考74890附近SMA及近期低点74723，若跌破需警惕回调风险。阻力位在75578和76000附近，若突破阻力则可能触发进一步多头拉升。价格在当前区间内波动，短线操作需谨慎把握入场点。  \n\n交易建议上，可考虑区间内低吸高抛策略，控制仓位以应对震荡，同时密切关注价格对SMA的支撑反应。突破关键阻力或支撑位时，可顺势调整仓位，追随短线趋势，但避免盲目追高或追空，以降低风险暴露。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 75494.8\\n- 24h Change: 0.90%\\n- High/Low: 75578.39 / 74723.11\\n- RSI(14): N/A\\n- MACD: -216.57025, Signal: N/A\\n- SMA(20): 74890.49750\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is currently showing a mildly bullish intraday structure, trading near 75,494 after a 24-hour gain of 0.90%. Price action is consolidating just above the SMA(20) at 74,890, which now acts as dynamic support. The recent push toward 75,578 suggests buyers are attempting to reclaim higher range territory. However, momentum remains fragile as repeated rejections near the 75.5K area indicate emerging supply pressure at the upper boundary of the current micro-range.\n\nFrom an indicator perspective, MACD is still in negative territory at -216.57, signaling that bearish momentum has not fully faded despite the short-term rebound. This divergence between price strength and momentum weakness often precedes consolidation rather than sustained breakout moves. With RSI unavailable, MACD becomes the primary momentum gauge, and its negative reading suggests caution. The lack of bullish confirmation implies this move may be corrective rather than trend-reversing.\n\nKey support is located at 74,900–74,700, aligning with the SMA(20) and recent intraday lows. A break below this zone would expose 74,200 as the next downside liquidity pocket. On the upside, immediate resistance sits at 75,600–75,800, where price has repeatedly stalled. A confirmed breakout above this level could open a path toward 76,500, where prior supply zones are likely to reappear.\n\nTrading-wise, the structure favors a range-bound strategy until confirmation emerges. Short-term traders may consider buying dips near 74,700 with tight risk control, targeting resistance retests. Conversely, rejection near 75,600 offers scalp short opportunities. A decisive MACD recovery above zero alongside a clean break of resistance would be required to shift bias toward a sustained bullish continuation."
+    }
+  }
+}
