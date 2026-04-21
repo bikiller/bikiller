@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-04-21T22:06:08.516Z",
+  "price": {
+    "close": "1.42154",
+    "high": "1.42277",
+    "low": "1.42153",
+    "open": "1.42177",
+    "change": "-0.05",
+    "datetime": "2026-04-21 22:00:00"
+  },
+  "indicators": {
+    "rsi": 43.87545,
+    "macd": -0.0015378035,
+    "macd_signal": 0.0005012325,
+    "sma20": 1.43084
+  },
+  "analysis": {
+    "zh": {
+      "title": "瑞波币/美元技术分析：短期震荡偏弱，等待突破信号",
+      "content": "当前XRP/USD价格略低于SMA(20)均线1.43084，显示短期内价格承压，市场呈现弱势整理。价格在日内高点1.42277与低点1.42153之间波动幅度极窄，表明多空力量接近均衡，但短线偏向空头。\n\nMACD处于负值区间（-0.0015），虽然信号线未提供，但负柱仍提示空方动能略占优势。缺乏RSI数据限制了超买超卖的判断，但从价格位置看，多头尚未占据主动，短线反弹可能受阻。\n\n关键支撑位在近期低点1.4215附近，一旦跌破可能进一步测试1.4100区域；阻力位则在SMA(20)均线1.4308附近，多次未能有效突破表明该价位压力明显。投资者应关注价格是否能够稳定站上均线，作为趋势反转的参考。\n\n交易策略上，短线可考虑逢高轻仓做空，止损置于SMA上方附近。中线投资者可观望，等待价格形成明确突破或跌破支撑信号后再介入，以降低不必要的风险暴露。风险管理应保持谨慎，避免追高追低操作。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "XRP/USD is currently showing a subtle consolidation around the $1.4215 mark after minor intraday fluctuations. The price remains below the 20-day simple moving average (SMA) of $1.4308, suggesting a short-term bearish bias. The daily high of $1.4228 and low of $1.4215 indicate a tight trading range, reflecting indecision among market participants. Overall, this points to a cautious environment where momentum could shift quickly depending on volume and external crypto market sentiment.  \n\nMomentum indicators offer mixed insights. Although the 14-period RSI is unavailable, the MACD sits slightly negative at -0.0015, hinting at mild bearish pressure. The absence of a clear signal line reinforces the idea of a sideways market, where neither bulls nor bears dominate decisively. Traders might interpret this as a need for confirmation before entering positions, waiting for a breakout above key resistance or a drop below support to validate directional strength.  \n\nSupport and resistance levels are pivotal at this stage. Immediate support aligns with the recent low around $1.4215, providing a floor for short-term declines. Resistance lies near the SMA at $1.4308, marking a barrier that must be breached for upward momentum to resume. A sustained move above this level could attract additional buyers, while a failure to hold support may trigger further downside toward $1.4150 or lower psychological levels, reinforcing the importance of risk management.  \n\nFor trading strategy, cautious traders may prefer to wait for confirmation, such as a break and close above the SMA or a decisive reversal candlestick pattern at support. Short-term traders could explore scalping within the tight range, capitalizing on micro-movements. Stop-loss orders slightly below support and target exits just below resistance can help balance potential gains against volatility risks. Maintaining awareness of broader market conditions, including Bitcoin and Ethereum trends, is advisable, as XRP often mirrors overall crypto sentiment."
+    }
+  }
+}
