@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-21T20:46:36.826Z",
+  "price": {
+    "close": "75685.12",
+    "high": "75880.35",
+    "low": "74989.53",
+    "open": "75031.09",
+    "change": "0.87",
+    "datetime": "2026-04-21 20:00:00"
+  },
+  "indicators": {
+    "rsi": 48.54505,
+    "macd": -43.31111,
+    "macd_signal": 69.90536,
+    "sma20": 75924.905
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱，短期测试关键均线",
+      "content": "当前BTC价格处于75685附近，整体呈震荡偏弱结构。虽24小时小幅反弹，但仍运行在20日均线下方，显示短期多头动能不足，市场进入整理阶段。\n\nMACD持续为负值，动能柱维持在零轴下方，说明空头压力仍占主导。RSI暂缺但结合价格表现，市场未出现明显超买，反弹缺乏持续性。\n\n下方支撑关注75000与74800区域，一旦跌破可能进一步回撤。上方阻力集中在75900及76200附近，需放量突破才能打开上行空间。\n\n操作上建议短线以区间交易为主，低位轻仓试多，高位逐步减仓。若跌破支撑应及时止损观望，等待趋势重新确认后再介入。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current Bitcoin price of $75,685.12 shows a slight 0.87% gain over the past 24 hours, indicating a neutral to slightly bullish sentiment. The price remains within a tight range between $75,000 and $75,900, which suggests consolidation after the recent highs around $75,880.35. The price action exhibits a lack of strong directional momentum, meaning traders should be cautious in entering large positions until a clear breakout or breakdown occurs.\n\nFrom a technical perspective, the absence of an RSI reading leaves a gap in momentum assessment, but the negative MACD of -43.31111 indicates bearish pressure. The MACD histogram’s negative value points to a lack of strong upward momentum, potentially signaling a corrective phase or the possibility of more consolidation at current levels. Investors should monitor for any shifts in momentum that could provide clearer entry signals, particularly if the MACD crosses above the signal line in the coming days.\n\nThe $75,000 level serves as an immediate support zone, with the recent low at $74,989.53 reinforcing this. If the price breaks below this range, $74,500 could become the next level of support. Conversely, resistance is pegged at $75,900 and $76,000, where Bitcoin has repeatedly faced selling pressure. A breakout above these levels would suggest potential bullish continuation, opening the path toward $77,500 or higher.\n\nTraders should focus on managing risk given the current consolidation phase. For short-term trades, look for opportunities near key support levels, particularly around $75,000. However, avoid chasing the market in the absence of a clear trend. A decisive move past $75,900 may offer a stronger buying signal, while a break below $74,989 would suggest caution, with a potential shift toward bearish momentum."
+    }
+  }
+}
