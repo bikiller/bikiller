@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-21T19:49:40.682Z",
+  "price": {
+    "close": "2295.52",
+    "high": "2330.99",
+    "low": "2287.05",
+    "open": "2312.58",
+    "change": "-0.74",
+    "datetime": "2026-04-21 19:00:00"
+  },
+  "indicators": {
+    "rsi": 41.75149,
+    "macd": -2.21884,
+    "macd_signal": -0.077769371,
+    "sma20": 2313.5715
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期偏弱震荡整理",
+      "content": "当前ETH/USD价格位于2295.52美元，较日内高点2330.99和低点2287.05呈现小幅回落，短期走势偏弱。价格低于SMA(20)2313.57，显示近期均线承压，空头力量略占上风，短线可能在支撑区附近维持整理。  \n\nMACD为-2.21884，处于零轴下方，虽然缺少Signal线数据，但负值暗示下行动能仍在，趋势偏向弱势。RSI数据缺失，但结合价格与均线关系，短期买盘活跃度不足，市场谨慎情绪明显。  \n\n支撑位方面，2287美元为近期低点支撑，若跌破可能加速回落至2270美元附近；阻力位在2313-2330美元区间，突破将带来短期反弹机会。投资者应关注关键价位的突破与承压表现。  \n\n交易策略上，短线可考虑逢高减仓或观望为主，控制仓位以降低风险。中期投资者应等待价格稳定站上SMA20或MACD出现金叉信号再加仓，同时设立止损于日内低点下方以防快速下跌。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading near $2295, showing a slight bearish bias after a modest pullback from its intraday high of $2330.99. Price action suggests short-term consolidation, as the daily low at $2287 indicates buying interest near this zone. The 20-period simple moving average at $2313 is currently above the market, hinting at resistance that may limit upward momentum unless buyers regain control. Overall, the trend appears mildly negative but not decisively bearish.  \n\nMomentum indicators add nuance to the picture. The MACD reading of -2.21884 signals that bearish pressure is present, though the absence of a signal line limits precision. Traders should be cautious, as the negative MACD implies that sellers have the upper hand in the near term. While the RSI is unavailable, the price hovering below the SMA suggests that short-term sentiment is under mild pressure, favoring sellers at current levels. Watching for divergence or a MACD crossover could help identify a potential shift.  \n\nKey support levels to monitor include the intraday low at $2287 and a more robust zone around $2270, where buyers have historically defended dips. On the upside, resistance near $2314 aligns with the 20-day SMA, with stronger obstacles around $2330–$2340, representing recent swing highs. Breaks above these levels could open space toward $2360, whereas a breakdown below $2270 might accelerate bearish momentum, potentially targeting $2240–$2250.  \n\nTrading strategies should emphasize risk management given the mild bearish trend. Short-term traders might consider waiting for a clear break above the $2314 SMA to enter long positions, using $2287 as a stop-loss buffer. Conversely, conservative sellers may target $2287–$2270 for entries, keeping protective stops just above $2314. Overall, a cautious approach with attention to confirmation signals, trend shifts, and key support/resistance zones is prudent for navigating current ETH/USD volatility."
+    }
+  }
+}
