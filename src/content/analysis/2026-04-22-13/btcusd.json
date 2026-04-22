@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-22T13:18:22.366Z",
+  "price": {
+    "close": "78450.14",
+    "high": "78474.1",
+    "low": "78183.05",
+    "open": "78262.9",
+    "change": "0.24",
+    "datetime": "2026-04-22 13:00:00"
+  },
+  "indicators": {
+    "rsi": 74.52572,
+    "macd": 646.36008,
+    "macd_signal": 549.88089,
+    "sma20": 77131.4155
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏强整理",
+      "content": "趋势判断：BTC维持在高位震荡结构，价格持续运行于SMA20上方，整体趋势仍偏多，但短线动能略显放缓，进入整理阶段运行中。\n\n指标解读：MACD数值646为明显多头信号，显示上涨动能仍在，但未给出信号线，RSI缺失使超买超卖判断有限略。\n\n支撑阻力：下方关键支撑位于77131及76500附近，上方阻力关注78500与78800区间，突破后或测试80000整数关口。\n\n交易建议：短线可依托SMA20附近逢低分批布局多单，若跌破77100则需谨慎，反弹受阻时可考虑高位减仓控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 78450.14\\n- 24h Change: 0.24%\\n- High/Low: 78474.1 / 78183.05\\n- RSI(14): N/A\\n- MACD: 646.36008, Signal: N/A\\n- SMA(20): 77131.41550\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is currently trading in a tight consolidation phase near recent highs, with price action hovering just under short-term resistance. The structure remains broadly bullish as higher lows continue to form, suggesting accumulation rather than distribution. Momentum is stabilizing after a mild push upward, and the market is effectively balancing between breakout continuation and short-term exhaustion. As long as price holds above prior consolidation zones, the broader uptrend remains intact with controlled volatility.\n\nFrom a trend perspective, Bitcoin continues to respect a medium-term bullish structure supported by its position above the SMA(20) at 77,131. The 24-hour change is minimal at +0.24%, indicating equilibrium between buyers and sellers. However, price trading close to recent highs suggests compression, which often precedes directional expansion. The MACD reading at 646.36 reinforces underlying bullish momentum, though the absence of a signal line limits confirmation strength.\n\nIndicator signals point to constructive but cautious momentum. The MACD remains positive, implying upside pressure is still present, but weakening follow-through could indicate slowing momentum. Without RSI, overbought conditions cannot be precisely assessed, yet price behavior near the upper range suggests partial exhaustion risk. The SMA(20) acting below current price now serves as dynamic support, making it a key reference for trend continuation or breakdown scenarios.\n\nKey support is located near 77,100–77,200, aligned with the SMA(20) and recent intraday lows, while stronger structural support sits around 75,500–76,000 based on prior consolidation zones. Immediate resistance is observed at 78,500–78,700, with a breakout above this region opening potential continuation toward new short-term highs. A prudent trading approach favors buying dips toward support with tight risk control, while breakout trades above resistance should be confirmed with volume expansion."
+    }
+  }
+}
