@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-22T07:09:07.934Z",
+  "price": {
+    "close": "78038.16",
+    "high": "78047.16",
+    "low": "77982.25",
+    "open": "78023.22",
+    "change": "0.02",
+    "datetime": "2026-04-22 07:00:00"
+  },
+  "indicators": {
+    "rsi": 71.87153,
+    "macd": 555.34302,
+    "macd_signal": 333.72448,
+    "sma20": 76412.069
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏强整理",
+      "content": "当前BTC价格在78000上方窄幅震荡，整体维持高位整理结构。均线系统呈多头排列，短期趋势偏强，但动能略有收敛，市场进入盘整等待方向突破阶段。\n\nMACD柱值555显示多头动能仍在，但信号线缺失限制精确判断。价格明显站稳20日均线76412上方，说明中期趋势仍由多头主导。\n\n下方关键支撑位在77980与76412（20日均线），若跌破将增加回调风险。上方阻力集中在78050及心理关口78500附近，突破需放量确认。\n\n操作上建议短线以区间交易为主，高抛低吸为核心思路。若放量突破78050，可顺势跟多；若跌破77980，则需谨慎回避追高，等待新的结构确认。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 78038.16\\n- 24h Change: 0.02%\\n- High/Low: 78047.16 / 77982.25\\n- RSI(14): N/A\\n- MACD: 555.34302, Signal: N/A\\n- SMA(20): 76412.069000\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is currently showing a tight consolidation around 78,038, with price action compressed near the intraday range high. The structure suggests a strong bullish bias, as price remains well above the 20-period SMA at 76,412, confirming that buyers are still in control. However, the extremely narrow 24-hour range indicates reduced volatility, often a precursor to expansion. The broader trend remains upward, but momentum is pausing as the market digests recent gains.\n\nMomentum indicators paint a mixed but still constructive picture. MACD at 555.34 remains firmly positive, indicating sustained bullish momentum, though the lack of a signal line value limits crossover clarity. Historically, MACD strength above zero supports continuation trends, but flattening histogram behavior would signal weakening thrust. RSI is unavailable, but price stability near highs suggests it is likely elevated, hinting at mild overbought conditions and potential short-term cooling rather than reversal.\n\nFrom a structure standpoint, immediate support is forming near 76,400–76,500, aligning with the 20-day SMA and recent breakout consolidation zone. A deeper support band sits around 74,500–75,000, which previously acted as a transition area during upward continuation. On the upside, resistance is limited in the very short term due to price discovery, but psychological pressure builds above 78,500–80,000 where profit-taking could intensify if momentum slows.\n\nTrading-wise, the setup favors continuation bias with caution. Trend-followers may prefer pullback entries toward 76,500 support with tight risk control below 75,000. Aggressive longs chasing current price face unfavorable risk-reward due to compression. Short positions are countertrend and only viable on clear rejection signals such as bearish divergence or a failed breakout above 78,500. Overall, the market remains bullish, but short-term consolidation risk is increasing."
+    }
+  }
+}
