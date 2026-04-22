@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-04-22T15:58:02.499Z",
+  "price": {
+    "close": "88.5",
+    "high": "88.84",
+    "low": "88.07",
+    "open": "88.79",
+    "change": "-0.32",
+    "datetime": "2026-04-22 15:00:00"
+  },
+  "indicators": {
+    "rsi": 63.072614,
+    "macd": 0.77300257,
+    "macd_signal": 0.69410247,
+    "sma20": 87.4385
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 88.5\\n- 24小时变化: -0.32%\\n- 高点/低点: 88.84 / 88.07\\n- RSI(14): N/A\\n- MACD: 0.77300257, Signal: N/A\\n- SMA(20): 87.43850\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡蓄势偏多整理\n\n当前SOL处于高位横盘整理结构，价格88.5略高于SMA20（87.44），显示均线支撑有效但上涨动能有限。整体趋势为震荡偏多，市场在88附近反复试探阻力，未出现明确突破，短期进入整理阶段。\n\n技术指标方面，MACD为0.77且维持正值，说明多头动能仍在延续，但信号线缺失意味着趋势确认度不强。RSI未提供，但结合价格窄幅波动判断，动量处于中性偏强区间，尚未进入超买区，仍有上行空间。\n\n支撑位关注87.4与87.0区域，该位置对应SMA20与近期低点密集区；上方阻力集中在88.8至89.5区间，为前高与短线压力带。若突破该区域，有望打开向91一带延伸空间，否则仍以区间震荡为主。\n\n交易策略上建议保持区间思路，未有效突破89前以高抛低吸为主。激进者可在87.5附近轻仓试多，止损设于87下方；突破88.8并站稳后再考虑顺势加仓，整体节奏偏短线交易与波段结合。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 88.5\\n- 24h Change: -0.32%\\n- High/Low: 88.84 / 88.07\\n- RSI(14): N/A\\n- MACD: 0.77300257, Signal: N/A\\n- SMA(20): 87.43850\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nPrice action is showing a tight consolidation after a minor intraday drift, with SOL/USD holding just under recent local highs. The structure remains slightly constructive, as price is still trading above the 20-period SMA at 87.44, which now acts as a dynamic short-term support zone. However, the flat 24h change and compressed high–low range suggest reduced momentum and a market waiting for a breakout trigger rather than a strong directional trend.\n\nFrom a momentum perspective, RSI is not provided, but MACD is positive at 0.773, indicating residual bullish momentum still present beneath the surface. That said, the lack of a signal line reading limits confirmation strength. In similar conditions, price often drifts sideways unless MACD expands or aligns with rising volume. The key takeaway is that momentum is positive but weakening, not accelerating, which fits a consolidation phase.\n\nSupport is clearly defined around the SMA20 region near 87.44, with stronger structural support emerging slightly lower around 85–86 based on recent pivot zones and liquidity clusters. Resistance is tight near 88.8–89.0, which aligns closely with the current session high and repeated rejection zone. A clean break above this area would open room toward 90.5–92, while failure to break likely keeps price range-bound.\n\nTrading-wise, this is a low-edge breakout environment. A conservative approach favors waiting for confirmation above 89 with volume expansion before considering longs. Alternatively, mean-reversion entries near 87–87.3 with tight risk control can work if price continues oscillating within the range. A breakdown below 85.8 would weaken structure and shift bias toward a deeper retracement toward mid-83s."
+    }
+  }
+}
