@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-04-22T16:57:13.746Z",
+  "price": {
+    "close": "87.62",
+    "high": "88.5",
+    "low": "87.57",
+    "open": "88.22",
+    "change": "-0.68",
+    "datetime": "2026-04-22 16:00:00"
+  },
+  "indicators": {
+    "rsi": 52.98243,
+    "macd": 0.66109408,
+    "macd_signal": 0.68507572,
+    "sma20": 87.539
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：[短期震荡，缺乏明确趋势]",
+      "content": "目前，Solana/美元（SOL/USD）的价格在87.62附近，显示出一定的短期震荡走势。从24小时变化来看，价格略微下跌0.68%，表明市场情绪较为平稳，缺乏强烈的上涨或下跌动力。当前价格与日内高点88.5接近，低点则在87.57附近，这些价位可以作为短期波动的参考区间。\n\n技术指标方面，RSI(14)暂无数据，这让我们无法对市场的超买或超卖状态进行判断。不过，当前的MACD值为0.6611，表明市场依然有一定的买盘力量，但Signal线的缺失让该指标的有效性降低。SMA(20)在87.54附近，表明短期内价格在此水平附近有一定的支撑。\n\n支撑位方面，87.5和87.0是关键的支撑区域，一旦价格跌破这些水平，可能会进一步回调。阻力位在88.5和89.0附近，这些水平需要关注是否能突破。若突破88.5，则可能会继续向上挑战90美元大关。\n\n交易建议方面，当前市场处于震荡期，建议保持谨慎操作，避免追高。可以考虑在87.5附近寻找买入机会，若价格突破88.5可适时跟进多单。止损可设在87.0附近，控制风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 87.62\\n- 24h Change: -0.68%\\n- High/Low: 88.5 / 87.57\\n- RSI(14): N/A\\n- MACD: 0.66109408, Signal: N/A\\n- SMA(20): 87.53900\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s recent price action around **$87.62** shows a market in **mild consolidation** after a modest pullback. The narrow high/low range of **88.50 to 87.57** suggests buyers and sellers are in a short-term equilibrium, with neither side asserting clear control. Given the lack of dramatic swings, the near-term trend can still be considered **slightly bullish-to-neutral**, especially if prices manage to hold above the **20‑period simple moving average (SMA) at 87.539**.\n\nAlthough we don’t have a current RSI reading, the **MACD’s positive histogram value (~0.66)** hints that upward momentum isn’t fully fading. Without a signal line value to confirm a cross, we should interpret this as **momentum lingering on the bullish side**, but with growing caution. Traders ought to watch for a confirmed MACD crossover above its signal line for a cleaner bullish signal, or a downturn below zero for increased bearish conviction. Momentum stagnation could foreshadow a deeper pullback if confirmed.\n\nKey intraday **support sits near the SMA at ~87.50**, and slightly below around **$85.00**, which acted as a swing low in recent sessions. On the upside, **resistance around $89.50–$90.00** remains pivotal; a sustained break above this zone could attract fresh buyers and open the path toward **$92–$95**. Failure to reclaim $89.50 convincingly might trap the price in a range, inviting short-term sellers to probe support.\n\nFrom a trading perspective, conservative participants might favor **range‑bound strategies**, buying near support and trimming near established resistance, while employing tight stops beneath the $85 level. More aggressive traders could assess breakout entries above $90 with volume confirmation. Always calibrate position sizing to risk tolerance, given lingering uncertainty in trend strength and momentum signals."
+    }
+  }
+}
