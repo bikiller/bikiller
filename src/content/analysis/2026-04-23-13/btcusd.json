@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-23T13:18:58.648Z",
+  "price": {
+    "close": "77746.12",
+    "high": "77946.39",
+    "low": "77668.78",
+    "open": "77897.23",
+    "change": "-0.19",
+    "datetime": "2026-04-23 13:00:00"
+  },
+  "indicators": {
+    "rsi": 46.70507,
+    "macd": -39.078107,
+    "macd_signal": 69.94407,
+    "sma20": 78164.1165
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏弱整理",
+      "content": "当前BTC/USD维持高位窄幅震荡格局，价格略低于20日均线78164附近运行，短线动能偏弱，市场进入整理阶段，整体趋势偏震荡运行。\n\nMACD持续位于零轴下方且为负值-39.07，显示空头动能占优，均线压制明显，短期反弹力度有限。多头缺乏持续性支撑整体偏弱运行。需关注反弹确认。\n\n下方支撑关注77668一线，若跌破或进一步回踩前低；上方阻力在77950及20日均线78160附近，突破才转强。\n\n操作建议以观望为主，未突破78160前谨慎追多，可在77668附近短线低吸，严格控制止损并等待方向确认注意仓位管理。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 77746.12\\n- 24h Change: -0.19%\\n- High/Low: 77946.39 / 77668.78\\n- RSI(14): N/A\\n- MACD: -39.078107, Signal: N/A\\n- SMA(20): 78164.1165\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is currently trading around $77.7K, showing a mild intraday pullback and clear signs of short-term consolidation after failing to hold momentum above recent highs. Price action remains compressed near the upper $77K region, suggesting indecision between buyers and sellers. The broader structure still leans mildly bullish, but upside momentum is slowing as BTC struggles to extend beyond the $78K–$79K supply zone.\n\nFrom a trend perspective, Bitcoin is still holding a medium-term recovery structure, but it is running into resistance near its short-term moving average cluster. Price is currently below the 20-period SMA at $78,164, which is acting as dynamic resistance and capping upside attempts. MACD remains negative at -39, signaling weakening bullish momentum and potential continuation of sideways-to-down drift unless a fresh catalyst emerges.\n\nSupport is forming in the $76.6K–$77K range, which aligns with the current consolidation floor and recent intraday lows. A break below this area could expose deeper support near $75K, a psychologically important level that has previously acted as both resistance and breakout confirmation. On the upside, immediate resistance sits at $78.2K (20 SMA), followed by $79.5K, where stronger selling pressure has been observed recently.\n\nTrading-wise, this environment favors range strategies over breakout chasing. Long setups are more attractive near $76.5K–$77K with tight risk control below $76K, targeting a retest of $78.2K and $79.5K. Shorts become more relevant if price rejects strongly from the 20 SMA or loses $76.6K support, opening room toward $75K. Overall bias remains neutral with slight bearish pressure unless BTC reclaims $78.5K with momentum."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-04-23T13:25:21.512Z",
+  "price": {
+    "close": "9.2773",
+    "high": "9.3023",
+    "low": "9.2721",
+    "open": "9.2901",
+    "change": "-0.15",
+    "datetime": "2026-04-23 13:00:00"
+  },
+  "indicators": {
+    "rsi": 41.70248,
+    "macd": -0.050761721,
+    "macd_signal": -0.047328922,
+    "sma20": 9.33615
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 9.2773\\n- 24小时变化: -0.15%\\n- 高点/低点: 9.3023 / 9.2721\\n- RSI(14): N/A\\n- MACD: -0.050761721, Signal: N/A\\n- SMA(20): 9.33615\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短期震荡偏弱的整理格局\n\n当前AVAX价格围绕9.27附近窄幅震荡，整体呈现高位回调后的整理结构。价格略低于20日均线9.336，说明短期多头动能不足，但尚未跌破关键支撑，市场仍处于多空拉锯阶段，趋势偏中性略弱。\n\n技术指标方面，MACD为负值且处于零轴下方，显示空头动能仍占主导，但下行动能有所放缓。RSI未提供，但结合价格贴近低位区间判断，情绪偏谨慎。均线系统短期向下压制明显，反弹需放量确认。\n\n支撑位关注9.27与9.20一带，为近期密集成交区；若失守，下方可能回测9.00整数关口。阻力位在9.33及9.45附近，尤其20日均线构成第一压力带，突破才有望改善短期结构。\n\n交易策略上建议以区间思路为主，未有效突破9.33前偏向高抛低吸。若跌破9.20应谨慎回避多单；若放量站稳9.35上方，则可视为短线转强信号，尝试跟随反弹行情。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "Avalanche (AVAX) is currently trading at 9.2773, reflecting a slight decline of 0.15% over the past 24 hours. This minor price movement suggests a period of consolidation following recent volatility. The high and low of the day, at 9.3023 and 9.2721 respectively, indicate that the asset is experiencing tight trading ranges. A closer analysis of this trend reveals a potential bearish sentiment, particularly if the price fails to reclaim the SMA(20) at 9.33615, which may serve as a resistance level.\n\nThe current MACD value of -0.050761721 indicates a bearish momentum, signaling that sellers are gaining control in the short term. Without a corresponding signal line to provide additional context, caution is advised for traders looking to enter the market. The absence of an RSI reading limits our ability to gauge overbought or oversold conditions, making it essential to monitor any upcoming price action closely for potential reversals or continuations of the current trend.\n\nSupport for AVAX is found at the recent low of 9.2721, which could act as a critical floor for price action. A breakdown below this level may trigger further selling pressure, possibly leading to a test of lower support levels. Conversely, if the price breaks above the SMA(20), traders could look for opportunities to enter long positions, especially if accompanied by increased trading volume that confirms a shift in momentum.\n\nIn terms of trading strategies, a cautious approach is warranted. For short-term traders, a sell signal could be triggered if the price falls below 9.2721, while potential buyers may consider entering positions if AVAX can surpass the SMA(20). Given the current market dynamics, it is essential to remain vigilant for any changes in momentum indicators and prepare to adjust strategies accordingly."
+    }
+  }
+}
