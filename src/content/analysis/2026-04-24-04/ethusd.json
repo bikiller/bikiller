@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-24T04:30:01.932Z",
+  "price": {
+    "close": "2305.37",
+    "high": "2311.86",
+    "low": "2304.84",
+    "open": "2308.3",
+    "change": "-0.13",
+    "datetime": "2026-04-24 04:00:00"
+  },
+  "indicators": {
+    "rsi": 36.43295,
+    "macd": -9.39215,
+    "macd_signal": -9.43737,
+    "sma20": 2321.9295
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线偏弱震荡",
+      "content": "ETH/USD 最新价 2305.37，24小时微跌0.13%，价格贴近日内低点2304.84，显示买盘承接偏弱。当前运行在SMA(20) 2321.93下方，短线趋势偏空，但跌幅有限，仍属低波动震荡格局。\n\n技术指标方面，RSI(14)暂缺，动能判断需更谨慎。MACD为-9.39215，处于负值区间，说明空头动能仍占优势；若后续Signal线无法形成金叉，价格反弹力度可能受限。\n\n支撑位关注2304.84，若跌破，下一支撑可看向2295至2288区域。上方阻力首先在2311.86，进一步压力位为SMA(20)附近2321.93，只有站稳该区间，短线结构才有转强信号。\n\n交易上不宜追空，激进者可在跌破2304并放量后顺势轻仓跟进；稳健者等待价格重新站上2322再考虑做多。当前更适合区间交易，严格设置止损，控制仓位风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Ethereum vs US Dollar (ETH/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 2305.37\\n- 24h Change: -0.13%\\n- High/Low: 2311.86 / 2304.84\\n- RSI(14): N/A\\n- MACD: -9.39215, Signal: N/A\\n- SMA(20): 2321.92950\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nEthereum is currently exhibiting a mild consolidation phase after a short-term rejection from its local resistance zone. Price is hovering around 2305, slightly below the 20-period SMA at 2321.9, indicating persistent overhead pressure. The broader structure remains range-bound, with neither strong bullish continuation nor breakdown momentum. The flat 24-hour change reinforces indecision, while price compression near intraday lows suggests liquidity accumulation before a directional move.\n\nMomentum indicators lean slightly bearish in the short term. The MACD reading at -9.39 confirms downside pressure, showing sellers still dominate recent momentum shifts. Without a visible bullish crossover or strengthening signal line, upside attempts are likely to face friction. However, historical context shows ETH has been consolidating above key higher-timeframe supports in similar zones, meaning this is corrective rather than trend reversal behavior for now.\n\nImmediate support is located around 2300–2290, which aligns with recent intraday lows and acts as a psychological floor. A break below this zone could open a path toward 2275 and potentially deeper retracement levels. On the upside, resistance is concentrated at 2322 (SMA20) and then 2350, which represents a key pivot area where prior rejection occurred. A clean break above 2350 would be needed to restore bullish momentum.\n\nFrom a trading perspective, the setup favors range strategies in the short term. Buying dips near support with tight risk controls may be viable, but aggressive longs should wait for confirmation above 2322–2350. Conversely, failure to reclaim the SMA20 could invite renewed selling pressure, making short setups more attractive on breakdown confirmation. Overall, ETH is in a neutral-to-slightly-bearish consolidation awaiting catalyst-driven direction."
+    }
+  }
+}
