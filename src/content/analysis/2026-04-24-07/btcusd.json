@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-24T07:14:30.482Z",
+  "price": {
+    "close": "77829.21",
+    "high": "77882.44",
+    "low": "77790.01",
+    "open": "77813.11",
+    "change": "0.02",
+    "datetime": "2026-04-24 07:00:00"
+  },
+  "indicators": {
+    "rsi": 47.06994,
+    "macd": -23.44385,
+    "macd_signal": 10.70694,
+    "sma20": 77993.989
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，谨慎观望]",
+      "content": "当前比特币/美元（BTC/USD）价格为77829.21，近期价格波动极小，24小时变化仅0.02%。从技术面来看，市场正处于震荡整理阶段，未能突破近期高点77882.44，且低点也未跌破77790.01，显示出市场缺乏明确的方向。\n\n在技术指标方面，MACD目前为负值（-23.44385），表明短期内卖压较重，且RSI（相对强弱指数）尚未提供数据，无法进行进一步分析。短期移动平均线（SMA20）位于77993.989，价格持续在其下方，表明卖方仍占优势，短期内反弹的可能性较小。\n\n支撑位方面，关键支撑位在77790.01，如果价格跌破此水平，可能会加速下行趋势，进一步测试77400的支撑。而阻力位则在77882.44，一旦突破，将为上涨打开空间。建议投资者在未出现明确趋势前保持观望，谨慎入场，避免不必要的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $77,829.21, reflecting a modest 24-hour change of 0.02%. This stability indicates a consolidation phase after the recent volatility in the cryptocurrency market. Observing the recent high of $77,882.44 and low of $77,790.01, it is evident that Bitcoin is trading within a narrow range. This tight trading band suggests a potential buildup of momentum, indicating that a significant price movement could occur in the near future.\n\nFrom a technical perspective, the absence of an RSI value complicates momentum analysis, but the MACD reading of -23.44385 suggests bearish momentum. However, it's essential to consider the broader context and potential for a bullish reversal if buying pressure increases. The Simple Moving Average (SMA) at $77,993.99 serves as a key resistance level, and if Bitcoin can break above this moving average, it may indicate a shift in market sentiment and an opportunity for upward movement.\n\nSupport levels appear to be forming near the recent low of $77,790.01, which may act as a cushion against further declines. Traders should watch this level closely, as a breakdown below could signal increased selling pressure. Conversely, if Bitcoin can maintain its position above this support and rally past the SMA, it could invite bullish traders looking to capitalize on a potential breakout. \n\nFor trading strategies, a cautious approach is advisable. Traders might consider entering long positions if Bitcoin surpasses the SMA, with a target near the recent highs. Alternatively, a stop-loss order below the support level could mitigate risks associated with a downside move. Staying alert to market sentiment and any external factors influencing Bitcoin's price will be crucial in making informed trading decisions."
+    }
+  }
+}
