@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-24T10:48:49.173Z",
+  "price": {
+    "close": "2314.59",
+    "high": "2316.45",
+    "low": "2305.71",
+    "open": "2309.46",
+    "change": "0.22",
+    "datetime": "2026-04-24 10:00:00"
+  },
+  "indicators": {
+    "rsi": 44.088643,
+    "macd": -8.14449,
+    "macd_signal": -8.90221,
+    "sma20": 2318.6335
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线震荡偏弱",
+      "content": "ETH/USD最新价2314.59，24小时微涨0.22%，但仍低于SMA(20)的2318.6335，说明短线反弹力度有限，价格处于均线压制下方，趋势偏震荡整理。\n\nMACD为-8.14449，显示动能仍偏空，虽然跌幅不大，但多头尚未形成有效放量。RSI缺失，需结合价格是否重新站上短期均线判断强弱切换。\n\n短线支撑关注2305.71，若跌破可能下探2295附近；阻力位看2316.45及2318.63，若有效突破并站稳，才有望打开反弹空间。\n\n交易上建议保持谨慎，激进者可在支撑附近轻仓试多，跌破2305止损；稳健者等待突破2320后再跟进，避免在窄幅震荡中追涨杀跌。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is trading in a very tight intraday range, with price at 2314.59 and only a 0.22% 24-hour gain. The market is slightly below the SMA(20) at 2318.63, suggesting near-term momentum remains mildly capped. Bulls need a clean move above 2318–2320 to shift the short-term bias positive.\n\nThe MACD reading of -8.14449 points to bearish momentum still present, though the narrow high-low range suggests selling pressure is not aggressive. RSI is unavailable, so confirmation from momentum is limited. A flat-to-slightly-bearish structure is more likely unless buyers reclaim the moving average with volume.\n\nImmediate resistance sits near 2316.45, followed by 2318.63 and 2320. Support is near 2305.71; a break below that level could expose 2300 and potentially lower liquidity zones. Traders may consider cautious longs only above 2320, while shorts remain more attractive on rejection near resistance or a break below 2305."
+    }
+  }
+}
