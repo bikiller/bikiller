@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-24T14:51:18.548Z",
+  "price": {
+    "close": "77928.98",
+    "high": "78107.84",
+    "low": "77700.01",
+    "open": "78107.84",
+    "change": "-0.23",
+    "datetime": "2026-04-24 14:00:00"
+  },
+  "indicators": {
+    "rsi": 49.76443,
+    "macd": 8.096262,
+    "macd_signal": -10.93634,
+    "sma20": 77988.755
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：窄幅震荡偏弱",
+      "content": "当前BTC/美元处于高位横盘后的窄幅震荡结构，短线动能略有衰减，多空在78000附近反复争夺，整体趋势偏震荡略弱，缺乏明确突破方向\n\n均线方面，价格略低于20日均线77988，显示短期承压。MACD虽维持正值8.09但信号线缺失，动能不足。RSI缺失但从走势看中性偏弱\n\n支撑位关注77700附近前低区域，若跌破可能测试77500。阻力位在78100及上方78200一带，突破需放量确认信号加强\n\n短线建议以区间交易为主，在77700-78100之间高抛低吸，避免追涨杀跌。若有效突破78100可顺势做多，否则维持观望等待确认"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 77928.98\\n- 24h Change: -0.23%\\n- High/Low: 78107.84 / 77700.01\\n- RSI(14): N/A\\n- MACD: 8.096262, Signal: N/A\\n- SMA(20): 77988.75500\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is currently consolidating just below a short-term equilibrium zone, with price trading slightly under the 20-day SMA at $77,988. The structure remains broadly constructive, as price continues to hold above recent intraday lows near $77,700, suggesting buyers are still defending dips. However, the slight negative daily change and tight range reflect indecision rather than strong directional conviction.\n\nFrom a trend perspective, BTC is still in a medium-term bullish recovery phase, but momentum has cooled. Price action shows compression near recent highs, which often precedes either continuation or rejection. The lack of strong follow-through above $78,100 indicates weakening upward impulse. Still, higher-timeframe structure remains intact as long as price holds above the $76,800–$77,000 demand area.\n\nIndicator-wise, the MACD reading of 8.09 remains mildly positive, suggesting bullish momentum is not fully exhausted, but it is flattening. With RSI unavailable, price behavior relative to moving averages becomes more important, and the current positioning slightly below the SMA(20) hints at short-term equilibrium shifting toward neutrality. This is consistent with early-stage consolidation after a recent push higher.\n\nKey resistance sits at $78,100–$78,600, where repeated rejections have occurred intraday. A clean breakout above this zone would likely open a path toward $79,500 and potentially $80,000 psychological resistance. On the downside, immediate support lies at $77,000, followed by a stronger structural base around $76,200–$75,800, which aligns with prior consolidation zones. A break below this would shift bias to short-term bearish correction.\n\nTrading-wise, the market favors a range strategy until a breakout confirms direction. Long positions are better considered on pullbacks toward support with tight risk control below $77,000, while breakout traders may wait for sustained closes above $78,600 for momentum continuation. Overall bias remains cautiously bullish, but with low volatility suggesting patience over aggression."
+    }
+  }
+}
