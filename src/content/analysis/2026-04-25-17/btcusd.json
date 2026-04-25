@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-25T17:59:12.146Z",
+  "price": {
+    "close": "77260.37",
+    "high": "77439.98",
+    "low": "77234.99",
+    "open": "77427.68",
+    "change": "-0.22",
+    "datetime": "2026-04-25 17:00:00"
+  },
+  "indicators": {
+    "rsi": 38.087179,
+    "macd": -89.22677,
+    "macd_signal": -65.73472,
+    "sma20": 77568.293
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前比特币价格位于77260.37美元附近，较日内高点77439.98略低，显示市场短期多头力量有限。价格低于20日均线SMA(20)=77568.29美元，说明中短期均线压力明显，存在一定回调风险，但跌幅不大，市场整体仍偏震荡。  \n\nMACD指标为-89.23，显示空方动能略占上风，但缺乏信号线数据，短期趋势不宜过度解读。结合价格接近日内低点77234.99，表明多空双方在此价位附近交投谨慎，市场波动相对收敛。若MACD进一步下行，可能加速小幅下探，但大幅下跌空间有限。  \n\n技术面支撑位主要关注77200附近，如果跌破可能测试77000美元心理关口；阻力位在77550-77600美元区间，突破需较强买盘介入。交易者可关注支撑附近的低吸机会，同时在阻力位附近考虑减仓或观望，避免追高操作。  \n\n综合来看，短期市场偏震荡偏弱，建议保持谨慎，结合均线与关键支撑位进行分批操作。中线投资者可等待明确突破信号再加仓，短线交易者则可利用区间高低点做波段策略，控制风险为主。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s current market position suggests it’s trading in a narrow range between $77,439.98 and $77,234.99, with slight downward pressure reflected by a small 24-hour change of -0.22%. The recent price of $77,260.37 indicates a consolidation phase, where buyers and sellers are in equilibrium. Without clear directional momentum, this range-bound market might continue unless external catalysts emerge. The market seems to be hesitating before making a significant move.\n\nThe absence of a clear RSI and MACD readings complicates a precise evaluation of short-term momentum. The MACD is negative at -89.22677, suggesting potential bearishness, but without the Signal line, it is difficult to confirm a reversal or a continued downtrend. Similarly, the lack of an RSI figure leaves technical traders without a momentum indicator to gauge overbought or oversold conditions. This leaves price action as the most reliable indicator for now.\n\nIn terms of support and resistance, the key levels to watch are around $77,439.98 as resistance and $77,234.99 as support. A break above $77,439.98 could lead to a test of higher resistance near $78,000, while a dip below $77,234.99 would suggest a move toward lower support levels, potentially near $76,500. These levels are critical in the short term for confirming a breakout or breakdown scenario.\n\nConsidering the current market data and lack of strong momentum indicators, trading could be better suited for a range-bound strategy. If the price breaks out of its current boundaries, it could present a clearer opportunity for trend-following trades. However, in the absence of a definitive signal, waiting for a stronger confirmation of direction may reduce risk for more conservative traders."
+    }
+  }
+}
