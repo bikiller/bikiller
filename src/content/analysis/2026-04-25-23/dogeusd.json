@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-04-25T23:26:32.262Z",
+  "price": {
+    "close": "0.09798",
+    "high": "0.09807",
+    "low": "0.09793",
+    "open": "0.09806",
+    "change": "-0.05",
+    "datetime": "2026-04-25 23:00:00"
+  },
+  "indicators": {
+    "rsi": 47.71098,
+    "macd": -0.000052837796,
+    "macd_signal": -0.0000080473455,
+    "sma20": 0.0981735
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 狗狗币/美元(DOGE/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.09798\\n- 24小时变化: -0.05%\\n- 高点/低点: 0.09807 / 0.09793\\n- RSI(14): N/A\\n- MACD: -0.000052837796, Signal: N/A\\n- SMA(20): 0.0981735\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"狗狗币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "狗狗币/美元技术分析：震荡偏弱下的短期整理结构\n\n当前DOGE价格围绕0.098附近窄幅波动，整体走势呈现弱势震荡格局。价格略低于20日均线0.09817，说明短期仍受压制，多头动能不足，但下跌空间同样有限，市场处于典型的方向选择前整理阶段。\n\n技术指标方面，MACD为轻微负值，显示空头动能占优但并不强烈，属于弱势下行动量。结合均线压制结构来看，短周期趋势偏空，但未形成明显加速下跌，更多体现为动能衰减后的横盘修复结构。\n\n支撑位方面，0.0979一线为当前即时低点区域，若跌破则可能回测0.0975甚至更低区间；阻力位集中在0.0982至0.0985区域，突破并站稳20日均线才有望打开反弹空间，短线压力依然明确。\n\n交易策略上建议保持区间思路，高抛低吸为主。激进者可在0.0979附近轻仓试多，止损设在0.0975下方；若反弹至0.0983上方遇阻，可考虑短线回落操作，整体以等待方向突破为主。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Dogecoin vs US Dollar (DOGE/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.09798\\n- 24h Change: -0.05%\\n- High/Low: 0.09807 / 0.09793\\n- RSI(14): N/A\\n- MACD: -0.000052837796, Signal: N/A\\n- SMA(20): 0.0981735\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nDogecoin is currently showing a very tight consolidation phase with price action hovering just under short-term equilibrium. The broader structure still leans slightly bearish as price remains below the 20-period simple moving average at $0.09817, indicating that recent upward momentum has not yet been strong enough to reclaim trend control. However, the extremely narrow 24-hour range suggests compression, often a precursor to an expansion move in either direction.\n\nMomentum indicators reinforce this neutral-to-bearish bias. MACD is slightly negative at -0.0000528, showing weak downside momentum without strong acceleration. The lack of RSI data limits precision, but price behavior relative to the SMA suggests midline weakness rather than oversold conditions. Historically, DOGE tends to remain choppy in such low-volatility MACD states before committing to a directional breakout.\n\nKey support is forming around $0.09790–$0.09785, which has acted as intraday demand. A breakdown below this zone opens the door toward $0.09750 and then $0.09680 as the next liquidity pockets. On the upside, immediate resistance sits at $0.09817 (SMA20), followed by $0.09860 and then $0.09920, where stronger selling pressure is likely to re-emerge based on prior reaction zones.\n\nFrom a trading perspective, this is a range-bound scalp environment rather than a trend-following setup. The most favorable approach is to wait for confirmation: a sustained break above $0.09860 would shift bias toward a short-term bullish continuation, while a rejection at SMA20 with volume expansion would favor downside rotation. Until then, mean-reversion trades between support and resistance remain the higher-probability strategy."
+    }
+  }
+}

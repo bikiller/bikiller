@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-25T23:22:15.014Z",
+  "price": {
+    "close": "77594.97",
+    "high": "77636.8",
+    "low": "77545.77",
+    "open": "77577.96",
+    "change": "0.02",
+    "datetime": "2026-04-25 23:00:00"
+  },
+  "indicators": {
+    "rsi": 50.51177,
+    "macd": -57.7261,
+    "macd_signal": -75.40352,
+    "sma20": 77552.9925
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：窄幅震荡整理偏中性",
+      "content": "当前BTC/USD处于极窄区间震荡格局，价格围绕77550-77640波动。短线动能不足但略站上20日均线，整体趋势偏中性略偏多，市场等待方向选择。\n\nMACD柱体仍为负值-57.7，说明空头动能尚未完全消退，但斜率收敛显示下行动能减弱。若后续翻红，可能触发短线反弹结构。\n\n下方支撑关注77545附近日内低点，一旦跌破或引发快速回踩。上方阻力在77636前高，突破则打开小级别上行空间至区间上沿。\n\n操作上建议观望为主，激进者可在区间下沿轻仓低多，上沿高空快进快出。严格设置止损，避免假突破导致的震荡洗盘风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading almost flat at 77,594.97, with the 24-hour change near zero, suggesting a short-term consolidation phase rather than strong directional momentum. Price is sitting slightly above the SMA(20) at 77,552.99, which gives a mild bullish bias, but the narrow high-low range shows that buyers and sellers are currently balanced.\n\nThe MACD reading of -57.72610 points to underlying bearish momentum, though the absence of a signal line limits confirmation. RSI data is unavailable, so overbought or oversold conditions cannot be assessed reliably. For now, the market looks neutral-to-slightly cautious, with price stability offset by weak momentum signals.\n\nImmediate support sits near 77,545.77, the recent low, followed by the SMA(20) around 77,552.99 as a dynamic support zone. Resistance is close at 77,636.80, the recent high. A clean move above that level could open room for a continuation attempt, while a break below support may invite short-term selling pressure.\n\nTraders may consider waiting for a decisive breakout before taking directional exposure. Above 77,636.80, momentum buyers could look for confirmation and tight risk controls. Below 77,545.77, short-term bears may gain an edge. In the current range-bound setup, disciplined entries, smaller position sizing, and clear stop-loss levels are especially important."
+    }
+  }
+}
