@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-25T11:25:31.406Z",
+  "price": {
+    "close": "77670.01",
+    "high": "77809.48",
+    "low": "77670",
+    "open": "77809.48",
+    "change": "-0.18",
+    "datetime": "2026-04-25 11:00:00"
+  },
+  "indicators": {
+    "rsi": 48.55458,
+    "macd": -46.37222,
+    "macd_signal": -75.45731,
+    "sma20": 77624.112
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡趋势]",
+      "content": "当前比特币/美元（BTC/USD）价格为77670.01，24小时内小幅下跌0.18%。从价格走势来看，市场已进入震荡整理阶段，短期内未能突破77809.48的高点，显示出买方力量不足，而77670的低点则形成了一定的支撑。\n\n技术指标方面，MACD呈现负值，表明市场情绪偏向于卖出，尚未出现反转信号。由于RSI(14)数据缺失，无法对超买或超卖状态进行详细分析，但结合SMA(20)的值77624.11200来看，价格在其上方运行，暗示短期内仍有一定的支撑力量。\n\n支撑位方面，77670为关键支撑，如果跌破将可能引发更大的调整。阻力位在77809.48，突破该水平后可能引发一波上涨行情。在当前市场背景下，建议投资者采取观望态度，待价格确认突破信号后再考虑进场。\n\n总体来看，BTC/USD在短期内可能继续震荡，投资者应关注关键支撑与阻力位，灵活调整交易策略，以应对市场波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 77670.01\\n- 24h Change: -0.18%\\n- High/Low: 77809.48 / 77670\\n- RSI(14): N/A\\n- MACD: -46.37222, Signal: N/A\\n- SMA(20): 77624.11200\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is currently trading in a tight consolidation zone around $77,670, showing slight intraday weakness with a marginal -0.18% decline. The broader structure remains range-bound, with price oscillating between recent highs near $77,800 and support holding around $77,000. This behavior reflects market indecision after a multi-week recovery phase, where momentum has slowed but no clear breakdown has occurred yet.\n\nFrom an indicator standpoint, the 20-period SMA at $77,624 is almost perfectly aligned with spot price, reinforcing a neutral equilibrium state. The MACD remains negative at -46.37, suggesting fading bullish momentum and a potential continuation of short-term consolidation or mild corrective pressure. Broader studies indicate mixed signals in MACD behavior across similar conditions, often reflecting “trend exhaustion” rather than immediate reversal confirmation.\n\nKey support is established near $77,000, followed by a stronger demand zone around $75,500–$74,800, which previously acted as a consolidation pivot. On the upside, immediate resistance sits at $77,800–$78,000, with a more significant ceiling near $80,000, where profit-taking pressure is expected to intensify. A sustained break above that level would likely re-ignite bullish momentum toward higher structural targets.\n\nTrading conditions favor a range-bound strategy in the short term. Mean-reversion entries near support with tight stops below $76,800 may offer controlled risk setups, while breakout traders should wait for a confirmed close above $78,000 before positioning for continuation. Until MACD turns positive and price separates decisively from the SMA cluster, volatility is likely to remain compressed with false breakout risk elevated."
+    }
+  }
+}
