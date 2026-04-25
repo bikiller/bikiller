@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-25T05:46:55.974Z",
+  "price": {
+    "close": "2316.17",
+    "high": "2316.96",
+    "low": "2313.52",
+    "open": "2316.96",
+    "change": "-0.03",
+    "datetime": "2026-04-25 05:00:00"
+  },
+  "indicators": {
+    "rsi": 46.70898,
+    "macd": -1.99163,
+    "macd_signal": -2.53657,
+    "sma20": 2318.665
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：窄幅震荡偏弱",
+      "content": "ETH/USD最新价2316.17，24小时几乎持平，但价格低于SMA20的2318.665，短线均线压制仍在，趋势偏震荡下行。\n\nMACD为-1.99163，显示空头动能尚未完全消退；RSI缺失，超买超卖判断不足，因此不宜过度追空。\n\n短线支撑看2313.52，跌破后可能测试2310附近；阻力位关注2316.96与2318.67，突破后才有修复空间。\n\n交易上宜等待方向确认。激进者可在阻力受压时轻仓试空，止损放在2320上方；稳健者等待突破或跌破后顺势跟进。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is trading almost flat at 2316.17, with the 24-hour change at -0.03%, showing very limited directional conviction. The narrow high-low range of 2316.96 to 2313.52 suggests a quiet, compressed market where traders are waiting for a catalyst. Price remains slightly below the SMA(20) at 2318.665, which gives the short-term structure a mild bearish tilt unless buyers reclaim that moving average.\n\nThe MACD reading of -1.99163 points to soft downside momentum, though the missing signal-line value limits confirmation. RSI is unavailable, so overbought or oversold conditions cannot be assessed directly. In this context, the most useful read is price behavior around the SMA(20): staying below it favors sellers, while a clean move above it would hint at short-term stabilization.\n\nImmediate support sits near 2313.50, the recent low, followed by a lower psychological zone around 2310.00. Resistance is close at 2317.00, then 2318.70 near the SMA(20), with 2320.00 as the next round-number barrier. Because the range is extremely tight, a breakout above resistance or breakdown below support may matter more than the current price itself.\n\nFor trading, conservative bulls may wait for ETH/USD to reclaim 2318.70 and hold above 2320.00 before considering longs. Short sellers may look for weakness below 2313.50, ideally with expanding volume or momentum confirmation. Given the low volatility and incomplete indicator data, position sizing should remain modest, with tight risk controls around the range boundaries."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-04-25T05:47:38.551Z",
+  "price": {
+    "close": "636.76",
+    "high": "637.72",
+    "low": "636.41",
+    "open": "637.72",
+    "change": "-0.15",
+    "datetime": "2026-04-25 05:00:00"
+  },
+  "indicators": {
+    "rsi": 48.23559,
+    "macd": 0.04346456,
+    "macd_signal": 0.075879845,
+    "sma20": 637.4805
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期盘整，等待突破信号",
+      "content": "从价格走势来看，BNB/USD在636.41至637.72区间内波动，整体呈现短期横盘整理态势。价格紧贴20日均线SMA(20)637.48附近，显示多空力量相对均衡，缺乏明显单边趋势。市场短线震荡，投资者需关注关键价位的突破情况。  \n\nMACD指标当前为0.04346，虽为正值，但信号线未提供明确方向，表明动能略偏多，但仍需谨慎。缺乏RSI数据，使得超买或超卖判断受限，短线操作应更多依赖价格行为和均线支撑。技术指标显示市场处于观望状态，暂不宜盲目追涨或抄底。  \n\n支撑位在636.40附近，若跌破可能引发进一步下探；阻力位在637.72附近，多次触及未能突破，短期仍存在压力。若价格突破阻力位并稳住，可考虑跟随趋势做多，反之跌破支撑需防止止损风险。  \n\n交易策略上，建议保持轻仓观望或小幅波段操作，结合突破信号确认方向。短线可设置止损于636附近，止盈可参考638-639区间。长期持有者应关注整体市场情绪及宏观风险，避免追涨追高导致回撤。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 636.76\\n- 24h Change: -0.15%\\n- High/Low: 637.72 / 636.41\\n- RSI(14): N/A\\n- MACD: 0.043464560, Signal: N/A\\n- SMA(20): 637.48050\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nPrice action on BNB/USD is currently compressing in a very tight range around 636, showing a clear equilibrium between buyers and sellers. The 24-hour structure remains essentially flat, with only a slight -0.15% change, which reflects consolidation rather than directional conviction. This kind of low-volatility phase often precedes a breakout, but direction will depend on whether price can reclaim or reject nearby moving averages.\n\nFrom an indicator standpoint, momentum is mixed but slightly constructive. MACD is mildly positive at 0.043, suggesting fading bearish pressure and early stabilization in trend strength. The SMA(20) at 637.48 sits just above current price, acting as a dynamic resistance ceiling. Without RSI data, momentum must be inferred from structure, but the compressed price action suggests RSI is likely hovering near neutral, consistent with indecision rather than overbought or oversold conditions.\n\nKey support is forming around 636.40–636.00, where recent intraday lows are repeatedly defended. A break below this zone could expose downside liquidity toward the 632–630 region. On the upside, immediate resistance is clustered at 637.70 and then the SMA(20) near 637.50–638.20. A sustained breakout above this band would signal renewed bullish control and open the path toward higher resistance zones around 640–645.\n\nTrading-wise, this setup favors patience and range strategies. Scalpers may look for long entries near 636 support with tight stops below 635.80, targeting the mid-range resistance. Conversely, breakout traders should wait for a confirmed close above 638 before considering momentum longs. Until a clear expansion occurs, price is best treated as range-bound with mean-reversion bias rather than trending conditions."
+    }
+  }
+}
