@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-25T15:25:59.973Z",
+  "price": {
+    "close": "77723.91",
+    "high": "77723.91",
+    "low": "77667.12",
+    "open": "77679.95",
+    "change": "0.06",
+    "datetime": "2026-04-25 15:00:00"
+  },
+  "indicators": {
+    "rsi": 50.78569,
+    "macd": -27.79501,
+    "macd_signal": -51.83107,
+    "sma20": 77618.205
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，走势平稳]",
+      "content": "当前比特币价格位于77,723.91美元附近，呈现出震荡整理的状态。24小时内仅上涨了0.06%，显示出市场情绪较为平稳，缺乏明显的方向性。由于RSI和MACD指标暂时未能提供足够的信息，市场的动能显得较弱，短期内可能维持在当前区间内波动。\n\n从技术面来看，SMA(20)目前位于77,618.21美元附近，形成了一定的支撑作用。若价格下行至该水平附近，可能会受到支撑并出现反弹。然而，若跌破该支撑位，则可能会进一步测试76,500美元的关键支撑位。上方的阻力位则在78,000美元左右，突破该区域可能会带来更强的上行动力。\n\nMACD指标当前为负值，表明短期内卖压略大，可能限制价格的上涨空间。尽管如此，市场的低波动性使得短线操作风险较低，但缺乏明确的上涨信号。交易者可关注77,500美元至78,000美元之间的价格波动，等待突破信号。\n\n综合来看，当前市场趋势偏向震荡整理，建议投资者保持观望，等待更为明确的技术信号，如突破关键支撑或阻力位后再作进一步操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $77,723.91, showing marginal movement over the past 24 hours with a 0.06% change. The narrow daily range between $77,667.12 and $77,723.91 suggests consolidation, indicating indecision among market participants. The price hovering slightly above the 20-day simple moving average of $77,618 suggests mild bullish bias, though the lack of substantial momentum hints at potential sideways trading in the short term. Market participants should watch for any breakout above the recent high for confirmation of an upward trend.  \n\nThe MACD reading at -27.79501, despite the missing signal line, reflects lingering bearish pressure, suggesting that momentum has not fully shifted into positive territory. Traders may interpret this as a cautionary signal, particularly in a market lacking strong directional conviction. The absence of a current RSI value limits overbought or oversold evaluation, but the tight price movement and slight SMA premium indicate equilibrium between buyers and sellers, signaling a wait-and-see approach could be prudent.  \n\nImmediate support can be identified near the 20-day SMA at $77,618, with a secondary support zone around the daily low of $77,667. Resistance appears near the current price ceiling at $77,723, with a psychological barrier around $78,000 likely acting as a longer-term obstacle. Monitoring these levels is crucial, as a decisive break below support could open a retracement toward $77,500, while a sustained breach above resistance could set the stage for a bullish push toward $78,500.  \n\nFrom a trading perspective, short-term strategies should focus on range-bound opportunities, buying near support and trimming positions near resistance. Momentum-based traders may prefer waiting for MACD crossover confirmation or an RSI reading above 70 or below 30 to gauge potential trend reversals. Risk management remains critical, as the current consolidation phase indicates low volatility but heightened sensitivity to external market catalysts, such as macroeconomic news or large-scale order flows."
+    }
+  }
+}
