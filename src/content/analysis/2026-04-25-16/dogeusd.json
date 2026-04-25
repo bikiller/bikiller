@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-04-25T16:41:35.483Z",
+  "price": {
+    "close": "0.09781",
+    "high": "0.09833",
+    "low": "0.09758",
+    "open": "0.09818",
+    "change": "-0.41",
+    "datetime": "2026-04-25 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.1884,
+    "macd": 0.000041561211,
+    "macd_signal": 0.00014642956,
+    "sma20": 0.0983845
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 狗狗币/美元(DOGE/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.09781\\n- 24小时变化: -0.41%\\n- 高点/低点: 0.09833 / 0.09758\\n- RSI(14): N/A\\n- MACD: 0.000041561211, Signal: N/A\\n- SMA(20): 0.098384500\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"狗狗币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "狗狗币/美元技术分析：短期震荡偏弱回踩关键均线支撑\n\n当前DOGE价格运行在0.098附近，整体呈现高位横盘后的轻微回落结构。价格略低于20日均线0.09838，显示短期动能偏弱，但下方0.0976一带仍有承接力量，整体属于震荡整理而非单边趋势行情。\n\n技术指标方面，MACD仍处于极弱金叉状态（0.000041），但动能柱非常微弱，说明多头优势有限且缺乏持续性。均线系统呈现粘合状态，市场处于方向选择前夕，若无放量突破，容易继续反复震荡。\n\n支撑与阻力来看，下方关键支撑位在0.0975附近，若跌破可能进一步测试0.0960区域；上方阻力集中在0.0983与0.0990一线，只有有效突破20日均线才可能打开短线反弹空间。\n\n交易策略上，当前更适合区间思路操作：支撑附近可关注短多机会，但需严格止损；若价格跌破0.0975则短线偏空对待。整体建议保持轻仓观望，等待方向选择后再顺势跟进。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "The current market for Dogecoin (DOGE) shows a slight downward movement, with the price at $0.09781, reflecting a minor loss of 0.41% in the last 24 hours. This price action suggests a consolidation phase, as DOGE has recently traded between $0.09758 and $0.09833. The price is hovering near the short-term support at $0.09758, a critical level to monitor for potential downward continuation or reversal. A sustained breach below this support could open up further downside toward the $0.096 level.\n\nThe absence of an RSI value makes it challenging to assess momentum in the market directly. However, the MACD value is relatively low at 0.000041561211, indicating a neutral to slightly bullish short-term bias, though the lack of a clear signal line reading leaves room for interpretation. This suggests that, while DOGE may not yet be experiencing strong bullish pressure, it has also not fully capitulated, making the trend still somewhat indecisive. Traders should be cautious as the market remains in a delicate equilibrium.\n\nThe 20-period Simple Moving Average (SMA) is currently at $0.098384500, slightly above the current price. This indicates a bearish short-term trend, as the price is below the SMA. If DOGE moves upward and breaks above the SMA, it could indicate a potential shift towards bullishness, especially if the price holds above the $0.098 level. Conversely, if it fails to break this level, the bearish pressure may intensify, leading to further tests of the support zone.\n\nIn terms of trading strategies, a cautious approach is recommended. Traders may consider entering long positions only if the price breaks above the 20-period SMA with strong volume, signaling a reversal. For short-term traders, the $0.09758 support should be closely monitored for potential breakdowns, while the resistance near $0.09833 could serve as a key point for short-term short positions if the price fails to break through."
+    }
+  }
+}
