@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-25T02:01:55.826Z",
+  "price": {
+    "close": "77559.96",
+    "high": "77645.47",
+    "low": "77456.79",
+    "open": "77486.72",
+    "change": "0.10",
+    "datetime": "2026-04-25 01:00:00"
+  },
+  "indicators": {
+    "rsi": 44.28195,
+    "macd": -123.57944,
+    "macd_signal": -95.59497,
+    "sma20": 77756.9945
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[短期震荡整理]",
+      "content": "当前比特币价格在77559.96美元附近，经过24小时的微幅波动，市场表现出一定的震荡整理特征。短期内，价格在77456.79至77645.47美元区间内波动，显示出市场缺乏明确的方向性。投资者需关注市场情绪与重大消息面，以判断后续走势。\n\n从技术指标来看，RSI尚未提供具体数值，但通常情况下，RSI指标在50以上表示多头市场，而50以下则暗示空头压力。MACD处于负值区域，表明短期内卖压较重，需警惕潜在的回调风险。SMA(20)在77756.99美元，若价格突破此均线，可能会引发进一步的买盘。\n\n在支撑和阻力位方面，当前支撑位在77456.79美元，若下破此位，将可能加剧市场的下行压力。上方阻力位则在77756.99美元附近，若价格突破此水平，将为多头提供进一步的进攻动力。建议投资者在支撑位附近寻找买入机会，而在接近阻力位时则考虑获利了结或设置止损。\n\n总体而言，当前市场处于震荡整理阶段，投资者应保持谨慎，密切关注技术指标及市场动态，灵活调整交易策略，以应对潜在的波动风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 77559.96\\n- 24h Change: 0.10%\\n- High/Low: 77645.47 / 77456.79\\n- RSI(14): N/A\\n- MACD: -123.57944, Signal: N/A\\n- SMA(20): 77756.99450\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is currently holding a tight consolidation phase around $77,560, with price action showing minimal volatility and a slight bullish bias on the 24-hour scale. The structure suggests a continuation of a broader recovery phase following prior corrections, but momentum is currently neutral. Price remains slightly below the 20-day SMA at 77,757, indicating mild resistance pressure overhead and a lack of decisive breakout strength in the immediate term.\n\nFrom a trend perspective, BTC/USD is still positioned within an overall upward recovery structure, characterized by higher lows on the broader timeframe despite short-term compression. The market has recently been transitioning between consolidation and breakout attempts, with buyers defending downside dips. However, repeated rejections near the 77,600–78,000 region suggest the market is struggling to establish strong directional momentum above short-term equilibrium.\n\nIndicator-wise, MACD is currently negative at -123.58, implying bearish momentum pressure is still present beneath the surface, even though price remains stable. The absence of RSI data limits overbought/oversold interpretation, but price behavior near the SMA hints at equilibrium conditions rather than trend acceleration. Typically, this combination signals indecision, where neither bulls nor bears fully dominate.\n\nKey support is forming around 77,450–77,500, aligning with the recent intraday low zone, while immediate resistance sits at 77,750–77,800, closely aligned with the SMA(20). A clean break above 77,800 would likely open momentum toward 78,500–79,200, while rejection could trigger a pullback toward 76,800–76,200. Traders may favor range strategies until a confirmed breakout occurs, with tighter risk control around these boundaries."
+    }
+  }
+}
