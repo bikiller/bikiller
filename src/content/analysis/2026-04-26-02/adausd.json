@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-04-26T02:27:50.618Z",
+  "price": {
+    "close": "0.249578",
+    "high": "0.24979",
+    "low": "0.248795",
+    "open": "0.248795",
+    "change": "0.33",
+    "datetime": "2026-04-26 02:00:00"
+  },
+  "indicators": {
+    "rsi": 46.18644,
+    "macd": -0.00045655384,
+    "macd_signal": -0.00033182137,
+    "sma20": 0.2504872
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：弱势震荡偏空",
+      "content": "ADA/USD现价0.249578，略低于SMA20的0.250487，短线仍处均线下方运行。24小时涨幅仅0.33%，高低点区间狭窄，说明市场动能不足，整体偏弱震荡。\n\nMACD为-0.000456，处于零轴下方，显示空头动能仍未完全释放。RSI缺失，需降低超买超卖判断权重，当前更适合观察价格能否重新站上短期均线。\n\n支撑位关注0.248795附近，若跌破可能下探0.2475区域；阻力位先看0.24979，其次是SMA20附近0.25049，突破后短线情绪才有修复空间。\n\n交易上建议谨慎追多，激进者可在支撑附近轻仓试探，止损放在0.2480下方；若放量突破0.2505，可考虑顺势跟进，否则以区间高抛低吸为主。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "ADA/USD is trading slightly below its SMA(20) at 0.2504872, suggesting a mild short-term bearish bias despite the small 24h gain of 0.33%. The narrow high-low range between 0.248795 and 0.24979 points to low volatility and consolidation rather than strong directional conviction.\n\nMACD at -0.00045655384 remains negative, indicating momentum is still tilted to the downside. With RSI unavailable, confirmation from overbought or oversold conditions is limited, so price action around the moving average becomes especially important.\n\nImmediate support sits near 0.248795, with deeper downside risk toward 0.2475 if sellers gain control. Resistance is close at 0.24979, followed by the SMA(20) around 0.25049. A clean move above that average could improve the short-term outlook.\n\nTraders may consider waiting for a breakout above 0.2505 before entering long positions, while failure to hold 0.2488 could favor cautious shorts or defensive positioning. Given the tight range, position sizing should remain conservative until volume or momentum confirms direction."
+    }
+  }
+}

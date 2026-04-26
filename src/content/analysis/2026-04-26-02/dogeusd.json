@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-04-26T02:28:38.039Z",
+  "price": {
+    "close": "0.09798",
+    "high": "0.09817",
+    "low": "0.09789",
+    "open": "0.09789",
+    "change": "0.07",
+    "datetime": "2026-04-26 02:00:00"
+  },
+  "indicators": {
+    "rsi": 48.13441,
+    "macd": -0.000057253333,
+    "macd_signal": -0.000032498443,
+    "sma20": 0.098091
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡整理偏弱",
+      "content": "从价格走势来看，DOGE/USD近期在0.0979-0.0982区间震荡，短期缺乏明显趋势动力。当前价格略低于20日简单移动平均线(SMA20=0.09809)，显示短期上行动力受限，市场多空力量较为均衡，存在整理迹象。  \n\nMACD指标处于负值区间(-0.00005725)，表明下行压力略大，但信号线缺失使动能确认不完全，需关注未来几根K线以判断动量是否加强。同时，由于RSI数据不可用，无法直接衡量超买超卖状态，需要结合价格和成交量观察短期情绪。  \n\n支撑位初步位于0.09785附近，下破可能引发短线回调至0.0975水平；阻力位约在0.0982-0.0983区间，若价格突破该区域，可触发短线反弹。整体区间较窄，短期内难以形成趋势性突破。  \n\n交易建议方面，谨慎为主。偏向区间操作策略，可在支撑附近考虑小额多单，阻力附近减仓或短线做空。若出现价格有效突破SMA20或阻力/支撑位，结合成交量确认趋势，可适度加仓顺势操作，但需控制仓位和止损。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently exhibiting a subtle consolidation phase around $0.09798, hovering near the lower end of its 24-hour range. Price movement within the narrow band of $0.09789 to $0.09817 suggests limited momentum, reflecting market indecision. The short-term trend leans slightly bearish as the latest price trades below the 20-period simple moving average at $0.09809. This indicates minor selling pressure, though the absence of strong directional moves signals that the market may be awaiting catalysts for a breakout.  \n\nThe MACD value of -0.000057 suggests a weak bearish momentum, though without a clear signal line for confirmation, the indication remains tentative. Traders should note that the lack of a calculated RSI prevents a full assessment of overbought or oversold conditions, adding a layer of uncertainty to short-term entries. The convergence of price near the SMA highlights the importance of monitoring upcoming price action for any decisive breach, which could confirm a directional trend.  \n\nSupport levels are currently evident around $0.09789, acting as a floor for intraday corrections. Immediate resistance is located near $0.09817, with the SMA slightly above at $0.09809, creating a narrow but critical zone for short-term traders. Breaching either side of this range with volume could define the next move: a sustained break above resistance might reignite bullish momentum, whereas a breakdown below support could expose lower targets near $0.0975.  \n\nFor trading strategy, cautious approaches are recommended given the sideways pattern and subdued volatility. Short-term traders could focus on range-based entries, buying near support and trimming positions near resistance. Longer-term positions should await confirmation of trend reversal, ideally with a strong breakout above the SMA and resistance zone. Maintaining disciplined risk management with tight stop-loss orders is crucial in a market with such narrow fluctuations and limited momentum."
+    }
+  }
+}
