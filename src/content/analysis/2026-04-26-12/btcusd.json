@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-26T12:57:52.152Z",
+  "price": {
+    "close": "77837.67",
+    "high": "78135.23",
+    "low": "77782.36",
+    "open": "78118.01",
+    "change": "-0.36",
+    "datetime": "2026-04-26 12:00:00"
+  },
+  "indicators": {
+    "rsi": 52.13841,
+    "macd": 111.85354,
+    "macd_signal": 75.16922,
+    "sma20": 77708.8515
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理偏多",
+      "content": "当前比特币价格在77837.67附近运行，短线波动幅度有限，整体呈现震荡整理态势。价格略高于20日均线(SMA20: 77708.85)，显示多头仍保持一定支撑，但上涨动力不足，需关注临近高点78135.23的压力。短线震荡区间在77782–78135之间明显，投资者需谨慎操作。  \n\nMACD指标处于正值区间(111.85)，暗示趋势偏多，但缺乏信号线参考，无法明确判断交叉强弱。短期缺乏RSI数据，不能完整评估超买或超卖压力，但均线支撑显示回调可能有限，价格有小幅上行空间，建议关注成交量变化以捕捉潜在突破机会。  \n\n支撑位方面，近低点77782及SMA20可视作短期买入支撑区域，若跌破则可能触发进一步回落；阻力位在高点78135及心理整数关口78000–78200附近，突破需伴随放量确认，否则可能形成阶段性压力。交易者可在支撑附近低吸，高位可适度减仓或短线止盈。  \n\n综合来看，短期比特币仍以震荡偏多为主，操作上建议保持轻仓跟随趋势，关注区间上下轨的突破信号，同时结合MACD和均线确认多空力量，避免追涨杀跌。风险管理仍是关键，设置好止损位可有效降低波动风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has been experiencing a slight bearish trend, with a minor decline of 0.36% over the last 24 hours, currently priced at 77837.67. This suggests a consolidation phase in the market, as the price has fluctuated between 78135.23 and 77782.36. The market is not showing strong momentum either upwards or downwards, indicating that traders may be waiting for a clearer signal. The Relative Strength Index (RSI) is not available at the moment, which limits our ability to gauge whether Bitcoin is overbought or oversold.\n\nThe 20-period Simple Moving Average (SMA) is positioned at 77708.8515, providing a dynamic support level for Bitcoin. A price drop below this level could signal further downside, potentially testing the next significant support zone around 77500. On the upside, if Bitcoin surpasses the high of 78135.23, it could gain momentum towards resistance near 78500, a level where previous price action has shown significant reversals. This suggests that short-term traders may be looking for a breakout either above or below these levels.\n\nThe MACD indicator shows a value of 111.85354, but with the signal line unavailable, its current significance is limited. The lack of a clear crossover or divergence reduces its predictive power for now. However, a potential bullish or bearish MACD crossover could provide traders with clearer entry or exit signals in the coming days. Traders should closely monitor this indicator for any signs of change.\n\nIn terms of trading strategy, a conservative approach would be to wait for a breakout beyond the established range (78135.23 on the high or 77782.36 on the low) before making significant moves. A break above 78500 could lead to a further upward push, while a fall below the SMA at 77708.8515 could signal additional downside. In either case, setting stop-loss orders near these levels will help manage risk."
+    }
+  }
+}
