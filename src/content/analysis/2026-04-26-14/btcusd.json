@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-26T14:11:25.224Z",
+  "price": {
+    "close": "77964.16",
+    "high": "77990.84",
+    "low": "77893.44",
+    "open": "77990.84",
+    "change": "-0.04",
+    "datetime": "2026-04-26 14:00:00"
+  },
+  "indicators": {
+    "rsi": 55.73315,
+    "macd": 108.6715,
+    "macd_signal": 87.98832,
+    "sma20": 77777.1605
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏强运行",
+      "content": "BTC/USD当前维持在77964附近窄幅整理，价格仍稳守20日均线77777上方，说明短线多头结构尚未被破坏。24小时波动有限，市场进入高位平衡阶段，整体节奏偏向震荡偏强。\n\n从指标观察，MACD数值仍处于正值区域，显示中期动能未完全衰减，不过上涨斜率开始放缓，意味着追涨资金趋于谨慎。RSI数据暂缺，但结合价格表现判断，市场并未进入明显超买状态。\n\n短线支撑区域关注77800与77700一线，若失守则可能回踩77500附近；上方阻力首先位于78000整数关口，其后是78250至78500压力带。当前高低点收窄，也预示后续或出现方向选择。\n\n交易策略方面，激进交易者可依托77700上方尝试低吸短多，目标关注78200附近；稳健者则等待有效突破78000后顺势跟进。若价格跌破20日均线，应适当控制仓位并防范短期回调风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently in a narrow trading range, with the latest price at $77,964.16, showing a minor 0.04% drop in the last 24 hours. The market has seen minimal volatility, fluctuating between the day’s high of $77,990.84 and the low of $77,893.44. These small price movements suggest that the market is consolidating, with no clear directional bias. Bitcoin could be in a waiting phase, possibly anticipating a break above or below this range to establish a more defined trend.\n\nThe absence of an RSI reading and signal line for MACD makes it difficult to assess momentum directly. However, the current MACD value of 108.67 indicates that Bitcoin is in positive territory, reflecting potential bullish momentum. With the price near the recent high, it’s important to monitor for any bearish divergence or shifts in momentum that could signal weakening bullish conditions. Should momentum wane, the price might face difficulty maintaining these levels.\n\nFrom a support and resistance perspective, the key short-term levels are $77,893.44 and $77,990.84, respectively. A break below the low could indicate a deeper correction towards the SMA(20) at $77,777.16, which might act as additional support. Conversely, a push above $77,990.84 could open the door to further gains, targeting the next significant resistance zone above $78,500. Traders should be cautious of false breakouts and consider waiting for confirmation before entering new positions.\n\nFor those considering entry points, a prudent approach would be to monitor for a breakout above $77,990.84 or a solid confirmation of support at the $77,777 level. Long positions could be viable with a confirmed breakout, while short positions might be better suited if the price struggles to maintain above the SMA or shows signs of weakness at the higher range. As always, maintaining a strict stop-loss strategy is essential in this current choppy market."
+    }
+  }
+}
