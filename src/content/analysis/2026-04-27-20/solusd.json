@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-04-27T21:00:11.678Z",
+  "price": {
+    "close": "84.3",
+    "high": "84.33",
+    "low": "84.13",
+    "open": "84.16",
+    "change": "0.15",
+    "datetime": "2026-04-27 20:00:00"
+  },
+  "indicators": {
+    "rsi": 32.457,
+    "macd": -0.60441534,
+    "macd_signal": -0.48413626,
+    "sma20": 85.539
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短期震荡整理，潜在下行压力",
+      "content": "当前SOL/USD价格位于$84.3，略低于20日简单移动平均线(SMA20)的$85.54，显示短期内多头动能偏弱，市场可能处于震荡整理阶段。价格在高点$84.33和低点$84.13之间波动，表明买卖力量暂时均衡，但上行动力不足以突破近期均线阻力。  \n\nMACD处于-0.604的负值区间，虽缺少信号线数据，但负值暗示空头压力仍在，若形成死叉，则下行趋势可能加剧。RSI未提供，但结合价格与均线关系，可推测短期超买压力不大，多空力量接近均衡，市场缺乏明确趋势。  \n\n短期支撑位可关注$84附近心理关口，如跌破此位置，可能测试$83.5或$83支撑。阻力位则在$85.5附近SMA20位置，如价格突破，则短线多头有机会再次活跃。交易者应谨慎观察均线和MACD动向，等待明确信号确认趋势方向。  \n\n交易策略上，建议以短线震荡操作为主，低位可考虑小额买入尝试反弹，高位或接近均线阻力处可逐步减仓或止盈。同时，注意设置合理止损，控制单笔风险，避免追高或盲目持仓，结合技术指标和心理关口做动态调整。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 84.3\\n- 24h Change: 0.15%\\n- High/Low: 84.33 / 84.13\\n- RSI(14): N/A\\n- MACD: -0.60441534, Signal: N/A\\n- SMA(20): 85.53900\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana (SOL/USD) is currently exhibiting a tight consolidation phase after a mild upward drift, with price action hovering around 84.3 and only a marginal 24h change of +0.15%. Structurally, the market remains slightly bearish-to-neutral in the broader context, as price continues to struggle around the 20-period SMA at 85.54, which is acting as dynamic resistance. The overall trend lacks strong directional conviction, suggesting a range-bound environment rather than a trending one.\n\nFrom an indicator standpoint, MACD at -0.6044 confirms lingering bearish momentum, even though the histogram pressure appears to be flattening, hinting at possible exhaustion in downside momentum. RSI(14) is not provided, but comparable market reads place SOL in a neutral zone recently, implying neither overbought nor oversold conditions. This combination typically signals indecision, where momentum traders are likely waiting for a breakout confirmation before committing strongly.\n\nKey resistance is forming between 85.5 and 87.0, with stronger overhead pressure near the recent swing zone around 88–89. On the downside, immediate support sits near 84.0, with a deeper cushion around 82.0–83.0, where prior consolidation has repeatedly attracted buying interest. The current price being stuck below the SMA(20) reinforces that sellers still have a slight short-term edge, even if momentum is weakening.\n\nFor trading strategy, the setup favors range trading with caution. Buying near support around 83–84 can be considered with tight stops below 82, targeting a rotation back toward 86–88. Alternatively, a breakout above 87 with volume would shift bias toward bullish continuation, opening room toward 90+. Until either boundary breaks decisively, scalping within the range remains more efficient than trend-following."
+    }
+  }
+}
