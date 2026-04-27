@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-27T18:43:55.767Z",
+  "price": {
+    "close": "76732.85",
+    "high": "76829.02",
+    "low": "76646.4",
+    "open": "76721.22",
+    "change": "0.02",
+    "datetime": "2026-04-27 18:00:00"
+  },
+  "indicators": {
+    "rsi": 30.52227,
+    "macd": -356.90154,
+    "macd_signal": -181.46799,
+    "sma20": 77955.8325
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱，关键支撑临近",
+      "content": "目前比特币价格在76732.85美元附近徘徊，日内波动幅度极小，仅0.02%，显示市场短期交投谨慎。价格低于20日均线SMA(77955.83)，表明中短期均线压力较大，多头动能不足，趋势偏向震荡下行。  \n\nMACD指标显示主线为-356.90，虽然缺少信号线参考，但负值暗示空头势力占优，市场短期承压。RSI缺失，无法确认超买超卖情况，但价格接近近期低点，短线存在技术性支撑。  \n\n支撑位主要关注76646.4附近，如跌破可能引发进一步下探至76500-76400区间。阻力位在20日均线附近，若价格上破可重新激活多头，但需成交量配合才能有效确认突破。  \n\n交易上建议谨慎为主，短线可在支撑区尝试小额多单，止损设置在76600下方；偏激进操作者可等待均线突破信号确认后介入。同时，建议关注市场情绪和宏观消息，以防突发波动带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD market is currently trading at 76,732.85, showing a slight increase of 0.02% in the past 24 hours. This indicates a relatively stable market with minor fluctuations. The price is hovering near the high of the day, 76,829.02, and just above the low of 76,646.4, suggesting that Bitcoin is holding within a narrow range. A close examination of the trend suggests potential consolidation, with no clear breakout or breakdown, requiring a break above or below the current range for further directional movement.\n\nThe Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD) are both unavailable at this moment, but the MACD value of -356.90154 indicates the possibility of a bearish momentum. The lack of an RSI reading makes it difficult to assess overbought or oversold conditions, but traders should remain cautious of the potential for further downside if the MACD momentum persists. The Simple Moving Average (SMA) at 77,955.83 is still above the current price, signaling that Bitcoin may be in a slight downtrend in the short term, unless a strong reversal occurs.\n\nSupport levels lie near the low of the day at 76,646.4, with a more significant level at 76,000, where buyers could step in to prevent further decline. Resistance lies just below the SMA of 77,955.83, and further upside could face challenges if price struggles to break above this level. If Bitcoin manages to rise above 78,000, it could signal a potential bullish reversal. However, failure to break resistance could lead to further consolidation or downward pressure.\n\nTraders should monitor the price action closely for signs of volatility. A breakout above 78,000 could present buying opportunities, while a decline below 76,000 could trigger bearish momentum, presenting shorting opportunities. Given the current narrow trading range, the market may be primed for a breakout, so waiting for confirmation of a breakout before taking positions would be a prudent strategy."
+    }
+  }
+}
