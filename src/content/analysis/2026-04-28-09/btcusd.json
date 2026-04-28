@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-28T09:07:29.852Z",
+  "price": {
+    "close": "76805.44",
+    "high": "76867.44",
+    "low": "76786.33",
+    "open": "76855.99",
+    "change": "-0.07",
+    "datetime": "2026-04-28 09:00:00"
+  },
+  "indicators": {
+    "rsi": 40.072341,
+    "macd": -243.29873,
+    "macd_signal": -262.36607,
+    "sma20": 76947.9295
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：窄幅震荡偏弱整理",
+      "content": "当前BTC/USD价格76805.44，24小时微跌0.07%，高低点区间极窄，显示市场波动收敛。价格低于SMA20的76947.93，短线趋势略偏弱。\n\nMACD为-243.29873且处于负值区间，说明空头动能仍占优势。RSI缺失，暂难判断超买超卖，但均线压制与动能指标共同指向谨慎格局。\n\n短线支撑关注76786附近，若跌破可能下探76650至76500区域；上方阻力先看76867，进一步阻力在76948均线位置，突破后才有转强信号。\n\n交易上建议避免追空追多，可等待价格突破76950后轻仓做多，或跌破76780后顺势跟空。未突破前以区间交易和严格止损为主。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a narrow-range consolidation around $76,800, reflecting indecision among traders. The minor 24-hour decline of 0.07% suggests momentum is muted, with price hovering just below the 20-period SMA at $76,947. This indicates short-term bearish pressure as the SMA acts as a dynamic resistance. The high and low of the day, $76,867 and $76,786 respectively, form a tight intraday band, hinting at potential accumulation before a breakout or breakdown.  \n\nThe MACD at -243.30 underscores lingering downside momentum, despite the absence of a corresponding signal line for cross confirmation. Without RSI data, relative strength cannot be gauged, but the MACD negative value points to sellers maintaining slight control. The market appears cautious, likely waiting for a catalyst to trigger a directional move. Momentum-driven traders may prefer to observe MACD crossover behavior or a break above the SMA for confirmation.  \n\nSupport near $76,700 remains crucial; a break below this level could expose $76,500 as the next psychological floor. Resistance is observed at $76,950 to $77,000, where previous short-term rallies have stalled. If BTC surpasses this range with volume, it could signal renewed bullish sentiment, potentially retesting $77,300. Conversely, failure to break resistance may result in further sideways pressure or minor retracement toward support.  \n\nShort-term trading strategies should consider the current consolidation. For aggressive traders, buying near $76,700 with tight stop-losses could offer low-risk entry opportunities, while targeting $76,950–$77,000 for profit-taking. Conservative traders might wait for a decisive breakout above $77,000 to confirm trend continuation. Risk management is critical given the narrow price band, ensuring that any trades account for potential false breakouts amid subdued volatility."
+    }
+  }
+}
