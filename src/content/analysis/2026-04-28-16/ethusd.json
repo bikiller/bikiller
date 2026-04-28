@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-28T16:27:55.329Z",
+  "price": {
+    "close": "2278.22",
+    "high": "2281.48",
+    "low": "2275.21",
+    "open": "2279.53",
+    "change": "-0.05",
+    "datetime": "2026-04-28 16:00:00"
+  },
+  "indicators": {
+    "rsi": 40.011545,
+    "macd": -9.33245,
+    "macd_signal": -10.15934,
+    "sma20": 2286.2805
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏空",
+      "content": "以太坊当前价格位于$2278.22，接近20日简单移动平均线(SMA20) $2286.28，显示短期价格略低于均线，短期承压迹象明显。价格在$2275-$2281区间震荡，表明市场缺乏明确方向，多空力量处于相对均衡状态。  \n\nMACD值为-9.33，虽缺少信号线参考，但负值提示下行动能占优，短线空头压力存在。由于RSI数据缺失，超买或超卖情况难以判断，但结合震荡区间与MACD，可推测短线动能偏弱，价格可能延续整理。  \n\n关键支撑位在$2275附近，若跌破该水平，可能触发进一步回调至$2265；阻力位位于$2286~$2290区间，突破则可能带来短线反弹机会。交易者需关注均线附近的价格行为，谨慎操作。  \n\n建议短线可考虑逢高轻仓做空或等待突破确认后顺势操作，避免追高追低。在震荡行情中，保持严格止损，结合关键支撑与阻力位执行交易策略，可有效控制风险，同时把握小幅波动收益。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading near $2,278, reflecting minimal movement over the past 24 hours. The market shows a short-term consolidation phase, hovering just below the 20-period simple moving average at $2,286.28. This suggests that momentum is slightly bearish, as the price has failed to break above the SMA convincingly. Traders should note that the narrow daily range between $2,275 and $2,281 indicates low volatility, signaling that Ethereum may be preparing for a more decisive move in either direction.  \n\nFrom a technical indicator perspective, the MACD is at -9.33245, implying that bearish pressure dominates despite the lack of a signal line for confirmation. The absence of a clear RSI reading limits overbought or oversold insights, but the combination of price action below the SMA and negative MACD suggests caution for aggressive long positions. Momentum appears subdued, and traders should focus on short-term setups rather than expecting strong directional trends.  \n\nSupport is likely near $2,275, the recent intraday low, while immediate resistance aligns with the SMA at $2,286 and the daily high around $2,281. A break below the support could trigger further downside, potentially targeting $2,260–$2,265. Conversely, a clean break above $2,286 could signal renewed bullish attempts, with the next notable resistance near $2,300. These levels provide reference points for entry and exit strategies for intraday and swing trades.  \n\nFor trading suggestions, conservative traders may consider waiting for a breakout confirmation before initiating positions. Momentum traders could use scalping opportunities within the current range, focusing on quick entries near support and exits near resistance. Risk management is crucial, as the market’s indecision may lead to rapid reversals. Maintaining tight stop losses around $2,274 on longs and $2,288 on shorts could help preserve capital during this consolidation phase."
+    }
+  }
+}
