@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-28T12:16:35.719Z",
+  "price": {
+    "close": "2277.15",
+    "high": "2279.21",
+    "low": "2273.78",
+    "open": "2275.74",
+    "change": "0.09",
+    "datetime": "2026-04-28 12:00:00"
+  },
+  "indicators": {
+    "rsi": 36.92962,
+    "macd": -10.30383,
+    "macd_signal": -10.67177,
+    "sma20": 2288.7235
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期盘整，震荡偏弱",
+      "content": "当前以太坊价格维持在2277美元附近，较20日简单移动均线(SMA20)2288略低，显示短期多头动能不足。价格波动幅度有限，24小时涨幅仅0.09%，市场缺乏明确方向，多空力量处于相对均衡状态。  \n\nMACD指标为-10.30383，虽未给出信号线，但负值表明短期下行动能仍占主导，需警惕潜在回调压力。结合价格低于SMA20的情况，短期趋势偏弱，若无法有效突破均线，价格可能延续小幅震荡或回落。  \n\n支撑位初步关注2273附近的日内低点，如跌破则可能测试2260-2255区域支撑；阻力位则集中在2288-2295区间，如上破则有望短线反弹。市场波动有限，趋势尚不明朗，需密切关注成交量变化。  \n\n交易策略上，激进者可在支撑位附近尝试低多，止损设在2270下方；保守者建议观望等待价格突破SMA20或形成明确趋势后再介入。短线操作应控制仓位，避免追高，同时关注宏观市场情绪对ETH的影响。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum’s price action has been consolidating around the $2,277 level, showing limited directional momentum over the past 24 hours. The narrow daily range of $2,273.78 to $2,279.21 suggests equilibrium between buyers and sellers, indicating a short-term indecisive market. Despite the lack of strong volatility, the slight upward drift of 0.09% hints at cautious bullish sentiment. Overall, the current price movement reflects a market pausing before a potential breakout, with traders watching for confirmation above key resistance.  \n\nTechnical indicators offer mixed signals. The 20-period simple moving average at $2,288.72 lies slightly above the current price, suggesting mild short-term weakness and potential resistance in this zone. The MACD reading of -10.30383, without a signal line, points toward underlying bearish momentum, albeit not extreme. The absence of an RSI reading limits overbought or oversold analysis, but the convergence of price near the SMA signals potential sideways movement, with traders likely waiting for either a decisive upward breach or further consolidation.  \n\nSupport and resistance levels are crucial in this range-bound market. Immediate support is around $2,273, marking the daily low and recent buying interest, while resistance near $2,288 coincides with the SMA and prior intraday highs. A breach of these levels could define the next directional phase. In particular, a sustained move above $2,288 may attract momentum buyers, whereas a drop below $2,273 could trigger short-term selling pressure, with $2,265 as the next likely support target.  \n\nFor trading strategies, a cautious approach is advised. Range traders may consider entering near support and scaling out near resistance, using tight stop-losses to manage risk. Momentum traders could wait for a confirmed breakout above $2,288 or breakdown below $2,273 to initiate positions with trend-following tactics. Given the low volatility, scalping opportunities are limited, and patience is key until clearer directional signals emerge. Monitoring volume and subsequent MACD crossovers will help confirm trend shifts."
+    }
+  }
+}
