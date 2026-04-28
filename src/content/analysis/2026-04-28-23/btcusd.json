@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-28T23:36:05.243Z",
+  "price": {
+    "close": "76267.99",
+    "high": "76350.68",
+    "low": "76174.8",
+    "open": "76229.8",
+    "change": "0.05",
+    "datetime": "2026-04-28 23:00:00"
+  },
+  "indicators": {
+    "rsi": 41.059925,
+    "macd": -238.96335,
+    "macd_signal": -283.96254,
+    "sma20": 76413.5915
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘整理，震荡偏弱",
+      "content": "近期比特币价格围绕76250-76400美元区间波动，整体呈现横盘整理特征。日内波动幅度有限，市场多空力量暂时平衡，短期趋势难以明确突破。价格在SMA(20)76413美元附近徘徊，显示均线压力略高于当前价格，短线偏空信号明显。  \n\nMACD显示值为-238.96，表明空方动能仍占主导，尽管信号线数据缺失，但负值幅度提示市场短期仍有下探风险。RSI指标缺失使得超买超卖判断不完全，但结合价格与均线关系，可推测买方动力不足，市场观望情绪浓厚。  \n\n关键支撑位在76175美元附近，该位置若有效守住，可形成短期反弹基点；阻力位在76415美元附近，突破需较强买方推动。若价格失守支撑位，可能加速下行测试76000美元心理关口，风险管理应保持谨慎。  \n\n交易策略上，短线可采取低吸高抛策略，关注区间震荡机会，避免追涨杀跌。中期投资者可观望等待明显趋势信号确认，或设置止损在支撑位下方以控制风险，保持仓位灵活调整为宜。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD market is currently trading near $76,268, showing a slight 24-hour change of +0.05%. The price has been relatively stable within a narrow range, fluctuating between $76,351 and $76,175. The lack of significant movement suggests a consolidation phase. A breakout above $76,350 could signal bullish momentum, while a drop below $76,175 might indicate further downside, potentially testing lower support levels.\n\nThe MACD value of -238.96 points to bearish momentum, although the absence of a signal line prevents a full interpretation of the trend. The negative MACD could indicate weakening buying pressure in the short term, though it’s essential to monitor if the MACD crosses into positive territory, which would suggest a potential reversal. The RSI(14) is not available, making it harder to evaluate overbought or oversold conditions, but traders should stay vigilant for a possible divergence that could provide more insight into price direction.\n\nIn terms of moving averages, the 20-period SMA is currently at $76,413, slightly above the market price, suggesting mild bearish sentiment in the immediate short term. If the price breaks below this moving average, it could reinforce a bearish outlook, targeting further support at $75,800 or $75,200. On the other hand, if Bitcoin price manages to push above $76,500, it might look towards a retest of $77,000 or higher levels.\n\nGiven the current market environment, traders might want to consider a cautious approach. For short-term opportunities, those with a bearish bias could consider entering near $76,350, with a stop-loss around $76,500. For bullish traders, waiting for a break above $76,500 might offer better risk-to-reward potential for a move towards $77,000 or beyond."
+    }
+  }
+}
