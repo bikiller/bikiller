@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-28T20:05:43.402Z",
+  "price": {
+    "close": "76405.68",
+    "high": "76408.28",
+    "low": "76308.97",
+    "open": "76308.97",
+    "change": "0.13",
+    "datetime": "2026-04-28 20:00:00"
+  },
+  "indicators": {
+    "rsi": 43.36733,
+    "macd": -285.59393,
+    "macd_signal": -318.66422,
+    "sma20": 76508.61
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱整理",
+      "content": "当前价格贴近日内高点但整体波动极窄，显示市场处于整理阶段。价格略低于SMA(20)，短线趋势偏弱但未形成明显下跌结构，多空力量暂时均衡，整体仍以区间震荡为主。\n\n从技术指标看，MACD处于负值区间且动能偏弱，暗示短线空头仍占优，但缺乏持续放量下跌迹象。RSI缺失使动量判断有限，不过结合价格横盘表现，市场情绪偏观望，缺乏方向性突破动力。\n\n关键支撑位关注76300附近，该位置为日内低点区域，若跌破可能测试76000整数关口；上方阻力集中在76500-76600区间，对应短期均线压力，若有效突破则有望打开上行空间。\n\n交易策略上建议以区间思路为主，靠近支撑轻仓试多，接近阻力逐步止盈或短空。若价格放量突破76500，可考虑顺势跟多；反之跌破76300则应及时止损，防范下行风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently experiencing a subtle range-bound price action, with the latest trading price at $76,405.68. The market has shown a slight 0.13% increase in the past 24 hours, which suggests a lack of strong momentum in either direction. The price has fluctuated between a high of $76,408.28 and a low of $76,308.97, indicating limited volatility in the short term. Despite this, the overall trend remains neutral to mildly bullish, as Bitcoin is holding above its key moving averages.\n\nThe Relative Strength Index (RSI) is not available at this moment, making it difficult to assess overbought or oversold conditions. However, the MACD reading of -285.59 is worth noting. The negative MACD value suggests the potential for further downward pressure if the market fails to sustain bullish momentum. The absence of the signal line makes it harder to determine the exact strength of the trend, but the MACD’s current position indicates a cautious outlook.\n\nLooking at the Simple Moving Average (SMA) for the 20-day period, the price of Bitcoin is slightly below the $76,508.61 level, which could act as an immediate resistance. A breakout above this level could open the door for a continuation towards higher price levels, possibly testing $77,000 to $77,500. On the flip side, a failure to break above the SMA could result in a pullback to support levels near the $76,200 to $76,000 region.\n\nFor traders, the current market suggests a range-bound strategy with tight stop-losses. Watch for a potential breakout above the SMA for a bullish trade or consider short opportunities if the price starts to lose steam near resistance. A careful approach is advised due to the lack of clear directional momentum and the subdued trading volume."
+    }
+  }
+}
