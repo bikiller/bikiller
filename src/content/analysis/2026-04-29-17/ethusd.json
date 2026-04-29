@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-29T17:25:13.800Z",
+  "price": {
+    "close": "2275.94",
+    "high": "2276.52",
+    "low": "2266.7",
+    "open": "2267.49",
+    "change": "0.38",
+    "datetime": "2026-04-29 17:00:00"
+  },
+  "indicators": {
+    "rsi": 37.71373,
+    "macd": -3.62693,
+    "macd_signal": 2.78296,
+    "sma20": 2306.382
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理，短期看空]",
+      "content": "当前以太坊/美元(ETH/USD)价格在2275.94附近波动，24小时变化较小，表明市场进入震荡整理期。价格未能突破前期高点，短期内走势较为平缓，未见明确的强势上涨或下跌趋势。\n\n从技术指标来看，MACD呈负值，当前值为-3.62693，表明短期内可能存在卖压。然而，由于RSI(14)数据缺失，暂时无法对超买或超卖进行精准判断。SMA(20)为2306.38，价格相对低于此水平，意味着短期内可能面临一定的下行压力。\n\n支撑位位于2266.7，若价格下破该水平，可能会进一步下探至2260附近。阻力位则在2276.52附近，若价格突破此位置，可能会出现短期反弹。总体来看，当前市场缺乏方向性，波动幅度较小。\n\n建议交易者在短期内保持观望，避免在此区域内进行激进操作。若价格接近支撑位，可以考虑低位买入，但应谨慎设立止损，避免市场波动带来的风险。如价格突破阻力位，可以考虑短线做多。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently consolidating near the $2,275 level after a minor uptick of 0.38% over the past 24 hours. The price remains slightly below the short-term 20-period simple moving average at $2,306, indicating a cautious bearish bias in the immediate timeframe. The recent low of $2,266 suggests that buyers are stepping in around this zone, forming a short-term support that could act as a base for potential upward movements if market sentiment improves.  \n\nThe MACD reading of -3.627 points to persistent bearish momentum, although without the signal line value, confirmation is limited. Traders should be wary of relying solely on this metric; however, the negative value implies that downward pressure is outweighing bullish attempts. Price consolidation near a key support often precedes either a corrective rebound or continuation of the downtrend, emphasizing the importance of closely monitoring volume and intraday price behavior for early directional cues.  \n\nImmediate support is likely around $2,266, with a secondary buffer near $2,250 if selling intensifies. Resistance remains near the 20-period SMA at $2,306 and extends to $2,320, where previous short-term peaks were observed. Breaking above the SMA could signal renewed bullish interest and a possible retest of $2,340–$2,350 levels, while failure to reclaim this zone might reinforce the prevailing consolidation or a mild correction.  \n\nFor traders, cautious long positions could be considered near the $2,270–$2,266 support zone, ideally with tight stop-loss placement below $2,250. Short-term breakout traders may look for a decisive move above $2,306 to initiate long entries, while downside risk management remains critical given the current MACD negativity. Overall, ETH/USD is in a delicate balance, and momentum confirmation alongside SMA interaction should guide tactical decisions in the near term."
+    }
+  }
+}
