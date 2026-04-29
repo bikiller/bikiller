@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-29T20:03:08.718Z",
+  "price": {
+    "close": "75572.53",
+    "high": "75604",
+    "low": "75515.99",
+    "open": "75529.99",
+    "change": "0.06",
+    "datetime": "2026-04-29 20:00:00"
+  },
+  "indicators": {
+    "rsi": 34.34863,
+    "macd": -294.33646,
+    "macd_signal": -116.14559,
+    "sma20": 76666.366
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期走势待定]",
+      "content": "当前比特币/美元市场显示出震荡整理的走势，价格在75572.53附近小幅波动。尽管价格维持在高位，但缺乏强劲的突破动力，反映出市场情绪较为谨慎。24小时变化仅为0.06%，说明短期内买卖双方平衡，市场未出现明显的方向性趋势。\n\n技术指标方面，RSI暂时不可用，MACD指标为负值（-294.33646），显示出短期内可能存在卖压。不过，由于没有明确的信号线数据，无法进一步判断市场的动能。SMA(20)目前在76666.36600附近，说明近期价格略低于该均线水平，表明有一定的阻力位。\n\n支撑位方面，当前价格接近75515.99，若下行突破此位，可能会面临更强的支撑区间。上方阻力位则位于SMA(20)附近的76666.36600，突破这一点位可能会恢复进一步上涨的空间。短期内，价格若维持在区间内震荡整理，需关注突破方向。\n\n综合来看，当前市场处于整理阶段，操作上建议采取观望态度，等待突破或更多技术指标信号的出现。如果价格突破支撑位，可以考虑适当做空，突破阻力位则可考虑做多。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a cautious consolidation around the $75,500–$75,600 zone after testing intraday highs near $75,604. Price action indicates a mild bullish bias in the short term, yet the market remains range-bound. The latest closing above $75,500 suggests buyers are defending this level, forming a potential short-term support. However, a failure to sustain momentum above $75,600 could see the market revert toward lower support near $75,200, highlighting the importance of closely monitoring intraday swings.  \n\nThe MACD reading of -294.34 points to lingering bearish pressure despite the marginal 0.06% gain, suggesting that upward momentum is limited for now. The absence of a signal line limits full confirmation, but the negative divergence signals caution. The SMA(20) at $76,666 acts as a key resistance barrier, representing a potential target if bullish pressure intensifies. Traders should watch for any crossovers or convergence in MACD to identify early trend reversals.  \n\nFrom a support and resistance perspective, immediate levels to monitor include $75,500 as support and $76,000 as near-term resistance, with the SMA(20) marking a stronger ceiling. A decisive break above $76,666 could accelerate bullish momentum toward $77,000, whereas a breakdown below $75,500 could open the path toward $75,000. Volume analysis and candle structure should be incorporated to confirm the validity of these levels.  \n\nTrading strategies favor short-term range plays given the limited directional bias. Conservative traders might consider buying near $75,500 with tight stops below $75,200, targeting $76,000 to $76,500 for partial exits. More aggressive participants could anticipate a breakout above the SMA for momentum entries. Given the current consolidation, patience is warranted, and risk management is essential to navigate potential false breakouts in either direction."
+    }
+  }
+}
