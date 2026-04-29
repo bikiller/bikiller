@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-29T18:52:13.135Z",
+  "price": {
+    "close": "75282",
+    "high": "76236.65",
+    "low": "74914",
+    "open": "76146.12",
+    "change": "-1.14",
+    "datetime": "2026-04-29 18:00:00"
+  },
+  "indicators": {
+    "rsi": 32.14099,
+    "macd": -206.8443,
+    "macd_signal": -27.64456,
+    "sma20": 76748.254
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期偏弱震荡整理",
+      "content": "当前BTC/USD价格位于75282美元，短期承压于SMA(20)76748附近，显示上行动能不足。24小时内价格下跌1.14%，高低波动区间76236.65至74914，市场短期偏向整理，缺乏明显突破方向。结合K线形态，可见上方存在一定抛压，下行支撑逐渐显现。  \n\nMACD指标处于-206.84附近，且Signal线数据缺失，但负值区表明空头占优，短线多头动能减弱。价格位于SMA(20)下方，意味着均线压力较大，多头若想反攻需回补该均线。虽然RSI数据缺失，但结合价格走势，可推测市场处于中性偏弱状态，暂未出现超买或超卖极端信号。  \n\n支撑位可关注75000附近心理整数关口及74914低点，若跌破或下行放量，可能进一步测试74000区域。阻力位则集中在SMA(20)76748及76236高点附近，上方突破需伴随成交量放大，否则难以维持上行格局。  \n\n交易上建议保持观望，短线可尝试低位小幅布局多单，严格止损于74900下方。激进交易者可在价格反弹至SMA(20)附近考虑减仓或轻仓空单，但需关注市场整体情绪及资金流向，谨防波动加剧引发快速回调。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market currently shows a slight downtrend, with a recent price of $75,282, reflecting a 1.14% drop over the past 24 hours. This decline follows a high of $76,236.65 and a low of $74,914 within the same period. The current price is also below the 20-period simple moving average (SMA) at $76,748.254, suggesting a bearish short-term trend. If Bitcoin fails to reclaim the SMA, further downside momentum could materialize, particularly with the MACD indicator showing a negative value of -206.84430.\n\nBitcoin's RSI(14) is currently unavailable, which limits the ability to assess overbought or oversold conditions effectively. However, analyzing the price action relative to key support and resistance levels provides insight into potential market movements. The immediate support zone is around the low of $74,914, while resistance sits near the $76,236 level, with the 20-period SMA acting as an additional barrier. A breakout above the resistance could signal a potential reversal or consolidation, whereas a failure to hold support might open the door for a more significant pullback.\n\nLooking at the MACD, the negative value of -206.84430 indicates that bearish momentum is dominating, which is consistent with the overall price movement. The lack of a signal line value makes it difficult to assess potential crossovers, but the MACD still suggests caution for bullish positions in the near term. A bullish reversal would require a positive MACD crossover and a break above the SMA, which could trigger renewed upward momentum.\n\nFor traders, caution is advised in the current market conditions. A short-term strategy may involve waiting for a confirmation of support around $74,914 or a break above $76,236 for potential long trades. However, a confirmed breakdown below support could prompt short positions, especially if the price moves closer to the lower support levels."
+    }
+  }
+}
