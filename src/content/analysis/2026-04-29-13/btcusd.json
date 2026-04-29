@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-29T13:47:07.612Z",
+  "price": {
+    "close": "76538",
+    "high": "77239.46",
+    "low": "76538",
+    "open": "77125.87",
+    "change": "-0.76",
+    "datetime": "2026-04-29 13:00:00"
+  },
+  "indicators": {
+    "rsi": 42.016462,
+    "macd": 126.61318,
+    "macd_signal": 103.99577,
+    "sma20": 76825.4225
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱的短线整理格局",
+      "content": "当前BTC价格围绕76500一线运行，24小时小幅下跌0.76%，已略低于20日均线76825附近，短线进入震荡偏弱整理格局，买盘动能有所减弱。\n\nMACD指标仍保持126以上正值，但信号线缺失显示多空共识不足，动能柱开始收敛。RSI暂缺但结合价格跌破均线，短期偏弱。\n\n下方支撑关注76500整数关口，若跌破或进一步指向76000区域；上方阻力位于76825均线及77239前高，需放量突破确认。\n\n操作上建议以区间思路为主，未站稳76825前不追多，若回踩76500附近可分批轻仓试多，跌破则及时止损观望为宜。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $76,538, showing a mild retracement from recent highs near $77,239. The price is slightly below the 20-period simple moving average of $76,825, signaling short-term consolidation rather than a strong directional bias. Market momentum appears subdued as the 24-hour decline of 0.76% suggests cautious trading, with sellers testing support at recent intraday lows. Traders may interpret this as a pause before a potential continuation of the prior uptrend or a retest of key support.  \n\nTechnical indicators are partially unavailable, limiting the depth of momentum analysis. The MACD sits at 126.61 but lacks a signal line for cross verification, which typically confirms bullish or bearish shifts. Despite this, the slight dip below the SMA(20) implies short-term weakness, possibly signaling minor profit-taking. Absence of the RSI removes clarity on overbought or oversold conditions, so traders should exercise prudence, especially if planning scalping or swing trades in this tight range.  \n\nImmediate support is near the current low of $76,538, followed by secondary support around $76,200, where buyers have historically stepped in. Resistance remains at the 24-hour high of $77,239 and further up at $77,500, a level that could cap upside in the near term. Price behavior around these levels will be crucial; a strong bounce from support may indicate renewed bullish sentiment, while a breakdown could trigger deeper consolidation or corrective movement.  \n\nFor trading strategies, cautious positioning is advised. Short-term traders might look for pullbacks near support to enter long positions with tight stop-losses below $76,200. Conversely, aggressive traders could consider momentum plays above $77,239 to capture breakout potential. Overall, the market exhibits a neutral-to-slightly-bearish posture on this timeframe, emphasizing the need for clear entry and exit parameters while monitoring volatility and broader macro catalysts impacting BTC/USD."
+    }
+  }
+}
