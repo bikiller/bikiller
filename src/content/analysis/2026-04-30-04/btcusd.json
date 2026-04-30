@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-30T04:45:46.092Z",
+  "price": {
+    "close": "75429.99",
+    "high": "75947.38",
+    "low": "75361.04",
+    "open": "75898.86",
+    "change": "-0.62",
+    "datetime": "2026-04-30 04:00:00"
+  },
+  "indicators": {
+    "rsi": 38.39134,
+    "macd": -265.53283,
+    "macd_signal": -232.022865,
+    "sma20": 76234.4935
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前震荡区间下的多空博弈",
+      "content": "当前比特币/美元价格接近75430美元，24小时变动略显平稳，跌幅仅为0.62%。从技术面来看，比特币当前处于一个震荡区间内，价格波动较小，整体缺乏明显的方向性。近期高点为75947美元，低点则为75361美元，显示市场缺乏强烈的买入或卖出力量。\n\nRSI和MACD指标的缺失使得我们难以从动量角度获取更多的市场情绪信号。然而，SMA(20)值约为76234美元，表明短期内比特币价格在接近该水平时可能遇到一定的卖压。若价格持续下探并跌破75360美元支撑，可能会面临进一步的下行压力。\n\n当前的支撑位约在75360美元，若价格下跌至此区域，可能会触发反弹。而上方的阻力位则位于75947美元附近，突破该水平可能会恢复上涨趋势。短期内，比特币价格可能会继续维持震荡整理，直到出现更明确的价格突破。\n\n交易建议方面，建议在75360美元附近寻找潜在的反弹机会，但需留意突破75950美元后再考虑做多。若价格跌破75360美元，空头趋势可能会进一步加强，投资者需谨慎操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has shown slight weakness over the past 24 hours, with the price dropping by 0.62%, currently hovering around $75,429.99. This minor pullback follows a recent high of $75,947.38, suggesting some temporary resistance at this level. The ongoing price action remains near the 20-period Simple Moving Average (SMA) of $76,234.49, indicating a consolidation phase. While the price is not far from recent highs, it has been struggling to maintain upward momentum, potentially signaling a bearish short-term trend unless we see a strong breakout above $76,000.\n\nThe RSI (Relative Strength Index) is unavailable at the moment, but the MACD is currently in negative territory at -265.53, reflecting the lack of bullish momentum. This negative MACD suggests the market is in a period of indecision or mild bearishness. The absence of the Signal line prevents a more conclusive analysis, but the current negative MACD reading should not be overlooked, especially given the price's failure to hold above key resistance levels. Traders should remain cautious in the near term, awaiting further confirmation from the MACD and additional indicators.\n\nSupport for Bitcoin at $75,361.04 is critical in the short term, as this level represents a recent low. If the price falls below this support, it could suggest further downside toward $74,000 or lower, a zone where demand could increase. Conversely, the $76,000 to $76,500 range remains a crucial resistance area. A successful push above this resistance could set the stage for a continuation of the uptrend, targeting higher levels toward $77,500 or more.\n\nIn terms of trading strategy, traders may consider short positions if Bitcoin fails to reclaim key resistance near $76,000, especially given the negative MACD and lack of momentum. For more aggressive traders, watching for a break above $76,500 could present a buying opportunity, but the current market lacks clear bullish confirmation. Conservative traders should wait for further price stabilization or a trend reversal confirmation before entering positions."
+    }
+  }
+}
