@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-30T12:04:50.875Z",
+  "price": {
+    "close": "76063.82",
+    "high": "76122",
+    "low": "75982.3",
+    "open": "76039.6",
+    "change": "0.03",
+    "datetime": "2026-04-30 12:00:00"
+  },
+  "indicators": {
+    "rsi": 49.24857,
+    "macd": -113.33153,
+    "macd_signal": -174.36604,
+    "sma20": 75872.7655
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前走势趋于震荡",
+      "content": "当前比特币/美元（BTC/USD）价格为76063.82美元，近期价格波动较小，24小时内仅上涨0.03%。从市场走势来看，价格在高点76122和低点75982.3之间震荡，表明短期内缺乏明确的趋势方向。\n\nRSI(14)指标目前无法提供相关数据，而MACD指标的值为负值（-113.33），显示出市场上卖压较重，且动能不足。由于信号线（Signal）缺失，我们无法通过MACD进一步确认趋势的反转或延续。短期内，市场可能维持震荡行情。\n\nSMA(20)指标为75872.77，略低于当前价格，这表明短期内支撑位较为强劲，若价格回调至该区域，可能会得到支撑并企稳上涨。若跌破此支撑位，价格可能会进一步回落至较低区域。\n\n从技术面来看，支撑位在75872附近，而阻力位则接近76122。建议交易者密切关注该区间的突破情况。如果价格突破76122上行，可能会迎来更高的上涨空间；而若跌破75872支撑位，需警惕进一步回调的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing signs of consolidation near the $76,000 level, with the latest price at $76,063.82. Price action over the past 24 hours has been narrow, with a high of $76,122 and a low of $75,982.3, suggesting a temporary equilibrium between buyers and sellers. The slight 0.03% change reflects low volatility, often preceding a directional move. Short-term momentum appears muted, but the overall trend remains upward when considering the proximity to the 20-period simple moving average at $75,872.77.  \n\nThe MACD reading of -113.33 indicates a bearish undertone in the immediate trend, despite the lack of a confirmed signal line. This divergence suggests that while the broader trend may still be bullish, short-term selling pressure is present. Traders should monitor whether the MACD histogram begins to converge toward the zero line, which could indicate a resumption of upward momentum. The absence of RSI data limits overbought or oversold confirmation, but SMA alignment with current price provides a baseline support area.  \n\nKey support is observed around the 20-period SMA at $75,872, acting as a buffer against minor corrections. Immediate resistance lies near the intraday high of $76,122, with a psychological round number of $76,500 representing the next notable barrier. Breaking above this level with volume could open a path toward $77,000, while failure to hold the SMA could prompt a retest of $75,500. Traders should watch for consolidation patterns near these zones to anticipate breakout or reversal opportunities.  \n\nFor tactical positioning, a cautious approach is advisable given the narrow range and mixed signals. Aggressive traders may consider entering long positions on a confirmed bounce above $76,000 with tight stops below the SMA. Conversely, short-term scalpers could exploit minor retracements toward the $75,872 support. Maintaining discipline on risk management is crucial, as momentum indicators suggest that price could oscillate within this range before establishing a clearer trend direction."
+    }
+  }
+}
