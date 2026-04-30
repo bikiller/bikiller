@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-30T15:24:52.106Z",
+  "price": {
+    "close": "76367.73",
+    "high": "76425.16",
+    "low": "76122.42",
+    "open": "76267.99",
+    "change": "0.13",
+    "datetime": "2026-04-30 15:00:00"
+  },
+  "indicators": {
+    "rsi": 54.28765,
+    "macd": -12.79821,
+    "macd_signal": -103.83617,
+    "sma20": 75977.225
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多趋势",
+      "content": "当前比特币价格维持在76367.73美元附近，较20日简单移动平均线(SMA20)75977.23美元略高，显示短期价格仍有支撑。盘面呈现轻微震荡格局，高低差仅约300美元，说明市场多空力量暂时均衡，短线波动有限。  \n\nMACD指标为-12.79821，处于零轴下方，显示动能偏弱，但尚未出现明显拐点。缺乏RSI参考值，需结合成交量及均线结构判断买卖信号。目前价格仍在SMA20上方，短期可能延续震荡上行，但需关注动能放缓风险。  \n\n关键支撑位位于SMA20附近的75977美元，如跌破该水平，短线可能测试75800美元附近支撑；阻力位则在76425美元近期高点，如突破则有望向76550美元附近延伸。短线交易者可利用支撑低吸、阻力高抛策略，控制仓位，避免追高。  \n\n总体来看，短期偏多，但市场缺乏强烈趋势信号，震荡调整仍可能继续。建议以低位逢低做多为主，设置止损在75950美元下方，以防快速回调，同时关注突破阻力的确认信号以捕捉上行机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s recent price action around $76,367 indicates a subtle bullish bias, albeit with muted momentum. The market has tested the intraday high of $76,425 but faced immediate resistance, reflecting cautious buyer engagement. The low of $76,122 suggests that sellers are defending lower levels, yet the narrow range highlights consolidation. Short-term trend analysis points to a slow upward drift, with price hovering above the 20-period SMA at $75,977, signaling mild support for continued upward movement.  \n\nFrom a technical perspective, the MACD reading of -12.79821 indicates bearish underlying momentum, though the absence of a signal line makes cross confirmation uncertain. This divergence between the SMA support and MACD weakness suggests a market in equilibrium, with neither buyers nor sellers asserting dominance. Traders should monitor whether MACD begins a bullish crossover, which could align with price breaking above $76,425 to confirm a potential short-term uptrend. Conversely, a decline below the SMA may accelerate a pullback.  \n\nKey support sits at $75,977, reinforced by the SMA, followed by the recent low at $76,122. Resistance is concentrated at the $76,425 level, with a psychological ceiling near $76,500. A decisive breakout above these zones could attract momentum traders, while failure to surpass resistance may trigger range-bound behavior. The current consolidation phase highlights the importance of observing volume spikes or candlestick patterns signaling directional bias.  \n\nFor trading, cautious longs could consider positions near the SMA with tight stop losses just below $75,977 to mitigate downside risk. Short positions may be appropriate if price repeatedly fails to breach $76,425, aiming for the SMA and lower support targets. Risk-adjusted strategies should account for low volatility and the possibility of sharp intraday reversals, emphasizing nimble execution and strict adherence to defined support and resistance levels."
+    }
+  }
+}
