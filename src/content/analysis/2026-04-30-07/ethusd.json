@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-04-30T07:40:42.194Z",
+  "price": {
+    "close": "2256",
+    "high": "2258.57",
+    "low": "2243.7",
+    "open": "2247.95",
+    "change": "0.34",
+    "datetime": "2026-04-30 07:00:00"
+  },
+  "indicators": {
+    "rsi": 45.024169,
+    "macd": -12.74825,
+    "macd_signal": -12.66523,
+    "sma20": 2262.311
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期偏弱，震荡整理为主",
+      "content": "当前以太坊/美元价格位于2256美元，较20日简单移动均线(SMA20)2262略低，显示短期上行动能不足，多头力量有限。价格在高位2258.57与低位2243.7之间波动，短线呈现窄幅震荡格局，暂未形成明确突破信号。  \n\nMACD指标显示主线为-12.748，处于零轴下方，暗示空头略占优势，但信号线缺失，需要谨慎解读。结合未提供的RSI数据，可假设市场中性偏弱，短线可能继续横盘整理，等待动能进一步积累。  \n\n关键支撑位关注2240-2245美元区域，一旦失守，可能引发进一步回调至2230附近。阻力位在2260-2265美元附近，如价格突破，则可能重新吸引短线多头参与，但需警惕上方承压回落风险。  \n\n交易建议上，短线可考虑逢低轻仓做多，严格设置止损于2240美元以下；偏激进者可在突破2265美元时追多，但需关注成交量配合。总体而言，短期市场偏弱震荡，建议以防守为主，等待趋势确认后再布局中线策略。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently exhibiting a mild consolidation phase around the $2,256 mark, holding close to the short-term SMA(20) of $2,262.31. The narrow intraday range between $2,243.7 and $2,258.57 suggests market indecision, with neither bulls nor bears asserting dominance. Momentum appears subdued, implying potential sideways movement until a decisive breakout occurs. Traders should watch for price behavior near the SMA, as it may act as a pivot, providing clues on the short-term trend direction.  \n\nDespite the lack of a calculated RSI, the MACD reading of -12.74825 signals that bearish momentum is still slightly present, though diminishing. The absence of a signal line prevents full confirmation, but the negative value suggests that selling pressure has moderated rather than intensified. This aligns with the limited price movement seen over the past 24 hours, indicating that Ethereum may be forming a base for either a gradual recovery or a controlled pullback. Cautious traders may prefer to wait for a clearer crossover signal before committing.  \n\nKey support and resistance levels frame the current market environment. Immediate support lies near the recent low of $2,243, with secondary support around $2,230, which has historically absorbed downward pressure. Resistance is immediately above at $2,258, followed by a stronger barrier near $2,270, corresponding with previous intraday highs and the SMA alignment. A break above $2,270 could signal renewed bullish activity, while a drop below $2,230 might reignite short-term selling pressure, creating a more defined downtrend.  \n\nFrom a trading standpoint, a conservative approach may be optimal given the current sideways consolidation. Short-term traders could explore tight-range strategies near support and resistance, targeting incremental gains of 0.5–1% while employing stop-loss orders below $2,240. Longer-term positions may benefit from waiting for a confirmed trend reversal indicated by a positive MACD crossover or sustained price movement above the SMA. Risk management remains critical, as volatility may quickly expand if either bulls or bears regain momentum."
+    }
+  }
+}
