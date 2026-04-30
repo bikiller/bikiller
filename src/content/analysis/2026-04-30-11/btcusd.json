@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-04-30T11:10:49.193Z",
+  "price": {
+    "close": "76087.2",
+    "high": "76109.64",
+    "low": "75995.95",
+    "open": "75995.95",
+    "change": "0.12",
+    "datetime": "2026-04-30 11:00:00"
+  },
+  "indicators": {
+    "rsi": 49.6279,
+    "macd": -127.4337,
+    "macd_signal": -188.86524,
+    "sma20": 75863.6195
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡，观望为主",
+      "content": "当前BTC/USD价格在76087附近小幅波动，24小时变化仅0.12%，显示市场短期多空力量较为均衡。高点76109与低点75995区间狭窄，提示短线多空冲击有限，市场处于横盘整理阶段，短线趋势难以形成明确方向。  \n\n从技术指标来看，MACD处于-127.43的负值区间，虽信号线数据缺失，但负值表明短期动能偏弱，存在一定下行压力。SMA(20)位于75863附近，价格略高于均线，显示短期仍有支撑，若价格持续回踩均线，可视为防守买入机会。  \n\n支撑位参考75950-75860区域，若下破该区间，可能引发进一步回调压力。阻力位在76110-76150区间，若上破此区间，多头有望测试更高价位。结合价格震荡及技术指标，当前操作宜以低吸高抛为主，避免追涨。  \n\n交易建议方面，短线投资者可关注均线附近的低位支撑，谨慎布局多单；中长线投资者仍需等待明确趋势确认后再介入。整体策略以观望和防守为主，耐心等待市场突破信号，以降低操作风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a relatively neutral price action around $76,087.2, hovering slightly above its 20-day simple moving average at $75,863.6. The narrow daily range between $75,995.95 and $76,109.64 indicates low volatility and a market in consolidation. This consolidation phase often precedes a breakout, suggesting that traders should watch for a decisive move above the recent highs or a drop below the SMA support to gauge the next directional momentum.  \n\nThe MACD reading of -127.43 signals that bearish momentum is still present despite the sideways price movement. While the lack of a signal line prevents a full crossover interpretation, the negative MACD suggests that sellers maintain a subtle edge. The absence of RSI data limits overbought or oversold insights, but the combination of a slightly above-SMA price and negative MACD points to a cautious bullish bias with potential resistance hurdles ahead.  \n\nKey support is anchored at the 20-day SMA near $75,863, which has held as a buffer in recent sessions. Immediate resistance lies in the $76,100–$76,150 zone, where previous highs and intraday congestion could cap upside attempts. A breach above this level could trigger momentum-based buying, targeting $76,500. Conversely, a drop below the SMA could open a path toward $75,500, suggesting a short-term trend reversal or deeper consolidation.  \n\nTraders might consider a measured approach: initiating long positions on confirmed bounces off the SMA with tight stop-losses just below support, while scaling in cautiously on breakouts above $76,150. Short-term traders should remain alert to sudden volatility spikes due to low-range compression, while swing traders could view current levels as a consolidation opportunity for a trend continuation. Maintaining disciplined risk management is key in this balanced but momentum-sensitive environment."
+    }
+  }
+}
