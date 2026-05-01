@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-01T02:40:14.662Z",
+  "price": {
+    "close": "76603.9",
+    "high": "76715.51",
+    "low": "76529.96",
+    "open": "76652.86",
+    "change": "-0.06",
+    "datetime": "2026-05-01 02:00:00"
+  },
+  "indicators": {
+    "rsi": 58.24793,
+    "macd": 87.077337,
+    "macd_signal": 37.78223,
+    "sma20": 76281.341
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[市场维持横盘整理]",
+      "content": "当前比特币/美元（BTC/USD）价格保持在76,603.9美元附近，全天波动极为有限，24小时变化为-0.06%。市场显示出一定的横盘整理特征，未有明显的上涨或下跌动能。近期价格在76530美元和76715美元之间区间震荡，未能突破关键的支撑或阻力位。\n\n从技术指标来看，RSI(14)暂缺，无法提供超买或超卖信号。然而，SMA(20)为76,281.34美元，价格在这一水平略微上方运行，表明短期内多头有一定的控制力。MACD处于87.08，未提供足够的信号来明确趋势，显示市场仍在等待明确的方向选择。\n\n支撑位在76,530美元附近，若价格跌破该水平，可能会进一步向75,000美元区域靠近。阻力位则位于76,715美元，如突破此水平，可能会吸引更多买盘，推动价格上涨至78,000美元附近。因此，交易者可以关注这些关键水平的突破情况。\n\n建议在当前市场环境下，采取观望态度。若价格突破阻力位，可考虑进场做多；若跌破支撑位，则可考虑做空，风险控制在75,000美元区域附近。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's current price action suggests that the market is experiencing a period of consolidation. With the latest price at $76,603.9, BTC/USD is trading within a narrow range, evidenced by the high/low spread of just $185.55. This lack of significant movement implies indecision among market participants, and without a clear breakout, the trend remains neutral. As we observe the flat price movement, it’s important to monitor for any signs of a breakout either to the upside or downside in the coming hours.\n\nThe Relative Strength Index (RSI) remains unavailable at the moment, making it difficult to assess overbought or oversold conditions. However, with the 20-period simple moving average (SMA) at $76,281.34, Bitcoin is currently trading above this key short-term support level. This suggests a mild bullish bias, as the price remains above the SMA, signaling that buyers still hold some control. A potential dip below this level could indicate a shift towards bearish pressure, especially if accompanied by increasing volume.\n\nOn the MACD front, the histogram is at 87.077337, indicating a positive momentum; however, without a signal line to compare it to, the interpretation remains incomplete. If the MACD continues to show positive values, this could point towards continued bullish momentum, although the absence of a clear signal line means there is no immediate confirmation for entry. Traders should wait for more clarity before making significant moves.\n\nSupport levels are found at $76,000, and a more substantial level sits at $75,500. Resistance can be expected near $76,700, with the next significant level at $77,000. A break above $77,000 could signal the start of a bullish rally, while a fall below $75,500 would open up the potential for further downside toward $74,500 or lower. Traders should look for a clear breakout from this range to take more decisive action."
+    }
+  }
+}

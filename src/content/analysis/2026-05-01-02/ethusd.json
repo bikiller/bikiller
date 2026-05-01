@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-01T02:40:55.228Z",
+  "price": {
+    "close": "2267.83",
+    "high": "2269.82",
+    "low": "2264.84",
+    "open": "2267.42",
+    "change": "0.02",
+    "datetime": "2026-05-01 02:00:00"
+  },
+  "indicators": {
+    "rsi": 53.61161,
+    "macd": -1.46844,
+    "macd_signal": -3.24801,
+    "sma20": 2260.763
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理，短期持稳",
+      "content": "当前，ETH/USD的价格维持在2267.83美元附近，24小时变化仅为0.02%，显示出市场处于震荡整理阶段。价格上下波动较小，显示出市场的平衡状态。由于缺乏强烈的趋势，短期内可能继续维持当前的整理模式。\n\n技术指标方面，MACD为负值(-1.46844)，但未形成明确的信号线交叉，表明短期内缺乏明显的买入或卖出信号。SMA(20)为2260.76美元，价格相对接近这一水平，表明市场在这一点位附近存在一定的支撑作用。RSI数据缺失，未能进一步确认是否存在超买或超卖的迹象。\n\n支撑位方面，若价格下行，2260美元可能是关键支撑位。若跌破该点，可能会进一步回调至2230-2250美元区间。阻力位则在2270美元附近，若价格突破此处，可能会向2300美元进发。\n\n基于当前的市场数据，建议短期内以震荡交易为主，重点关注支撑位和阻力位的突破。若价格突破2270美元，可以考虑适度的多头操作；若跌破2260美元支撑，则需考虑短线空头策略。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $2,267.83, hovering near the upper end of its 24-hour range of $2,264.84 to $2,269.82. The market shows relative stability with minimal intraday volatility, suggesting a short-term consolidation phase. The proximity to the 20-period simple moving average at $2,260.76 indicates mild bullish support, while the slight positive drift above this level reinforces potential upside momentum. Traders should observe price behavior around this moving average for early signs of trend continuation or reversal.  \n\nMomentum indicators present a nuanced picture. The MACD at -1.46844 signals residual bearish pressure despite the flat price action, highlighting that buyers have not fully regained control. The absence of a signal line reading prevents a full crossover analysis, but the current negative MACD suggests caution for aggressive long positions. Market participants may benefit from watching for a potential MACD histogram expansion above zero, which could confirm a return to bullish dominance.  \n\nSupport and resistance levels are well-defined in this tight trading range. Immediate support is seen at $2,260, reinforced by the 20-period SMA, while the high at $2,269 serves as near-term resistance. Breaking above this level with volume could trigger a short-term bullish breakout toward $2,280 or higher. Conversely, a drop below $2,260 may expose $2,250 as the next support zone, signaling a possible shift toward consolidation or mild retracement.  \n\nFor traders, a conservative approach is advisable. Long positions could be considered above $2,270 with tight stop-losses around $2,260 to manage risk. Short-term scalpers might exploit the narrow trading band, capitalizing on minor intraday fluctuations. Investors with a medium-term horizon should await confirmation from MACD and price action above resistance before committing, while risk-averse traders may prefer to hold until clearer bullish signals emerge."
+    }
+  }
+}
