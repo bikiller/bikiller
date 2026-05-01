@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-01T08:32:15.462Z",
+  "price": {
+    "close": "2285.68",
+    "high": "2288.43",
+    "low": "2277.11",
+    "open": "2279.54",
+    "change": "0.27",
+    "datetime": "2026-05-01 08:00:00"
+  },
+  "indicators": {
+    "rsi": 61.74152,
+    "macd": 4.4194,
+    "macd_signal": 1.41869,
+    "sma20": 2267.0115
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多走势",
+      "content": "目前以太坊价格在2285美元附近小幅波动，日内涨幅约0.27%，整体表现稳中略强。价格略高于20日均线(SMA20=2267)，显示短期多头仍具支撑，但缺乏明显突破信号，市场呈现震荡格局。  \n\nMACD指标当前为4.419，虽然缺少信号线数据，但数值为正，暗示短期买盘仍存在动能。RSI未提供，需结合价格行为观察超买或超卖压力，整体偏向温和上行，未出现剧烈回调风险。  \n\n短期支撑位位于2277-2267美元区间，若价格跌破该区间可能触发技术性回调；阻力位在2288-2295美元附近，突破则可能带动短线加速上行。均线和成交量配合将是判断趋势延续的重要参考。  \n\n交易策略上，可考虑低位逢低布局短线多单，止损设置在支撑下方约10美元，以控制回撤。若价格有效突破阻力，可顺势加仓，或待回踩支撑后再介入，保持仓位灵活与风险可控。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently showing a mild upward bias, trading around $2285.68, slightly above its 20-period simple moving average of $2267.01. The short-term momentum appears stable, as indicated by the modest 24-hour change of 0.27%. Price action is consolidating within a tight range between $2277.11 and $2288.43, suggesting a period of equilibrium where buyers and sellers are evenly matched. A breakout above the intraday high could signal renewed bullish momentum, while a dip below the low may test short-term support.  \n\nThe MACD reading of 4.41940, though lacking a signal line for confirmation, implies a positive momentum bias. Historically, values above zero suggest that the faster-moving average is positioned above the slower one, hinting at potential continuation of an upward trend. Traders should remain cautious, as the absence of a signal line limits the clarity of crossovers. Incorporating other momentum tools, like RSI when available, would provide additional confirmation for entry or exit decisions.  \n\nSupport is currently seen near $2277, which aligns closely with the lower bound of the daily range, offering a short-term floor for buyers. Resistance sits at $2288, marking the top of the recent consolidation zone. A strong move past this level could open the path toward $2300, while failure to hold support might test $2260, the next significant SMA-aligned floor. Monitoring these key levels can help manage risk while identifying tactical trading opportunities.  \n\nFrom a trading perspective, cautious long positions could be considered on minor dips above $2277, with tight stop-loss placement to protect against intraday reversals. Conversely, aggressive traders might wait for a confirmed break above $2288 with volume support before entering, aiming for momentum-driven gains. Risk management remains critical, given Ethereum’s inherent volatility, and traders should remain adaptable to shifts in market structure during periods of low-range consolidation."
+    }
+  }
+}
