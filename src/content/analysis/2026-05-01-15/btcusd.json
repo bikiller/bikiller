@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-01T15:37:45.375Z",
+  "price": {
+    "close": "78528.16",
+    "high": "78624.24",
+    "low": "78178.7",
+    "open": "78355.69",
+    "change": "0.22",
+    "datetime": "2026-05-01 15:00:00"
+  },
+  "indicators": {
+    "rsi": 72.36154,
+    "macd": 530.28969,
+    "macd_signal": 367.76195,
+    "sma20": 77152.3125
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "当前BTC/USD价格位于$78,528.16附近，较20日均线SMA(20) $77,152.31高出约1,376点，显示短期多头仍具支撑，但24小时仅上涨0.22%，表明市场动能有限，价格可能在高位震荡整理。近期高点$78,624.24与低点$78,178.7形成短期区间，行情未出现明确突破信号。  \n\nMACD值为530.29，但信号线数据缺失，难以判断完整的趋势强弱。不过价格持续高于SMA(20)暗示多头占优，短线可关注价格在均线附近的支撑效应。若价格回踩SMA(20)并出现反弹，可视为短线入场机会。RSI指标缺失，无法确认超买或超卖状态，需要关注成交量变化来辅助判断。  \n\n支撑位上可关注$77,152.31（20日均线）及$78,178.7的短期低点，若跌破可能触发进一步调整；阻力位在$78,624.24高点和$79,000心理关口，突破则可能延续上涨趋势。日内若价格维持在区间内震荡，可适度控制仓位，谨防追高风险。  \n\n交易策略上，建议短线偏多操作，低吸高抛结合，控制仓位，关注均线支撑反弹信号确认入场；若出现高位突破伴随放量，可考虑顺势跟进多单，同时设好止损以防回调。中期投资者可等待关键阻力突破确认趋势后再加仓，以降低震荡风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has maintained a firm position near $78,500, consolidating after a period of moderate bullish momentum. The price is trading above its 20-day simple moving average at $77,152, indicating that short-term momentum favors buyers. Recent price action shows a narrow intraday range between $78,178 and $78,624, suggesting that market participants are indecisive, waiting for a breakout either above the recent high or below the intraday low. Overall, the short-term trend remains slightly bullish, though caution is warranted as volatility may accelerate once a breakout occurs.  \n\nThe MACD reading at 530.29, while incomplete without a signal line, hints at upward pressure, suggesting that bullish momentum is present but not fully confirmed. The lack of a corresponding RSI reading makes it difficult to gauge overbought conditions, yet the current consolidation phase indicates neither extreme buying nor selling pressure. Traders should monitor the MACD for potential crossovers, as a bullish crossover above the signal line would reinforce upward continuation, while a bearish divergence could signal a retracement or temporary correction.  \n\nKey support is likely to be tested around $77,800–$77,150, coinciding with the 20-day SMA and recent consolidation lows. Resistance is immediate near $78,624, with a higher target around $79,200–$79,500 if momentum strengthens. Maintaining price above the SMA will be critical for sustaining bullish sentiment; a breakdown below $77,150 could open the door for a deeper pullback toward $76,500–$76,000. Monitoring these levels is essential for risk management, especially given Bitcoin’s historically sharp reactions to support tests.  \n\nFor traders, short-term long positions could be considered above the SMA with stops just below the support zone, targeting the next resistance levels. Conservative traders may prefer to wait for a clear breakout above $78,624 to confirm continuation before initiating positions. Conversely, aggressive traders might explore minor pullbacks for accumulation, but should use tight stops to mitigate downside risk. Overall, the market exhibits cautious optimism, with the potential for measured upside provided that support holds and momentum indicators align."
+    }
+  }
+}
