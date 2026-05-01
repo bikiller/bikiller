@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-01T18:15:15.769Z",
+  "price": {
+    "close": "2309.6",
+    "high": "2311.92",
+    "low": "2307.78",
+    "open": "2311.92",
+    "change": "-0.08",
+    "datetime": "2026-05-01 18:00:00"
+  },
+  "indicators": {
+    "rsi": 64.22681,
+    "macd": 11.47269,
+    "macd_signal": 9.052379,
+    "sma20": 2287.3495
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理，等待方向突破",
+      "content": "目前，ETH/USD在2309.6附近波动，处于震荡整理阶段。从日内价格波动来看，ETH的高点为2311.92，低点为2307.78，表明市场没有明确的上涨或下跌趋势。短期内价格呈现窄幅震荡，市场情绪较为谨慎。\n\n在技术指标方面，RSI和MACD的数据尚未完全提供，无法得出明确的超买或超卖信号。不过，SMA(20)在2287.35附近支撑着价格，显示出一定的买盘力量。价格若进一步下探至该位置附近，可能会遇到支撑反弹的机会。\n\n从支撑位和阻力位的角度看，短期内的支撑位在2287附近，而阻力位则在2311一线。如果价格突破2311的阻力位，可能会打开进一步上涨的空间，反之，如果下破2287支撑位，可能会触发进一步的下行压力。\n\n交易建议方面，考虑到市场目前的震荡格局，建议暂时保持观望，等待价格突破关键支撑或阻力后再做决策。如果价格突破2311，考虑轻仓做多；如果跌破2287，可以考虑做空。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The Ethereum market shows a minor negative shift with a 24-hour change of -0.08%, indicating a relatively stable but slightly bearish momentum. The current price of $2309.6 is hovering close to the low end of the range, which was recorded at $2307.78. This suggests that market participants are observing tight price fluctuations, and a further decline below this support level could signal additional bearish pressure, while any reversal upwards might indicate the market's resilience.\n\nAt the moment, the absence of the RSI(14) and the MACD signal makes it difficult to rely on momentum indicators to determine a clear directional bias. However, the MACD's current value of 11.47269 suggests some potential for upward momentum, assuming further confirmation in subsequent candles. Traders should remain cautious in the absence of stronger trend signals but could monitor for bullish divergence or a crossing of MACD above the signal line for a clearer entry point.\n\nThe 20-period Simple Moving Average (SMA) at $2287.3495 is slightly below the current price, acting as an immediate support zone. A move below the SMA could indicate further downward movement towards the next support level, which could be around $2300 or even $2280, depending on market reactions. The resistance levels are pegged around the recent high of $2311.92, with additional resistance appearing near the $2330 range, where recent upward price movements have struggled.\n\nFor trading, a breakout above $2311.92 could present an opportunity for short-term bullish entries, targeting higher levels like $2330 or $2350. Conversely, if price falls below the SMA and holds under the $2300 range, traders may consider shorting towards the next support zone. Tight stop-loss orders should be employed, as the market remains relatively tight with limited volatility."
+    }
+  }
+}
