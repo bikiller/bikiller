@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-01T11:43:52.693Z",
+  "price": {
+    "close": "618.42",
+    "high": "619",
+    "low": "617.41",
+    "open": "617.41",
+    "change": "0.17",
+    "datetime": "2026-05-01 11:00:00"
+  },
+  "indicators": {
+    "rsi": 53.68265,
+    "macd": 0.043408145,
+    "macd_signal": -0.17158104,
+    "sma20": 617.139
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短线震荡偏多",
+      "content": "当前BNB/USD价格在618.42附近徘徊，较24小时波动有限，显示市场短期呈现震荡整理状态。价格略高于20日均线SMA(617.14)，表明多头力量略占优势，但涨幅受限，高点619形成短期阻力。整体趋势偏多，但缺乏明显突破信号。  \n\nMACD当前值为0.0434，虽然信号线数据缺失，但正值显示多头动能仍存在。价格在617.4附近形成短期支撑，如果持续守稳该区域，多头可能延续。由于RSI数据缺失，需结合成交量和均线观察市场超买或超卖压力。  \n\n支撑位重点关注617.4和20日均线617附近区域，若跌破可能触发短线回调。阻力位在619附近，上破则有望打开上行空间至622左右。交易者可关注低吸高抛策略，短线可在支撑附近建仓，同时在阻力附近适当减仓或止盈。  \n\n综合来看，BNB短线呈震荡偏多格局，多头动能有限但稳定。谨慎投资者可等待价格明确突破阻力后再加仓，激进操作可在支撑附近低吸，止损应设置在616.5以下以控制风险，保持仓位灵活调整以应对市场波动。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 618.42\\n- 24h Change: 0.17%\\n- High/Low: 619 / 617.41\\n- RSI(14): N/A\\n- MACD: 0.043408145, Signal: N/A\\n- SMA(20): 617.13900\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin is currently exhibiting a **mildly bullish intraday bias**, trading just above the short‑term SMA(20) near **617.14**. Price action between **617.41–619** so far reflects a consolidation after recent upward moves, indicating equilibrium between buyers and sellers. The close clustering of the latest price around the moving average suggests that momentum hasn’t decisively accelerated, and market participants may be waiting for fresh catalysts before taking larger positions.\n\nWithout a reliable RSI reading, it’s harder to gauge overbought/oversold conditions, but the **positive MACD reading of 0.0434** points to a slight bullish momentum. Though the signal line is unavailable, the mere fact that the MACD is on the positive side suggests recent gains are still supported by underlying price action. Traders should watch for a **MACD crossover above its signal line** to confirm stronger bullish conviction. Conversely, a downturn in the MACD histogram may prelude short-term weakening.\n\nKey technical levels to watch include **support around 614–615**, which if broken could invite deeper retracement toward the next technical cushion near **610–605**. On the upside, a breakout above **620–625** would likely open a path toward **630–640**, where earlier swing highs could act as resistance. A sustained move above this would strengthen the narrative of trend continuation, while persistent rejection there might prompt range‑bound dynamics.\n\nFor traders, a **measured bias to the long side** makes sense as long as price remains above the SMA and key support holds. Short‑term longs could target the 625–630 area with tight stops under 614. Those seeking higher conviction might wait for a confirmed break above 625 with volume expansion. If support fails, short strategies targeting lower support zones with disciplined risk are reasonable."
+    }
+  }
+}
