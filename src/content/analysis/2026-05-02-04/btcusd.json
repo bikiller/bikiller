@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-02T04:30:11.016Z",
+  "price": {
+    "close": "78286.28",
+    "high": "78448.57",
+    "low": "78250.51",
+    "open": "78409.64",
+    "change": "-0.16",
+    "datetime": "2026-05-02 04:00:00"
+  },
+  "indicators": {
+    "rsi": 59.59942,
+    "macd": 350.00012284,
+    "macd_signal": 402.16238,
+    "sma20": 78160.225
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期偏弱]",
+      "content": "比特币当前价格稳定在78286.28美元附近，短期内价格震荡整理，未能突破前期的高点。这种价格走势暗示市场暂时缺乏强烈的方向性，可能受短期多空力量博弈的影响。若突破78448.57美元，则可能重回上涨轨道。\n\n技术指标方面，MACD的350.00012284表明市场存在一定的多头动能，但由于没有明确的信号线配合，难以形成明显的买入信号。RSI值尚未提供，因此无法判断超买或超卖的状态。SMA(20)在78160.225位置附近形成短期支撑，表明该价位有一定的支持力量。\n\n支撑位方面，价格在78250.51美元附近获得支撑。如果跌破该点，可能会进一步回调，甚至测试78000美元附近的支撑区域。阻力位则位于78448.57美元，突破该位置可能推动价格上涨至79000美元以上。\n\n综合来看，建议短期内保持观望，若价格接近支撑位，可以考虑适度买入，若突破阻力位，则可关注进一步上涨的机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD market is currently experiencing a mild bearish trend, as reflected by the slight negative change of -0.16% in the past 24 hours. The price has been fluctuating between the high of 78448.57 and the low of 78250.51, indicating that the market is consolidating within this range. This limited movement suggests a pause in momentum, which may be due to market indecision or a temporary lack of fresh catalyst. Traders should watch for a breakout above the resistance level at 78450 or a further dip toward 78250 for potential directional clarity.\n\nThe RSI(14) data is missing, which hinders a detailed understanding of the relative strength of the current trend. However, the absence of a confirmed overbought or oversold condition leaves room for uncertainty. Meanwhile, the MACD value at 350 indicates that bullish momentum is still present, though with a lack of an accompanying signal line, suggesting the possibility of market indecisiveness or a pause. Without a confirmed divergence or crossover, it is difficult to draw strong conclusions regarding the potential for continuation or reversal in the short term.\n\nThe SMA(20) at 78160 serves as a key dynamic support level, indicating that recent price action has found stability near this point. Traders should monitor this level closely, as a break below 78160 could signal a deeper retracement towards lower support levels. On the upside, 78450 remains a strong resistance zone. If BTC/USD successfully pushes above this level, we could see a continuation of bullish movement toward the next major resistance around 79000.\n\nIn terms of trading strategies, a cautious approach is recommended for the short term. Traders should consider waiting for a breakout above 78450 or a rejection at that level to define their entry points. A strong move above 78450 would likely target the 79000 resistance zone, while a drop below 78160 may open opportunities for short positions with potential support at 78000."
+    }
+  }
+}
