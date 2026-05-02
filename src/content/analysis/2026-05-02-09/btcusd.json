@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-02T09:02:10.865Z",
+  "price": {
+    "close": "78300.01",
+    "high": "78324.01",
+    "low": "78300.01",
+    "open": "78313.64",
+    "change": "-0.02",
+    "datetime": "2026-05-02 09:00:00"
+  },
+  "indicators": {
+    "rsi": 58.43738,
+    "macd": 247.77224,
+    "macd_signal": 314.37764,
+    "sma20": 78289.9855
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，潜在上行动力有限",
+      "content": "当前BTC/USD在78300附近盘整，价格紧贴20日简单移动平均线(SMA20: 78289.99)，显示短期市场缺乏明显方向性。日内波动幅度极窄，高低点仅相差24美元，表明多空力量基本平衡，趋势尚未形成突破信号。  \n\nMACD指标处于247.77附近，但缺乏完整信号线对比，短线动能偏弱，未能提供明确买卖信号。尽管价格略高于SMA20，但若MACD未出现金叉，上行动力可能受限，投资者应关注动能确认再进行建仓。RSI数据缺失，市场超买或超卖状态难以判断，需要结合其他震荡指标辅助分析。  \n\n支撑位方面，短期关注78250-78280区间，若价格跌破可能触发进一步调整；阻力位集中在78450-78500附近，多次尝试未能突破则可能形成顶部压力。若突破阻力位并伴随成交量放大，短线有望延伸上涨空间。  \n\n交易建议上，考虑短线观望为主，激进者可在支撑位附近尝试小幅做多，止损设置于支撑下方5-10美元；激进短线突破交易可等待价格确认上破78450后介入，同时关注MACD动能变化与成交量确认，以降低反转风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading at $78,300.01, showing a minor decrease of 0.02% over the past 24 hours. This suggests the market is relatively stable, with limited volatility. The high and low of the day ($78,324.01 and $78,300.01, respectively) indicate that the price is consolidating within a narrow range, hinting at indecision among traders. The lack of significant upward or downward movement signals a possible continuation of the current range-bound behavior, suggesting a waiting period for clearer direction.\n\nIn terms of indicators, the absence of a current RSI(14) and MACD signal makes it difficult to assess immediate momentum. However, the MACD value of 247.77224 suggests some bullish potential, yet without a defined signal line, the indication remains inconclusive. Meanwhile, the 20-period Simple Moving Average (SMA) at $78,289.99 is acting as a dynamic support level, as the price is trading near it. If the price falls below this level, it could trigger further declines, with the next support likely in the $77,800 to $77,500 range.\n\nResistance is likely situated around the recent high of $78,324.01. If Bitcoin manages to break through this level, it could open the door to higher prices, potentially testing the $79,000 to $79,500 range. A decisive break above the $78,324 resistance would be a strong signal for a continuation of the upward trend. On the other hand, failure to break this resistance could result in a prolonged consolidation phase or even a retracement toward lower support levels.\n\nFor traders, a cautious approach is recommended. If the price successfully breaks above resistance, consider taking long positions with targets around $79,000. However, if Bitcoin falls below the SMA and shows signs of weakness, short positions could be viable, with a focus on key support zones. Traders should remain vigilant for confirmation from technical indicators to avoid false signals in this uncertain market."
+    }
+  }
+}
