@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-02T05:24:56.405Z",
+  "price": {
+    "close": "78067.05",
+    "high": "78192.89",
+    "low": "78034.28",
+    "open": "78179.39",
+    "change": "-0.14",
+    "datetime": "2026-05-02 05:00:00"
+  },
+  "indicators": {
+    "rsi": 54.42101,
+    "macd": 304.52712,
+    "macd_signal": 381.27091,
+    "sma20": 78195.1515
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘整理，震荡偏弱",
+      "content": "当前BTC/USD价格位于78067.05美元，较日内高低点波动有限，显示市场短期处于横盘整理状态。价格略低于20日均线SMA(20) 78195.15美元，暗示短期上行动能不足，多空力量处于相对均衡，短线可能维持震荡格局。  \n\nMACD指标显示当前值304.53，尽管信号线数据缺失，但MACD正值仍表明多头仍占主导，但增速放缓，动力不足。结合价格接近均线，投资者应警惕潜在回调风险，避免追高。RSI数据缺失限制了超买超卖的判断，但从价格走势来看，短线多头动能有限。  \n\n关键支撑位在78034附近，如跌破该水平，可能触发进一步回调至77900-77850区间；阻力位在日内高点78192附近，突破需伴随成交量放大，否则容易形成上方承压。区间波动特征明显，适合以支撑位买入、阻力位减仓的策略操作。  \n\n交易建议上，短线投资者可保持观望，等待突破信号再介入；偏好震荡操作的交易者可在支撑区间轻仓布局多单，并严格止损于支撑下方50-100点。同时关注整体市场情绪和成交量变化，谨防突然的快速回调造成风险敞口。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The Bitcoin market is currently showing a slight downtrend, as reflected by the 24-hour price change of -0.14%. The price has been fluctuating within a narrow range between 78034.28 and 78192.89, signaling a period of consolidation. Given the lack of significant movement, market participants are likely waiting for a breakout in either direction. The current price of 78067.05 is sitting close to the 20-period Simple Moving Average (SMA) of 78195.1515, suggesting indecision in the market.\n\nThe absence of a clear RSI reading and signal data for MACD limits the depth of technical analysis, but the MACD value of 304.52712 suggests moderate bullish momentum. Traders will need to watch for the MACD crossing above or below its signal line in the near future for more definitive momentum signals. Until then, the market seems to be in a range-bound phase, with potential for either a break upward or downward. \n\nKey support and resistance levels are important for framing potential price action. The immediate support lies around 78034.28, the recent low, and a break below this level could lead to further downside towards the next support zone. On the upside, resistance is likely near the high of 78192.89, with a breakout above this level potentially signaling a shift toward a stronger bullish trend. \n\nGiven the current market behavior, conservative traders may opt to wait for a clear breakout above resistance or a breakdown below support to engage in more definitive trades. If the price remains range-bound, a scalping strategy could be suitable for capturing small price movements within the established range. Risk management is key, especially considering the volatility inherent in the cryptocurrency market."
+    }
+  }
+}
