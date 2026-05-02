@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-02T10:12:58.377Z",
+  "price": {
+    "close": "78303.03",
+    "high": "78317.1",
+    "low": "78280",
+    "open": "78299.8",
+    "change": "0.00",
+    "datetime": "2026-05-02 10:00:00"
+  },
+  "indicators": {
+    "rsi": 58.50228,
+    "macd": 233.64037,
+    "macd_signal": 298.22738,
+    "sma20": 78287.3415
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理中，短期支撑待验证",
+      "content": "当前比特币/美元（BTC/USD）市场处于震荡整理状态，价格几乎没有大幅波动。最新价格为78303.03美元，较24小时变化为零，显示出市场情绪较为平稳。尽管如此，价格区间较小，当前高点和低点在78317.1与78280之间，表明市场未能突破显著的支撑或阻力。\n\n从技术指标来看，RSI(14)尚未提供数据，可能因为当前市场未有明显的超买或超卖信号。MACD显示出233.64037的值，但信号线缺失，这意味着市场的动能尚未明确，可以视为趋势不明的信号。SMA(20)为78287.34美元，表现出短期内价格处于一个相对稳定的区间，但也未显示出明显的上升或下降趋势。\n\n当前的支撑位在78280美元附近，若价格跌破该位置，可能会进一步测试更低的支撑区域。阻力位则在78317.1美元附近，突破此位置有望进一步推动价格向上。考虑到短期内的震荡走势，建议保持观望，直到市场突破关键支撑或阻力后再做决策。如果价格突破阻力，可考虑做多，反之则可做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s current price action around $78,303 shows a tightly consolidated range between its 24-hour high of $78,317 and low of $78,280. This narrow movement suggests a market in equilibrium, with neither buyers nor sellers exerting strong pressure. The SMA(20) at $78,287 aligns closely with the current price, reinforcing the idea of short-term stability. Traders might interpret this as a preparation phase before a potential directional breakout, though volatility remains subdued.  \n\nThe MACD reading of 233.64 indicates bullish momentum is present, but the absence of a signal line limits its immediate actionable clarity. Without RSI data, overbought or oversold conditions cannot be precisely gauged, yet the flat price action implies a lack of extreme sentiment. The combination of a near-zero 24-hour price change and the SMA alignment points to a neutral stance, where momentum traders may await confirmation before committing to significant positions.  \n\nKey support lies near $78,280, coinciding with the day’s low and the SMA support zone. Resistance is immediate at $78,317, a level that has contained upside pressure in the short term. A decisive break above this range could trigger a bullish leg toward $78,500 or higher, while a breakdown below $78,280 may prompt a retest of $78,100. The proximity of support and resistance suggests tight stop-loss levels for intraday trades, emphasizing risk management in a low-volatility environment.  \n\nFor trading strategy, cautious traders might prefer range-bound tactics, buying near support and selling near resistance, while more aggressive participants could watch for a breakout or breakdown for momentum trades. Confirmation through volume and additional indicators, such as RSI once available, would enhance entry precision. Overall, the market exhibits balance, offering short-term opportunities for scalping or swing trades while maintaining a broader neutral bias until volatility signals a clear directional move."
+    }
+  }
+}
