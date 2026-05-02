@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-02T08:13:52.368Z",
+  "price": {
+    "close": "2300.91",
+    "high": "2301.08",
+    "low": "2299.01",
+    "open": "2301.07",
+    "change": "-0.01",
+    "datetime": "2026-05-02 08:00:00"
+  },
+  "indicators": {
+    "rsi": 55.028587,
+    "macd": 4.92276,
+    "macd_signal": 5.83561,
+    "sma20": 2301.6685
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡整理，观望为主",
+      "content": "当前以太坊/美元价格在2300附近微幅波动，日内涨跌幅仅为-0.01%，显示市场短期缺乏明确方向。价格紧贴20日简单移动平均线(SMA20: 2301.67)，短期趋势呈现横盘整理特征，多空力量相对均衡，尚未形成强烈突破信号。  \n\nMACD指标显示主线为4.92276，虽具体信号线未提供，但数值处于零轴上方，暗示多头略占优势，但动能不足以推动持续上涨。缺乏RSI数据使超买超卖判断有限，需关注成交量变化以确认潜在趋势。  \n\n关键支撑位位于2299附近，若失守可能触发短线回调至2285~2280区域；阻力位在2305~2310区间，突破后有望延伸至2320。短期内价格受阻明显，波动空间受限，交易者宜关注关键价位的突破或回踩。  \n\n交易策略上，建议短线观望为主，若价格回落接近支撑可考虑小仓位多单布局，同时设好止损以控制风险。反之，如价格突破2310阻力并放量，可适度追涨，但需警惕假突破风险，保持灵活调整仓位的策略。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $2300.91, showing a slight decline of 0.01% over the past 24 hours. The price has been relatively stable, with the daily range between $2299.01 and $2301.08. This indicates a narrow consolidation pattern, where the market lacks significant volatility. However, this tight price action can often precede a breakout or breakdown, so attention should be given to any sudden shifts in market sentiment. In the current scenario, the market appears to be in a neutral phase, awaiting directional clarity.\n\nThe RSI(14) is unavailable, which limits the ability to assess overbought or oversold conditions. The absence of the RSI makes it challenging to gauge the momentum and strength of price movements. The MACD, however, shows a positive value of 4.92276, suggesting that the trend is somewhat bullish. Although the signal line is missing, the current MACD value points to a slight upward momentum. Traders should keep an eye on the MACD for any crossovers that could signal a stronger move in either direction.\n\nThe 20-period simple moving average (SMA) stands at $2301.67, which is very close to the current price, further reinforcing the market's neutrality. The SMA suggests that the price is neither in a clear uptrend nor downtrend, as it’s hovering right around this key moving average level. Any significant move away from this level could indicate the start of a more defined trend. If the price breaks above the SMA, it could test the $2310-$2320 range as a potential resistance zone.\n\nFor traders, the immediate strategy should be to monitor for any breakout or breakdown from the current price range. Support is likely around the $2298-$2300 area, with resistance near $2310. A break below $2298 could signal further downside, possibly toward $2290. Conversely, a move above $2310 could open the door for a rally towards the $2320-$2330 levels. Caution is advised in this range-bound market, as volatility could pick up unexpectedly."
+    }
+  }
+}
