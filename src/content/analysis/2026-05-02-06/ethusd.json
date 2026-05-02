@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-02T06:05:29.936Z",
+  "price": {
+    "close": "2301.47",
+    "high": "2301.47",
+    "low": "2299.51",
+    "open": "2299.51",
+    "change": "0.09",
+    "datetime": "2026-05-02 06:00:00"
+  },
+  "indicators": {
+    "rsi": 56.40011,
+    "macd": 5.26269,
+    "macd_signal": 6.20567,
+    "sma20": 2300.724
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理偏多走势",
+      "content": "当前以太坊价格在2301美元附近小幅波动，短期呈现震荡整理态势。价格紧贴20日均线(SMA20=2300.72)，显示多空力量相对均衡，但略偏多方。全天波幅仅约2美元，说明市场暂时缺乏明确方向性。  \n\nMACD指标显示快线在5.26附近，虽然信号线数据缺失，但价格位于均线附近，暗示短线多空力量交错，需关注后续动能变化。若MACD快线持续上移且出现金叉，将提供多头确认信号。RSI未提供，需观察超买超卖区间的出现，以判断短期回调压力。  \n\n支撑位可参考前低2299附近，若跌破此水平可能触发空头压力加大；阻力位在2305-2310区间，短线突破后有望打开进一步上涨空间。均线支撑稳固，若价格回踩不破，可视为短线买入机会。  \n\n交易策略上，可保持轻仓偏多思路，建议在2300附近尝试低吸，止损设置略低于前低2285美元。若价格突破阻力2310，可考虑加仓追涨，但需密切关注市场情绪及成交量配合，谨防震荡放大导致反转风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is trading almost flat at 2301.47, with a muted 24h change of 0.09%. Price is sitting slightly above the SMA(20) at 2300.724, suggesting a very mild short-term bullish bias, but the narrow high/low range shows limited momentum. The market appears to be consolidating rather than trending strongly.\n\nMACD is positive at 5.26269, which supports modest upside pressure, though the missing signal line limits confirmation. RSI is unavailable, so overbought or oversold conditions cannot be assessed reliably. Current price action looks constructive but fragile, with buyers needing stronger volume and follow-through to confirm continuation.\n\nImmediate support is near 2300.72, aligned with the SMA(20), followed by 2299.51, the session low. Resistance sits at 2301.47, the current high, with a breakout above this level potentially opening room toward the next psychological area near 2310. A drop below 2299.50 would weaken the short-term structure.\n\nTraders may consider waiting for a clear breakout above 2301.50 before entering long positions, ideally with confirmation from volume or a rising MACD spread. Conservative traders could look for pullbacks toward 2300.70 as potential support entries. Risk management is important here, as the tight range suggests either low volatility or a pending directional move."
+    }
+  }
+}
