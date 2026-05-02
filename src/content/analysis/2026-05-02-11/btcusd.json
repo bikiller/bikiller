@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-02T11:30:04.342Z",
+  "price": {
+    "close": "78216.77",
+    "high": "78249.97",
+    "low": "78164.86",
+    "open": "78249.97",
+    "change": "-0.04",
+    "datetime": "2026-05-02 11:00:00"
+  },
+  "indicators": {
+    "rsi": 55.79905,
+    "macd": 209.51421,
+    "macd_signal": 279.80764,
+    "sma20": 78273.4565
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，关注关键支撑阻力",
+      "content": "目前BTC/USD价格维持在78216附近，日内波动幅度有限，仅微幅下跌0.04%，显示市场短期处于盘整状态。价格紧贴20日简单移动平均线(SMA20: 78273)，表明短期多空力量相对均衡，缺乏明确突破方向。  \n\nMACD当前为209.51，但缺少信号线参考，难以确认动量方向。然而价格接近SMA20，意味着若价格企稳上行，有望触发短期多头回升，反之若跌破均线，则空头压力可能增加。短线交易者应关注均线附近的价格反应。  \n\n关键支撑位初步落在78165附近，如跌破此位置，短期可能下探至78050-78000区间。阻力位则集中在78250-78300一带，若价格突破该区间，则短期可能上探78400以上。支撑与阻力区间的反复测试将是判断趋势延续的重要参考。  \n\n操作上，建议短线以高抛低吸为主，保持仓位灵活，避免单边追涨杀跌。稳健交易者可等待价格稳住SMA20上方并出现MACD红柱放大时入场多单，或在跌破支撑确认后考虑短线空单，同时严格设置止损控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is exhibiting a largely neutral intraday stance, with the latest price at $78,216.77, barely below its 20-period simple moving average of $78,273.46. Price action within such a narrow range, highlighted by the day’s high of $78,249.97 and low of $78,164.86, suggests consolidation near key short-term levels. This sideways movement signals market indecision, with neither bulls nor bears able to dominate, indicating potential for a breakout once volume picks up or macro catalysts emerge.  \n\nThe MACD reading of 209.51, without a corresponding signal line, points to persistent bullish momentum over a broader timeframe, though the absence of a crossover limits immediate trade signals. The missing RSI complicates short-term momentum assessment, but given the small negative 24-hour change of -0.04%, there is no evidence of overbought or oversold conditions. Traders should be cautious, waiting for confirmatory signals from other oscillators or trend-following indicators before committing to directional positions.  \n\nSupport appears robust around the intraday low near $78,165, with a secondary support zone at the 20-SMA near $78,273. Resistance remains close to the recent high at $78,250, with more significant barriers forming around $78,500–$78,600 if upward momentum resumes. Monitoring these levels can help in planning entries and exits, especially for scalpers and swing traders aiming to capture short-term moves within the consolidation range.  \n\nGiven the current technical landscape, conservative strategies may favor range-bound trades, buying near support and taking partial profits near resistance, while larger breakout plays should await a decisive move above $78,500 or below $78,150. Stop-loss placement should respect recent swing points to manage downside risk. Overall, BTC/USD remains in a waiting phase, requiring confirmation from momentum and trend indicators before larger directional bets are justified."
+    }
+  }
+}
