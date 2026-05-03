@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-05-03T04:54:06.901Z",
+  "price": {
+    "close": "1.38347",
+    "high": "1.3851",
+    "low": "1.38229",
+    "open": "1.38362",
+    "change": "-0.03",
+    "datetime": "2026-05-03 04:00:00"
+  },
+  "indicators": {
+    "rsi": 40.22715,
+    "macd": -0.00020576289,
+    "macd_signal": 0.0012447239,
+    "sma20": 1.38986
+  },
+  "analysis": {
+    "zh": {
+      "title": "瑞波币/美元技术分析：短期震荡偏弱",
+      "content": "当前XRP/USD价格在$1.38347附近徘徊，较24小时微跌0.03%，显示市场短期动能有限。价格仍低于20日简单移动均线SMA(20) $1.38986，表明中短期趋势偏弱，空头略占优势，但整体跌幅有限，市场维持震荡格局。  \n\nMACD当前为负值-0.00020576289，虽然信号线数据不可用，但负值暗示空头力量略强，动量趋缓，买卖双方尚未形成明显突破。缺少RSI数据使超买超卖判断受限，但结合价格与SMA位置，可视为短期回调压力存在。  \n\n从支撑与阻力来看，近期低点$1.38229构成短线支撑，若跌破可能加速空头下行；近期高点$1.3851及SMA(20)则构成阻力位，突破难度较大，价格可能在支撑与阻力之间维持震荡整理。  \n\n交易策略上，可考虑逢低布局小幅多单，止损置于$1.3820下方；短线高位接近$1.3850或SMA附近可适度减仓或轻仓做空，控制仓位并关注日内成交量变化，以防短期波动加剧。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "The XRP/USD pair is currently in a mild downtrend, as indicated by its latest price of 1.38347, a slight decrease of 0.03% over the last 24 hours. The price is hovering near its lower boundary, with the high/low range showing limited volatility between 1.3851 and 1.38229. This stability suggests a consolidation phase, where market participants are likely awaiting a catalyst for a more significant move. In the absence of strong directional momentum, XRP is facing slight bearish pressure, but the broader trend remains unclear without further confirmation from indicators like the RSI or MACD.\n\nThe MACD value of -0.00020576289 is currently negative, indicating a bearish short-term sentiment. However, the lack of a clear signal line or RSI reading makes it difficult to draw any concrete conclusions about the strength or sustainability of this momentum. As the pair consolidates, any bearish movement could see potential support at 1.38229, which aligns with the current low. Should the price continue to test this support, a breach could lead to further declines toward 1.3800, which would likely serve as a key psychological level.\n\nOn the upside, the SMA(20) of 1.38986 provides a slight indication of a resistance point that could cap any bullish attempts in the short term. A break above this level would be considered a positive signal, potentially opening the door for a retest of 1.3900 or higher, should market conditions shift. However, the absence of a clear buying signal means traders should exercise caution when attempting to enter long positions.\n\nGiven the current price action and lack of strong indicator confirmation, a cautious approach is advisable. Traders could consider entering positions near support levels like 1.38229, while closely monitoring any potential breakout above the 1.38986 resistance. Volatility is expected to remain contained in the near term, with more significant moves likely contingent on external market factors."
+    }
+  }
+}
