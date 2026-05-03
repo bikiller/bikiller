@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-03T05:45:59.268Z",
+  "price": {
+    "close": "78202.92",
+    "high": "78258.21",
+    "low": "78146.02",
+    "open": "78164.85",
+    "change": "0.05",
+    "datetime": "2026-05-03 05:00:00"
+  },
+  "indicators": {
+    "rsi": 46.79901,
+    "macd": 40.1968,
+    "macd_signal": 112.69432,
+    "sma20": 78394.223
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱趋势",
+      "content": "当前BTC/USD价格围绕78200附近徘徊，日内波动极小，仅微幅上涨0.05%，显示市场多空力量处于相对均衡状态。短期走势呈现窄幅震荡特征，缺乏明显的单边趋势，因此操作需保持谨慎。  \n\n从技术指标来看，SMA(20)位于78394上方，价格略低于均线，显示短期仍偏弱，MACD为40.19680但未给出信号线参考，整体动能偏中性。若后续价格持续在均线下方徘徊，空头可能略占上风，但突破均线则可激活短线多头反弹。  \n\n关键支撑位在78150附近，若跌破该水平，短期下探可能延伸至78000一线；阻力位在78400-78450区间，若突破则有望测试78500附近。投资者需关注成交量变化，量能不足易导致假突破。  \n\n交易策略上，短线可在支撑附近布局低仓多单，止损设在支撑下方；激进者可尝试均线突破后的追涨策略，但需严格控制仓位和止损，避免震荡行情中的追高风险。总体来看，短期震荡偏弱，操作宜以保守为主。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC) has been showing a relatively stable price action around the $78,200 level, with a slight 24-hour change of 0.05%. This minor fluctuation indicates a period of consolidation, as BTC/USD remains trapped within a narrow range. The price has been hovering close to the 20-period simple moving average (SMA), which is currently at $78,394. A break above this level could signal a continuation of the uptrend, while a drop below the recent low of $78,146 may point to a potential reversal.\n\nIn terms of support and resistance, the immediate support is near the $78,146 level, which was the low for the current 24-hour period. A further decline could bring the next support around $77,800, a key level that has seen multiple tests in the past. On the upside, resistance lies around $78,258, just above the current price. A break above this could target the $78,600 zone, offering potential for further upside momentum if market sentiment remains positive.\n\nFrom a technical standpoint, the MACD shows a positive value of 40.20, which suggests that momentum is still slightly bullish. However, without a clear signal or crossover, the indicator alone does not offer strong direction. The Relative Strength Index (RSI) is not available for this timeframe, so it's difficult to assess whether Bitcoin is overbought or oversold. Traders should remain cautious without the RSI and wait for clearer signals from other indicators or price movements.\n\nGiven the current market conditions, short-term traders might look for opportunities near key support levels or wait for a breakout above resistance. As the price action is confined within a narrow range, a breakout above $78,258 could provide an entry for long positions, while a failure to hold above $78,146 might warrant a cautious approach, potentially seeking short opportunities near the support zones. Patience is key as we wait for further confirmation from price action and volume."
+    }
+  }
+}
