@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-05-03T11:27:24.132Z",
+  "price": {
+    "close": "83.86",
+    "high": "83.96",
+    "low": "83.72",
+    "open": "83.78",
+    "change": "0.10",
+    "datetime": "2026-05-03 11:00:00"
+  },
+  "indicators": {
+    "rsi": 48.48406,
+    "macd": -0.028555504,
+    "macd_signal": -0.012597397,
+    "sma20": 83.989
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：价格维持区间整理，短期偏中性",
+      "content": "当前SOL/USD价格在83.86附近震荡，短期波动幅度有限，高低点83.96/83.72显示多空力量相对平衡。价格略低于20日简单移动均线SMA(20)83.989，暗示多头动能不足，但下方支撑尚存，短线趋势偏中性整理。  \n\nMACD指标为-0.0285，尚处于零轴下方，说明市场动能偏弱，但未形成明确死叉，趋势方向尚不明朗。若MACD开始回升并突破信号线，可视为潜在反弹信号。缺乏RSI数据，无法确认超买超卖状态，但价格横盘表明短期市场观望情绪浓厚。  \n\n关键支撑位在83.50附近，若跌破可能加速下行至83.00区域；阻力位在84.20至84.50，突破则可能开启新一轮上涨。投资者应关注价格对SMA的反应及关键支撑/阻力的突破情况，以判断短期方向。  \n\n交易策略上，可考虑区间操作，低位接近支撑轻仓买入，高位接近阻力轻仓卖出。激进交易者可等待MACD确认多头信号再做入场，风险偏好低者则建议观望，控制仓位，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 83.86\\n- 24h Change: 0.10%\\n- High/Low: 83.96 / 83.72\\n- RSI(14): N/A\\n- MACD: -0.028555504, Signal: N/A\\n- SMA(20): 83.98900\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s price action around **$83.86** shows a market in **short-term equilibrium**, with minimal 24‑hour movement and a tight high/low range. This suggests **low volatility** and cautious participant behavior, likely consolidating after recent swings. While the absence of a current RSI limits momentum clarity, price hugging the 20‑period simple moving average indicates the market is neither strongly bullish nor bearish right now, and traders are waiting for a catalyst.\n\nThe MACD slightly negative at **–0.0286** hints at **mild bearish energy**, but with the signal line unavailable, interpretation should be conservative. Typically, a negative MACD suggests downward pressure, yet the tiny magnitude indicates **limited selling strength**. If MACD begins to diverge further below its signal (once available), that could reinforce a weakening price bias; conversely, a cross above would be an early sign of renewed buyer interest. The SMA(20) at **83.989** acts as a **dynamic pivot**, with price oscillating around it.\n\nImmediate support rests near **$82.50–83.00**, a region where buyers have previously stepped in and where the moving average currently resides. A decisive break below this zone could expose lower floors near **$80.00–81.00**, which would be psychologically significant and technically relevant. On the upside, near‑term resistance sits around **$85.00–85.50**, with stronger supply expected if the market approaches **$87.00–88.00**. Clearing these levels with solid volume would suggest a shift toward a bullish bias.\n\nFor trading, consider **range‑oriented strategies** while volatility remains subdued: buy near support with tight stops under $82, and take partial profits approaching $85. A breakout above $86 with confirmation could justify **trend continuation positions**, while a sustained drop below $81 might favor short exposure or defensive sizing. Always weigh news flow and broader crypto sentiment, as these can quickly alter technical context."
+    }
+  }
+}
