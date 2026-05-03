@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-03T10:18:24.339Z",
+  "price": {
+    "close": "78480.01",
+    "high": "78532.44",
+    "low": "78421.61",
+    "open": "78532.44",
+    "change": "-0.07",
+    "datetime": "2026-05-03 10:00:00"
+  },
+  "indicators": {
+    "rsi": 55.90107,
+    "macd": 51.91716,
+    "macd_signal": 65.77113,
+    "sma20": 78427.9365
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理偏多",
+      "content": "当前比特币价格围绕78480美元小幅波动，24小时跌幅仅0.07%，显示市场短期多空力量相对均衡。高低点差距有限，表明价格在78532-78421区间内震荡整理，短线趋势尚不明朗，但偏多情绪略占上风。  \n\n从技术指标看，MACD当前为51.92，处于正值区域，显示多头动能仍在，但缺乏Signal线对比，确认力度有限。SMA(20)为78427.94，价格略高于均线，表明短期价格仍偏多，但震荡格局明显，需关注均线支撑是否有效。RSI数据缺失，无法直接判断超买超卖状态，但整体波动幅度较小，短期未出现极端买卖信号。  \n\n支撑位初步可关注78420附近，若跌破此位置，短期可能下探78300-78250区间；阻力位在78530-78550区间，如突破则有望打开上行空间，短线可关注78600附近心理关口。价格若保持在均线以上，维持震荡偏多格局，风险相对可控。  \n\n交易策略上，建议短线以逢低买入为主，设置严格止损以防区间下破带来的回调。激进者可在突破78550后尝试跟进多单，中线投资者可等待明确趋势确认再介入。整体来看，短期偏多震荡，但谨防快速回调风险，保持灵活操作更为稳妥。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a subtle consolidation around the $78,480 level, trading almost flat over the last 24 hours. Price action has been squeezed between a recent high of $78,532 and a low of $78,421, reflecting indecision in the market. The SMA(20) at $78,428 is closely aligned with the current price, indicating a short-term equilibrium where neither bulls nor bears are in clear control. This suggests that Bitcoin is likely to continue oscillating in a tight range unless a catalyst triggers directional momentum.  \n\nThe MACD reading of 51.91716, though lacking a signal line for confirmation, hints at underlying bullish momentum in the short term. Traders should note that without a corresponding signal line or RSI, reliance on trend-following alone may be risky. Market participants may want to monitor for MACD crossovers or divergence in the coming sessions to validate potential trend continuation or reversal. The neutral readings reinforce the need for cautious positioning, favoring short-term tactical trades over aggressive directional bets.  \n\nSupport appears solid near $78,420, with the recent intraday low providing a base for potential bounces. Resistance is immediately overhead at $78,530, forming a narrow ceiling that has capped upside so far. A decisive break above this resistance could pave the way for testing higher psychological levels around $79,000, while a break below support might invite a retracement toward $78,000. Traders should watch these levels closely for entries or exits, as they define the near-term risk-reward landscape.  \n\nFor trading strategy, range-bound approaches may be prudent, employing tight stops just outside the support and resistance zones. Short-term scalping or swing trades can take advantage of small price oscillations, while larger directional bets should wait for confirmed breakouts. Given the current marginal change and indicator neutrality, maintaining capital discipline and using incremental position sizing is recommended to manage potential volatility effectively. This cautious, tactical approach aligns well with the current equilibrium in BTC/USD."
+    }
+  }
+}
