@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-04T09:06:25.357Z",
+  "price": {
+    "close": "79729.8",
+    "high": "79777.67",
+    "low": "79626.03",
+    "open": "79694.06",
+    "change": "0.05",
+    "datetime": "2026-05-04 09:00:00"
+  },
+  "indicators": {
+    "rsi": 60.38559,
+    "macd": 361.12224,
+    "macd_signal": 340.99585,
+    "sma20": 79289.364
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，价格维持高位整理",
+      "content": "当前比特币价格在79729.8附近小幅波动，24小时涨幅仅0.05%，显示市场短期交投谨慎。结合SMA(20)79289.36，价格略高于均线，表明多头仍占上风，但上涨动力有限，短线可能以震荡整理为主。  \n\nMACD处于361.12的正值区域，提示整体趋势偏多，但由于Signal未显示，无法确认金叉或死叉信号，需关注后续动能变化。RSI缺失信息，意味着超买超卖情况不明，投资者应留意成交量和短期波动来判断买卖节奏。  \n\n支撑位在79626附近，为近期低点，若跌破可能引发短线回调；阻力位在79777附近，为日内高点，突破后可能触及更高价位。价格区间狭窄，波动幅度有限，短线交易机会以区间操作为主。  \n\n交易策略上，可在接近支撑位布局短多单，止损设置略低于支撑，目标接近阻力位；若价格突破阻力并放量，可考虑加仓顺势追涨。总体来看，市场短期偏多，但需警惕震荡中的快速反转风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price has remained relatively stable with a slight 24-hour change of 0.05%. The price is currently trading at $79,729.8, showing a minor range between the day’s high of $79,777.67 and low of $79,626.03. This lack of significant price movement suggests consolidation at these levels. The market seems to be in a neutral phase, neither showing strong bullish nor bearish momentum. Traders should watch for any breakouts or pullbacks from the current range to signal the next direction.\n\nThe 20-period Simple Moving Average (SMA) at $79,289.36 suggests a slight upward bias in the short term, as the price is above the moving average. This typically signals that the market sentiment remains mildly positive. However, with the absence of a clear trend, any breakout above the $79,777 resistance level could indicate a potential continuation toward higher targets. Conversely, a decline below the $79,626 support may prompt a deeper pullback toward the SMA or further support levels near $79,000.\n\nWith no RSI reading or clear signal from the MACD, the indicators provide limited directional guidance. The current MACD value of 361.12224 shows no strong trend either, and the absence of a signal line makes it hard to gauge momentum. This suggests that while Bitcoin’s price is in a consolidation phase, traders may want to avoid aggressive positions until more definitive technical signals appear.\n\nTraders should focus on the $79,000-$79,777 range for now. A break above the resistance could open the path toward $80,000, while a fall below $79,626 would lead to potential support around the SMA at $79,000. If volatility picks up, it could trigger larger price swings, making it crucial to remain adaptable and ready for either a bullish or bearish move."
+    }
+  }
+}
