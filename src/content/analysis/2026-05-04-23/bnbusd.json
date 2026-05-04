@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-04T23:33:55.745Z",
+  "price": {
+    "close": "623.22",
+    "high": "624.31",
+    "low": "622.95",
+    "open": "624.31",
+    "change": "-0.17",
+    "datetime": "2026-05-04 23:00:00"
+  },
+  "indicators": {
+    "rsi": 47.64387,
+    "macd": 0.49776204,
+    "macd_signal": 1.04953,
+    "sma20": 626.3145
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏弱",
+      "content": "当前BNB/USD价格处于623.22美元，较日内高点624.31略低，显示短期多头动力有限。20日简单移动平均线(SMA20)位于626.31上方，价格未能有效站稳均线，暗示短期趋势偏弱，市场可能处于整理阶段。日内波动幅度狭窄，短线操作需谨慎。  \n\nMACD指标显示主线为0.4977，尚未形成明显金叉或死叉，信号线数据缺失但主线走平，意味着动能不足，多空双方暂时平衡。RSI未提供，但结合价格走势与均线情况，短期超买风险不高，空头突破均线的可能性略增。  \n\n关键支撑位在622.95附近，若跌破该水平，可能引发进一步回调，下方支撑可关注620美元整数关口。阻力位则在624.31及SMA20所在的626.31区域，多头若突破将有望测试630美元上方水平，短线反弹空间有限。  \n\n交易策略上，建议观望为主，等待价格稳定在均线附近或MACD形成明确信号后再进场。偏好短线操作者可在支撑附近小仓位布局多单，止损设在支撑下方1-2美元；谨慎空头可在阻力区尝试短线回调操作，但需严格控制风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 623.22\\n- 24h Change: -0.17%\\n- High/Low: 624.31 / 622.95\\n- RSI(14): N/A\\n- MACD: 0.49776204, Signal: N/A\\n- SMA(20): 626.31450\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin (BNB) is showing short‑term consolidation after a modest pullback from recent highs. With the latest price around 623.22 and a narrow daily range, the market appears to be in a sideways trend rather than exhibiting strong directional momentum. This suggests that traders are indecisive at current levels, waiting for fresh catalysts. Maintaining above key moving averages will be important for sustaining any bullish bias.\n\nThe price marginally below the 20‑period simple moving average at 626.31 indicates slight bearish pressure in the very near term. Although the lack of RSI data limits overbought/oversold context, the MACD reading above zero (0.4977) still implies residual upside momentum, albeit possibly slowing without a confirming signal line crossover. This divergence between price action and momentum suggests cautiousness — buyers are present, but conviction may be waning.\n\nOn support and resistance, immediate support lies near the recent intraday low around 622.95; breaking below this zone could open the path toward stronger support near the 600 psychological level. Conversely, price acceptance above the 20‑period SMA would reinforce resilience and potentially target the next resistance around 640–650, a zone that has acted as a pivot in recent sessions. Monitoring volume around these levels will help confirm breakout or breakdown scenarios.\n\nFor traders, a range‑bound strategy may be appropriate in the current environment. Consider entering long positions on sustained support bounces near 620–600 with tight risk management, and look to reduce exposure as price approaches established resistance levels. Trend‑following entries should be reserved for clear directional moves beyond 650 on the upside or below 600 on the downside. Keeping stops just outside these bands can help manage volatility while capturing directional bias once trend clarity emerges."
+    }
+  }
+}

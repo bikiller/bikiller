@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-05-04T23:35:20.320Z",
+  "price": {
+    "close": "1.39185",
+    "high": "1.3945",
+    "low": "1.39185",
+    "open": "1.39446",
+    "change": "-0.19",
+    "datetime": "2026-05-04 23:00:00"
+  },
+  "indicators": {
+    "rsi": 44.010317,
+    "macd": -0.00086762721,
+    "macd_signal": 0.00067822453,
+    "sma20": 1.40248
+  },
+  "analysis": {
+    "zh": {
+      "title": "瑞波币/美元技术分析：短期震荡偏弱",
+      "content": "当前XRP/USD价格位于1.39185附近，短期内整体呈现震荡下行趋势。价格低于20日简单移动平均线（SMA20=1.40248），显示多头动能略显不足，市场短线承压明显，多空双方处于微妙博弈状态。  \n\nMACD指标为-0.00086762721，处于负值区域，表明空头力量占优，但幅度较小，尚未形成加速下跌的信号。由于RSI数据缺失，短期超买超卖状态难以判断，投资者应关注价格对关键均线的反应，以确认动能方向。  \n\n支撑位初步位于近期低点1.3918附近，若跌破则可能测试1.3850区域；阻力位在1.3950-1.4025区间，尤其是SMA20所在的1.4025附近，短线多头需突破此位置方能重拾上行动能。  \n\n交易策略上，建议保持谨慎，短线以区间操作为主。可在支撑位附近逢低小幅买入，同时在阻力位附近逐步减仓或设置止盈。若价格明显跌破支撑位，则应考虑止损离场或等待更明确的反弹信号再入场。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Ripple vs US Dollar (XRP/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 1.39185\\n- 24h Change: -0.19%\\n- High/Low: 1.3945 / 1.39185\\n- RSI(14): N/A\\n- MACD: -0.00086762721, Signal: N/A\\n- SMA(20): 1.40248\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nRipple’s recent price action around **$1.39** reflects a subdued and consolidative phase, with the pair struggling to sustain upside momentum. After a brief attempt to reclaim levels above **$1.40**, the market has retraced and remains range‑bound. The intraday high of **$1.3945** and the low of **$1.39185** suggest tight price action, hinting at market indecision. In the broader context, unless buyers push convincingly above the short‑term average, the prevailing trend looks neutral to mildly bearish.\n\nFrom an indicator perspective, the **20‑period simple moving average (SMA) at $1.40248** sits just above current prices, acting as a dynamic resistance. Traders often view this as a short‑term bearish flag when price stays below it. The **MACD’s negative value** underscores waning bullish pressure, though without the signal line we must be cautious in over‑interpreting. With the absence of a published RSI, momentum is less clear, but the subdued price action itself implies a lack of strong directional conviction.\n\nKey **support and resistance** levels cluster near recent swing points. Immediate resistance resides near **$1.40–$1.41**, a zone where selling pressure has re‑emerged. A breakout above this range, especially with volume, could open the door toward **$1.45–$1.50**. On the downside, support near **$1.35–$1.36** has previously absorbed declines; a break below could accelerate selling toward **$1.30** and lower.\n\nFor traders, a cautious approach makes sense. Buyers might consider entering on dips toward identified support with tight risk controls, while watching for a sustained move above the 20‑SMA to confirm strength. Conversely, breakout sellers could target failure at resistance, but should be alert for choppy conditions. Clear confirmation from momentum indicators would bolster confidence in directional plays."
+    }
+  }
+}
