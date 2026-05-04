@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-04T13:48:59.306Z",
+  "price": {
+    "close": "78899.48",
+    "high": "79121.84",
+    "low": "78558.92",
+    "open": "78848",
+    "change": "0.06",
+    "datetime": "2026-05-04 13:00:00"
+  },
+  "indicators": {
+    "rsi": 45.35733,
+    "macd": 98.90727,
+    "macd_signal": 238.3783,
+    "sma20": 79329.448
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，潜在上行压力",
+      "content": "当前BTC/USD价格维持在78899.48附近，24小时波动幅度极小，仅0.06%，显示市场短期观望情绪浓厚。价格徘徊在SMA(20)79329.448下方，暗示短期均线压制仍在，短线多头略显受限，但未出现明显下行趋势。  \n\nMACD值为98.90727，虽然信号线数据缺失，但正值表明中期趋势偏多，动能尚存。价格近日高点79121.84和低点78558.92形成窄幅区间，短线支撑位约在78600附近，阻力位在79150上方，投资者应关注突破与回踩的反应。  \n\n从技术指标来看，RSI暂缺，但结合价格结构和均线位置，可推测短线买卖力较为均衡。若价格站稳SMA(20)上方并突破近期高点，可能引发新一轮多头反弹；若下破支撑，则需警惕回调风险。  \n\n交易策略上，可考虑区间操作为主，低位逢支撑轻仓建多，临近阻力区谨慎减仓或观望。同时，关注成交量变化及MACD交叉信号，以捕捉可能的趋势确认机会，短期追涨需控制仓位和止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a subtle consolidation phase around $78,900, suggesting a temporary equilibrium between buyers and sellers. The price has traded in a tight 24-hour range between $78,558 and $79,121, indicating limited volatility. This sideways movement after a previous upward trend hints that BTC may be preparing for a breakout, though the direction remains uncertain. Traders should watch for a decisive move above $79,300 or a drop below $78,500 to confirm the next directional bias.  \n\nFrom a technical perspective, the SMA(20) at $79,329 is slightly above the current price, signaling mild short-term bearish pressure. The MACD value of 98.907 suggests bullish momentum is present, but the absence of the signal line prevents a clear confirmation of trend strength. Without RSI data, overbought or oversold conditions are unclear, so relying on price action around key levels will be crucial for timing entries and exits effectively.  \n\nImmediate support is likely at $78,600, reflecting the recent intraday lows, while resistance clusters near $79,300–$79,400, corresponding with the SMA(20) and recent highs. A sustained move above this range could open targets toward $80,000, while a breakdown below support may accelerate a pullback to $77,800. Volume confirmation on any breakout or breakdown would provide additional confidence for strategic positioning.  \n\nFor traders, a cautious approach is recommended due to the narrow range and mixed signals. Long positions might be favored on a confirmed break above $79,300 with a tight stop-loss below $78,800. Conversely, short-term scalpers could capitalize on intraday swings between $78,600 and $79,300. Maintaining risk management is key, as the market’s current equilibrium implies sharp moves could occur once liquidity zones are tested."
+    }
+  }
+}
