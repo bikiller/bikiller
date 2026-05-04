@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-04T05:51:45.650Z",
+  "price": {
+    "close": "79996.3",
+    "high": "80394",
+    "low": "79950.22",
+    "open": "80327.87",
+    "change": "-0.41",
+    "datetime": "2026-05-04 05:00:00"
+  },
+  "indicators": {
+    "rsi": 66.60541,
+    "macd": 424.52381,
+    "macd_signal": 277.26422,
+    "sma20": 79064.315
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理，待突破",
+      "content": "当前比特币/美元(BTC/USD)价格处于79996.3，整体呈现震荡整理状态。市场在过去24小时的波动较小，变化幅度为-0.41%。高点为80394，低点为79950.22，表明市场尚未出现显著的趋势性运动。整体价格维持在短期均线SMA(20)附近，表明当前市场缺乏强势的多空力量。\n\n技术指标方面，RSI(14)未给出具体数值，可能处于过渡状态，未能确认超买或超卖的信号。MACD数值为424.52381，但其Signal线未给出，因此目前无法明确判断市场的买卖动能。SMA(20)为79064.315，作为短期支撑线，价格能否有效突破该水平将对短期走势产生重要影响。\n\n从支撑和阻力来看，当前的支撑位为79064附近，而上方的阻力位则位于80394附近。若价格突破80394，可能会进一步走高，形成新的上涨趋势；若跌破79064支撑位，则可能会加剧下行压力，测试更低的价格水平。\n\n综合来看，短期内市场仍处于震荡状态，建议投资者保持观望，等待明确的趋势突破。若突破80394，可考虑轻仓做多；若跌破79064，则需谨慎操作，适时考虑做空。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The BTC/USD market is currently showing a slight downtrend, with a 24-hour change of -0.41%. The price has hovered around $79,996, experiencing some consolidation between the high of $80,394 and the low of $79,950. The price action near these levels suggests the market may be entering a range-bound phase, potentially awaiting a breakout in either direction. For now, the market is facing resistance around $80,400, while the immediate support is seen near $79,950.\n\nGiven the absence of a clear RSI or Signal in the MACD, there is insufficient momentum confirmation to predict a strong directional move at this point. The MACD line at 424.52 is positive, suggesting the underlying trend is still bullish, but the lack of a clear signal line or cross could mean that any uptrend may lack the necessary confirmation. The market may need to establish a clearer trend before momentum accelerates in either direction.\n\nThe 20-period Simple Moving Average (SMA) is positioned at $79,064, offering near-term support. If the price dips towards the SMA, it could provide a bounce, especially if it coincides with the support level at $79,950. A failure to hold these levels could open the door for a deeper pullback towards the next major support at $78,500. Traders may look to buy on dips near the SMA or consider shorting if the price fails to maintain above $79,950.\n\nWith the market currently range-bound, cautious trading is recommended. Short-term traders may find opportunities in intraday moves, watching for price action to break either the upper resistance or lower support. A confirmed break above $80,400 could signal a continuation of the bullish trend, while a failure to hold above the SMA could trigger a corrective move. Patience and observation of momentum indicators will be key for timing any trades."
+    }
+  }
+}
