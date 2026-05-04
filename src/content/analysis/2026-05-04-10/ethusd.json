@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-04T10:10:45.253Z",
+  "price": {
+    "close": "2328.79",
+    "high": "2369.24",
+    "low": "2322.43",
+    "open": "2368.42",
+    "change": "-1.67",
+    "datetime": "2026-05-04 10:00:00"
+  },
+  "indicators": {
+    "rsi": 44.5637,
+    "macd": 10.72946,
+    "macd_signal": 12.77284,
+    "sma20": 2348.0105
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理中",
+      "content": "当前，ETH/USD的价格在2328.79附近，呈现出震荡整理的趋势。尽管24小时变化为负，但波动幅度较小，表明市场暂时没有明确的方向。此时，市场情绪较为谨慎，投资者可能等待更为明确的技术信号来确认突破方向。\n\n从技术指标上看，SMA(20)为2348.01，意味着短期内价格略高于该均线，且价格未出现大幅偏离，因此短期支撑位可能在2322.43附近，阻力位则处于2369.24。MACD的数值为10.72946，但信号线数据缺失，显示出市场仍处于较为平衡的状态。\n\n支撑位在2322.43附近，若价格跌破该区域，可能会进一步下探至更低的水平。阻力位则处在2369.24附近，若突破该点位，可能会引发新的上涨动能。当前市场存在一定的整理空间，投资者可关注这两个关键价位的突破情况。\n\n考虑到市场震荡整理，建议短线交易者利用区间操作策略，密切关注支撑与阻力的测试，并结合MACD和RSI等指标确认趋势变化。避免在没有明确突破的情况下追涨杀跌。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum has been experiencing a slight downtrend in the short term, with a 24-hour change of -1.67%, indicating modest price retracement after reaching a high of 2369.24. The latest price of 2328.79 suggests that the market may be in a consolidation phase. Given the proximity to the 2322.43 low, we are seeing a critical support level around this price. If the market holds above this zone, a potential rebound could occur, targeting the recent high near 2369. A break below 2322 would signal further downside risk.\n\nThe absence of a clear RSI reading and the lack of a signal on the MACD make it difficult to gauge the momentum with certainty at the moment. However, the MACD value of 10.72946 suggests that there is some bullish divergence, though this alone does not confirm a reversal. If the MACD begins to show more definitive signals, such as crossing above the zero line, it may indicate more buying pressure in the market. Traders should monitor these indicators closely for confirmation of a trend shift.\n\nLooking at the SMA(20) at 2348.01, Ethereum is currently trading just below this level, which serves as a short-term resistance zone. If the price fails to reclaim this area and break above it decisively, the market may remain trapped between 2322.43 and 2348.01. A successful breakout above 2348 could lead to a continuation towards 2400 or higher, but caution is advised until clear momentum is established.\n\nGiven the current market structure, traders should exercise caution. Short-term traders might consider entering near the 2322 support zone with a stop-loss below 2320, aiming for a move back toward the 2348 resistance. Conversely, any sustained movement below 2322 could prompt a bearish strategy, targeting the next support levels around 2300. As always, patience and confirmation from technical indicators are crucial."
+    }
+  }
+}

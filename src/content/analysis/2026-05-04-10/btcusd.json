@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-04T10:10:02.236Z",
+  "price": {
+    "close": "78805.99",
+    "high": "79866.46",
+    "low": "78686.35",
+    "open": "79815.22",
+    "change": "-1.26",
+    "datetime": "2026-05-04 10:00:00"
+  },
+  "indicators": {
+    "rsi": 41.98634,
+    "macd": 263.93458,
+    "macd_signal": 326.67386,
+    "sma20": 79291.523
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期承压，价格震荡整理",
+      "content": "当前比特币价格位于78805.99美元，较24小时高点略低，显示短期空头略占上风。价格已跌破20日均线SMA(20)79291.52美元，说明多头动能有所减弱，市场短期可能延续震荡整理格局。  \n\nMACD指标仍为正值263.93，但缺乏信号线确认，意味着趋势虽偏多，但上行动力不强。若RSI可用，将有助于判断超买或超卖情况，目前只能依赖价格与均线交互判断短期强弱。  \n\n支撑位初步在78686附近，若跌破可能触及更低心理关口78000美元。阻力位则在日内高点79866美元附近，多头若无法突破，该区域可能出现明显抛压，短线多空博弈激烈。  \n\n交易上建议短线可关注区间操作，高抛低吸策略为主。偏好稳健者可等待价格企稳突破SMA(20)及阻力位后再介入。止损可设置在支撑下方小幅位置，以控制回撤风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 78805.99\\n- 24h Change: -1.26%\\n- High/Low: 79866.46 / 78686.35\\n- RSI(14): N/A\\n- MACD: 263.93458, Signal: N/A\\n- SMA(20): 79291.52300\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin’s price recently shows a *slightly bearish intraday bias*, trading around **$78,800** after a modest pullback. The inability to sustain above the **20‑period SMA near $79,300** suggests short‑term sellers are active, and the lower end of the recent range around **$78,600** is being tested. While the broader trend remains bullish on higher timeframes, this short‑term hesitation points to consolidation rather than a clean continuation upward.\n\nLooking at momentum, the **MACD currently positive at ~263** hints that underlying bullish pressure hasn’t fully faded, despite the lack of signal line data. The absence of a valid RSI reading leaves a gap in momentum confirmation, but price behavior around moving averages becomes more important. Traders should watch for a *retest of the 20‑SMA* — a rejection below it may signal additional downward movement toward the **$78,000 support zone**.\n\nKey levels to watch include **$80,000 as psychological resistance**, which aligns with the session high near **$79,800–$80,000**. Above this zone, sellers might reemerge, keeping the upper end of the range intact. On the downside, **$78,600** and **$78,000** are immediate supports to monitor. A break below these could open the door to deeper retracement, potentially toward the **$77,500–$77,000** zone, where longer‑term buyers have previously stepped in.\n\nFor traders, a *range‑based approach* makes sense until clearer directional clues emerge. Consider lighter position sizes and tighter stops just below key supports if buying dips. Conversely, short positions could be favored on a decisive rejection at or below the 20‑SMA, targeting the aforementioned supports. Patience and confirmation should be prioritized over impulsive entries in this consolidative environment."
+    }
+  }
+}
