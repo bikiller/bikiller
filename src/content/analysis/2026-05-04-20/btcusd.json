@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-04T20:06:20.947Z",
+  "price": {
+    "close": "79999.5",
+    "high": "80069.7",
+    "low": "79951",
+    "open": "80050.99",
+    "change": "-0.07",
+    "datetime": "2026-05-04 20:00:00"
+  },
+  "indicators": {
+    "rsi": 57.24073,
+    "macd": 284.2673,
+    "macd_signal": 258.56726,
+    "sma20": 79790.97
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，趋向支撑测试",
+      "content": "当前比特币价格在79999.5美元附近徘徊，较24小时内略微下跌0.07%，整体呈现小幅横盘整理格局。价格位于20日简单移动平均线(SMA20)79790.97美元上方，显示短期仍有一定支撑，但多空力量处于均衡状态，市场方向不明晰。  \n\nMACD指标为284.27，但信号线尚未提供，提示趋势动能存在，但缺乏明确方向性信号。RSI数据缺失，无法完全判断超买或超卖状态，但结合价格区间波动可推测短期震荡概率较高。短线交易者应保持谨慎，避免追涨杀跌。  \n\n关键支撑位在SMA20附近的79790美元区域，如价格跌破该水平，可能触发进一步回调至79750美元附近。阻力位则位于近期高点80069美元，突破该位置需伴随成交量放大，否则可能形成假突破。  \n\n综合来看，短期操作建议以区间震荡策略为主，可在支撑位附近低吸，在阻力位附近适度减仓或止盈。风险管理仍需严格设置止损，控制单笔仓位，以应对比特币价格快速波动的可能性。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is hovering near the $80,000 psychological level, showing a tight consolidation around the 20-period simple moving average at $79,790.97. The price is slightly below the intraday high of $80,069.7, indicating that bullish momentum is present but not overwhelming. This suggests that traders are cautiously optimistic, waiting for a breakout above $80,100 for confirmation of upward continuation. The recent minor dip to $79,951 reflects normal market fluctuation rather than a strong bearish shift.  \n\nThe MACD reading of 284.26730, without a provided signal line, points to an ongoing bullish bias, but the absence of a signal comparison makes the trend confirmation tentative. Traders should watch for a crossover of the MACD above its signal line as a potential buy trigger. With the RSI unavailable, momentum analysis is incomplete, though price action near key levels suggests equilibrium between buyers and sellers, implying a low-volatility environment at the moment.  \n\nSupport levels are observed at $79,950, closely aligning with the recent intraday low, while resistance is anticipated around $80,100 to $80,070. A sustained break above this resistance zone could open room for further upside toward $81,000, while a drop below $79,950 may signal a retest of $79,500. These levels provide traders with clear points for entry, exit, or stop-loss placement, emphasizing risk management in a high-value market.  \n\nFor trading strategies, short-term traders may consider buying on dips near $79,950 with tight stop-losses just below support, targeting a move toward $80,100. More conservative traders might wait for a confirmed break and retest above $80,100 to enter, minimizing exposure to false breakouts. Overall, BTC/USD exhibits a cautious bullish posture, but traders should remain alert to volatility spikes and external market influences that could abruptly alter the trend."
+    }
+  }
+}
