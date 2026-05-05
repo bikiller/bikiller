@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-05T08:59:50.482Z",
+  "price": {
+    "close": "80794.94",
+    "high": "80893.16",
+    "low": "80703.32",
+    "open": "80850.05",
+    "change": "-0.07",
+    "datetime": "2026-05-05 08:00:00"
+  },
+  "indicators": {
+    "rsi": 62.41543,
+    "macd": 391.96096,
+    "macd_signal": 357.66953,
+    "sma20": 80305.974
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡整理，偏向多头延续",
+      "content": "当前比特币价格在80794美元附近微幅下行，日内波动不大，显示市场短线呈震荡整理态势。价格略高于20日简单移动平均线(SMA20=80305)，表明中短期均线仍对价格形成支撑，多头力量略占优势，但缺乏明显突破信号。  \n\nMACD指标显示主线为391.96，虽缺乏信号线对比，但正值暗示多头动能存在，短线仍可能维持温和上涨。高低点区间窄，说明市场交易情绪谨慎，投资者对大幅波动保持观望，短期趋势仍需结合成交量确认。  \n\n关键支撑位可关注80300附近SMA20支撑，以及80700日内低点；阻力位在80890-80900美元区域，若突破需留意进一步上涨空间。价格若跌破支撑，可能引发短线回调，但整体趋势仍偏向多头延续。  \n\n交易策略上，可考虑低位轻仓做多，止损设在80250附近，谨防短线回调风险；若价格突破80900，可顺势加仓追多，保持短线灵活操作。同时关注市场情绪及宏观消息，避免盲目追涨或过度抄底。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s recent price action around $80,794 suggests a subtle consolidation phase following its short-term bullish momentum. The narrow 24-hour range between $80,703 and $80,893 highlights market indecision, with neither buyers nor sellers asserting dominance. Despite the slight negative movement of -0.07%, the overall trend remains cautiously upward, as the current price sits above the 20-day simple moving average of $80,305, indicating that the short-term uptrend is still intact. Traders may watch for a breakout above the intraday high to confirm renewed bullish momentum.  \n\nThe MACD reading of 391.96, though missing a corresponding signal line, still hints at underlying strength in buying pressure. Without the signal line, precise crossover signals cannot be confirmed, but the positive MACD value aligns with the broader trend above the SMA. The absence of an RSI reading limits overbought/oversold evaluation, so traders should rely more on price action and moving average confirmation in this context. The confluence of a slightly rising MACD and SMA support may suggest a cautiously bullish bias.  \n\nKey technical levels are crucial for assessing near-term moves. Immediate support appears near $80,300, aligning with the 20-day SMA, which could serve as a buffer in case of short-term dips. Resistance sits around $80,900, with a breakout above this level potentially opening a path toward $81,500 or higher. Intraday traders should consider these boundaries when planning entries and exits, while swing traders may monitor whether price sustains above SMA support for trend continuation.  \n\nTrading strategies should balance risk with current consolidation signals. For aggressive traders, a buy on a confirmed breakout above $80,900 may capture upside momentum, while stop-loss orders near $80,300 can limit downside exposure. Conservative traders may prefer waiting for a sustained movement above key resistance or a retracement toward SMA support before entering positions. Overall, BTC/USD currently presents a cautiously bullish scenario, with careful attention to support and resistance levels being essential for risk management."
+    }
+  }
+}
