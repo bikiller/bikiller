@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-05T09:59:05.803Z",
+  "price": {
+    "close": "80574.69",
+    "high": "80817.96",
+    "low": "80511.34",
+    "open": "80817.96",
+    "change": "-0.30",
+    "datetime": "2026-05-05 09:00:00"
+  },
+  "indicators": {
+    "rsi": 57.22839,
+    "macd": 362.62064,
+    "macd_signal": 358.95434,
+    "sma20": 80396.6645
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，潜在震荡",
+      "content": "目前比特币价格在80500-80800美元区间徘徊，短线呈现小幅盘整态势。价格略高于20日均线（SMA20≈80396），表明多头仍有一定支撑，但上涨动能有限，市场多空力量较为平衡，短期趋势不明确，需关注关键支撑和阻力区域。  \n\nMACD值为362.62，但缺少信号线参考，显示动量偏强但缺乏明确方向。结合价格走势，可推测短期多头未完全占优，若出现回调至80350-80400美元附近，可能获得支撑反弹。高点80817形成近期阻力，若突破则有望试探81000美元关口。  \n\n交易策略上，建议谨慎操作，短线可在支撑附近考虑小幅买入，或在阻力区减仓。由于市场波动有限，追涨杀跌风险较高，止损设置应控制在日内波动范围内，以防突发消息影响行情。  \n\n综合来看，比特币短期内可能维持窄幅震荡，关注SMA20支撑和80800美元阻力压力位。中性观望者可等待突破确认趋势后再介入，多空双方博弈仍将主导日内走势。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s recent price action around $80,574 shows a mild consolidation phase, with the 24-hour change hovering at -0.30%. The market remains confined between a short-term low of $80,511 and a high of $80,817, suggesting limited volatility and a cautious trading environment. The price sits slightly above the 20-period SMA at $80,396, indicating that short-term momentum is modestly bullish, but the narrow range hints at indecision among traders.\n\nThe MACD reading of 362.62, without an available signal line, suggests momentum is present but not fully confirmed. Historically, when MACD maintains a positive value above its baseline, buyers retain slight control, though the absence of divergence confirmation limits conviction. Traders should watch for a crossover or a strengthening histogram as a cue for renewed directional bias. The missing RSI prevents immediate assessment of overbought or oversold conditions, requiring reliance on price action and moving averages for near-term insights.\n\nSupport levels appear near $80,396 and the intraday low of $80,511, which could provide short-term buying interest if the price dips further. Resistance is positioned around $80,817 and extends toward the psychologically significant $81,000 mark. A sustained break above this zone could open momentum toward higher targets, while failure to hold support may trigger a minor retracement. Monitoring volume and candlestick patterns will be key for gauging market commitment.\n\nFor traders, a cautious approach is advised. Range-bound strategies such as short-term scalps between $80,511 and $80,817 are viable, with tight stop-losses just outside support. Momentum traders may consider waiting for MACD confirmation or SMA crossovers before entering longer positions. Risk management is essential, as the limited price movement suggests that sudden volatility spikes could quickly impact positions. A patient, data-driven stance aligns best with current market conditions."
+    }
+  }
+}
