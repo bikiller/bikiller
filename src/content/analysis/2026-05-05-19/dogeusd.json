@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-05T20:04:51.595Z",
+  "price": {
+    "close": "0.11341",
+    "high": "0.11361",
+    "low": "0.11338",
+    "open": "0.11353",
+    "change": "-0.11",
+    "datetime": "2026-05-05 20:00:00"
+  },
+  "indicators": {
+    "rsi": 67.5006,
+    "macd": 0.00068586353,
+    "macd_signal": 0.00053579947,
+    "sma20": 0.1121205
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏多整理",
+      "content": "当前狗狗币价格维持在$0.11341附近，较日内高低点波动幅度有限，显示短期市场处于震荡格局。价格略高于20日简单移动均线(SMA20 $0.11212$)，表明多头趋势仍有一定支撑，但缺乏明显上行动能。整体短期趋势偏多，但需关注横盘整理的可能性。  \n\nMACD指标处于0.000685水平，虽尚未出现明显金叉，但维持正值意味着多头占优；RSI缺失使超买超卖信号无法确认，因此需要结合价格结构谨慎观察。当前价格在SMA20上方，若维持在该均线之上，多头动能可能逐步增强，否则可能回测支撑。  \n\n支撑位参考日内低点$0.11338$及SMA20 $0.11212$，形成短线下方防守区域。阻力位则关注近期高点$0.11361$及心理整数关口$0.115$，突破可带来进一步上行空间。价格在支撑附近企稳，可适度考虑低多策略，但需设置止损控制风险。  \n\n综合来看，短线以震荡偏多为主，建议交易者关注低位买入高位减仓的操作策略。对于激进投资者，可在突破阻力位确认后适量加仓；保守投资者应等待MACD金叉或价格稳健上破关键阻力后再介入，避免在横盘区间盲目追高。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "DOGE/USD is currently exhibiting a relatively flat short-term trend, with the price hovering around $0.11341 and showing minimal movement over the last 24 hours. The small 0.11% decline indicates market indecision, as the pair remains near its daily high of $0.11361 and low of $0.11338. The SMA(20) at $0.11212 provides a modest support level, suggesting that despite minor dips, the overall price is holding above its recent average, pointing to underlying stability rather than strong bullish or bearish momentum.\n\nThe MACD value of 0.000686, without an accompanying signal line, implies that momentum is present but not clearly defined. Traders should be cautious, as the absence of a fully calculated MACD signal limits the ability to confirm trend reversals. While the RSI is unavailable, observing price action relative to SMA(20) can act as a surrogate for momentum assessment. A sustained move above the SMA may indicate mild bullish bias, whereas repeated rejections at the SMA could signal potential consolidation or a slow-building bearish sentiment.\n\nKey support for DOGE/USD lies near $0.1120, aligned with the 20-day SMA, which has historically acted as a short-term floor. Resistance is immediately above at $0.1140, marking the upper bound of recent intraday activity. Breaching either level with volume could trigger more decisive moves. For traders, cautious range-bound strategies, including short-term scalps between these levels, may be prudent, while breakout traders might wait for a confirmed move above $0.1140 or below $0.1120 to enter positions.\n\nFrom a risk management perspective, tight stop-loss placement just beyond these support and resistance levels is advisable given the current low volatility. Long positions could be considered near $0.1120 with a target approaching $0.1140, while shorts might be more suitable if price breaks below the SMA and confirms downward momentum. Overall, DOGE/USD appears poised for minor swings in a narrow range, with meaningful directionality contingent on a breakout from these immediate technical boundaries."
+    }
+  }
+}
