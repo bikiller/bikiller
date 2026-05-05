@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-05T10:56:49.344Z",
+  "price": {
+    "close": "80734.36",
+    "high": "80850.12",
+    "low": "80520",
+    "open": "80585.83",
+    "change": "0.18",
+    "datetime": "2026-05-05 10:00:00"
+  },
+  "indicators": {
+    "rsi": 59.92092,
+    "macd": 348.041421,
+    "macd_signal": 356.96448,
+    "sma20": 80422.4745
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，关键阻力待突破",
+      "content": "当前BTC/USD价格在80734附近维持小幅波动，较SMA(20)80422略高，显示短期价格略偏多头，但整体缺乏强势动能。日内高低点差不大，暗示市场短期内呈现震荡整理格局，投资者需关注成交量变化以确认突破方向。  \n\nMACD处于正值区域，主线高于零轴，提示多头动能存在，但信号线未提供，需警惕动能减弱或潜在回调。结合未提供的RSI数据，无法精确判断超买超卖状态，但价格接近近期高点，短线谨慎乐观。  \n\n支撑位主要集中在80400一线，若跌破此水平可能引发短期回调；阻力位则在80850-80900附近，突破该区间可进一步确认上行动能。技术上，价格仍受均线支撑，短线买盘力量尚存，但需关注突破失败后的回撤风险。  \n\n交易策略上，可考虑在支撑区间低位分批建仓，止损设在80300下方，目标锁定阻力区间上方。若价格强势突破80850，可顺势加仓，但应控制仓位并关注快速回撤信号，避免追高造成损失。整体偏向震荡偏多，风险可控但需灵活应对市场波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting mild bullishness, hovering around $80,734, slightly above its 20-period simple moving average of $80,422. This suggests that short-term momentum favors buyers, though the price remains within a tight intraday range of $80,520 to $80,850. The slow upward drift indicates consolidation after recent gains, with the market testing stability near the psychological $81,000 mark. Traders should watch for sustained movement above this level to confirm continuation of the upward trend.  \n\nThe MACD reading of 348.04, despite lacking a signal line for confirmation, points to persistent positive momentum. Historically, when BTC trades above its SMA(20) with rising MACD, there is a higher probability of continuation in the short-term bullish bias. However, the absence of RSI data makes it difficult to gauge overbought conditions, suggesting that traders should remain cautious and avoid aggressive long positions until more comprehensive momentum readings are available.  \n\nKey intraday support is situated near $80,400, slightly below the SMA, providing a buffer against minor pullbacks. Resistance lies just above the current high at $80,850, with the $81,000 psychological level acting as a more significant hurdle. Breaching this could trigger short-term buying pressure, while a drop below $80,400 may open the door for consolidation toward $80,000. These levels should serve as focal points for risk management and position sizing.  \n\nTrading strategies in this environment favor tactical entries with tight stops, ideally on minor retracements toward SMA support. Momentum-driven traders could consider small long positions if BTC clears $80,850 convincingly, while conservative investors might prefer waiting for clearer confirmation above $81,000. Short-term scalpers may exploit the narrow range, but volatility spikes could quickly test protective stops. Overall, cautious optimism is warranted, with emphasis on structured risk management."
+    }
+  }
+}
