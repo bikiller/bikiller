@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-05T04:30:05.113Z",
+  "price": {
+    "close": "2382.42",
+    "high": "2385.44",
+    "low": "2377.9",
+    "open": "2381.74",
+    "change": "0.03",
+    "datetime": "2026-05-05 04:00:00"
+  },
+  "indicators": {
+    "rsi": 60.047959,
+    "macd": 7.3333,
+    "macd_signal": 5.72734,
+    "sma20": 2356.7885
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多，压力逐步显现",
+      "content": "当前以太坊价格在2382附近小幅整理，整体短期趋势偏多，但多空力量较为均衡。从日内高低点2385.44/2377.9来看，价格波动幅度有限，显示市场仍处于观望状态，多空双方暂未形成强烈突破。  \n\nSMA(20)位于2356.79下方，价格略高于均线，表明短线多头仍在控制节奏，但MACD为正数且信号线数据缺失，暗示动能尚存，但可能存在延迟反应。若RSI数据恢复，可进一步确认超买或超卖压力，辅助判断反转概率。  \n\n支撑位初步关注2378附近，若跌破该水平，短线可能回调至2365区域；阻力位在2385-2390区间，多次测试未能有效突破将限制进一步上涨空间。投资者需警惕局部震荡风险，避免追涨行为。  \n\n操作上，可在回踩支撑附近布局多单，止损控制在2375下方；若价格突破阻力且伴随成交量放大，可考虑顺势加仓，短线目标指向2400左右。保持风险控制为核心策略，切勿忽视波动性。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently exhibiting a subtle bullish bias, trading at $2382.42 after a 24-hour change of just 0.03%. The narrow high-low range of $2385.44 to $2377.90 indicates a period of consolidation, suggesting the market is balancing between short-term buying and selling pressure. Price sitting above the 20-period simple moving average at $2356.79 reinforces the likelihood of a mild upward trend, with buyers retaining moderate control over this range.  \n\nThe MACD reading of 7.3333, while lacking a corresponding signal line for confirmation, hints at underlying bullish momentum. Without an RSI value, momentum strength is harder to gauge precisely, but the MACD suggests that buying pressure is slightly outweighing selling pressure. Traders should remain alert for a MACD crossover, which could confirm a stronger directional move and provide a clearer entry or exit signal.  \n\nKey support is currently observed around $2377, the day’s low, with secondary support near $2356, aligning closely with the 20-period SMA. Resistance resides at $2385, the recent high, and a psychological barrier at $2400 may cap short-term gains. Price approaching these resistance levels could encounter profit-taking, while a breakdown below support might trigger a short-term pullback.  \n\nFrom a trading standpoint, cautious buyers could look for consolidation above the $2356 SMA before entering positions, aiming for a breakout past $2385 for potential short-term gains. Conservative traders might wait for a confirmed MACD signal or a strong close above $2385 to reduce risk. Conversely, sellers could target stops near $2377 to protect against downside moves, particularly if momentum fails to strengthen. This environment favors range-bound or breakout strategies rather than aggressive trend chasing."
+    }
+  }
+}
