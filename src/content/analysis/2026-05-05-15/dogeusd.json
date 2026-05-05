@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-05T15:26:28.407Z",
+  "price": {
+    "close": "0.11283",
+    "high": "0.11295",
+    "low": "0.11222",
+    "open": "0.11234",
+    "change": "0.43",
+    "datetime": "2026-05-05 15:00:00"
+  },
+  "indicators": {
+    "rsi": 65.27798,
+    "macd": 0.00047448691,
+    "macd_signal": 0.00036378017,
+    "sma20": 0.111403
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏多",
+      "content": "近期狗狗币价格在$0.1122~0.11295区间内小幅波动，整体呈现横盘整理态势。尽管日内涨幅有限，但收盘价仍略高于20日简单移动平均线(SMA20)的$0.1114，显示短期多头略占上风，价格在均线附近获得一定支撑。  \n\nMACD当前值为0.000474，虽信号线未提供，但柱状图微弱向上，暗示多头动能略强，短期仍有温和上行潜力。由于RSI缺失，无法准确判断超买超卖，但结合价格与SMA位置，市场情绪偏中性偏多。  \n\n支撑位方面，$0.1114为关键均线支撑，同时$0.1122为近期低点支撑；阻力位则集中在$0.1130~$0.1132附近的心理关口，短线突破阻力需要额外成交量配合。交易者应关注价格在支撑附近的企稳信号，以确认回调结束。  \n\n综合来看，短期建议以低位逢低做多为主，严格控制仓位，设定止损在$0.1110下方，以防突发回调。若价格突破$0.1132并稳定，可考虑追加多单，但应警惕横盘波动带来的假突破风险。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently trading at $0.11283, slightly above its 20-day simple moving average of $0.11140, indicating mild short-term bullish momentum. The daily price action remains confined within a narrow $0.11295–$0.11222 range, suggesting consolidation and limited volatility. From a trend perspective, the coin appears to be in a sideways phase after recent modest gains, with no strong directional bias emerging. Traders may want to watch for a decisive move above the recent high to signal renewed bullish strength.\n\nThe MACD reading of 0.000474 suggests some upward momentum, though the absence of a signal line limits full interpretation. While the RSI data is unavailable, the price hovering near the SMA20 implies equilibrium between buying and selling pressures. This equilibrium can create a short-term opportunity for range-bound strategies, as the market may oscillate between nearby support and resistance levels until a clear trend develops.\n\nKey support lies around $0.11220, reinforced by the lower end of the recent daily range, providing a reasonable stop-loss area for cautious traders. On the upside, immediate resistance is at $0.11295, representing the recent intraday high. A sustained break above this level could open the path toward $0.11500, while a breach below support may target $0.11050. Monitoring volume spikes and price reaction at these levels will be crucial to validate any breakout or breakdown.\n\nFor traders, short-term approaches may favor buying near support with tight risk management, targeting minor gains toward resistance. Longer-term investors might consider waiting for confirmation of a trend shift before committing to larger positions. Given Dogecoin’s volatility history, attention to momentum indicators, SMA alignment, and potential breakout patterns can help manage risk while taking advantage of modest upward swings in a consolidating market."
+    }
+  }
+}
