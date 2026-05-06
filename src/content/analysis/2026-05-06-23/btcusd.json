@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-06T23:34:20.146Z",
+  "price": {
+    "close": "81379.55",
+    "high": "81397.85",
+    "low": "81000",
+    "open": "81339.67",
+    "change": "0.05",
+    "datetime": "2026-05-06 23:00:00"
+  },
+  "indicators": {
+    "rsi": 48.0037057,
+    "macd": 38.3551,
+    "macd_signal": 120.85763,
+    "sma20": 81646.166
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘整理，震荡偏弱",
+      "content": "当前比特币价格位于 $81379.55$ 附近，较日内高点 $81397.85$ 和低点 $81000$ 波动幅度有限，显示市场短期缺乏明确方向。价格仍低于20日简单移动平均线（SMA20）$81646.17$，暗示多头动力略显不足，短期可能延续横盘整理态势。  \n\nMACD指标显示主线为 $38.35510$，虽然信号线数据缺失，但正值表明市场仍维持一定多头偏向。然而缺乏RSI信息，难以准确判断超买或超卖状态，因此需关注成交量变化确认趋势延续或反转。短期震荡行情下，突破SMA20上方可能触发短线买入信号。  \n\n支撑位主要关注日内低点 $81000$，若价格跌破该水平，可能引发进一步回调压力。阻力位可留意SMA20及日内高点 $81397.85$，突破则有助于多头重拾上行动能。结合震荡格局，可在支撑附近考虑轻仓布局，同时在阻力区域逐步减仓。  \n\n交易建议上，短期操作宜偏向防守型策略，保持仓位灵活，关注价格对关键均线的反应。波段交易者可利用区间波动进行低买高卖，而激进投资者应待价格明确突破阻力或支撑确认趋势后再进场，避免横盘震荡中频繁操作带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $81,379, showing minimal movement over the last 24 hours. The small 0.05% change suggests a period of consolidation, with buyers and sellers in relative equilibrium. The intraday range between $81,000 and $81,397 highlights a tight trading band, indicating that the market is awaiting a catalyst to define the next directional move. From a trend perspective, BTC/USD remains near its short-term moving average, suggesting a neutral stance with potential for either breakout or pullback.\n\nLooking at technical indicators, the SMA(20) sits slightly above the current price at $81,646, providing minor resistance that could cap upward momentum. The MACD reading of 38.35510, without a signal line for reference, hints at continued bullish bias, though momentum may be waning as price lingers below the moving average. In the absence of RSI data, it’s harder to gauge overbought or oversold conditions, but the flat price action implies neither extreme is present.\n\nKey support and resistance levels are critical in this range-bound environment. Immediate support lies around $81,000, with a more robust floor near $80,500, where historical demand zones could absorb selling pressure. On the upside, resistance is first encountered at the SMA(20) near $81,646, with the next level around $82,000, marking a psychological barrier. Breach of these levels could trigger stronger directional moves and attract short-term traders seeking momentum plays.\n\nFor trading strategy, a cautious approach is advised. Range-bound traders might capitalize on small swings between $81,000 and $81,650, while breakout traders should watch for decisive moves above $82,000 or below $80,500 to initiate positions. Stop-losses near support for long trades or just above resistance for shorts can help manage risk. Overall, BTC/USD appears balanced but poised for potential volatility once a clear trend emerges."
+    }
+  }
+}
