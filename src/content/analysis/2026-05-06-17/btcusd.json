@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-06T17:27:09.920Z",
+  "price": {
+    "close": "81516.25",
+    "high": "81708.05",
+    "low": "81402",
+    "open": "81626.3",
+    "change": "-0.13",
+    "datetime": "2026-05-06 17:00:00"
+  },
+  "indicators": {
+    "rsi": 50.26455,
+    "macd": 184.5308,
+    "macd_signal": 254.60925,
+    "sma20": 81595.439
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理偏弱",
+      "content": "当前比特币价格位于81516.25美元，接近20日简单移动平均线(SMA20)81595.44美元，显示短期价格承压，整体趋势呈震荡整理状态。高低点81708.05/81402美元表明多空双方力量相对均衡，但上行动力略显不足。  \n\nMACD指标显示主线值为184.53，虽未给出信号线，但当前数值仍为正，提示短期仍有一定多头惯性，但需警惕潜在的回调压力。缺少RSI数据限制了超买超卖判断，但结合价格接近SMA20，可初步判断短期走势偏弱。  \n\n支撑位方面，下方81400美元为近期低点支撑，若跌破可能触发进一步回调至81000美元附近。阻力位则在81700美元附近，高点若突破则短线可能重新测试82000美元关口。投资者应关注关键价位的突破与反转信号。  \n\n交易策略上，短线可考虑高位轻仓卖出或低位逢低买入，避免追高操作。中期投资者建议保持观望，等待MACD信号线形成明确交叉或价格稳住SMA20上方后再加仓，以降低波动风险并把握趋势机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s recent price action shows a slightly bearish tilt after struggling to maintain momentum above $81,700. The current level of $81,516.25 sits just below the short-term 20-day SMA of $81,595, indicating minor downward pressure. Price oscillation within the $81,400–$81,700 range suggests a period of consolidation, with the market lacking a strong directional conviction. Traders should monitor whether the price can decisively close above the SMA to signal renewed upward momentum or risk further retracement.  \n\nMomentum indicators provide a mixed picture. The MACD reading at 184.53, without a corresponding signal line, suggests potential bullish energy, but the absence of confirmation limits its reliability. RSI data being unavailable prevents a precise gauge of overbought or oversold conditions, though the small 24-hour decline of -0.13% reflects a mild loss of buying strength. This scenario points to cautious trading, favoring short-term range strategies rather than aggressive directional bets.  \n\nKey technical levels are critical for immediate decision-making. Support is evident near $81,400, marking the lower boundary of the current trading range, while resistance around $81,700 aligns with recent highs. Breach of support could open a path toward $81,200, while a break above resistance might encourage bullish momentum targeting $82,000. These levels provide actionable benchmarks for intraday and swing traders, with stop-loss placements near support to mitigate downside risk.  \n\nFor traders, a conservative approach is advisable. Range-bound strategies such as scalping near support and resistance could exploit minor fluctuations. For trend followers, waiting for a confirmed breakout above $81,700 or a decisive drop below $81,400 ensures alignment with prevailing momentum. Risk management remains crucial, given the narrow volatility and subdued daily change, emphasizing measured position sizing and vigilant monitoring of market reactions to technical triggers."
+    }
+  }
+}
