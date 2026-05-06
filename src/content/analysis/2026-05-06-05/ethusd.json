@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-06T05:46:01.380Z",
+  "price": {
+    "close": "2360.9",
+    "high": "2367.26",
+    "low": "2354.56",
+    "open": "2366.05",
+    "change": "-0.22",
+    "datetime": "2026-05-06 05:00:00"
+  },
+  "indicators": {
+    "rsi": 45.13312,
+    "macd": 0.011980571,
+    "macd_signal": 1.72856,
+    "sma20": 2373.234
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱",
+      "content": "目前以太坊价格在 $2360.9 附近小幅下跌，24小时跌幅仅为 -0.22%，显示市场短线情绪略显谨慎。从日内高低点 $2367.26 / 2354.56 看，价格区间收窄，暗示市场在等待方向选择，短期趋势呈震荡整理格局。  \n\n技术指标方面，SMA(20) 位于 $2373.23 之上，意味着价格仍略低于均线，短期偏空信号较明显。MACD 虽呈微弱正值，但未形成明确金叉，显示多空力量接近平衡，市场缺乏强烈趋势动力。RSI 数据缺失，需关注未来动能变化来判断超买或超卖状态。  \n\n支撑位方面，近期低点 $2354.56 构成短线支撑，若跌破可能触发进一步回调至 $2345~$2340 区域。阻力位位于 SMA(20) $2373.23 附近，如突破将有望测试 $2380~$2385 区间。波动区间较小，适合关注关键价格突破信号。  \n\n交易策略上，可保持谨慎观望为主，短线可在支撑位附近小幅低吸，止损设置在 $2350 以下。若价格上破 $2373~$2375，考虑短线追多，止盈可参考 $2385 附近。同时，注意市场消息面和比特币走势对行情的引导作用，以控制风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading slightly below the 20-day simple moving average, indicating a mild short-term bearish bias. The price has been oscillating between $2354.5 and $2367.3, reflecting a period of consolidation with limited momentum. While the 24-hour decline of 0.22% is modest, it suggests that bears are testing support near the lower boundary. Traders should monitor whether ETH can maintain levels above $2350, as a breakdown could invite further short-term selling pressure.  \n\nThe MACD reading of 0.0119, with the signal line unavailable, points to a potential neutral-to-bullish momentum, but confirmation is needed once the signal line is calculated. Without the RSI, it is difficult to gauge overbought or oversold conditions, yet the minor price decline hints at a lack of strong bullish conviction. The close proximity of the SMA(20) at $2373 reinforces this, as the price slightly underperforming the moving average suggests cautious sentiment among traders.  \n\nKey support is identified at $2354, where buyers may step in to defend against deeper declines. Resistance lies near $2367, representing a short-term ceiling that ETH must breach for a meaningful bullish continuation. A sustained move above $2375 could open the door to a retest of $2400, while a break below $2350 might trigger a test of the $2330–$2340 zone. Price behavior around these levels will be critical for defining the next directional bias.  \n\nTraders may consider short-term range strategies, buying near support and selling into resistance, while keeping stop-loss orders tight below $2350. For those favoring trend trades, waiting for confirmation above the SMA(20) and $2367 resistance may provide a safer long entry. Conversely, aggressive sellers could target a break below $2350 with short positions, although risk management remains essential due to the relatively narrow trading range and low volatility."
+    }
+  }
+}
