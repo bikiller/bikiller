@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-07T11:22:57.318Z",
+  "price": {
+    "close": "2328.84",
+    "high": "2331.46",
+    "low": "2325.23",
+    "open": "2327.58",
+    "change": "0.08",
+    "datetime": "2026-05-07 11:00:00"
+  },
+  "indicators": {
+    "rsi": 39.45819,
+    "macd": -9.84599,
+    "macd_signal": -10.083317,
+    "sma20": 2338.473
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期盘整，偏弱震荡",
+      "content": "以太坊当前价格2328.84美元，较日内高点2331.46和低点2325.23波动有限，显示市场短期缺乏明确方向。从价格位置来看，略低于SMA(20) 2338.47，表明均线承压且短期趋势偏弱，市场可能延续窄幅震荡。  \n\nMACD值为-9.846，尚未形成明显金叉或死叉，但处于零轴下方，意味着多空力量略偏空。若RSI数据可用，结合超买/超卖状态可进一步确认短期动力，但目前仅凭MACD显示短线承压。  \n\n关键支撑位位于日内低点2325附近，若跌破，可能测试2315区域。阻力位则在2338-2340一带，与20日均线重合，突破上方需伴随成交量放大，才能确认反弹信号。短线交易者应关注突破或反转的确认信号，避免盲目追涨。  \n\n建议策略：短线可考虑低吸高抛，支撑位附近适量布局多单，止损可设在2324下方；阻力位附近减仓或观望，等待趋势明朗化后再加仓。长期投资者应关注月线级别支撑，逢低分批建仓为宜，避免情绪化操作。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading around $2,328.84, showing negligible movement over the past 24 hours with a 0.08% change. The intraday range between $2,325.23 and $2,331.46 indicates consolidation, suggesting market indecision. Observing the SMA(20) at $2,338.47, price sits slightly below this short-term moving average, implying mild bearish pressure. The narrow trading band and minimal volatility hint that ETH may be preparing for a breakout, either to test resistance or bounce off support.\n\nFrom a momentum perspective, the MACD reading at -9.84599 indicates downward momentum, but the absence of a signal line makes it difficult to confirm a clear crossover trend. Traders should be cautious, as momentum is skewed slightly bearish, yet the lack of strong divergence signals suggests the current move is likely a shallow retracement rather than a major reversal. Without RSI data, overbought or oversold conditions cannot be assessed, emphasizing reliance on price action and support/resistance levels for near-term guidance.\n\nKey support appears near $2,325, the recent intraday low, offering a potential buying zone if the price tests this level with volume. Resistance is defined by the SMA(20) at $2,338 and the intraday high of $2,331. A sustained break above $2,338 could signal renewed bullish momentum, potentially opening the door to $2,350-$2,360. Conversely, a breakdown below $2,325 may accelerate selling toward $2,310, making risk management crucial for short-term trades.\n\nGiven the consolidation and mixed indicators, short-term traders may favor range-bound strategies, buying near support and selling near resistance while keeping tight stop-losses to manage risk. Longer-term investors should await confirmation of either a breakout above the SMA(20) or a retracement below key support before initiating positions. Overall, Ethereum’s current price behavior suggests caution, selective engagement, and close monitoring of price reaction to the $2,325–$2,338 zone for tactical entries and exits."
+    }
+  }
+}

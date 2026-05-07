@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-07T11:22:14.892Z",
+  "price": {
+    "close": "80884.3",
+    "high": "81041.25",
+    "low": "80813.66",
+    "open": "80835.91",
+    "change": "0.06",
+    "datetime": "2026-05-07 11:00:00"
+  },
+  "indicators": {
+    "rsi": 42.42402,
+    "macd": -117.13472,
+    "macd_signal": -70.14234,
+    "sma20": 81232.513
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱，关注支撑位",
+      "content": "当前比特币价格在80884美元附近波动，日内涨幅微弱，仅0.06%，显示市场短期缺乏明确方向。价格接近20日简单移动平均线(SMA20)81232美元，下方支撑位约在80800美元附近，上方阻力位则在81040美元高点附近。整体来看，价格呈现轻微偏弱整理格局。  \n\nMACD指标为-117.13，处于零轴下方，显示短期空头动能占优，但尚未出现强烈发散信号，意味着市场可能维持震荡。缺少RSI数据限制了超买超卖判断，但结合当前微幅上涨及价格接近SMA20，可推测多空力量暂时均衡，短线波动可能以区间震荡为主。  \n\n支撑与阻力关键关注80800美元和81040美元，若跌破支撑，可能引发进一步回调至80500美元附近；若上破阻力，则短线有望测试81250美元附近。交易者可关注低位布局机会，但需控制仓位，避免追高。  \n\n综合来看，建议短线观望为主，偏向逢低做多，严格设置止损在支撑下方，同时关注价格突破阻力后的趋势延续信号。中期仍需等待市场确认突破方向，再考虑加仓或调整策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s current price action shows a narrow consolidation around the $80,884 level, indicating a market indecision phase. The 24-hour range is tight, with a high of $81,041 and a low near $80,814, reflecting limited volatility and potential accumulation. While the short-term trend leans slightly bearish given the price is below the 20-period SMA at $81,232, this could also signal a temporary pause before the next directional move, depending on volume and momentum shifts. Traders should observe whether the market sustains above $80,800 or tests lower levels.  \n\nThe MACD reading at -117.13 points to underlying bearish momentum, suggesting that sellers currently have mild control. Without a visible signal line, interpretation relies on the divergence between the MACD and price action; the negative value indicates that the short-term momentum is weaker than the longer-term average. RSI is unavailable, limiting overbought or oversold analysis, but the narrow trading range implies equilibrium. Market participants should watch for MACD crossovers or a significant divergence from price for early trend reversal signals.  \n\nImmediate support is near $80,800, coinciding with the lower boundary of today’s trading range. A break below this level could trigger deeper short-term corrections toward $80,500, offering cautious shorting opportunities. Resistance lies at the 20-period SMA of $81,232 and slightly above at $81,500, where sellers may reassert control. Breaching these zones with conviction could reignite bullish momentum, potentially targeting $82,000 or higher. Layered entry and exit strategies around these levels are prudent for risk management.  \n\nFor traders, a cautious approach is recommended due to the narrow range and negative MACD. Short-term longs could be considered near support with tight stops, while momentum traders might wait for a decisive break above $81,232 to confirm bullish continuation. Conversely, intraday shorts may be favored if $80,800 fails to hold, with stops above recent highs. Patience and adherence to key technical levels remain crucial in navigating this low-volatility environment, as abrupt breakouts could quickly redefine market direction."
+    }
+  }
+}
