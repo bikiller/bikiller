@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-07T22:31:52.524Z",
+  "price": {
+    "close": "79887.94",
+    "high": "79978.08",
+    "low": "79566.87",
+    "open": "79716.76",
+    "change": "0.21",
+    "datetime": "2026-05-07 22:00:00"
+  },
+  "indicators": {
+    "rsi": 37.0044537,
+    "macd": -381.27122,
+    "macd_signal": -317.67668,
+    "sma20": 80555.7205
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，偏空震荡",
+      "content": "当前比特币价格在79887美元附近徘徊，接近日内高点79978和低点79566，显示短期波动有限。价格位于20日均线80555下方，表明短线承压明显，多头动能不足，市场呈现弱势整理格局。  \n\nMACD为-381.27且低于零轴，提示下行动能仍存，但未出现加速下跌信号，短期可能在支撑位附近震荡。虽然RSI未提供参考，但结合价格与均线关系，可判断市场缺乏明显超买或超卖压力。  \n\n关键支撑位在79550-79600区间，如果跌破该区域，可能引发进一步回调；阻力位在80050-80550附近，多头需突破此区才能重新掌控行情。区间震荡明显，短线操作应谨慎。  \n\n交易策略上，建议偏向观望或短线低吸高抛。若价格稳住支撑，可小幅做多，止损置于支撑下方；若突破阻力并站稳均线，可考虑中短线多头介入。总体保持谨慎，规避追高风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a subtle consolidation phase around the $79,888 mark, reflecting a slight bullish bias within a tight intraday range. Price action remains beneath the 20-period simple moving average at $80,556, suggesting that short-term momentum favors sellers. However, the minimal 24-hour change of 0.21% indicates indecision among traders, with neither bulls nor bears asserting dominance. The high of $79,978 and low of $79,567 highlight a narrow trading corridor, signaling potential buildup before a decisive move.  \n\nThe MACD reading of -381.27 underscores prevailing bearish pressure, though the absence of a signal line limits full crossover interpretation. Without RSI data, overbought or oversold conditions are unclear, but the current sideways movement hints that momentum is subdued. Traders may consider monitoring for a MACD convergence or divergence as a confirmation of trend shifts. In this context, short-term swings could present minor scalping opportunities, while sustained directional moves are awaited for stronger signals.  \n\nSupport appears near $79,566, providing a defensive floor where buyers might step in. Resistance lies close to $79,978 and the SMA(20) at $80,556, creating layers that could stall upward advances. A breakout above these levels may signal a resumption of bullish trends toward the $81,000 zone, whereas a decisive breach below support could invite deeper retracement toward $78,500. These zones are critical for risk management, guiding stop-loss placement and position sizing in both intraday and swing strategies.  \n\nGiven the current structure, cautious traders may prefer range-bound strategies, buying near support and taking profits near resistance while remaining alert for breakout triggers. Momentum traders might wait for MACD confirmation or SMA breach for trend-following entries. Overall, Bitcoin is in a measured equilibrium phase, with short-term consolidation dominating the narrative. Clarity in direction will likely emerge once price decisively crosses the SMA(20) or key intraday boundaries."
+    }
+  }
+}
