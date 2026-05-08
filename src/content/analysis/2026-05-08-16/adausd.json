@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-05-08T16:06:10.594Z",
+  "price": {
+    "close": "0.268373",
+    "high": "0.269669",
+    "low": "0.268271",
+    "open": "0.269669",
+    "change": "-0.47",
+    "datetime": "2026-05-08 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.91521,
+    "macd": 0.00088524642,
+    "macd_signal": 0.000057849378,
+    "sma20": 0.2634661
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期震荡偏多",
+      "content": "当前艾达币价格在 $0.268$ 附近波动，较昨日微跌 $0.47\\%$，整体呈现短期震荡格局。从价格与 $20$ 日简单移动均线(SMA)对比来看，最新价格略高于 SMA($0.263$)，表明短期多头略占优势，但上涨动力有限，行情可能在 $0.268$-$0.270$ 区间整理。  \n\nMACD 当前值为 $0.000885$，虽然信号线数据缺失，但正值显示多头动能存在，市场短线仍有反弹可能。然而，缺乏 RSI 数据意味着超买或超卖状态不明确，投资者需关注成交量变化以确认趋势延续性。短线波动较小，单边行情不明显。  \n\n支撑位方面，短期可关注 $0.263$-$0.265$ 区间，这是 $20$ 日 SMA 附近的重要支撑，若跌破可能加剧回调压力。阻力位在 $0.2695$-$0.271$，多次触及未能有效突破表明上行空间受限，需警惕承压回落。  \n\n综合来看，交易策略以区间操作为主，逢低轻仓买入、接近阻力区减仓或止盈，避免追高。若价格稳稳站上 $0.271$ 并伴随放量，则可考虑短线趋势延续的多单机会。控制仓位和设置合理止损是控制风险的关键。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano (ADA) is currently hovering around $0.268, showing minor bearish pressure with a 24-hour decline of 0.47%. The short-term price action suggests a consolidation phase, as the intraday high of $0.2697 and low of $0.2683 indicate limited volatility. The market appears to be testing a neutral zone, with buyers and sellers in relative balance. This sideways movement often precedes a directional breakout, making it crucial to monitor subsequent price behavior for early signs of trend continuation or reversal.  \n\nThe SMA(20) at $0.2635 is below the current price, which generally signals that the short-term momentum is slightly bullish. The positive MACD reading of 0.000885, though marginal, suggests potential upward pressure; however, the absence of the signal line prevents a clear confirmation of momentum strength. Traders should note that these indicators point to cautious optimism rather than a strong trend, emphasizing that any significant price move may require additional confirmation from volume or higher time-frame analysis.  \n\nKey support is likely at $0.2635, aligned with the 20-period SMA, providing a potential entry zone for conservative buyers. On the upside, immediate resistance is near $0.270, coinciding with the recent daily high, while more robust resistance may appear around $0.275 if momentum strengthens. These levels can serve as critical decision points for swing traders, where a break above resistance could signal renewed bullish momentum, whereas a breach below support may indicate further downside pressure.  \n\nGiven the current consolidation and mild bullish signals, a cautious trading approach is advisable. Short-term traders might consider range-bound strategies, buying near support and selling close to resistance, while keeping stop-loss orders tight to manage downside risk. For longer-term investors, monitoring the MACD crossover and potential RSI confirmation in upcoming sessions will provide a clearer picture of trend sustainability, allowing for more confident position adjustments without overexposing to short-term fluctuations."
+    }
+  }
+}
