@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-08T17:11:20.053Z",
+  "price": {
+    "close": "79805.96",
+    "high": "79939.58",
+    "low": "79754.03",
+    "open": "79777.04",
+    "change": "0.04",
+    "datetime": "2026-05-08 17:00:00"
+  },
+  "indicators": {
+    "rsi": 43.19779,
+    "macd": -194.099802,
+    "macd_signal": -237.0044583,
+    "sma20": 79936.7305
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，偏空趋势仍存",
+      "content": "从价格走势来看，BTC/USD 当前在 79805 附近盘整，日内波动幅度有限，整体呈现横向震荡特征。高低点分别为 79939 和 79754，表明市场多空力量暂时均衡，但价格略低于 20 日均线 79936，短期偏弱信号明显。  \n\n技术指标显示，MACD 为 -194.10，处于负值区间，暗示下行动能尚存，但信号线未明确，说明短期空头力度有限。RSI 数据缺失，但结合价格与均线关系，可推测多头动力不足，价格短期可能在阻力位附近受压。  \n\n关键支撑位在 79750 附近，如跌破可能加速下行，下一支撑位关注 79500。阻力位主要集中在 79940-80000 区间，多次尝试上攻受阻，显示多头力量未能形成有效突破。投资者应关注区间上下轨的反应，谨防短线波动带来的风险。  \n\n交易策略上，短线可考虑高抛低吸，保持谨慎。若价格稳住 79800 上方，可适度持有观察；若跌破 79750，则可考虑轻仓空单介入，止损设置在前高 79940 附近，以控制风险并顺应短期偏空趋势。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating near the $79,800–$79,900 range, reflecting a relatively neutral market sentiment after a modest 0.04% 24-hour change. The price has remained tight between the intraday high of $79,939 and low of $79,754, suggesting short-term indecision among traders. While the market lacks strong momentum, the slightly lower SMA(20) at $79,936 indicates that BTC/USD is testing a key short-term equilibrium, with neither bulls nor bears firmly in control.  \n\nFrom a technical perspective, the MACD value of -194 points to mild bearish pressure, but the absence of the signal line makes it difficult to confirm a decisive trend reversal. Typically, a negative MACD below the zero line indicates that short-term momentum may be lagging relative to longer-term averages. Traders should closely watch for a MACD crossover with the signal line, which could validate either a continuation of the neutral phase or a shift toward downward movement.  \n\nSupport and resistance levels are key reference points in the current setup. Immediate support lies around $79,750, a level that has held during intraday dips, while resistance is seen near $79,940–$79,950. A break above this resistance zone could trigger a short-term bullish rally, whereas a breach of support may open the door to further downside toward the $79,600 area. These levels provide clear entry and exit benchmarks for disciplined trading strategies.  \n\nGiven the current neutral-to-slightly-bearish indicators, short-term traders may prefer range-bound strategies, including buying near support and taking profits near resistance. Longer-term investors should remain cautious and wait for confirmation from MACD and SMA trends before committing larger positions. Overall, BTC/USD is in a consolidation phase, and patient observation combined with strict risk management is advised until a stronger directional signal emerges."
+    }
+  }
+}
