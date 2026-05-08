@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-08T23:37:00.456Z",
+  "price": {
+    "close": "80197.87",
+    "high": "80292.92",
+    "low": "80131.19",
+    "open": "80270.12",
+    "change": "-0.09",
+    "datetime": "2026-05-08 23:00:00"
+  },
+  "indicators": {
+    "rsi": 50.046523,
+    "macd": -54.070264,
+    "macd_signal": -125.89461,
+    "sma20": 80005.142
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整震荡趋势",
+      "content": "目前比特币价格在80197附近徘徊，距离日内高点80292和低点80131波动幅度有限，显示市场短期多空力量相对均衡。20日简单移动平均线(SMA20)在80005上方略低，表明价格略偏上行，但整体仍处于横盘整理阶段，缺乏明确突破信号。\n\nMACD指标呈现-54.07的负值，尽管信号线未提供，但该负值暗示近期动能偏弱，多头力量不足。RSI缺失，使超买超卖状态难以判断，但结合价格区间收窄，可视为震荡整理而非趋势反转信号，投资者应关注后续动能释放。\n\n关键支撑位位于80100附近，若下破可能引发短线回落至80000整数关口；阻力位在80300至80400区间，突破则可能带来进一步上攻空间。技术上仍以横盘整理为主，需谨防假突破造成的波动风险。\n\n交易建议上，短线可考虑区间内高抛低吸策略，保持灵活仓位。激进投资者可在突破80300阻力后跟进多单，但应严格设置止损，避免回调风险；保守投资者则可等待明确趋势确认后再介入，以降低震荡风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating around the $80,200 level, showing a very narrow trading range over the last 24 hours. The market is relatively quiet with a slight negative bias, reflected in the minor 0.09% drop. The price is just above the 20-period simple moving average at $80,005, indicating a marginally bullish short-term trend. This consolidation phase suggests indecision among traders, with neither buyers nor sellers asserting dominance.\n\nFrom a technical indicator perspective, the MACD sits at -54.07, implying that bearish momentum is present despite the negligible price change. The absence of a signal line limits precision, but the negative MACD hints at a potential drift toward further downside. RSI data is unavailable, so we cannot gauge overbought or oversold conditions, which normally would help identify potential reversal points.\n\nSupport and resistance levels are well-defined within the current range. Immediate support is near $80,130, slightly below the 24-hour low, while resistance hovers around $80,290, close to the recent high. A breakout above this level could signal renewed bullish momentum, targeting higher psychological levels near $81,000. Conversely, a breakdown below support may lead to a retest of $79,800, testing the resilience of short-term buyers.\n\nTrading strategies in this environment favor cautious entries. Range-bound traders could capitalize on scalping between support and resistance, while trend-followers should wait for a clear breakout or breakdown. Position sizing should remain conservative given the low volatility. Overall, the market is in a holding pattern, and decisive movement will likely be driven by external catalysts, such as macroeconomic news or institutional activity, rather than purely technical signals."
+    }
+  }
+}
