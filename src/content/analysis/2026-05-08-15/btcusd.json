@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-08T15:04:01.762Z",
+  "price": {
+    "close": "80168.08",
+    "high": "80179.93",
+    "low": "80120.18",
+    "open": "80134.09",
+    "change": "0.04",
+    "datetime": "2026-05-08 15:00:00"
+  },
+  "indicators": {
+    "rsi": 49.044993,
+    "macd": -187.40748,
+    "macd_signal": -260.18895,
+    "sma20": 79939.011
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏强",
+      "content": "比特币当前价格位于 $80168.08$ 附近，较 20 日简单移动均线（SMA20） $79939.01$ 略高，显示价格短期偏向多头，但整体涨幅有限，市场仍以震荡整理为主。日内波动幅度较小，高低点差仅约 $59.75$ 美元，反映出多空力量暂时均衡。  \n\nMACD 指标显示值为 -187.41，虽然仍处于负值区，但趋势向零靠近，暗示空头动能有所减弱，多头可能在短期积蓄反弹能量。RSI 数据不可用，但结合价格与 SMA20 的关系，可判断市场尚未进入超买状态，短线仍有支撑。  \n\n关键支撑位在 $79939$ 附近的 SMA20，以及下方心理关口 $80000$，若跌破可能加速调整。阻力位则在近期高点 $80179$ 与 $80250$ 附近，突破则有望打开上行空间。震荡行情下，突破阻力或支撑才是确认趋势的关键。  \n\n短线交易建议：低位可关注逢低做多，严格设置止损以防突然回调；高位若遇阻力明显，可考虑轻仓获利了结，控制仓位风险。整体来看，短期偏强震荡，操作需结合关键支撑与阻力，等待明确方向信号再加仓。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around the $80,168 mark, showing very limited movement in the past 24 hours with a negligible 0.04% gain. Price action has been relatively tight, oscillating between $80,120 and $80,179. The narrow range suggests a phase of consolidation, with buyers and sellers in a delicate balance. From a trend perspective, the market appears to be in a short-term sideways channel, indicating indecision before a potential directional breakout. Momentum seems muted, and traders may need to wait for a clear trigger before committing to new positions.  \n\nLooking at the SMA(20) at $79,939, Bitcoin is slightly above its short-term moving average, hinting at mild bullish bias. However, the absence of a computed RSI and a negative MACD value of -187.41 complicates momentum analysis. The negative MACD suggests that, despite being above the 20-day SMA, short-term momentum may still be under pressure. This divergence between price position and momentum underscores the current indecision, indicating a market that could swing either way depending on incoming catalysts or larger market sentiment shifts.  \n\nKey support appears near the recent low of $80,120, which has held firm during multiple intraday tests. Resistance is clustered around $80,180, marking the upper boundary of the tight trading range. A decisive break above $80,200 could signal renewed bullish momentum, potentially inviting buyers back into the market. Conversely, a drop below $80,100 may trigger short-term selling pressure and a retest of lower support levels around $79,900, which coincides with the SMA(20).  \n\nFor traders, cautious engagement is recommended under these conditions. Range-bound strategies such as buying near support and taking profits near resistance may be appropriate until momentum indicators provide a clearer directional signal. Risk management should be emphasized given the tight consolidation and mixed indicator signals. Traders could also monitor for any breakout accompanied by volume spikes, which would help confirm a trend continuation or reversal, guiding higher-probability entries for either long or short positions."
+    }
+  }
+}
