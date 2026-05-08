@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-08T10:51:38.983Z",
+  "price": {
+    "close": "80155.14",
+    "high": "80176.42",
+    "low": "79770.61",
+    "open": "79861.87",
+    "change": "0.37",
+    "datetime": "2026-05-08 10:00:00"
+  },
+  "indicators": {
+    "rsi": 47.0042516,
+    "macd": -298.25834,
+    "macd_signal": -339.42799,
+    "sma20": 80107.5375
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘震荡，关注关键支撑与阻力",
+      "content": "目前比特币价格在80155附近徘徊，全天波动幅度有限，显示短期多空力量相对均衡。结合20日均线SMA(20)80107的支撑，价格仍略高于均线，暗示短线仍有轻微上行动能，但整体趋势偏向横盘整理。  \n\nMACD显示当前值为-298.26，虽然未提供信号线，但负值区间表明空头力量仍在，需关注是否出现底背离以确认潜在反弹机会。RSI数据缺失，无法判断超买或超卖状态，但结合价格波动范围，短期动量可能有限。  \n\n关键支撑位在79770附近，若跌破该水平可能触发进一步调整；阻力位在80176高点附近，多头若能突破此位置，则有望测试更高水平。日内操作应关注支撑与阻力的反复测试，以确认突破方向。  \n\n交易策略上，可考虑在支撑区附近轻仓做多，止损设置略低于支撑；若价格向上突破阻力并伴随成交量放大，可逐步加仓；短线追高风险较大，应谨慎操作并保持灵活止盈止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading slightly above its 20-period simple moving average at $80,107, indicating a mild bullish bias in the short term. Price action shows limited volatility within the $79,770–$80,176 range over the past 24 hours, suggesting a consolidation phase. The narrow daily range may point to market indecision, with neither buyers nor sellers asserting dominance. Traders should monitor whether a breakout above $80,200 occurs, as it could trigger renewed momentum toward the next psychological barrier near $82,000.  \n\nAlthough the 14-period RSI is unavailable, the MACD value of -298.26 suggests underlying bearish momentum relative to prior price action. Without a signal line for confirmation, the indicator alone points to a potential short-term pressure, hinting that upside moves may face resistance. Combined with the recent sideways movement, this could indicate a period of accumulation where market participants are balancing risk before committing to larger positions. Monitoring a MACD crossover, once the signal line forms, will be crucial for trend confirmation.  \n\nSupport and resistance levels are currently well-defined by the intraday low at $79,770 and the recent high at $80,176. A decisive break below the support could open the path toward the $78,500–$78,700 area, offering potential buying opportunities for risk-tolerant traders. Conversely, surpassing the $80,200–$80,300 zone would validate a short-term bullish breakout, with the $81,500–$82,000 region acting as the next target. Price clustering near the SMA indicates a balanced market with moderate risk-reward potential.  \n\nTrading strategies should focus on range-bound tactics in the current consolidation zone, with tight stop-loss placement below $79,750 for long positions. For breakout seekers, waiting for a confirmed move above $80,200 with volume support may provide better entry points, while short sellers might consider entering on rejection at the upper resistance. Overall, caution is warranted due to mixed technical signals, but opportunities exist for both intraday scalpers and swing traders adapting to short-term volatility."
+    }
+  }
+}
