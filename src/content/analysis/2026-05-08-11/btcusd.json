@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-08T11:58:19.898Z",
+  "price": {
+    "close": "80210.48",
+    "high": "80324.34",
+    "low": "80124.5",
+    "open": "80207.63",
+    "change": "0.00",
+    "datetime": "2026-05-08 11:00:00"
+  },
+  "indicators": {
+    "rsi": 48.13047,
+    "macd": -254.67295,
+    "macd_signal": -321.82055,
+    "sma20": 80078.867
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，价格临近关键支撑",
+      "content": "当前比特币价格在80210附近震荡，较日内高低点波动幅度有限，显示短期市场多空力量相对均衡。价格略高于20日均线(SMA20=80078)，暗示短期趋势存在温和支撑，但整体动能仍不足以形成强烈突破。  \n\nMACD处于负值区间(-254.67)，显示多头动能尚未完全恢复，空头仍有一定压制力。然而，价格在SMA20上方运行，意味着回调风险有限，短线仍有反弹机会。缺乏RSI数据需注意超买超卖判断不完全。  \n\n关键支撑位在80000附近，若跌破该水平可能触发进一步回调，次级支撑在79800附近。阻力位关注80350至80500区间，若价格有效突破，将打开上行空间至80700以上。交易者应密切关注支撑与阻力互动，结合成交量判断突破可靠性。  \n\n交易建议上，短线可考虑低位逢低多单，止损设置略低于80000支撑，以控制风险。激进交易者可在突破80350上方尝试短期多单，目标指向80500-80700区间，但需注意回撤风险与行情反转信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action around $80,210 reflects a consolidation phase, with the market showing minimal volatility over the last 24 hours. The narrow daily range between $80,124 and $80,324 suggests equilibrium between buyers and sellers, indicating indecision. Short-term momentum appears neutral, and with the SMA(20) at $80,078, the current price hovering slightly above the moving average implies mild bullish bias, though no strong directional trend is established yet. Traders should watch for a decisive break above or below this range for confirmation of the next directional move.\n\nThe MACD reading of -254.67, despite the absence of a signal line, signals that bearish momentum has been present recently, but it’s potentially stabilizing as the price holds near the SMA. Without RSI data, overbought or oversold conditions are unclear, so caution is warranted in interpreting strength purely from momentum. The compression of price and indicators in this region often precedes either a breakout rally or a downward correction, emphasizing the need for confirmation before initiating positions.\n\nKey support lies at $80,000, a psychological and technical level reinforced by the 20-period SMA, providing a floor for buyers. Resistance appears near the daily high at $80,324, where sellers have repeatedly stepped in. Breaching this zone with volume could signal a bullish continuation toward $81,000 or higher, while failure to hold support may trigger a short-term pullback to $79,800–$79,600, a range that could attract renewed buying interest.\n\nFor traders, a range-bound strategy may be prudent until a clear trend emerges. Conservative traders might consider buying near support with tight stops, targeting the resistance zone, while aggressive traders could look for breakout entries above $80,324 with confirmation from volume or momentum indicators. Risk management remains crucial given the low volatility environment, as sudden spikes can occur once the market decides on a directional path."
+    }
+  }
+}
