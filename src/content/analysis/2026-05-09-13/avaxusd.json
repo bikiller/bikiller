@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-05-09T13:13:02.331Z",
+  "price": {
+    "close": "9.946",
+    "high": "9.946",
+    "low": "9.9332",
+    "open": "9.9332",
+    "change": "0.13",
+    "datetime": "2026-05-09 13:00:00"
+  },
+  "indicators": {
+    "rsi": 57.86351,
+    "macd": 0.060214928,
+    "macd_signal": 0.080234129,
+    "sma20": 9.95326
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 9.946\\n- 24小时变化: 0.13%\\n- 高点/低点: 9.946 / 9.9332\\n- RSI(14): N/A\\n- MACD: 0.060214928, Signal: N/A\\n- SMA(20): 9.95326\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短期震荡偏弱但有筑底迹象\n\n当前价格围绕9.94附近波动，短线趋势显示多空拉锯格局。价格在SMA(20)=9.953附近反复试探未能有效上破，说明多头动能有限。在日内波动狭窄的背景下，短期趋势偏震荡弱势。\n\n技术指标MACD仍呈现正值但没有Signal确认，表明动能虽略偏多但强度不足。RSI数据缺失增加了判断难度，不过均线附近的反复试探往往预示买卖力量相对均衡，成交量若未放大则趋势难以明确。\n\n支撑位可关注近期低点9.93附近，其次为9.85区域。阻力位首先在SMA(20)上方10.00整数关口，其次在10.10～10.15区间。若价格下破支撑且伴随放量，则可能延伸调整。\n\n交易上建议等待更明确的方向确认，逢低短线可考虑小量布局，止损设在9.80下方；上破10.00后可跟进多头，目标看向10.20～10.30区域。风险控制仍需优先考虑。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Avalanche vs US Dollar (AVAX/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 9.946\\n- 24h Change: 0.13%\\n- High/Low: 9.946 / 9.9332\\n- RSI(14): N/A\\n- MACD: 0.060214928, Signal: N/A\\n- SMA(20): 9.95326\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nAvalanche’s price action around **$9.946** suggests a *neutral bias* in the very short term. Recent candles are tightly ranged, with the 24‑hour high and low almost overlapping, indicating lack of strong directional conviction. The price hovering just below the **20‑period simple moving average (~9.95)** underscores mild pressure from the short‑term average. This could signal a pause after recent moves, and traders should watch for a decisive break above this level to confirm fresh upside momentum.\n\nAlthough the **RSI(14)** isn’t available, the modest MACD reading of **~0.060** — without a confirmed signal line crossover — hints at slight bullish inclination but not enough strength to call a definitive trend change. The lack of clear divergence or extreme oscillator readings suggests the market isn’t overextended. In this context, the MACD number alone shouldn’t be taken as a strong buy signal but rather as part of a broader setup where confirmation from price action is essential.\n\nKey support lies near the **$9.80–9.85 area**, where recent consolidation has shown bids stepping in, and psychologically close to the round number support. On the upside, immediate resistance comes from the 20‑SMA and **$10.20–10.30**, where sellers have previously capped advances. A convincing close above this resistance zone could open the door toward **$10.50+**, whereas failure to hold support might invite a deeper retracement toward **$9.50** or lower.\n\nFrom a trading perspective, conservative entries may favor waiting for breakout confirmation — above **$10.30** for long exposure with stops below **$9.80**, or short setups on rejection with tight risk control. Range‑based traders could deploy entries near support and exits toward resistance, managing risk actively. Always combine technical levels with volume confirmation and watch macro catalysts that could rapidly shift sentiment."
+    }
+  }
+}
