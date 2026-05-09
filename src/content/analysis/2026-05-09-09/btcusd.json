@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-09T09:15:42.345Z",
+  "price": {
+    "close": "80333.89",
+    "high": "80406.13",
+    "low": "80324.86",
+    "open": "80399.99",
+    "change": "-0.08",
+    "datetime": "2026-05-09 09:00:00"
+  },
+  "indicators": {
+    "rsi": 52.59547,
+    "macd": 33.77804,
+    "macd_signal": 7.32358,
+    "sma20": 80222.5305
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，偏向多头支撑",
+      "content": "当前比特币价格徘徊在80333.89美元附近，较昨日基本持平，显示市场短期缺乏明显方向性。从K线形态看，价格仍在20日简单移动平均线SMA(20)80222.53美元之上，表明中短期多头略占优势，但涨幅受限，呈现震荡整理格局。  \n\nMACD指标当前值为33.77804，虽显示多头动能存在，但缺乏信号线数据，需警惕动能减弱可能导致回调。RSI未提供，但从价格区间窄幅波动推测市场处于中性水平，多空力量暂时均衡。短期内，若价格跌破SMA(20)，可能触发进一步支撑测试。  \n\n关键支撑位可关注80300-80200美元区间，若守住则有望反弹上行；阻力位在80400-80500美元附近，突破则可能延续多头趋势。成交量需配合价格突破确认，否则假突破风险较高。  \n\n交易策略上，偏向低吸高抛，逢支撑轻仓布局多单，遇阻力逐步减仓或观望，避免追涨。中短期建议关注SMA20的支撑强度及MACD动能变化，以调整仓位管理和风险控制，保持灵活应对震荡行情。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has maintained a relatively narrow trading range around the $80,330 mark, suggesting a phase of consolidation following recent bullish momentum. The minimal 24-hour price change of -0.08% indicates indecision among market participants, with neither buyers nor sellers exerting strong influence. The high at $80,406 and low at $80,325 form a tight range, which may act as short-term reference levels. This consolidation phase could precede a more pronounced directional move, often signaling the market is absorbing prior gains before a breakout.  \n\nThe MACD reading of 33.78, while lacking a confirmed signal line value, points to persistent bullish momentum, albeit potentially slowing. Traders should be cautious, as momentum indicators in such tight ranges often generate false signals. The 20-period SMA at $80,222 provides additional context, with the current price slightly above it, suggesting a mild upward bias. The absence of a computed RSI prevents overbought/oversold analysis, but price action relative to the SMA can act as a guide for short-term positioning.  \n\nKey support is evident near the $80,225 level, aligned with the SMA, while resistance resides just above the daily high at $80,406. A decisive break above this resistance could trigger a short-term bullish move toward the $81,000 area, whereas a breakdown below support may see a retest of $79,800 or lower. Monitoring volume on these moves will be critical, as strong conviction often confirms the sustainability of breakout or breakdown scenarios.  \n\nFor active traders, a cautious long bias above the SMA with tight risk management near $80,225 could be considered, targeting the upper range toward $80,400–$81,000. Conversely, short positions may be appropriate if price fails to maintain support and momentum diminishes, with stop losses above the consolidation ceiling. Overall, the market shows subtle bullish leanings but remains in a delicate equilibrium, where careful observation and disciplined entries are key."
+    }
+  }
+}
