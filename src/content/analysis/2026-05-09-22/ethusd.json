@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-09T22:05:18.126Z",
+  "price": {
+    "close": "2330.14",
+    "high": "2331.26",
+    "low": "2329.75",
+    "open": "2330.55",
+    "change": "-0.02",
+    "datetime": "2026-05-09 22:00:00"
+  },
+  "indicators": {
+    "rsi": 64.22162,
+    "macd": 6.40582,
+    "macd_signal": 5.38063,
+    "sma20": 2319.38
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多",
+      "content": "目前ETH/USD维持在2330附近，价格略高于20日简单移动平均线（SMA20=2319.38），显示短期均线支撑有效，多头仍占优势。日内波动不大，说明市场仍处于整理阶段，暂未出现明显趋势突破信号。\n\nMACD当前值为6.40582，但信号线数据缺失，暗示动能偏强但无法确认交叉方向。若未来MACD持续上升并形成金叉，可视为短线买入信号；反之若跌破零轴，则需警惕回调风险。\n\n关键支撑位在2319-2320区间，与SMA20重合，若跌破该水平，可能引发短线下探至2300附近。阻力位则在2335-2340区间，多次试探未突破显示卖压集中，突破后或开启新一轮上行行情。\n\n综合来看，建议短线交易者可考虑在支撑位附近布局多单，止损设置在2315下方，同时关注阻力位的突破情况以调整仓位。波段交易者可保持观望，等待明显趋势确认再做方向性操作。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading at $2330.14, showing a largely neutral price movement over the last 24 hours with a minor decline of 0.02%. The narrow trading range between $2329.75 and $2331.26 suggests low intraday volatility, which often precedes a breakout in either direction. The short-term SMA at $2319.38 positions as a near-term support, providing a baseline where buyers may step in, while the upper intraday highs hint at immediate resistance around $2335–$2340, key levels to monitor for breakout confirmation.  \n\nThe MACD reading at 6.40582, despite the missing signal line, indicates a modest bullish bias, suggesting momentum is still slightly favorable for buyers. Although the RSI is unavailable, the price consolidating above the 20-period SMA signals that the market is not oversold, maintaining potential for gradual upward movement. Traders should observe whether Ethereum can sustain above the SMA and the minor intraday high; a rejection could push price back toward the support zone around $2315–$2318.  \n\nSupport levels are currently anchored near $2319 and $2315, offering buyers potential entry points if price dips. Resistance appears at $2335, $2340, and psychologically at $2350. Breaking above $2340 with strong volume may open a path toward $2360, while failure to maintain the SMA could see ETH retesting $2310–$2312. These levels are critical for short-term strategies, with careful attention to volume and momentum shifts to avoid false breakouts.  \n\nFor trading, a cautious approach is advisable. Traders might consider long positions near $2320–$2325 with a tight stop below $2315, aiming for $2335–$2340 targets. Conversely, aggressive traders could explore short opportunities if price repeatedly fails to break $2335, with stop-losses above $2340 to manage risk. Overall, Ethereum is consolidating, and watching for directional confirmation will be essential before committing to larger trades."
+    }
+  }
+}
