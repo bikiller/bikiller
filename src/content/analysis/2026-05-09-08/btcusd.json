@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-09T08:22:29.671Z",
+  "price": {
+    "close": "80391.35",
+    "high": "80410.55",
+    "low": "80204.46",
+    "open": "80214.86",
+    "change": "0.22",
+    "datetime": "2026-05-09 08:00:00"
+  },
+  "indicators": {
+    "rsi": 54.64176,
+    "macd": 31.22282,
+    "macd_signal": 0.57211453,
+    "sma20": 80186.296
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘偏多震荡",
+      "content": "当前比特币价格维持在80391附近，接近20日简单移动平均线(SMA20)80186，显示短期支撑尚可，但整体波动幅度有限。价格在80410高点和80204低点之间震荡，短期趋势偏向横盘整理，买卖力量暂时均衡。  \n\nMACD值为31.22，虽缺少信号线对比，但正值区间显示多头仍占优势，短期内上涨潜力存在。然而RSI未提供，需关注未来超买或超卖信号，以判断动能是否减弱。SMA20位置与当前价格接近，意味着均线支撑有效，短线波动可能受此约束。  \n\n关键支撑位在80200附近，如跌破可能触发短线调整；阻力位在80410-80500区间，多次试探未能突破显示压力明显。若价格稳住支撑，可期待区间上行机会，但突破阻力需等待明确信号确认。  \n\n交易策略上，建议在支撑附近布局多单，止损可置于80180下方，短线可关注80410阻力位附近的获利了结。激进交易者可等待突破阻力后的跟进买入，而保守者则维持观望，避免震荡区间内频繁操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a mildly bullish bias, trading just above its 20-period simple moving average at $80,186.30. The price hovering around $80,391 suggests consolidation near the upper edge of a tight intraday range. The market's inability to decisively break above the $80,410 high indicates some short-term resistance, while the $80,204 low serves as immediate support. Overall, the trend is cautiously upward but lacks strong momentum, suggesting traders should monitor for either a breakout or a retracement.  \n\nThe MACD value at 31.22, without an accompanying signal line, indicates that bullish momentum is present but not yet fully confirmed. The lack of a signal line reading limits precise crossover analysis, so traders should treat this as tentative. In conjunction with the SMA(20), the price slightly above the moving average reinforces short-term bullishness. A confirmed MACD signal in the coming sessions would strengthen conviction for further upside. Conversely, a reversal or flattening could hint at consolidation or minor retracement.  \n\nKey levels to watch include $80,600 as an immediate resistance, which if breached, could open the path toward $81,000 psychological mark. On the downside, the $80,000 round number and $79,800 zone act as crucial support levels. Maintaining above these supports is critical for preserving the bullish structure. Failure to hold $80,000 may prompt a deeper pullback toward $79,500, potentially providing better entry points for long positions.  \n\nTraders may consider a cautious approach, focusing on intraday scalps or swing trades with tight stops. Breakout traders could wait for a decisive close above $80,410 before entering longs, while conservative traders might look for a retracement to SMA support around $80,186 to accumulate. Risk management remains essential given the narrow range and low volatility, ensuring positions are sized to account for sudden shifts in sentiment."
+    }
+  }
+}
