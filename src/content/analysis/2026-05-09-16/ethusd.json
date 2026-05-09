@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-09T16:51:25.274Z",
+  "price": {
+    "close": "2321.14",
+    "high": "2325.79",
+    "low": "2315.52",
+    "open": "2318.01",
+    "change": "0.14",
+    "datetime": "2026-05-09 16:00:00"
+  },
+  "indicators": {
+    "rsi": 60.044494,
+    "macd": 3.72232,
+    "macd_signal": 3.72118,
+    "sma20": 2314.003
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多，关键支撑稳固",
+      "content": "当前以太坊价格在2321美元附近徘徊，全天波动幅度有限，显示市场短期保持震荡态势。价格略高于20日均线SMA(20)=2314，表明多头略占上风，但动能尚不强，整体趋势偏向温和上行。  \n\nMACD指标显示差值为3.722，虽然未提供信号线参考，但正值暗示近期买盘存在一定力量。缺失RSI使超买超卖状态不明确，需关注后续动量变化，短线震荡可能延续，投资者应关注成交量确认趋势强弱。  \n\n支撑位初步关注2315美元低点附近，若跌破可能引发短期回调压力；阻力位在2325-2330区间，多次触及后可能形成压制。整体来看，支撑稳固，市场多空力量暂均衡，突破阻力可开启新一轮上行。  \n\n交易策略上，偏向短线多单为主，入场可在支撑区附近布局，止损略低于2315美元，目标锁定在2325-2330美元阻力区；若价格出现跌破支撑，则应谨慎减仓或观望，等待确认趋势再介入。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum’s price action over the last 24 hours shows a relatively neutral posture, with the pair hovering around $2321.14, reflecting a marginal 0.14% gain. Price remains contained within a tight intraday range of $2315.52 to $2325.79, suggesting consolidation after recent volatility. This sideways movement indicates that neither bulls nor bears have taken decisive control, making short-term directional bias uncertain. Traders may benefit from waiting for a clear breakout above the recent high or a break below the intraday low to confirm momentum.\n\nThe SMA(20) at $2314.00 is currently acting as a subtle support zone, with Ethereum trading slightly above this short-term moving average. A sustained hold above this level could attract buyers seeking a pullback entry. Conversely, a decisive breach below the SMA may signal a shift toward a short-term downtrend, potentially inviting additional selling pressure. Monitoring volume alongside price movement will be essential to validate any trend continuation or reversal near this key moving average.\n\nAlthough RSI(14) data is unavailable, the MACD reading of 3.72232 suggests mild bullish momentum, albeit without a corresponding signal line for confirmation. This incomplete picture highlights the need for cautious interpretation. Traders might consider waiting for a full MACD crossover or divergence confirmation before entering positions. Momentum indicators can often provide early hints of trend shifts, so keeping an eye on changes in MACD trajectory and speed could help gauge the strength of potential upward or downward moves.\n\nKey resistance sits at the daily high of $2325.79, where sellers may re-enter and cap upside gains, while support is anchored near $2315.52 and the SMA(20). Short-term strategies could involve buying on dips near support with tight stop-losses just below, or selling near resistance if signs of rejection appear. Given the current consolidative structure, intraday traders may find opportunities in range-bound oscillations, while swing traders might prefer waiting for a decisive breakout to confirm a stronger directional trend."
+    }
+  }
+}
