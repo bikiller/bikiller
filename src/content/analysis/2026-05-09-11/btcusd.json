@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-09T11:31:31.966Z",
+  "price": {
+    "close": "80338.22",
+    "high": "80366.4",
+    "low": "80241.58",
+    "open": "80256.61",
+    "change": "0.10",
+    "datetime": "2026-05-09 11:00:00"
+  },
+  "indicators": {
+    "rsi": 52.80883,
+    "macd": 26.47176,
+    "macd_signal": 12.64654,
+    "sma20": 80234.5225
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏强整理",
+      "content": "当前比特币价格围绕80338美元附近小幅波动，日内涨幅有限，仅0.10%，显示市场短期缺乏明确方向。从价格区间80366高点与80241低点来看，市场正处于窄幅震荡整理阶段，趋势偏向多头，但力度不足，需要关注突破信号。  \n\n从技术指标来看，20日简单移动均线SMA(20)位于80234美元附近，价格略高于均线，说明短期多头略占优势。MACD值为26.47，但缺少信号线对比，暗示动能处于平稳状态，未出现明显买卖信号，需结合其他指标或价格行为确认方向。  \n\n支撑位主要关注80240附近，若跌破此位置，短期可能回落至80100美元附近。阻力位在80360至80400区间，若能有效突破并收盘站上80400美元，将有望延续上行趋势至80500甚至80600美元。短线交易者应谨慎跟随，多观察突破确认。  \n\n交易策略上，可在支撑附近尝试轻仓多单，止损控制在80220以下；若价格上破阻力并伴随成交放大，可考虑加仓或顺势短线跟进。整体来看，比特币短期仍以震荡偏强整理为主，等待明确突破信号确认趋势方向。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a tight range around $80,338, showing minimal intraday volatility with a 0.10% change. The price remains just above the 20-period simple moving average (SMA) of $80,234, indicating short-term consolidation and a mild bullish bias. The narrow high-low range suggests market indecision, which often precedes a more decisive directional move. Traders should note this equilibrium phase, as a breakout above the recent high of $80,366 could trigger renewed buying momentum.  \n\nFrom a technical perspective, the MACD sits at 26.47, though the signal line is not available, limiting the clarity of momentum signals. The SMA alignment shows the price slightly above the 20-day average, hinting at subtle upward pressure, yet the absence of RSI data prevents precise overbought or oversold confirmation. This calls for caution: while bullish momentum exists, it may be fragile, and additional confirmation from volume or a crossover would strengthen conviction for longer positions.  \n\nSupport levels are currently anchored near $80,241, forming a short-term floor that has contained downside fluctuations today. Resistance is immediately overhead at $80,366, representing the recent intraday peak. A sustained move beyond this level could target the next psychological barrier near $81,000, whereas a breakdown below $80,200 might open a path toward $79,800. These levels provide clear reference points for stop-loss placement and intraday trade management.  \n\nFor traders, a range-trading approach may be prudent in this narrow market, with entries near support and exits approaching resistance. Aggressive breakout traders may wait for a confirmed close above $80,366 with increasing volume before initiating long positions. Conversely, a drop below $80,200 could offer a short opportunity, emphasizing risk management and tight stops due to the limited volatility. Patience and adherence to technical triggers will be key in navigating the current BTC/USD consolidation."
+    }
+  }
+}
