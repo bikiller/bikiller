@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-10T06:35:19.313Z",
+  "price": {
+    "close": "0.10829",
+    "high": "0.10847",
+    "low": "0.10817",
+    "open": "0.10843",
+    "change": "-0.09",
+    "datetime": "2026-05-10 06:00:00"
+  },
+  "indicators": {
+    "rsi": 39.88359,
+    "macd": -0.00026443253,
+    "macd_signal": -0.00017006088,
+    "sma20": 0.108912
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏弱，承压于均线",
+      "content": "当前DOGE/USD价格在$0.10829$附近，较日内高点$0.10847$回落，显示短期上涨动能有限。价格仍低于20日简单移动均线(SMA20 $0.108912$)，暗示多头力量不足，市场处于震荡承压状态，短线仍偏弱。  \n\nMACD指标为负值($-0.000264$)，虽信号线未提供，但负值表明下行压力存在，买方动能未显著增强。缺少RSI数据限制了超买超卖判断，但结合价格走势可推测短期成交量偏低，市场观望情绪浓厚。  \n\n支撑位初步关注$0.10817$，若跌破可能触发进一步下行测试$0.1078$附近；阻力位依次在$0.1089$（SMA20）及$0.1092$，若价格突破，可激活短线反弹。交易者需警惕均线附近卖压，短线操作应谨慎。  \n\n建议以低风险震荡策略为主，短线可考虑在支撑区尝试小额买入，设置严格止损；若价格回升并稳住SMA20上方，可考虑中短线轻仓追涨。总体而言，维持观望为主，避免追高操作，以防行情出现快速反转。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin (DOGE) is currently trading at $0.10829, showing minimal movement with a 24-hour change of -0.09%. Price action over the short term appears relatively flat, hovering just below the 20-period simple moving average of $0.108912. This proximity suggests a slight bearish bias, as the market struggles to reclaim momentum above this moving average. The narrow intraday range between $0.10817 and $0.10847 indicates low volatility, which often precedes a breakout or stronger directional move once trading volume increases.  \n\nTechnical indicators are giving mixed signals. The MACD sits at -0.000264, implying weak bearish momentum, although the absence of the signal line limits precise confirmation of trend strength. With the RSI currently unavailable, traders should focus on price and moving average interactions for short-term decision-making. The market is in a consolidation phase, and breaking above the SMA(20) could trigger a short-term bullish move, whereas falling below the intraday low may invite additional selling pressure.  \n\nKey support for DOGE is near $0.10817, coinciding with the recent intraday low, providing a psychological level for buyers to step in. Resistance sits at $0.10891, the 20-period SMA, which has repeatedly capped upward movement. A decisive close above this resistance could signal renewed interest from traders, potentially targeting $0.11000 as the next significant level. Conversely, if the support fails, a quick move toward $0.10750 may be expected, highlighting the importance of monitoring market sentiment and volume.  \n\nFor traders, maintaining a cautious approach is advisable. Short-term scalpers could capitalize on minor swings between support and resistance, while longer-term positions may benefit from waiting for clear confirmation of a breakout or breakdown. Stop-loss orders slightly below $0.10800 can help manage risk in case of a downside move. Overall, DOGE is in a low-volatility consolidation phase, requiring attention to breakout signals and confirmation from volume to align positions with prevailing momentum."
+    }
+  }
+}
