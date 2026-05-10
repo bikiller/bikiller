@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-10T08:28:56.834Z",
+  "price": {
+    "close": "80848.18",
+    "high": "80887.72",
+    "low": "80704.81",
+    "open": "80725.84",
+    "change": "0.15",
+    "datetime": "2026-05-10 08:00:00"
+  },
+  "indicators": {
+    "rsi": 62.50297,
+    "macd": 99.036257,
+    "macd_signal": 107.8175,
+    "sma20": 80701.617
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，潜在上行动能显现",
+      "content": "当前BTC/USD价格在80848附近震荡，日内波动幅度有限，显示市场短期处于盘整状态。结合SMA(20) 80701水平，价格略高于均线，暗示多头仍占微弱优势，但缺乏明显突破动力，需要关注关键支撑和阻力。  \n\nMACD为99.036，尽管信号线数据缺失，但MACD处于正值区域，说明多头动能存在，短期仍有回升可能。缺乏RSI信息使超买超卖判断受限，但从价格与均线关系看，多头占优格局仍可维持。  \n\n关键支撑位位于80700附近，若跌破可能引发短线回调至80600-80550区间；阻力位在80900-81000，突破则有望打开上行空间至81150-81200。价格若维持在均线之上，可视为短线多单参考区间。  \n\n交易策略上，建议稳健投资者可等待价格回踩支撑再轻仓建多，同时设好止损以防突发回落。激进交易者可在突破阻力后追多，但需控制仓位，关注盘中波动风险与成交量变化。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing signs of a short-term bullish consolidation above the $80,700 mark, with the current price at $80,848.18. The market has traded in a tight $183 range over the past 24 hours, indicating low volatility and a potential buildup for a breakout. The price remaining above the 20-period simple moving average ($80,701.62) suggests buyers are maintaining control, while the modest 0.15% gain indicates cautious optimism rather than aggressive buying pressure.\n\nTechnical indicators provide a mixed but cautiously positive outlook. Although the RSI is unavailable, the MACD shows a value of 99.036, hinting at bullish momentum, but the absence of a signal line reading makes it harder to confirm trend strength. Traders should watch for a clear MACD crossover for confirmation. The SMA support near $80,700 is crucial; a sustained move below it could trigger a short-term retracement, while a firm hold would reinforce the current bullish stance.\n\nSupport and resistance levels are key for decision-making. Immediate support lies at the intraday low of $80,704, with a secondary support around $80,500. Resistance is near the intraday high of $80,887, and a break above $81,000 would open the path toward $81,200–$81,500, potentially signaling renewed upward momentum. Conversely, a breakdown below $80,500 could lead to a retest of $80,000, where more substantial buying interest is likely to appear.\n\nTrading strategies should be aligned with the narrow-range dynamics. Short-term traders may consider buying near support with tight stops just below $80,500, targeting $81,000–$81,200. Momentum traders could wait for a MACD confirmation or a breakout above $80,887 to initiate positions with higher conviction. Conservative investors might remain on the sidelines until a decisive trend emerges, avoiding exposure to potential false breakouts in this low-volatility environment."
+    }
+  }
+}
