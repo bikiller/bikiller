@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-10T18:10:18.323Z",
+  "price": {
+    "close": "2363.41",
+    "high": "2366.38",
+    "low": "2362.86",
+    "open": "2363.21",
+    "change": "0.01",
+    "datetime": "2026-05-10 18:00:00"
+  },
+  "indicators": {
+    "rsi": 79.94533,
+    "macd": 8.84173,
+    "macd_signal": 5.39071,
+    "sma20": 2332.7135
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡偏强整理",
+      "content": "当前以太坊价格在2363附近窄幅波动，日内涨幅微乎其微，显示短期市场处于横盘整理状态。价格略高于20日简单移动平均线(SMA20=2332.71)，暗示中期仍存在轻微上行动能，但整体缺乏明确突破方向。  \n\nMACD指标显示快速线在8.84附近，但信号线缺失，无法确认明确多空趋势。若价格继续维持在SMA20之上，可视为支撑区域获得验证，短期震荡可能维持在2360-2370区间。RSI暂不可用，市场超买或超卖状态尚不明确，需留意成交量变化以判断潜在动力。  \n\n支撑位方面，近期低点2362.86构成短线支撑，若跌破则可能测试2350附近；阻力位在日内高点2366.38以及心理整数关口2380，突破后将打开进一步上涨空间。短期波动较小，区间操作为主，避免追高。  \n\n交易策略上，可考虑在支撑附近轻仓布局多单，止损设置在2360以下，目标价格暂看2368-2370。如价格突破阻力且伴随放量，可加仓追涨；反之，若跌破支撑且成交放大，应果断止损并观望，等待趋势明朗化后再介入。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is showing a relatively neutral stance around the $2363 mark, consolidating after modest intraday movements. Price action has remained tightly ranged between $2362.86 and $2366.38, suggesting a temporary equilibrium between buyers and sellers. The short-term trend appears cautiously bullish, as the price remains above the 20-period SMA at $2332.71, signaling that the market retains upward potential despite limited momentum over the past 24 hours.\n\nThe MACD value of 8.84, without a corresponding signal line, implies bullish bias but lacks confirmation of momentum shifts. Traders should monitor for a MACD crossover or divergence to anticipate a directional move. The absence of an RSI reading limits insights on overbought or oversold conditions, so traders may rely on price structure and SMA support for guidance. Overall, the current indicators suggest mild bullishness but highlight the need for additional confirmation before aggressive positioning.\n\nSupport levels can be identified near the 20-period SMA at $2332, providing a buffer against downside pressure. Immediate resistance resides around the intraday high of $2366.38, followed by psychological resistance near $2380–$2400 if momentum strengthens. Breaking below $2330 could invite further selling toward $2300, while a decisive move above $2366 may open a short-term bullish window. These levels offer a framework for risk management and position sizing in the current market environment.\n\nFor traders, a conservative approach may involve buying on dips near SMA support with tight stops, while awaiting a breakout above $2366 for confirmation of upward continuation. Short-term scalpers might exploit the narrow intraday range for small gains, but low volatility warrants caution. Patience and adherence to defined risk thresholds remain crucial, as ETH/USD currently lacks strong directional conviction, and sudden news or liquidity shifts could quickly influence price behavior."
+    }
+  }
+}
