@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-11T02:44:21.549Z",
+  "price": {
+    "close": "81182.3",
+    "high": "81550",
+    "low": "81093.01",
+    "open": "81487.11",
+    "change": "-0.37",
+    "datetime": "2026-05-11 02:00:00"
+  },
+  "indicators": {
+    "rsi": 50.91035,
+    "macd": 208.10778,
+    "macd_signal": 205.4543,
+    "sma20": 81178.9485
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱，区间整理",
+      "content": "当前比特币价格在81182.3附近微幅下跌，24小时跌幅约0.37%，显示短期市场多空力量相对均衡，但整体偏向整理震荡。日内高点81550和低点81093形成明显区间，价格在SMA(20)81178附近波动，表明均线对当前价格有一定支撑作用。  \n\nMACD指标显示数值为208.10778，但信号线数据缺失，无法确认完整交叉信号。然而，MACD值处于正区间，暗示中期仍存在多头潜力，但短期涨幅可能受限，需要关注动能是否衰减。均线系统短期呈平缓走势，未形成明显趋势方向，符合区间震荡特征。  \n\n支撑位在81090附近，如价格跌破该位置，短线可能下探至80950一线；阻力位在81550附近，突破则有望挑战81750-82000关口。投资者应关注关键价位的成交量变化，以判断突破的可靠性，并避免追高杀跌操作。  \n\n交易策略上，可采取区间操作思路，在支撑附近逢低布局，止损略低于81090；在阻力位适度减仓，等待有效突破信号确认后再考虑顺势跟进。同时建议结合更多时间周期的指标进行综合研判，以降低短线波动带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $81,182, showing a minor decline of 0.37% over the past 24 hours. The price remains near the 20-period simple moving average at $81,178, indicating short-term consolidation. Intraday highs of $81,550 and lows of $81,093 suggest limited volatility, with the market testing a narrow trading range. The sideways movement implies that neither buyers nor sellers are dominating, which may signal a short-term accumulation phase before the next directional move.  \n\nAlthough the RSI value is unavailable, the MACD reading at 208.1 suggests that momentum is still positive, albeit possibly slowing. Without a signal line for comparison, it’s difficult to confirm a crossover-based signal, but the elevated MACD implies that the bullish trend from recent weeks retains underlying strength. Traders should watch for potential divergence or acceleration in the MACD histogram, which may precede a breakout or a brief correction in price.  \n\nSupport appears strong near $81,000, aligned with recent intraday lows and the SMA-20, offering a reasonable floor for stop-loss placement. Resistance is evident around $81,550–$81,600, representing the recent swing high where selling pressure has emerged. A break above this zone could open the path toward $82,000, while a sustained dip below $81,000 may target $80,500 as the next support. Monitoring volume alongside these levels will provide clearer confirmation of breakout strength.  \n\nGiven the current consolidation, short-term traders may consider range-bound strategies, buying near support and exiting near resistance while keeping stop-losses tight. Longer-term participants should observe trend continuation signals from the MACD and potential SMA-20 breaks for position scaling. Patience is advisable, as the market’s lack of volatility suggests that sudden moves could be swift, emphasizing disciplined risk management and careful position sizing before committing capital."
+    }
+  }
+}
