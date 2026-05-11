@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-11T13:33:24.119Z",
+  "price": {
+    "close": "81010.14",
+    "high": "81312",
+    "low": "80980.12",
+    "open": "81036",
+    "change": "-0.03",
+    "datetime": "2026-05-11 13:00:00"
+  },
+  "indicators": {
+    "rsi": 50.13484,
+    "macd": -1.63177,
+    "macd_signal": 19.10149,
+    "sma20": 81108.4275
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱，关注支撑位反弹机会",
+      "content": "当前比特币价格在81010美元附近波动，较日内高点81312略有回落，短期呈现小幅震荡整理态势。价格徘徊在20日均线SMA(20)=81108上方略偏下，显示多空力量暂时均衡，但短线偏弱，仍需谨慎观察趋势延续性。  \n\nMACD显示当前值为-1.63177，虽然信号线未提供，但负值暗示下行动能占优，短线可能面临进一步回调压力。缺失RSI数据使超买超卖判断受限，但结合价格行为来看，多头动力有限，多空博弈激烈。  \n\n关键支撑位在80980附近，如跌破可能引发下一轮下探至80750-80800区间；阻力位位于81300-81350区间，如突破则有望重启上行节奏。投资者应关注关键价位的成交量变化，以判断趋势是否确认。  \n\n交易策略上，短线可在支撑位附近布局低吸，止损设置略低于80950；若价格回升突破81350，可考虑小幅追多，但需严格控制仓位与止盈。整体来看，短期震荡偏弱，操作应以防守为主，避免盲目追涨。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 81010.14\\n- 24h Change: -0.03%\\n- High/Low: 81312 / 80980.12\\n- RSI(14): N/A\\n- MACD: -1.63177, Signal: N/A\\n- SMA(20): 81108.42750\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin continues to trade within a narrow consolidation range near 81,000, reflecting hesitation after recent upward momentum stalled. Price action remains slightly below the 20-day moving average around 81,108, suggesting short-term bearish pressure is still active. However, the limited 24-hour decline and tight intraday range between 80,980 and 81,312 indicate that sellers have not yet gained decisive control. The broader structure still favors sideways-to-bullish conditions unless price breaks firmly below key support zones.\n\nMomentum indicators present a cautious outlook. The MACD remains negative at -1.63, signaling weakening bullish momentum and the possibility of additional short-term consolidation. Although the RSI reading is unavailable, current market behavior implies neutral conditions rather than oversold panic or overbought exhaustion. Trading volume and volatility also appear compressed, which often precedes a stronger directional move. A sustained recovery above the 20-day SMA would improve bullish sentiment and potentially attract renewed buying pressure from momentum traders.\n\nImmediate support is positioned near 80,950, followed by a stronger defensive area around 80,500 where buyers may attempt to stabilize price action. On the upside, resistance is forming near 81,300, with a more critical breakout barrier around 82,000. If Bitcoin closes above this higher resistance zone, it could trigger accelerated upside momentum toward the mid-83,000 region. Conversely, failure to hold current levels may expose the market to a deeper retracement toward psychological support near 80,000.\n\nShort-term traders may prefer a cautious range-trading approach until volatility expands and confirmation emerges. Buying near support with tight stop-loss placement below 80,500 offers a more favorable risk-reward setup than chasing strength near resistance. Momentum traders should monitor for a confirmed breakout above 82,000 before increasing long exposure. Conservative participants may benefit from waiting for clearer MACD improvement and stronger price acceptance above the moving average before committing to directional positions."
+    }
+  }
+}

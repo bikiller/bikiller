@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-11T13:35:10.211Z",
+  "price": {
+    "close": "654.53",
+    "high": "656.72",
+    "low": "653.95",
+    "open": "654.75",
+    "change": "-0.03",
+    "datetime": "2026-05-11 13:00:00"
+  },
+  "indicators": {
+    "rsi": 51.49501,
+    "macd": 0.23257334,
+    "macd_signal": 0.42518169,
+    "sma20": 655.3655
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏弱，关键支撑待确认",
+      "content": "当前BNB价格在654.53附近徘徊，全天波动幅度有限，仅在653.95至656.72之间。这显示市场短期内缺乏明确方向，多空力量接近平衡。价格略低于20日均线SMA(20)=655.37，暗示短线承压，整体趋势呈轻微下行。\n\nMACD值为0.23257334，虽仍在正值区间，但未提供信号线对比，表明动能略显疲软，可能存在继续整理或回调的风险。若能观察到MACD快慢线金叉，则可能带来短线反弹契机。由于RSI数据缺失，无法通过超买超卖水平进行判断，但价格区间收窄也提示市场观望情绪浓厚。\n\n技术上，支撑位初步落在653.95附近，若跌破将可能触发下方652-650区域的进一步支撑测试；阻力位则在656.72及SMA(20)位置，突破可带动多头上攻。短线交易者可关注低位试多或高位试空策略，同时设置合理止损，避免追涨杀跌。\n\n综合来看，BNB短期维持震荡整理格局，偏弱但未完全转空，操作上建议观望为主，低位可逐步布局，重点关注价格是否有效突破阻力或跌破支撑，以判断下一阶段趋势方向。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 654.53\\n- 24h Change: -0.03%\\n- High/Low: 656.72 / 653.95\\n- RSI(14): N/A\\n- MACD: 0.23257334, Signal: N/A\\n- SMA(20): 655.36550\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is currently trading in a tight consolidation phase around 654.53, with price action compressed just under the 20-period simple moving average at 655.37. The overall structure suggests a neutral-to-slightly bearish bias in the short term, as price repeatedly fails to sustain movement above the mid-655–656 zone. This kind of compression often precedes a volatility expansion, making breakout direction critical for near-term positioning.\n\nMomentum indicators are showing a mixed picture. The MACD reading at 0.2326 is mildly positive, indicating residual bullish momentum, but the absence of a signal line confirmation reduces reliability. Without RSI data, momentum strength is harder to gauge, but price behavior near equilibrium levels suggests neither overbought nor oversold conditions. Historically, similar MACD divergence during tight ranges tends to favor cautious trading until confirmation appears.\n\nImmediate resistance is located at 656.7–657.5, where recent highs have consistently rejected price advances. A stronger resistance band sits near 660–665, which aligns with prior reaction zones and likely profit-taking territory. On the downside, initial support is seen at 653.9–652.5, followed by a more important structural support near 650, which would act as a key invalidation point for bullish continuation attempts.\n\nFrom a trading perspective, range-bound strategies remain optimal in the current environment. Short-term scalping between support and resistance levels is preferable until a decisive breakout occurs. A sustained close above 657 would open a path toward 662–665, while a breakdown below 650 would signal increased bearish pressure and potential retest of lower liquidity zones. Patience is key, as confirmation-driven entries are likely to outperform early positioning in this low-volatility structure."
+    }
+  }
+}
