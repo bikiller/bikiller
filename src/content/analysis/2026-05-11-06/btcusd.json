@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-11T06:24:27.446Z",
+  "price": {
+    "close": "80932.87",
+    "high": "80965.99",
+    "low": "80756.66",
+    "open": "80810",
+    "change": "0.15",
+    "datetime": "2026-05-11 06:00:00"
+  },
+  "indicators": {
+    "rsi": 48.051878,
+    "macd": 39.43639,
+    "macd_signal": 127.94582,
+    "sma20": 81181.454
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理趋势",
+      "content": "当前BTC/USD价格徘徊于80932.87附近，日内波动幅度有限，仅微幅上涨0.15%，表明市场短期多空力量相对均衡。从均线角度看，价格略低于SMA(20) 81181.454，显示短线仍存在回调压力，但未形成明显下跌信号。\n\nMACD数值为39.43639，虽然Signal线未提供，但当前正值表明多头动能尚存，市场仍有温和上涨潜力。缺少RSI数据限制了超买/超卖判断，但结合价格与均线位置，短期涨幅可能受阻于SMA(20)附近。\n\n支撑位方面，近期低点80756.66构成初步支撑，如果跌破该水平，则可能触发进一步回调。阻力位主要关注80965.99及SMA(20) 81181.454附近，突破则有望延伸上行空间。价格在区间内震荡，短线交易者可关注低位买入、高位减仓策略。\n\n综合来看，BTC/USD短期处于区间整理阶段，趋势偏中性。建议投资者保持耐心，利用关键支撑/阻力进行操作，同时关注动能指标变化以把握突破信号。日内短线交易可适度布局，风险控制仍是首要原则。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $80,932, showing limited directional momentum over the past 24 hours with a minor 0.15% uptick. The short-term trend appears slightly bearish, as the price is below the 20-period simple moving average at $81,181, suggesting the market is facing resistance at this level. Despite this, the tight trading range between $80,756 and $80,965 indicates consolidation, implying that buyers and sellers are temporarily in equilibrium before the next potential breakout or breakdown.  \n\nLooking at momentum, the MACD sits at 39.44, though the signal line is unavailable, making a cross analysis incomplete. Nevertheless, the elevated MACD value suggests that bullish momentum is present but may be weakening, reinforcing the need for caution. The lack of an RSI reading limits overbought/oversold insight, but price action under the SMA indicates that short-term strength is capped, and a corrective phase could develop if selling pressure intensifies near the moving average.  \n\nKey support levels are around $80,700, forming a baseline for potential pullbacks, while resistance lies at $81,200–$81,250, coinciding with the 20-period SMA. A sustained move above this level could trigger further upside toward $82,000. Conversely, a break below support may open the path to $80,000, increasing downside risk. Traders should watch volume spikes near these levels for confirmation, as a breakout or breakdown with strong participation usually signals a higher probability directional move.  \n\nFor trading strategies, conservative participants might wait for clear confirmation above $81,200 before entering long positions, using the SMA as a trailing stop reference. Aggressive traders could explore short-term long trades near support around $80,700, targeting the SMA as a near-term exit. Risk management is essential, as tight consolidation could lead to volatile swings, and sudden macroeconomic news could abruptly shift the market bias. Short-term patience and disciplined position sizing remain crucial in the current environment."
+    }
+  }
+}
