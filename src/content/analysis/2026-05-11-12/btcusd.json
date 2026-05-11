@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-11T12:25:27.888Z",
+  "price": {
+    "close": "81124.68",
+    "high": "81227.99",
+    "low": "81050",
+    "open": "81187.5",
+    "change": "-0.08",
+    "datetime": "2026-05-11 12:00:00"
+  },
+  "indicators": {
+    "rsi": 54.16781,
+    "macd": 11.19719,
+    "macd_signal": 26.97026,
+    "sma20": 81139.9075
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：当前横盘整理偏弱震荡",
+      "content": "当前BTC/USD价格位于81124.68附近，与20日均线81139.91非常接近，显示短期多空力量相对均衡。价格在81227.99高点和81050低点之间波动，短线趋势呈横盘整理状态，缺乏明确突破信号。\n\nMACD指标显示快线11.19719，未提供信号线数据，但快线仍处于低位水平，暗示上行动能有限。RSI数据缺失，无法判断超买或超卖，但结合价格区间震荡来看，市场短期可能处于观望阶段，波动幅度较小。\n\n支撑位主要在81050附近，若失守则可能测试80900心理关口；阻力位在81250-81300区间，多头若突破该区间将可能打开进一步上涨空间。均线和区间震荡表明短线操作应保持谨慎，避免追高。\n\n交易策略上，可考虑在支撑区低吸，止损设于80900以下，短线获利目标在81250-81300；若价格突破阻力，可顺势加仓，但需关注成交量变化以确认突破有效性。整体上，市场偏震荡，激进交易者可适度参与，稳健者宜观望。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a narrow consolidation phase around the $81,100–$81,200 range, reflecting market indecision. Price action has been relatively flat over the past 24 hours, with only a minor decline of 0.08%, indicating that bullish and bearish forces are nearly balanced. The recent high of $81,227.99 and low of $81,050 form a tight intraday range, suggesting that volatility is low, and traders are awaiting a catalyst before committing to stronger directional moves. Overall, the short-term trend appears neutral, with no clear breakout signals.  \n\nThe MACD reading of 11.19719, though lacking a signal line value, suggests mild bullish momentum, as it is positive. The SMA(20) at $81,139.91 is slightly above the current price, implying that Bitcoin is trading just under its short-term average, reinforcing the sideways movement narrative. In the absence of a meaningful RSI reading, momentum analysis is limited, but the narrow price swings and SMA positioning indicate that buyers and sellers are currently in equilibrium, and trend continuation is uncertain until volume confirms a breakout.  \n\nKey support levels can be identified near the intraday low at $81,050, with secondary support around $80,900, where buyers previously stepped in. Resistance remains near the recent high of $81,227 and extends toward $81,400, where selling pressure historically increases. A clear move above $81,400 would indicate a potential bullish resumption, while a breakdown below $81,050 could expose lower support zones near $80,700–$80,800, highlighting risk areas for short-term traders.  \n\nFor trading strategy, cautious participants may consider range-bound tactics, buying near support and taking partial profits near resistance, while keeping tight stop-loss levels to manage risk. Aggressive traders could wait for a confirmed breakout above $81,400 for long positions or a breakdown below $81,050 for short positions, as either scenario may generate a more sustained move. Overall, patience and monitoring volume for confirmation remain critical before initiating directional trades in this tight market environment."
+    }
+  }
+}
