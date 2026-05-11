@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-11T22:32:00.423Z",
+  "price": {
+    "close": "2338.31",
+    "high": "2345.28",
+    "low": "2336.25",
+    "open": "2340.56",
+    "change": "-0.09",
+    "datetime": "2026-05-11 22:00:00"
+  },
+  "indicators": {
+    "rsi": 51.85283,
+    "macd": 0.19107637,
+    "macd_signal": -0.80488439,
+    "sma20": 2332.804
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多格局",
+      "content": "以太坊目前报价2338.31美元，较24小时微幅下跌0.09%，显示价格波动有限。结合SMA(20)在2332.80美元附近，价格略高于短期均线，暗示市场短期存在支撑，同时震荡偏多，买卖双方力量相对均衡。  \n\nMACD值为0.191，尽管信号线未提供，但正值提示多头动能仍在发挥作用，短期可能延续温和上涨趋势。RSI缺失使超买或超卖判断不完全，但结合均线与价格区间，市场尚未显示明显超买压力。  \n\n关键支撑位可参考2332美元附近SMA及近期低点2336美元，若跌破此区域，则可能触发进一步回调。阻力位在2345-2350美元区间，若价格突破，则可能打开新一轮短期上行空间。  \n\n交易策略上，可考虑低位逢低布局多单，止损设置于支撑下方；激进者可在突破阻力位后追涨，但需关注成交量确认，以防虚假突破。短线操作需谨慎，控制仓位，等待明确趋势信号进一步加仓。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently exhibiting a mild consolidation phase around $2,338, with price action hugging the 20-period simple moving average at $2,332. This indicates a short-term equilibrium between buyers and sellers. The 24-hour range, spanning $2,336 to $2,345, suggests low volatility, hinting that a breakout above $2,345 could attract momentum traders aiming for higher resistance targets, while a drop below $2,336 may accelerate selling pressure toward the next support zone near $2,320.\n\nThe MACD reading of 0.191, despite an unavailable signal line, implies slight bullish momentum, though the lack of an RSI leaves a gap in overbought/oversold confirmation. Traders should watch for divergence between price and MACD to detect weakening trends. In this context, short-term swings are likely to remain muted unless accompanied by higher trading volumes or macro catalysts, which could catalyze a decisive directional move.\n\nImmediate support lies near $2,332, reinforced by the SMA, providing a buffer for cautious buyers. Resistance is evident at $2,345, a level that has repeatedly capped recent rallies. Should Ethereum breach this, $2,360 and $2,375 become the next likely targets. Conversely, a failure to maintain the SMA could see a retracement toward $2,320, testing trader confidence and stop-loss placements.\n\nFor trading strategies, a range-bound approach may be optimal in the short term, favoring buy orders near support and scaled exits approaching resistance. Breakout traders should wait for clear confirmation above $2,345 with strong volume or monitor for a breakdown below $2,332 for potential short entries. Risk management is crucial given the narrow volatility, ensuring positions are protected against abrupt swings that can arise from sudden market sentiment shifts."
+    }
+  }
+}

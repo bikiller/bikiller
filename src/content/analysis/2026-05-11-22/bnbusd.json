@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-11T22:32:42.545Z",
+  "price": {
+    "close": "664.29",
+    "high": "664.69",
+    "low": "663.15",
+    "open": "663.94",
+    "change": "0.05",
+    "datetime": "2026-05-11 22:00:00"
+  },
+  "indicators": {
+    "rsi": 65.59174,
+    "macd": 2.67355,
+    "macd_signal": 1.91163,
+    "sma20": 656.9825
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏多趋势",
+      "content": "当前BNB价格位于664.29附近，接近近期高点664.69，短线呈现轻微震荡偏多态势。价格略高于20日SMA(656.98)，显示多头仍有一定支撑力量，但涨幅有限，需警惕区间回调压力。  \n\nMACD主线2.67355，虽然信号线数据缺失，但主线正值暗示动能偏向多头。RSI未提供，但结合价格与SMA关系，可推测市场未出现超买状态，短期多头尚可持续，但缺乏强势突破确认。  \n\n关键支撑位在SMA20附近656-657区间，如跌破可能引发短线回调；阻力位接近664.7及670附近，高位承压明显。关注价格对阻力区的反应，突破则有上探680的潜力，否则可能维持区间整理。  \n\n交易策略上，可考虑在支撑位附近小幅布局多单，止损设在655下方；若价格突破664.7，可加仓趋势单，目标短期上行至670-680；反之，谨慎观望回调至支撑再做介入，避免追高操作带来的风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 664.29\\n- 24h Change: 0.05%\\n- High/Low: 664.69 / 663.15\\n- RSI(14): N/A\\n- MACD: 2.67355, Signal: N/A\\n- SMA(20): 656.98250\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action around **$664** shows a mild upward tilt just above the **20‑period simple moving average (~656.98)**, hinting at short‑term buying interest. Despite the tiny 24‑hour gain, the broader trend remains mixed to slightly bullish if the price holds above key near‑term support. Immediate support lies near **$650**, with stronger bids expected closer to the **$620–$630** zone. Resistance clusters around prior swing highs near **$680–$690** and beyond, which may cap gains without fresh momentum.\n\nThe incomplete MACD data (MACD at ~2.67) suggests positive momentum pressure, but lacking the signal line input makes confirmation ambiguous. In typical TA practice, a rising MACD above its signal strengthens bullish conviction, but signals lose power on low volume or indecisive price action. The RSI isn’t available here, yet a ~20‑SMA below price often indicates buyers have a mild short‑term edge. If both MACD and RSI trend upward in ensuing sessions, it can validate an emerging uptrend.\n\nFor support and resistance structure, watch **$650** as a first floor: a close below this could invite sellers toward **$630** and then the **$600** area. On the upside, clearing **$680** with conviction might open space toward **$700–$720**. Sustained gains above these levels would shift the structure more concretely bullish, encouraging breakout traders to scale in.\n\nFrom a trade perspective, cautious traders may consider buying minor pullbacks near support with tight stops below **$640**, looking to take profits near resistance bands. More aggressive longs might wait for a clean breakout above **$680–$690** to build positions, keeping an eye on volume expansion for confirmation. Always balance risk, since crypto markets can reverse quickly without broader trend confirmation."
+    }
+  }
+}
