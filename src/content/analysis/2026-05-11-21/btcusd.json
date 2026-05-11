@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-11T21:14:01.325Z",
+  "price": {
+    "close": "81731.22",
+    "high": "81876.65",
+    "low": "81677.44",
+    "open": "81812.21",
+    "change": "-0.10",
+    "datetime": "2026-05-11 21:00:00"
+  },
+  "indicators": {
+    "rsi": 58.80817,
+    "macd": 213.836,
+    "macd_signal": 137.14989,
+    "sma20": 81201.989
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整震荡",
+      "content": "当前比特币价格围绕81731美元运行，日内波动幅度有限，整体呈现短期横盘整理格局。价格略高于20日简单移动平均线(SMA20=81201)，显示短期均线支撑有效，但涨势动能不足，需关注能否突破81876高点形成上行延续。\n\nMACD指标为213.836，虽未提供信号线，但数值仍显示多头占优，趋势偏向温和上涨。然而RSI缺失，动量判断不完全，需结合价格行为及成交量观察。若价格跌破81200支撑位，将可能引发短线调整压力。\n\n支撑位方面，重点关注81200及81000附近心理关口；阻力位则在81875及82000附近，突破后有望测试82200一线。当前区间震荡特征明显，投资者可关注高抛低吸策略，避免追涨杀跌。\n\n交易建议上，短线操作可在支撑位附近布局多单，止损设在81000下方；上行若有效突破81875阻力，可考虑加仓或波段操作。整体保持谨慎，关注市场消息及成交量变化，以降低回撤风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action is currently testing the $81,700 zone, showing minimal movement with a 24-hour change of -0.10%. This near-flat behavior suggests short-term consolidation, as the market struggles to break decisively in either direction. The SMA(20) at $81,202 is slightly below the current price, hinting at mild upward pressure. Momentum appears subdued, with the MACD reading positive at 213.836, signaling potential bullish bias, although the absence of a signal line reading limits confirmation.\n\nSupport levels are key in the current range, with immediate support around $81,677, corresponding to the 24-hour low. A break below this could open the path toward $81,200, aligning with the 20-day SMA, which may act as a stabilizing pivot. Resistance is located near the 24-hour high at $81,876, with further challenges at the $82,000 psychological level. Traders should watch these thresholds closely, as price oscillations within this range may provide low-risk entry or exit opportunities.\n\nFrom an indicator standpoint, the positive MACD suggests momentum favors buyers, but the narrow daily range and lack of RSI data prevent a clear overbought or oversold assessment. This indicates a market in equilibrium, where trend-following signals are muted and short-term volatility is compressed. Intraday traders may benefit from range-bound strategies, targeting support and resistance levels, while swing traders should await a breakout above $82,000 or breakdown below $81,200 for a directional bias.\n\nTrading suggestions lean toward caution in the absence of strong trend confirmation. Conservative traders may consider scalping between $81,677 and $81,876, while risk-tolerant participants could plan entries above $82,000 with stop-losses just below support. Monitoring MACD convergence or divergence, alongside volume spikes, could provide actionable signals for directional moves. Overall, BTC/USD remains in a consolidation phase, awaiting catalysts for a more decisive trend."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-11T21:14:44.861Z",
+  "price": {
+    "close": "2338.89",
+    "high": "2340.43",
+    "low": "2337.14",
+    "open": "2337.94",
+    "change": "0.05",
+    "datetime": "2026-05-11 21:00:00"
+  },
+  "indicators": {
+    "rsi": 52.37569,
+    "macd": -0.2451048,
+    "macd_signal": -1.078604,
+    "sma20": 2333.0505
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多",
+      "content": "当前ETH/USD价格在$2338.89附近微幅波动，短期内呈现震荡整理态势。虽然24小时涨幅仅0.05%，但价格仍维持在20日简单移动平均线SMA(20)$2333.05之上，显示多头仍具一定支撑力度，短线回调可能有限。\n\n技术指标方面，MACD为-0.2451且信号线数据缺失，显示短期动能偏弱但未形成明确空头信号。RSI暂不可用，但结合价格与SMA位置，可推测市场并未出现超买压力，多空争夺仍在区间内进行。\n\n支撑位上，可关注$2333附近SMA和前低$2337的支撑，若价格跌破可能触发短线回调压力。阻力位在$2340-$2345区间，若价格突破该区间，则有望向上测试$2350附近前高，短线交易者可据此设定止盈止损。\n\n交易策略上，建议以区间震荡为主，短线低吸高抛操作为宜。多头可在支撑附近逐步建仓，保持灵活止损，空头宜谨慎介入，等待明确下破信号确认后再考虑追空。中长线投资者可保持观望，待价格确认突破后再布局。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is showing a relatively neutral stance around the $2338–$2340 range, reflecting consolidation after minor fluctuations. The current price hovering slightly above the 20-period SMA of $2333 indicates mild short-term bullishness, though the negligible 24-hour change suggests indecision among traders. The tight high-low range of $2340.43–$2337.14 signals low volatility, implying that market participants may be waiting for external catalysts before committing to larger positions.\n\nThe MACD reading at -0.245 points to lingering bearish momentum, but the absence of a signal line makes interpretation cautious. Without the RSI, it's harder to gauge overbought or oversold conditions, but the proximity to the SMA suggests price equilibrium. Traders should observe MACD crossovers and SMA alignment for early signs of trend continuation or reversal, keeping a close eye on intraday price swings for breakout confirmation.\n\nImmediate support appears near $2333, aligning with the SMA, while a stronger base could form at $2325 if the market tests lower bounds. Resistance is clearly marked around $2345–$2350, where previous attempts at upward movement encountered selling pressure. A decisive break above this zone could open the door to higher levels near $2360, while failure to hold support could see ETH revisiting $2320–$2315.\n\nGiven the current indicators, a cautious trading approach is warranted. Short-term traders may consider range-bound strategies between $2333 and $2345, while breakout hunters should wait for a sustained move beyond these levels. Longer-term investors might use minor dips as accumulation opportunities, but only with confirmation from improving momentum indicators and volume trends to reduce exposure to false breakouts."
+    }
+  }
+}
