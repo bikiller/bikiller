@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-11T20:24:15.963Z",
+  "price": {
+    "close": "2337.31",
+    "high": "2345",
+    "low": "2336",
+    "open": "2340.05",
+    "change": "-0.12",
+    "datetime": "2026-05-11 20:00:00"
+  },
+  "indicators": {
+    "rsi": 51.47432,
+    "macd": -0.69756695,
+    "macd_signal": -1.29304,
+    "sma20": 2334.004
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱",
+      "content": "以太坊当前价格位于2337.31美元附近，较24小时轻微下跌0.12%，显示市场短期承压。日内高低点仅在2345-2336美元之间波动，说明价格短线震荡幅度有限，多空双方力量接近，整体趋势偏中性偏弱。  \n\n技术指标显示，20日简单移动平均线SMA位于2334美元附近，价格略高于均线，表明中期支撑尚在，而MACD值为-0.69756695，处于零轴下方，暗示空头势能占优，短线反弹力度可能有限。RSI数据缺失，需要结合其他指标综合判断超买超卖状态。  \n\n关键支撑位在2334美元附近SMA位置和近期低点2336美元，若跌破则可能引发进一步回调。阻力位则集中在2345美元及近期高点附近，短线若突破，可观察多头动能是否增强。结合震荡格局，价格在区间内可能延续横盘整理。  \n\n交易策略上，可考虑短线低位做多，止损设于2333美元以下，目标回到2345美元附近。对于激进交易者，可在突破阻力后加仓多单，但需注意空头MACD压力，严格控制仓位与风险，避免追高操作。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently hovering around the $2337 level, showing marginal downside pressure with a 24-hour decline of just 0.12%. Price action over the short term suggests consolidation near the $2336–$2345 range, indicating a market that is indecisive after recent swings. The proximity of the current price to the 20-period simple moving average at $2334 hints at a mild bullish bias, as prices remain slightly above this dynamic support. Momentum appears subdued, suggesting traders are waiting for a decisive breakout before committing heavily.  \n\nThe MACD reading of -0.6975 reflects lingering bearish momentum, though without the signal line for comparison, interpretation is limited. In general, a negative MACD value near zero often signals that downward pressure is waning, especially when paired with near-flat price movement. With RSI unavailable, traders should focus on price action relative to moving averages and historical support levels. Overall, the technical indicators point to a cautious market, favoring measured trades rather than aggressive positioning.  \n\nSupport is likely forming at $2336, reinforced by the SMA(20), offering a near-term floor where buyers may step in. Resistance is evident at $2345, the high of the past 24 hours, which could act as a barrier for bulls attempting to push higher. A breakout above this level would signal renewed strength and could attract momentum-driven buying. Conversely, a breach below $2336 might trigger a short-term correction toward the next psychological support near $2320–$2325.  \n\nFor trading strategies, conservative traders may consider range-bound tactics, buying near $2336 and selling closer to $2345, with tight risk management. Breakout traders could watch for confirmation above $2345 for a potential move toward $2360, while downside protection should be monitored around the $2330 zone. Position sizing and adherence to stop-loss levels are critical, as Ethereum remains in a low-volatility consolidation phase, where false breakouts can easily trap unprepared participants."
+    }
+  }
+}
