@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-12T21:15:31.323Z",
+  "price": {
+    "close": "80676.51",
+    "high": "80721.43",
+    "low": "80634.6",
+    "open": "80673.03",
+    "change": "0.00",
+    "datetime": "2026-05-12 21:00:00"
+  },
+  "indicators": {
+    "rsi": 46.61423,
+    "macd": -165.64671,
+    "macd_signal": -182.025796,
+    "sma20": 80744.5775
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理偏弱",
+      "content": "当前BTC/USD价格在$80,676附近横盘，全天波动幅度有限，高低点分别为$80,721和$80,634，显示市场短期缺乏明确方向。价格略低于SMA(20) $80,744，暗示中短期均线略偏空，但趋势仍处于震荡整理阶段，需关注突破信号。\n\nMACD当前为-165.65，显示动能偏弱，但缺乏信号线参考，趋势判断需谨慎。RSI数据缺失，使得超买超卖状况不明，投资者应结合其他指标，如均线支撑位和前期高低点进行观察，以避免追高或抄底风险。\n\n近期支撑位可关注$80,600附近的短期底部，以及$80,500区域的心理支撑；阻力位则在$80,744的20日均线以及$80,800短期高点。若价格有效突破阻力，可能出现短线反弹，但持续性仍需验证。\n\n交易策略上，建议短线投资者以区间操作为主，逢低可尝试小幅多单，临近阻力位或出现价格下破支撑则谨慎减仓或观望。中长线投资者可保持关注趋势变化，等待明确突破信号再做布局，以降低短期波动带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around the $80,676 level, showing minimal price movement over the past 24 hours. The narrow daily range between $80,634 and $80,721 indicates a consolidation phase, where buyers and sellers are in relative equilibrium. This sideways movement suggests that the market is pausing after recent volatility, with neither bulls nor bears asserting dominance. Traders should watch for a breakout above the daily high or a breakdown below the low to confirm the next directional trend.\n\nLooking at the moving average, the 20-period SMA sits at $80,744, slightly above the current price. This proximity implies mild short-term resistance near the SMA, which could limit upward momentum unless strong buying volume emerges. Meanwhile, the MACD at -165.65 indicates persistent bearish momentum, although the absence of a signal line prevents a full crossover analysis. This combination hints at a cautious bias: any upward movement may be met with resistance until momentum indicators improve.\n\nSupport and resistance levels are crucial in this range-bound environment. Immediate support can be identified near $80,600–$80,650, corresponding to recent swing lows. Resistance lies in the $80,700–$80,750 area, reinforced by the SMA and previous highs. A decisive break above $80,750 could open a path toward $81,000, while a drop below $80,600 may accelerate a pullback to $80,500 or lower. Monitoring volume and order book depth at these levels will help gauge the likelihood of a breakout or reversal.\n\nFor trading strategy, short-term participants might consider range-bound tactics, buying near support and selling near resistance, while keeping tight stop losses to manage risk. Longer-term traders should await clearer momentum signals or a confirmed trend breakout before committing to larger positions. Given the current MACD and SMA configuration, patience is warranted, and aggressive entries may be better timed with either a break of resistance or a recovery in momentum indicators."
+    }
+  }
+}
