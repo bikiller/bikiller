@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-12T08:06:31.766Z",
+  "price": {
+    "close": "80838.7",
+    "high": "80913.22",
+    "low": "80777.77",
+    "open": "80829.02",
+    "change": "0.01",
+    "datetime": "2026-05-12 08:00:00"
+  },
+  "indicators": {
+    "rsi": 39.70136,
+    "macd": -67.16015,
+    "macd_signal": 33.37867,
+    "sma20": 81392.6605
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，关注支撑与阻力",
+      "content": "目前比特币价格在80838.7美元附近波动，24小时几乎持平，显示市场短期内缺乏明显方向性。价格在高点80913.22和低点80777.77之间徘徊，形成窄幅震荡区间。短期均线SMA(20)位于81392.66美元之上，暗示价格略低于均线，有轻微下行压力。  \n\nMACD指标显示为-67.16，表明空头动能仍在，但未出现明显加速。RSI未提供数据，需关注后续是否进入超买或超卖区间。技术上，MACD负值结合价格低于SMA20，可能提示短期回调或震荡整理格局，投资者应谨慎观察。  \n\n支撑位关注80700美元附近，若跌破可能进一步测试80500美元，形成较强下行压力。阻力位在81350-81400美元区间，突破该区域可能触发短线多头反弹。区间内的交易可采用低买高卖策略，同时保持止损纪律。  \n\n交易建议方面，短线投资者可在支撑位附近布局小额多单，目标锁定阻力区间，严格设置止损以防快速回撤。中长线投资者则建议观望均线突破信号，等待明确趋势确认再加仓，避免在震荡区间盲目追涨杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a very tight range around $80,838, showing minimal 24-hour movement of 0.01%. The market appears to be in a brief consolidation phase after testing resistance near $80,913 and support around $80,777. Price is slightly below the 20-day simple moving average (SMA) at $81,392, suggesting short-term bearish pressure. The narrow high-low range indicates low volatility, which could precede a more decisive move depending on macro and on-chain catalysts.\n\nThe MACD reading at -67.16 suggests momentum is leaning to the downside, although the absence of the signal line limits precise interpretation. Without a visible RSI, overbought or oversold conditions remain unclear, but the proximity of price to the SMA hints at mild downward bias. Traders should monitor whether the MACD histogram begins to converge toward the signal line, as a crossover could signal a potential bullish reversal or the continuation of the current consolidation.\n\nKey support levels are identified at $80,777 and $80,500, where buyers have previously stepped in, while resistance is concentrated near $81,000 and $81,392. A sustained break above $81,392 could trigger renewed upside toward $82,000, whereas a failure to hold $80,777 could open the path to lower psychological support around $79,500. These levels will likely define short-term range-bound trading and guide breakout strategies.\n\nFor traders, a cautious approach is advised. Range traders can exploit small oscillations between support and resistance, ideally with tight stop losses to manage risk. Trend-followers may prefer to wait for a clear breakout above the SMA and $81,000 level before entering long positions. Conversely, conservative shorts could consider targeting the lower support band near $80,500 if bearish momentum strengthens. Overall, patience and disciplined risk management are critical in this low-volatility environment."
+    }
+  }
+}
