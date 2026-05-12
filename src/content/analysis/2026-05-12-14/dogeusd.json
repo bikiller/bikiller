@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-12T14:16:41.307Z",
+  "price": {
+    "close": "0.10899",
+    "high": "0.10905",
+    "low": "0.10827",
+    "open": "0.10843",
+    "change": "0.54",
+    "datetime": "2026-05-12 14:00:00"
+  },
+  "indicators": {
+    "rsi": 41.86185,
+    "macd": -0.00035911465,
+    "macd_signal": -0.00014360773,
+    "sma20": 0.1102355
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期整理偏空",
+      "content": "近期狗狗币价格在$0.1089附近小幅波动，整体呈现窄幅整理态势。短线走势受制于20日简单移动均线(SMA20)的压力位$0.1102，目前价格略低于该均线，显示短期内多头动力不足，多空双方处于平衡状态。\n\nMACD指标显示负值（-0.000359），暗示短线仍存在一定的下行动能，但信号线缺失使得趋势确认不够明确。缺乏RSI数据限制了超买超卖状态的判断，但结合价格与均线位置来看，多空力量可能暂时胶着。\n\n关键支撑位可参考$0.1082附近的日低点，若跌破可能引发进一步回调；阻力位则在$0.1102附近SMA20位置，突破后可望测试$0.1120短期高点。价格在支撑与阻力之间反复震荡，短期操作需谨慎。\n\n交易建议方面，建议观望为主，等待价格明确突破SMA20后再布局。激进投资者可在支撑位附近尝试小仓位逢低介入，但务必设置严格止损，控制风险，同时关注市场整体情绪与成交量变化。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently consolidating around $0.10899, showing a mild bullish bias with a 0.54% daily gain. The intraday range between $0.10827 and $0.10905 indicates low volatility and a tight trading band. Price action remains slightly below the 20-period simple moving average of $0.11024, suggesting short-term resistance near this level. A sustained break above the SMA could signal renewed upward momentum, while failure to breach it may keep the market range-bound in the near term.\n\nThe MACD reading of -0.000359 indicates marginal bearish momentum, though the absence of a signal line prevents a full crossover analysis. Combined with the price hovering near recent lows, this implies limited selling pressure but also a lack of strong bullish conviction. Traders should note that low momentum conditions often precede breakout scenarios, making it essential to watch for sudden volume spikes that could define the next directional move.\n\nKey support is observed around $0.10820, a level that has held during the past few sessions. Immediate resistance sits at $0.11025, aligned with the 20-SMA. A breach above this resistance could open targets near $0.112, while a drop below support may trigger a test of $0.107. Intraday traders might consider positioning around these zones, keeping stop losses tight due to the narrow range and moderate volatility.\n\nGiven the current technical picture, short-term traders may adopt a cautious approach, favoring range trading strategies while waiting for a decisive trend signal. Momentum-based entries should be reserved for clear breakouts above $0.11025 or breakdowns below $0.10820. Medium-term investors could observe the consolidation pattern for signs of accumulation before considering larger positions, balancing risk with potential upside in the next bullish phase."
+    }
+  }
+}
