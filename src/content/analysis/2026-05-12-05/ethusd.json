@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-12T05:55:44.649Z",
+  "price": {
+    "close": "2312.29",
+    "high": "2314.17",
+    "low": "2309.91",
+    "open": "2311.18",
+    "change": "0.05",
+    "datetime": "2026-05-12 05:00:00"
+  },
+  "indicators": {
+    "rsi": 39.27299,
+    "macd": -5.74243,
+    "macd_signal": -3.05389,
+    "sma20": 2328.04
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱整理",
+      "content": "当前以太坊价格维持在2312.29附近，整体波动幅度较小，短期内呈现横盘震荡态势。日内高低点为2314.17/2309.91，显示市场多空力量较为均衡，短线趋势尚未明朗，投资者应关注关键支撑与阻力位的变化。\n\n技术指标方面，MACD值为-5.74243，虽缺少信号线数据，但负值表明短期空头动能略占优势。SMA(20)在2328.04，价格低于该均线，提示短线承压，若未能有效突破均线，可能继续维持整理格局。RSI缺失，但可参考成交量变化辅助判断动能强弱。\n\n支撑位初步看向2309附近，如失守则下方关注2300心理关口；阻力位在2328-2330区间，如突破则短线多头有望扩大。投资者应结合价格与成交量，灵活调整止损位置，以防突发波动带来的风险。\n\n交易策略上，可采取震荡区间操作，低位轻仓布局多单，靠近阻力适当减仓或观望。若价格企稳并突破SMA(20)，可考虑加仓顺势操作；反之，跌破支撑则需谨慎止损，保持灵活应对市场短线波动。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently hovering around $2,312, showing minimal movement over the past 24 hours. Price action suggests a consolidation phase, with the market struggling to break above the short-term 20-day SMA at $2,328. The narrow daily range of $2,309–$2,314 highlights indecision among traders, potentially forming a base for the next directional move. Momentum appears weak, indicating neither clear bullish nor bearish dominance at this stage.  \n\nThe MACD reading at -5.742 points toward lingering bearish pressure, even though the absence of a signal line limits a complete crossover analysis. With RSI data unavailable, reliance on moving averages and price structure becomes more critical. The proximity of the current price to the SMA suggests that any decisive move above $2,328 could reignite short-term bullish sentiment, while failure to hold above $2,310 might invite further downward pressure.  \n\nKey support levels can be identified near $2,310 and the intraday low of $2,309, acting as immediate buffers against deeper declines. Resistance is primarily anchored at the SMA of $2,328, followed by the intraday high of $2,314. Traders should monitor these zones closely, as a break beyond either boundary could trigger a stronger directional move. Range-bound trading strategies might be effective while the market remains indecisive, with tighter stops recommended due to the thin price fluctuations.  \n\nFor trading, cautious positioning is advisable. Long entries could be considered if ETH decisively closes above $2,328 with confirmation from increased volume, while shorts may be favorable if the price fails to reclaim the SMA and breaches $2,310. Patience is key, as the market is currently in a low-volatility phase, suggesting that momentum-based strategies might underperform. Overall, a clear breakout above or below these critical levels will likely define the next medium-term trend."
+    }
+  }
+}

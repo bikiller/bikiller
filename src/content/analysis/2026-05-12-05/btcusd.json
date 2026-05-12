@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-12T05:54:54.421Z",
+  "price": {
+    "close": "81191.89",
+    "high": "81288.83",
+    "low": "81159.25",
+    "open": "81203.98",
+    "change": "-0.01",
+    "datetime": "2026-05-12 05:00:00"
+  },
+  "indicators": {
+    "rsi": 46.8048,
+    "macd": 29.32558,
+    "macd_signal": 103.95062,
+    "sma20": 81418.3285
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘整理，潜在震荡调整",
+      "content": "当前比特币价格在 $81,191.89$ 附近震荡，24小时变化微弱，显示市场缺乏明确方向。价格略低于 20 日简单移动平均线 (SMA20) $81,418.33$，短期仍偏弱，表明价格可能面临阻力区整理。高低点区间窄，暗示多空双方暂时处于均衡状态。\n\nMACD 指标显示主线 $29.33$，但信号线未给出，无法确认明确趋势，但主线位于零轴之上，暗示中性偏多动能尚存。RSI 数据缺失，短线超买或超卖状态难以判断，投资者应关注后续成交量变化及关键支撑的破位情况。\n\n关键支撑位在 $81,160$ 附近，如跌破可能加速下行，短线压力位位于 SMA20 附近 $81,418$，突破该阻力可能引发反弹。技术上，价格若保持在支撑上方，仍有小幅上行空间，但整体行情偏震荡。\n\n交易策略建议保持谨慎，可在支撑附近考虑小额多单布局，止损设置稍低于支撑位，同时关注阻力突破信号再加仓。激进交易者可等待趋势明朗后再追高，短线操作以波段为主，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action shows a tight consolidation around the $81,190 level, indicating a market in balance after recent bullish runs. The intraday range of $81,159 to $81,288 reflects minimal volatility, suggesting traders are awaiting directional cues. The price is slightly below the 20-period SMA at $81,418, signaling short-term resistance and a possible mild bearish bias if the SMA continues to act as a cap. Overall, momentum appears neutral with no strong directional commitment.\n\nTechnical indicators offer mixed insights. The MACD at 29.33, with no visible signal line, hints at residual bullish momentum, but the absence of a confirmed crossover reduces its reliability. RSI data being unavailable limits overbought or oversold assessment, but the small negative price change (-0.01%) suggests market indecision. Traders should monitor MACD for a potential crossover, which could validate either continuation or reversal of the current sideways trend.\n\nSupport and resistance levels are crucial in this tight range. Immediate support lies near $81,150, slightly below today’s low, providing a floor for short-term pullbacks. On the upside, the 20-SMA at $81,418 and the recent intraday high of $81,288 act as resistance points. Breaching either level decisively could trigger increased momentum: a break above SMA may invite bullish continuation, while a breakdown below support could expose lower levels around $80,900-$81,000.\n\nFor trading strategy, cautious range trading appears prudent. Short-term traders might consider buying near support and taking profits near resistance, keeping stop losses tight due to low volatility. Those looking for trend confirmation should await a MACD crossover or a clear break above SMA resistance before committing to larger positions. Maintaining disciplined risk management is key, as the market currently exhibits consolidation rather than directional conviction."
+    }
+  }
+}
