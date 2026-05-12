@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-12T15:47:31.033Z",
+  "price": {
+    "close": "80301.84",
+    "high": "80644.54",
+    "low": "80136",
+    "open": "80518.06",
+    "change": "-0.27",
+    "datetime": "2026-05-12 15:00:00"
+  },
+  "indicators": {
+    "rsi": 33.36001,
+    "macd": -215.049195,
+    "macd_signal": -125.82726,
+    "sma20": 81074.4185
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整偏弱",
+      "content": "当前BTC/USD价格位于80301.84美元，较20日均线81074.42美元偏低，显示短期内价格仍承压于均线之下。MACD处于负值区间且持续下行，表明下行动能仍在积累，但幅度有限，短线多空力量相对平衡，趋势呈现盘整格局。\n\n日内价格高低波动在80644.54至80136美元之间，表明市场短期交易区间有限。若价格跌破80136美元支撑位，将可能引发进一步下探至80000关口。阻力位方面，上方81000至81100美元为关键压力区域，突破后有望测试81500美元附近。\n\n技术指标RSI暂缺，但结合价格与MACD趋势，可推测短期市场情绪偏谨慎，买卖双方力量相对均衡。均线和区间支撑显示，投资者需关注关键价位的守破情况，以判断下一步趋势方向。\n\n交易策略上，建议保持观望为主，短线可在支撑区80136附近布局防守型多单，止损设置在80000下方；激进操作可在突破81000上方阻力时，追随趋势做短线多单。控制仓位、设定明确止损止盈是当前波动环境下的核心策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently navigating a minor pullback, with the latest price at $80,301.84, slightly below the 20-period simple moving average of $81,074. This suggests short-term bearish pressure as the price struggles to reclaim the SMA. The 24-hour price range between $80,136 and $80,644 indicates a tight consolidation zone, often a precursor to a more decisive move. Traders should note that the current trend shows mild sideways to slightly downward momentum, without a clear breakout signal.\n\nThe MACD reading of -215.05, despite a missing signal line, signals that downward momentum is still present. While the absence of the RSI makes overbought or oversold conditions harder to gauge, the MACD’s negative value suggests sellers maintain an edge. Short-term price oscillations could remain limited unless volume spikes, but traders might look for convergence of MACD and price to anticipate potential reversal points.\n\nImmediate support appears near $80,136, reflecting the intraday low, while resistance is around $81,074 at the SMA, with a secondary barrier near the recent high of $80,644. A decisive breach above these levels could validate bullish momentum, whereas a drop below support may signal continuation of the current retracement. Monitoring these pivot points will be essential for both intraday and swing trading decisions.\n\nFrom a tactical perspective, cautious traders might consider waiting for confirmation of a trend reversal before entering long positions, ideally after a sustained move above the SMA and intraday resistance. Conversely, aggressive traders could explore short-term short trades near resistance, managing risk with tight stop losses just above the $81,074 level. Overall, patience and disciplined execution remain crucial given the current indecisive market structure."
+    }
+  }
+}

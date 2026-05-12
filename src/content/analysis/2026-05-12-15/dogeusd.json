@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-12T15:52:03.662Z",
+  "price": {
+    "close": "0.10871",
+    "high": "0.10908",
+    "low": "0.10815",
+    "open": "0.10879",
+    "change": "-0.06",
+    "datetime": "2026-05-12 15:00:00"
+  },
+  "indicators": {
+    "rsi": 39.25496,
+    "macd": -0.00041036109,
+    "macd_signal": -0.00019963875,
+    "sma20": 0.110083
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期横盘震荡，谨慎观望",
+      "content": "近期狗狗币价格在$0.1087附近小幅波动，整体呈现横盘整理态势。日内最高触及$0.10908，最低$0.10815，价格紧贴20日SMA $0.11008下方，显示短线仍存在轻微下行压力，但幅度有限，趋势缺乏明确方向。\n\nMACD指标显示-0.000410，负值意味着空头略占优势，但信号线缺失无法确认趋势强弱。RSI数据缺失，短线超买或超卖状态不明，因此需谨慎解读，避免过度依赖单一指标做决策。\n\n支撑位主要关注$0.1080附近区域，如跌破可能触发进一步下探。阻力位集中在$0.1100-0.1110区间，多次测试未能有效突破，短期多头动力不足。投资者可利用区间操作策略，在支撑附近适量低吸，高位考虑减仓或止盈。\n\n交易建议上，短线建议观望或轻仓操作，切勿追高。若价格稳稳回到SMA上方并突破阻力，可逐步加仓。风险控制需严格设置止损，尤其在横盘震荡环境下，防止波动加大造成的资金损耗。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently showing a subtle consolidation phase around $0.1087, hovering just below the 20-period simple moving average at $0.11008. This slight underperformance relative to the SMA suggests mild bearish pressure, though the range-bound action between the recent low of $0.10815 and high of $0.10908 indicates that immediate volatility is contained. Short-term traders may interpret this as a period of equilibrium where neither buyers nor sellers are exerting dominant control.\n\nThe MACD reading of -0.00041, with the signal line not provided, hints at a nascent bearish momentum, albeit weak. Without the RSI value, overbought or oversold conditions cannot be assessed, but the negligible 24-hour price change of -0.06% reinforces the impression of sideways movement. Technical momentum seems restrained, suggesting that any breakout from the current range could define the near-term trend more clearly.\n\nKey support lies near $0.1080, which has held multiple intraday tests, while immediate resistance is positioned at $0.1100, aligning closely with the SMA. A sustained move above this resistance could open the path toward $0.1120, while a breakdown below support might accelerate selling toward $0.1065. Traders should watch these pivot points for confirmation of directional bias, as current levels offer a clear risk-reward framework for both short and long positions.\n\nFor trading strategy, cautious approaches are recommended. Range-trading with tight stop-losses near $0.1080 could be suitable for intraday setups, while breakout traders might await confirmation above $0.1105 before committing to long positions. Given the current low volatility and weak MACD signal, aggressive entries carry higher risk, emphasizing the need for disciplined position sizing and strict adherence to support/resistance triggers."
+    }
+  }
+}
