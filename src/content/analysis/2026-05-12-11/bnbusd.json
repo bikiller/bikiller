@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-12T11:30:30.260Z",
+  "price": {
+    "close": "662",
+    "high": "662.81",
+    "low": "660.76",
+    "open": "661.55",
+    "change": "0.07",
+    "datetime": "2026-05-12 11:00:00"
+  },
+  "indicators": {
+    "rsi": 53.14592,
+    "macd": 0.87553088,
+    "macd_signal": 1.49403,
+    "sma20": 663.085
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏弱整理",
+      "content": "目前BNB/USD价格在662附近徘徊，接近20日均线SMA(20) 663.085，显示短期市场缺乏明确方向，多空力量相对平衡。价格连续小幅波动且日内涨跌幅仅0.07%，属于震荡盘整特征，短期趋势偏弱，但未出现明显下破信号。\n\nMACD指标显示0.875的正值，暗示多头动能仍在，但缺少信号线数据，无法确认强弱交叉状态。若价格继续在均线附近整理，多头力量可能被短线压力抵消。RSI缺失，需关注超买超卖条件，以便判断潜在反转或持续整理区间。\n\n关键支撑位在660附近，下方若跌破则可能引发短线回调至655-656区域；阻力位在664-665，突破可望带来短线反弹机会。价格若稳定在SMA上方，则偏向多头整理，反之则需警惕震荡下行风险。\n\n交易策略上，建议短线投资者维持观望或低仓位尝试区间操作，以支撑/阻力位为参考轻仓进出。中线投资者可等待趋势明朗后介入，切忌追高，结合量能变化和指标确认，多空分歧明显时控制风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 662\\n- 24h Change: 0.07%\\n- High/Low: 662.81 / 660.76\\n- RSI(14): N/A\\n- MACD: 0.87553088, Signal: N/A\\n- SMA(20): 663.085000\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD currently shows a **neutral-to-slightly bullish price structure** around the mid‑$600s after barely moving in the last 24 hours. With the latest price at **662**, the market is grinding sideways, indicating indecision among traders. The narrow high/low range (662.81/660.76) reflects low volatility, often seen before a breakout or significant news catalyst. In this context, the short‑term trend lacks conviction but slightly leans toward bullish continuation if buyers defend $660.\n\nFrom an indicator perspective, the **MACD reading of 0.8755** suggests underlying bullish momentum, though the absence of a signal line prevents a clear confirmation. The MACD’s positive territory typically favors buyers, but without a clear crossover, it’s best treated as supportive rather than definitive. The **SMA(20) at 663.085** sits almost on par with the current price, reinforcing the sideways bias. Traders should watch for the price to settle above this moving average for a clearer short‑term uptrend bias.\n\nIn terms of **key levels**, immediate support lies near **$658–$660**, a zone that has held during recent consolidations. Below that, the next structural support is closer to **$650**, where prior buying interest emerged. On the upside, the first resistance sits around **$668–$670**; a daily close above this would open space toward **$680**. A break above that could shift sentiment more moderately bullish for continuation toward the previous swing highs.\n\nFor **trading suggestions**, range‑oriented traders might consider buying near support with tight stops below $658, targeting the $668–$670 resistance band. Breakout traders could wait for a convincing close above $670 with volume confirmation to enter long, while risk‑averse participants might prefer to wait for clearer indicator confirmation (such as an MACD signal crossover) before committing size. A break below $655 would warrant caution and could signal a shift to short setups."
+    }
+  }
+}

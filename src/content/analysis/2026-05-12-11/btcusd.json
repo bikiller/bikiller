@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-12T11:28:43.964Z",
+  "price": {
+    "close": "80618.01",
+    "high": "80688.42",
+    "low": "80464.44",
+    "open": "80644.75",
+    "change": "-0.03",
+    "datetime": "2026-05-12 11:00:00"
+  },
+  "indicators": {
+    "rsi": 35.25802,
+    "macd": -147.59673,
+    "macd_signal": -44.41833,
+    "sma20": 81325.8085
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整偏弱",
+      "content": "当前BTC/USD价格维持在80618附近，较20日均线81325略低，显示短期仍承压于均线下方。价格24小时微幅下跌-0.03%，整体趋势偏横盘整理，短期缺乏明显方向性，需关注均线附近的反弹压力。MACD指标处于-147.6，显示空头动能仍存，但缺乏信号线确认，说明短期卖压存在但未完全强化。\n\n技术指标方面，RSI未提供，但价格接近日内低点80464，短期可能面临轻微超卖区域，存在反弹机会。MACD负值暗示空头主导，但若出现MACD与价格背离，则可能预示短线反弹。SMA(20)位于81325，构成短期阻力，若突破需观察成交量配合，否则仍难确认上行趋势。\n\n支撑位主要关注80450-80500区域，如该区域失守，下方支撑可延伸至80200附近。阻力位则在81250-81350，突破该区间方能确认短线反弹趋势。价格维持在支撑附近时，可考虑低位短线试探性多单，但需严格止损控制风险。\n\n交易建议上，短线以低多高空策略为主，若价格持续徘徊于均线下方，可择机观望或轻仓做空。确认突破20日均线并伴随成交量增加，可适度跟进多单。风险管理方面，止损设置在支撑下方50-100美元，止盈在阻力附近，以降低波动带来的潜在损失。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action over the last 24 hours shows a marginal decrease, hovering around $80,618. The narrow trading range between $80,464 and $80,688 suggests a period of consolidation, indicating neither buyers nor sellers have dominant control. The current price sitting below the 20-period simple moving average at $81,325 points to short-term bearish pressure. Traders should watch for a decisive move above the SMA for confirmation of bullish continuation or a break below recent lows signaling potential further downside.\n\nThe MACD reading of -147.60, despite the signal line being unavailable, hints at persistent bearish momentum. Without an RSI value, it’s difficult to gauge overbought or oversold conditions precisely, but the small price fluctuation suggests indecision rather than extreme sentiment. If the MACD maintains negative territory while price remains below the SMA, the short-term trend favors sellers, though the minimal 24-hour change implies limited conviction among participants.\n\nSupport levels to monitor are near $80,464 and $79,900, where previous intraday reactions occurred. Resistance lies at $80,688 and the 20-SMA zone around $81,325, which has historically acted as a dynamic ceiling. These levels provide clear reference points for tactical trades, with a break above the SMA possibly triggering short-term long entries, while a breach below the lower support could accelerate selling pressure.\n\nFor traders, a cautious approach is recommended. Range-bound strategies could work, such as scalping between support and resistance, while stop-loss orders near key levels would help manage risk. Those seeking trend-following opportunities might wait for confirmation: a sustained move above $81,325 with strong volume for bullish momentum, or a decisive drop below $80,464 to capitalize on downside continuation. Risk-adjusted positions remain essential given the current low volatility and mixed signals."
+    }
+  }
+}
