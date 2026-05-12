@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-12T06:35:05.801Z",
+  "price": {
+    "close": "2309.13",
+    "high": "2314.26",
+    "low": "2308.22",
+    "open": "2310.35",
+    "change": "-0.05",
+    "datetime": "2026-05-12 06:00:00"
+  },
+  "indicators": {
+    "rsi": 37.4432,
+    "macd": -6.62546,
+    "macd_signal": -3.79284,
+    "sma20": 2326.8415
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期偏空震荡调整",
+      "content": "当前以太坊价格略低于20日均线（SMA20=2326.84），显示短期多头动能减弱。虽然24小时跌幅仅为0.05%，市场整体呈现横盘整理特征，但MACD为负值（-6.62546）提示下行压力仍在积聚，短线可能面临震荡下探风险。  \n\n技术指标解读方面，RSI数据缺失，但价格与均线背离加上负MACD信号，显示买方力量不足。若价格持续在2300-2325区间震荡，多头回补动能有限，交易者需警惕短线反弹可能受阻。  \n\n支撑位方面，近期低点2308.22构成短期支撑，若跌破此位，可能触发进一步回调至2295-2300附近。阻力位在SMA20附近的2326-2330区间，以及日内高点2314.26，突破困难。建议短线交易者可在接近支撑位尝试小幅低吸，同时设置严格止损，避免追高。  \n\n综合来看，ETH/USD当前处于偏空震荡阶段，短线机会更多集中在支撑区域的低吸和反弹获利，谨慎观望高位开多。中线仍需关注整体市场情绪及BTC联动情况，以判断趋势反转信号。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently showing a slightly bearish stance, hovering near $2309 with minimal 24-hour change. Price action remains below the 20-day simple moving average at $2326.84, suggesting short-term selling pressure. The narrow high-low range indicates consolidation, with the market indecisive between bullish and bearish momentum. Traders should watch for a clear break above or below this zone to gauge the next directional move.  \n\nThe MACD value of -6.62546 implies a continuation of bearish momentum despite the subdued daily price movement. Without a signal line value, the crossover cannot be confirmed, but the negative MACD signals sellers still have the upper hand. RSI is not available, which limits overbought or oversold assessment. However, the price staying below the 20-day SMA hints that the market may continue under mild selling pressure in the near term.  \n\nImmediate support appears around $2308, which has acted as a floor in the past session. Resistance is likely near $2314, the day’s high, and more decisively at the SMA level of $2326. A sustained break above the SMA could signal a bullish reversal, whereas a drop below $2308 could accelerate downside risk. These levels are crucial for risk management, especially for short-term trades looking to capture intraday fluctuations.  \n\nFor traders, a conservative approach may be warranted. Short-term buyers might wait for confirmation above the $2326 SMA before entering long positions, while short positions could be considered if the $2308 support fails. Given the low volatility, scalping opportunities exist but require tight stop-loss placements. Overall, ETH/USD remains in a cautious consolidation phase, with the next directional move likely dependent on a decisive break of these short-term technical levels."
+    }
+  }
+}
