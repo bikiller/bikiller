@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-12T12:33:45.678Z",
+  "price": {
+    "close": "0.10881",
+    "high": "0.10948",
+    "low": "0.10881",
+    "open": "0.10942",
+    "change": "-0.56",
+    "datetime": "2026-05-12 12:00:00"
+  },
+  "indicators": {
+    "rsi": 38.45355,
+    "macd": -0.00026171965,
+    "macd_signal": -0.000034467894,
+    "sma20": 0.110437
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期偏弱整理趋势",
+      "content": "当前DOGE/USD价格处于0.10881美元，略低于20日简单移动平均线(SMA20)的0.11044美元，显示短期仍承压于均线下方，整体呈现震荡整理偏弱的行情。虽然价格跌幅有限，但连续未能突破SMA20表明多头动力不足，空头存在试探支撑的意图。  \n\nMACD指标为-0.0002617，位于零轴下方，显示动能偏弱，但信号线数据缺失使判断略显不完整。若MACD继续扩散负值，则可能加强下行压力；若出现背离，则或预示短线止跌。RSI缺失，无法确认超买或超卖状态，但结合价格走势与均线，可推测市场处于中性偏空区间。  \n\n支撑位初步落在近期低点0.10881美元附近，若该位置失守，下方可能触及0.1075美元心理关口；阻力位关注SMA20及0.1095美元上方压力，突破该区间则可能引发短期反弹。交易者需警惕均线附近的反复震荡风险，设置合理止损以控制波动。  \n\n交易策略上，短线建议观望或低位轻仓逢低布局，等待价格稳定突破均线后再加仓；激进者可在触及支撑位时小幅做多，止损设于支撑下方0.1085美元，确保风险可控。同时，留意市场情绪及比特币等主流币走势的联动效应，对决策具有参考价值。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin (DOGE) is currently exhibiting a mild bearish pressure, trading just below the 20-day simple moving average (SMA) at $0.11044. The latest price of $0.10881, coupled with a slight 24-hour decline of 0.56%, suggests that short-term sellers are nudging the market lower. The narrow high-low range ($0.10881–$0.10948) indicates low volatility, which may signal consolidation before a directional move. Monitoring the SMA is critical, as a break above could reignite bullish momentum, while a sustained move below may confirm continued downward pressure.\n\nThe MACD reading of -0.0002617 points toward bearish sentiment, although the absence of the signal line limits confirmation. Typically, a negative MACD implies that the short-term momentum is weaker than the longer-term trend. Given this, traders should exercise caution with long positions until a bullish crossover occurs. Conversely, if the MACD continues to diverge downward, it could reinforce shorting opportunities, particularly in conjunction with any rejection at the SMA resistance level around $0.1105.\n\nKey support levels to watch are near $0.1080 and $0.1070, which represent recent intraday lows and potential accumulation zones. Resistance is expected around the 20-day SMA at $0.1104 and a psychological barrier near $0.1120. Breaks beyond these points may dictate the next significant swing. Range-bound trading between these levels could offer short-term scalping opportunities for traders, whereas a decisive breakout would warrant trend-following strategies to capitalize on directional momentum.\n\nFor trading strategies, cautious short-term traders might consider entering on dips toward $0.1080 with tight stop-losses just below $0.1070, targeting the $0.110–$0.112 range. More aggressive traders could wait for MACD confirmation and SMA breach to enter longer positions. Maintaining flexible position sizing and monitoring overall market sentiment is advisable, as DOGE tends to respond sharply to broader crypto market cues and social sentiment."
+    }
+  }
+}

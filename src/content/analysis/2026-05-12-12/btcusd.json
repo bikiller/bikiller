@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-12T12:29:01.679Z",
+  "price": {
+    "close": "80747.82",
+    "high": "80829.37",
+    "low": "80675.01",
+    "open": "80755.31",
+    "change": "-0.01",
+    "datetime": "2026-05-12 12:00:00"
+  },
+  "indicators": {
+    "rsi": 39.31558,
+    "macd": -145.97073,
+    "macd_signal": -62.96451,
+    "sma20": 81291.0105
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，关注支撑与阻力位",
+      "content": "当前比特币价格围绕 $80,747.82$ 附近震荡，日内波动极小，仅下跌 $0.01\\%$，显示市场多空力量暂时均衡。价格仍低于 20 日简单移动平均线（SMA20 = $81,291.01$），短期趋势偏向弱势调整，但尚未出现明显空头加速信号。  \n\nMACD 指标为负值（MACD = -145.97），表明短期动能偏向空方，但由于信号线数据缺失，需谨慎判断趋势强弱。缺少 RSI 指标的情况下，可通过价格相对 SMA20 的位置判断超买或超卖区域，目前价格略低于均线，显示可能处于轻微回调阶段。  \n\n技术支撑位初步在 $80,675$ 附近，如跌破可能进一步测试 $80,500$。阻力位关注近期高点 $80,829$，若价格突破该区间并站稳，短线多头可能重新获得动力。结合震荡格局，交易者应以区间操作为主，避免追高追低。  \n\n建议短线交易者关注支撑区附近的低风险买入机会，并在阻力区附近逐步减仓或观望。中线持仓者可继续关注 SMA20 的压制情况与 MACD 动能变化，等待确认突破或回落信号再做调整，以降低波动风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a tight consolidation around the $80,747 level, with minimal 24-hour movement. The recent price action indicates that the market is testing equilibrium near short-term resistance around $81,291, as suggested by the 20-period SMA. This level has capped upward momentum in the past, and the small range between the high of $80,829 and low of $80,675 highlights low volatility. Overall, the trend appears neutral-to-slightly-bearish in the short term, as sellers are preventing a sustained breakout above the SMA.  \n\nThe MACD reading of -145.97, although lacking a signal line for full confirmation, signals that momentum is skewed toward the downside. Traders should interpret this cautiously since the absence of corresponding RSI data limits insight into overbought or oversold conditions. Price clustering below the SMA suggests potential for minor corrections if selling pressure increases. The current tight price range hints at indecision, and any breakout above $81,300 could shift short-term bias toward bullish continuation.  \n\nSupport zones remain near the $80,600–$80,650 range, where recent dips have found buyers. A clear break below this area may open the door to $80,000 psychological support. Resistance is more immediate at the $81,200–$81,300 level, reinforced by the SMA. Traders may consider range-bound strategies in the current phase, entering near support with tight stop-losses, while preparing to pivot to trend-following positions should the price breach these key levels.  \n\nFor tactical positioning, a cautious approach is advised. Short-term traders can look for small long entries near $80,650 with stops just below $80,600, targeting $81,200 as the first exit point. Conversely, a breakout above the SMA with volume confirmation could provide a swing-trade opportunity, aiming for $82,000 and higher resistance zones. Risk management remains critical in light of the flat 24-hour movement and slightly negative momentum indicators, as abrupt volatility could rapidly shift the short-term outlook."
+    }
+  }
+}
