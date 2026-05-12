@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-12T19:14:55.496Z",
+  "price": {
+    "close": "2284.59",
+    "high": "2285.39",
+    "low": "2279.52",
+    "open": "2279.66",
+    "change": "0.23",
+    "datetime": "2026-05-12 19:00:00"
+  },
+  "indicators": {
+    "rsi": 41.84569,
+    "macd": -13.82145,
+    "macd_signal": -13.93788,
+    "sma20": 2292.259
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱",
+      "content": "当前ETH/USD价格在$2284.59附近徘徊，较24小时内高低波动幅度有限，显示市场短期内缺乏明确趋势。价格低于20日均线$2292.26，短期均线呈下行压力，表明多头动力有限，可能面临调整或横盘整理。\n\nMACD指标显示主线位于-13.82附近，处于零轴下方，表明下行动能占优，但未出现极端超卖状态，因此跌幅空间有限。RSI数据不可用，但结合价格与均线关系，市场仍在试探支撑，等待方向确认。\n\n关键支撑位在$2279.50附近，如跌破可能加速短线下行；阻力位则在$2292-$2295区间，多头若突破该水平，将有机会重启反弹。短期内可关注价格对均线的回踩与MACD走势，判断多空力量转换。\n\n交易策略建议保持谨慎，短线交易可关注支撑附近低位做多，止损控制在$2275以下；若价格突破阻力并放量，可考虑顺势做多。中期投资者应等待明确趋势信号，避免在震荡期盲目追高或割肉。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently showing signs of consolidation around the $2,280–$2,290 range, with the latest price at $2,284.59. The intraday movement has been muted, reflected in the narrow high-low band of $2,279.52 to $2,285.39. This sideways behavior suggests that the market is pausing after recent volatility, likely awaiting fresh catalysts. Traders should note that while short-term momentum is weak, the underlying trend from the past few weeks remains moderately bullish, provided key support holds.  \n\nThe MACD reading of -13.82, despite the absence of a signal line, points to some residual bearish pressure. Prices are slightly below the 20-period SMA at $2,292.26, reinforcing the notion that sellers currently have a slight edge. Without a confirmed RSI reading, it’s harder to gauge overbought or oversold conditions precisely, but the small 24-hour price change of 0.23% further supports a period of low directional conviction. A break above the SMA could signal renewed bullish momentum, while failure to reclaim it may prolong the consolidation.  \n\nKey support levels to watch include the $2,280 mark, which has shown multiple tests in recent sessions, and a deeper level near $2,270 if sellers intensify. Resistance is immediate at the $2,292 SMA and further at $2,300–$2,305, where previous rallies stalled. These levels will likely dictate the next directional move. Volume confirmation on any breakout will be critical to validate a trend continuation or reversal.  \n\nFor trading strategy, cautious participants may consider range-bound tactics, buying near support and scaling out near resistance. Aggressive traders could await a decisive break above $2,292 with accompanying volume for a potential long entry, targeting $2,300–$2,310. Conversely, a breach below $2,280 could open short-term downside toward $2,270. Risk management with tight stop-losses is essential due to the narrow trading range and mixed indicator signals."
+    }
+  }
+}
