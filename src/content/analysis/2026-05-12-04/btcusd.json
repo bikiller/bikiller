@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-12T04:50:28.854Z",
+  "price": {
+    "close": "81273.53",
+    "high": "81276.68",
+    "low": "80972.04",
+    "open": "81037.06",
+    "change": "0.29",
+    "datetime": "2026-05-12 04:00:00"
+  },
+  "indicators": {
+    "rsi": 48.6121,
+    "macd": 53.82102,
+    "macd_signal": 123.71651,
+    "sma20": 81408.0815
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整趋势，偏向震荡整理",
+      "content": "当前比特币价格位于81273.53美元，较24小时变化微幅上涨0.29%，显示市场短期多空力量基本均衡。日内高低点在81276.68与80972.04之间，价格波动幅度有限，呈现震荡整理特征。短期均线SMA(20)位于81408.08美元之上，价格略低于均线，暗示多头动能暂时受抑。\n\n从技术指标来看，MACD值为53.82，但信号线未显示，表明趋势尚未形成明确的动量确认。若MACD上行并突破信号线，可视为短线买入信号。相对强弱指标RSI缺失，无法确认超买或超卖状态，但结合价格和均线情况，短期内仍处于中性区间，市场暂未偏向单边方向。\n\n支撑位方面，下方80972美元附近为近期低点支撑，若价格跌破该水平，可能引发进一步调整；阻力位位于81408美元附近的20日均线及81500美元心理关口，突破后有望拉开上行空间。投资者可关注关键支撑和阻力位置，合理设置止盈止损。\n\n交易建议上，短线可保持观望或低位轻仓买入，重点关注价格是否突破SMA(20)及81500阻力位确认多头信号。若价格跌破80972支撑，应及时减仓或止损，避免趋势反转风险。总体上，市场短期以震荡整理为主，操作宜灵活谨慎，顺势而为。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s current price action around $81,273 shows a mild bullish bias within a narrow trading range. The market has been consolidating between the intraday low of $80,972 and the high of $81,276, indicating short-term indecision among traders. The 20-period simple moving average at $81,408 acts as an immediate resistance, with the price slightly below it, suggesting that buyers are currently struggling to maintain momentum above this level. Trend-wise, the slight uptick in price points to a continuation of a mild uptrend, but the lack of decisive breakout keeps the structure range-bound for now.\n\nOn the indicator front, the MACD value at 53.82, without a visible signal line, suggests moderate bullish pressure, but the absence of a cross or signal confirmation limits interpretive strength. RSI data is unavailable, leaving momentum gauging incomplete, but the closeness to the SMA indicates the market is neither heavily overbought nor oversold. Overall, technical signals suggest caution: buyers are present but not dominant, while sellers remain ready to defend the moving average zone, implying potential sideways movement unless a breakout occurs.\n\nKey support and resistance levels are clear from the recent price range. Immediate support is found near $80,972, the daily low, providing a floor for potential pullbacks. Resistance is clustered around $81,408 and extends slightly above the recent high at $81,276. A sustained move above $81,408 could open the door for a test of psychological resistance around $82,000, while a breakdown below $80,972 might shift momentum toward a deeper retracement near $80,500, signaling a potential trend reversal or consolidation extension.\n\nFor trading strategy, short-term participants may favor range-bound tactics, buying near support and taking profits just below resistance. Conservative traders could wait for a decisive breakout above $81,408 for confirmation before entering long positions, while stops below $80,900 would help limit downside risk. Conversely, aggressive short sellers might consider entering near the SMA with tight stops, targeting a reversion toward support. Overall, market patience and disciplined entry around these technical pivots are crucial given the current consolidation and modest bullish undertone."
+    }
+  }
+}
