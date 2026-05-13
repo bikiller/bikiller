@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-13T22:42:06.224Z",
+  "price": {
+    "close": "670.41",
+    "high": "670.42",
+    "low": "668.2",
+    "open": "669.28",
+    "change": "0.17",
+    "datetime": "2026-05-13 22:00:00"
+  },
+  "indicators": {
+    "rsi": 49.57833,
+    "macd": 0.4856724,
+    "macd_signal": 1.47067,
+    "sma20": 674.743
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏弱整理",
+      "content": "当前BNB/USD价格在670.41附近微幅波动，短线走势呈现小幅整理。尽管价格略低于20日均线SMA(20)=674.743，但日内波幅有限，说明多空力量相对均衡。若未能有效突破均线，短期可能延续震荡或小幅回调趋势。\n\nMACD指标显示0.4856，缺少信号线对比，初步反映上行动能存在但不强，尚未形成明显的多头排列。RSI数据缺失，但结合价格在近期高低区间中偏下的位置，市场短期并不处于超买状态，多空转换仍需关注成交量变化。\n\n技术上，近期支撑位在668附近，多次测试未有效下破，构成短线防守线；阻力位在675-678区间，突破该区间可能触发下一阶段上行动能。若价格跌破支撑，可能快速回落至660区域，短线风险增加。\n\n交易建议方面，激进投资者可在支撑位附近低吸，止损设置在667下方；偏向稳健者可观望突破均线或阻力确认后再入场。整体来看，BNB短期呈震荡整理，操作应以风险管理为主，关注突破或回踩信号。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 670.41\\n- 24h Change: 0.17%\\n- High/Low: 670.42 / 668.2\\n- RSI(14): N/A\\n- MACD: 0.48567240, Signal: N/A\\n- SMA(20): 674.74300\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action in the short term shows a **neutral-to-slightly-bullish bias** around the current **$670.41** level. After a relatively flat 24‑hour move (+0.17%), BNB has failed to sustain an upside breakout above the 20‑period simple moving average (SMA) at **$674.74**, suggesting near‑term buyers are cautious. The lack of significant directional momentum points to a range‑bound environment where price oscillates between established support and resistance zones.\n\nLooking at momentum indicators, the available **MACD histogram reading of 0.4857** suggests mild bullish pressure, though the absence of a signal line value limits full interpretation. Ideally, a MACD crossover above its signal line would confirm strengthening bullish sentiment. Without an RSI value, we infer from price behavior and MACD that the market is not overextended in either direction. Traders should watch for increasing volume and a positive MACD divergence to validate any upward continuation from current levels.\n\nKey technical levels to respect are **support near $660–$665**, where recent intraday lows have held, and **resistance at the $675–$680 zone**, capped by the 20‑period SMA and recent peaks. A decisive break above **$680** with follow‑through could open a path toward **$700**, while failure below **$660** risks deeper retracement toward **$640–$650 support**. These zones provide clear benchmarks for adjusting risk and positioning.\n\nFor trading considerations, it’s sensible to adopt a **range‑trading approach** until either a breakout or breakdown is confirmed. Conservative traders might wait for a clear close above the SMA with expanding volume before entering long positions. More active traders could consider buying near support with tight stops below $660 and targeting the upper range. If bearish momentum accelerates, short entries on breaks of key support could be appropriate, always calibrated to risk tolerance."
+    }
+  }
+}
