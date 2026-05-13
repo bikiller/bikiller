@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-13T21:23:47.727Z",
+  "price": {
+    "close": "79371.88",
+    "high": "79680",
+    "low": "79300",
+    "open": "79676.65",
+    "change": "-0.38",
+    "datetime": "2026-05-13 21:00:00"
+  },
+  "indicators": {
+    "rsi": 37.17855,
+    "macd": -389.15718,
+    "macd_signal": -321.45375,
+    "sma20": 80260.7765
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期承压整理，支撑稳固",
+      "content": "当前比特币价格位于79371.88美元，较日内高点79680略有回落，显示短期多头动能减弱。价格低于20日简单移动平均线(SMA20=80260.78)，暗示短线承压，但跌幅有限，市场仍呈整理状态，整体趋势偏震荡调整。\n\nMACD指标为-389.16，表明空方力量略占优势，但缺乏显著发散，市场尚未出现强烈趋势信号。RSI缺失使超买超卖状态难以判断，但结合价格在SMA20下方波动，可认为短期买卖双方力量接近平衡，技术面仍具一定支撑。\n\n关键支撑位可参考79300附近日低点，若跌破此位置可能触发进一步回调；阻力位在80260的SMA20及近期高点79680区域，多头需突破这些阻力以确认反弹延续。短线投资者应关注价格在支撑附近的反应，以判断回弹力度。\n\n交易策略上，建议维持观望或区间操作，低位可考虑小仓位多单介入，高位接近阻力适度减仓或轻仓空单。止损应设在支撑下方，以控制风险，同时留意价格突破SMA20带来的趋势变化机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating just below the 20-period simple moving average at $80,260, suggesting short-term bearish pressure. The latest price at $79,371.88 is slightly below this SMA, indicating that sellers are exerting mild control. Price action within the tight $79,300–$79,680 range over the past 24 hours points to a consolidation phase, with neither bulls nor bears gaining decisive momentum. This sideways movement may precede a breakout, so monitoring volume and key levels is crucial.\n\nThe MACD reading of -389.16 signals bearish momentum, even though the signal line is unavailable. This negative divergence implies that the downward pressure could persist in the near term, reinforcing the slightly weaker stance under the SMA. The absence of RSI data limits the clarity on overbought or oversold conditions, but the narrow intraday range and negative MACD hint at continued cautious trading sentiment among investors.\n\nSupport appears to be forming around $79,300, the intraday low, with an additional psychological level near $79,000 acting as a floor for short-term declines. Resistance is first encountered near $79,680, followed by the SMA at $80,260, which now functions as a key barrier for bulls to reclaim momentum. Breaching these levels could dictate the next directional move: a break above the SMA could resume upward trends, while failing to hold $79,300 might open the door to a deeper retracement.\n\nTrading strategies should remain conservative under current conditions. Short-term traders may consider range-bound strategies between $79,300 and $79,680, using tight stop losses. Longer-term participants could wait for a confirmed break above $80,260 for bullish entries or a decisive drop below $79,000 for potential short positions. Overall, the market is showing a cautious bias with modest bearish undertones, emphasizing careful position sizing and active risk management."
+    }
+  }
+}
