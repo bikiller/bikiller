@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-05-13T05:03:05.885Z",
+  "price": {
+    "close": "1.46159",
+    "high": "1.4623",
+    "low": "1.46143",
+    "open": "1.4623",
+    "change": "-0.05",
+    "datetime": "2026-05-13 05:00:00"
+  },
+  "indicators": {
+    "rsi": 61.096679,
+    "macd": 0.00012908835,
+    "macd_signal": -0.0034088608,
+    "sma20": 1.44207
+  },
+  "analysis": {
+    "zh": {
+      "title": "瑞波币/美元技术分析：短线震荡偏多",
+      "content": "当前XRP/USD维持在1.4615附近，价格略高于20日均线1.44207，显示中短期多头趋势仍在，但涨幅有限，市场呈现震荡整理特征。价格高低点接近，表明多空力量暂时均衡，短线可能以窄幅区间运行为主。\n\n技术指标方面，MACD正值0.00012908835，虽然信号线未提供，但正值暗示多头动能存在，若快线突破信号线，或会引发进一步上涨。RSI缺失使超买超卖参考有限，但结合均线支撑，整体仍偏向稳健多头。\n\n支撑位可关注近期低点1.4614及20日均线1.4420区域，这里提供短线买入支撑；阻力位在近期高点1.4623及心理关口1.47附近，如价格有效突破，可视为进一步上攻信号。关注成交量变化，以判断突破有效性。\n\n交易策略上，建议短线多单可在支撑附近轻仓布局，设置止损在1.44下方以控制风险；若价格突破1.4625，关注是否延伸至1.47或更高阻力位。反向操作可在阻力位附近尝试小额空单，切勿追高，以防回调风险。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "XRP/USD is currently showing a subtle consolidation around $1.4616, suggesting a short-term equilibrium between buyers and sellers. The slight 24-hour decline of 0.05% highlights a neutral sentiment, with the price lingering just above the 20-day simple moving average at $1.4421. This indicates the medium-term trend remains mildly bullish, as the price sits above its SMA, but the lack of strong momentum implies traders are awaiting a catalyst before committing to directional trades.\n\nThe MACD value of 0.00012908, while positive, lacks a corresponding signal line, limiting its immediate interpretive power. Nevertheless, its position above zero hints at modest upward momentum. The absence of a computed RSI restricts overbought/oversold assessment, but the tight daily high-low range ($1.4623–$1.46143) suggests low volatility. Traders should watch for any expansion in range, which could indicate the start of a more decisive move.\n\nKey support levels lie near $1.4420, coinciding with the SMA(20), providing a buffer against downside risk. Resistance is immediately overhead around $1.4625, representing recent intraday highs. A breakout above this level could open the path toward $1.4700–$1.4750, while a breakdown below support might see a retest of $1.4350. Monitoring volume during such moves will be critical to confirm the strength of either breakout or breakdown scenarios.\n\nFor trading strategy, cautious long positions are advisable near current support, with tight stop-loss placement below $1.4400. Breakout traders may consider entries above $1.4625, aiming for incremental gains while keeping risk defined. Conversely, bearish traders might wait for a clear breach below SMA support before initiating shorts, ensuring confirmation of downward momentum. Overall, XRP’s market structure favors measured, range-aware trades rather than aggressive directional bets at this stage."
+    }
+  }
+}
