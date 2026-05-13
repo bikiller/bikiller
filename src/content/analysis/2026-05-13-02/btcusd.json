@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-13T02:43:06.261Z",
+  "price": {
+    "close": "80995.76",
+    "high": "81278.76",
+    "low": "80919.76",
+    "open": "80985.88",
+    "change": "0.01",
+    "datetime": "2026-05-13 02:00:00"
+  },
+  "indicators": {
+    "rsi": 54.23482,
+    "macd": -71.13767,
+    "macd_signal": -139.080316,
+    "sma20": 80646.5805
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理趋势",
+      "content": "当前比特币价格位于80995.76美元，接近日内低点80919.76，短期波动幅度有限，整体呈现横盘整理状态。价格略高于20日简单移动平均线(SMA20)的80646.58，显示中短期仍有轻微支撑，但上行动能不足。\n\nMACD指标显示主线为-71.13767，处于负值区间，暗示多头动能偏弱，但因缺乏信号线参考，短期趋势判断仍需谨慎。RSI数据不可用，无法评估超买或超卖状态，因此震荡可能延续。\n\n关键支撑位首先关注SMA20附近的80650美元，其次下方80900区域亦为心理支撑；阻力位在日内高点81278及81500美元区域，多次测试可能面临压力。价格若突破阻力，短线仍有向上空间，但风险需控制。\n\n交易策略上，可考虑区间操作为主，低位接多，高位短线获利；止损可设置于80500美元下方，以防跌破关键支撑。若价格突破81500美元，则可适度跟进多单，但仍需关注成交量确认趋势延续。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering near $80,995, showing minimal 24-hour movement of 0.01%, which indicates a phase of consolidation. The intraday high and low at $81,278 and $80,919, respectively, suggest that the market is tightly ranged, with buyers and sellers in a temporary equilibrium. The trend in the short term appears cautiously bullish, as price sits slightly above the 20-period SMA at $80,646, signaling modest upward momentum, though volatility remains low.\n\nThe MACD reading of -71.14, despite lacking a visible signal line, points to a residual bearish pressure, suggesting that any immediate bullish pushes may encounter resistance. Without RSI data, it’s difficult to quantify overbought or oversold conditions, but the proximity to the SMA implies the market is neither deeply overextended nor deeply oversold. Traders should watch for a MACD crossover above the zero line as confirmation of a potential shift toward more sustained buying interest.\n\nKey support appears near the $80,646 SMA and the recent low at $80,919, which could act as a floor in the event of a pullback. Resistance lies at the intraday high of $81,278 and psychologically around $82,000, which may cap gains until stronger volume confirms a breakout. Monitoring volume spikes in either direction will be critical for anticipating whether the price will maintain this range or resume a directional trend.\n\nGiven the tight range and mixed indicators, cautious trading is advisable. Short-term traders may consider buying near support levels and taking profits near resistance while keeping stops just below the SMA to manage risk. More conservative investors may wait for a confirmed MACD crossover or a breakout above $82,000 to enter, ensuring alignment with broader bullish momentum and avoiding premature exposure in a consolidating market."
+    }
+  }
+}
