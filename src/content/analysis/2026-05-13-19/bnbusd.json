@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-13T19:13:23.798Z",
+  "price": {
+    "close": "670.24",
+    "high": "672.05",
+    "low": "669.35",
+    "open": "671.74",
+    "change": "-0.22",
+    "datetime": "2026-05-13 19:00:00"
+  },
+  "indicators": {
+    "rsi": 49.03732,
+    "macd": 0.88380301,
+    "macd_signal": 2.24293,
+    "sma20": 675.383
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期承压整理，震荡偏弱",
+      "content": "当前BNB价格在670.24附近微幅下跌，日内波动有限，显示短线多空力量相对均衡。20日SMA在675.38上方，表明价格仍处于短期均线下方，短线偏弱，但尚未形成明显下跌趋势，市场仍存在震荡整理特征。\n\nMACD值为0.8838，虽缺乏信号线数据，但数值处于正区间，显示多头仍有一定动能，暗示下方支撑仍较稳固。结合日内高低点672.05/669.35，短线支撑位可关注669-670区域，阻力位集中在672-675附近，形成窄幅震荡格局。\n\n交易策略上，短线可采取低吸高抛思路，激进者可在支撑位附近尝试小仓位买入，防守止损设在668下方；保守者建议等待价格突破阻力位确认上行趋势后再加仓，以降低回调风险。中期若价格持续低于20日SMA，则需警惕进一步调整的可能性。\n\n综上，BNB短期呈整理偏弱态势，多空力量均衡，技术指标显示支撑仍在，但阻力明显，建议以波段操作为主，重点关注支撑和阻力位的突破信号，以决定进一步的交易方向。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 670.24\\n- 24h Change: -0.22%\\n- High/Low: 672.05 / 669.35\\n- RSI(14): N/A\\n- MACD: 0.88380301, Signal: N/A\\n- SMA(20): 675.383\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin is showing a short‑term sideways to mildly bearish bias around the **$670** mark, trading slightly below the 20‑period simple moving average at **675.38**. This suggests recent selling pressure is overcoming short‑term strength, though the lack of a significant pullback indicates buyers are still present. The price range between **$669–$672** is acting as a tight consolidation zone, with upper resistance near **$680** and initial support around **$660** on intraday charts.\n\nThe MACD reading at **0.88** (with no signal line provided) hints that momentum remains positive but potentially slowing. Without the signal line, we infer the histogram may be contracting, which often precedes a flattening or slight downturn. In the absence of a valid RSI reading, traders should be cautious about overextension: the absence of clear overbought/oversold signals means relying more on price action and moving average behavior for entries and exits.\n\nFrom a support/resistance perspective, breaking above **$680–$685** with volume could signal a renewed push toward **$700** and above, as historically psychological levels attract momentum traders. On the downside, **$660** is the first meaningful support level; a confirmed break below could open the door to deeper retracement toward **$640**. Keep an eye on daily volume trends: decreasing participation near resistance suggests weakening demand, while expansion near support could signal accumulation.\n\nFor traders, a cautious approach makes sense given the subdued 24‑hour price change. Short‑term longs might consider scaling in near **$665–$660** with tight stops, aiming for **$680** targets. Conversely, more aggressive traders could employ small short positions if price fails to reclaim the 20‑period SMA, targeting **$660** with disciplined risk limits. Always align positions with overall portfolio risk tolerance."
+    }
+  }
+}

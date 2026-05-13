@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-13T19:12:39.415Z",
+  "price": {
+    "close": "2256.52",
+    "high": "2260.77",
+    "low": "2252.75",
+    "open": "2259.41",
+    "change": "-0.14",
+    "datetime": "2026-05-13 19:00:00"
+  },
+  "indicators": {
+    "rsi": 39.17722,
+    "macd": -11.040387,
+    "macd_signal": -7.13775,
+    "sma20": 2284.772
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期偏弱整理震荡",
+      "content": "当前以太坊价格在2256.52附近微幅下跌，整体维持在短期均线下方，显示短期承压迹象。20日简单移动平均线(SMA20)为2284.77，价格位于均线下方表明市场仍存在卖压，短期多头动力有限，需要警惕回调风险。\n\nMACD指标显示当前值为-11.04，信号线未提供，但负值表明空方占优，短期可能延续整理或小幅下行。RSI数据不可用，无法提供超买或超卖信号，但结合价格和均线关系，短期内谨慎偏空操作更为稳妥。\n\n支撑位关注近期低点2252.75附近，若跌破可能触发进一步下行压力；阻力位关注2260-2285区间，若上破则有机会重测SMA20。短期交易中，建议在支撑位附近观察买入信号，同时在接近阻力位时考虑减仓或止盈，控制风险。\n\n操作策略上，可采用低吸高抛的区间策略，结合分批建仓和严格止损，避免追涨杀跌。在波动收窄阶段，保持观望也是合理选择，等待明确突破信号后再介入，以提高成功率和降低波动风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is showing a mild consolidation near $2,256, reflecting a short-term neutral trend. The price has remained close to its intraday high of $2,260, indicating limited bullish momentum. The proximity to the 20-day SMA at $2,284 suggests resistance overhead, with the market struggling to reclaim higher ground. Sellers seem cautious, while buyers are waiting for a clearer breakout above the SMA to confirm renewed strength.\n\nThe MACD reading of -11.04 indicates underlying bearish pressure, though the absence of a signal line limits the precision of momentum interpretation. Without a calculated RSI, overbought or oversold conditions are unclear, but the minor 24-hour decline of -0.14% hints at equilibrium between buying and selling forces. Short-term momentum appears muted, suggesting a potential period of sideways price action unless volume or volatility intensifies.\n\nImmediate support can be identified around $2,252, close to the daily low, providing a buffer against further declines. Resistance sits near the 20-day SMA at $2,284 and the recent high of $2,260, forming a narrow range that may define near-term trading opportunities. A decisive break above $2,284 could signal bullish continuation toward $2,300, while a drop below $2,250 might trigger a deeper correction to $2,200 or lower.\n\nFor traders, cautious range-bound strategies are advisable. Buying near support with tight stop-losses could capture small upside moves, while sellers may look for weakness near the SMA. Given the neutral bias and limited directional momentum, maintaining disciplined risk management is critical. Watching volume spikes or external catalysts, such as network updates or macroeconomic triggers, could provide the momentum needed for a meaningful trend shift."
+    }
+  }
+}

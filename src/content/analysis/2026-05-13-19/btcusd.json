@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-13T19:11:56.500Z",
+  "price": {
+    "close": "79485.43",
+    "high": "79601.15",
+    "low": "79442.2",
+    "open": "79574.01",
+    "change": "-0.11",
+    "datetime": "2026-05-13 19:00:00"
+  },
+  "indicators": {
+    "rsi": 38.068587,
+    "macd": -404.76363,
+    "macd_signal": -286.71654,
+    "sma20": 80386.5845
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前BTC/USD价格徘徊在79485.43附近，日内微幅下跌0.11%，显示短期市场缺乏明确方向。价格在20日均线SMA(20)=80386.58下方运行，短期仍偏弱，多头动能尚未完全释放，整体趋势呈震荡整理格局。  \n\nMACD指标显示主线为-404.76，虽然信号线数据缺失，但负值表明下行压力仍存在，短线卖盘占优。RSI缺失限制了超买/超卖判断，但结合价格与均线关系，可以认为短期反弹空间有限。技术面上，价格连续未能突破SMA(20)构成的阻力，增加短期调整的可能性。  \n\n支撑位上关注79400附近，若该区域被有效守住，可提供短线买入机会；阻力位在80386附近，突破难度较大，突破前行情可能持续横盘整理。若跌破支撑，则有可能进一步回落至79000附近区域。  \n\n交易建议上，短线可关注支撑附近的低吸策略，但需严格控制仓位和止损；中线投资者建议保持观望，等待价格稳健突破SMA(20)或出现明确上升趋势信号后再介入，以降低追高风险并顺势操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a slight consolidation phase around the $79,485 mark after recent fluctuations. The price remains below the 20-period simple moving average (SMA) at $80,386, signaling that short-term momentum is somewhat bearish. The daily high of $79,601 and low of $79,442 indicate a narrow trading range, suggesting indecision among traders. Overall, the trend appears mildly downward, with buyers hesitant to push prices above short-term resistance.\n\nLooking at momentum indicators, the MACD is negative at -404.76, reflecting ongoing bearish pressure. While the signal line is unavailable, the negative MACD suggests that sellers are currently stronger than buyers. The absence of an RSI reading makes it harder to gauge overbought or oversold conditions, but the proximity to the 20-period SMA implies that the market may be approaching a neutral zone where directional bias could shift depending on volume and external catalysts.\n\nImmediate support can be identified near the recent low at $79,442, which may act as a short-term floor for buyers. Resistance is likely around the SMA level of $80,386 and further near the recent high of $79,601, where selling pressure could emerge. Traders should watch for a breakout above $80,400 to confirm bullish momentum or a breakdown below $79,400 to reinforce the current bearish bias. Volume spikes in either direction could provide clarity for the next significant move.\n\nFor trading strategy, cautious participants might consider range-bound strategies between the defined support and resistance levels, while aggressive traders could look for breakout opportunities. Short-term swings may favor scalping or day trading, but holding positions against the SMA trend carries risk. Monitoring broader market sentiment, regulatory news, and Bitcoin-specific events will be crucial for anticipating trend reversals and identifying entry points."
+    }
+  }
+}
