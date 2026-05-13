@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-13T23:41:06.398Z",
+  "price": {
+    "close": "79239.99",
+    "high": "79474.3",
+    "low": "79221.45",
+    "open": "79396.65",
+    "change": "-0.20",
+    "datetime": "2026-05-13 23:00:00"
+  },
+  "indicators": {
+    "rsi": 35.81876,
+    "macd": -396.74383,
+    "macd_signal": -347.44064,
+    "sma20": 80076.716
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏空格局",
+      "content": "目前BTC/USD价格在79239.99附近徘徊，较SMA(20) 80076.716形成明显下行压力，短期均线显示市场偏空。价格在日内高低点79474.3/79221.45之间波动，说明多空力量暂时均衡，但略倾向空方。\n\nMACD指标为-396.74383，呈负值，暗示市场动能偏弱，短期可能继续承压。尽管RSI数据缺失，但结合价格下移及均线压力，可判断买盘尚未形成强力反弹，多头仍需谨慎。\n\n关键支撑位在79200附近，若跌破该水平，可能进一步下探79000整数关口；阻力位主要在SMA(20) 80076及日内高点79474，突破需强力买盘推动。支撑/阻力区间为短线交易的重要参考。\n\n交易建议上，短线投资者可关注回调至支撑位的低吸机会，但仓位应控制在低位，止损设置在79150以下；偏好波段操作者则建议观望，等待MACD和价格形成明确反转信号后再入场，以规避震荡风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a mild bearish tilt, trading just below the 20-day simple moving average at $80,076. The intraday range of $79,221 to $79,474 suggests consolidation near the $79,200–$79,500 zone. Although the 24-hour change is minimal at -0.20%, the failure to breach the SMA indicates the short-term momentum remains under slight pressure, hinting at potential sideways movement unless buying interest strengthens above the SMA.\n\nMACD is negative at -396.74, signaling ongoing bearish momentum. The absence of a signal line reading prevents a full crossover analysis, but the negative divergence highlights that sellers currently dominate over buyers. The lack of a defined RSI adds uncertainty, yet price hovering near the lower intraday range reinforces caution for aggressive longs. Traders should watch for a MACD convergence or shift toward neutrality for signs of trend reversal.\n\nKey support levels are around $79,200 and $78,900, reflecting prior consolidation zones and intraday lows. Resistance is firmly at the SMA level near $80,076, with a secondary barrier around $80,500 where selling pressure may intensify. Breaching these levels with volume could define the next directional move. Price action around these thresholds should guide trade management, particularly for swing and intraday traders seeking defined entry and exit points.\n\nFor tactical positioning, conservative traders might wait for a decisive break above $80,100 for potential long exposure or a confirmed drop below $79,200 to consider short opportunities. Scalpers may exploit the tight $79,200–$79,500 range with caution, while risk-conscious participants should monitor volatility spikes and MACD shifts for clues. Overall, the market reflects mild bearish sentiment tempered by consolidation, suggesting patient observation before committing to larger positions."
+    }
+  }
+}
