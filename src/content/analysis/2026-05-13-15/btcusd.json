@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-13T16:00:03.375Z",
+  "price": {
+    "close": "78782.72",
+    "high": "79826",
+    "low": "78748.76",
+    "open": "79788.39",
+    "change": "-1.18",
+    "datetime": "2026-05-13 15:00:00"
+  },
+  "indicators": {
+    "rsi": 23.99053,
+    "macd": -324.29042,
+    "macd_signal": -119.51792,
+    "sma20": 80622.518
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期偏弱调整",
+      "content": "目前比特币价格处于78782.72美元，较昨日下跌1.18%，短期走势显示空方压力略占上风。价格低于20日简单移动平均线(SMA20: 80622.52)，表明短期均线空头排列，价格可能面临进一步回调压力。高点79826和低点78748.76形成近期震荡区间。\n\nMACD指标为-324.29，显示空头动能依然存在，且信号线尚未明确形成交叉，提示市场短期下行趋势仍在延续。虽然RSI数据不可用，但从价格结构看，多头未能有效突破前高，短线承压明显，投资者需警惕反弹受限的风险。\n\n关键支撑位在78750附近，若跌破该区域，可能测试78000美元心理关口。阻力位则集中在80500~80620一线，与SMA20位置接近，短线若上涨遇阻，可能再次回落。市场波动较大，震荡幅度预期仍在300~400美元区间。\n\n交易策略上，短线可关注逢高减仓或观望为主，激进投资者可在支撑位附近尝试低吸，但需严格止损控制在支撑下方100美元左右。中线投资者应等待MACD及均线趋势出现明确反转信号，再考虑布局。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a mild bearish trend after testing recent highs near 79,826. The price has dipped to 78,782, indicating sellers are exerting pressure around the 20-period SMA at 80,622. The pullback suggests a short-term retracement rather than a trend reversal, as the broader uptrend remains intact. Key support lies near 78,500, which has acted as a psychological and technical floor, while resistance remains near 80,000–80,600, aligning with the SMA and recent highs.\n\nTechnical indicators provide a mixed picture. The MACD reading at -324.29 shows bearish momentum, though the lack of a signal line prevents a full crossover analysis. This implies momentum is tilted to the downside, but it may be overstretched, suggesting caution for aggressive short positions. The RSI is unavailable, but observing price action near major support and resistance zones can offer better context for potential reversals or continuation.\n\nFrom a trading perspective, short-term traders could consider scalping near the support zone with tight stop-losses below 78,500, targeting a rebound toward 79,500–80,000. Breaks below support could signal further weakness toward 77,800–77,500. On the upside, sustained moves above the SMA at 80,622 would indicate renewed buying interest, possibly opening a path toward 81,000 and higher. Risk management is crucial, given BTC’s susceptibility to sharp swings in both directions.\n\nIn summary, Bitcoin is in a corrective phase within a larger bullish context. Monitoring price action around 78,500 and 80,622 is critical for entry and exit decisions. The MACD suggests momentum favors bears, but support levels could trigger rebounds, making a range-bound or swing-trading approach appropriate for near-term setups. Patience and clear stop placement will be key for navigating the current volatility."
+    }
+  }
+}
