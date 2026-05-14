@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-14T02:44:25.398Z",
+  "price": {
+    "close": "79552.85",
+    "high": "79651.27",
+    "low": "79516.91",
+    "open": "79572.3",
+    "change": "-0.02",
+    "datetime": "2026-05-14 02:00:00"
+  },
+  "indicators": {
+    "rsi": 42.0033001,
+    "macd": -326.091026,
+    "macd_signal": -345.68602,
+    "sma20": 79853.942
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/随趋势操作。",
+      "content": ""
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering just below the $79,600 mark, reflecting a neutral intraday stance with minimal price movement of -0.02%. The short-term trend appears to be mildly bearish, as the latest price is slightly under the 20-period simple moving average (SMA20) of $79,853.94. This indicates that recent upward momentum has stalled, and buyers may be cautious near the SMA, which now acts as a key resistance point for short-term rallies.\n\nMACD analysis shows a negative reading of -326.09, signaling that downward pressure is present in the market. Although the signal line isn’t available, the negative MACD alone suggests that bearish sentiment is outweighing bullish momentum, despite the tight daily trading range. The lack of RSI data limits overbought/oversold insights, but the minimal price swing between the day’s high and low ($79,651.27/$79,516.91) points to a consolidation phase where neither bulls nor bears dominate.\n\nSupport levels are evident around the $79,500 area, which has held in the past as a short-term floor. On the upside, $79,850–$79,900 forms the immediate resistance band, aligned with the SMA20. Traders may consider buying near support for small scalps while placing tight stop-losses slightly below $79,500. Conversely, aggressive traders could look for short opportunities if price consistently fails to breach the SMA20 and shows rejection signals at resistance.\n\nGiven the current setup, a cautious approach is advisable. Range-bound strategies may be most effective, focusing on scalping between $79,500 and $79,850. A confirmed breakout above the SMA20 could reignite bullish momentum toward $80,200, while a decisive drop below $79,500 might open the path toward $79,200–$79,250. Monitoring volume and price reaction around these technical zones will be crucial for anticipating the next directional move."
+    }
+  }
+}
