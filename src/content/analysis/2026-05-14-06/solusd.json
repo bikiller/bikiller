@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-05-14T06:07:08.523Z",
+  "price": {
+    "close": "91.31",
+    "high": "91.33",
+    "low": "91.15",
+    "open": "91.25",
+    "change": "0.07",
+    "datetime": "2026-05-14 06:00:00"
+  },
+  "indicators": {
+    "rsi": 42.79695,
+    "macd": -0.85087979,
+    "macd_signal": -0.97786901,
+    "sma20": 91.2705
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短期震荡偏多趋势",
+      "content": "当前SOL价格在91.31附近小幅波动，接近20日简单移动平均线SMA(20) 91.27，显示价格短期围绕均线整理。24小时涨幅仅0.07%，表明市场多空力量暂时均衡，但整体仍偏多。\n\nMACD为-0.85且快线低于零轴，显示短期动能偏弱，缺乏明确买入信号。由于RSI数据缺失，需关注后续超买或超卖变化。价格维持在均线附近，暗示短线多空双方拉锯，等待突破确认趋势。\n\n支撑位初步在91.15附近，如失守可能回落至90.50区域；阻力位在91.80至92.00区间，突破后有望进一步测试92.50附近。成交量若放大突破阻力，将增强上涨动能，反之下破支撑则需防止回调。\n\n交易策略上，可采取区间操作为主，低位尝试小额买入，高位谨慎减仓，关注MACD及价格突破均线信号。短线投资者宜设置止损位于支撑下方，以控制风险，同时留意整体市场情绪变化，防止突发利空冲击。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 91.31\\n- 24h Change: 0.07%\\n- High/Low: 91.33 / 91.15\\n- RSI(14): N/A\\n- MACD: -0.85087979, Signal: N/A\\n- SMA(20): 91.2705\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nCurrently, Solana’s price action and alignment with broader market trends will improve trade conviction."
+    }
+  }
+}
