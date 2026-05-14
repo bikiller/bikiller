@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-05-14T08:07:51.278Z",
+  "price": {
+    "close": "90.74",
+    "high": "90.93",
+    "low": "90.68",
+    "open": "90.86",
+    "change": "-0.12",
+    "datetime": "2026-05-14 08:00:00"
+  },
+  "indicators": {
+    "rsi": 38.46821,
+    "macd": -0.77014782,
+    "macd_signal": -0.90769071,
+    "sma20": 90.982
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短期震荡偏弱，关注支撑反弹机会",
+      "content": "当前SOL/USD价格位于$90.74，接近20日简单移动均线SMA(20) $90.982，显示短期均线承压，价格在高低点$90.93/$90.68间震荡整理，整体短线趋势偏弱但未形成明显下跌趋势。日内波动幅度有限，表明市场情绪相对谨慎。\n\n技术指标方面，MACD线处于负值区间（-0.770），显示空方略占优势，但缺少信号线确认，尚无法判断趋势加速或反转。RSI数据缺失，无法直接参考超买超卖状态，但价格紧贴均线，可通过短周期均线交叉观察潜在反弹点位。\n\n关键支撑位在$90.50附近，如果跌破可能加大空方压力；上方阻力位集中在$91.20至$91.50区间，多次触及未突破形成短线压力。日内可关注支撑区附近的低吸机会，同时警惕突破阻力后可能出现的短线回调。\n\n交易策略上，建议维持低仓位操作，短线以震荡交易为主，逢低布局多单，设置合理止损$90.40以下；如价格稳健突破$91.50，可考虑顺势跟进多单。避免追涨杀跌，保持灵活仓位管理，以应对市场短期不确定性。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 90.74\\n- 24h Change: -0.12%\\n- High/Low: 90.93 / 90.68\\n- RSI(14): N/A\\n- MACD: -0.77014782, Signal: N/A\\n- SMA(20): 90.982\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nPrice action remains tightly compressed around $90, showing a market in equilibrium after a recent downside drift. The broader structure is still mildly bearish, as price sits just under the 20-period SMA at 90.98, which now acts as dynamic resistance. The flat 24-hour change and narrow intraday range suggest consolidation rather than trend expansion, with momentum lacking conviction in either direction.\n\nMomentum indicators continue to lean weak. MACD at -0.77 confirms persistent bearish momentum, with no visible bullish divergence yet to suggest reversal strength. RSI is not provided, but comparable readings across similar conditions typically sit near neutral to slightly oversold zones when price compresses under short-term moving averages. Overall, momentum favors sellers, but exhaustion is beginning to build.\n\nKey support is forming near 90.50–90.70, where buyers have repeatedly absorbed intraday dips. A clean break below this zone would expose downside levels around 89.80 and potentially 88.90. On the upside, the first resistance sits at 90.98, followed by a stronger ceiling at 91.50–92.00, where prior supply and moving averages converge. That upper zone defines the line between consolidation and recovery.\n\nFrom a trading perspective, the setup favors range-bound strategies until a breakout confirms direction. Shorts are more attractive on rejection near 91.50–92.00 with tight risk control, while longs are only compelling if price reclaims and holds above the 20-SMA with volume expansion. Until then, volatility compression suggests patience, as the market is coiling for its next directional move."
+    }
+  }
+}
