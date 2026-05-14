@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-14T09:19:18.145Z",
+  "price": {
+    "close": "79763.84",
+    "high": "79881.29",
+    "low": "79757.87",
+    "open": "79784.57",
+    "change": "-0.03",
+    "datetime": "2026-05-14 09:00:00"
+  },
+  "indicators": {
+    "rsi": 48.97983,
+    "macd": -160.88822,
+    "macd_signal": -253.77356,
+    "sma20": 79483.9
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡整理偏多但动能趋弱",
+      "content": "当前BTC/USD整体呈高位震荡整理结构，价格在79800附近反复测试上方阻力，但多头未能有效突破，短线进入横盘消化阶段，整体趋势略偏中性偏强。\n\n均线方面，价格略高于SMA20（79483.9），说明短期仍具支撑；但MACD为负值且动能偏弱，显示上涨动能正在衰减，多空在当前区间持续拉锯。\n\n支撑位关注79500附近的SMA20与近期成交密集区，下方关键支撑在79000整数关口；上方阻力集中在79880至80000区域，突破需成交量配合确认。\n\n操作上建议短线以区间思路为主，高抛低吸更稳妥，未有效突破80000之前不宜追多，可等待回踩79500附近企稳后再考虑轻仓参与反弹机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering near $79,763, showing a largely neutral intraday movement with a minimal 24-hour change of -0.03%. The price remains slightly above its 20-period simple moving average at $79,483.9, suggesting that the short-term trend retains mild bullish tendencies. The recent highs and lows, $79,881 and $79,757 respectively, indicate that the market is consolidating in a narrow range, with neither buyers nor sellers asserting dominance at this point. This tight consolidation often precedes a more decisive breakout.  \n\nThe MACD value of -160.88, though lacking a signal line for immediate comparison, points to persistent bearish momentum from previous swings. Without an updated RSI, the strength of current momentum is harder to quantify, but the close clustering around the SMA implies weakening volatility. Traders should note that MACD negativity could make long positions riskier, while short-term buyers may find opportunity if price tests support levels and rebounds occur.  \n\nKey support is visible around $79,480, coinciding with the SMA(20), which could act as a pivot if downward pressure increases. Immediate resistance sits near $79,880, forming the upper boundary of the current consolidation. A sustained move above this level could trigger further upside, potentially inviting momentum traders to enter. Conversely, a drop below the SMA could signal deeper corrections, especially if accompanied by increased volume or MACD divergence.  \n\nFor trading strategy, conservative participants may wait for a confirmed breakout above $79,880 or a pullback toward $79,480 with a clear bounce. Aggressive traders might consider range-bound tactics, buying near support and targeting the upper boundary for short-term gains. Monitoring the MACD trajectory and price reaction around the SMA will be critical in determining whether Bitcoin maintains its neutral bias or shifts into a stronger trend."
+    }
+  }
+}
