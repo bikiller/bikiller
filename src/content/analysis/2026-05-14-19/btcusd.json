@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-14T19:12:43.602Z",
+  "price": {
+    "close": "81620.88",
+    "high": "81742.01",
+    "low": "81571.81",
+    "open": "81590.34",
+    "change": "0.04",
+    "datetime": "2026-05-14 19:00:00"
+  },
+  "indicators": {
+    "rsi": 67.65462,
+    "macd": 440.5738,
+    "macd_signal": 174.96648,
+    "sma20": 80138.2345
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：横盘整理略偏多头",
+      "content": "当前BTC/USD价格在81620附近小幅波动，全天波动幅度有限，显示市场短期缺乏明显方向性。价格位于20日SMA上方，说明中期趋势仍有支撑，多头力量尚存，但上涨动力有限，需要关注突破信号确认趋势。\n\nMACD当前为正值440.57，但信号线数据缺失，使趋势强弱判断有所不完全。若MACD继续上行并形成金叉，短线可能迎来新一轮上涨；反之若快速回落，则横盘震荡或调整概率增加。RSI未提供，但结合近期窄幅震荡，可推测买卖双方力量接近平衡。\n\n支撑位方面，下方81570附近为短期支撑，若跌破则可能测试81400；阻力位在81740和82000附近，多头突破需收盘站稳此区域才能延续上行。短期内操作应注意震荡区间的高抛低吸策略，谨防单边追涨。\n\n综合来看，市场短期呈现横盘偏多态势，中期仍受SMA支撑，建议稳健交易者以逢低布局为主，激进者可等待突破确认后跟进多单，同时设好止损保护，避免价格回落带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a cautious consolidation around the $81,620 level, hovering just above the 20-day simple moving average (SMA) at $80,138. This suggests that short-term momentum is modestly bullish, as price remains above a key moving average. The narrow 24-hour range of $81,571–$81,742 points to low volatility and indecision among traders. Without a visible RSI, momentum assessment relies more heavily on price relative to SMA and the MACD, which remains positive at 440.57, hinting at gradual bullish pressure.  \n\nResistance is evident near the recent high of $81,742, forming a short-term ceiling. A decisive break above this level could open the path to $82,000–$82,200, while immediate support lies near $81,000 and more robustly at the SMA of $80,138. These levels are likely to attract buyers, offering potential entry points for swing trades. Conversely, a drop below the SMA may signal a shift toward a corrective phase, where sellers could target $79,500–$79,800.  \n\nMACD positioning suggests bullish continuity, but caution is warranted as the signal line remains unavailable, limiting confirmation. Traders should watch for convergence or divergence patterns in intraday charts to gauge momentum shifts. The lack of extreme RSI readings implies the market is neither overbought nor oversold, reinforcing the view that BTC/USD is in a consolidation phase, primed for a directional breakout rather than a trend reversal.  \n\nFor trading strategy, short-term traders might consider buying near the SMA with tight stop-losses below $80,000, targeting the resistance range around $81,700–$82,200. More conservative investors could wait for confirmation of a break above resistance to capitalize on a potential upward leg. Risk management is crucial, as low volatility periods often precede sharp movements, and monitoring MACD changes will help anticipate any sudden bullish or bearish shifts."
+    }
+  }
+}
