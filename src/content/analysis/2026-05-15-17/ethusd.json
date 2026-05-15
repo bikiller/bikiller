@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-15T17:25:53.258Z",
+  "price": {
+    "close": "2228.51",
+    "high": "2233.44",
+    "low": "2224.59",
+    "open": "2224.93",
+    "change": "0.16",
+    "datetime": "2026-05-15 17:00:00"
+  },
+  "indicators": {
+    "rsi": 37.96748,
+    "macd": -14.15243,
+    "macd_signal": -10.11786,
+    "sma20": 2255.764
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏空整理",
+      "content": "当前以太坊价格位于$2228.51，接近日内低点$2224.59，但仍低于20日简单移动平均线SMA(20) $2255.76，显示短期多头动能不足。价格连续受阻于SMA上方，表明上行空间有限，市场可能以震荡为主，短期偏空整理的概率较高。\n\nMACD指标当前为-14.15，虽然信号线未提供，但负值显示空头力量占优，短期下行压力仍存在。RSI数据缺失，但结合价格低于SMA可推测，市场未出现超买状态，下行并非过度，空头回调尚具延续性，需关注支撑是否有效。\n\n支撑位初步看向$2220区域，若失守，下方可能触及$2200心理关口。阻力位则在SMA(20)附近$2255，以及上方日内高点$2233.44，突破这些位置将是短线多头信号确认。交易者应谨慎观察关键支撑与阻力的承接情况。\n\n建议短线交易可关注低位买入与高位卖出策略，避免追涨操作。若价格跌破关键支撑，应考虑减仓或逢低止损；反之若有效突破SMA，则可适度跟进多单，短期操作应以风控为主，顺势而为，避免冲动交易。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently consolidating near the $2,228 level, hovering just below the 20-period simple moving average at $2,255.76. This suggests a short-term bearish bias, as prices are failing to break above the SMA. The intraday price action has been tight, with a high of $2,233.44 and a low of $2,224.59, indicating indecision among traders. Overall, the trend remains neutral to slightly bearish, with the possibility of further downside if support levels are tested.  \n\nThe MACD reading of -14.15, without a visible signal line, points to continued momentum weakness. While the small 24-hour gain of 0.16% shows minor resilience, the negative MACD hints that selling pressure could dominate if momentum accelerates. RSI is not available, but price hovering below the SMA suggests that Ethereum may face resistance around $2,255. A sustained breach above this level would be needed to confirm a short-term bullish reversal.  \n\nKey support levels are near $2,220 and $2,200, where buyers have historically stepped in to prevent deeper declines. Resistance lies at the $2,255 SMA, followed by $2,275 as a secondary barrier. Traders should monitor these zones closely; a bounce from support could offer short-term buying opportunities, whereas failure to hold $2,220 may open the path toward lower support clusters around $2,180.  \n\nGiven the current consolidation and weak momentum signals, short-term traders might favor a cautious approach. Long positions could be considered on confirmed support bounces with tight stop-losses, while aggressive traders may look for short opportunities on rejections near $2,255. Overall, Ethereum is in a range-bound phase, and breakout confirmation will be key for directional bias."
+    }
+  }
+}
