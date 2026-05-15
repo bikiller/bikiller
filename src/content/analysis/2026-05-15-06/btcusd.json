@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-15T06:19:52.082Z",
+  "price": {
+    "close": "80440.01",
+    "high": "80473",
+    "low": "80301.11",
+    "open": "80346.36",
+    "change": "0.12",
+    "datetime": "2026-05-15 06:00:00"
+  },
+  "indicators": {
+    "rsi": 45.88123,
+    "macd": 146.52753,
+    "macd_signal": 282.33201,
+    "sma20": 80960.2255
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱，关注关键支撑",
+      "content": "当前BTC/USD维持窄幅整理，价格运行于80440附近，24小时波动有限，显示多空力量暂时均衡。由于现价低于20日均线80960一线，短线结构仍偏弱，市场情绪以观望为主，反弹动能尚未完全恢复。\n\n从技术指标观察，MACD维持正值，说明中期仍存在一定多头基础，但价格未能有效站回均线之上，意味着上涨持续性不足。RSI数据暂缺，使短线超买超卖判断受限，投资者需结合成交量变化确认方向。\n\n关键支撑位位于80300附近，该区域也是日内低点所在，若失守可能进一步测试80000整数关口。上方首个阻力位在80960至81000区间，若放量突破，则有机会打开新的反弹空间并改善短期趋势结构。\n\n操作层面，激进交易者可关注80300附近的短线低吸机会，但需严格设置止损。稳健投资者则建议等待价格重新站稳20日均线后再考虑跟进多单，当前阶段更适合轻仓交易与区间思路应对。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing signs of consolidation near the $80,400 level, reflecting a market in slight equilibrium after a minor intraday gain of 0.12%. The price has been oscillating between a high of $80,473 and a low of $80,301, suggesting limited volatility and a temporary balance between buyers and sellers. The short-term trend remains neutral to slightly bullish, but the inability to sustain moves above the 20-period SMA at $80,960 indicates that upward momentum is currently capped.\n\nFrom a technical standpoint, the MACD reading of 146.53 without a visible signal line limits the clarity of momentum analysis. However, the fact that the price is below the SMA(20) hints at mild bearish pressure in the short term. Traders should monitor whether BTC/USD can break and hold above the SMA for confirmation of renewed bullish momentum. In the absence of RSI data, it is advisable to combine MACD observation with price action patterns and volume to gauge near-term strength.\n\nKey support is situated around the recent intraday low near $80,300, with a secondary support near $80,000, a psychologically significant round number. Resistance is observed at $80,960, aligned with the SMA, and extends to $81,200 if momentum strengthens. A clear breach above this resistance could pave the way for a retest of $81,500, while failure to hold support might trigger a pullback toward $79,800–$79,900.\n\nFor trading strategy, cautious traders may prefer a wait-and-see approach, entering long positions only after a decisive break above the SMA or intraday highs. Short-term swing traders could target micro-ranges between $80,300–$80,960, exploiting consolidation behavior. Stop-losses should be placed just below major support levels to manage risk effectively, given the tight price range and low intraday volatility. This approach balances potential upside with protection against sudden reversals."
+    }
+  }
+}
