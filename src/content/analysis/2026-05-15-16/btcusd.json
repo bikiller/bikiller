@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-15T16:23:34.464Z",
+  "price": {
+    "close": "79204.12",
+    "high": "79288.22",
+    "low": "79089.18",
+    "open": "79113.38",
+    "change": "0.11",
+    "datetime": "2026-05-15 16:00:00"
+  },
+  "indicators": {
+    "rsi": 36.5992,
+    "macd": -349.51429,
+    "macd_signal": -115.71144,
+    "sma20": 80513.784
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，关注支撑位反弹",
+      "content": "目前比特币价格维持在79200美元附近，短期涨幅有限，显示市场处于窄幅震荡阶段。价格位于20日均线80513美元下方，表明多头动能偏弱，而MACD仍为负值，显示短期下行动能尚存，但未出现加速下跌信号。\n\n技术指标方面，RSI数据缺失，无法直接判断超买超卖状态，但结合MACD与均线位置来看，多头动能不足，空头尚未形成明显趋势突破。价格连续未能站稳短期均线，短线承压迹象明显，需要密切关注成交量变化以确认后续方向。\n\n支撑位方面，短期支撑可参考79000美元整数关口及近低点79089美元，若跌破则可能进一步试探78500美元；阻力位在当前均线80500美元附近，若突破则可能触发新一轮多头反弹。整体来看，市场短期仍以区间波动为主。\n\n交易建议上，谨慎短线操作为主，偏向低位布局逢低买入策略，同时设立止损以防价格快速回落。对于激进交易者，可关注支撑位附近轻仓做多，而突破均线上方时可加仓追涨，但需警惕回调风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $79,204, showing minimal movement over the past 24 hours with a marginal gain of 0.11%. The price remains below the 20-day simple moving average of $80,513, indicating that the short-term trend is slightly bearish. Recent consolidation between $79,089 and $79,288 suggests market indecision, as buyers and sellers are balanced. A sustained break above the SMA would be needed to signal renewed bullish momentum.\n\nThe MACD reading of -349.51 points to continued bearish pressure, even though a crossover signal is currently unavailable. While the RSI is not provided, the narrow daily trading range implies the market is not in extreme overbought or oversold conditions. Traders should monitor MACD histogram changes for potential momentum shifts, as the current negative reading indicates the bears retain moderate control.\n\nKey support levels are identified around $79,089, where buyers have previously defended the price, and stronger support near $78,500 may act as a secondary cushion in the event of a deeper pullback. Resistance lies near $79,288 and more significantly at the SMA of $80,513. Breaking these levels with volume could trigger short-term bullish continuation, while a failure to hold support may lead to a retest of lower levels around $78,500–$78,000.\n\nGiven the current indicators, a cautious approach is advisable. Short-term traders could consider entering long positions near strong support with tight stop-losses below $79,000, while breakout traders may wait for a confirmed move above the 20-day SMA. Conversely, a close below $79,000 could offer shorting opportunities targeting $78,500. Maintaining discipline with risk management is essential, given the narrow trading range and mixed signals."
+    }
+  }
+}
