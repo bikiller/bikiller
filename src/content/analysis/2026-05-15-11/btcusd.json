@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-15T11:32:32.359Z",
+  "price": {
+    "close": "80612.76",
+    "high": "80753.32",
+    "low": "80580.77",
+    "open": "80710.29",
+    "change": "-0.12",
+    "datetime": "2026-05-15 11:00:00"
+  },
+  "indicators": {
+    "rsi": 48.58266,
+    "macd": 45.34856,
+    "macd_signal": 145.45508,
+    "sma20": 81086.9905
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱整理",
+      "content": "当前BTC/USD价格围绕80600美元附近盘整，短期走势呈现轻微下行压力。价格连续在20日均线SMA(20)=81086.99下方波动，显示多头动力不足，短线可能延续震荡整理趋势。高点与低点相差不大，说明市场观望情绪浓厚。\n\nMACD主线为45.34856，但缺乏信号线对比，无法形成明确的金叉或死叉信号。整体来看，动能虽正，但幅度有限，短期上涨空间受限。RSI指标缺失，无法直接判断超买超卖状态，但从价格位置及均线关系推测，市场处于中性偏弱区域。\n\n支撑位关注80580-80550区间，该区域为短线多头防守点；阻力位则在80750-81100附近，突破该区间有望带来短线反弹机会。投资者可密切观察价格对均线的反应，以确认多空力量平衡点。\n\n交易策略上，短线可考虑区间操作，低位逢低轻仓多，接近阻力位适度减仓或观望，避免追涨。中长期投资者建议保持耐心，等待明显趋势信号再布局，防止震荡中被套。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $80,612, showing a slight retracement from its recent highs near $80,753. The short-term trend appears neutral to mildly bearish, as the price has dipped below the 20-period simple moving average (SMA) of $81,086. This indicates that momentum is softening and buyers may be hesitant at these levels. Traders should watch whether BTC can reclaim the SMA, which would signal potential short-term bullishness, or if it remains capped, suggesting further consolidation or minor pullback.\n\nMomentum indicators paint a mixed picture. While the RSI is not available, the MACD at 45.35 suggests that bullish momentum exists but is not strongly pronounced. The absence of a signal line reading makes it harder to confirm crossovers, so relying on price action around key moving averages becomes more important. The market seems indecisive, with minor intraday swings between $80,580 and $80,753 highlighting a tight range that could lead to either a breakout or a continuation of sideways trading.\n\nSupport and resistance levels are key for positioning. Immediate support is likely around the recent low of $80,580, offering a buffer against further downside. Resistance is near $80,753 and the SMA at $81,086, which would need to be breached decisively for a renewed upward move. Should price dip below support, the next meaningful level may be around $79,800–$80,000, while a breakout above the SMA could open the door to $81,500 or higher, assuming momentum picks up.\n\nTrading strategies in this environment should emphasize caution. Short-term traders might consider range-bound tactics, buying near support and taking profits near resistance. For swing traders, waiting for a confirmed break above the SMA or a bounce from support with volume confirmation may provide better risk-adjusted entries. Overall, the market is showing limited directional conviction, suggesting patience and careful position sizing until clearer signals emerge."
+    }
+  }
+}

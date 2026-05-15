@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-15T11:34:13.449Z",
+  "price": {
+    "close": "687.37",
+    "high": "689.67",
+    "low": "687.29",
+    "open": "689.12",
+    "change": "-0.25",
+    "datetime": "2026-05-15 11:00:00"
+  },
+  "indicators": {
+    "rsi": 59.91107,
+    "macd": 2.83077,
+    "macd_signal": 2.34648,
+    "sma20": 682.0185
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏多趋势",
+      "content": "当前BNB价格略低于日内高点，显示市场短期承压，但整体仍保持在20日均线之上，暗示中短期趋势偏多。价格在682附近的SMA(20)形成初步支撑，若持续守稳，可为多头提供稳定基础。日内波动有限，短期震荡明显。\n\nMACD指标显示多头动能略强（MACD=2.83077），尽管信号线数据缺失，但当前正值仍说明多方力量存在，若后续MACD持续上行，可期待价格进一步上探。缺乏RSI信息限制了超买超卖判断，但从价格表现看，尚未出现明显超买压力。\n\n关键支撑位可参考682-684区域，若跌破该水平，可能触发短线回调。阻力位则集中在690-692附近，价格若突破此区间，短期有望上攻700整数关口，形成新一轮上涨动能。交易者需关注突破后的成交量确认。\n\n操作上，短线可考虑在支撑区域附近低吸，止损设置略低于682，目标关注690-700区间。若价格跌破支撑或MACD转弱，应谨慎持仓或短线离场，避免追高风险，同时可等待确认回调后再择机入场。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 687.37\\n- 24h Change: -0.25%\\n- High/Low: 689.67 / 687.29\\n- RSI(14): N/A\\n- MACD: 2.83077, Signal: N/A\\n- SMA(20): 682.0185\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD recently shows a **flat-to-mildly bullish bias**, holding above the short-term SMA(20) at **≈682**. Price action around **687–689** suggests consolidation after a minor pullback, indicating the bulls are still present but cautious. The inability to sustain moves above the recent high at **689.67** hints that upward momentum is limited for now. A break above **695–700** would reinforce a resumption of the uptrend.\n\nWithout a current RSI reading, we lean on price structure and moving averages. The fact that BNB remains above the 20-period simple moving average suggests **still-favorable near-term sentiment**. The positive MACD value at **2.83** implies underlying bullish momentum, although the absence of a signal line reading tempers conviction. Traders should watch for a MACD histogram expansion or a bullish crossover once the signal line is available.\n\nKey **support levels** to monitor include the SMA(20) near **682**, followed by the psychological zone around **675** and then **660** as a deeper support. On the upside, **690–695** marks immediate resistance, with stronger caps at **700** and **710** if buyers accelerate. A break below the 20-period average could invite increased selling pressure into the mid-600s, making the next support cluster critical for stabilizing price.\n\nIn terms of **trading suggestions**, shorter-term longs could be considered on dips near support levels with tight risk management, given the shallow pullback. Breakout traders may look for a clear close above **695–700** on higher volume as a trigger. Conversely, a break below **682** with momentum might open a countertrend opportunity to test mid-range support, but risk control remains paramount in either scenario."
+    }
+  }
+}
