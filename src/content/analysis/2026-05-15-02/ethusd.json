@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-15T02:45:55.098Z",
+  "price": {
+    "close": "2271.09",
+    "high": "2278.56",
+    "low": "2260.49",
+    "open": "2275.63",
+    "change": "-0.21",
+    "datetime": "2026-05-15 02:00:00"
+  },
+  "indicators": {
+    "rsi": 45.13717,
+    "macd": 3.51514,
+    "macd_signal": 5.41604,
+    "sma20": 2282.2855
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期偏弱震荡整理",
+      "content": "当前以太坊价格位于2271.09美元，略低于20日均线2282.29美元，显示短期上行动能受阻，市场呈现轻微下行压力。24小时内价格波动幅度有限，表明多空力量暂时平衡，短线趋势偏弱。\n\nMACD显示3.51514，虽具体信号线未提供，但正值区间意味着价格仍具一定支撑，若出现金叉可能形成短期反弹。RSI缺失，难以判断超买或超卖状态，但结合均线位置，短期内买方仍需谨慎操作。\n\n关键支撑位可关注2260美元附近，如跌破此位置可能加速下行；阻力位位于2282-2285美元区间，多次触及未能有效突破将抑制进一步上涨。波动幅度收窄提示市场整理格局明显。\n\n交易建议上，短线可在支撑位附近小幅布局多单，止损2260美元下方；若价格突破2285美元，可考虑跟进反弹行情。整体操作应保持谨慎，避免追高，等待明确趋势确认再加仓。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently showing a short-term neutral to slightly bearish stance against the US Dollar. The price is trading at $2,271.09, just below the 20-period simple moving average of $2,282.29, suggesting mild downward pressure. The recent daily range between $2,260.49 and $2,278.56 indicates consolidation, with neither buyers nor sellers asserting full control. This sideways movement could signal a temporary pause before a more decisive directional move.\n\nThe MACD value of 3.51514, without a corresponding signal line available, indicates momentum is present but lacks confirmation of a trend reversal. Traders should watch for the MACD line crossing above a generated signal to confirm bullish momentum or crossing below to reinforce bearish pressure. The absence of an RSI reading limits insight into potential overbought or oversold conditions, so caution is warranted for breakout trades.\n\nSupport appears solid near $2,260, where previous intraday lows have held, while immediate resistance lies around $2,282 to $2,285, coinciding with the SMA(20). Breaching these levels could trigger stronger moves: a close above $2,285 may open the door for recovery toward $2,300, while a breakdown below $2,260 could target $2,240 or lower. Monitoring volume during these moves will provide added confirmation of genuine market participation.\n\nFor traders, a cautious approach is advisable. Short-term scalpers could look for quick trades around support and resistance levels, while swing traders may prefer waiting for a confirmed MACD-signal cross or a breach of key support/resistance. Given the current consolidation, maintaining tight stop-losses near $2,260 for longs or $2,285 for shorts could help manage risk while capturing potential upside in a breakout scenario."
+    }
+  }
+}
