@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-05-16T04:44:24.958Z",
+  "price": {
+    "close": "88.53",
+    "high": "89.06",
+    "low": "88.13",
+    "open": "89",
+    "change": "-0.54",
+    "datetime": "2026-05-16 04:00:00"
+  },
+  "indicators": {
+    "rsi": 32.26286,
+    "macd": -0.63586337,
+    "macd_signal": -0.63713126,
+    "sma20": 89.5785
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 88.53\\n- 24小时变化: -0.54%\\n- 高点/低点: 89.06 / 88.13\\n- RSI(14): N/A\\n- MACD: -0.63586337, Signal: N/A\\n- SMA(20): 89.57850\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏弱\n\n当前SOL/USD价格在88美元附近徘徊，短线整体趋势偏震荡下行。价格低于SMA(20)89.58，表明中短期多头动能受限，多空力量略显平衡但略偏空。在89上方存在明显阻力压制，多头推进需突破该关键均线。\n\n技术指标中MACD处于负值区间，虽未给出Signal，但负柱延续说明空头仍有一定压力。若能伴随成交量放大反转MACD向上，有望提振短线情绪。然而目前指标尚未形成可靠的买入信号，震荡走势仍是主基调。\n\n在支撑/阻力方面，下方初步支撑位于87.50-88.00区间，其次为更强支撑85附近。阻力则在89.50-90.00区间，如果有效突破则可能打开反弹空间。关注价格能否稳定站上90关口，这是短线上攻的关键。\n\n交易建议上，短线可在支撑区间附近等待企稳信号再逐步介入，止损建议设于下破87以下。对于激进者，可在突破90并回踩确认时考虑加仓。风险控制要严格，切忌追高承压位买入。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 88.53\\n- 24h Change: -0.54%\\n- High/Low: 89.06 / 88.13\\n- RSI(14): N/A\\n- MACD: -0.63586337, Signal: N/A\\n- SMA(20): 89.57850\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s recent price action around **$88.50** suggests a cautious short‑term environment. After attempting to reclaim levels above **$89**, the market has shown modest resistance, reflected in the 24‑hour low of **$88.13** and inability to sustain higher highs. The broader trend remains mildly bearish to neutral as price hovers below the **20‑period simple moving average (~$89.58)**, indicating sellers retain slight control. For trend traders, this range‑bound behavior highlights the need for clear directional confirmation before committing to new positions.\n\nThe incomplete momentum picture — with an unavailable RSI and only a negative MACD reading (‑0.6358) — still leans toward weakening upside momentum. A declining MACD without a visible signal line crossover suggests that bullish strength is lacking, and any rallies may be shallow. Without a valid RSI, traders should watch related timeframes for confirmation of overbought/oversold conditions. If the MACD continues to diverge lower and price fails to break above the **SMA(20)** convincingly, it could signal further short‑term consolidation or mild downside continuation.\n\nKey horizontal support near **$87.50** and **$85.00** should draw attention; these zones have historically offered buying interest and could buffer deeper pullbacks. On the upside, immediate resistance aligns near **$89.50–$90.00**, with a stronger ceiling around **$92.00** if bulls regain control. A decisive close above the **$90** round number could attract renewed buying interest and open the next leg toward **$94–$96**.\n\nIn terms of tactical suggestions, traders might consider range‑oriented strategies while price remains between support and resistance. Leaning toward short entries only after confirmed rejection below **$89.50** with tight risk management could be prudent. Conversely, conservative buyers may wait for a breakout above **$90** with volume confirmation. Given the mixed signals, controlling position size and setting clear stop levels around key support/resistance will help manage volatility and improve trade clarity."
+    }
+  }
+}
