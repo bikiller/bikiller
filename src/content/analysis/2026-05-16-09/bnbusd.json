@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-16T09:28:53.834Z",
+  "price": {
+    "close": "654.44",
+    "high": "661.97",
+    "low": "652.07",
+    "open": "661.74",
+    "change": "-1.10",
+    "datetime": "2026-05-16 09:00:00"
+  },
+  "indicators": {
+    "rsi": 27.18375,
+    "macd": -4.94272,
+    "macd_signal": -3.54601,
+    "sma20": 668.961
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期回调整理，潜在支撑测试",
+      "content": "当前BNB/USD处于短期下行压力之下，价格跌破20日均线（SMA20=668.96），显示多头动能减弱。日内最高661.97与最低652.07的震荡区间表明市场在短线存在观望情绪，整体趋势偏向横盘整理并有轻微回调风险。\n\nMACD当前为-4.94272，处于负值区域，说明空方力量占优，但尚未出现明显的加速下跌信号。RSI缺失，但结合均线与价格表现，可以推测市场已进入超卖边缘附近，短期可能出现反弹或横盘整理，等待市场情绪企稳。\n\n关键支撑位位于652附近，如跌破此位置则可能进一步测试650心理关口。阻力方面，短期均线668.96及前高661.97将形成压制，多头若要反攻需有效突破这些阻力位才能重拾上行空间。\n\n交易策略上，保守投资者可在价格接近支撑652附近考虑短线低吸，止损设置略低于650以控制风险。激进交易者可关注回踩后反弹信号入场，同时密切留意均线及MACD变化，调整仓位以应对可能的震荡或回调行情。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 654.44\\n- 24h Change: -1.10%\\n- High/Low: 661.97 / 652.07\\n- RSI(14): N/A\\n- MACD: -4.94272, Signal: N/A\\n- SMA(20): 668.96100\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB’s price action recently shows a mild bearish tilt as the latest price at **654.44** sits below the **20‑period simple moving average (668.96)**. This suggests near‑term sellers are still influencing market direction, though the narrow trading range between **652.07 and 661.97** reflects compressed volatility. The absence of a clear RSI reading prevents confirmation of overbought or oversold conditions, but the price staying under the SMA hints at weakening upside momentum.\n\nThe MACD’s negative histogram value (**–4.94**) reinforces bearish pressure, indicating that downward momentum has been accelerating versus recent price averages. Without the signal line available, this reading still implies the shorter‑term trend lacks sufficient strength to flip positive. If buyers return and push above the SMA(20), it would signal a shift in sentiment and could ignite further upside. Conversely, continuation below this level maintains a lower trajectory bias for the pair.\n\nKey technical levels to watch are immediate support around the recent lows near **652**, with a deeper support zone between **640–645** based on prior swing lows. Resistance begins near **668–670**, anchored by the SMA, then strengthens toward the **680–690** zone where previous rejection occurred. Breakouts beyond these thresholds should be confirmed with increased volume to validate directional strength and avoid false breakouts in this tight range.\n\nFor traders, a cautious approach is reasonable: consider entering long only above sustained closes past the **668–670 resistance**, targeting **680–690** and trimming into strength, with stops below recent swing lows. Short setups could favor breakdowns under **652**, exposing **640** then lower, but risk management is crucial given the compressed range and potential for quick reversals in altcoin markets."
+    }
+  }
+}
