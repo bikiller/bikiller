@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-16T20:46:17.135Z",
+  "price": {
+    "close": "0.10949",
+    "high": "0.10982",
+    "low": "0.10937",
+    "open": "0.10966",
+    "change": "-0.16",
+    "datetime": "2026-05-16 20:00:00"
+  },
+  "indicators": {
+    "rsi": 38.52267,
+    "macd": -0.00090614984,
+    "macd_signal": -0.0010404171,
+    "sma20": 0.110104
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 狗狗币/美元(DOGE/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.10949\\n- 24小时变化: -0.16%\\n- 高点/低点: 0.10982 / 0.10937\\n- RSI(14): N/A\\n- MACD: -0.00090614984, Signal: N/A\\n- SMA(20): 0.11010400\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"狗狗币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "狗狗币/美元技术分析：弱势震荡偏空整理格局\n\n当前DOGE价格在0.109附近窄幅波动，整体呈现弱势震荡格局。价格略低于20日均线0.1101，短期趋势偏空但未出现明显单边下跌，说明市场处于整理阶段，多空力量暂时均衡。\n\n技术指标方面，MACD为负值且持续在零轴下方运行，显示空头动能仍占优势。短周期动能衰减明显，反弹缺乏量能配合。均线结构轻微压制价格，短线反抽更偏技术性修复。\n\n支撑位重点关注0.1090一线，若跌破可能下探0.1080甚至更低区间；上方阻力集中在0.1105与0.1115附近，突破需成交量放大配合，否则仍易受压回落。\n\n交易策略上建议以区间思路为主，激进者可在支撑附近轻仓博反弹，稳健者等待有效突破0.1115后再考虑顺势跟进。整体仍以观望或轻仓短线为主，不宜追单。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin (DOGE) has been showing signs of consolidation near the $0.1095 level after minor fluctuations over the last 24 hours. The current price is slightly below the 20-period simple moving average (SMA20) at $0.1101, indicating a mild bearish bias in the short term. The high-low range is narrow, with a high of $0.10982 and a low of $0.10937, reflecting low volatility and potential indecision among traders. This suggests that momentum may be stalling before a clearer directional move emerges.\n\nThe MACD value of -0.000906 indicates a weak bearish trend, although the absence of a signal line reading limits the precision of trend confirmation. Without the RSI data, overbought or oversold conditions are difficult to assess, but the price hovering just below SMA20 generally hints at a short-term retracement. Traders may interpret this as a cautious phase where bearish pressure slightly outweighs bullish attempts, and additional confirmation from volume or other momentum indicators would be useful before taking positions.\n\nKey support levels are located near $0.1093 and $0.1088, where previous intraday lows and consolidation zones could provide buying interest. Resistance is observed around $0.1101 and $0.1110, coinciding with the SMA20 and minor swing highs. A decisive break above the $0.1101 SMA could reignite bullish momentum, while failure to hold the $0.1093 support may lead to a deeper pullback toward $0.1080-$0.1085, signaling a more significant short-term bearish scenario.\n\nTrading strategies should remain cautious in this environment. Short-term traders might look for range-bound opportunities between support and resistance, while swing traders could await a confirmed breakout above $0.1101 for a potential entry. Risk management is essential given the narrow trading range and subdued volatility. Overall, DOGE/USD appears poised for either a small consolidation or a breakout, with market confirmation required before committing to directional trades."
+    }
+  }
+}
