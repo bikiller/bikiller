@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-16T05:42:15.920Z",
+  "price": {
+    "close": "78976.87",
+    "high": "78999.97",
+    "low": "78892.74",
+    "open": "78996.95",
+    "change": "-0.03",
+    "datetime": "2026-05-16 05:00:00"
+  },
+  "indicators": {
+    "rsi": 36.17031,
+    "macd": -358.72045,
+    "macd_signal": -373.24796,
+    "sma20": 79301.8135
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：窄幅震荡偏弱整理",
+      "content": "当前BTC/USD整体处于窄幅震荡格局，价格运行在78976附近，略低于20日均线79301，显示短线偏弱但无明显趋势延续，市场动能不足。略\n\nMACD指标当前为-358.72，显示空头动能占优且下行动能仍在释放，缺乏RSI参考使超买超卖判断受限，但均线压制明显。\n\n支撑位关注78890附近，短线低点密集形成防守区；阻力位在79000整数关口及79300均线附近，突破前仍以区间震荡为主。\n\n建议短线以区间交易为主，靠近78890支撑可轻仓试多，接近79000及79300压力位考虑分批止盈，同时控制仓位并设置止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering near the $78,976 level, showing minimal movement over the past 24 hours. The trend is largely sideways with subtle bearish undertones, reflected in a slight negative MACD of -358.72. This indicates that downward momentum is modest but present, and the market lacks a strong directional bias. Traders should watch for any decisive movement below the recent low of $78,892, which could accelerate a short-term correction. Conversely, a push above $79,999 may signal renewed bullish attempts.\n\nLooking at moving averages, BTC is trading below its 20-period SMA at $79,301, suggesting that short-term sellers have an edge. The lack of an RSI reading complicates momentum analysis, but the current MACD implies weakening bullish pressure. These conditions favor cautious entries, as attempts to buy near current levels could be met with resistance. Short-term traders might prefer waiting for a clearer confirmation of trend reversal or sustained consolidation above the SMA before committing.\n\nKey support appears to reside around $78,500, where prior consolidation provided a buffer against deeper declines. Resistance zones are observed near $79,500 and $80,000, psychological levels that could challenge upward moves. A breakout above these thresholds could reignite bullish momentum, while failure to sustain above $79,000 might prompt a retest of support. Volume spikes in either direction would provide additional validation for such moves.\n\nFrom a trading perspective, cautious range-bound strategies seem appropriate. Traders could consider small-scale long positions on dips toward $78,500 with tight stop-losses to manage risk. Conversely, short positions may be justified if BTC fails to breach the $79,500–$80,000 area, particularly if MACD continues negative. Overall, the market is balanced but leaning slightly bearish, emphasizing disciplined entries and active monitoring of key support and resistance levels."
+    }
+  }
+}
