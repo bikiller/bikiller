@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-05-16T22:12:22.711Z",
+  "price": {
+    "close": "0.255055",
+    "high": "0.255711",
+    "low": "0.254895",
+    "open": "0.255563",
+    "change": "-0.23",
+    "datetime": "2026-05-16 22:00:00"
+  },
+  "indicators": {
+    "rsi": 37.60505,
+    "macd": -0.0016560148,
+    "macd_signal": -0.0020329175,
+    "sma20": 0.25580605
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 艾达币/美元(ADA/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.255055\\n- 24小时变化: -0.23%\\n- 高点/低点: 0.255711 / 0.254895\\n- RSI(14): N/A\\n- MACD: -0.0016560148, Signal: N/A\\n- SMA(20): 0.25580605\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"艾达币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "艾达币/美元技术分析：短线偏弱震荡整理\n\nADA/USD当前维持窄幅震荡，最新价格运行于0.255附近，24小时跌幅有限，显示空头虽占优但抛压并不强烈。价格低于SMA20均线，说明短周期趋势仍偏弱，市场情绪以观望为主，短线存在继续整理需求。\n\n从技术指标看，MACD维持负值，代表动能仍偏空，短期反弹力度不足。不过当前跌幅有限，且价格未出现快速放量下跌，意味着空头力量并未明显增强。RSI数据缺失，但结合走势判断，市场暂未进入极端超卖区域。\n\n支撑位方面，0.2548附近形成短线重要支撑，一旦跌破，可能进一步下探0.2520区域。上方阻力首先关注0.2560，其次是SMA20所在的0.2558至0.2570区间，若有效突破，行情有机会重新测试0.2600整数关口。\n\n操作策略上，短线交易者可采取区间高抛低吸思路，靠近支撑轻仓试多，接近阻力逐步止盈。激进投资者需等待MACD拐头或均线重新站稳后再考虑追多，当前阶段仍应控制仓位并注意市场波动风险。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano (ADA) is currently trading at $0.255055, reflecting a minor 24-hour decline of 0.23%. Price action remains tightly consolidated between the intraday high of $0.255711 and low of $0.254895, suggesting market indecision. The short-term trend appears neutral to slightly bearish as the latest price sits just below the 20-period SMA at $0.255806, indicating mild selling pressure. This consolidation phase often precedes a breakout, so traders should monitor for a decisive move above or below current levels.  \n\nThe MACD reading of -0.0016560148 indicates that downward momentum is slightly stronger than upward pressure, although the lack of a signal line prevents full confirmation. The absence of RSI data limits overbought or oversold interpretation, but the tight price range hints at equilibrium between buyers and sellers. In this context, cautious traders may prefer waiting for clearer signals from either a MACD crossover or a confirmed break above the SMA to validate bullish strength.  \n\nSupport appears near $0.2548, corresponding to the intraday low, while immediate resistance aligns with the recent high around $0.2557. A sustained move above $0.2560 could open the path toward $0.2580, signaling potential upside continuation. Conversely, a breakdown below $0.2545 may accelerate selling toward the next support near $0.2520, marking a zone of interest for defensive positioning. Observing volume during these movements will be critical to confirm breakout legitimacy.  \n\nTraders seeking short-term opportunities might consider a range-bound approach, buying near support and trimming positions near resistance while keeping stop losses tight around $0.2540. For those anticipating trend-following setups, waiting for MACD confirmation or SMA crossover could provide a more disciplined entry point. Overall, ADA/USD is in a low-volatility consolidation, emphasizing careful risk management and patience for meaningful directional cues."
+    }
+  }
+}
