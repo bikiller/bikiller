@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-16T19:46:17.436Z",
+  "price": {
+    "close": "78233.42",
+    "high": "78273.31",
+    "low": "78168.07",
+    "open": "78196.95",
+    "change": "0.05",
+    "datetime": "2026-05-16 19:00:00"
+  },
+  "indicators": {
+    "rsi": 36.5759,
+    "macd": -362.024487,
+    "macd_signal": -421.9924,
+    "sma20": 78432.177
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理",
+      "content": "当前价格围绕78200附近窄幅震荡，略低于20日均线，整体处于横盘整理结构，短线多空拉锯明显，趋势动能偏弱。\n\nMACD指标持续位于零轴下方并进一步走弱，动能柱扩张有限，缺乏反弹信号，短期下行压力仍在累积，RSI指标未给出有效修复动能，整体偏弱整理。\n\n下方支撑关注78100及78000整数关口，上方阻力位于78430附近的20日均线，其上方79000构成次级压力区，需观察突破确认。\n\n操作上建议以区间交易为主，未有效站上78430前谨慎追多，跌破78100需防范回调延续，严格控制杠杆风险，保持观望灵活应对。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 78233.42\\n- 24h Change: 0.05%\\n- High/Low: 78273.31 / 78168.07\\n- RSI(14): N/A\\n- MACD: -362.024487, Signal: N/A\\n- SMA(20): 78432.17700\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin continues to trade in a tight consolidation zone around $78,200, reflecting equilibrium between buyers and sellers after a recent pullback from higher levels. The broader structure still leans mildly bullish, but momentum has clearly cooled. Price action remains compressed just below the 20-period SMA at ~$78,432, suggesting the market is testing short-term equilibrium before choosing direction. As long as Bitcoin holds above $77,000, downside pressure appears contained.\n\nMomentum indicators show mixed-to-bearish signals. The MACD reading of -362 suggests weakening upside momentum and potential continuation of corrective pressure in the near term. Without RSI data, trend strength is harder to confirm, but price behavior relative to moving averages implies fading bullish momentum rather than a full reversal. In this environment, rallies may face quick exhaustion unless volume expands significantly on breakout attempts.\n\nKey resistance is clustered between $78,500 and $79,500, where the 20-SMA and recent intraday highs converge. A sustained break above this zone could re-open upside toward $81,500 and then $82,500–$84,000. On the downside, immediate support sits near $77,800, followed by a stronger demand area around $76,500–$75,800. A breakdown below that region would shift structure toward a deeper corrective phase.\n\nFrom a trading perspective, conditions favor range-based strategies rather than aggressive trend-following. Short-term traders may consider fading extremes within the $77,000–$79,500 band, while breakout traders should wait for a confirmed close above resistance or below support to avoid false moves. Risk management remains critical given compressed volatility and mixed momentum signals, which often precede sharp directional expansion."
+    }
+  }
+}
