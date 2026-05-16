@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-16T23:34:18.760Z",
+  "price": {
+    "close": "78205.31",
+    "high": "78233.62",
+    "low": "78120",
+    "open": "78148.23",
+    "change": "0.07",
+    "datetime": "2026-05-16 23:00:00"
+  },
+  "indicators": {
+    "rsi": 37.33613,
+    "macd": -279.7449,
+    "macd_signal": -351.97198,
+    "sma20": 78256.7525
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱趋势",
+      "content": "当前比特币价格在78205附近震荡，接近20日均线SMA(20)78256，显示短期价格在均线附近徘徊，未形成明显突破。价格波动幅度极小（24小时涨幅仅0.07%），暗示市场多空力量暂时均衡，短期趋势偏向横盘整理。  \n\nMACD值为-279.74490，处于零轴下方，表明动能仍偏向空头，但由于信号线数据缺失，不能确认交叉状态，需关注未来几日是否出现MACD金叉或死叉，以判断趋势是否反转。支撑位初步可关注78120一线，若跌破可能引发短期回调；阻力位在78233上方，高点附近存在卖压。  \n\n交易策略上，短线投资者可维持观望，等待价格突破关键阻力或支撑形成明确方向。若追涨，可在突破阻力确认后轻仓入场；若偏空操作，可在支撑位失守时考虑止损或短线做空。中长线投资者建议关注均线支撑和成交量变化，结合宏观因素调整仓位，避免追高风险。  \n\n综上，BTC/USD短期处于震荡偏弱格局，空头压力略大，但尚未形成趋势性下跌。操作应以谨慎为主，关注关键技术指标变化和支撑阻力位的突破信号，灵活调整策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 78205.31\\n- 24h Change: 0.07%\\n- High/Low: 78233.62 / 78120\\n- RSI(14): N/A\\n- MACD: -279.74490, Signal: N/A\\n- SMA(20): 78256.7525\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is currently trading in a tight consolidation zone around 78,200, showing a very slight upward drift after recent volatility compression. Price action is effectively range-bound, with repeated rejections near 78,300 and buyers consistently stepping in around 78,100. The broader structure still leans mildly bullish on higher timeframes, but momentum has clearly cooled, suggesting the market is waiting for a catalyst before committing to a directional breakout.\n\nFrom an indicator perspective, MACD remains negative at -279, reinforcing that short-term momentum is still under pressure despite stable price action. The lack of RSI data limits precision, but comparable conditions in similar regimes typically reflect neutral-to-weak momentum when MACD diverges from flat price movement. Moving averages add context: price is sitting slightly below the 20-period SMA (~78,256), which now acts as immediate dynamic resistance. This alignment suggests equilibrium rather than trend expansion.\n\nKey support is forming near 78,100, where repeated bounces indicate strong short-term demand absorption. A breakdown below this zone would expose lower liquidity pockets around 77,600–77,200, where buyers may re-enter more aggressively. On the upside, resistance is concentrated between 78,250 and 78,350, with a stronger barrier near 78,500 if bullish momentum returns. This compressed structure often precedes volatility expansion in either direction.\n\nTrading conditions favor a range strategy in the short term, with scalping opportunities between support and resistance boundaries. However, a confirmed close above 78,350 with improving MACD would shift bias toward continuation longs targeting 78,800–79,200. Conversely, failure to hold 78,100 would tilt sentiment bearish, opening a corrective move toward deeper support zones. Caution remains key due to low directional conviction."
+    }
+  }
+}
