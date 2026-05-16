@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-16T06:19:30.085Z",
+  "price": {
+    "close": "78875.19",
+    "high": "79017.76",
+    "low": "78871.64",
+    "open": "78998",
+    "change": "-0.16",
+    "datetime": "2026-05-16 06:00:00"
+  },
+  "indicators": {
+    "rsi": 34.74879,
+    "macd": -351.079988,
+    "macd_signal": -368.28979,
+    "sma20": 79212.1135
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前比特币价格在78875美元附近波动，日内振幅有限，整体呈现小幅下行压力。尽管跌幅仅0.16%，但价格仍低于20日简单移动平均线SMA(20)79212美元，表明短期多头略显乏力，市场处于震荡整理状态。  \n\nMACD指标显示主线为-351，处于负值区域，暗示动能偏弱，短线空方力量占优。然而，由于信号线未提供，需结合价格行为进一步确认趋势。缺乏RSI数据限制了超买超卖判断，但价格接近近期低点78871美元，短期可能存在支撑。  \n\n支撑位方面，78800附近为初步支撑，其下方的78700也是重要心理支撑。阻力位在SMA(20)79212美元附近，如价格突破则有望重新测试79400~79500区间。交易者应关注价格对SMA的反应，作为短线操作参考。  \n\n综合来看，建议保守交易者以观望为主，等待趋势明朗化。激进者可考虑低位短线布局，多单需严格止损于78700下方，空单则可在接近SMA阻力区尝试，但需控制仓位和风险。整体策略以顺势操作为主，避免逆势追涨。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a subtle consolidation phase around the $78,875 mark, with minor intraday volatility between $78,871 and $79,017. The overall trend appears neutral to slightly bearish, as the latest price is slightly below the 20-period simple moving average at $79,212, indicating short-term resistance. Price momentum seems constrained, with the small 24-hour change of -0.16% suggesting a lack of strong directional conviction among traders.\n\nThe MACD reading of -351.08, despite the missing signal line, points toward bearish pressure in the market. While RSI data is unavailable, the proximity to the SMA and the small daily price movement suggest that the market is neither oversold nor overbought. This scenario implies a waiting pattern, where the market could either break upward toward resistance or retrace toward support before establishing a clearer trend.\n\nSupport and resistance levels are crucial for near-term trading decisions. Immediate support lies near the recent low of $78,871, with a stronger psychological floor around $78,500. On the upside, the 20-period SMA at $79,212 serves as a near-term resistance, and a break above $79,500 could attract additional buying interest. Traders should closely monitor these thresholds to anticipate short-term swings.\n\nGiven the current setup, conservative traders may prefer a range-bound approach, buying near support and taking profits near SMA resistance. More aggressive traders might wait for a confirmed breakout above $79,500 for a bullish play or a breakdown below $78,500 to consider short positions. Overall, patience and precise entries are key, as volatility is currently muted, making trend-confirming signals more valuable than speculative trades."
+    }
+  }
+}
