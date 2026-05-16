@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-16T16:55:08.835Z",
+  "price": {
+    "close": "78155.76",
+    "high": "78328.88",
+    "low": "78088.33",
+    "open": "78203.38",
+    "change": "-0.06",
+    "datetime": "2026-05-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 33.63101,
+    "macd": -438.6116,
+    "macd_signal": -458.012658,
+    "sma20": 78553.452
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线偏弱震荡，等待方向确认",
+      "content": "当前比特币价格维持在78150美元附近窄幅波动，24小时跌幅有限，但整体走势仍偏弱。价格持续运行于20日均线78553下方，说明短期多头动能不足，市场情绪趋于谨慎，短线或继续以震荡整理为主。\n\n从技术指标观察，MACD维持负值且处于空头区域，代表中短周期仍存在下行压力。虽然RSI数据暂缺，但结合价格结构判断，市场尚未出现明显超卖反弹信号，空头仍占据阶段性主动权，反弹力度预计有限。\n\n关键支撑位可关注78000美元整数关口，若后续跌破，可能进一步测试77500附近区域；上方阻力则集中在78550至79000区间，尤其20日均线附近存在较强压制，若无法有效突破，行情难以形成趋势反转。\n\n交易策略方面，短线建议以高位谨慎做空或区间交易为主，避免追涨。激进交易者可等待价格靠近支撑位后的反弹确认信号，稳健投资者则应关注MACD与均线重新转强后，再考虑增加多头仓位。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 78155.76\\n- 24h Change: -0.06%\\n- High/Low: 78328.88 / 78088.33\\n- RSI(14): N/A\\n- MACD: -438.61160, Signal: N/A\\n- SMA(20): 78553.45200\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin continues to trade in a tight consolidation phase near 78,100, reflecting a market that is still digesting recent gains while struggling to establish directional momentum. Price action remains capped below the 20-day SMA at 78,553, suggesting short-term bearish pressure. However, the broader structure is not decisively broken, as the market continues to hold above nearby intraday lows around 78,000, indicating equilibrium between buyers and sellers.\n\nMomentum signals lean slightly negative. The MACD reading at -438.61 confirms weakening upside momentum and persistent bearish divergence, even if selling pressure is not accelerating aggressively. With RSI unavailable, price behavior near moving averages becomes more important, and the inability to reclaim the 20-day SMA signals that bullish continuation remains unconfirmed. Overall, momentum suggests a corrective or sideways phase rather than a strong trend.\n\nKey support is forming around 78,000, with a secondary cushion near 77,800 if pressure increases. On the upside, immediate resistance sits at 78,550 (20-day SMA), followed by a stronger barrier around 78,900–79,200 where prior rejection zones cluster. A sustained break above these levels would be needed to re-establish bullish control and open a path toward 80,000+ territory.\n\nTrading conditions favor range strategies in the short term. Buying dips near support with tight risk control may be viable, but confirmation of strength above the 20-day SMA is required before considering breakout longs. Conversely, rejection near resistance could offer short-term fade opportunities, though momentum weakness suggests caution rather than aggressive positioning in either direction."
+    }
+  }
+}

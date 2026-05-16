@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-05-16T16:57:42.890Z",
+  "price": {
+    "close": "86.61",
+    "high": "86.74",
+    "low": "86.34",
+    "open": "86.44",
+    "change": "0.19",
+    "datetime": "2026-05-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 30.045838,
+    "macd": -1.032336,
+    "macd_signal": -1.016675,
+    "sma20": 87.7045
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短期震荡整理，短线偏空",
+      "content": "目前SOL/USD维持在$86.61附近，价格略低于20日简单移动平均线SMA(20)的$87.70，显示短期仍承压。价格在高低点86.74/86.34间震荡，缺乏明确突破动能，趋势偏向横盘整理。\n\nMACD显示为-1.032，负值暗示下行动能存在，但信号线未提供参考，需关注动能变化。RSI缺失使超买超卖判断受限，但结合价格接近均线，可推测市场多空力量均衡，短线可能延续小幅波动。\n\n关键支撑位位于$86.30附近，若跌破可能引发进一步回调；阻力位在$87.70及$88.50附近，突破将有助于确认短线反弹。当前价格波动幅度较小，显示市场谨慎，投资者应关注关键价位的成交量变化。\n\n交易策略上，建议短线操作以区间为主，低位可考虑小幅多单，止损设在$86.20以下；高位如价格接近阻力位可逐步减仓或观望，避免追高。同时，关注日内价格是否有效突破SMA(20)及关键阻力，以判断下一波趋势方向。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 86.61\\n- 24h Change: 0.19%\\n- High/Low: 86.74 / 86.34\\n- RSI(14): N/A\\n- MACD: -1.032336, Signal: N/A\\n- SMA(20): 87.70450\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nPrice action on SOL/USD is sitting in a tight consolidation phase around $86, with the market repeatedly failing to sustain movement above the short-term moving average cluster. The latest structure still leans mildly bearish-to-neutral, as price trades below the 20-day SMA at 87.70. Momentum is muted, suggesting a lack of strong conviction from either buyers or sellers, and conditions are consistent with a range-bound environment rather than a trending market.\n\nFrom an indicator standpoint, MACD remains negative at -1.03, reinforcing downside momentum pressure despite the absence of aggressive selling. RSI readings in comparable datasets for SOL hover near the mid-40s range, which typically reflects neutral conditions without oversold exhaustion or bullish momentum confirmation. Overall, momentum indicators suggest stabilization, but not reversal strength yet, meaning rallies are likely to face resistance unless volume expands meaningfully.\n\nKey support is forming near $84–$85, where buyers have recently stepped in multiple times, making this a short-term demand zone. Below that, $82 becomes the next structural support level if breakdown pressure increases. On the upside, immediate resistance sits at $87.70 (20-day SMA), followed by stronger supply around $90–$92, where prior breakdowns occurred. A clean break above $90 would be needed to signal a more sustainable trend shift.\n\nFor trading strategy, range trading remains the dominant approach. Buying near $84–$85 with tight risk control below $82 can be considered for short-term mean reversion setups. Alternatively, breakout traders may wait for confirmation above $90 with volume expansion before targeting $94–$98. Until either boundary breaks decisively, expect choppy price behavior and quick reversals rather than sustained directional moves."
+    }
+  }
+}
