@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-17T15:45:03.998Z",
+  "price": {
+    "close": "652.06",
+    "high": "653",
+    "low": "651.09",
+    "open": "652.11",
+    "change": "-0.01",
+    "datetime": "2026-05-17 15:00:00"
+  },
+  "indicators": {
+    "rsi": 38.98264,
+    "macd": -1.74584,
+    "macd_signal": -2.073765,
+    "sma20": 654.264
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 币安币/美元(BNB/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 652.06\\n- 24小时变化: -0.01%\\n- 高点/低点: 653 / 651.09\\n- RSI(14): N/A\\n- MACD: -1.74584, Signal: N/A\\n- SMA(20): 654.264\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"币安币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "币安币/美元技术分析：[高位震荡整理偏弱]\n\n当前BNB处于高位横盘震荡结构，价格围绕652附近窄幅波动，整体趋势呈现上方承压迹象。短期均线SMA(20)=654.26略高于现价，说明价格仍受均线压制，市场动能偏弱但未出现明显破位，属于整理阶段。  \n\n技术指标方面，MACD维持负值（-1.74584）显示空头动能仍占优，但缺乏加速下跌迹象，更多体现为弱势震荡。RSI未给出但结合价格结构判断，市场情绪偏中性略弱，多空力量暂时平衡。  \n\n支撑与阻力方面，下方651一线为短期强支撑区域，一旦跌破可能测试645-640区间；上方阻力集中在654-658，若有效突破SMA20并站稳，有望重新挑战665附近前高压力。  \n\n交易策略上建议以区间思路为主，激进者可在651-653附近低吸，止损放在649下方；反弹至656-660区间可分批止盈。若放量跌破651，则需转向顺势做空思路应对下行延伸风险。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 652.06\\n- 24h Change: -0.01%\\n- High/Low: 653 / 651.09\\n- RSI(14): N/A\\n- MACD: -1.74584, Signal: N/A\\n- SMA(20): 654.264\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBNB/USD is currently moving in a tight consolidation zone around 652, reflecting a market that is pausing after recent directional attempts. Price action remains slightly below the 20-period SMA at 654.26, which is acting as a short-term dynamic resistance. The near-flat 24h range between 651–653 signals low volatility compression, often preceding a breakout phase. Broader structure still leans mildly bearish in the short term, as price struggles to reclaim overhead moving averages.\n\nMomentum indicators suggest weakening downside pressure but not yet a confirmed reversal. The MACD reading at -1.74584 points to persistent bearish momentum, though the relatively small magnitude implies selling pressure is fading rather than accelerating. With RSI unavailable, trend context is inferred from price behavior and MACD divergence: momentum is stabilizing, but buyers have not fully regained control. Similar setups historically tend to transition into sideways ranges before trending moves re-emerge.\n\nKey support is forming near 651, which has been repeatedly defended intraday and now represents immediate short-term demand. A break below this level could expose downside toward the 645–640 zone, where prior liquidity clusters and historical moving average support may attract buyers. On the upside, resistance is concentrated at 654–657, followed by a stronger barrier near 665, which aligns with prior rejection zones and broader technical supply.\n\nTrading-wise, the structure favors range strategies in the short term. Buying near support with tight risk control below 650 may offer favorable reward if price reclaims the SMA and breaks 657. Alternatively, breakout traders may wait for a confirmed close above 657–660 to target continuation toward 665+. Until either boundary is broken, choppy mean-reversion conditions are likely to dominate."
+    }
+  }
+}
