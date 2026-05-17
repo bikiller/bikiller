@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-05-17T09:48:24.751Z",
+  "price": {
+    "close": "0.25632",
+    "high": "0.256509",
+    "low": "0.255644",
+    "open": "0.255717",
+    "change": "0.24",
+    "datetime": "2026-05-17 09:00:00"
+  },
+  "indicators": {
+    "rsi": 50.98875,
+    "macd": -0.00063458123,
+    "macd_signal": -0.0011190274,
+    "sma20": 0.25517685
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 艾达币/美元(ADA/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.25632\\n- 24小时变化: 0.24%\\n- 高点/低点: 0.256509 / 0.255644\\n- RSI(14): N/A\\n- MACD: -0.00063458123, Signal: N/A\\n- SMA(20): 0.25517685\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"艾达币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "艾达币/美元技术分析：弱势震荡中的均线压制格局\n\n当前价格围绕0.256附近窄幅震荡，短线结构偏弱但未出现明显破位。价格略高于SMA20，说明存在轻微支撑，但整体动能不足，市场仍处于整理阶段。多空双方在极窄区间内反复博弈，趋势尚未形成明确方向。\n\n从指标来看，MACD持续处于零轴下方并保持负值，说明空头动能仍占优势，反弹缺乏持续性。虽然价格未出现快速下跌，但动量不足意味着上涨延续性较弱，属于典型的弱势盘整结构。\n\n支撑方面，0.255附近为近期密集成交区，一旦失守可能回踩0.252区域；阻力集中在0.2575-0.259区间，若无法放量突破则大概率维持震荡格局。短线波动空间有限，但方向选择临近。\n\n交易策略上建议以区间思路为主，靠近支撑可轻仓试多并严格止损，接近阻力则逐步减仓或短空操作。若放量突破0.259上方，则可视为短期转强信号，否则仍以震荡偏弱对待。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Price action in  ADA/USD is characterized by tight-range consolidation after a marginal upward drift, with candles clustering near 0.2563 after a very narrow intraday band. The structure suggests low-volatility equilibrium rather than directional breakout, though trading above the 20-period SMA indicates mild bullish bias. Momentum remains muted, and participants appear to be awaiting a catalyst before committing to a clearer trend.\n\nMomentum indicators show a slight bearish tilt in the short term, with MACD printing a marginally negative value, suggesting weakening upside impulse despite price stability. The absence of RSI data limits overbought/oversold confirmation, while the 20-period SMA remains relatively flat, reinforcing a range-bound environment. Overall, directional conviction is low, and signals are conflicting rather than aligned toward a sustained move.\n\nImmediate support is established near the SMA20 at 0.25518, with a secondary floor around 0.2545 where prior intraday reactions have emerged. On the upside, resistance is concentrated at the recent high of 0.2565, followed by a potential extension barrier near 0.2575 if momentum improves. A decisive break above resistance could open room for continuation, while failure to hold support risks a drift back into lower consolidation.\n\nTraders may consider a range-trading approach given the compressed volatility, favoring buy-the-dip near support and partial profit-taking into resistance. Breakout traders should wait for a confirmed close above 0.2565 with expanding volume to validate continuation. Risk management remains essential, with tight stops below 0.2545 for longs and above 0.2575 for shorts. Until volatility expands, scalping conditions are more favorable than swing positioning."
+    }
+  }
+}

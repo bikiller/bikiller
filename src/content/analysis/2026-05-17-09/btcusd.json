@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-17T09:43:48.160Z",
+  "price": {
+    "close": "78081.09",
+    "high": "78125.99",
+    "low": "78031.9",
+    "open": "78058.18",
+    "change": "0.03",
+    "datetime": "2026-05-17 09:00:00"
+  },
+  "indicators": {
+    "rsi": 42.73518,
+    "macd": -167.4804,
+    "macd_signal": -228.98193,
+    "sma20": 78091.773
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：窄幅震荡整理",
+      "content": "当前BTC/美元处于极窄区间震荡格局，价格围绕78000上下徘徊，多空力量暂时均衡，市场缺乏明确方向，整体呈现横盘整理特征。\n\nSMA20在78091附近，现价略低于均线，短期偏弱；MACD为负值显示动能不足，空头略占优势，但波动率极低，趋势信号仍不明确。\n\n下方支撑关注78030附近前低区域，上方阻力在78130及78200一线，若放量突破将打破当前微幅震荡区间并形成短线方向。\n\n操作上建议高抛低吸为主，未有效突破前避免追涨杀跌，止损可设于区间外，等待放量确认方向后再顺势跟随交易。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 78081.09\\n- 24h Change: 0.03%\\n- High/Low: 78125.99 / 78031.9\\n- RSI(14): N/A\\n- MACD: -167.48040, Signal: N/A\\n- SMA(20): 78091.77300\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin continues to trade in a tight consolidation phase, with price action hovering just above its short-term mean. The broader structure still reflects a controlled uptrend rather than distribution, as the market repeatedly defends higher lows following the prior impulsive advance. However, momentum is clearly flattening, suggesting equilibrium between buyers and sellers. The current range-bound behavior indicates accumulation-like conditions, but without a decisive breakout, directional conviction remains limited in the short term.\n\nFrom an indicator perspective, the picture is mixed but slightly cautious. Price is sitting just under the 20-period SMA at $78,091.77, signaling a mild struggle to sustain upside momentum. The MACD reading of -167.48 reinforces this, indicating bearish momentum divergence despite minimal price volatility. With RSI unavailable, momentum confirmation is incomplete, but MACD weakness suggests upside strength is fading. This divergence often precedes either a short corrective dip or continued sideways compression.\n\nKey structural levels remain well-defined. Immediate support is located near $78,000, aligned with the current trading floor, followed by a deeper buffer around $77,500 if selling pressure increases. On the upside, resistance is concentrated at $78,200–$78,300, where repeated rejections have occurred. A breakout above this zone would be required to re-establish directional bullish continuation and open a path toward prior local highs.\n\nTrading conditions favor a range-based strategy rather than aggressive trend positioning. Short-term traders may consider fading resistance near $78,300 with tight risk controls, while dip-buying closer to support remains viable if momentum stabilizes. A confirmed close above resistance would shift bias back toward bullish continuation, while a breakdown below $77,500 would likely trigger a short-term corrective phase."
+    }
+  }
+}
