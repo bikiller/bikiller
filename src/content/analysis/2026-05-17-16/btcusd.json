@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-17T16:53:54.565Z",
+  "price": {
+    "close": "78034.62",
+    "high": "78163.44",
+    "low": "78010.2",
+    "open": "78012.91",
+    "change": "0.03",
+    "datetime": "2026-05-17 16:00:00"
+  },
+  "indicators": {
+    "rsi": 42.26225,
+    "macd": -88.19278,
+    "macd_signal": -114.65062,
+    "sma20": 78104.387
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，观望为主",
+      "content": "当前比特币价格在78034.62附近波动，24小时涨幅仅0.03%，显示市场短期动能有限。从日内高低点（78163.44/78010.2）来看，多空力量较为均衡，价格在SMA(20) 78104.387附近徘徊，表明短线趋势偏向盘整。\n\nMACD指标为-88.19，且Signal未明确，显示近期空头略占优势，但缺乏明确转向信号。RSI数据缺失，无法判断超买超卖状态，因此需结合价格行为和成交量来观察潜在反弹或回调压力。\n\n技术支撑位初步在78010附近，若跌破该水平，可能测试77900-77850区域；阻力位在78160附近，突破后上行空间有限，可关注78250阻力带。短期内价格容易在支撑与阻力区间震荡。\n\n交易策略上，建议以观望为主，避免追高。若价格回落触及支撑且出现反弹信号，可尝试小仓位多单布局；若上行突破阻力且伴随成交量放大，则可考虑顺势跟进。整体保持风险控制，短线操作应灵活应对震荡行情。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a mild consolidation around the $78,000 level, showing minimal movement within a narrow daily range. The latest price of $78,034.62 sits slightly below the 20-day simple moving average at $78,104.39, indicating that short-term momentum is relatively neutral. The high/low spread of just over $150 suggests limited volatility, often a precursor to a breakout. Traders should note that sustained movement above the SMA could signal the resumption of bullish pressure, while rejection may lead to further sideways behavior.\n\nThe MACD at -88.19 suggests bearish momentum is present, albeit without a corresponding signal line for confirmation. The absence of the RSI value limits clarity on overbought or oversold conditions, but the MACD reading implies a cautious approach for long positions. If the MACD begins to converge towards zero, it could signal an impending bullish crossover. Until then, traders may prefer range-bound strategies or partial positions, reducing exposure during this period of indecision.\n\nKey support levels are currently around $78,010, the day’s low, and the psychologically significant $78,000 mark. Resistance appears near $78,163, just below the SMA, and more robust resistance could emerge closer to $78,500–$78,600. Observing price reactions at these levels will be critical; failure to hold support may trigger deeper retracements, whereas a breach above resistance could open the path toward renewed upward momentum, attracting short-term momentum traders.\n\nFrom a trading perspective, cautious long entries may be considered on dips near support, with tight stop losses to mitigate downside risk. Breakout traders might wait for decisive closure above the $78,163 resistance before committing. Overall, the current technical setup reflects a market in equilibrium, suggesting that patience and confirmation are essential. Momentum-driven strategies should be applied carefully, emphasizing risk management and monitoring for early signs of trend continuation or reversal."
+    }
+  }
+}
