@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-17T13:10:58.941Z",
+  "price": {
+    "close": "78263.45",
+    "high": "78333.99",
+    "low": "78252.9",
+    "open": "78332.38",
+    "change": "-0.09",
+    "datetime": "2026-05-17 13:00:00"
+  },
+  "indicators": {
+    "rsi": 48.94497,
+    "macd": -63.56257,
+    "macd_signal": -141.069501,
+    "sma20": 78136.4415
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理",
+      "content": "当前BTC在78200附近窄幅震荡，整体呈高位整理结构，动能明显放缓，短线多空拉锯，市场缺乏明确突破方向，偏向震荡整理格局。\n\nSMA20位于78136，价格略上运行但优势有限，MACD柱值为负显示短期动能偏弱，缺乏放量上攻信号，技术面略显中性偏空。\n\n上方阻力关注78334前高区域，下方支撑在78136及78000整数关口，若跌破或将测试更低区间，反之突破则延续上行。\n\n操作上建议短线观望或高抛低吸，突破78350可轻仓跟多，跌破78100则谨慎偏空，控制仓位并设置止损以防快速波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $78,263, showing minimal movement over the last 24 hours with a slight decline of 0.09%. The price remains just above the 20-period simple moving average at $78,136, indicating a tentative short-term bullish bias. The narrow trading range between $78,252 and $78,334 suggests consolidation, reflecting market indecision. Traders should note that while momentum appears muted, this tight range often precedes a breakout, either upwards or downwards, depending on incoming volume and market sentiment.\n\nThe MACD reading of -63.56 indicates bearish momentum despite the small price change, signaling that short-term downward pressure exists. The absence of the signal line and RSI data limits confirmation, but the negative MACD suggests that sellers have been slightly dominant in recent trading. This divergence between the price hovering near the SMA and negative MACD points to potential short-term oscillations, where price might retest support before deciding on the next directional move.\n\nKey technical levels to monitor include immediate support near $78,100, derived from the SMA buffer and recent intraday lows, and resistance around $78,350, aligned with the 24-hour high. A break above this resistance could open the path toward $78,500-$78,700, while a breach of support could accelerate a short-term correction toward $78,000. Volume patterns around these levels will be crucial for validating the strength of either breakout or breakdown.\n\nFor traders, a cautious approach is advised. Long positions could be considered on a confirmed bounce above $78,200 with tight stops below $78,100, while short entries may be suitable if the price decisively breaks below support. Given the narrow consolidation and muted volatility, swing traders might prefer waiting for clearer signals, while scalpers can exploit micro-movements around the SMA and intraday highs/lows. Patience and adherence to risk management remain key in this environment."
+    }
+  }
+}
