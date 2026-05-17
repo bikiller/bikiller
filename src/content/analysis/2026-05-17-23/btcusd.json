@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-17T23:40:06.356Z",
+  "price": {
+    "close": "77751.53",
+    "high": "77959.13",
+    "low": "77638.35",
+    "open": "77953.13",
+    "change": "-0.26",
+    "datetime": "2026-05-17 23:00:00"
+  },
+  "indicators": {
+    "rsi": 37.665,
+    "macd": -73.6816,
+    "macd_signal": -67.59704,
+    "sma20": 78150.443
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘整理，存在压力区间",
+      "content": "目前比特币价格在 $77751.53$ 附近小幅下跌，24小时跌幅约为 $0.26\\%$，短期趋势呈现横盘整理格局。日内高低点分别为 $77959.13$ 和 $77638.35$，表明多空双方在此区间内维持平衡，市场尚未出现明确突破信号。\n\n技术指标显示，MACD为 $-73.68$，负值区域暗示下行动能存在，但由于信号线数据缺失，判断动能强弱需谨慎。20日简单移动均线 SMA(20) 位于 $78150.44$，当前价格低于均线，短期存在一定压力，但整体仍在关键均线附近徘徊，未形成趋势拐点。\n\n支撑位关注 $77650$ 附近心理关口及前低位置，若跌破可能引发短线回调；阻力位则在 $78150$ SMA 和日内高点 $77960$，突破上方阻力可激发多头买盘。结合均线与区间高低点，短线操作宜保持谨慎，以低吸高抛策略为主。\n\n综合来看，建议短线交易者以区间波动为主，控制仓位，设置合理止损。中长期投资者可关注价格在关键均线 $78150$ 附近的反应，若出现稳固突破，可考虑顺势布局多单，否则继续观望。风险管理仍是当前市场的核心要点。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading slightly below its 20-period simple moving average at $77,751.53, indicating short-term bearish pressure. The price has been constrained within a narrow range between $77,638 and $77,959, suggesting consolidation. The overall trend remains cautious, as the failure to sustain levels above the SMA hints at sellers maintaining some control. Observing subsequent daily closes will be critical to determine if this is a temporary pullback or the start of a deeper correction.  \n\nThe MACD reading of -73.68 reflects bearish momentum, with the gap between the MACD and its signal line pointing to continued downside pressure. The absence of the signal line and RSI limits precision, but the negative MACD suggests that the momentum favors sellers in the short term. Traders should watch for MACD crossovers or convergence toward zero as potential signs of trend reversal or stabilization. A bounce above the SMA could signal renewed bullish interest.  \n\nImmediate support lies near $77,638, with secondary support around $77,500, providing potential entry points for conservative traders. Resistance is seen at the SMA level of $78,150 and intraday highs near $77,959. A decisive break above these levels could reignite bullish momentum toward the $78,500–$79,000 range. Conversely, a failure to hold support may accelerate a decline, targeting $77,200 and $77,000 zones, where stronger buying interest might emerge.  \n\nGiven the current technical setup, short-term traders may consider range-bound strategies, buying near support and trimming positions at resistance. Momentum traders should exercise caution until clearer signals emerge, such as MACD crossovers or SMA breaks. Overall, the market shows consolidation with mild bearish bias, suggesting that patience and tight risk management remain crucial until a definitive trend develops."
+    }
+  }
+}

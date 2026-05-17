@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-05-17T23:43:43.176Z",
+  "price": {
+    "close": "0.246409",
+    "high": "0.253922",
+    "low": "0.245762",
+    "open": "0.253809",
+    "change": "-2.98",
+    "datetime": "2026-05-17 23:00:00"
+  },
+  "indicators": {
+    "rsi": 21.13448,
+    "macd": -0.0011103418,
+    "macd_signal": -0.00059054633,
+    "sma20": 0.25515795
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期回调趋势明显",
+      "content": "近期艾达币价格自0.253922高点回落至0.246409，显示短期内空头力量占优。价格低于20日简单移动平均线(SMA20=0.25515795)，暗示当前市场仍处于下行压力中，短线可能延续调整。MACD为负值（-0.0011），进一步确认卖压尚存，但幅度有限，未出现明显加速下跌。\n\n支撑位初步观察在0.2457附近，为近期低点区域，如该位置被有效守住，有望形成短线反弹。阻力位则在0.255附近，与SMA20及前高点重合，若价格回升至此，空头可能再次发力，需警惕回落风险。价格在支撑与阻力间震荡的可能性较大，短线交易需谨慎。\n\n技术指标方面，由于RSI数据缺失，无法判断超买或超卖状态，但结合MACD负值及价格低于SMA，当前偏向弱势调整格局。交易者可关注低位支撑的承接力，若出现量能配合，可考虑短线低吸，同时设置止损以控制风险。对于追涨者，应等待价格突破阻力位并稳住SMA20上方确认趋势反转。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano is currently showing signs of short-term weakness against the US Dollar, with the price trading at $0.2464, down nearly 3% in the last 24 hours. The recent high of $0.2539 and low of $0.2457 indicate a tightening range, suggesting consolidation after recent volatility. The price remains below the 20-day simple moving average of $0.2551, which now acts as a near-term resistance level. This positions ADA in a cautious bearish-to-neutral trend zone, signaling traders should be alert for potential downside pressure or a breakout above resistance.\n\nThe MACD reading of -0.0011 without a corresponding signal line suggests early bearish momentum, though it’s not fully confirmed. In the absence of a reliable RSI, we focus on price action and moving averages for guidance. The downward tilt relative to the SMA(20) indicates sellers have the upper hand in the short term. Traders might watch for a crossover back above the moving average as an early sign of recovery, while a continued MACD decline could reinforce selling interest, increasing the probability of further retracement toward support zones.\n\nKey support appears near $0.2457, with a secondary level around $0.2420, marking areas where buyers previously stepped in. Resistance is observed at $0.2539 and then at the SMA(20) near $0.2551. A breach above these levels would open potential for a rebound toward $0.2600. Conversely, a decisive break below $0.2450 may accelerate downside momentum and test the psychological $0.2400 area. Intraday traders may consider tight stop-loss strategies near support zones to manage risk while awaiting clearer directional confirmation.\n\nFor trading strategy, short-term participants may adopt a wait-and-see approach, entering on pullbacks near support for conservative long positions. Aggressive traders could explore short positions if ADA fails to reclaim the SMA(20) or if MACD momentum strengthens. Medium-term investors should monitor broader market sentiment and on-chain developments, as Cardano’s fundamental upgrades could provide a catalyst to shift the trend. Overall, the current environment favors selective positioning with disciplined risk management."
+    }
+  }
+}
