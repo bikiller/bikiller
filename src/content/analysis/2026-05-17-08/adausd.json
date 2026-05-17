@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-05-17T08:59:21.344Z",
+  "price": {
+    "close": "0.255706",
+    "high": "0.256422",
+    "low": "0.255661",
+    "open": "0.256259",
+    "change": "-0.22",
+    "datetime": "2026-05-17 08:00:00"
+  },
+  "indicators": {
+    "rsi": 47.65644,
+    "macd": -0.00077643854,
+    "macd_signal": -0.0012401389,
+    "sma20": 0.2550813
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 艾达币/美元(ADA/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 0.255706\\n- 24小时变化: -0.22%\\n- 高点/低点: 0.256422 / 0.255661\\n- RSI(14): N/A\\n- MACD: -0.00077643854, Signal: N/A\\n- SMA(20): 0.25508130\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"艾达币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "艾达币/美元技术分析：低波动整理中的临界均衡\n\n当前ADA/USD处于极窄幅震荡结构，价格紧贴0.2557附近运行，波动率明显收敛。整体趋势偏中性略弱，多空力量暂时均衡，但从短周期结构看仍偏向下行整理后的横盘修复阶段，缺乏明确突破动能。\n\n技术指标方面，MACD维持负值-0.00077，空头动能仍未完全衰减，说明反弹持续性不足。价格略高于SMA20（0.2551），显示短线存在轻微支撑，但整体均线系统仍偏粘合，趋势性较弱。\n\n支撑位关注0.2550与0.2540区域，该区间为短线多次成交密集带；上方阻力在0.2564及0.2575附近，突破后才可能打开小级别反弹空间，否则仍易回落震荡。\n\n交易策略上建议以区间思路为主，高抛低吸优先。激进者可在支撑附近轻仓试多，止损设于0.2540下方；若跌破支撑则转为顺势短空思路，等待更低位重新确认企稳信号。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Cardano vs US Dollar (ADA/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 0.255706\\n- 24h Change: -0.22%\\n- High/Low: 0.256422 / 0.255661\\n- RSI(14): N/A\\n- MACD: -0.00077643854, Signal: N/A\\n- SMA(20): 0.25508130\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nPrice action remains tightly compressed, with ADA hovering in a narrow consolidation band just above its short-term mean. The SMA(20) at 0.2551 sits slightly below current price, indicating marginal bullish bias within a broader sideways structure. Overall trend remains neutral-to-slightly bearish as repeated failures to sustain momentum above 0.2565 suggest distribution rather than accumulation, keeping the market in a low-volatility equilibrium phase.\n\nMomentum signals reinforce this indecision. MACD is negative at -0.00078, showing bearish momentum is still present but weakening rather than accelerating. With RSI unavailable, price structure becomes the primary guide, and current behavior resembles a corrective drift rather than a trending impulse. Historically, such MACD flattening near support often precedes either a reversal attempt or continuation of range-bound compression.\n\nImmediate support is concentrated at 0.2548–0.2550, aligning with recent lows and the psychological round zone. A sustained break below this area exposes 0.2520, followed by a deeper liquidity pocket near 0.2480. On the upside, resistance sits at 0.2565, with stronger supply near 0.2590–0.2620 where prior rejections occurred. A clean break above 0.2620 would be required to confirm bullish continuation.\n\nFrom a trading perspective, conditions favor range strategies over breakout positioning. Buying near support with tight risk control below 0.2545 offers favorable asymmetry, targeting 0.2590 as the first objective. Conversely, failure to hold support would shift bias toward short setups aiming for 0.2520. Until volatility expands, disciplined mean-reversion tactics remain more efficient than directional conviction trades."
+    }
+  }
+}
