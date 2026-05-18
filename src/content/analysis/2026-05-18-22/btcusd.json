@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-18T22:16:53.141Z",
+  "price": {
+    "close": "77080",
+    "high": "77113.41",
+    "low": "76974.12",
+    "open": "77043.32",
+    "change": "0.05",
+    "datetime": "2026-05-18 22:00:00"
+  },
+  "indicators": {
+    "rsi": 50.2966,
+    "macd": -208.73372,
+    "macd_signal": -290.11965,
+    "sma20": 76831.611
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多整理",
+      "content": "当前BTC/USD价格维持在77080附近，接近20日均线SMA(20) 76831.611，显示短期支撑稳固。价格在日内高低点77113.41/76974.12之间小幅波动，市场暂未形成明显突破趋势，多空力量相对均衡。  \n\nMACD处于-208.73372，虽然缺少信号线对比，但负值表明空头动能尚存，短期上行动力有限。缺少RSI数据使超买超卖判断受限，但价格紧贴均线，暗示市场可能在整理中蓄势，等待进一步方向确认。  \n\n技术支撑位可关注76830区域，若跌破可能触发更深调整；阻力位在77150-77200附近，突破后有望挑战更高水平。日内价格若持续围绕均线震荡，则维持偏多策略，谨慎追高，防止回调风险。  \n\n交易策略上，可采取低吸高抛方式，逢低接近76830考虑小仓建多，止损设置略低于支撑位；若价格突破阻力位且伴随成交放量，可逐步加仓追多。整体来看，短线仍以震荡偏多为主，建议密切关注价格对均线和阻力位的反应，以灵活调整仓位。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a mild bullish consolidation around the $77,080 mark, with price action hovering slightly above the 20-period simple moving average at $76,832. The narrow range between the 24-hour high and low ($77,113/$76,974) suggests indecision, with neither buyers nor sellers exerting strong control. This consolidation near the SMA indicates that short-term momentum could be building for a potential breakout, although the absence of an RSI reading makes momentum confirmation less certain.\n\nThe MACD reading of -208.73, with no signal line available, hints at a recent bearish crossover influence lingering on the short-term chart. Traders should treat this cautiously, as the negative MACD reflects selling pressure but not necessarily immediate continuation. The flat 24-hour price change of 0.05% reinforces the sideways movement, suggesting that any directional shift will likely depend on a breakout from current support or resistance zones rather than trend persistence.\n\nKey support is likely near the recent low at $76,974 and slightly below at the SMA level of $76,832, providing a buffer against sudden dips. Resistance is concentrated around the 24-hour high of $77,113, with a more robust zone near $77,300 to $77,500, where previous swing highs have acted as barriers. A decisive breach above these resistance levels could signal a short-term bullish acceleration, while failure to hold support could invite renewed selling pressure toward $76,500.\n\nFor trading, a cautious approach is advisable: intraday traders may look for breakout entries above $77,113 with tight stop-losses just below the SMA, while swing traders could consider accumulation near support, targeting the resistance band. Given the muted volatility and mixed signals from the MACD, risk management is essential, and a clear trend confirmation should precede larger position commitments to avoid whipsaw losses."
+    }
+  }
+}
