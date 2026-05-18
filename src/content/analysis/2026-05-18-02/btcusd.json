@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-18T02:52:30.373Z",
+  "price": {
+    "close": "76750",
+    "high": "77176",
+    "low": "76739.48",
+    "open": "77068.04",
+    "change": "-0.41",
+    "datetime": "2026-05-18 02:00:00"
+  },
+  "indicators": {
+    "rsi": 23.67878,
+    "macd": -285.51349,
+    "macd_signal": -150.61618,
+    "sma20": 77967.452
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期偏弱震荡调整",
+      "content": "近期比特币价格在$76750附近维持波动，日内跌幅约0.41%，显示短线承压迹象。价格未能站稳20日均线$77967，形成明显下行压力，市场整体趋势呈现偏弱震荡，短期多头力量略显不足。\n\nMACD指标目前为-285.51，虽缺少信号线数据，但负值区显示空方动能仍在延续，短期可能延续调整节奏。RSI缺失，无法提供超买超卖参考，但结合均线压力，可推测短线偏弱情绪占优。\n\n关键支撑位首先在$76739附近，若该水平失守，可能进一步测试$76000整数关口；阻力位主要集中在20日均线$77967及近期高点$77176，突破阻力才可能重启上行趋势。投资者应密切关注价格对均线的反应。\n\n交易建议上，短线可考虑逢高减仓或观望，等待明确突破信号后再布局。激进交易者可在支撑位附近尝试小额多单，但需设置严格止损以防快速下行。中长期仍需关注市场情绪及宏观因素对比特币波动的影响。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s recent price action suggests a subtle bearish bias. Trading at $76,750, it remains below the 20-period simple moving average of $77,967, highlighting a short-term downward trend. The 24-hour range shows limited volatility, with a high of $77,176 and a low near $76,739, indicating consolidation. Despite the minor decline of -0.41%, the lack of a fully calculated RSI suggests momentum readings are incomplete, but price behavior relative to SMA hints at potential pressure on bullish positions.  \n\nThe MACD reading of -285.51, without a visible signal line, implies negative momentum, reinforcing caution for long entries. When MACD values remain significantly negative, it often indicates that bearish forces outweigh buying pressure, even if the market is sideways. Traders should monitor for a MACD crossover above zero or a rising trend in histogram bars as potential early signs of reversal. Until then, sustaining positions above $76,700 remains critical to avoid deeper pullbacks.  \n\nKey support lies around $76,700, aligning with recent intraday lows, providing a short-term floor for defensive traders. On the upside, immediate resistance sits near $77,950–$78,000, where the SMA intersects and prior highs create a supply zone. Breaching this level could shift the trend toward recovery, while a breakdown below support might target $76,200–$76,000. These zones provide clear reference points for stop-loss placements and intraday trading adjustments.  \n\nFrom a trading perspective, caution is warranted. Short-term traders may consider range-bound strategies, buying near support and scaling out near resistance, while momentum traders might wait for confirmation from MACD or SMA alignment. Risk management is essential, as sudden volatility spikes could trigger sharp retracements. Overall, BTC/USD exhibits consolidation within a slightly bearish short-term framework, requiring vigilance for both reversals and breakdown scenarios."
+    }
+  }
+}
