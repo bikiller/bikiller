@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-18T12:49:32.545Z",
+  "price": {
+    "close": "77680.78",
+    "high": "77764.28",
+    "low": "77222.75",
+    "open": "77238.52",
+    "change": "0.57",
+    "datetime": "2026-05-18 12:00:00"
+  },
+  "indicators": {
+    "rsi": 54.47079,
+    "macd": -253.91457,
+    "macd_signal": -309.20451,
+    "sma20": 77387.0165
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "目前比特币价格位于77680.78美元附近，较20日均线SMA(20)=77387.02略高，显示价格仍处于均线支撑之上，短期多头趋势仍存在。价格24小时内小幅上涨0.57%，说明市场买卖力量相对平衡，但多头略占优势。\n\nMACD指标显示快线位于-253.91，虽然未给出信号线，但负值且位于零轴下方，表明市场动能偏弱，需警惕反转风险。缺少RSI数据时，需关注价格对均线和关键支撑位的反应，以确认潜在超买或超卖情况。\n\n近期支撑位可关注77220附近低点，以及SMA(20)77387水平，若跌破这些区域可能引发短期回调。阻力位上方则在77764高点附近，如价格持续突破该区域，多头力量可能加强，进一步上探78000整数关口。\n\n交易策略上，短线可考虑在支撑附近低吸，止损设置略低于SMA(20)或77200；短期获利目标可设在77750-78000区间。同时，谨慎观察成交量变化及MACD背离信号，避免追高操作，以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a mild upward bias, hovering near $77,680. The short-term momentum appears steady, supported by the price trading slightly above the 20-period SMA at $77,387, suggesting minor bullish pressure. Intraday swings remain limited, with the daily high at $77,764 and low at $77,222, indicating a consolidation phase. Traders should watch for a breakout above $77,800 for potential continuation, while dips below $77,200 may signal a short-term retracement.\n\nThe MACD reading of -253.91 reflects lingering bearish undertones, despite the small 0.57% price uptick. Without the signal line, the oscillator points to cautious sentiment, implying that upward moves may lack strong conviction. RSI data is unavailable, limiting a clear view of overbought or oversold conditions, but the SMA alignment suggests a modestly bullish posture. Observing momentum indicators alongside volume could provide better clarity on near-term direction.\n\nSupport is likely to form around $77,200, reinforced by recent price lows, while immediate resistance lies near $77,800–$77,900, marking previous intraday highs. A break above this range could target $78,200, whereas a drop under support might test $77,000. The narrow daily range emphasizes that volatility is currently subdued, making breakout and breakdown levels more critical for strategic entries or exits.\n\nFrom a trading perspective, cautious longs could consider small positions near support with tight stop-losses around $77,000, aiming for the $77,800–$78,200 zone. Short-term traders might prefer range-bound strategies, capitalizing on oscillations between the support and resistance levels. Overall, BTC/USD is in a delicate balance, requiring confirmation of momentum and a decisive breach of key levels before committing to larger directional bets."
+    }
+  }
+}
