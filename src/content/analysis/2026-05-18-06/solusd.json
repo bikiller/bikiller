@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-05-18T06:43:14.375Z",
+  "price": {
+    "close": "84.56",
+    "high": "84.94",
+    "low": "84.24",
+    "open": "84.81",
+    "change": "-0.31",
+    "datetime": "2026-05-18 06:00:00"
+  },
+  "indicators": {
+    "rsi": 30.39007,
+    "macd": -0.55207309,
+    "macd_signal": -0.43098463,
+    "sma20": 85.8805
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 84.56\\n- 24小时变化: -0.31%\\n- 高点/低点: 84.94 / 84.24\\n- RSI(14): N/A\\n- MACD: -0.55207309, Signal: N/A\\n- SMA(20): 85.88050\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期震荡偏弱、关键支撑待守\n\n当前价格弱于20日简单移动平均线（SMA20 ≈ 85.88），且24小时微幅下跌，短线趋势偏弱震荡。价格在84附近反复试探未能有效上破，显示多头力度不足，空头压力在高位有所积累。\n\n技术指标上，RSI缺失但MACD为负且尚未给出信号线数据，表明短期动能偏空。若MACD直线持续扩散向下，将加强空方趋势；反之若回转向上，则可能形成短线回弹契机。\n\n关键支撑位关注83.50一带，该处为近期低点附近整数关口，跌破将加速空头；上方阻力在86.50-87.20区间，突破则能短暂修复趋势。中线则需守住80关口以免进一步滑落。\n\n基于当前结构，建议短线交易以区间震荡为主，跌至支撑可考虑低多，但严格止损设在83.20以下；上破阻力确认后再择机进多。中线投资者建议等待明显趋势确认再加仓，控制仓位以防快速波动风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 84.56\\n- 24h Change: -0.31%\\n- High/Low: 84.94 / 84.24\\n- RSI(14): N/A\\n- MACD: -0.55207309, Signal: N/A\\n- SMA(20): 85.88050\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSOL/USD remains under mild bearish pressure after slipping below the 20-day simple moving average at 85.88, signaling weakening short-term momentum. The current price near 84.56 reflects a cautious market tone, with sellers maintaining control after repeated failures to reclaim higher resistance zones. Although the 24-hour decline is limited, price action continues to form lower highs on intraday charts, suggesting that buyers are still hesitant to initiate aggressive long positions until stronger confirmation emerges.\n\nMomentum indicators also favor a defensive stance in the near term. The MACD reading at -0.552 indicates bearish momentum remains active, even without a confirmed signal-line crossover. Meanwhile, the absence of a valid RSI reading reduces visibility into oversold or overbought conditions, making price structure and moving averages more important for directional guidance. Trading below the SMA(20) typically reflects a continuation bias toward consolidation or downside drift unless volume increases alongside a recovery above 86.00.\n\nKey support is developing around the recent session low near 84.24, followed by a stronger psychological and structural zone around 83.50. A decisive break below these levels could accelerate selling pressure toward the 82.00 region. On the upside, immediate resistance appears near 84.90–85.00, while a broader recovery would require sustained movement above the SMA(20) at 85.88. If bulls reclaim that area, momentum could improve quickly and reopen the path toward 87.50.\n\nShort-term traders may prefer a cautious range-trading strategy while volatility remains compressed. Buying near support with tight stop-loss placement below 83.50 could offer favorable risk management if price stabilizes. More conservative participants may wait for confirmation above 85.88 before considering momentum-based long exposure. Conversely, failure to hold the 84.24 support zone may favor short-biased setups, particularly if broader cryptocurrency sentiment weakens further."
+    }
+  }
+}
