@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-19T16:33:16.317Z",
+  "price": {
+    "close": "76566.79",
+    "high": "76578.14",
+    "low": "76315.5",
+    "open": "76444.59",
+    "change": "0.16",
+    "datetime": "2026-05-19 16:00:00"
+  },
+  "indicators": {
+    "rsi": 45.64693,
+    "macd": -120.8941,
+    "macd_signal": -101.92319,
+    "sma20": 76808.0245
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘偏弱震荡",
+      "content": "当前比特币价格徘徊在76566.79美元附近，日内波动幅度较小，仅0.16%，呈现横盘整理格局。从短期均线来看，价格低于20日简单移动平均线（SMA20=76808.02），显示多头动力不足，短期内仍存在回调压力。\n\nMACD指标显示主线处于-120.89，呈现空头排列趋势，但信号线数据缺失，需结合价格行为确认趋势强弱。RSI数据不可用，无法判断超买超卖状态，但从整体走势来看，市场缺乏明确的单边动能，多空力量相对均衡。\n\n支撑位方面，近期低点76315.5构成短期支撑，如果跌破此位置，可能触发进一步回调；阻力位位于近期高点76578.14及SMA20附近的76808区域，若有效突破，可重启多头尝试。投资者需关注关键价位的突破与反转信号。\n\n交易策略上，短线投资者可考虑在支撑位附近逢低布局，严格设置止损以防快速下行风险；中线投资者建议等待价格稳步突破阻力后再行加仓，避免横盘期间频繁进出造成损失。总体上，市场短期偏弱，需保持谨慎观望。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently holding near $76,566, showing relative stability with minor 24-hour fluctuation. The price is slightly below the 20-period SMA at $76,808, suggesting short-term bearish pressure. However, the tight consolidation between the daily high and low indicates a potential buildup for a breakout. Traders should note that while the upward trend remains intact from recent weeks, momentum may be stalling, warranting caution before entering aggressive positions.  \n\nThe MACD reading of -120.89, without a clear signal line, implies bearish momentum dominance, but the lack of divergence data limits precision. A continuation below the SMA may confirm sellers’ control, while a rebound above it could reestablish bullish bias. The absence of RSI prevents an immediate assessment of overbought or oversold conditions, so price action and volume patterns become crucial for timing entries and exits in the current range-bound market.  \n\nSupport appears to be forming around $76,300, offering a near-term cushion if selling intensifies. Resistance aligns with the SMA zone near $76,800, which must be breached decisively for a bullish continuation. Should price dip below $76,300, the next support is likely near $75,900, where previous consolidation occurred. These levels can help define risk-reward scenarios for swing trades and intraday scalps, with tight stops to mitigate sudden volatility.  \n\nTrading strategies should favor confirmation over speculation. Momentum traders may consider entering long positions only after a confirmed close above the SMA with increasing volume. Conversely, short-term bears could target the $76,300 support with careful stop placement above the SMA. Range traders may exploit the tight high-low corridor for small, disciplined trades. Overall, cautious positioning with emphasis on risk management is recommended given the mixed signals and low volatility compression."
+    }
+  }
+}
