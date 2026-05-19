@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-19T02:49:22.370Z",
+  "price": {
+    "close": "76717.01",
+    "high": "76936",
+    "low": "76421.09",
+    "open": "76601.9",
+    "change": "0.15",
+    "datetime": "2026-05-19 02:00:00"
+  },
+  "indicators": {
+    "rsi": 44.30083,
+    "macd": -167.23127,
+    "macd_signal": -218.47084,
+    "sma20": 76813.7605
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多趋势",
+      "content": "当前比特币价格在 $76717.01$ 附近运行，日内波动较小，仅上涨 0.15%，显示市场短期多空力量较为均衡。从价格与 20 日简单移动平均线 (SMA20) $76813.76$ 对比来看，价格略低于均线，意味着短期仍有一定回调压力，但整体多头基础未被破坏。\n\nMACD 指标为 -167.23，尽管信号线未提供，但负值表明短期动能偏弱，需警惕快速下行风险。结合高低点 $76936$ / $76421.09$，当前区间上方阻力在 $76936$ 附近，下方支撑位于 $76400$- $76500$ 区间，突破支撑或阻力将可能引发较大波动。\n\n交易策略上，建议逢低布局短线多单，同时严格设置止损，以防跌破关键支撑触发空头。若价格站稳 $76950$ 以上，可考虑中线追多，保持仓位灵活控制风险。激进交易者可关注区间震荡操作，捕捉短线高抛低吸机会。\n\n总的来看，比特币当前呈短期震荡偏多格局，多空博弈激烈。投资者需关注均线支撑、阻力突破以及MACD变化，结合量能确认行情延续性，制定灵活应对策略，避免单边盲目追涨或杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a narrow range around $76,717, indicating a phase of consolidation following recent volatility. The intraday high at $76,936 and low at $76,421 suggest the market is testing minor resistance and support levels. While the short-term trend appears neutral, the price hovering slightly below the 20-day SMA of $76,813 points to mild bearish pressure. Traders should observe whether the price can decisively break above the SMA, which would signal renewed bullish momentum.  \n\nThe MACD reading at -167.23 implies that downside momentum is still present, despite the lack of a confirmed signal line. This negative divergence hints that sellers have some control, but the absence of a strong directional signal indicates uncertainty. Without an RSI available, relying solely on momentum oscillators is challenging, so traders should monitor volume and price action around key support and resistance for more clarity. The price staying near the SMA could act as a short-term pivot point for traders.  \n\nImmediate support is positioned around $76,400, which aligns with the daily low and provides a buffer against sharper declines. Resistance lies near $76,950–$77,000, where sellers have previously capped rallies. A break above this zone could open the path toward $77,500, while a failure to hold support may push BTC toward $76,000. Range-bound strategies such as scalping near these levels could be effective, while breakouts should be approached with stop-loss discipline to manage risk in either direction.  \n\nFrom a tactical standpoint, cautious traders might wait for confirmation of a breakout above the 20-day SMA or a retest of support before committing. For intraday operations, buying near support with tight stops and selling near resistance remains reasonable. Longer-term holders should watch for broader trend validation, as sideways price action could persist, but a clean breakout with volume could set the stage for a more significant bullish leg. Monitoring correlation with macro factors and market sentiment will also help in anticipating volatility swings."
+    }
+  }
+}
