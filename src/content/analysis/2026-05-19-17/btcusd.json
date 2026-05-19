@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-19T17:29:54.782Z",
+  "price": {
+    "close": "76806.53",
+    "high": "76953.15",
+    "low": "76793.25",
+    "open": "76821.15",
+    "change": "-0.02",
+    "datetime": "2026-05-19 17:00:00"
+  },
+  "indicators": {
+    "rsi": 49.37458,
+    "macd": -89.23147,
+    "macd_signal": -96.50794,
+    "sma20": 76807.224
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘整理偏弱",
+      "content": "近期比特币价格在$76800附近徘徊，日内波动极小，显示市场缺乏明确方向。价格紧贴20日简单移动平均线(SMA20=$76807.22$)，短期均线支撑作用明显，但未能形成明显上行动力，整体趋势呈横盘震荡。\n\nMACD指标显示主线为$-89.23$，处于零轴下方，暗示短期空方力量略占优，但缺少信号线参考，趋势强度不高。RSI缺失数据使超买/超卖判断受限，投资者需结合价格行为及成交量观察支撑压力情况。\n\n关键支撑位在$76750$附近，若跌破可能进一步探底至$76600$区域；阻力位初步在$76950$，若有效突破，将打开$77100$上行空间。价格震荡整理期间，支撑和阻力反复测试，短线操作需谨慎。\n\n交易策略上，建议观望为主，等待突破方向确认后再介入。若持有多单，可在支撑位附近轻量加仓；短线空单可在阻力位附近尝试，但需严格止损。中长线投资者应关注趋势反转信号再做布局，避免追高或盲目加仓。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a largely neutral short-term trend, with its latest price of $76,806.53 hovering almost at the 20-period simple moving average (SMA20) of $76,807.22. The negligible 24-hour change of -0.02% suggests a consolidation phase rather than a strong directional move. Price action within the daily range of $76,793.25 to $76,953.15 indicates market indecision, with neither bulls nor bears asserting clear dominance. Traders should watch for a breakout beyond these levels to confirm the next directional bias.  \n\nTechnical indicators offer a mixed picture. While the Relative Strength Index (RSI) is unavailable, the MACD reading of -89.23 suggests bearish momentum is currently present, even though the absence of a signal line prevents a full crossover analysis. The proximity of price to the SMA20 implies that any significant move above $76,953 could trigger short-term bullish sentiment, whereas a break below $76,793 might intensify selling pressure. Market participants should remain cautious and consider waiting for confirmation before initiating substantial positions.  \n\nSupport and resistance levels are well-defined in the current range. Immediate support lies around $76,793, acting as a floor for consolidation, while resistance near $76,953 caps upward momentum. Beyond these levels, the next major support and resistance zones align with psychological round numbers near $76,500 and $77,200, respectively. Traders may use these zones to place stop-loss and take-profit orders, as price tends to react strongly at these pivot points during periods of low volatility.  \n\nFrom a trading standpoint, short-term strategies could favor range-bound approaches, including scalp or swing trades between $76,793 and $76,953. More conservative traders might wait for a decisive breakout and subsequent retest of support or resistance to enter positions with better risk-reward ratios. Given the narrow daily range and minimal price movement, maintaining tight stop-losses is advisable to manage risk, while any breakout beyond key levels could offer a stronger directional opportunity in either the bullish or bearish scenario."
+    }
+  }
+}
