@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-19T19:21:05.500Z",
+  "price": {
+    "close": "2119.08",
+    "high": "2122.97",
+    "low": "2115.24",
+    "open": "2115.47",
+    "change": "0.19",
+    "datetime": "2026-05-19 19:00:00"
+  },
+  "indicators": {
+    "rsi": 47.9641,
+    "macd": -4.2545,
+    "macd_signal": -4.33322,
+    "sma20": 2123.145
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期整理偏多震荡",
+      "content": "当前以太坊价格在2119.08附近小幅波动，结合24小时最高2122.97与最低2115.24来看，市场短期呈现窄幅整理格局。价格接近20日简单移动平均线（SMA20=2123.145），显示多空力量略显均衡，但短期上行动能有限。  \n\nMACD指标为-4.25450，呈现轻微负值，暗示当前下行压力仍在，但未形成明显空头趋势。RSI数据缺失，需关注后续相对强弱指标变化，以判断超买或超卖状态。技术面整体偏向震荡整理，投资者应避免追高操作。  \n\n关键支撑位在2115附近，如跌破该水平，则可能触发进一步下探；阻力位位于2123-2125区间，突破后短期可能上试2130附近。投资者可在支撑位附近布局低吸，同时在阻力位附近考虑减仓或止盈。  \n\n交易策略建议以波段操作为主，短线可关注回调买入机会，同时设立止损以控制风险。中线持仓者应观察SMA20与MACD的交叉情况，以确认趋势延续性，避免在整理期盲目加仓。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently exhibiting a mild consolidation phase around $2,119, with limited volatility over the past 24 hours. The price is hovering just below the 20-day simple moving average (SMA) of $2,123, signaling potential short-term resistance. While the market lacks strong directional momentum, the narrow daily range of $2,115–$2,123 suggests that traders are awaiting a catalyst before committing to significant moves. Overall, the trend remains slightly bearish to neutral in the immediate term.  \n\nThe MACD reading of -4.254 indicates that bearish pressure still lingers, although the absence of the signal line prevents a full crossover interpretation. Traders should note that a sustained move above the SMA could shift sentiment toward bullish territory, while a decline below recent intraday lows may confirm continuation of the minor downtrend. The lack of a reported RSI complicates momentum assessment, but the price stagnation implies that Ethereum is neither oversold nor overbought at this level.  \n\nKey support is observed near $2,115, with further reinforcement around $2,110, providing a floor for short-term buying interest. Resistance is concentrated at $2,123 and extends toward $2,130, levels that need to be breached for a meaningful upward move. These thresholds offer actionable reference points for traders to set stop-loss or take-profit levels. A break of support could open the door to $2,100, whereas a decisive break above $2,123 may encourage short-term long positions.  \n\nFrom a tactical perspective, range-bound trading could be most effective until clearer trend signals emerge. Short-term traders might consider buying near support with tight stops, targeting $2,123, while more cautious investors could wait for a confirmed SMA breakout or MACD reversal before entering long positions. Risk management is crucial in this low-volatility environment, as sudden news or market events could trigger sharper swings in ETH/USD."
+    }
+  }
+}

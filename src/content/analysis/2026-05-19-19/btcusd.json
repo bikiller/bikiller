@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-19T19:20:20.492Z",
+  "price": {
+    "close": "76892.3",
+    "high": "77002.56",
+    "low": "76728.29",
+    "open": "76728.29",
+    "change": "0.21",
+    "datetime": "2026-05-19 19:00:00"
+  },
+  "indicators": {
+    "rsi": 51.13368,
+    "macd": -66.71338,
+    "macd_signal": -89.07351,
+    "sma20": 76788.8015
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏强，关注关键阻力突破",
+      "content": "BTC/USD当前维持高位窄幅整理，价格运行于76892附近，24小时涨幅有限，显示多空力量暂时均衡。日内高低点区间较小，说明市场情绪偏谨慎，但整体仍保持短线偏强结构，资金承接力度尚未明显减弱。\n\n从技术指标观察，价格稳定在20日均线76788上方，说明短周期趋势仍具支撑意义。MACD维持负值，表明动能尚未完全转强，市场仍处于修复阶段。RSI数据缺失，但结合盘口表现来看，当前并未出现明显超买迹象。\n\n关键支撑位关注76700一线，若跌破可能回测76500区域；上方短期阻力位位于77000附近，突破后有望进一步测试77250至77500区间。当前走势更偏向震荡蓄势，而非单边快速拉升，需关注成交量配合情况。\n\n交易策略方面，激进交易者可依托76700附近尝试低多布局，止损设置于76500下方；稳健者则建议等待有效突破77000后顺势跟进。由于MACD尚未形成明显金叉，短线追高仍需控制仓位与风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 76892.3\\n- 24h Change: 0.21%\\n- High/Low: 77002.56 / 76728.29\\n- RSI(14): N/A\\n- MACD: -66.71338, Signal: N/A\\n- SMA(20): 76788.80150\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBitcoin is currently consolidating in a tight range near 76.8k, showing a mild upward bias with price holding just above the 20-period SMA at 76,788.80. This positioning suggests short-term equilibrium rather than a strong breakout or breakdown. The broader structure remains range-bound between roughly 75k–77k intraday, with momentum cooling after recent volatility. Overall trend is neutral-to-slightly bullish as price continues to defend short-term moving average support.\n\nMACD reading at -66.71 indicates lingering bearish momentum, but the histogram appears to be flattening, hinting at weakening downside pressure. Without a visible signal line value, confirmation is incomplete, yet the negative MACD still implies caution for bulls. Recent price action shows buyers stepping in near local lows, but conviction remains limited. Traders should treat rallies as corrective unless MACD begins turning upward with stronger momentum confirmation.\n\nImmediate support sits around 76.7k–76.5k, aligning with the recent session low of 76,728 and nearby liquidity zones. Below that, a deeper support cluster is expected near 75k, which has previously acted as a structural demand area. On the upside, resistance is forming near 77k–77.2k, with a stronger barrier around 78k where supply pressure has historically increased. A clean break above 77.2k would open room for trend continuation.\n\nFrom a trading perspective, range strategies remain more favorable than breakout chasing in current conditions. Buying near support with tight stops below 76.5k can be considered, while partial profit-taking near 77k–77.2k is prudent. Aggressive traders may wait for a confirmed breakout above resistance before positioning for a move toward 78k+, while failure to hold 76.5k could trigger a deeper retracement toward mid-75k levels."
+    }
+  }
+}
