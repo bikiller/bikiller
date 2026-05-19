@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-19T05:14:30.091Z",
+  "price": {
+    "close": "76819.85",
+    "high": "76880",
+    "low": "76798.2",
+    "open": "76855.3",
+    "change": "-0.05",
+    "datetime": "2026-05-19 05:00:00"
+  },
+  "indicators": {
+    "rsi": 47.44486,
+    "macd": -137.9686,
+    "macd_signal": -186.35503,
+    "sma20": 76783.59
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，偏向多头支撑",
+      "content": "目前比特币价格在 $76819.85 附近小幅震荡，日内波动幅度有限，显示市场短期观望情绪浓厚。价格略高于20日简单移动平均线SMA(20) $76783.59，表明多头仍占优势，但上涨动能有限。MACD处于负值区间，暗示上行动力尚未完全释放，需关注后续指标变化。\n\n从支撑与阻力角度分析，近期主要支撑位在 $76750~$76780 区间，若价格回落至该水平有望获得承接；阻力位则在 $76880~$76950 附近，突破该区间可能引发短线反弹。投资者应注意高低点波动对趋势判断的影响，以防快速回调。\n\n技术指标显示市场短期可能维持窄幅震荡。尽管RSI未提供，但结合价格与SMA走势，多头偏好依然存在。若MACD快线逐渐靠近信号线，可能带来趋势加速信号，投资者应关注成交量配合以确认突破有效性。\n\n交易策略上，建议稳健投资者可在支撑位附近轻仓做多，止损设在下方关键支撑略下方，激进操作可等待价格突破阻力位确认后顺势跟进。同时避免追高，密切监控市场情绪与关键指标变化，以控制风险并把握短期机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action around $76,819 shows a very narrow intraday range between $76,798 and $76,880, suggesting consolidation. The market appears neutral with no clear directional momentum, reflected in the tiny 24-hour change of -0.05%. The current SMA(20) at $76,783 is slightly below price, indicating mild short-term bullish bias, but the negligible deviation implies traders are waiting for a breakout or a fresh catalyst to drive a trend.\n\nThe MACD value of -137.97, without a provided signal line, points to continued bearish pressure from a momentum standpoint. While RSI data isn’t available, the lack of decisive price movement suggests the market is not overbought or oversold. Traders should monitor for a crossover or divergence in MACD for confirmation of trend reversal or continuation, as momentum remains subdued and the market could pivot quickly once volume increases.\n\nKey support is likely near $76,783, coinciding with the 20-day SMA, providing a short-term floor for bulls. Immediate resistance sits around the recent high of $76,880. A clear breach above this level could open a run toward $77,200, while a drop below support could see a retest of $76,500. These levels serve as actionable markers for intraday or swing positions, helping manage risk with tight stop-losses just beyond these zones.\n\nTrading strategies should favor cautious entries, focusing on breakout confirmations. Range-bound traders might consider short-term scalps within $76,783–$76,880, while momentum traders should wait for MACD confirmation or a significant volume surge. Given the market’s tight consolidation, patience is essential, as chasing moves in this narrow range carries higher risk. Monitoring for a decisive candle close beyond resistance or support will provide a more reliable entry signal."
+    }
+  }
+}
