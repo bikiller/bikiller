@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-19T14:51:56.787Z",
+  "price": {
+    "close": "76186.72",
+    "high": "76945.17",
+    "low": "76061.12",
+    "open": "76806.71",
+    "change": "-0.81",
+    "datetime": "2026-05-19 14:00:00"
+  },
+  "indicators": {
+    "rsi": 38.42361,
+    "macd": -112.59441,
+    "macd_signal": -93.49803,
+    "sma20": 76835.067
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期承压整理偏弱震荡",
+      "content": "当前比特币价格在76186.72美元附近波动，日内下跌0.81%，表明短期市场存在一定抛压。从趋势角度看，价格低于20日均线SMA(20)=76835.07美元，显示近期多头动力不足，短线呈整理偏弱态势。  \n\n技术指标方面，MACD值为-112.59，仍处于负值区间，暗示空头占优，虽然信号线未显示，但价格动能明显偏弱。缺少RSI数据使超买超卖判断不完整，但均线和MACD组合仍显示短期承压。  \n\n支撑位方面，76000美元附近构成初步支撑，若跌破可能测试75800美元次级支撑；阻力位在76835美元SMA附近和76945美元近期高点，突破需明显成交量配合。交易策略上，短线可考虑逢低小幅试探性多单，但应控制仓位，设置紧密止损；偏空交易者可关注反弹阻力附近布局空单机会。  \n\n整体来看，比特币短期以弱势震荡为主，操作上应以低位承接和高位减仓为主，谨慎跟随趋势，同时关注支撑破位和阻力测试情况，以降低风险暴露。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading slightly below its short-term moving average, indicating a minor bearish bias in the immediate timeframe. The latest price of 76,186.72 reflects a 0.81% decline over 24 hours, and price action remains constrained within the daily high of 76,945.17 and low of 76,061.12. This suggests consolidation, with buyers and sellers testing equilibrium around the 76,000–77,000 range. A clear breakout above 77,000 could signal renewed bullish momentum, while a drop below 76,000 may invite further downside pressure.\n\nTechnical indicators, though partially incomplete, hint at mild bearish tendencies. The MACD stands at -112.59441, signaling downward momentum, although the absence of a signal line reading limits the clarity of crossovers. The SMA(20) at 76,835 reinforces the current resistance zone, as price struggles to maintain levels above this moving average. Traders should monitor the MACD histogram closely for potential trend reversals, especially if it begins to converge toward zero, signaling a weakening of the bearish momentum.\n\nSupport and resistance levels are currently well-defined. Immediate support lies near 76,000, with a stronger buffer at 75,500 in case of a deeper retracement. Resistance is clearly marked at the SMA(20) around 76,835 and a psychological barrier at 77,000. These levels are critical for intraday and swing traders to structure entry and exit points. A failure to hold support may accelerate short-term selling pressure, whereas a successful breach of resistance could validate a bullish continuation.\n\nTrading strategies should focus on patience and risk management. Conservative traders might wait for confirmation above 77,000 before initiating long positions, while aggressive traders could explore short-term dips near 76,000 with tight stop-losses. Given the current consolidation, scalping or range-bound strategies may also be effective. Overall, market sentiment leans slightly bearish, but the narrow trading range and proximity to key moving averages suggest that a decisive move could occur in either direction in the coming sessions."
+    }
+  }
+}
