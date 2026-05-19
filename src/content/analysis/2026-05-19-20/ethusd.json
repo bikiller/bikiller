@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-19T20:20:47.957Z",
+  "price": {
+    "close": "2114.99",
+    "high": "2116.56",
+    "low": "2111.88",
+    "open": "2112.77",
+    "change": "0.10",
+    "datetime": "2026-05-19 20:00:00"
+  },
+  "indicators": {
+    "rsi": 46.013475,
+    "macd": -4.57117,
+    "macd_signal": -4.4588,
+    "sma20": 2121.8045
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：窄幅震荡偏弱",
+      "content": "ETH/USD最新价2114.99，24小时仅涨0.10%，高低点区间压缩在2111.88至2116.56，显示短线波动率明显下降。价格仍低于SMA20的2121.80，说明均线压力尚未突破，整体趋势偏震荡偏弱。\n\nMACD为-4.57117，仍处于负值区域，代表短线动能偏空；Signal缺失使金叉或死叉判断受限。RSI数据不可用，无法确认超买超卖状态，因此当前更应关注价格与均线、区间边界的突破方向。\n\n短线支撑位看2111.88，若跌破该位，可能进一步测试2105至2100区域；上方阻力先看2116.56，强阻力在SMA20附近的2121.80。只有有效站上2122，才有望修复短线弱势结构。\n\n交易上建议保持谨慎，激进者可在2112附近观察企稳信号，止损放在2105下方；若反弹至2117至2122区间但放量不足，可考虑减仓或短空。未突破前，不宜追涨，仓位控制优先。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is showing signs of consolidation around the $2115 level, as the latest price hovers just below the 20-period SMA at $2121.80. The narrow daily range between $2111.88 and $2116.56 suggests a temporary equilibrium between buyers and sellers. While the market lacks momentum indicators like RSI and MACD signals are slightly negative at -4.57, the price remaining close to the SMA indicates a potential short-term sideways trend rather than a decisive breakout or breakdown.  \n\nSupport for ETH/USD appears around $2110, where previous intraday lows have held. Immediate resistance sits near $2122, coinciding with the 20-period SMA. A sustained move above this SMA could trigger bullish momentum, while failure to reclaim it may see the price retest lower support. Given the minimal 24-hour change of 0.10%, traders should watch for volume spikes that could confirm either continuation or reversal patterns.  \n\nMACD in negative territory suggests bearish pressure, but the absence of a signal line prevents full confirmation of a downward trend. The lack of a visible RSI also complicates overbought or oversold interpretations. Traders should be cautious and look for complementary indicators such as stochastic oscillators or short-term EMA crossovers to strengthen entry and exit decisions, particularly if price action approaches the established support or resistance zones.  \n\nFor trading, short-term participants might consider buying on dips near $2110 with tight stops below $2108, while more conservative traders could wait for a clear break above $2122 before entering long positions. On the downside, a decisive drop below $2110 could open the path to $2100, providing an opportunity for short positions with controlled risk. Overall, ETH/USD is in a neutral-to-cautious phase, awaiting a catalyst to define the next directional move."
+    }
+  }
+}
