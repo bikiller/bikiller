@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-19T21:16:28.532Z",
+  "price": {
+    "close": "76945.24",
+    "high": "76973.74",
+    "low": "76892.05",
+    "open": "76953.35",
+    "change": "-0.01",
+    "datetime": "2026-05-19 21:00:00"
+  },
+  "indicators": {
+    "rsi": 52.28165,
+    "macd": -36.82662,
+    "macd_signal": -74.4854,
+    "sma20": 76792.952
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整、趋势待突破",
+      "content": "当前BTC/USD在76945美元附近徘徊，24小时价格几乎持平，显示市场短期多空力量均衡。价格位于20日均线SMA(20)=76792附近略上方，说明整体短期仍略偏多，但缺乏明确趋势延续信号，市场呈盘整震荡格局。\n\nMACD指标显示MACD线为-36.83，信号线数据缺失，但负值暗示市场存在一定下行压力，短期动能偏弱。RSI暂不可用，但结合价格微幅下跌，可判断市场暂未出现超买或超卖情况，波动空间有限，技术面偏中性。\n\n关键支撑位在76892美元附近，若跌破可能引发短线空头加速；阻力位在76973美元上方，突破后有望触发短线多头反弹。价格目前在支撑与阻力区间震荡，操作上应以区间策略为主，避免追高。\n\n交易建议方面，短线可考虑低多高空的策略，关注关键支撑和阻力的突破情况。若价格稳定突破76973上方，可考虑顺势加仓多单；若跌破76892，则需防范空头风险，并可适度减仓或轻仓短空。保持严格止损和风险控制，防止盘整期的反复波动带来损失。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating around the $76,945 level, showing a very narrow intraday range of approximately $81. This suggests a temporary equilibrium between buying and selling pressure, with neither bulls nor bears exerting strong influence. The slight negative change of -0.01% over 24 hours indicates indecision, and traders should be aware that such tight ranges often precede a breakout in either direction. Overall, the short-term trend is neutral, with momentum indicators hinting at a potential shift.\n\nThe MACD value at -36.83 without a signal line reading points toward bearish momentum building, but the absence of recent crossovers means confirmation is pending. The SMA(20) at $76,792 acts as a key dynamic support, currently slightly below price, suggesting the market is hovering above a short-term equilibrium. While the Relative Strength Index is unavailable, monitoring for overbought or oversold conditions will be critical in the coming sessions to assess whether a directional move is imminent.\n\nImmediate support can be identified near the daily low of $76,892, providing a buffer against minor dips. Resistance is located at the high of $76,973, which, if breached decisively, could open the path to retest psychological levels around $77,200–$77,500. Traders should watch for a break of either level to confirm trend direction, as consolidation near the SMA typically precedes more defined price action.\n\nFor tactical positioning, short-term traders might consider buying near support with tight stop-losses to capture minor rebounds, while cautious participants may prefer to wait for a clear breakout above resistance or breakdown below support. Longer-term holders should remain patient, observing macro factors like market sentiment and volume spikes. Risk management is paramount in this tight range, as volatility could accelerate sharply once the market chooses a directional bias."
+    }
+  }
+}

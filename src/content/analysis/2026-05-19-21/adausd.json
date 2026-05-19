@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-05-19T21:20:27.220Z",
+  "price": {
+    "close": "0.249405",
+    "high": "0.249638",
+    "low": "0.2491",
+    "open": "0.249244",
+    "change": "0.01",
+    "datetime": "2026-05-19 21:00:00"
+  },
+  "indicators": {
+    "rsi": 47.065409,
+    "macd": -0.00058347581,
+    "macd_signal": -0.00053191085,
+    "sma20": 0.2501233
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期震荡整理",
+      "content": "当前价格接近0.2494美元，全天波动幅度极小，显示市场处于短期横盘状态。价格略低于20日简单移动平均线(SMA20)0.2501美元，暗示上行动能受限，多空力量较为均衡，短期趋势偏中性。\n\nMACD为-0.000583，表明短期下行动能略强，但尚未形成明确的趋势信号。由于缺乏RSI数据，超买超卖区间难以判断，因此需要关注价格是否突破关键技术位，以确认后续方向。\n\n支撑位初步设在0.2490美元附近，下方如跌破可能触发进一步回调；阻力位在0.2506美元，上方若突破，则有望带动价格回升至0.252美元区域。价格在支撑与阻力之间的震荡特征明显。\n\n交易上建议采取谨慎策略，短线可考虑在支撑附近轻仓做多，遇阻力可适度减仓或观望。若价格稳定突破阻力位，可增加多头布局，但需严格设置止损以控制风险。整体仍偏向震荡整理，耐心观察后续趋势确认。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano (ADA) shows a period of consolidation near $0.2494, reflecting minimal volatility over the last 24 hours. The slight 0.01% change indicates that buyers and sellers are in equilibrium, with no strong directional momentum. Price remains slightly below the 20-day simple moving average (SMA), currently at $0.2501, suggesting a mild bearish bias in the short term. Traders should monitor whether ADA can reclaim this SMA, as holding above it could signal renewed upward momentum.\n\nThe MACD sits at -0.000583, hinting at weak bearish pressure, though the absence of a signal line prevents a definitive crossover interpretation. Without a reliable RSI, it’s challenging to gauge overbought or oversold conditions, but the narrow intraday range between $0.2491 and $0.2496 implies indecision. This could indicate the market is waiting for external catalysts, such as network developments or broader crypto market sentiment, before committing to a clearer trend.\n\nSupport levels are currently around $0.2490, which has historically served as a minor floor, while resistance near $0.2506 aligns with the recent SMA ceiling. A decisive break above this resistance could open the path toward $0.2520, whereas a drop below support may test lower levels near $0.2475. Traders should watch volume trends closely, as a surge would validate breakout attempts, whereas low activity may prolong the sideways movement.\n\nFor short-term trading, cautious range-bound strategies may be appropriate, with buy entries near support and profit-taking near resistance. More aggressive traders could consider SMA-based triggers, entering long positions if ADA closes above $0.2505 on increased volume. Conversely, a confirmed breakdown below $0.2490 could justify short positions, targeting the next support zone. Risk management remains essential given the muted price action and low volatility."
+    }
+  }
+}
