@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-19T18:01:50.777Z",
+  "price": {
+    "close": "76778.22",
+    "high": "76953.15",
+    "low": "76679.25",
+    "open": "76821.15",
+    "change": "-0.05",
+    "datetime": "2026-05-19 17:00:00"
+  },
+  "indicators": {
+    "rsi": 48.89692,
+    "macd": -91.48981,
+    "macd_signal": -96.95961,
+    "sma20": 76793.3095
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "当前比特币价格徘徊在76778美元附近，较昨日微幅下跌0.05%，显示市场短期内仍处于观望状态。从K线结构来看，价格在高点76953美元与低点76679美元之间小幅波动，未形成明确突破信号，短线趋势偏向震荡整理。  \n\n技术指标方面，MACD负值为-91.49，显示多头动能不足，但尚未形成明显死叉，SMA(20)位于76793美元附近，价格紧贴均线运行，意味着短期支撑和阻力较为集中，震荡行情可能延续。RSI未提供，需关注超买超卖区间变化，以便判断潜在反转。  \n\n关键支撑位参考76679美元附近，若跌破该水平，可能引发下方探底；阻力位在76953美元及77050美元附近，多头若突破将可能延续反弹趋势。成交量保持平稳，市场情绪尚未明显偏向多空一方。  \n\n交易建议上，短线可保持低位逢低轻仓多单策略，设置止损于76650美元以下，目标短线关注76950~77050美元阻力区间。中线投资者可等待价格站稳77000美元以上确认趋势再加仓，同时关注宏观和消息面对市场的影响，以降低震荡行情的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $76,778, showing a relatively stable intraday range between $76,679 and $76,953. Price action around the 20-day simple moving average (SMA) at $76,793 suggests consolidation with minimal directional bias. This indicates that neither buyers nor sellers are dominating, creating a neutral short-term environment. Traders should watch for a decisive move above or below the SMA for clues on the next directional push. The negligible 24-hour change of -0.05% reinforces this sideways sentiment.  \n\nFrom a momentum perspective, the MACD at -91.49 reflects slight bearish pressure, though the absence of the signal line limits confirmation of a full trend reversal. RSI data is currently unavailable, but the MACD negative value hints that bears have modest control. Such conditions often precede either a continuation of the consolidation phase or a corrective pullback if selling pressure intensifies. Observing volume behavior around support and resistance levels can provide early indications for breakout or breakdown scenarios.  \n\nImmediate support appears near the recent intraday low at $76,679, followed by a stronger psychological support around $76,500. On the upside, resistance aligns with the high at $76,953, with a more significant hurdle near $77,200, which has historically acted as a congestion area. Traders should consider these levels when planning entries or exits, as minor breaches could trigger short-term momentum swings or stop-loss activations.  \n\nFor trading strategy, conservative participants may prefer waiting for a confirmed breakout above $77,200 to initiate long positions or a breakdown below $76,500 for shorts. Risk management is critical due to Bitcoin’s inherent volatility, so setting stop-losses near key levels is recommended. Momentum traders could exploit smaller oscillations within the $76,600–$76,950 range, while swing traders might focus on a larger breakout or breakdown pattern for more substantial gains."
+    }
+  }
+}
