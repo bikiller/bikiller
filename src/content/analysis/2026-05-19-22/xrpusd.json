@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-05-19T22:43:58.751Z",
+  "price": {
+    "close": "1.3571",
+    "high": "1.35992",
+    "low": "1.35333",
+    "open": "1.35992",
+    "change": "-0.22",
+    "datetime": "2026-05-19 22:00:00"
+  },
+  "indicators": {
+    "rsi": 35.35019,
+    "macd": -0.0077132824,
+    "macd_signal": -0.0064985533,
+    "sma20": 1.37274
+  },
+  "analysis": {
+    "zh": {
+      "title": "瑞波币/美元技术分析：短期偏空震荡",
+      "content": "当前XRP/USD价格位于1.3571，略低于20日均线1.37274，显示短期多头动能不足。价格在近24小时内波动幅度较小，高低点1.35992与1.35333之间，反映市场处于横盘整合阶段，短线趋势偏弱。\n\nMACD指标呈负值（-0.0077），虽然信号线未给出，但负值显示空头力量略占优势，市场存在一定下行压力。RSI未提供，但结合价格与均线关系，可判断短期可能承压，投资者应关注超卖反弹机会。\n\n支撑位初步设在1.3533附近，若跌破则可能进一步测试1.3450；阻力位则在1.3727，突破可视为多头反弹信号。当前价位在支撑与阻力之间震荡，短线操作需谨慎。\n\n交易策略上，可考虑逢低轻仓做多以捕捉短线反弹，若价格跌破支撑则应减仓或观望。建议结合高频成交量和更短期均线辅助判断，避免追涨杀跌，控制风险并设置合理止损。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "XRP/USD is currently hovering around $1.3571, slightly below the 20-day SMA of $1.3727, suggesting a mild bearish sentiment in the short term. The market has been consolidating within a narrow daily range of $1.3533 to $1.3599, reflecting low volatility and potential indecision among traders. This sideways movement near a key moving average may indicate a pause before the next significant directional move, with trend momentum leaning slightly downward given the price’s position below the SMA.\n\nAlthough the RSI value is unavailable, the MACD shows a negative reading of -0.0077, hinting at a bearish bias, although the absence of a signal line makes confirmation difficult. Traders should interpret this as a cautious signal that downside pressure may be present, but momentum is weak, and any sharp movements could quickly reverse. Monitoring for a crossover of MACD below zero could signal further bearish continuation, while any rebound above zero might suggest a short-term recovery.\n\nImmediate support is seen at the daily low of $1.3533, which acts as a short-term floor for price action. Resistance lies around the recent high of $1.3599 and the 20-day SMA at $1.3727. A decisive break above the SMA could signal renewed bullish interest, potentially targeting $1.38 in the medium term. Conversely, a drop below the $1.3533 support may open the path to $1.34 or lower, highlighting the importance of observing how the price interacts with these levels before committing to positions.\n\nFor trading considerations, cautious traders might wait for confirmation of trend direction before entering. Short-term traders could consider range-bound strategies between support and resistance while keeping stop-loss orders tight due to low volatility. More aggressive participants may look for a breakout above the SMA for long positions or a breakdown below $1.3533 for shorts. Overall, XRP/USD currently presents a mixed picture, favoring tactical trades with risk management rather than long-term commitment."
+    }
+  }
+}
