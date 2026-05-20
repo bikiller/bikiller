@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-05-20T23:55:29.100Z",
+  "price": {
+    "close": "86.02",
+    "high": "86.06",
+    "low": "85.77",
+    "open": "85.94",
+    "change": "0.08",
+    "datetime": "2026-05-20 23:00:00"
+  },
+  "indicators": {
+    "rsi": 59.80255,
+    "macd": 0.38907985,
+    "macd_signal": 0.33122447,
+    "sma20": 85.373
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：震荡偏强，短线整理蓄势",
+      "content": "当前SOL价格围绕86美元窄幅震荡，24小时波动极低，市场处于短线整理阶段。整体结构偏强，价格仍运行于SMA20之上，显示多头维持主导，但上行动能暂时放缓，进入蓄势区间。\n\nMACD指标维持0.3890附近的正值，动能柱显示多头延续，但增长斜率趋缓。RSI暂缺数据，但从价格贴近高位来看，短期并未进入明显超买区，动能仍以温和偏多为主。\n\n下方支撑关注85.7与85.3（SMA20）一线，若跌破可能回测84.8区域。上方阻力位于86.1短期高点，进一步突破则看向86.5至87美元区间，需放量确认突破有效性。\n\n交易策略上建议以区间操作为主，低位靠近支撑分批吸纳，高位接近阻力逐步止盈。若出现放量突破86.1，可顺势轻仓跟进，否则维持震荡思路，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "Solana against the US Dollar is currently consolidating in a tight range around 86.02, reflecting a neutral short-term structure with a mild bullish undertone. Price action has been relatively compressed, with a 24-hour range between 85.77 and 86.06, indicating low volatility and equilibrium between buyers and sellers. Despite the lack of directional expansion, the market is holding above key short-term averages, suggesting underlying stability rather than distribution or breakdown.\n\nFrom a technical standpoint, Solana is trading above its 20-period SMA at 85.373, which supports a constructive bias in the short term. The MACD reading at 0.38907985 remains positive, indicating that momentum has not fully faded, although the absence of a signal line reading limits confirmation of a strong crossover structure. RSI is not provided, which reduces overbought or oversold clarity, but price behavior suggests overall neutral momentum conditions with a slight upward lean.\n\nImmediate support is located around 85.77, aligning with the recent session low, followed by a stronger structural base near the 20-SMA at 85.37. A breakdown below this zone could expose a deeper retracement toward the 84.80 region. On the upside, resistance is concentrated at 86.06, the current session high. A decisive break above this level could open a path toward 86.50 and potentially 87.00 if momentum expands.\n\nGiven the current compression, traders may favor range-bound strategies, accumulating near support and reducing exposure into resistance. Breakout confirmation above 86.06 would be required to validate continuation toward higher targets such as 86.50 and 87.00. On the downside, a sustained break below 85.37 would weaken the bullish structure and increase downside risk. Position sizing should remain conservative, as low volatility environments can transition rapidly into expansion phases."
+    }
+  }
+}
