@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-20T10:03:47.433Z",
+  "price": {
+    "close": "77463.51",
+    "high": "77463.51",
+    "low": "77399.04",
+    "open": "77399.04",
+    "change": "0.08",
+    "datetime": "2026-05-20 10:00:00"
+  },
+  "indicators": {
+    "rsi": 62.67954,
+    "macd": 135.92534,
+    "macd_signal": 47.20394,
+    "sma20": 76904.111
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "目前比特币/美元维持在77463.51美元附近，价格微幅上涨0.08%，显示市场短期多空力量相对均衡。从均线角度看，价格高于20日简单移动均线(SMA20: 76904.11)，说明多头仍占上风，但上涨动力有限，需关注均线支撑的可靠性。  \n\nMACD值为135.92534，显示多头动能仍存在，但缺乏信号线和RSI参考，短线趋势延续性存在不确定性。若MACD进一步走高并形成金叉，将有助于确认上涨趋势，而回落至均线附近则可能带来短期调整。  \n\n支撑位主要关注77399-76900美元区间，这一带的均线及前期低点提供防守支撑；阻力位在77650-77800美元附近，若突破阻力，将可能延续多头行情。交易者应谨慎观察价格接近阻力时的承压情况。  \n\n操作上，可考虑在支撑区间轻仓做多，止损设置略低于76900美元；激进交易者可在突破阻力后跟进做多，目标关注78000美元附近。短线操作需严格控制仓位，以应对震荡行情可能带来的快速波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC/USD) is currently consolidating near $77,463, showing minimal movement with a 0.08% 24-hour change. The price hovers slightly above the 20-period Simple Moving Average (SMA) of $76,904, suggesting a mild short-term bullish bias. The tight intraday range of $77,399–$77,463 indicates low volatility, often preceding a breakout or breakdown. Traders should monitor the SMA closely, as holding above this level may encourage continued accumulation by buyers.\n\nMomentum indicators present a mixed picture. The MACD sits at 135.93, though the signal line is unavailable, indicating a potentially early bullish crossover could be forming. Absence of the RSI prevents a precise overbought/oversold assessment, but price stability near the SMA implies neither extreme buying nor selling pressure. This stagnation suggests the market is waiting for a catalyst to drive directional movement.\n\nKey support lies at $77,000, where prior intraday lows have provided a floor, while resistance is observed around $77,800, the recent consolidation ceiling. A breach above this level could trigger a short-term rally, whereas a drop below $77,000 might invite additional selling pressure, potentially testing the $76,500 area. These levels are crucial for framing risk-reward setups in both intraday and swing trading strategies.\n\nGiven the current consolidation and limited momentum data, cautious trading is advisable. Short-term traders may consider entering long positions above $77,500 with tight stops near $77,000, targeting $78,000. Conversely, breakout traders might wait for a decisive move beyond $77,800 or below $77,000 for more defined directional trades. Overall, maintaining discipline and adhering to support/resistance thresholds is essential in this narrow-range environment."
+    }
+  }
+}
