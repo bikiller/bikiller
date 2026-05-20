@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-20T16:33:29.289Z",
+  "price": {
+    "close": "77008.71",
+    "high": "77487.9",
+    "low": "76924.87",
+    "open": "77377.03",
+    "change": "-0.48",
+    "datetime": "2026-05-20 16:00:00"
+  },
+  "indicators": {
+    "rsi": 48.46206,
+    "macd": 118.92787,
+    "macd_signal": 115.41252,
+    "sma20": 77064.2605
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱整理",
+      "content": "目前比特币价格在77008美元附近震荡，接近20日均线SMA(20) 77064美元，显示短期多空力量处于均衡状态。价格在过去24小时微跌0.48%，未出现明显突破，高低点区间有限，说明市场缺乏强烈趋势。\n\nMACD指标目前为118.93，虽然信号线未提供，但MACD仍在正值区域，显示中期仍有多头动能支撑。然而，RSI缺失无法判断超买超卖情况，短期价格可能延续盘整态势，震荡幅度有限。\n\n支撑位方面，下方关键支撑集中在76925美元附近，如果跌破可能引发短期回调压力。阻力位位于77488美元，高点区域承压明显，多头需突破该区域才能确认上行延续。投资者应关注关键支撑和阻力的有效性。\n\n交易建议上，建议短线操作以区间震荡为主，逢低买入谨慎跟进，逢高可考虑部分获利了结。风险管理方面，止损可设在76900美元下方，避免突发波动导致损失，同时关注市场消息面和大额资金动向以辅助判断。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a short-term consolidation phase near $77,000, trading slightly below the 20-day simple moving average of $77,064. The price action suggests indecision, with a minor 24-hour decline of 0.48%. This sideways movement indicates that buyers and sellers are evenly matched at this level, making the next directional move dependent on breaking key support or resistance zones. Traders should closely monitor for potential accumulation or distribution patterns forming around the current price.\n\nMomentum indicators are giving mixed signals. The MACD shows a positive reading of 118.93, implying underlying bullish momentum; however, the absence of the signal line limits confirmation of a trend shift. The RSI is unavailable, making it difficult to gauge overbought or oversold conditions. Overall, momentum favors buyers slightly, but caution is warranted due to the lack of corroborating signals. Short-term fluctuations could test both the upper and lower boundaries of the recent trading range.\n\nSupport and resistance levels are clearly defined by recent highs and lows. Immediate support is located around $76,925, a level that has previously acted as a floor for price action. Resistance is near $77,488, which represents the 24-hour high and a potential barrier to upward momentum. A break above this resistance could signal a resumption of bullish trends, while a drop below support may trigger further downside pressure toward psychological levels around $76,500.\n\nFrom a trading perspective, a cautious approach is advisable. Range-bound strategies like scalping between support and resistance may be effective in the current consolidation. For trend-following traders, waiting for a confirmed breakout above $77,500 or a breakdown below $76,900 could offer clearer entries. Risk management remains critical, with stop-loss placements just outside the established support/resistance to minimize exposure in case of sudden volatility."
+    }
+  }
+}
