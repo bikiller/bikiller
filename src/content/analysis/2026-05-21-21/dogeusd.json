@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-21T21:29:18.728Z",
+  "price": {
+    "close": "0.10563",
+    "high": "0.10567",
+    "low": "0.10548",
+    "open": "0.10558",
+    "change": "0.06",
+    "datetime": "2026-05-21 21:00:00"
+  },
+  "indicators": {
+    "rsi": 57.069625,
+    "macd": 0.00032001733,
+    "macd_signal": 0.00025510824,
+    "sma20": 0.1051045
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期横盘震荡趋势",
+      "content": "当前狗狗币价格维持在0.1056附近，日内波动幅度极小，显示市场短期多空力量相对均衡。价格略高于20日均线0.1051，表明短期仍存在微弱支撑，但缺乏明显上涨动能。\n\nMACD处于0.00032正值，但信号线数据缺失，无法确认完整趋势；RSI指标不可用，使动能分析存在不确定性。综合来看，多头力量略占优势，但整体走势仍偏平稳，需关注指标补充完整后的变化。\n\n支撑位初步可参考0.1051的20日均线和近期低点0.10548，若价格跌破则可能触发短线抛压；阻力位在0.10567高点附近，突破该价位需配合成交量放大，否则难以形成延续性上涨。\n\n交易上，建议短线以区间操作为主，低位可考虑小仓位试探多单，高位谨慎减仓或等待明确突破信号。若MACD和RSI指标更新后出现确认信号，可适度跟随趋势调整持仓策略。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin (DOGE) is currently exhibiting a consolidative behavior around the $0.1056 mark, suggesting market indecision after a period of minor gains. The narrow daily range between $0.10548 and $0.10567 highlights low volatility, which typically precedes either a breakout or a retest of key levels. From a trend perspective, DOGE seems to be maintaining a slight bullish bias as the current price is above the 20-day simple moving average of $0.1051, indicating short-term upward momentum.\n\nTechnical indicators offer mixed insights. The MACD reading of 0.00032, without a corresponding signal line, implies that bullish momentum exists but is weak and not yet fully confirmed. The absence of RSI data prevents a clear view of overbought or oversold conditions, but given the minimal 24-hour price change of 0.06%, it’s reasonable to assume the market is neutral, with neither buyers nor sellers exerting strong pressure.\n\nImmediate support is likely around $0.1051, coinciding with the SMA(20), while resistance appears near $0.1060, marking the recent intraday high. A decisive break above this resistance could signal a continuation toward $0.107–$0.108, whereas a fall below the support level may expose DOGE to further consolidation or a minor retracement toward $0.1045. Traders should monitor volume closely, as a breakout with strong volume would provide higher confidence in directional moves.\n\nFor trading considerations, a cautious approach is advised. Short-term traders might consider entering long positions if DOGE breaks and sustains above $0.106 with confirmatory momentum, while stop-loss levels could be set just below $0.1051 to manage risk. Conversely, if bearish pressure emerges below support, short positions with tight risk management could be appropriate. Maintaining flexibility and watching for volatility expansion will be key in navigating the current range-bound environment."
+    }
+  }
+}
