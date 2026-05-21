@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-21T07:45:44.193Z",
+  "price": {
+    "close": "77620.6",
+    "high": "77628.29",
+    "low": "77435.03",
+    "open": "77536.78",
+    "change": "0.11",
+    "datetime": "2026-05-21 07:00:00"
+  },
+  "indicators": {
+    "rsi": 53.28216,
+    "macd": 166.82141,
+    "macd_signal": 185.78809,
+    "sma20": 77573.462
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，趋势偏多",
+      "content": "当前比特币价格位于77620.6美元附近，较日内高点77628.29和低点77435.03波动幅度有限，显示短期多空力量相对均衡。从价格与20日均线SMA(20)=77573.462的比较来看，价格略高于均线，说明市场仍存在温和上行支撑，但整体趋势仍偏震荡整理。  \n\nMACD指标显示主线为166.82，未提供信号线对比，当前可理解为多头略占优，但动能不强。由于RSI缺失，无法判断超买超卖状态，但价格接近均线附近波动，短期可能延续整理格局，等待更明确的突破信号。  \n\n技术面支撑位可关注77400–77550区间，如跌破则短期回调风险增加；阻力位在77750–77800附近，突破则有望延续温和上涨。交易者应保持谨慎，避免追涨杀跌。  \n\n操作上，短线投资者可在支撑位附近逢低小幅布局多单，止损控制在77400下方；激进者可等待价格突破77800确认后顺势加仓。保持仓位灵活，密切关注价格对均线及关键阻力的反应，将有助于降低风险并捕捉波动机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin (BTC/USD) is currently showing a mildly bullish posture, trading slightly above the 20-period SMA at 77,573.46. The price action has been contained within a narrow intraday range of 77,435.03 to 77,628.29, indicating consolidation near the short-term support level. Traders should note that holding above this SMA reinforces a baseline of bullish bias, while failure to sustain this level may invite short-term corrective pressure.\n\nMomentum indicators suggest a cautious outlook. The MACD, currently at 166.82 with an unavailable signal line, implies positive momentum but lacks confirmation. The absence of an RSI reading adds uncertainty to overbought or oversold conditions. However, the slight 0.11% 24-hour price gain hints at market indecision, suggesting that breakout strategies should be approached conservatively until a clear directional bias emerges.\n\nImmediate support for Bitcoin is near the recent low of 77,435, with stronger support likely forming around the SMA 20 zone. On the upside, resistance is clustered around 77,628 and extends toward the psychological 78,000 mark. Traders should watch for volume spikes accompanying a break of these levels, which could confirm trend continuation or reversal. Maintaining stops near support is advisable for risk management in the current tight-range environment.\n\nFor trading suggestions, cautious long positions could be considered if BTC/USD sustains above the 20-period SMA with confirmation from MACD momentum. Conversely, short-term traders might explore pullbacks toward support zones for low-risk entries. Overall, the market exhibits a balanced stance, and participants should monitor for a decisive breakout or breakdown to establish clearer directional trades. The current setup favors disciplined, trend-following strategies while avoiding overexposure during consolidation."
+    }
+  }
+}
