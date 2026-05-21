@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-21T16:24:33.076Z",
+  "price": {
+    "close": "77051.56",
+    "high": "77270.66",
+    "low": "77040.01",
+    "open": "77175.4",
+    "change": "-0.16",
+    "datetime": "2026-05-21 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.26276,
+    "macd": -81.2408,
+    "macd_signal": 11.64911,
+    "sma20": 77495.64
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整偏弱",
+      "content": "目前BTC/USD价格在77051附近波动，日内跌幅仅为0.16%，显示市场短期缺乏明确方向。价格略低于20日均线SMA(20)=77495，暗示多头动力不足，短线偏弱整理格局，投资者需谨慎跟随趋势。\n\nMACD为-81.24且信号线未给出，但负值表明下行动能存在，价格可能面临一定压力。RSI指标缺失，但结合价格位置和均线压力，短线超买可能性不大，多空力量处于均衡状态。\n\n支撑位方面，可关注77040附近的短期低点，若跌破该水平，可能触发进一步回调。阻力位在77495一线，突破该均线将有助于激活多头力量，形成向上反弹空间。结合高低点分析，价格区间运行可能在77040-77495之间。\n\n交易策略上，短线可采取区间操作，低多高空为主，控制仓位以降低风险。激进投资者可等待价格站稳20日均线后再考虑追多，而保守者则可等待明确突破或回踩确认支撑再入场，确保风险可控。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $77,051, showing marginal downward movement over the past 24 hours. The price is trading slightly below the 20-day simple moving average of $77,495, indicating short-term consolidation and a potential bearish bias. The small intraday range between $77,040 and $77,270 suggests low volatility and limited momentum, which often precedes a breakout or breakdown. Traders should watch for decisive moves above the SMA to confirm bullish continuation or below recent lows to signal short-term weakness.  \n\nAlthough the RSI is unavailable, the MACD reading of -81.24 points to persistent bearish pressure, with the histogram likely still in negative territory. The absence of the MACD signal line reduces the clarity of momentum shifts, but the negative MACD suggests that sellers currently have the edge. Technical momentum is subdued, and any upward retracement may encounter resistance near the SMA and recent intraday highs. Observing MACD crossovers or divergence patterns could help in anticipating trend reversals.  \n\nKey support lies near $77,040, representing both the daily low and a psychological level, while resistance clusters around $77,495, in alignment with the 20-day SMA. A sustained break above this level could open the door to retesting $78,000, whereas failure to hold support may see a retest of $76,500–$76,700. These levels provide actionable reference points for traders seeking to define stop-losses and profit targets with defined risk parameters.  \n\nFor trading strategies, conservative traders may wait for confirmation of price action beyond the SMA before initiating long positions. Short-term traders could exploit the tight range with scalping techniques or options hedges, while risk-averse participants may adopt a neutral stance until momentum signals become clearer. Overall, the market is showing cautious sentiment, with limited volatility and a bias toward minor retracements unless a clear breakout develops."
+    }
+  }
+}
