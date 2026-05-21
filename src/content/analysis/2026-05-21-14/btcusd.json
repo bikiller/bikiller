@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-21T14:56:23.354Z",
+  "price": {
+    "close": "76893.66",
+    "high": "77165.23",
+    "low": "76684.22",
+    "open": "77035.68",
+    "change": "-0.18",
+    "datetime": "2026-05-21 14:00:00"
+  },
+  "indicators": {
+    "rsi": 38.49422,
+    "macd": -57.37948,
+    "macd_signal": 60.090111,
+    "sma20": 77545.9875
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱，需关注支撑压力",
+      "content": "当前比特币价格在 $76,893.66$ 附近震荡，较日内高点 $77,165.23$ 和低点 $76,684.22$ 波动幅度有限，显示短线多空力量较为均衡。整体来看，价格低于 20 日均线 $77,545.99$，短期承压明显，表明趋势偏弱。  \n\nMACD 指标为 -57.38，显示空头动能尚存，但缺乏信号线对比，短线判断仍需谨慎。尽管 RSI 数据缺失，但价格在均线下方震荡，意味着多头动能不足，行情可能以横盘或小幅回调为主，投资者应避免追高操作。  \n\n关键支撑位可关注 $76,500$ 附近，这是近期低点支撑；阻力位则在 $77,500$~$77,600$ 区间，与 20 日均线位置基本重合。若价格跌破支撑，则可能引发进一步回调至 $76,200$~$76,300$ 区域。阻力若被有效突破，则多头或有反弹机会。  \n\n交易策略上，建议短线交易者关注低位承接机会，设置严格止损，控制仓位。中长线投资者可等待价格稳定回到均线以上或形成明确反转信号后再介入，以避免被短期震荡消耗利润。同时，保持对市场消息和成交量变化的关注，可更好把握入场时机。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering near $76,893, showing a subtle downward bias with a minor 24-hour decline of 0.18%. The short-term trend appears slightly bearish as the price remains below the 20-period simple moving average at $77,546. This indicates sellers are exerting modest pressure, and the market is struggling to sustain momentum above recent highs. Price oscillation within a narrow $76684–$77165 range suggests consolidation, hinting at a potential breakout if either side is decisively breached.  \n\nThe MACD reading at -57.38 points to persistent bearish momentum, although the absence of the signal line limits full interpretation. Traders should note that this negative divergence implies that downside momentum could continue unless the MACD begins to converge toward a neutral point. While the RSI is currently unavailable, typical behavior would suggest that similar MACD levels often coincide with a mildly oversold environment, providing scope for short-term corrective bounces near key support levels.  \n\nSupport is likely to materialize around $76,600, just above the recent intraday low, which may act as a buffer against sharp declines. On the upside, the SMA(20) at $77,546 represents immediate resistance, followed by $77,800–$78,000 as a more robust ceiling where sellers have historically emerged. Traders should consider entering long positions only on strong bullish confirmations above these levels, while short-term shorts could be strategically timed during failed breakouts or when price approaches the upper resistance zone.  \n\nFor trading strategies, a cautious approach is warranted given the tight range and bearish MACD bias. Scalping or range-bound trades may be most effective in the $76,600–$77,500 corridor, with stop-losses placed just beyond key support and resistance to manage risk. Longer-term traders should wait for clearer directional signals or a breakout above $77,800 to confirm renewed bullish momentum, while any breach below $76,600 could open the path toward $76,200 or lower. Overall, the market currently favors measured entries with disciplined risk management."
+    }
+  }
+}
