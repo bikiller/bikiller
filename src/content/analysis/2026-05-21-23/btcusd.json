@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-21T23:39:51.984Z",
+  "price": {
+    "close": "77627.54",
+    "high": "77651.02",
+    "low": "77450",
+    "open": "77550.18",
+    "change": "0.10",
+    "datetime": "2026-05-21 23:00:00"
+  },
+  "indicators": {
+    "rsi": 53.78329,
+    "macd": 41.42747,
+    "macd_signal": 16.21861,
+    "sma20": 77460.934
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理趋势",
+      "content": "比特币当前价格维持在77627.54附近，较20日均线SMA(20) 77460.93略高，显示价格仍略处于均线之上，短期多头略占优势。然而，24小时价格波动仅0.10%，市场交投清淡，整体呈现震荡整理态势，缺乏明显突破动力。MACD值为41.43，虽然呈现正值，但信号线未提供，可视为上涨动能有限。\n\n从支撑与阻力角度分析，近期主要支撑位在77450附近，若价格跌破该位置，短期可能回落至77300-77250区域。阻力位则接近77650高点，若有效突破，可能测试77800-78000区域。但鉴于成交量未明显放大，突破的持续性仍需观察。技术指标显示价格在均线附近震荡，RSI缺失导致超买超卖状态无法确认。\n\n交易策略上，建议短线投资者维持观望，等待价格明确突破或回踩确认支撑后再介入。若操作短线多单，可在支撑位附近布局止损，目标为阻力位附近。长期投资者则可利用波动区间分批建仓，控制仓位，避免追高。总体而言，市场短期震荡，操作应谨慎，关注成交量变化与关键价位突破信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a narrow range around $77,627, showing minimal 24-hour change. Price action is slightly above the 20-period simple moving average at $77,460, which indicates that the near-term trend is mildly bullish. However, the small daily fluctuation suggests consolidation, with neither strong buying nor selling pressure dominating. Traders should watch for breakout attempts above the recent high of $77,651, which could signal a continuation of upward momentum.  \n\nThe MACD reading at 41.43, despite the missing signal line, hints at ongoing bullish momentum, though its strength is moderate. Without the signal line, crossovers can’t be confirmed, so caution is warranted. RSI is unavailable, which leaves us without a clear overbought/oversold reading. Combining MACD with price positioning relative to the SMA, the market appears poised for gradual upward moves rather than sharp swings, emphasizing patience and confirmation before entering new positions.  \n\nKey support levels lie at the 20-period SMA around $77,460 and the daily low near $77,450. These levels provide potential entry points for buyers if price retests them. Resistance is primarily the daily high at $77,651, and a sustained break above this could open the path toward the $78,000 psychological mark. Monitoring volume around these levels is crucial, as it will validate the strength of any breakout or rebound from support.  \n\nFor trading strategies, short-term traders might consider buying near the SMA with tight stop-losses just below $77,450, targeting moves toward $77,650–$77,700. Conservative traders may wait for a clear breakout above the daily high to confirm bullish continuation. Conversely, a breakdown below $77,450 could signal a short-term retracement, offering opportunities for risk-managed short positions. Overall, the market reflects measured optimism, with range-bound dynamics dominating near-term price action."
+    }
+  }
+}
