@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-21T17:19:54.848Z",
+  "price": {
+    "close": "77672",
+    "high": "77821.46",
+    "low": "77093.28",
+    "open": "77110.26",
+    "change": "0.73",
+    "datetime": "2026-05-21 17:00:00"
+  },
+  "indicators": {
+    "rsi": 55.90749,
+    "macd": -37.56682,
+    "macd_signal": 2.55515,
+    "sma20": 77512.1455
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线温和上涨趋势",
+      "content": "目前比特币价格维持在77672美元附近，接近20日均线（SMA20: 77512.15），显示市场短期处于均衡区间，但微幅偏多。价格在过去24小时波动幅度有限，高低点77821.46/77093.28暗示短线多空力量相对均衡，整体趋势偏向温和上涨。\n\nMACD指标显示当前值为-37.56682，尚未形成明显金叉或死叉信号，短期动能偏弱，市场未出现强烈买入或卖出信号。RSI数据缺失，但从价格维持在均线附近推测，多空情绪仍温和，未出现超买或超卖情况。\n\n关键支撑位在77000附近，若下破该位置，可能引发短期回调；阻力位在77850至78000区域，若价格突破，可能确认进一步上行趋势。投资者应关注这些关键水平，以判断潜在的趋势延续或反转信号。\n\n交易策略上，短线可考虑逢低布局，关注支撑位附近的买入机会，同时设置止损以防下破支撑。激进交易者可等待价格突破阻力后顺势做多，而保守者则可观望，等待更明确的趋势确认再入场。整体市场偏向温和上涨，风险仍需谨慎控制。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 77,672, marginally above its 20-period simple moving average at 77,512, suggesting short-term bullish stabilization after recent intraday consolidation. The modest 24-hour gain of 0.73% reinforces a constructive tone, though the narrow range between 77,093 and 77,821 indicates limited directional conviction. Price holding above the moving average generally favors buyers, but the proximity to session highs suggests upside momentum may be approaching an immediate test.\n\nMomentum interpretation is less definitive because RSI and MACD signal-line confirmation are unavailable, limiting full oscillator assessment. However, the negative MACD reading of -37.57 implies bearish momentum has not fully cleared, even as price remains resilient. This divergence often reflects weakening downside pressure rather than confirmed bullish acceleration. If Bitcoin sustains closes above the moving average while MACD improves toward neutral, the probability of a stronger continuation move increases meaningfully.\n\nImmediate support appears around 77,100, aligned with the session low, with stronger structural support near 76,500 where buyers may re-enter more aggressively if weakness develops. Resistance is evident near 77,820, the recent high, followed by the psychologically important 78,000 threshold. A decisive breakout above that zone could trigger momentum buying and open a move toward 78,800–79,500, while failure there may reinforce short-term range-bound trading behavior.\n\nTrading strategy should remain tactically disciplined given mixed momentum signals. Short-term traders may consider momentum entries only on confirmed breaks above 77,850 with volume participation, using tight risk controls below reclaimed breakout levels. More conservative participants may prefer pullback entries closer to support rather than chasing strength. A break below 77,100 would weaken the near-term bullish structure and could justify defensive positioning or short-biased tactical setups."
+    }
+  }
+}
