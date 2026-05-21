@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-21T02:54:01.935Z",
+  "price": {
+    "close": "2144.39",
+    "high": "2148.34",
+    "low": "2139.3",
+    "open": "2141.02",
+    "change": "0.16",
+    "datetime": "2026-05-21 02:00:00"
+  },
+  "indicators": {
+    "rsi": 59.40195,
+    "macd": 4.30695,
+    "macd_signal": 3.59722,
+    "sma20": 2133.58
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线震荡偏多格局",
+      "content": "当前以太坊价格略高于20日均线(SMA20=2133.58)，显示短期支撑在均线附近稳固，价格维持在2140-2150区间，短线趋势偏多但缺乏强劲突破动力。MACD值为4.30695，但信号线未明确，表明动能尚在初期阶段，需观察后续交叉情况确认方向。  \n\n技术指标上，虽然RSI数据缺失，但价格稳步在均线之上，暗示买盘力量尚存，短线多头仍可适度关注。同时，价格高点2148.34和低点2139.3构成近期波动区间，形成初步阻力和支撑位，交易者应密切关注突破情况。  \n\n支撑位在2133-2140区间，如失守则可能回落至2125附近；阻力位在2148-2155区间，若有效突破，则上行空间可拓展至2160附近。交易策略上，短线可逢低布局多单，严格止损2140下方，同时关注高位阻力区间减仓，降低回调风险。  \n\n总体而言，以太坊短期处于震荡偏多格局，价格维持均线之上，技术面未出现明显反转信号，投资者可结合区间波动和阻力位谨慎操作，保持轻仓试探为主，等待趋势进一步明朗化再加仓。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is currently consolidating in a tight range around 2144 after a marginal 0.16% 24-hour change, indicating equilibrium between buyers and sellers. Price action remains slightly constructive as it holds above the 20-day SMA at 2133.58, suggesting short-term bullish structure is still intact. However, the inability to extend beyond recent highs reflects weakening momentum and a developing sideways bias rather than a trending move.\n\nMACD reading at 4.30695 remains positive, indicating underlying bullish momentum, though the absence of a confirmed signal line value limits precision in crossover assessment. Price stability above the 20-day SMA reinforces medium-term support, while the flat 24-hour performance suggests momentum is cooling. RSI is unavailable, but price behavior implies neither overbought nor oversold conditions, consistent with a neutral-to-slightly bullish consolidation phase.\n\nImmediate resistance is defined at the intraday high of 2148.34, with a breakout above this level likely opening the path toward 2155–2165. On the downside, initial support sits at 2139.3, followed closely by the 20-day SMA at 2133.58, which is a key structural level. A sustained break below this zone would signal a shift toward deeper correction risk and renewed bearish pressure.\n\nGiven the current range-bound structure, short-term traders may favor mean-reversion strategies, buying near support zones around 2133–2139 and taking profits near resistance at 2148–2155. Breakout traders should wait for a confirmed close above resistance to target higher extensions, while downside confirmation below SMA20 may trigger short setups. Risk management remains essential due to compressed volatility and lack of strong directional momentum overall outlook."
+    }
+  }
+}

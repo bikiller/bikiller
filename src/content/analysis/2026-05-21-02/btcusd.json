@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-21T02:53:06.532Z",
+  "price": {
+    "close": "77913.45",
+    "high": "78027",
+    "low": "77740.85",
+    "open": "77792.87",
+    "change": "0.16",
+    "datetime": "2026-05-21 02:00:00"
+  },
+  "indicators": {
+    "rsi": 62.88699,
+    "macd": 204.3668,
+    "macd_signal": 166.85905,
+    "sma20": 77467.961
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多趋势",
+      "content": "当前比特币价格稳在77913.45美元附近，日内波动幅度有限，仅0.16%，显示市场短期观望情绪较浓。价格位于20日简单移动平均线SMA(20) 77467.96之上，暗示短期趋势偏多，但涨幅受限于近期高点78027美元，存在一定阻力压力。\n\nMACD指标显示主线204.36680处于较高水平，虽然信号线未提供，但主线持续正值意味着多头动能仍存在，短期可能延续上行，但需警惕动能衰减风险。缺少RSI数据限制了超买/超卖的判断，但结合价格整理区间，整体偏向震荡整理。\n\n支撑位方面，下方初步支撑落在77740.85美元近期低点，若跌破则可能引发更深回调，次级支撑可关注SMA(20)附近区域。阻力位主要在78027美元高点，如突破需关注心理整数位78000附近的抛压。\n\n交易策略上，短线交易者可在支撑位附近尝试低多，止损设于低点下方；激进操作可在突破阻力后顺势追多，但需控制仓位。中长线投资者仍可保持观望，等待趋势明朗或回调至关键均线附近再择机建仓。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading around 77913, showing a marginal 24-hour gain of 0.16% and continuing a tight consolidation phase near recent highs. Price action remains compressed between 77740 and 78027, indicating equilibrium between buyers and sellers. The broader short-term structure remains mildly bullish as price holds above the 20-period SMA at 77467, which continues to act as a dynamic support level reinforcing upward bias.\n\nMACD reading at 204.36680 confirms positive momentum, suggesting buyers still retain control in the short term despite the lack of a visible signal line for confirmation. With RSI(14) unavailable, overbought or oversold conditions cannot be fully assessed, introducing some uncertainty. However, price stability above key moving averages implies underlying strength, though momentum may be losing acceleration as consolidation persists near resistance.\n\nImmediate support is located at 77740, with stronger confluence around the 20-period SMA at 77467, forming a key support zone that bulls need to defend to maintain structure. Below this, 77500 acts as a psychological pivot. On the upside, resistance sits at 78027, followed by a breakout zone near 78500 and extended resistance around 79000, where profit-taking pressure may intensify.\n\nGiven the current consolidation, a range-trading approach is appropriate, favoring long positions near support while taking partial profits into resistance. Dips toward 77467–77740 may offer favorable entry opportunities with controlled risk. A protective stop below 77400 helps manage downside exposure. Alternatively a breakout above 78027 could signal renewed bullish momentum, opening targets toward 78500 and 79000, provided volume expansion confirms the move and sustains follow-through."
+    }
+  }
+}
