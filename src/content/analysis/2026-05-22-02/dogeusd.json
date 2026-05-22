@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-22T02:58:15.140Z",
+  "price": {
+    "close": "0.10576",
+    "high": "0.10622",
+    "low": "0.10567",
+    "open": "0.10591",
+    "change": "-0.14",
+    "datetime": "2026-05-22 02:00:00"
+  },
+  "indicators": {
+    "rsi": 56.45841,
+    "macd": 0.00031364276,
+    "macd_signal": 0.00028143918,
+    "sma20": 0.105128
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短线震荡整理，偏向多头支撑",
+      "content": "当前狗狗币价格在$0.10576$附近震荡，全天波动幅度较小，呈现短线整理格局。结合20日简单移动平均线SMA(20)位于$0.105128$，价格略高于均线，显示多头仍有一定支撑，但上行动力有限，需要关注突破信号以确认趋势延续。\n\nMACD指标当前为$0.000314$，虽缺乏信号线参考，但正值暗示多头微弱占优。RSI数据缺失，无法准确判断超买或超卖，但从价格走势和均线关系来看，市场整体保持谨慎多头格局，短线波动可能主要受到市场情绪影响。\n\n支撑位上看，近期低点$0.10567$形成第一支撑，若跌破可能触发回调压力；阻力位关注高点$0.10622$，突破后可能延伸至$0.107$附近。投资者应留意关键价位突破与成交量变化，结合趋势线和均线判断入场点。\n\n交易策略上，短线可在支撑区域尝试低位布局，止损设置略低于$0.1055$以控制风险；若价格突破阻力并伴随量能放大，可考虑顺势加仓。总体建议以短线震荡波段操作为主，避免追高，等待明确趋势信号确认后再做中线布局。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin (DOGE/USD) is currently showing a neutral-to-slightly-bullish stance around $0.10576, maintaining a tight range between its 24-hour high of $0.10622 and low of $0.10567. The price is hovering just above the 20-period simple moving average at $0.10513, suggesting short-term consolidation. This implies that the market is in a phase of indecision, with neither bulls nor bears taking firm control. Watching how the price reacts to the SMA will be crucial for identifying the next directional move.\n\nTechnical indicators provide a mixed outlook. The MACD reading of 0.0003136, although positive, lacks a corresponding signal line for precise crossovers. Without a clear RSI value, momentum analysis is incomplete, but the minor negative price change of -0.14% signals that bearish pressure is limited. If the MACD maintains its positive divergence, it could hint at potential accumulation and a slow bullish shift. Traders should remain cautious and seek confirmation through intraday price action and volume patterns.\n\nKey support levels are evident near $0.10550, close to the recent intraday low, and a secondary support at $0.10480. Resistance is seen at $0.10650 and more significantly at $0.10720, where previous upward momentum stalled. A sustained break above these resistance zones could ignite a short-term bullish rally, while failure to hold the lower support levels might lead to a retracement toward $0.104 or lower. The market is sensitive to sudden swings due to low volatility in this consolidation phase.\n\nFor trading strategy, a conservative approach is advisable. Range-bound traders might look to buy near support around $0.10550 with tight stop-loss orders and target the $0.10650–$0.10720 resistance zone. Breakout traders could prepare for long positions only after a clear candle close above $0.10720 with volume confirmation. Conversely, a breakdown below $0.10550 may provide shorting opportunities. Maintaining flexibility and monitoring short-term indicators will be key in navigating the current market environment."
+    }
+  }
+}
