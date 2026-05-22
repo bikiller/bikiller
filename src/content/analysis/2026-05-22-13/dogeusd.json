@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-22T13:20:31.107Z",
+  "price": {
+    "close": "0.10656",
+    "high": "0.10661",
+    "low": "0.10636",
+    "open": "0.10651",
+    "change": "0.05",
+    "datetime": "2026-05-22 13:00:00"
+  },
+  "indicators": {
+    "rsi": 63.49219,
+    "macd": 0.00035819069,
+    "macd_signal": 0.00028877456,
+    "sma20": 0.1056865
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期盘整，潜在上行机会",
+      "content": "当前DOGE/USD在0.10656附近微幅波动，价格紧贴20日简单移动平均线(SMA20=0.10568650)，显示市场短期内维持均衡。MACD值为0.000358，虽然信号线数据缺失，但轻微正值暗示多头略占优势，但动力不足，趋势仍偏平缓。\n\n支撑位初步锁定在0.10630附近，若价格跌破此水平，可能触发短线抛压，进一步下探0.10580。阻力位则在0.10680附近，若突破并站稳，可视为短期上行确认，为追涨提供参考。整体波幅有限，市场情绪谨慎。\n\nRSI指标未提供，增加了对超买超卖的判断难度。但结合价格与SMA20的接近度，可推测短线多空力量均衡。MACD虽微正，但缺少信号线确认，说明趋势尚未完全明朗，需要观察成交量变化以验证动能。\n\n交易策略上，可在支撑位0.10630附近尝试轻仓多单，止损设置于0.10580以下；若价格有效突破0.10680，可考虑加仓短线多单。反之，若价格下破支撑，则建议短线观望或轻仓空单，严格控制风险，等待市场明确方向。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is trading in a narrow consolidation range near 0.10656, reflecting a market that currently lacks strong directional momentum. Price action remains slightly above the 20-period simple moving average at 0.10568650, which suggests buyers still maintain modest short-term control. The limited 24-hour volatility and compressed high-low range indicate reduced speculative activity, often a precursor to a stronger breakout move once liquidity returns to the market.\n\nMomentum indicators present a cautiously constructive outlook. Although the RSI(14) reading is unavailable, the positive MACD value of 0.00035819069 implies underlying bullish momentum remains intact. However, without a confirmed signal line reading, traders should avoid assuming a fully established uptrend. The market appears to be transitioning from sideways movement into a potential continuation phase, but confirmation through higher volume and sustained closes above resistance is still necessary.\n\nImmediate support is positioned near 0.10630, aligning closely with the session low and short-term moving average structure. A break below this area could expose DOGE/USD to additional downside pressure toward 0.10500. On the upside, resistance is developing around 0.10660, with a stronger breakout barrier near 0.10750. If buyers manage to secure a close above these levels, momentum could accelerate toward the next psychological zone around 0.11000.\n\nShort-term traders may consider maintaining a cautiously bullish bias while price remains above the SMA(20). Conservative entries are more favorable on pullbacks toward support rather than chasing minor rallies in a low-volatility environment. Aggressive traders could watch for a confirmed breakout above resistance accompanied by rising volume before increasing exposure. Risk management remains essential, as the current compressed structure may lead to sudden volatility spikes in either direction."
+    }
+  }
+}
