@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-22T19:06:20.428Z",
+  "price": {
+    "close": "2095.03",
+    "high": "2103.37",
+    "low": "2093.79",
+    "open": "2100.37",
+    "change": "-0.24",
+    "datetime": "2026-05-22 19:00:00"
+  },
+  "indicators": {
+    "rsi": 31.44606,
+    "macd": -6.18131,
+    "macd_signal": -2.96192,
+    "sma20": 2124.801
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期盘整趋势偏弱",
+      "content": "当前ETH/USD价格位于2095.03附近，略低于20日均线2124.80，显示短期多头动能不足。价格波动区间窄，24小时跌幅仅0.24%，表明市场正处于整理状态，短期趋势偏弱。技术指标MACD为-6.18，尚未形成明显金叉或死叉，但负值暗示卖压略占优势。  \n\n支撑位可关注近期低点2093.79，若价格跌破此水平，短线可能进一步下探至2080附近；阻力位则在2103.37上方，突破后有望测试2125至2130区间。缺乏RSI数据限制了超买超卖的判断，但均线与MACD信号提示谨慎观望。  \n\n交易策略上，短线投资者宜以低位逢低试探买入为主，同时设置合理止损，避免追高。波段交易者可等待价格稳定在阻力上方并出现量能配合后再考虑加仓，切勿在整理区间频繁操作。  \n\n综合来看，ETH/USD近期短线呈弱势整理，价格在支撑与阻力之间振荡。操作上建议保持灵活，以风险控制为首要，等待明确突破信号后再做方向性交易，以降低波动风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently testing a minor bearish sentiment as it hovers around $2095. The price remains below the 20-period simple moving average (SMA20) at $2124.8, signaling short-term downward pressure. Recent intraday fluctuations have been tight, with the high at $2103 and low near $2093. This consolidation suggests indecision, but the inability to breach SMA20 convincingly indicates sellers maintain subtle control over immediate price action.\n\nLooking at momentum, the MACD shows a negative reading of -6.18, hinting at persistent bearish momentum. Although the signal line is unavailable, the divergence from the zero line reinforces short-term downside bias. The lack of an RSI reading limits overbought/oversold context, but the current trajectory near the lower intraday range suggests Ethereum is approaching near-term support rather than being deeply oversold, leaving room for potential bounces if buyer interest emerges.\n\nKey support is observed around $2080–$2090, marking the previous swing lows that could act as a buffer against further decline. Resistance remains close to the SMA20 at $2124 and more decisively near $2140–$2150, where sellers might intensify. Traders should monitor price reactions at these critical levels, as a decisive break above SMA20 could signal a bullish reversal, while a drop below $2080 could accelerate selling pressure toward the next structural support near $2050.\n\nFor trading strategy, cautious short-term approaches may be optimal. Range-bound strategies between $2090 and $2125 could be effective, with tight stops to manage volatility. Aggressive traders may consider short positions below $2080 with defined targets, while breakout buyers should wait for a confirmed move above $2125 to enter long positions. Overall, the market exhibits mild bearish tendencies but remains within a consolidative range, emphasizing the importance of waiting for clear directional confirmation."
+    }
+  }
+}

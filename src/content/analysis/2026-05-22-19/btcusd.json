@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-22T19:05:36.263Z",
+  "price": {
+    "close": "76314",
+    "high": "76496.02",
+    "low": "76302.36",
+    "open": "76444.29",
+    "change": "-0.17",
+    "datetime": "2026-05-22 19:00:00"
+  },
+  "indicators": {
+    "rsi": 31.20506,
+    "macd": -240.18032,
+    "macd_signal": -139.35782,
+    "sma20": 77152.288
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整偏弱，关注支撑与阻力",
+      "content": "当前BTC/USD价格位于76314附近，接近20日均线SMA(20)的77152水平，显示价格处于均线下方，短期偏弱。日内波动幅度有限，高低点76496.02/76302.36表明市场短期交投谨慎，多空力量暂时平衡。总体趋势仍偏震荡整理，需关注关键支撑和阻力的突破信号。\n\nMACD指标显示-240.18，虽然缺少信号线对比，但负值暗示短期下行动能占优，若价格持续未能上破SMA(20)，可能延续小幅回调压力。RSI指标暂不可用，但结合价格和均线位置，市场情绪偏中性偏空，投资者应控制仓位，避免追高操作。\n\n关键支撑位关注76300整数关口及76200附近区域，这些位置可能提供阶段性买盘支撑。阻力位则在SMA(20)77150附近，以及77500一线，多次测试可能形成空头防守区域。价格若有效突破阻力，则短线反弹可能启动，但需确认成交量配合。\n\n交易策略上，短线可采取震荡策略，低位轻仓买入，高位逐步减仓，或者等待明确突破信号后再做追随操作。中长线投资者应保持观望，重点关注SMA(20)和关键整数支撑的守住情况，同时警惕市场短期波动带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s recent price action around $76,314 suggests a subtle bearish tilt after encountering resistance near $77,152, the 20-day SMA. The market has been oscillating in a tight range between $76,302 and $76,496, signaling consolidation. This narrow band indicates indecision among traders, with neither bulls nor bears fully asserting dominance. Price action near the SMA suggests a potential retest of lower support levels before any significant upward movement can occur.\n\nMomentum indicators hint at a weakening bullish stance. The MACD reading of -240.18 without a corresponding signal line points to lingering bearish pressure and a lack of clear trend confirmation. While RSI data is unavailable, the current price hovering just below the SMA indicates mild overextension in the short-term. Traders should monitor momentum shifts closely, as a MACD cross above zero or a bounce from the SMA could signal renewed buying interest.\n\nKey support appears around $76,000, reinforced by recent intraday lows. Resistance is concentrated near the 20-day SMA at $77,152, followed by a psychological ceiling at $78,000. A decisive break below $76,000 may open the path toward $75,500 or lower, whereas a successful push above $77,152 could attract short-term momentum buyers targeting $78,000–$78,500. Range-bound trading remains likely until a breakout or breakdown confirms directional intent.\n\nTrading strategies should remain cautious in this environment. Conservative traders may consider short-term scalping between established support and resistance, while those seeking trend plays could wait for a confirmed breakout above the SMA or a MACD-driven reversal signal. Stop-loss placement just below $76,000 can help manage downside risk, and position sizing should reflect the current low-volatility, tight-range market conditions."
+    }
+  }
+}
