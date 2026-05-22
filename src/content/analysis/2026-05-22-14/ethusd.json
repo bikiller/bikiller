@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-22T14:31:18.935Z",
+  "price": {
+    "close": "2118.42",
+    "high": "2129.62",
+    "low": "2112.36",
+    "open": "2129.62",
+    "change": "-0.54",
+    "datetime": "2026-05-22 14:00:00"
+  },
+  "indicators": {
+    "rsi": 41.90583,
+    "macd": -1.58362,
+    "macd_signal": -0.78588249,
+    "sma20": 2131.118
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期盘整偏弱，关注支撑位反弹",
+      "content": "当前以太坊价格位于2118.42美元，较20日均线2131.12美元略低，显示短期承压。价格在2129.62至2112.36区间波动，呈现窄幅震荡，市场多空力量暂时均衡，短线趋势偏弱。MACD为-1.58362且处于零轴下方，表明动能仍倾向空方。\n\n从技术指标来看，RSI缺失数据，但结合价格与均线关系，可初步判断多头未能有效突破均线压力。MACD负值增强了短期下行风险，但支撑区2110附近可能吸引逢低买盘，形成阶段性反弹。若价格跌破该区域，则可能开启新一轮下行。\n\n关键阻力位在2130美元附近，如价格有效突破，可视为短期趋势反转信号。支撑位集中在2110及2100美元，守住该水平有利于维持震荡格局。投资者应关注成交量变化，确认突破或反转有效性。\n\n交易策略上，可在支撑区附近寻求小幅多单机会，同时设置止损控制风险；若价格持续承压于均线下方，可考虑短线空单，但需注意快速波动风险。总体来看，短期市场偏弱，操作应以防守和低风险策略为主。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently exhibiting a slight bearish bias, trading just below its 20-day SMA of 2131.12 at 2118.42. The price has struggled to sustain above recent highs near 2129.62, indicating potential short-term selling pressure. The 24-hour movement of -0.54% reinforces a modest downward momentum, suggesting that the market is in a consolidation phase. Traders should watch for any decisive break below 2112.36, which could signal further downside toward next support levels around 2100.\n\nThe MACD reading of -1.58362, though without a corresponding signal line, points to continued bearish sentiment. In absence of an RSI value, momentum confirmation is limited, but the negative MACD suggests sellers are dominating over short-term buyers. If the MACD trends upward toward the zero line, it may indicate a weakening of bearish momentum and a potential buying opportunity for swing traders aiming for short-term reversals.\n\nKey support and resistance levels are shaping the current trading range. Immediate support sits at 2112–2115, where buyers have previously absorbed selling pressure. Resistance is established at 2130–2135, aligned with the SMA and recent highs. Breaking above this level could open the path toward 2150, while failure to hold support may push ETH toward 2100 or lower. These levels can serve as reference points for stop-loss placement and tactical entries.\n\nFrom a trading perspective, cautious long positions could be considered near support zones, with tight stops below 2110 to mitigate downside risk. Short-term traders may capitalize on minor rebounds, but overall risk management is crucial due to prevailing bearish momentum. Investors with a medium-term horizon might wait for confirmation above 2135 before committing to long exposure, as a clear break above the SMA would signal a potential trend reversal and renewed bullish sentiment."
+    }
+  }
+}
