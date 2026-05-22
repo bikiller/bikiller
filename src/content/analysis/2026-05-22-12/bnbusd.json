@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-22T12:04:33.118Z",
+  "price": {
+    "close": "658.57",
+    "high": "658.57",
+    "low": "657.77",
+    "open": "657.95",
+    "change": "0.10",
+    "datetime": "2026-05-22 12:00:00"
+  },
+  "indicators": {
+    "rsi": 56.26853,
+    "macd": 1.44797,
+    "macd_signal": 1.80653,
+    "sma20": 657.9545
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏多",
+      "content": "当前BNB价格位于658.57美元，紧贴20日均线（SMA20=657.95），显示短期价格趋势较为稳定。价格在高低点区间内波动极小，表明市场缺乏明确方向，多空双方处于均衡状态，但略偏向多头。\n\nMACD指标当前为1.44797，虽缺少信号线对比，但正值显示多头动能仍在维持，短线可能继续支撑价格上涨。若MACD继续上升并形成金叉，将增强进一步上行的可能性。缺少RSI数据限制了超买超卖判断，但可关注未来数值变化。\n\n支撑位初步锁定在657.50美元附近，若价格下破可能引发短期回调。阻力位关注660美元关口，突破后可能打开上行空间至665美元。均线与价格接近，短线交易者可利用支撑/阻力位进行区间操作。\n\n交易策略上，建议短线关注低吸高抛，重点观察价格能否稳住SMA20及MACD动能。如果价格有效突破阻力，可考虑顺势做多；若跌破支撑位，则需谨慎控制仓位，防止回调风险。稳健者可等待明确趋势信号再入场。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "Binance Coin (BNB) has recently traded in a very narrow range around $658, showing a consolidation phase. The price is hovering slightly above the 20-period simple moving average (SMA), currently at $657.95, which suggests a mild bullish bias in the short term. The minimal 24-hour change of 0.10% reflects market indecision, and traders may look for confirmation before committing to larger positions. Overall, the trend appears sideways with a slight upward tilt, signaling potential accumulation near this level.  \n\nThe MACD reading of 1.44797, with the signal line unavailable, still points to underlying bullish momentum, as positive MACD values often indicate upward pressure. Without the RSI, it's harder to gauge overbought or oversold conditions, but the proximity to the SMA implies a relatively balanced market. Traders might use smaller intraday swings to gauge momentum, and any deviation above the high of $658.57 could trigger short-term buying interest. Conversely, dips below the SMA might attract cautious sellers.  \n\nSupport appears firm around the 657.77 low of the day and the SMA at $657.95. Immediate resistance lies at the intraday high of $658.57, with a more substantial barrier near $660, which has historically acted as a psychological level. Breaking above this could open the path toward $665, while failure to hold support could see a pullback toward $655-$653. Monitoring these key levels will help manage risk and identify entry or exit points in the short term.  \n\nFor trading suggestions, cautious buyers may consider entering on minor retracements near support, with tight stop-losses just below $657 to limit downside. Momentum traders could look for a breakout above $658.57 to ride a potential continuation toward $660-$665. On the flip side, aggressive sellers might watch for price rejection at resistance, aiming for short positions while keeping an eye on SMA support for risk management. Overall, a measured approach is advised given the narrow trading range and low volatility."
+    }
+  }
+}

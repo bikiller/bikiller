@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-22T12:03:44.182Z",
+  "price": {
+    "close": "2130.32",
+    "high": "2130.46",
+    "low": "2128.98",
+    "open": "2130.31",
+    "change": "0.01",
+    "datetime": "2026-05-22 12:00:00"
+  },
+  "indicators": {
+    "rsi": 50.25247,
+    "macd": -1.15578,
+    "macd_signal": -0.62321992,
+    "sma20": 2132.136
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡整理趋势",
+      "content": "目前ETH/USD价格在$2130左右徘徊，日内波动极小，表明市场缺乏明确方向。从均线角度看，20日SMA位于$2132.14，价格略低于均线，短期偏空信号明显，但下跌力度有限，暗示多空力量暂时均衡，趋势处于横盘整理阶段。\n\nMACD显示主线为-1.15578，但信号线数据缺失，尚不能确认趋势反转。然而，负值MACD表明下行动能存在，短线可能面临微弱压力。RSI未提供，但考虑近期价格横盘，动能指标可能处于中性区域，暗示超买超卖风险不高，适合观望或低位尝试小额波段操作。\n\n支撑位方面，下方关注$2128和$2125附近，多次低点测试强化支撑信号。阻力位则在$2135及$2140，短线突破将有望带动价格回升。成交量持续低迷，使得突破可靠性受限，需谨慎关注关键价位的量能配合。\n\n交易策略建议以短线操作为主，谨慎追涨，逢低可考虑轻仓建多，止损设在$2125下方。中线投资者可保持观望，等待价格明确突破20日均线或形成MACD金叉信号后再介入，以降低操作风险并提高成功概率。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum’s price action is currently exhibiting a very narrow trading range around $2130. The tiny 24-hour change of 0.01% and the high/low range of $2130.46/$2128.98 suggest low volatility and a lack of strong directional momentum. The market is in a consolidative phase, hovering slightly below the 20-period simple moving average (SMA20) at $2132.14, which may act as short-term resistance. Traders should watch for a decisive break above or below this SMA to signal the next potential move.\n\nThe MACD reading at -1.15578 without a visible signal line indicates bearish pressure, albeit minor. While the exact momentum strength is unclear due to the absent signal, the negative MACD suggests sellers are slightly dominant. The lack of an RSI value limits overbought/oversold interpretation, but the tight price range implies equilibrium between buyers and sellers. Momentum traders may prefer waiting for clearer directional signals before committing.\n\nKey support levels appear near the recent low of $2128.98, while resistance clusters around the SMA20 at $2132. Traders might consider entering long positions on a sustained break above $2132 with volume confirmation or short positions if the price slips below $2128. Stop-loss placement just outside these zones could manage risk efficiently. The limited movement indicates that aggressive trading may be premature.\n\nGiven the current data, a cautious trading strategy is advisable. Range-bound strategies, such as scalping between $2129–$2132, may suit short-term traders, whereas trend-following strategies require a clear breakout. Monitoring higher timeframes for emerging patterns could provide additional confirmation. Overall, Ethereum remains in a consolidation phase, and careful attention to support, resistance, and momentum shifts will be crucial for anticipating the next meaningful move."
+    }
+  }
+}
