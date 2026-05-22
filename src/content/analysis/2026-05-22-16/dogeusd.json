@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-22T17:01:41.856Z",
+  "price": {
+    "close": "0.1059",
+    "high": "0.10627",
+    "low": "0.10559",
+    "open": "0.10595",
+    "change": "-0.07",
+    "datetime": "2026-05-22 16:00:00"
+  },
+  "indicators": {
+    "rsi": 53.69016,
+    "macd": 0.00025508567,
+    "macd_signal": 0.000275773,
+    "sma20": 0.105707
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期盘整偏多趋势",
+      "content": "近期DOGE/USD价格在$0.1059附近震荡，价格略高于20日简单移动平均线(SMA20=$0.105707)，显示短期支撑尚可。虽然24小时波动幅度有限，但MACD为正(0.000255)，暗示多头动能仍存在，整体趋势偏向稳健上行。\n\n技术指标方面，RSI未提供，但结合价格与SMA20接近情况，可判断市场尚未进入超买区，短线调整空间有限。MACD轻微正值表明短线买入压力略高于卖压，若信号线确认上行交叉，将进一步增强上行动能。\n\n关键支撑位参考前低$0.10559，若价格跌破此位，可能触发短线回调。阻力位在前高$0.10627附近，突破则可能延续反弹趋势。交易者应关注价格与SMA20和关键支撑阻力的互动，以判断潜在突破或回落。\n\n操作建议上，短线投资者可在支撑位附近考虑低吸，并设置止损以控制风险。若价格稳步突破阻力，短线可顺势追多，但需警惕波动性扩大带来的回调风险。中线持仓者建议保持观察，等待明确趋势确认后再增仓。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "DOGE/USD is currently exhibiting a subtle sideways pattern around $0.1059, hovering just above its 20-period SMA at $0.1057. The minimal 24-hour change of -0.07% reflects market indecision, suggesting consolidation after a recent minor pullback. Price action near the short-term SMA indicates equilibrium between buyers and sellers, and the narrow high-low range ($0.10627–$0.10559) reinforces a lack of strong directional momentum, signaling that traders may be awaiting external catalysts or broader market movements.\n\nThe MACD reading of 0.000255 with an absent signal line suggests an early-stage bullish tendency, though confirmation is limited without the complete signal data. Typically, a positive MACD indicates potential upward momentum, but the strength remains muted. The absence of a reliable RSI complicates overbought or oversold assessments, so caution is advised when interpreting immediate market extremes. Traders should closely monitor for divergence patterns or sudden MACD acceleration to identify the next momentum shift.\n\nSupport and resistance levels are currently defined by recent intraday extremes. Immediate support sits around $0.1055, providing a cushion against minor declines, while the near-term resistance at $0.1063 represents a barrier to bullish continuation. A decisive break above $0.1063 could pave the way for a retest of $0.107, whereas a failure to hold $0.1055 may see the pair retesting $0.105 or lower, highlighting the importance of monitoring these thresholds for tactical entries and exits.\n\nFor trading strategy, short-term momentum traders may consider entering on a confirmed MACD crossover or a strong bullish candle above the SMA, targeting resistance levels while maintaining tight stop losses near support. Conversely, conservative traders could wait for clearer directional confirmation, avoiding range-bound volatility. Overall, DOGE/USD remains in a low-volatility consolidation phase, requiring careful attention to breakout cues and macro cryptocurrency sentiment to capture meaningful moves."
+    }
+  }
+}

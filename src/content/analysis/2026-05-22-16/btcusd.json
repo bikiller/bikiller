@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-22T16:56:56.691Z",
+  "price": {
+    "close": "76901.54",
+    "high": "76913.81",
+    "low": "76669.29",
+    "open": "76695.53",
+    "change": "0.27",
+    "datetime": "2026-05-22 16:00:00"
+  },
+  "indicators": {
+    "rsi": 41.2414,
+    "macd": -140.47054,
+    "macd_signal": -71.44552,
+    "sma20": 77318.4155
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏空格局",
+      "content": "目前BTC/USD最新价格位于76901.54美元，价格在短期均线SMA(20) 77318.42美元下方，显示短期仍有一定下行压力。日内高低差不大，表明市场交投偏稳，但上行动能有限。技术面整体呈现轻微回调迹象。  \n\nMACD指标为-140.47，仍处于负值区间，表明空头动能占优，但信号线数据缺失，需要密切关注交叉变化以确认趋势反转可能。RSI指标缺失，但结合价格走势，短期仍存在震荡盘整特征，买卖双方力量接近平衡。  \n\n关键支撑位位于76669附近，若跌破可能进一步探低至76500附近；阻力位在77300至77400区间，上方突破可释放短线多头能量。盘面可观察价格对均线的反应，作为进出场参考。  \n\n交易策略上，建议短线以波段操作为主，逢低关注支撑附近买入机会，同时高位可适度减仓，避免追高。若价格稳稳突破SMA(20)并伴随MACD金叉，可考虑顺势做多；否则保持观望，等待更明确的趋势信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action currently hovers near $76,900, showing mild bullishness with a 24-hour increase of 0.27%. The market exhibits a narrow intraday range between $76,669 and $76,913, indicating consolidation. While the short-term momentum is subdued, the proximity to the 20-period simple moving average (SMA) at $77,318 suggests resistance pressure. This range-bound behavior points to cautious market sentiment, where traders are likely waiting for clearer directional cues before committing to large positions.\n\nTechnical indicators provide a nuanced picture. The MACD is negative at -140.47, hinting at short-term bearish pressure despite the minor price uptick. The absence of the RSI and MACD signal limits precision, but the divergence between price and SMA suggests that upward momentum is not yet fully established. If Bitcoin can reclaim levels above $77,300 and hold, it could trigger a short-term bullish phase. Conversely, failure to surpass this SMA might lead to a retest of immediate support zones.\n\nSupport levels are identified around $76,670, reflecting the recent intraday low and acting as a floor for potential pullbacks. Resistance is concentrated near $77,320, defined by the SMA(20) and recent highs. A breakout above this resistance could open the path toward $78,000, while a breakdown below support may test $76,000 or even $75,500, signaling a deeper correction. Monitoring volume and confirmation from additional indicators will be critical in validating these levels.\n\nTrading suggestions lean toward a cautious approach. Short-term traders might consider buying near support with tight stop-losses below $76,600 to manage downside risk. Momentum traders could wait for a clear breakout above $77,320 with increasing volume to confirm upward bias. Meanwhile, risk-averse investors may prefer observing consolidation patterns before initiating significant positions, focusing on macro factors and market sentiment to time entries effectively."
+    }
+  }
+}
