@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-05-22T21:09:23.207Z",
+  "price": {
+    "close": "0.245738",
+    "high": "0.245792",
+    "low": "0.245513",
+    "open": "0.245566",
+    "change": "0.03",
+    "datetime": "2026-05-22 21:00:00"
+  },
+  "indicators": {
+    "rsi": 36.31343,
+    "macd": -0.0012014488,
+    "macd_signal": -0.0004327708,
+    "sma20": 0.2500272
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期震荡偏弱",
+      "content": "目前艾达币价格在 $0.2457 附近窄幅波动，整体趋势显示短期缺乏明确方向。20日简单移动平均线（SMA20）位于 $0.2500，价格略低于均线，暗示短期内卖压稍强，但并未出现明显下跌动能。MACD指标为负值（-0.0012），尚未形成明显金叉或死叉，显示多空双方处于胶着状态。\n\n从支撑和阻力位来看，近期低点 $0.2455 构成短期支撑，若跌破可能引发进一步回落；而高点 $0.2458 则是第一阻力位，突破则有望挑战 $0.2500 心理关口。技术面上，缺少RSI数据限制了超买超卖判断，但结合价格走势与均线位置，市场短期震荡偏弱。\n\n交易策略方面，建议观望为主，关注关键支撑位 $0.2455 的守护情况，若企稳可考虑低位小仓位多单布局。若价格跌破支撑且MACD持续走弱，可适度控制仓位，等待趋势明朗后再操作。短线交易者可关注突破阻力位后的短线反弹机会，但需注意止损设置。\n\n综合来看，艾达币短期内以横盘震荡为主，市场情绪谨慎。投资者应结合技术指标动态调整仓位，并密切关注均线与支撑/阻力位的变化，避免追高或抄底风险。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano’s price action against the US Dollar shows a period of consolidation around the $0.2457 level. The narrow high-low range of $0.245513 to $0.245792 over the last 24 hours indicates low volatility, suggesting that the market is indecisive. With the current price below the 20-period simple moving average of $0.2500, the short-term trend can be considered mildly bearish. Traders should be cautious, as breaking below recent lows could invite further downside pressure.\n\nThe MACD reading of -0.0012, while slightly negative, indicates that bearish momentum is present but weak. Without a visible signal line and RSI, the oscillator-based sentiment is limited, yet the small negative MACD hints at sellers having a marginal edge. Market participants might look for convergence between MACD and price to identify potential reversal points or trend continuations. In the absence of strong divergence signals, a wait-and-see approach could reduce exposure to false breakouts.\n\nSupport and resistance levels are clear due to the tight trading range. Immediate support lies near the 0.2455 mark, which has acted as a floor over the last session. Resistance is positioned at approximately $0.2500, aligning with the SMA(20) level. A decisive move above this resistance could signal a shift to bullish momentum, whereas a break below support may accelerate selling, testing lower psychological levels around $0.2420-$0.2430.\n\nFrom a trading perspective, scalpers might benefit from range-bound strategies, buying near support and selling close to SMA resistance. For longer-term positions, waiting for confirmation of a breakout or a MACD crossover would be prudent. Risk management is key, with tight stop-loss orders below support for longs and above resistance for shorts. Overall, ADA/USD is in a delicate phase, requiring careful monitoring for early signs of trend establishment or breakdown."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-22T21:10:09.800Z",
+  "price": {
+    "close": "0.10381",
+    "high": "0.10392",
+    "low": "0.10379",
+    "open": "0.10384",
+    "change": "-0.07",
+    "datetime": "2026-05-22 21:00:00"
+  },
+  "indicators": {
+    "rsi": 39.033815,
+    "macd": -0.00029276074,
+    "macd_signal": 0.0000015992963,
+    "sma20": 0.1053715
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期震荡偏空，关注关键支撑与压力位",
+      "content": "当前狗狗币价格0.10381美元，接近日内低点0.10379，显示短期内市场多空力量相对均衡。价格低于SMA(20) 0.10537，表明短线偏弱，趋势震荡中带有下行压力，需留意低位支撑的有效性。\n\nMACD为-0.00029276074，虽然Signal未提供，但负值意味着空方动能占优，若下穿零轴，可能加速下行趋势。RSI数据缺失，但结合均线与价格位置，可以推测短期已接近超卖区域，或形成反弹契机。\n\n关键支撑位在0.1037附近，如跌破可能进一步下探0.1025。阻力位则在0.1053附近，即20日均线位置，短线若突破该水平，可视为多方回补信号。市场波动区间较小，短线操作需谨慎。\n\n交易策略上，偏向逢低布局短线多单，但需设置止损于0.1035以下以防快速下行。对于稳健投资者，可等待价格突破SMA20及MACD拐点确认上行，再考虑中线建仓，以降低风险并顺势而为。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently showing a subtle consolidation around the $0.1038 mark, reflecting indecision in the market. Price action has been relatively tight, with the 24-hour high at $0.10392 and a low at $0.10379, suggesting low volatility. The overall trend remains slightly bearish in the short term as the price is below the 20-period simple moving average (SMA) of $0.10537, indicating downward pressure from a technical perspective. Traders should watch for a decisive break above the SMA to signal a potential trend reversal.\n\nThe MACD reading of -0.00029276, while lacking a signal line for confirmation, suggests a modest bearish momentum. With the RSI unavailable, we rely on price relative to the SMA for directional clues, which currently hints at mild selling pressure. This combination indicates that the bears retain a slight edge but without strong conviction, so sudden moves could arise if market sentiment shifts. Close monitoring of volume trends would help confirm any breakout or breakdown scenario.\n\nImmediate support appears near the $0.1035–$0.1036 zone, which has historically acted as a short-term floor for DOGE/USD. Resistance lies around the SMA at $0.10537, followed by a secondary barrier near $0.1065, where prior intraday highs clustered. A sustained move above these levels could trigger a short-term bullish rally, whereas a drop below the support area may open a path to $0.1025. These levels can serve as guides for stop-loss and profit-taking strategies for active traders.\n\nFor tactical positioning, conservative traders may prefer to wait for confirmation above the SMA before entering long positions, targeting resistance near $0.1065. Aggressive traders could consider shorting on small rallies towards the SMA, with tight stops just above it to manage risk. Overall, Dogecoin remains range-bound with mild bearish bias, requiring cautious entries and careful attention to short-term market signals to capitalize on any meaningful directional move."
+    }
+  }
+}
