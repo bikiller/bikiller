@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-22T05:16:02.273Z",
+  "price": {
+    "close": "2134.54",
+    "high": "2136",
+    "low": "2132",
+    "open": "2133.82",
+    "change": "0.03",
+    "datetime": "2026-05-22 05:00:00"
+  },
+  "indicators": {
+    "rsi": 51.23799,
+    "macd": 1.38699,
+    "macd_signal": 1.16141,
+    "sma20": 2130.607
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期横盘震荡趋势",
+      "content": "当前以太坊价格在2134.54附近波动，全天波动幅度有限，仅微涨0.03%，显示市场短期多空力量相对均衡。价格在20日简单移动平均线SMA(20)2130.61上方略高，表明短期仍有轻微支撑，但缺乏明显上涨动力。  \n\nMACD指标当前为1.38699，虽未给出信号线，但数值偏正，提示多头动能存在，但强度有限。RSI缺失导致超买超卖判断不完整，但结合价格横盘特征，可推测市场暂时未进入极端状态。技术上，震荡格局占主导。  \n\n关键支撑位可关注2130附近SMA支撑及日内低点2132，而阻力位则集中在2136附近近期高点，突破需放量确认。若价格连续下探支撑而未有效跌破，仍可视为短线买入机会，反之若上破阻力，则短线可追涨。  \n\n交易策略上，建议采取区间交易为主，低吸高抛，控制仓位并设置止损在支撑下方约5-10美元，以防突然下行风险。同时关注成交量变化及后续MACD信号线生成情况，以便调整仓位和入场策略。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading near $2,134, showing minimal movement in the past 24 hours with a 0.03% change. The narrow high-low range of $2,136 to $2,132 indicates a consolidation phase, suggesting indecision among traders. The price hovering slightly above the 20-day simple moving average at $2,130 points to a mild bullish bias, but the lack of a strong momentum indicator signals caution. Short-term trends appear range-bound, awaiting a breakout for a decisive directional move.\n\nThe MACD value at 1.38699, without a corresponding signal line, hints at bullish momentum but is incomplete for a full confirmation. Traders should watch for the MACD line crossing above its signal for a potential buy signal. The absence of an RSI reading limits insight into overbought or oversold conditions, so reliance on price action and support/resistance levels becomes crucial. The SMA(20) support near $2,130 is currently acting as a floor for price fluctuations, while minor resistance is seen at the recent high of $2,136.\n\nSupport levels are currently established around $2,130 and $2,128, with stronger psychological support at $2,120. Resistance is seen near $2,136, followed by $2,140 if bullish momentum strengthens. These zones will be pivotal for traders managing risk and planning entries. A clear break above resistance could signal a short-term continuation of upward movement, while a failure to hold $2,130 could see Ethereum retesting lower support near $2,120.\n\nFor traders, a conservative approach is advised under the current range-bound conditions. Long positions may be considered on confirmed breaks above $2,136 with tight stop-loss placement just below the SMA(20). Conversely, short-term traders could look for opportunities to sell near resistance levels if upward momentum stalls. Overall, Ethereum’s market shows neutral bias with potential for moderate gains, emphasizing disciplined risk management and confirmation before aggressive trades."
+    }
+  }
+}
