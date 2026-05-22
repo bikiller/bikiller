@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-05-22T17:50:32.526Z",
+  "price": {
+    "close": "660.56",
+    "high": "661.58",
+    "low": "658.72",
+    "open": "660.53",
+    "change": "0.01",
+    "datetime": "2026-05-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 56.25793,
+    "macd": 1.59382,
+    "macd_signal": 1.70839,
+    "sma20": 658.7815
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期震荡偏多，关注关键支撑与阻力位",
+      "content": "当前BNB/USD价格维持在660美元附近，日内波动幅度较小，短期呈现横盘整理态势。价格略高于SMA(20)658.78，表明多头仍占据一定优势，但缺乏明显动能，需警惕盘整延续。  \n\nMACD指标为1.59382，显示多头略有强势，但信号线数据缺失，短线趋势不够明确。若MACD与信号线形成金叉，将进一步确认上涨动力，否则可能出现震荡回落。日内高点661.58与低点658.72构成近期关键压力与支撑，交易者应重点关注突破或回踩情况。  \n\n短线操作建议以波段为主，逢低关注支撑658-659区域的买入机会，同时在661-662区间逐步减仓或设置止盈。风险控制上，可将止损置于657以下，避免趋势反转带来的损失。结合成交量及后续技术信号，可适时调整仓位比例，以灵活应对市场震荡。  \n\n中期来看，如价格稳守SMA支撑并形成连续高点上移，BNB仍具上涨潜力，但若跌破658关键支撑，则可能进入下行整理阶段。交易者需兼顾趋势判断与风险管理，避免单边追涨或追空操作。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 660.56\\n- 24h Change: 0.01%\\n- High/Low: 661.58 / 658.72\\n- RSI(14): N/A\\n- MACD: 1.59382, Signal: N/A\\n- SMA(20): 658.78150\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nEntering the current BNB/USD quote around **660.56**, price action suggests a **mildly bullish short-term structure** with limited volatility range (24h high/low: ~661.58 / 658.72). The fact that price sits just above the **SMA(20) at ~658.78** implies recent strength, but the near-flat 24h change and absence of a clear RSI reading means the **trend is subtle rather than decisive** at this juncture. Momentum appears stable without strong directional conviction.\n\nThe **MACD positive reading (~1.59)** points to underlying buying pressure, though without a signal line value it’s hard to confirm a full crossover. Historically, a positive MACD leaning with price above short-term moving averages can signal emerging upside continuation, yet we’d want confirmation from RSI pushing above 50 or a clear MACD signal line crossover to bias higher. In isolation, the current MACD suggests momentum is at least neutral to slightly positive.\n\nKey technical zones to watch include support near **650–655**, which represents a short-term floor tied to recent swing lows and the current SMA(20) zone. If this level breaks convincingly, the next significant support could be around **640–630**, where prior intraday lows cluster. On the upside, **resistance near 670–675** is the first hurdle, with a more robust barrier around **690–700** keyed to recent multi-period swing highs and psychological round numbers.\n\nFrom a practical trading perspective, a **range strategy** might be suitable until clearer trend confirmation appears. Buyers could consider partial long exposure on dips toward strong support levels with tight risk control, while breakout traders may prefer to wait for a clean break above near-term resistance with volume confirmation. Conversely, failure below the first support zone could open up intra-range selling opportunities into the lower boundary of the range."
+    }
+  }
+}

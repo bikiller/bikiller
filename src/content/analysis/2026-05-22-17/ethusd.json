@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-22T17:49:47.398Z",
+  "price": {
+    "close": "2124.28",
+    "high": "2130.14",
+    "low": "2119.25",
+    "open": "2122.59",
+    "change": "0.08",
+    "datetime": "2026-05-22 17:00:00"
+  },
+  "indicators": {
+    "rsi": 47.071848,
+    "macd": -2.26776,
+    "macd_signal": -1.50984,
+    "sma20": 2128.577
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：盘整偏弱震荡",
+      "content": "当前以太坊价格维持在2124.28美元附近，较24小时内波动有限，显示短期市场缺乏明确方向。价格略低于20日简单移动均线（SMA20=2128.577），表明短线存在一定下行压力，但整体仍处于均衡区间内。高低点2130.14/2119.25显示波动幅度有限，趋势偏向横盘整理。\n\n技术指标显示MACD为-2.26776，尽管信号线未提供，但负值暗示空头动能稍强，短线可能承压。RSI数据缺失，需要关注超买超卖信号来判断进一步走势。SMA20提供中期均衡参考位，若价格能重回均线上方，则可能启动反弹行情，否则下行压力仍存。\n\n支撑位可关注2119附近，若跌破此位置可能触发进一步回调；阻力位在2130上方，突破将有利多头发力。交易者应谨慎操作，避免追高，可考虑在支撑附近逢低布局，或待价格确认突破阻力后再入场。\n\n综合来看，以太坊短期呈现盘整偏弱震荡格局。建议保持观望，关注关键支撑与阻力位，同时密切留意MACD变化和价格对SMA20的反应，以便及时调整交易策略。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently consolidating near the $2124 mark after a narrow 24-hour range between $2119.25 and $2130.14. The price is slightly below the 20-period simple moving average of $2128.58, indicating a mild short-term bearish bias. Market momentum appears subdued as the daily change is minimal at 0.08%, suggesting indecision among traders. Traders should watch for a decisive move above $2130 to confirm a resumption of upward momentum or a breakdown below $2119 to signal further downside.\n\nThe MACD reading of -2.26776 points to lingering bearish pressure, even though the signal line is unavailable for a full crossover analysis. The absence of an RSI value limits overbought/oversold interpretation, but the close proximity to the SMA implies a potential equilibrium zone. The current pattern indicates that ETH is range-bound, and market participants are likely awaiting broader catalysts, such as macroeconomic news or network developments, before committing to larger positions.\n\nImmediate support is positioned around $2119, reinforced by intraday lows, while resistance sits at $2130, aligned with recent highs and psychological barriers. Should ETH breach the SMA decisively, traders may target the next resistance near $2150, with a stop-loss just below $2115 to manage risk. Conversely, a breakdown could expose ETH to $2100, a key technical support and potential accumulation zone for buyers.\n\nFrom a trading perspective, a cautious approach is recommended. Range-bound strategies, such as scalping between support and resistance, may be most effective until momentum indicators clarify direction. Breakout traders should wait for confirmation beyond $2130 or under $2119, as premature entries risk false signals. Overall, ETH/USD appears poised for either a measured uptrend or a minor correction, with volatility likely to remain contained in the short term."
+    }
+  }
+}
