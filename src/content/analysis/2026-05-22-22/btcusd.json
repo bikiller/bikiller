@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-22T22:18:13.083Z",
+  "price": {
+    "close": "75780.62",
+    "high": "75901.6",
+    "low": "75745.98",
+    "open": "75880.29",
+    "change": "-0.13",
+    "datetime": "2026-05-22 22:00:00"
+  },
+  "indicators": {
+    "rsi": 27.23328,
+    "macd": -399.49329,
+    "macd_signal": -257.12797,
+    "sma20": 76880.6155
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期承压整理，反弹受限",
+      "content": "目前比特币价格徘徊在75780附近，接近日内低点75745.98，显示短期市场多空力量较为均衡。价格低于20日均线SMA(20)=76880.62，表明上行动能受抑，趋势仍偏弱。整体走势呈现震荡下行的风险，投资者应警惕短线回调压力。\n\nMACD显示当前值-399.49，虽缺少信号线对比，但负值说明空头力量占优，市场存在延续下跌的可能。若RSI数据可用，将进一步确认超买或超卖情况，但现阶段短线技术指标倾向防守。均线及震荡指标共同提示，多头需等待更明确的反转信号。\n\n支撑位方面，近期重点关注75700-75650区域，若跌破将触发进一步回落压力。阻力位则在SMA(20)附近76880及高点75901，若价格冲高未能有效突破，可能形成二次回调。短期区间震荡特征明显，市场情绪谨慎。\n\n交易建议上，短线可考虑逢低轻仓布局，严格控制止损在75700下方。激进交易者可关注价格突破SMA20后再介入，结合量能确认趋势延续。整体策略应以防守为主，等待趋势明朗再加仓，以避免高位追涨风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has been showing subtle signs of consolidation around the $75,780 level, with the 24-hour range between $75,745.98 and $75,901.6 reflecting limited volatility. The short-term trend appears mildly bearish, as the current price sits below the 20-period simple moving average (SMA) at $76,880.62. This suggests sellers are exerting slight pressure, although the narrow trading range indicates indecision among market participants. Observing the price action near this SMA will be critical to gauge whether a corrective rebound or continued retracement develops.\n\nThe MACD reading of -399.49 further points to bearish momentum, although the signal line is currently unavailable. This negative MACD suggests that downward pressure has been accumulating, but without a full signal confirmation, the strength and duration of the trend remain uncertain. In the absence of RSI data, traders may rely on price structure and moving averages for confirmation, noting that the consolidation around support levels could provide temporary stabilization or potential entry points for counter-trend strategies.\n\nSupport levels are currently evident near the daily low at $75,745, with additional psychological support around $75,500. On the upside, initial resistance aligns with the SMA at $76,880, followed by stronger resistance near $77,200, where sellers previously emerged. Breaks of these key levels could define the next directional move. Monitoring intraday volume in these zones can offer additional clarity on the balance of buying and selling pressure.\n\nFrom a trading perspective, short-term traders may consider cautious long positions near the lower support if confirmation of a bounce occurs, using tight stops just below $75,700 to manage risk. Conversely, aggressive traders could explore short opportunities on retracements toward the SMA, targeting the $75,700–$75,500 support range. Given the current consolidation, patience and careful observation of breakout cues are essential to avoid whipsaw moves in this moderately bearish environment."
+    }
+  }
+}
