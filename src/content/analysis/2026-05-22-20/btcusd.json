@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-22T20:24:38.444Z",
+  "price": {
+    "close": "75833.56",
+    "high": "75926.19",
+    "low": "75737.07",
+    "open": "75769.45",
+    "change": "0.08",
+    "datetime": "2026-05-22 20:00:00"
+  },
+  "indicators": {
+    "rsi": 26.9401,
+    "macd": -337.18343,
+    "macd_signal": -185.87345,
+    "sma20": 77051.5275
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱，存在回调压力",
+      "content": "当前比特币价格维持在75833附近，接近近期高低区间中位，短期走势呈现横盘震荡特征。虽然价格略微高于日内低点，但仍低于20日均线77051，显示多头动能不足，市场短线偏谨慎。  \n\nMACD指标显示负值-337，趋势动能偏空，暗示空方压力存在。RSI暂缺，但结合价格与均线关系，短期可能承压回落。若价格无法突破20日均线，可能形成技术性回调。投资者需关注指标变化，警惕快速波动带来的风险。  \n\n关键支撑位初步落在75700附近，如失守可能进一步下探至75500区域；阻力位位于77050至77100区间，突破则可能重拾短线上攻趋势。交易者应结合成交量确认突破有效性，避免追高风险。  \n\n操作建议上，可在价格接近支撑位附近考虑低吸，止损控制在支撑下方约100-150美元；若价格接近均线阻力且未有效突破，可考虑短线减仓或轻仓做空，保持灵活仓位，控制回撤风险。整体短线仍以震荡偏弱策略为主，耐心等待趋势明朗。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a cautious sideways trend around the $75,800 level, reflecting a balance between short-term buying and selling pressures. The intraday range of roughly $75,737 to $75,926 suggests consolidation near the $76,000 psychological barrier. While the 24-hour change is negligible at 0.08%, this stability points to a market that is waiting for a catalyst to establish a clearer directional bias. Traders should note that momentum appears subdued as price hovers below the 20-period SMA of $77,051, hinting at short-term bearish pressure.\n\nFrom an indicator standpoint, the MACD reading of -337.18 indicates that bearish momentum currently dominates, even though the absence of the signal line prevents a precise crossover analysis. The unavailability of the RSI leaves some uncertainty in gauging overbought or oversold conditions, though the modest price movements suggest neither extreme is present. The combination of these metrics implies that buyers are hesitant to push significantly higher, while sellers are not aggressively accelerating the downtrend, reinforcing the sideways consolidation narrative.\n\nKey support levels are near $75,700, aligning with recent intraday lows, and $75,500, which could act as a stronger defensive barrier if market sentiment turns negative. On the upside, immediate resistance is observed around $76,000, with a stronger hurdle at $77,050, coinciding with the 20-period SMA. Breaching these resistance levels would likely invite renewed bullish interest, whereas a break below support could trigger short-term downside targeting $75,000 and potentially lower psychological floors.\n\nFor trading strategy, short-term traders might consider range-bound approaches, buying near support with tight stops and trimming positions near resistance. Momentum traders should wait for clear MACD or SMA confirmations before committing to directional trades. Longer-term investors could remain patient, watching for a sustained breakout above $77,050 or breakdown below $75,500, which would provide a more reliable entry signal aligned with broader market sentiment."
+    }
+  }
+}
