@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-22T10:01:13.442Z",
+  "price": {
+    "close": "2124.17",
+    "high": "2124.89",
+    "low": "2119",
+    "open": "2122.07",
+    "change": "0.09",
+    "datetime": "2026-05-22 09:00:00"
+  },
+  "indicators": {
+    "rsi": 44.86963,
+    "macd": -1.2522,
+    "macd_signal": 0.089621757,
+    "sma20": 2132.032
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱",
+      "content": "目前ETH/USD价格围绕2124美元徘徊，日内波动幅度较小，显示市场短期缺乏明确方向。价格低于20日均线2132美元，表明中期趋势偏空，但上方阻力有限，短线仍可能在2120-2135区间内震荡整理。  \n\nMACD指标为-1.25220，虽然信号线未提供，但负值暗示空头动能仍在，价格可能面临轻微下行压力。RSI暂缺，但考虑当前微幅上涨0.09%，动量相对平稳，暂未出现超买或超卖情况。投资者需关注指标后续变化以捕捉潜在反转信号。  \n\n支撑位关注2119美元，若跌破该位置可能引发进一步下探至2100附近。阻力位则在2132美元和2140美元区域，突破可引发短期反弹，但上行动能可能受限。结合均线与震荡区间，短线操作应谨慎。  \n\n交易建议上，偏向区间交易策略：可在支撑附近尝试小额多单，止损设在2115美元以下；在阻力附近考虑减仓或轻仓空单，止盈设在2128-2132美元区间。总体来看，短期市场仍偏弱震荡，追涨需谨慎，保持风控为主。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently holding a near-neutral stance against the US Dollar, with a last price of $2124.17 and minimal 24-hour movement of 0.09%. The narrow daily range between $2119 and $2124.89 indicates consolidation, suggesting that the market is waiting for a catalyst. The short-term trend appears slightly bearish as the price remains below the 20-period simple moving average at $2132.03, hinting at mild selling pressure in the immediate term.\n\nLooking at momentum indicators, the MACD is negative at -1.2522, pointing to bearish tendencies. The absence of the signal line and RSI complicates the full interpretation, but the current MACD reading suggests that downward momentum may still have some room to run. Traders should be cautious of entering long positions without confirmation from other momentum tools or upcoming candlestick patterns signaling reversal or continuation.\n\nKey support for ETH/USD lies near the daily low of $2119, providing a potential entry zone for buyers seeking lower-risk positions. Resistance is located around the 20-SMA at $2132 and the daily high at $2124.89, forming a tight range. A decisive break above $2132 could attract short-term buyers, while a fall below $2119 may trigger a test of $2100, potentially signaling a short-term bearish continuation.\n\nTrading strategies in this environment should focus on range-bound approaches, considering both scalps near support and resistance, as well as cautious swing trades if the market confirms a directional move. Aggressive positions are not recommended until clearer trends or breakouts develop. Risk management with tight stop losses and incremental position sizing will help navigate this period of low volatility effectively, preserving capital while waiting for stronger directional cues."
+    }
+  }
+}

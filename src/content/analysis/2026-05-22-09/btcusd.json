@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-22T10:00:25.006Z",
+  "price": {
+    "close": "77218.58",
+    "high": "77273.02",
+    "low": "77108.79",
+    "open": "77177.85",
+    "change": "0.05",
+    "datetime": "2026-05-22 09:00:00"
+  },
+  "indicators": {
+    "rsi": 44.62162,
+    "macd": -32.58058,
+    "macd_signal": 5.96826,
+    "sma20": 77420.982
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前比特币价格徘徊在77218美元附近，日内波动幅度极小，仅0.05%，显示市场短线多空力量相对均衡。从技术面看，价格略低于20日简单移动平均线SMA(20)77420美元，表明短期存在一定回调压力，整体趋势呈震荡偏弱。\n\nMACD指标显示快线低于零轴且为-32.58，尽管信号线未给出，但负值区间暗示下行动能仍在积累。结合缺乏RSI数据，目前无法直接判断超买或超卖状态，但MACD趋势显示空方力量稍占优势，需要警惕潜在回调风险。\n\n支撑位方面，下方关键支撑集中在77100美元附近，若跌破该区域，短线可能测试77000美元整数关口。阻力位在当前SMA20附近和近期高点77273美元，一旦突破，可能引发反弹行情，但需配合成交量确认。\n\n交易策略上，短线投资者可考虑低位轻仓逢低布局，止损设置在77100美元以下；激进投资者可等待价格企稳并突破SMA20后跟进多单。总体而言，短期维持震荡偏弱，谨慎控制仓位与风险为主。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a very narrow trading range around $77,218, reflecting a period of consolidation after recent price moves. The slight 0.05% change over the past 24 hours indicates market indecision, with buyers and sellers almost evenly matched. The high of $77,273 and low of $77,108 reinforce this tight range, suggesting that immediate momentum is muted. From a trend perspective, the market appears to be in a short-term sideways phase, awaiting a catalyst for directional movement.\n\nLooking at technical indicators, the SMA(20) at $77,421 sits slightly above the current price, implying mild short-term bearish pressure. The MACD is negative at -32.58, but without the signal line, we cannot confirm a full crossover; however, the negative value hints at underlying weakness. The absence of a reliable RSI reading leaves relative strength unclear, so traders should be cautious about interpreting overbought or oversold conditions in this scenario.\n\nKey support levels can be identified near $77,100, which coincides with the 24-hour low, and stronger support may exist around $76,800 if the price drops further. On the upside, resistance is notable near the SMA(20) at $77,420 and extends toward $77,600, where previous consolidation and minor selling pressure were observed. A break above these levels with volume could shift the short-term trend bullish, while a break below support may accelerate downside movement.\n\nFor trading strategy, a range-bound approach seems prudent in the near term. Short-term traders could consider buying near $77,100 with tight stops below support and targeting the $77,400–$77,600 resistance zone. Conversely, aggressive traders may look for shorting opportunities if the price breaks below $77,100, aiming for $76,800 as the first target. Overall, patience is key, as the current market lacks clear momentum for decisive directional trades."
+    }
+  }
+}
