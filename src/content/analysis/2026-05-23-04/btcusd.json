@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-23T04:53:24.139Z",
+  "price": {
+    "close": "75452.9",
+    "high": "75565.75",
+    "low": "75417",
+    "open": "75545.71",
+    "change": "-0.12",
+    "datetime": "2026-05-23 04:00:00"
+  },
+  "indicators": {
+    "rsi": 29.53846,
+    "macd": -503.14882,
+    "macd_signal": -440.25248,
+    "sma20": 76276.245
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理偏弱",
+      "content": "当前比特币价格略低于20日均线(SMA20=76276.25)，显示短期内上行动能不足，市场存在一定回调压力。价格在75417至75565区间震荡，短线多空力量相对均衡，整体呈现弱势整理格局。  \n\nMACD指标为-503.15，显示空头动能占优，但缺乏信号线对比数据，无法确认强弱趋势延续性。若RSI能在未来提供读数，可进一步判断超买或超卖状态。技术指标提示投资者需关注动能变化，避免盲目追高。  \n\n支撑位方面，可关注75400-75420附近区域，若价格跌破此位置，可能触发短期回调。阻力位集中在76250-76300，若突破，则可能带来反弹机会。市场成交量维持低位，表明参与热情有限。  \n\n交易策略上，建议短线以区间操作为主，低位轻仓买入，高位谨慎减仓或观望。中线投资者应等待明确趋势信号后再建仓，防止在震荡区间遭受不必要波动风险。谨慎跟踪技术指标变化，合理控制仓位。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting signs of mild consolidation around the $75,450 level. The 24-hour price action shows a negligible decline of 0.12%, indicating indecision among market participants. Price remains below the 20-period SMA at $76,276, suggesting the short-term momentum is slightly bearish. The daily high of $75,565 and low of $75,417 define a narrow trading range, reinforcing that the market is pausing before deciding its next directional move.\n\nThe MACD reading of -503.15 points to persistent downward pressure, although the absence of a signal line limits the precision of crossover-based forecasts. In combination with the price sitting under the SMA(20), the technical setup implies that sellers have modest control, but there is no strong trending conviction yet. Traders should watch for a MACD convergence or divergence with price to anticipate potential reversals or acceleration in the prevailing trend.\n\nSupport appears to be forming near $75,000, a psychological and technical floor that could absorb selling pressure. Resistance is evident around $76,300–$76,500, coinciding with the SMA(20) and prior intra-day highs. A sustained breakout above this range would validate a bullish shift, while a breach below support could open the path toward $74,500. Monitoring these levels is crucial for setting stop-losses and target exits in short-term strategies.\n\nGiven the current setup, conservative traders might consider waiting for a clear breakout or confirmation of trend direction before initiating new positions. For more aggressive participants, short-term scalping around the $75,000–$76,500 corridor could capture limited swings, but risk management is essential due to low volatility and potential false breakouts. Overall, the technical picture favors cautious engagement with close attention to momentum indicators and key levels."
+    }
+  }
+}

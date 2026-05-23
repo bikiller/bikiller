@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-23T04:54:07.125Z",
+  "price": {
+    "close": "2067.77",
+    "high": "2071.28",
+    "low": "2065.52",
+    "open": "2070.83",
+    "change": "-0.15",
+    "datetime": "2026-05-23 04:00:00"
+  },
+  "indicators": {
+    "rsi": 31.25306,
+    "macd": -16.39997,
+    "macd_signal": -14.22203,
+    "sma20": 2095.9405
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期盘整偏弱",
+      "content": "目前ETH/USD在2067.77附近交投，较SMA(20) 2095.94明显偏低，短期均线压力明显，显示上行动能不足，价格处于弱势震荡阶段。24小时微幅下跌-0.15%，短线趋势偏向整理，未出现明确突破信号，需关注成交量变化以确认方向。\n\nMACD处于-16.39997，虽然Signal值缺失，但负值提示空方动能仍占优势，短期仍偏弱。RSI数据暂不可用，但结合价格与均线位置判断，市场多空力量接近平衡，短线反弹可能受阻于SMA20上方2095附近阻力。\n\n支撑位可关注2065.5的日内低点，若下破则有可能测试2050-2045区间；阻力位在2071-2095附近，上方进一步阻力可延伸至2100整数关口。区间内震荡概率较大，突破信号确认前不宜追高。\n\n交易策略上，短线可考虑低位轻仓逢低承接，严格设置止损于2060下方，止盈目标可设在2080附近；激进交易者可在价格突破2100后跟进顺势多单。整体建议保持观望为主，等待技术指标出现明确多头信号再加仓。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently hovering around $2067.77, showing minimal downward movement over the past 24 hours. The price remains below the 20-day simple moving average (SMA) of $2095.94, signaling a short-term bearish bias. The daily high of $2071.28 and low of $2065.52 suggest consolidation within a narrow range. Traders should note that persistent resistance near the SMA could keep the price capped unless accompanied by strong volume or broader market momentum.  \n\nThe MACD reading at -16.40 indicates bearish momentum, although the lack of a signal line value makes cross confirmation difficult. This negative divergence suggests that sellers are slightly dominant, but the minimal price change indicates market indecision. Absence of a recent RSI value prevents precise overbought/oversold evaluation, but the small 24-hour decline hints at near-neutral sentiment. A break above $2095 could shift momentum toward bullish territory, while a drop below $2060 may accelerate downward pressure.  \n\nKey support is currently around $2060, with the immediate resistance near $2095. If ETH remains between these levels, the market may continue sideways, allowing for range-bound trading opportunities. Short-term traders could consider buying near support with tight stops, targeting the upper resistance. Conversely, a break below $2060 could be used to initiate cautious short positions, emphasizing capital preservation due to potential volatility spikes.  \n\nFor swing traders, monitoring volume and trend confirmation will be crucial. The market’s current indecisiveness suggests waiting for a clear breakout or breakdown before committing to larger positions. Risk management should be prioritized, with stop-loss placements slightly beyond support or resistance. Overall, ETH exhibits cautious consolidation with a mild bearish tilt, and traders should be prepared for quick shifts if market catalysts emerge."
+    }
+  }
+}
