@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-23T14:46:02.174Z",
+  "price": {
+    "close": "2051.91",
+    "high": "2052.99",
+    "low": "2040.87",
+    "open": "2044.72",
+    "change": "0.36",
+    "datetime": "2026-05-23 14:00:00"
+  },
+  "indicators": {
+    "rsi": 40.91768,
+    "macd": -18.44147,
+    "macd_signal": -19.59802,
+    "sma20": 2055.0845
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理偏弱",
+      "content": "当前以太坊价格围绕2052美元窄幅震荡，整体呈现横盘整理格局。短线多空拉锯明显，上方受制于均线压制，趋势尚未形成明确方向突破信号。\n\nMACD指标显示当前值为-18.44，动能略偏空但有收敛迹象，空头力量减弱。由于RSI数据缺失，短期超买超卖判断有限，需结合价格行为辅助分析。\n\n下方关键支撑位于2040附近，若失守可能下探2020区域。上方阻力集中在2055均线及2060整数关口，突破后有望打开上行空间。\n\n当前建议以区间交易思路为主，关注2055上方突破确认与2040下方跌破信号，操作上等待方向选择后再顺势跟进并严格控制风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently hovering around $2051.91, showing modest intraday strength with a 0.36% gain. Price action remains just below the 20-period SMA at $2055.08, suggesting a slight short-term bearish bias despite recent upward momentum. The daily high of $2052.99 and low of $2040.87 indicate consolidation within a tight range, reflecting market indecision. Traders should monitor whether the price can decisively break above the SMA to confirm renewed bullish pressure.\n\nTechnical indicators provide a mixed outlook. The MACD reading at -18.44, without a confirmed signal line, points to prevailing bearish momentum, though the absence of RSI data makes overbought/oversold conditions unclear. The current price under the SMA emphasizes potential resistance near $2055, while immediate support lies at $2040. A break below this level could trigger deeper retracement toward $2025, whereas a push above the SMA may open a path to $2065-$2070.\n\nSupport and resistance levels are critical in guiding short-term trades. Key support zones are at $2040 and $2030, with stronger support around $2020, serving as risk management anchors for longs. Resistance is clustered around $2055 and $2065, where sellers may reassert control. Traders should watch volume spikes and candlestick confirmation to assess breakout validity, as false moves are common in tight ranges like this.\n\nFrom a trading perspective, a conservative approach favors waiting for confirmation of trend direction. Long positions may be considered on a sustained break above $2055 with increasing volume, targeting $2065-$2070. Short-term traders can also capitalize on oscillations between $2040 and $2055, employing tight stop-losses to manage risk. Overall, Ethereum remains range-bound with potential for breakout if momentum indicators align."
+    }
+  }
+}
