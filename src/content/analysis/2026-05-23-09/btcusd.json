@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-23T09:48:03.323Z",
+  "price": {
+    "close": "74663.57",
+    "high": "74674.34",
+    "low": "74524.59",
+    "open": "74591.08",
+    "change": "0.09",
+    "datetime": "2026-05-23 09:00:00"
+  },
+  "indicators": {
+    "rsi": 23.75305,
+    "macd": -591.9225,
+    "macd_signal": -516.67253,
+    "sma20": 75678.656
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱，关注关键支撑表现",
+      "content": "当前比特币价格维持在74600美元附近窄幅整理，24小时波动有限，显示市场观望情绪较浓。从价格结构看，币价仍运行于20日均线下方，中短期趋势偏弱，反弹动能暂未明显恢复。\n\n技术指标方面，MACD维持负值区域，说明空头力量依旧占据主动，短线存在进一步回踩风险。虽然RSI数据暂未提供，但结合当前低波动走势判断，市场处于弱平衡状态，方向选择临近。\n\n支撑位方面，74500美元附近构成短线首要防守区域，若失守则可能进一步测试73800美元一线。上方阻力重点关注75600至76000美元区域，该位置与20日均线重合，压制作用较强。\n\n操作上，激进交易者可关注74500美元附近的短线反弹机会，但需严格设置止损。稳健策略建议等待价格重新站稳20日均线后再考虑顺势做多，在趋势未明确前应控制仓位与杠杆风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a tight range near $74,660, showing minimal intraday movement with a 0.09% change over 24 hours. The price remains below the 20-period simple moving average (SMA) at $75,679, suggesting that short-term momentum favors sellers. Recent highs and lows indicate consolidation between $74,525 and $74,674, forming a narrow channel. This sideways action reflects market indecision, often preceding a breakout in either direction.\n\nThe MACD reading at -591.92, with the signal line unavailable, highlights a lingering bearish bias. While RSI data is absent, the proximity to the SMA implies weakening upward momentum. Traders should note that negative MACD values typically signal potential for continued downward pressure unless offset by strong support. A break above the SMA could shift sentiment, providing confirmation of a short-term bullish reversal.\n\nKey support is located around $74,500, reinforced by the lower bound of the current trading range, while resistance sits near the SMA at $75,680 and short-term highs at $74,674. A decisive move above this resistance could open the path to $76,000, whereas a drop below support may see a test of $74,000. Monitoring volume during these tests will be crucial, as low participation could make breakouts less reliable.\n\nFrom a trading standpoint, a conservative approach is advisable. Range-bound strategies like scalping between support and resistance may offer small, low-risk gains. For breakout traders, waiting for clear confirmation above $75,680 or below $74,500 with accompanying volume would reduce false signals. Risk management is essential, with stop-losses positioned just outside the established range to protect against sudden volatility."
+    }
+  }
+}
