@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-24T13:16:58.812Z",
+  "price": {
+    "close": "76950.5",
+    "high": "77026.47",
+    "low": "76907.58",
+    "open": "77013.65",
+    "change": "-0.08",
+    "datetime": "2026-05-24 13:00:00"
+  },
+  "indicators": {
+    "rsi": 59.96187,
+    "macd": 301.28093,
+    "macd_signal": 279.9276,
+    "sma20": 76725.4565
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏强运行",
+      "content": "BTC/USD当前维持高位窄幅整理，最新价格稳定在76950附近，日内波动较小，显示多空双方暂时处于均衡状态。价格仍运行于SMA20均线76725上方，中短期趋势保持偏多结构，但上行动能有所放缓。\n\n从技术指标观察，MACD数值维持在301附近，说明市场仍存在一定多头动能，不过信号线数据缺失，短线趋势确认度有限。RSI暂未提供，意味着当前超买或超卖状态无法明确判断，市场更偏向震荡整理格局。\n\n关键支撑位关注76700及76900区域，一旦跌破，可能回测76500附近买盘支撑。上方阻力位集中在77050至77200区间，若有效突破，将有机会重新测试前期高点并进一步打开上涨空间。\n\n操作策略方面，短线交易者可采取区间高抛低吸思路，等待突破后顺势跟进。激进多头可依托76700上方轻仓布局，但需严格设置止损。若价格持续受压于77050下方，需警惕短期获利回吐带来的调整风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading around 76950 after a very tight 24h range, indicating short-term consolidation rather than directional expansion. Price action remains compressed near intraday highs, suggesting equilibrium between buyers and sellers. Despite the slight negative daily change, structure remains resilient above recent support levels, with no clear breakdown momentum. Market behavior implies indecision while participants await a catalyst for the next volatility phase.\n\nThe MACD reading at 301.28 suggests positive momentum is still present, though without a provided signal line the strength of trend confirmation remains partial. Trading above the 20-period SMA at 76725 reinforces a mild bullish bias in the short term. However, the narrow spread between price and moving average indicates weakening momentum, with buyers defending gains but lacking strong impulsive continuation.\n\nImmediate resistance is located near 77026, where recent highs have repeatedly capped upside attempts. A breakout above this zone could open room toward higher intraday extension levels. On the downside, initial support sits near 76900, aligned with the session low, followed by stronger structural support at the 20-SMA around 76725, which acts as a dynamic equilibrium zone. Overall range remains tight, reinforcing consolidation conditions in the short term.\n\nShort-term traders may consider range-bound strategies, favoring mean reversion between 76900 support and 77026 resistance until a decisive breakout occurs. Breakout traders should wait for sustained closes above resistance or below the 20-SMA to confirm direction. Risk management remains crucial given compressed volatility, with tight stops recommended. Momentum confirmation via MACD continuation would strengthen bullish scenarios, while failure to hold support could trigger deeper retracement."
+    }
+  }
+}
