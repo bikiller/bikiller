@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-24T19:50:04.050Z",
+  "price": {
+    "close": "76611.49",
+    "high": "76650",
+    "low": "76512.02",
+    "open": "76565.21",
+    "change": "0.06",
+    "datetime": "2026-05-24 19:00:00"
+  },
+  "indicators": {
+    "rsi": 52.43187,
+    "macd": 111.51213,
+    "macd_signal": 176.24161,
+    "sma20": 76729.905
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘整理，震荡偏弱",
+      "content": "当前比特币价格在76611美元附近震荡，较前一交易日几乎无明显涨跌，显示短期多空力量相对均衡。日内高低点分别为76650与76512，价格在SMA(20)76729之下略有承压，短线存在轻微下行压力。\n\nMACD值为111.51，虽缺少信号线对比，但整体正值提示多头仍有一定支撑，但动力不足，RSI未提供，需结合价格行为观察超买或超卖状态。均线临近区域对价格形成温和阻力，若突破需注意回调风险。\n\n支撑位初步在76500附近，跌破可能进一步测试76200-76000区域；阻力位在76750-76800区间，突破后短线或有上攻空间。整体波动幅度有限，趋势尚不明朗，投资者应谨慎操作，避免追高。\n\n建议短线交易可以区间操作为主，低位逐步吸纳多单，靠近阻力区可适度减仓或观望。中线投资者可等待价格稳定突破SMA20及阻力位后再介入，以降低风险并提高进场成功率。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading in a narrow range near 76,611, reflecting a market that is consolidating rather than showing strong directional momentum. Price remains slightly below the 20-period SMA at 76,729, which suggests short-term bearish pressure or at least a lack of bullish conviction. The very tight 24-hour range between 76,512 and 76,650 reinforces the idea of indecision, with buyers and sellers currently balanced around this zone after recent upward movement.\n\nThe SMA relationship indicates that Bitcoin needs to reclaim and hold above 76,730 to reestablish short-term upside momentum. Until that happens, the immediate bias leans neutral-to-softly bearish. MACD remains positive at 111.51, which suggests underlying bullish momentum has not fully disappeared, although the absence of a signal line limits confirmation. RSI data is unavailable, so momentum analysis relies more heavily on price structure and moving average positioning, making breakout confirmation particularly important.\n\nKey support is developing around 76,500, which aligns closely with the session low and serves as the first defense for buyers. A break below that level could expose 76,300 and potentially 76,000 as psychological and technical downside targets. On the upside, resistance sits at 76,650 initially, followed by the SMA region near 76,730. A decisive move above that zone could open the path toward 77,000, where stronger selling pressure may emerge.\n\nTraders may consider a cautious range-trading approach while price remains compressed between support and resistance. Bullish entries become more attractive only on a confirmed breakout above 76,730 with momentum follow-through, while downside breaks below 76,500 could favor short-term defensive or short-biased setups. Given the tight volatility and mixed signals, patience is warranted, with disciplined stop-loss placement essential until Bitcoin shows clearer directional intent."
+    }
+  }
+}
