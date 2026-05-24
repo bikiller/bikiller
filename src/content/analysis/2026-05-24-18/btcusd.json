@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-24T18:14:29.833Z",
+  "price": {
+    "close": "76627.6",
+    "high": "76630.87",
+    "low": "76536.01",
+    "open": "76591.25",
+    "change": "0.05",
+    "datetime": "2026-05-24 18:00:00"
+  },
+  "indicators": {
+    "rsi": 52.73572,
+    "macd": 125.49611,
+    "macd_signal": 193.41937,
+    "sma20": 76734.0245
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，谨慎偏多",
+      "content": "当前比特币价格徘徊在76627.6附近，日内波动有限，整体呈现轻微横盘趋势。20日简单移动平均线（SMA20）位于76734.02略高于现价，显示短期上行动力受阻，但仍有支撑。价格在76536至76630区间内波动，表明市场在高位存在观望情绪。  \n\nMACD指标显示多头动能仍在，但缺乏明确信号线对比，提示趋势尚不明朗。若未来几日价格收盘持续在SMA20之上，有望逐步突破近期区间形成上行确认。相反，如果跌破76536支撑，短线可能进入回调整理。  \n\n支撑位参考76536和76400附近，若触及可考虑短线逢低布局；阻力位关注76735和76850，突破需警惕短线回撤风险。RSI数据缺失，短期超买/超卖状态无法直接判断，但从价格横盘特征来看，市场仍处于整理阶段。  \n\n交易策略上，建议以区间波段操作为主，逢低买入、靠近阻力位减仓或观望，避免追高。投资者可设置止损位于76400下方，以控制风险，同时关注整体比特币市场情绪和主流消息面，结合技术指标灵活调整仓位。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading at 76,627.6, showing a largely neutral short-term profile after a very narrow intraday range between 76,536.01 and 76,630.87. The minimal 24-hour gain of 0.05% indicates a balance between buyers and sellers, with neither side demonstrating clear control. Price action remains slightly below the 20-period simple moving average at 76,734.02, suggesting that bullish momentum has softened and the market is consolidating rather than extending higher.\n\nThe moving average structure provides an important technical signal. Trading beneath the SMA(20) often reflects short-term weakness and may encourage caution among momentum traders. At the same time, the MACD value of 125.50 remains positive, indicating that the broader underlying trend still favors buyers despite the recent slowdown. The absence of RSI and MACD signal-line data limits confirmation, but the positive MACD reading suggests that bearish pressure has not yet developed into a significant trend reversal.\n\nFrom a price-structure perspective, immediate support is located near the session low at 76,536, with additional psychological support around 76,500. A sustained break below this area could expose deeper downside toward the 76,300–76,000 region. On the upside, resistance is evident near the SMA(20) at 76,734, followed by the recent high around 76,631 and a broader resistance zone near 76,800–77,000. A decisive move above these levels would improve the probability of renewed bullish momentum.\n\nFor traders, patience may be preferable while the market remains trapped in a tight consolidation range. Aggressive bullish positions become more attractive only after a confirmed breakout above 76,734–76,800 with increasing momentum. Conversely, a breakdown below 76,500 could create short-term selling opportunities targeting lower support levels. Risk management remains essential, with stop-loss placement outside key support or resistance zones helping to protect against sudden volatility in the cryptocurrency market."
+    }
+  }
+}
