@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-24T20:50:37.666Z",
+  "price": {
+    "close": "76565.79",
+    "high": "76699",
+    "low": "76500",
+    "open": "76677.77",
+    "change": "-0.15",
+    "datetime": "2026-05-24 20:00:00"
+  },
+  "indicators": {
+    "rsi": 51.13008,
+    "macd": 101.0045813,
+    "macd_signal": 161.80392,
+    "sma20": 76723.508
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱，关注关键支撑争夺",
+      "content": "当前BTC/USD维持窄幅整理，价格运行于76500美元附近，短线走势偏弱。24小时跌幅有限，说明空头虽占优，但抛压尚未明显扩大，市场整体仍处于高位震荡阶段，多空情绪较为谨慎。\n\n从技术指标观察，现价低于SMA20均线76723附近，显示短期动能略偏空。MACD维持正值，说明中期趋势尚未彻底转弱，但若后续量能不足，指标可能逐步形成顶背离结构，需警惕回调风险。\n\n关键支撑位关注76500一线，该位置同时接近日内低点，若失守，价格可能进一步测试76200区域。上方阻力集中在76700至77000区间，若有效突破并站稳，市场有望重新挑战前高压力。\n\n交易策略方面，短线建议以区间高抛低吸为主，激进交易者可关注76500附近的企稳反弹机会。若价格重新站上20日均线，可考虑顺势跟多；反之跌破支撑后，应注意控制仓位并严格止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s current price action near $76,565 suggests a short-term consolidation phase. The market has been trading in a very tight range between $76,500 and $76,699 over the last 24 hours, indicating that buyers and sellers are roughly balanced. Despite the minor 0.15% decline, the price remains close to the 20-period simple moving average at $76,723, which can act as a dynamic pivot. This proximity suggests that momentum is currently neutral, awaiting a decisive breakout to define the next directional move.  \n\nThe MACD reading of 101.0045, while positive, lacks a corresponding signal line, making trend confirmation challenging. Ordinarily, a rising MACD above its signal would indicate bullish momentum, but without the signal line, traders should rely more on price structure and support/resistance zones. The absence of a valid RSI prevents assessment of overbought or oversold conditions, adding to the need for caution in short-term entries. Nevertheless, the small negative change hints that sellers are slightly edging out buyers, though not strongly enough to establish a clear downtrend.  \n\nKey support lies at $76,500, which has held multiple intraday tests and can act as a buffer against deeper declines. Resistance is seen at the recent high of $76,699, and a successful break above this level could trigger a short-term bullish move targeting $77,000. A failure to hold the support zone may expose the $76,300 level, aligning with psychological round-number support. Traders should monitor volume closely, as low activity may prolong the current range-bound behavior, whereas increased participation could accelerate either breakout or breakdown scenarios.  \n\nFor tactical positioning, cautious traders may prefer to await a confirmed move above resistance before entering long positions, targeting nearby highs with tight stop-losses below $76,500. More aggressive traders might consider small long positions within the support zone, balancing risk with immediate upside potential. Conversely, short entries may be appropriate only if support at $76,500 breaks decisively, confirming short-term bearish momentum. Overall, the market’s neutral stance warrants patience and disciplined risk management while awaiting a clear directional bias."
+    }
+  }
+}
