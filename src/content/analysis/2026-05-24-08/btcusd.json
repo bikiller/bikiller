@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-24T08:02:11.032Z",
+  "price": {
+    "close": "76703.04",
+    "high": "76732",
+    "low": "76693.99",
+    "open": "76710.3",
+    "change": "-0.01",
+    "datetime": "2026-05-24 08:00:00"
+  },
+  "indicators": {
+    "rsi": 59.28025,
+    "macd": 275.53211,
+    "macd_signal": 226.055564,
+    "sma20": 76299.421
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，关键支撑稳固",
+      "content": "当前比特币价格维持在76703.04美元附近，日内波动极小，仅下跌0.01%，显示市场短期多空力量接近平衡。价格紧贴20日均线(SMA20)76299.421美元，表明多头仍有一定支撑，短线偏多格局尚未破坏，但上行动力有限。\n\nMACD指标显示值为275.53211，但信号线缺失，难以判断完整趋势，但正值暗示多头趋势尚存。若MACD形成金叉，将增强上攻信号；反之若形成死叉，则可能触发回调压力。缺乏RSI数据需警惕超买超卖情况无法确认，短期波动需密切关注量能变化。\n\n关键支撑位于76299美元附近，即SMA20位置，下方支撑在76150美元附近；阻力位在当前高点76732美元，以及进一步关注77000美元整数关口。价格若站稳阻力上方，可开启新一轮反弹，但若跌破支撑，则可能触发短线回撤。\n\n交易策略上，短线可考虑在支撑区轻仓低吸，止损设置在SMA20下方略低位置，持有者可关注阻力位附近分批减仓或观望。中线投资者应耐心等待MACD确认趋势信号，并结合成交量确认上行可持续性，再布局建仓或加仓。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has recently shown a tight consolidation around the $76,700 mark, with the 24-hour range between $76,693.99 and $76,732 reflecting low volatility. The short-term price movement suggests a neutral bias, hovering just above the 20-period simple moving average at $76,299. This indicates that while buyers have managed to hold a minor support level, momentum is lacking for a decisive upward or downward trend. Traders should be cautious of sudden breakouts from this consolidation zone.\n\nThe MACD reading of 275.53, without a signal line for direct comparison, hints at a modest bullish momentum building, though confirmation is needed. The absence of RSI data makes it harder to gauge overbought or oversold conditions, but the current price stability near the SMA suggests equilibrium between buying and selling pressure. Observing the MACD crossover and RSI when available will provide stronger directional insight and help refine short-term trade entries.\n\nImmediate support lies around the 20-SMA at $76,299, acting as a floor for the recent consolidation. Resistance is observed near the intraday high of $76,732, which, if breached, could open the path toward $77,000. Conversely, a breakdown below the SMA could trigger a test of lower support near $76,000. These levels serve as key reference points for traders looking to define risk and reward on short-term positions.\n\nFor trading strategy, cautious participants might consider range-bound trades, buying near the SMA support and selling near intraday resistance, with tight stop-losses to limit downside. More aggressive traders could wait for a confirmed breakout above $76,732 or a breakdown below $76,299, aligning positions with momentum. Overall, the market reflects a watchful environment, requiring close attention to volume and indicator signals for timely entries and exits."
+    }
+  }
+}
