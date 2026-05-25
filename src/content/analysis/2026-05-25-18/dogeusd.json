@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-25T19:00:21.706Z",
+  "price": {
+    "close": "0.10298",
+    "high": "0.10344",
+    "low": "0.10295",
+    "open": "0.10313",
+    "change": "-0.16",
+    "datetime": "2026-05-25 18:00:00"
+  },
+  "indicators": {
+    "rsi": 54.33062,
+    "macd": 0.0002205849,
+    "macd_signal": 0.00016274741,
+    "sma20": 0.102652
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：震荡偏弱整理",
+      "content": "当前价格在0.103附近窄幅震荡，24小时微跌，整体仍在0.1025上方整理，结构偏横盘，短线动能不足但未出现破位信号。\n\n技术指标方面，MACD仍维持轻微正值0.00022，显示多头动能尚存但逐步衰减，RSI未提供但从走势看处于中性区间，SMA20继续提供短线动态支撑。\n\n支撑位集中在0.1026附近的SMA20与0.1020整数关口，下方若失守可能回测0.1015区域；上方阻力在0.1034与0.1045一带，突破需放量配合。\n\n交易策略建议以区间思路为主，低吸高抛更稳健，激进者可在支撑附近轻仓做多，跌破0.1018应止损，反弹至阻力区逐步止盈并控制仓位风险。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently showing a subtle bearish undertone against the US Dollar, with its latest price at $0.10298, slightly below its 20-period simple moving average of $0.10265. The minimal 24-hour price change of -0.16% suggests consolidation rather than a strong directional bias. The intraday range between $0.10295 and $0.10344 indicates low volatility, reflecting a market that is pausing after minor fluctuations, likely awaiting a catalyst for momentum.\n\nThe MACD reading at 0.00022058490, despite lacking a signal line value, hints at a modest bullish momentum since the value is positive. However, the absence of an RSI makes it harder to gauge overbought or oversold conditions. Traders should interpret this cautiously, as positive MACD without RSI confirmation could signal a weak or developing upward trend rather than a strong bullish breakout. Monitoring volume alongside MACD divergence could clarify potential price direction.\n\nImmediate support for DOGE/USD appears near $0.10265, aligning with the SMA(20), which acts as a dynamic floor during consolidation phases. Resistance is likely around the recent high of $0.10344. A decisive move above this level could signal renewed upward momentum, while a break below the SMA might prompt a deeper retracement. Risk management strategies should consider these levels for stop-loss placement to avoid significant downside exposure.\n\nFor trading strategy, cautious long positions could be considered if price sustains above the SMA and MACD continues to show strength. Conversely, short-term traders might look for signs of MACD divergence or a breach below $0.10265 for potential short entries. Given the tight trading range, range-bound strategies could also be effective, capturing small oscillations between $0.10265 support and $0.10344 resistance while monitoring broader market sentiment for directional cues."
+    }
+  }
+}
