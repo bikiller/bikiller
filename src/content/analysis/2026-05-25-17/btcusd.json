@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-25T17:40:22.696Z",
+  "price": {
+    "close": "77500.01",
+    "high": "77740.38",
+    "low": "77500",
+    "open": "77663.16",
+    "change": "-0.21",
+    "datetime": "2026-05-25 17:00:00"
+  },
+  "indicators": {
+    "rsi": 59.77726,
+    "macd": 233.83139,
+    "macd_signal": 225.22736,
+    "sma20": 77267.672
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "当前比特币价格略高于20日均线（SMA20=77267.67），显示短期多头仍占据一定优势，但24小时下跌0.21%暗示买卖力量略有均衡。价格在77500附近获得支撑，而77740为近期高点，形成明显阻力区间，市场呈现小幅整理格局。\n\nMACD数值为233.83139，未给出信号线参考，但正值暗示中期趋势偏多。尽管RSI数据缺失，结合均线和价格波动可推测市场尚未进入超买状态，短线仍可能出现反弹。投资者应关注价格突破阻力或跌破支撑的信号，以确认趋势延续性。\n\n支撑位建议关注77500-77250区间，跌破可能加速回调；阻力位在77740-77800附近，若突破则有望打开上行空间。成交量的配合将进一步验证趋势强度，低位吸纳短线多单可降低风险。\n\n交易策略上，偏向短线逢低做多，止损设于支撑下方100-150美元。若价格回调至SMA20附近并出现反弹，可考虑中短线加仓。谨防高位追涨，保持仓位灵活，结合行情快速调整操作节奏。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin continues to trade in a narrow consolidation range around 77,500 USD after a mild 24-hour decline of 0.21%. Price action suggests indecision, with neither bulls nor bears establishing strong control. The market is hovering just above the 20-day SMA, indicating a fragile equilibrium. Momentum remains subdued, and volatility compression hints at a potential breakout, though direction remains uncertain without stronger confirmation in the short-term.\n\nBitcoin's MACD reading at 233.83 indicates positive momentum, though the absence of a signal line value limits crossover interpretation. The price trading slightly above the 20-day SMA at 77,267 suggests short-term support is holding. However, momentum divergence is possible as price action flattens. This reflects a market in transition, where bullish bias persists but lacks strong directional conviction at present market structure.\n\nImmediate support is observed near 77,250, aligning closely with the 20-day moving average and acting as a key intraday floor. A breakdown below this zone could expose 76,500 and then 75,800 as deeper corrective targets. On the upside, resistance stands at 77,740, followed by psychological resistance around 78,000. A sustained break above would signal renewed bullish momentum and potential continuation today.\n\nIn the current environment, range-bound strategies may be more effective than trend-following approaches. Traders may consider buying near support zones while taking partial profits near resistance levels to manage risk. Tight stop-loss placement below 76,500 can help protect against downside volatility if breakdown occurs. Overall positioning should remain cautious until a clear breakout confirms the next directional move in the market context."
+    }
+  }
+}
