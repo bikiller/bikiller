@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-25T14:46:19.413Z",
+  "price": {
+    "close": "77498.25",
+    "high": "77545",
+    "low": "77218.38",
+    "open": "77257.53",
+    "change": "0.31",
+    "datetime": "2026-05-25 14:00:00"
+  },
+  "indicators": {
+    "rsi": 62.048767,
+    "macd": 216.03131,
+    "macd_signal": 213.64628,
+    "sma20": 77088.366
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏强趋势",
+      "content": "当前比特币价格位于77498.25美元附近，短期呈现轻微上行态势。价格已经站上20日均线(SMA20)77088.37美元，显示多头有一定支撑，但整体波动幅度有限，说明市场仍处于观望状态，短期趋势偏震荡偏强。\n\nMACD指标显示主线为216.03，尽管信号线数据缺失，但当前值仍偏高，暗示价格上行动能尚存。结合价格在短期均线之上运行，多头力量略占优势，但RSI未提供数据，需要警惕超买或超卖信号缺失带来的判断盲区。\n\n支撑位关注77218美元附近低点，以及SMA20均线支撑；阻力位则在近期高点77545美元附近。若价格有效突破阻力位，有望继续测试78000美元整数关口；反之若跌破支撑位，则可能回探77000美元水平。\n\n交易策略上，短线可考虑在支撑附近低吸，设置止损于77150美元下方；对于激进者，可等待价格突破高点后顺势做多，控制仓位，注意市场消息面干扰风险，保持严格风控以应对震荡行情。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently displaying a mildly bullish consolidation near $77,500. Price action shows a narrow 24-hour range between $77,218 and $77,545, indicating low volatility and market indecision. The fact that the latest price sits above the 20-period SMA at $77,088 suggests short-term bullish pressure, although momentum appears muted given the minimal 0.31% daily change. Traders may view this as a period of accumulation before the next directional move.  \n\nThe MACD reading at 216.03, without a signal line provided, implies the potential for continued upward momentum, but caution is warranted as confirmation is lacking. In the absence of an RSI value, overbought or oversold conditions are unclear, making reliance on price structure and moving averages more critical. Short-term traders should watch for a decisive break above the recent high to validate bullish continuation, or a drop below SMA support to signal a potential retracement.  \n\nImmediate support is likely around the 20-period SMA at $77,088, with secondary support near the intraday low of $77,218. Resistance is encountered near the intraday high of $77,545, followed by a psychological barrier at $78,000. A close above these levels could signal further upside potential, while failure to hold SMA support might trigger minor pullbacks toward $76,800–$76,500, offering opportunistic entry points for disciplined buyers.  \n\nTrading suggestions favor a measured approach. Momentum traders might consider scaling into long positions above $77,550 with tight stop-losses just below $77,088. Conservative traders could wait for a breakout confirmation above $78,000 before committing, while swing traders may monitor pullbacks to SMA support for lower-risk entries. Risk management remains essential, given the tight range and subdued intraday volatility."
+    }
+  }
+}
