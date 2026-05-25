@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-25T22:32:45.709Z",
+  "price": {
+    "close": "2106.39",
+    "high": "2115.52",
+    "low": "2104.34",
+    "open": "2111.48",
+    "change": "-0.22",
+    "datetime": "2026-05-25 22:00:00"
+  },
+  "indicators": {
+    "rsi": 45.021328,
+    "macd": 2.64577,
+    "macd_signal": 4.62293,
+    "sma20": 2116.416
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱，关键支撑受关注",
+      "content": "当前以太坊价格在$2106附近震荡，较昨日微幅下跌0.22%，显示市场多空力量处于相对均衡状态。短期均线SMA(20)位于$2116上方，价格略低于均线，提示短线压力略大，可能存在回调风险，但幅度有限。\n\nMACD指标仍维持正值2.64577，表明多头动能仍存在，但信号线数据缺失，使得趋势确认不完全，需关注后续变化。RSI缺失无法判断超买超卖状态，但结合价格与SMA偏离，可认为市场并未明显进入极端区域。\n\n支撑位初步在$2100附近，该区域若有效守住，可为短线买盘提供落点；阻力位上看$2116至$2120区间，若突破则可能迎来反弹机会。成交量若配合突破，可确认趋势延续性，否则仍可能在区间内震荡。\n\n交易上，建议保持谨慎观望策略，短线可关注支撑附近的低吸机会，止损设置在$2095下方，突破阻力可考虑短线跟随，但总体仍偏向区间操作，避免追高承压。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum continues to trade in a narrow consolidation range near 2106, reflecting a cautious market tone after recent selling pressure. Price action remains slightly below the 20-period moving average at 2116, suggesting short-term bearish control despite limited downside momentum. The inability to reclaim the moving average keeps sentiment defensive, while the tight intraday range between 2104 and 2115 indicates traders are waiting for a stronger directional catalyst before committing to larger positions.\n\nMomentum indicators present a mixed but informative picture. The MACD remains positive at 2.64, implying that underlying bullish momentum has not fully disappeared, although fading strength may signal weakening buying interest. The absence of a confirmed RSI reading limits overbought or oversold evaluation, but current price behavior points toward neutral momentum conditions. If MACD begins to flatten further while price remains below the SMA(20), short-term downside continuation toward lower support zones becomes increasingly likely.\n\nImmediate support is forming near 2100, with stronger demand expected around 2085 if sellers gain traction. On the upside, resistance remains concentrated between 2115 and 2120, closely aligned with the 20-period moving average. A sustained breakout above this region could encourage renewed bullish participation and open the path toward 2140. Conversely, failure to defend the 2100 threshold may accelerate liquidation pressure and expose Ethereum to a deeper corrective move in the near term.\n\nFrom a trading perspective, conservative participants may prefer waiting for confirmation above 2120 before considering momentum-driven long exposure. Short-term traders could continue favoring range-based strategies while volatility remains compressed. Risk management is particularly important under current conditions, as low directional conviction often leads to sudden breakouts. Bearish setups become more attractive on repeated rejection near resistance, while bullish positioning improves significantly if buyers reclaim and sustain price action above the moving average."
+    }
+  }
+}
