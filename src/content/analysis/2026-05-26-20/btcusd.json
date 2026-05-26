@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-26T20:35:17.503Z",
+  "price": {
+    "close": "76023.02",
+    "high": "76071.68",
+    "low": "75893.16",
+    "open": "75921",
+    "change": "0.14",
+    "datetime": "2026-05-26 20:00:00"
+  },
+  "indicators": {
+    "rsi": 37.015196,
+    "macd": -274.74161,
+    "macd_signal": -168.10318,
+    "sma20": 76584.4035
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏弱整理",
+      "content": "当前BTC/USD在76000附近窄幅震荡运行，价格略低于20日均线，短线结构呈现震荡偏弱特征，多头延续性不足但尚未出现明确破位信号，整体仍处于整理阶段。\n\n从指标来看，MACD维持负值且动能柱扩张，显示空头动能占据主导。由于RSI缺失，但结合价格表现判断，短期市场情绪偏谨慎，反弹持续性较弱。\n\n支撑方面重点关注75890一线日内低点，一旦跌破或将进一步测试下方空间。阻力位则集中在76584的20日均线以及76070附近前高，形成明显区间压制。\n\n操作策略上建议以区间思路为主，高抛低吸更为稳健。激进交易者可在阻力区轻仓试空，若有效突破76584则需及时止损并考虑顺势跟多。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading around 76023, showing very tight consolidation after a minor 0.14% 24h change. Price action remains compressed near intraday high, indicating equilibrium between buyers and sellers. However, trading below the 20-period SMA at 76584 suggests short-term bearish pressure. The market structure is neutral-to-slightly bearish, with momentum lacking strong conviction in either direction, often preceding a volatility expansion phase.\n\nMACD at -274.74 signals bearish momentum persists, though the flat 24-hour price range suggests weakening downside strength rather than acceleration. Absence of RSI limits overbought/oversold confirmation, but price below the SMA(20) reinforces short-term resistance overhead. Overall, indicators suggest consolidation within a bearish-leaning range, where momentum is fading and traders await a breakout trigger for directional conviction. Volatility compression increases breakout probability soon.\n\nImmediate resistance sits near 76070–76090, aligned with the intraday high and recent rejection zone. A stronger resistance cluster forms at the 20-period SMA around 76584, which also caps short-term recovery attempts. On the downside, initial support is located near 75890, followed by a deeper support band around 75800 where liquidity has recently concentrated. A break of either boundary may define next directional move.\n\nGiven the compressed range, a range-trading approach is favored in the short term, buying near support and taking profits near resistance. However, traders should remain cautious due to weakening momentum and SMA resistance overhead. A breakout above 76584 would signal renewed bullish momentum, while a breakdown below 75800 could accelerate downside toward lower liquidity zones. Risk management remains essential in this low-volatility setup. Position sizing should stay conservative."
+    }
+  }
+}

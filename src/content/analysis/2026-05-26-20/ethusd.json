@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-26T20:36:12.656Z",
+  "price": {
+    "close": "2075.65",
+    "high": "2078.55",
+    "low": "2074.44",
+    "open": "2075.21",
+    "change": "0.05",
+    "datetime": "2026-05-26 20:00:00"
+  },
+  "indicators": {
+    "rsi": 38.27048,
+    "macd": -8.51746,
+    "macd_signal": -4.54277,
+    "sma20": 2096.3825
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线偏弱震荡整理",
+      "content": "当前ETH/USD维持窄幅震荡，价格运行在2075美元附近，24小时波动极低，显示市场观望情绪浓厚。现价低于20日均线，短线结构仍偏空，趋势上呈现弱势整理格局，多头动能暂未明显恢复。\n\n从技术指标观察，MACD处于零轴下方且维持负值，说明空头动能依然占优，短期反弹力度有限。虽然RSI数据暂缺，但结合价格贴近日内低位运行，市场仍存在一定回调压力，资金情绪偏谨慎。\n\n关键支撑位关注2070美元，一旦失守，可能进一步下探2050区域；上方阻力首先位于2095至2100美元区间，同时也是20日均线附近，若无法有效突破，行情仍可能延续震荡偏弱节奏。\n\n交易策略方面，短线建议以高空低多的区间思路为主，激进交易者可在接近阻力位时轻仓尝试做空，并严格设置止损。若后续价格重新站稳2100美元上方，则有望带动阶段性反弹行情展开。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is currently in a tight consolidation phase around 2075 after a prolonged sideways drift, with intraday movement compressed into a narrow range between 2074 and 2078. Price action remains subdued, indicating market indecision. Despite minor fluctuations, the broader short-term structure leans slightly bearish as price trades below the 20-period SMA. Momentum appears weak, suggesting traders are awaiting a catalyst for directional expansion either upward or downward.\n\nThe 20-period SMA at 2096.38 sits notably above the current price, reinforcing a short-term bearish bias and indicating overhead resistance pressure. MACD reading of -8.52 confirms weakening momentum and persistent downside drift. With RSI unavailable, momentum conditions rely primarily on MACD and price structure. Overall, indicators suggest a lack of bullish strength, while volatility compression hints at an impending breakout once volume returns to the market.\n\nImmediate support is located at 2074.44, aligning closely with the session low and acting as the first defensive zone for buyers. A break below could expose 2070 and then 2050 as stronger downside targets. On the upside, resistance is seen at 2078.55, followed by the 20-SMA near 2096 and psychological 2100. A sustained move above 2100 would be required to shift bias back toward bullish momentum.\n\nGiven the compressed range, a mean-reversion approach is currently favored, with traders considering long positions near 2074–2070 while using tight stops below 2068. Short setups may emerge on bounces toward 2095–2100, with confirmation from weakening momentum or rejection candles. Breakout traders should wait for a decisive move above 2100 or below 2070 before committing. Risk management remains critical due to low volatility and potential sudden expansion."
+    }
+  }
+}
