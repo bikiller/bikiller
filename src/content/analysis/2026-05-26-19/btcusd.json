@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-26T19:31:28.234Z",
+  "price": {
+    "close": "75776.4",
+    "high": "75807.99",
+    "low": "75667.2",
+    "open": "75709.44",
+    "change": "0.09",
+    "datetime": "2026-05-26 19:00:00"
+  },
+  "indicators": {
+    "rsi": 32.5881,
+    "macd": -270.0058388,
+    "macd_signal": -143.73351,
+    "sma20": 76613.938
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：窄幅震荡偏弱",
+      "content": "当前BTC价格围绕75776附近窄幅波动，整体处于均线下方运行，短期动能略显疲弱，但波动幅度收敛，市场进入整理阶段特征明显。\n\nMACD指标维持负值，空头动能仍占优势，未见明显金叉信号；同时价格持续低于20日均线，说明短期趋势偏弱，反弹力度有限。\n\n下方关键支撑位位于75667及75500附近，若跌破可能引发进一步回落；上方初步阻力在76600与77000区域，突破前需放量确认。\n\n交易策略上建议维持区间思路，高位接近阻力区域可考虑分批减仓，低位支撑附近可轻仓试多，严格设置止损以控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading just below the 20-day moving average at 76,613, signaling that short-term momentum remains slightly bearish despite the relatively stable 24-hour performance. Price action has been compressed within a narrow intraday range between 75,667 and 75,808, reflecting reduced volatility and a temporary balance between buyers and sellers. The inability to reclaim the SMA(20) suggests that bullish momentum is weakening, while the market waits for a stronger directional catalyst.\n\nThe MACD reading at -270 indicates that bearish pressure still dominates the medium-term structure, even though downside momentum appears to be moderating. With the RSI unavailable, momentum assessment relies more heavily on price structure and moving-average positioning. Bitcoin continues to hold above the key psychological region near 75,500, which currently acts as immediate support. A sustained break below this area could expose the market to further downside toward 74,800 and potentially 73,900 in an extended pullback scenario.\n\nOn the upside, resistance is forming near 76,600, closely aligned with the SMA(20), making this zone technically significant for short-term traders. If buyers manage to push BTC/USD decisively above 76,800, momentum could accelerate toward 77,500 and possibly 78,200. However, repeated rejection beneath the moving average would reinforce bearish consolidation conditions and increase the likelihood of another support retest before any meaningful recovery develops.\n\nFrom a trading perspective, cautious positioning remains appropriate while Bitcoin trades below its short-term average. Aggressive traders may consider range-based strategies, buying near support and reducing exposure near resistance, provided risk controls remain tight. Conservative participants may prefer waiting for confirmation through either a breakout above 76,800 or a breakdown below 75,500 before entering directional trades. Current conditions favor disciplined risk management over high-leverage positioning due to compressed volatility and uncertain momentum."
+    }
+  }
+}
