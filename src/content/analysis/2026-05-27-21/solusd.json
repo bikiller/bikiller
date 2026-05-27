@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-05-27T21:53:28.066Z",
+  "price": {
+    "close": "82.17",
+    "high": "83.65",
+    "low": "82.06",
+    "open": "83.65",
+    "change": "-1.77",
+    "datetime": "2026-05-27 21:00:00"
+  },
+  "indicators": {
+    "rsi": 32.12537,
+    "macd": -0.24271689,
+    "macd_signal": -0.1695646,
+    "sma20": 83.686
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 82.17\\n- 24小时变化: -1.77%\\n- 高点/低点: 83.65 / 82.06\\n- RSI(14): N/A\\n- MACD: -0.24271689, Signal: N/A\\n- SMA(20): 83.686\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期回调，震荡偏弱\n\n目前SOL价格在82美元附近承压回落，短线趋势偏弱震荡，未能有效站稳20日均线83.686上方，显示多头动能有所减弱。价格高低位波动有限，市场短期内缺乏明显方向性突破。\n\n技术指标方面，MACD仍处于负值区间且未见明显回转迹象，表明空方势力略占上风。尽管RSI数据不可用，但从价格结构来看，短期动量不足，存在进一步下探风险。20日均线形成明显阻力，需关注价格能否重新企稳。\n\n关注关键支撑位在80.00附近，如该位置失守，可能加速下探至78.00甚至更低；阻力位首先看83.70，其次是85.50区域。成交量若随价格上破阻力同步放大，将有助确认反弹有效性；反之，缩量震荡将延续区间震荡。\n\n交易建议上，激进者可在80.00附近适量布局多单，止损设在79.00下方，短线目标看向83.50-85.00；保守者建议等待价格稳健突破20日均线并确认回踩支撑再入场，以降低假突破风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "Solana is showing short-term bearish pressure after slipping below the 20-day moving average at 83.686, with price currently trading near 82.17. The inability to reclaim the intraday high around 83.65 suggests sellers remain active on rallies. Momentum has weakened over the past session, and the narrow trading range between 82.06 and 83.65 indicates cautious positioning ahead of a stronger directional move. As long as SOL/USD remains below the moving average, the broader near-term bias favors consolidation to the downside.\n\nThe MACD reading at -0.2427 reflects fading bullish momentum and supports the current softening trend structure. Although the signal line and RSI values are unavailable, the negative MACD alone points to weakening buying pressure and limited upside acceleration. Price trading beneath the SMA(20) further reinforces a short-term bearish setup. However, the decline remains controlled rather than aggressive, which suggests the market may still be searching for a stable support base before establishing a clearer trend continuation.\n\nImmediate support is located near 82.00, which aligns closely with the session low at 82.06. A sustained break below this region could expose downside movement toward the psychologically important 80.00 level. On the upside, resistance is forming around 83.70, followed by a stronger barrier near 85.00 if momentum improves. Traders should monitor volume behavior closely near support, as increased buying activity could trigger a short-covering rebound toward the upper resistance zone.\n\nShort-term traders may prefer a cautious approach until price either regains the 20-day average or decisively breaks below support. Conservative buyers could wait for confirmation above 83.70 before considering long exposure, while bearish traders may view failed recovery attempts as potential selling opportunities. Risk management remains important given the compressed price action and weakening momentum signals. In the current environment, disciplined entries and tight stop placement are more favorable than aggressive directional positioning."
+    }
+  }
+}

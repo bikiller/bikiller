@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-27T21:51:01.544Z",
+  "price": {
+    "close": "74347.2",
+    "high": "75141.03",
+    "low": "74240.76",
+    "open": "75141.03",
+    "change": "-1.06",
+    "datetime": "2026-05-27 21:00:00"
+  },
+  "indicators": {
+    "rsi": 30.71041,
+    "macd": -373.56736,
+    "macd_signal": -334.79634,
+    "sma20": 75328.2045
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前比特币价格位于 $74347.2，较昨日小幅下跌 1.06%，显示短期承压迹象。价格低于20日均线 $75328.20，短期趋势偏弱，多空力量存在博弈。高点 $75141.03 与低点 $74240.76 构成近期的价格区间，显示市场震荡整理格局。\n\n技术指标方面，MACD柱状图为负值 $-373.57，表明空头动能占优，尽管信号线未明确，但趋势偏向下行。RSI未提供，但结合价格与均线关系，短线仍可能承压震荡。需关注均线支撑与阻力的交叉位置，避免追高操作。\n\n支撑位初步在 $74240 附近，若跌破则可能测试 $74000 心理关口。阻力位在 $75140 上方，如突破则可能短线反弹。交易策略上，可考虑区间内低位逢低做多，高位谨慎减仓或观望，结合止损控制风险。\n\n综合来看，比特币短线处于震荡偏弱态势，建议保持谨慎操作，顺势而为，重点关注关键支撑位的守住情况，同时密切关注市场消息与主力资金流向，以便及时调整策略。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin remains under short-term bearish pressure after slipping below the 20-day moving average near 75,328, signaling weakening momentum and cautious sentiment among traders. The current price around 74,347 is holding just above the session low of 74,240, suggesting buyers are still defending the lower range. However, the inability to reclaim higher intraday levels indicates that selling pressure remains active, particularly as broader risk appetite across crypto markets softens.\n\nThe negative MACD reading at -373.56 reinforces the view that downside momentum is still dominant. Although the RSI reading is unavailable, price action alone suggests BTC is approaching mildly oversold territory on shorter timeframes after consecutive rejections near resistance. Trading below the SMA(20) further supports the bearish near-term structure, with the moving average now acting as dynamic resistance rather than support. Momentum traders are likely waiting for confirmation before re-entering aggressive long positions.\n\nKey support is forming between 74,200 and 73,800, an area that could attract dip buyers if volatility stabilizes. A breakdown beneath this zone may expose Bitcoin to deeper retracement toward 72,500. On the upside, immediate resistance sits near 75,100 followed by the more critical 75,300–75,500 region where the SMA(20) converges with recent price rejection points. A decisive move above that band would improve bullish sentiment and potentially reopen the path toward 76,500.\n\nShort-term traders may prefer a defensive approach until momentum indicators begin stabilizing. Conservative buyers could wait for confirmation above 75,300 before targeting continuation upside, while aggressive traders may look for quick rebounds near support with tight risk management. Given the current structure, maintaining disciplined stop-loss placement is essential, as Bitcoin remains highly reactive to macroeconomic headlines, ETF flows, and sudden liquidity-driven volatility across the broader digital asset market."
+    }
+  }
+}
