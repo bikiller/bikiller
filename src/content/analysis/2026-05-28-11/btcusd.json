@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-28T11:35:13.230Z",
+  "price": {
+    "close": "73234",
+    "high": "73349.84",
+    "low": "73188",
+    "open": "73272.01",
+    "change": "-0.05",
+    "datetime": "2026-05-28 11:00:00"
+  },
+  "indicators": {
+    "rsi": 32.57132,
+    "macd": -602.83468,
+    "macd_signal": -602.53356,
+    "sma20": 73958.3545
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，谨慎观望",
+      "content": "近期比特币价格在$73,200-$73,350区间波动，整体呈现轻微回调迹象。价格位于SMA(20)下方，短期均线压力仍在$73,958附近，显示上行动能受限，趋势短线偏弱，市场整体保持盘整格局。\n\nMACD指标为-602.83，虽缺乏信号线参考，但负值暗示卖压略强，价格可能延续窄幅震荡。缺乏RSI数据使超买或超卖情况不明确，因此应关注成交量变化以判断潜在突破方向。\n\n支撑位初步在$73,188附近，若跌破可能进一步测试$73,000整数关口。阻力位则在SMA(20)及$73,958附近，若价格站稳并突破该区域，有望短期反弹。波动区间内，短线交易需控制仓位，避免追高。\n\n交易策略上，建议保持观望或轻仓参与，等待明确趋势信号。短线可考虑低位小幅买入并设止损于支撑下方，激进者可关注SMA突破后的反弹机会，但需警惕高位承压回落风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering around $73,234, showing minimal short-term movement with a 24-hour decline of just 0.05%. The market appears to be in a subtle consolidation phase, as the daily high of $73,349.84 and low of $73,188 indicate tight price fluctuations. This lack of volatility suggests that traders are waiting for a decisive catalyst. Overall, the short-term trend seems neutral, with no clear bullish or bearish dominance, though the slight drift below the 20-period SMA at $73,958 hints at mild bearish pressure.\n\nFrom a technical perspective, the MACD reading of -602.83 indicates that downward momentum may be present, even if minor. However, the absence of the signal line limits a full interpretation. Traders should monitor any MACD cross or divergence for confirmation of a trend shift. The missing RSI also restricts the ability to gauge overbought or oversold conditions, but the near-flat price action implies the asset is not currently in an extreme state. In essence, technical indicators suggest caution, favoring a wait-and-see approach rather than aggressive positioning.\n\nSupport and resistance levels are crucial for decision-making in this environment. Immediate support lies around $73,100, reflecting the recent intraday lows, while resistance is near $73,950, coinciding with the 20-period SMA. Breaching either level with high volume could trigger more decisive movement. A break above the SMA might rekindle bullish interest, potentially targeting $74,500, whereas a drop below support could lead to a retest of $72,800. Traders should use these levels to plan entries, exits, and stop-loss placements.\n\nFor trading strategies, short-term participants may consider range-bound approaches until volatility resumes. Scalping near support and resistance could capture small gains, while longer-term traders might hold off for a confirmed breakout or breakdown. Risk management is key, given the muted momentum and tight price range. Conservative investors may prefer to wait for stronger indicator alignment, while aggressive traders could exploit minor oscillations with disciplined stops, focusing on preserving capital during this sideways phase."
+    }
+  }
+}
