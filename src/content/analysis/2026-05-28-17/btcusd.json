@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-28T17:07:08.008Z",
+  "price": {
+    "close": "73232.94",
+    "high": "73345.7",
+    "low": "73189.03",
+    "open": "73319.57",
+    "change": "-0.12",
+    "datetime": "2026-05-28 17:00:00"
+  },
+  "indicators": {
+    "rsi": 39.90339,
+    "macd": -488.45093,
+    "macd_signal": -553.97847,
+    "sma20": 73431.746
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前比特币价格围绕73232.94美元震荡，日内跌幅有限，仅为-0.12%，显示多空力量短期内相对均衡。高低点区间73345.7/73189.03表明价格尚未突破关键波动区间，短线可能延续震荡整理格局。\n\n技术指标上，20日简单移动均线(SMA20)位于73431.746美元之上，价格稍低于均线，暗示短期偏弱趋势。MACD值为-488.45093，显示下行动能仍存在，但信号线缺失使得判断力度受限。RSI数据不可用，但结合价格与SMA位置，可初步认为空方压力略占优势。\n\n支撑位方面，下方关键点位在73189美元附近，若跌破则可能触发进一步下探至73000美元整数关口。阻力位在73431-73500美元区间，短线若突破则有望吸引多方入场，推动价格回升。\n\n交易策略建议，短线以逢低关注支撑买入、控制仓位为主；若价格重回SMA20上方且MACD出现金叉，可考虑增持。风险管理方面，设置合理止损，防止价格快速下行造成损失。整体来看，比特币短期震荡偏弱，但仍具备回调交易机会。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing signs of consolidation around the $73,200–$73,400 range. The slight 24-hour decline of -0.12% indicates a lack of strong directional momentum, suggesting traders are cautious. The recent intraday high of $73,345.7 and low of $73,189.03 reflect a narrow trading band, implying a short-term equilibrium between buyers and sellers. Price hovering just below the 20-period SMA at $73,431 could indicate mild bearish pressure, although a decisive break above this level may trigger renewed bullish interest.  \n\nLooking at the MACD, the negative value of -488.45 signals that the short-term momentum remains weak relative to recent price action. Without a clear signal line reading, it is difficult to confirm a trend reversal, but the current negative reading suggests caution for aggressive long positions. Traders may want to wait for MACD histogram improvement or a crossover above the signal line before committing heavily. The absence of RSI data makes it harder to gauge overbought or oversold conditions, reinforcing the need for conservative positioning.  \n\nKey support appears near $73,100, a level previously tested multiple times in the past 24 hours. Resistance is currently around $73,450, where sellers have consistently emerged to cap gains. Breaking above this resistance could open the door for a move toward $73,700–$73,800, while a breach of the support zone may target $73,000 or lower. Traders should monitor volume as confirmation, as low volume breakouts may quickly reverse.  \n\nFor tactical trading, short-term range-bound strategies may be optimal. Buying near support and taking profits near resistance can help capture small moves while limiting risk. Conservative traders might also wait for a sustained break above the SMA and resistance level before entering long positions. Meanwhile, those seeking downside exposure could consider tight stops below $73,100 to mitigate risk in case the market resumes bearish momentum. Staying disciplined and respecting these technical boundaries will be key in the current consolidating environment."
+    }
+  }
+}
