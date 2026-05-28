@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-05-28T06:43:19.585Z",
+  "price": {
+    "close": "0.229005",
+    "high": "0.230026",
+    "low": "0.228775",
+    "open": "0.2298",
+    "change": "-0.36",
+    "datetime": "2026-05-28 06:00:00"
+  },
+  "indicators": {
+    "rsi": 23.47869,
+    "macd": -0.0025031202,
+    "macd_signal": -0.001505775,
+    "sma20": 0.2373291
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期偏弱震荡整理",
+      "content": "当前艾达币价格处于 $0.2290$ 附近，低于20日简单移动平均线(SMA20) $0.2373$，显示短期价格承压偏弱。日内高低点区间窄幅震荡，表明市场多空力量均衡，趋势尚不明朗，但短期下行压力略高于上行动力。\n\nMACD指标显示主线为 $-0.0025$，处于零轴下方，虽然信号线未提供，但此负值意味着短期动能偏空。RSI缺失，无法评估超买或超卖状态，但结合价格低于SMA20，短期仍需谨慎，避免追涨操作。\n\n支撑位在近期低点 $0.2288$ 附近，如跌破可能触发进一步回调；阻力位则在近期高点 $0.2300$ 及SMA20 $0.2373$ 附近，短线若突破可带来反弹机会。投资者应关注关键价位的有效性及成交量变化。\n\n交易策略上，可采取低吸高抛为主的震荡操作，短线观望为宜。若价格稳住支撑并伴随量能放大，可考虑小仓位多单尝试，但需设置严格止损以控制风险，避免市场波动造成连续损失。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano (ADA) has recently been hovering around $0.229, showing modest downside pressure after briefly touching $0.230. The short-term trend appears mildly bearish, as price is trading below the 20-day simple moving average at $0.237. This indicates that recent momentum favors sellers, though the lack of significant deviation from recent lows suggests consolidation rather than a strong downtrend. Traders should watch for price stabilization near support levels before expecting sustained recovery.\n\nThe MACD reading at -0.0025 reflects weak bearish momentum, signaling that downward pressure may persist but is currently muted. Without an RSI value, it’s difficult to gauge overbought or oversold conditions, but the MACD below zero hints at cautious positioning. The convergence of these indicators suggests the market is in a neutral to slightly negative state, where short-term swings could dominate until stronger buying interest emerges.\n\nImmediate support appears around $0.2287, coinciding with the recent intraday low, while resistance aligns near $0.237, matching the 20-day SMA. A breach of the support could open a move toward $0.225, a psychological level that has previously acted as a floor. On the upside, reclaiming $0.237 would be key for reversing the short-term bearish bias, potentially inviting momentum traders to enter on breakout confirmation.\n\nFor traders, a measured approach is advisable. Short-term swing traders may consider entering near support with tight stops, targeting minor rebounds toward the SMA. Conversely, conservative investors could wait for clear confirmation above $0.237 to validate a bullish resumption. Overall, Cardano’s current posture favors range-bound trading with potential for upside recovery if broader market sentiment shifts positively."
+    }
+  }
+}
