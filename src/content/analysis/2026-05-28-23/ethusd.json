@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-28T23:54:16.533Z",
+  "price": {
+    "close": "2007.51",
+    "high": "2011.87",
+    "low": "2006.02",
+    "open": "2006.51",
+    "change": "0.07",
+    "datetime": "2026-05-28 23:00:00"
+  },
+  "indicators": {
+    "rsi": 45.95027,
+    "macd": -5.1619,
+    "macd_signal": -9.21518,
+    "sma20": 2000.017
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：价格维持震荡整理格局",
+      "content": "当前以太坊价格在2007美元附近波动，日内涨幅有限，仅0.07%，显示市场短期缺乏明显方向性。结合20日简单移动平均线SMA(20)为2000美元，价格略高于均线，暗示短期仍有支撑，但整体趋势偏中性整理。\n\nMACD指标为-5.1619，处于零轴下方，虽然具体信号线数据缺失，但仍提示空头压力存在，短线可能面临波动收敛。若能突破MACD负值区间并上行，则有望形成反弹动能，反之下行压力仍需关注。\n\n支撑位主要在2000美元心理关口及前低2006美元附近，若跌破将加大下行风险。阻力位关注2012-2015美元区域，若连续突破，可推动价格向2020美元测试。交易者应结合价量配合观察突破信号，谨防假突破造成的短线波动。\n\n操作上建议短线谨慎，偏向逢低小仓位买入，止损设置在2000美元下方；若价格突破阻力并确认回踩，则可考虑加仓。长期投资者可关注2000美元附近布局，以等待下一波趋势形成，同时关注市场整体情绪与宏观因素影响。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is trading near 2007.51, holding slightly above its 20-period simple moving average at 2000.02. This positioning suggests a modest bullish bias in the short term, although momentum remains limited as the market has been confined to a very narrow daily range between 2006.02 and 2011.87. The minimal 24-hour gain of 0.07% reflects a balance between buyers and sellers, indicating consolidation rather than a decisive directional move.\n\nTechnical indicators present a mixed picture. The MACD value of -5.16 remains in negative territory, signaling that underlying momentum has not fully shifted in favor of the bulls despite the price trading above the SMA(20). With RSI data unavailable, momentum assessment relies more heavily on price structure and moving-average behavior. As long as ETH maintains closes above the 2000 area, the broader short-term trend can be considered stable, though not strongly bullish.\n\nKey support is located near 2000, reinforced by the SMA(20), with additional downside protection around the session low at 2006 and psychological support near 1990. On the upside, immediate resistance appears at 2012, followed by a stronger barrier around 2025. A sustained breakout above 2012 could attract additional buying interest and open the path toward higher resistance zones, while a break below 2000 may increase selling pressure and trigger a deeper pullback.\n\nFor traders, a cautious approach is warranted given the current low-volatility environment. Bullish participants may consider opportunities on pullbacks toward the 2000 support region, provided price action remains constructive and risk is managed below key support levels. More conservative traders may prefer waiting for a confirmed breakout above resistance before entering long positions. Conversely, a decisive move below 2000 could favor short-term bearish strategies targeting lower support areas. Risk management remains essential, as consolidation phases can quickly transition into higher-volatility directional moves."
+    }
+  }
+}
