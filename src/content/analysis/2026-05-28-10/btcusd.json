@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-28T10:42:04.903Z",
+  "price": {
+    "close": "73342.87",
+    "high": "73493.24",
+    "low": "73221.97",
+    "open": "73412.26",
+    "change": "-0.09",
+    "datetime": "2026-05-28 10:00:00"
+  },
+  "indicators": {
+    "rsi": 34.16588,
+    "macd": -613.22716,
+    "macd_signal": -600.80907,
+    "sma20": 74061.2205
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期弱势震荡整理",
+      "content": "目前比特币价格徘徊于73342.87美元附近，较24小时内略微下跌0.09%，显示市场短线多空力量接近平衡。价格低于SMA(20)74061.22美元，短期均线呈下行趋势，表明短线压力仍在，整体偏向弱势整理格局。\n\nMACD为-613.23，虽未给出信号线，但负值表明空方动能占优，短期可能延续回调。但需关注价格对SMA20的反弹尝试，若价格能有效突破均线，可能形成阶段性反弹机会。RSI缺失，需关注未来能否提供超买超卖判断。\n\n关键支撑位初步锁定在73220美元附近，若跌破该区域，下方支撑可关注73000-72800美元区间。阻力位则在74060-74250美元附近，突破阻力需伴随成交量放大，以确认多方力量回归。\n\n交易策略上，短线可考虑区间震荡操作，靠近支撑区域轻仓做多，接近阻力区域轻仓减仓或短线做空。中线投资者建议耐心等待明确突破信号，同时关注市场情绪及宏观消息影响，以降低操作风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently navigating a narrow consolidation around the $73,342 level, reflecting a minor retracement from recent highs. The short-term trend leans slightly bearish as the price trades below the 20-period simple moving average at $74,061, suggesting sellers are exerting mild pressure. Price action remains relatively stable within a tight $73222–$73493 range, hinting that the market is awaiting a catalyst to define the next directional move. Observing volume patterns alongside these levels will be key for anticipating breakout potential.\n\nMomentum indicators provide a nuanced view of current conditions. The MACD shows a negative reading at -613.23, indicating that downward pressure could be sustained in the near term, though the lack of a signal line prevents a clear crossover interpretation. While the RSI is unavailable, the price’s proximity to the SMA implies that the market is not yet deeply overbought or oversold, suggesting a neutral-to-cautious stance for traders. Market participants should remain vigilant for sudden volatility spikes that could shift the short-term trend.\n\nKey support is seen near $73,221, acting as a potential floor for buyers to defend, while resistance at $73,493 represents the immediate ceiling where sellers may step in. A break above the SMA at $74,061 could signal a bullish resurgence, targeting higher psychological levels around $75,000. Conversely, a decisive drop below $73,221 could accelerate downward momentum, potentially testing support zones closer to $72,500. Traders should focus on these pivot points for risk management and strategic entries.\n\nGiven current conditions, short-term trading strategies may favor cautious long positions near support with tight stops, while aggressive traders could explore breakout trades above $74,061. For those managing risk conservatively, waiting for clear confirmation of trend direction is advisable before initiating positions. Overall, the market appears range-bound with a subtle bearish bias, making selective entries around technical levels more prudent than aggressive chasing."
+    }
+  }
+}
