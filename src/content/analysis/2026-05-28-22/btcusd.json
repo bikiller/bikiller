@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-28T22:48:05.722Z",
+  "price": {
+    "close": "73430.28",
+    "high": "73842",
+    "low": "73383.01",
+    "open": "73706.01",
+    "change": "-0.38",
+    "datetime": "2026-05-28 22:00:00"
+  },
+  "indicators": {
+    "rsi": 44.95089,
+    "macd": -269.26135,
+    "macd_signal": -399.66575,
+    "sma20": 73243.8515
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，需关注支撑阻力",
+      "content": "近期比特币价格维持在73400美元附近，短期走势呈现震荡偏多格局。价格略高于20日均线(SMA20=73243.85)，显示多头仍有一定支撑，但整体涨幅受限，市场情绪谨慎，短线可能在当前区间内整理。\n\n技术指标方面，MACD处于负值(-269.26)，暗示多头动能尚未完全恢复，短期仍存在回调压力。尽管RSI数据不可用，但从价格与均线关系来看，短线多头略占优势，需警惕价格跌破关键支撑触发进一步调整。\n\n支撑位方面，73380美元附近为近期低点支撑，若跌破此位置，则下方可能测试73000美元心理关口。阻力位则在73840美元附近，高点附近若持续受阻，短线上涨空间有限，可能出现震荡回落。\n\n交易建议上，激进短线投资者可考虑在支撑区低吸，止损设置在73350美元以下；保守投资者宜等待价格突破阻力位73850美元以上确认趋势后再布局，保持仓位灵活，关注市场情绪和成交量变化以应对快速波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading at 73,430.28, hovering slightly above its 20-day simple moving average at 73,243.85. This positioning suggests a broadly neutral-to-mildly bullish structure despite the modest 24-hour decline of 0.38%. Price action remains compressed within a narrow intraday range between 73,383 and 73,842, indicating a period of consolidation rather than a decisive directional move. As long as BTC remains above the 20-day average, buyers retain a slight technical advantage.\n\nMomentum indicators present a mixed picture. The MACD reading of -269.26 signals that bearish momentum has not fully dissipated, reflecting lingering selling pressure from recent sessions. However, the absence of a confirmed signal line and RSI reading limits the strength of momentum-based conclusions. The current setup suggests weakening downside pressure rather than an aggressive bearish trend. Traders should therefore focus more closely on price behavior around key technical levels for confirmation.\n\nImmediate support is located near 73,243, aligning with the 20-day SMA and serving as a critical short-term pivot. A break below this zone could expose the recent low at 73,383 and potentially trigger a deeper retracement toward the 72,500–72,800 region. On the upside, resistance emerges near 73,842, the session high. A sustained move above this barrier would improve bullish sentiment and could open the path toward the psychologically important 74,500–75,000 area.\n\nFrom a trading perspective, range-based strategies may remain appropriate while volatility stays contained. Conservative traders may prefer waiting for a confirmed breakout above 73,842 before considering additional long exposure. Conversely, a decisive close below the SMA could favor short-term bearish opportunities. Risk management remains essential, as consolidation phases often precede sharp directional moves. Monitoring volume alongside any breakout or breakdown will help distinguish genuine trend development from temporary market noise."
+    }
+  }
+}
