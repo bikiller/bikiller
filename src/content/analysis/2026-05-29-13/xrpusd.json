@@ -1,0 +1,30 @@
+{
+  "symbol": "XRP/USD",
+  "name": "Ripple vs US Dollar",
+  "nameCn": "瑞波币/美元",
+  "timestamp": "2026-05-29T13:52:37.762Z",
+  "price": {
+    "close": "1.3045",
+    "high": "1.30684",
+    "low": "1.2994",
+    "open": "1.30512",
+    "change": "-0.05",
+    "datetime": "2026-05-29 13:00:00"
+  },
+  "indicators": {
+    "rsi": 42.91178,
+    "macd": -0.000059768276,
+    "macd_signal": 0.0011068598,
+    "sma20": 1.31592
+  },
+  "analysis": {
+    "zh": {
+      "title": "瑞波币/美元技术分析：短期偏弱整理趋势",
+      "content": "目前XRP/USD价格位于1.3045附近，较日内高点1.30684和低点1.2994波动幅度有限，显示市场短期呈现整理状态。从均线角度看，现价低于SMA(20)1.31592，暗示短期压力存在，多头动力不足，价格可能在支撑和阻力区间内震荡。\n\nMACD指标当前为负值-0.000059768276，虽然信号线数据缺失，但负值表明空方略占上风，市场存在一定下行风险。若MACD持续收敛或出现金叉，可能为反弹信号，需要密切观察动能变化，以判断趋势反转可能性。\n\n支撑位初步关注1.2990附近，如跌破则短线可能下探1.2920区域；阻力位则在1.3159及进一步1.3220，突破阻力可视为趋势延续的信号。结合价格波动和成交量情况，震荡区间操作更为稳妥。\n\n交易策略上，建议短线投资者可在支撑附近布局多单，止损设置在1.2960以下；激进投资者可等待价格突破阻力确认后介入追涨，止盈关注1.3220及1.3300区间。同时保持仓位管理，避免趋势不明时过度追高或杀低。"
+    },
+    "en": {
+      "title": "Ripple vs US Dollar Technical Analysis",
+      "content": "XRP/USD is trading at 1.3045, holding near the lower end of the recent 24-hour range between 1.2994 and 1.30684. The price remains below the 20-period simple moving average at 1.31592, which suggests that short-term momentum is still tilted to the downside. Although the daily change is minimal at -0.05%, the inability to reclaim the moving average indicates that buyers have not yet regained clear control of the market.\n\nMomentum indicators provide a cautious outlook. The MACD value is slightly negative at -0.000059768276, reflecting mild bearish pressure and a lack of strong upward acceleration. While the signal line and RSI readings are unavailable, the negative MACD reading alone suggests that bullish momentum remains limited. Traders should watch for a MACD turn back into positive territory, as this would strengthen the case for a short-term recovery toward higher resistance levels.\n\nFrom a price structure perspective, immediate support is located around 1.2994, the recent session low. A decisive break below this area could expose additional downside toward the psychological 1.2900 region. On the upside, resistance is seen near 1.3068, followed by the more significant barrier around the 20-period SMA at 1.3159. A sustained move above the moving average would improve sentiment and could attract renewed buying interest.\n\nFor trading purposes, conservative participants may prefer to wait for confirmation before entering new positions. Bullish traders could look for a breakout above 1.3068 and ideally above 1.3159 to validate a stronger recovery scenario. Meanwhile, bearish traders may view rallies toward resistance as potential selling opportunities while the price remains below the SMA. Risk management remains essential, with stop-loss placement around key technical levels helping to protect against unexpected volatility."
+    }
+  }
+}
