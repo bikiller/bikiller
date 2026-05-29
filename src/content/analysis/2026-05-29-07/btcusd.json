@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-29T07:51:50.977Z",
+  "price": {
+    "close": "73287.99",
+    "high": "73717.66",
+    "low": "73269.55",
+    "open": "73679.48",
+    "change": "-0.54",
+    "datetime": "2026-05-29 07:00:00"
+  },
+  "indicators": {
+    "rsi": 44.79624,
+    "macd": -127.83564,
+    "macd_signal": -196.54424,
+    "sma20": 73349.065
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整偏弱震荡",
+      "content": "当前比特币价格在73287.99附近，短期走势显示多空力量处于拉锯状态。价格略低于20日简单移动平均线(SMA20)73349，说明多头压力存在，但短期下行动能仍占一定优势。日内波动区间较小，市场情绪偏谨慎。\n\nMACD指标为-127.83564，显示短期空头趋势明显，但缺乏Signal线参考，信号完整性不足。结合价格走势与均线位置，可判断短线仍有试探支撑的可能，但上涨动能有限。RSI未提供，无法明确超买超卖状态，但价格接近SMA20，震荡概率增加。\n\n关键支撑位初步在73250附近，若跌破可能触发进一步回调至73000区域；阻力位在73700附近，多头需突破此点位才能重拾上攻节奏。短线交易者应关注价格在支撑位的反应，以防止快速下行风险。\n\n操作建议上，保守策略可在支撑区观察低吸机会，止损控制在支撑下方100-150美元范围；激进策略可等待价格突破73700后再布局多单，同时注意仓位管理与波动风险。总体来看，市场处于弱震荡格局，宜保持谨慎。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near **$73,288**, hovering slightly below the 20-period simple moving average at **$73,349**, which suggests short-term momentum has softened after recent strength. The narrow intraday range between **$73,717** and **$73,270** reflects hesitation among traders, with price consolidating rather than committing to a directional breakout. A modest **24-hour decline of 0.54%** points to mild selling pressure, though not yet enough to confirm a broader bearish reversal.\n\nTechnical indicators present a cautiously neutral-to-bearish picture. The negative **MACD reading of -127.84** implies downside momentum remains present, signaling that bearish pressure may still outweigh buying interest in the near term. However, with the signal line unavailable and **RSI(14)** missing, confirmation is limited. Price remaining close to the **SMA(20)** suggests equilibrium, where bulls and bears are currently contesting control without decisive conviction.\n\nKey support appears near the session low around **$73,270**, followed by a more psychologically important zone near **$73,000**, where buyers could attempt to stabilize price action. Resistance is forming around **$73,700–$73,750**, matching the recent intraday high. A sustained move above this level could restore bullish momentum and potentially invite renewed buying, while a breakdown beneath support may accelerate short-term downside pressure.\n\nFor traders, patience may be preferable until stronger confirmation develops. Momentum-focused participants could watch for a clean break above resistance before considering long exposure, while conservative traders may wait for stabilization near support to reduce downside risk. In the current environment, disciplined position sizing and close monitoring of momentum indicators remain important, as Bitcoin appears to be in a short-term consolidation phase rather than a clearly trending market."
+    }
+  }
+}
