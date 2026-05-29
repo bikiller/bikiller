@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-05-29T12:34:33.413Z",
+  "price": {
+    "close": "0.09885",
+    "high": "0.09899",
+    "low": "0.0987",
+    "open": "0.09896",
+    "change": "-0.13",
+    "datetime": "2026-05-29 12:00:00"
+  },
+  "indicators": {
+    "rsi": 43.87012,
+    "macd": -0.000058241928,
+    "macd_signal": -0.000055269875,
+    "sma20": 0.099416
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期横盘震荡偏弱",
+      "content": "当前狗狗币价格位于$0.09885，略低于20日简单移动平均线(SMA20) $0.099416，显示短期均线压制，整体仍偏弱震荡。价格在$0.0987至$0.09899区间波动，短线趋势缺乏明确方向，市场多空力量暂时均衡，未形成明显突破信号。\n\nMACD指标为-0.000058241928，显示下行动能略微占优，但信号线数据缺失，无法确认趋势反转。若MACD持续负值并放大，可能暗示价格进一步承压。RSI指标缺失，但结合价格偏离SMA20的情况，可推测短期买入动力有限，多空双方仍处观望阶段。\n\n支撑位可关注近期低点$0.0987及心理整数位$0.0985；阻力位在SMA20附近$0.0994及上方$0.100整数关口。价格若突破阻力，可触发短线多头回补；跌破支撑，则可能加速回调。整体区间操作空间有限，行情偏向整理格局。\n\n交易策略上，短线建议以区间操作为主，低位接近支撑可尝试小额多单，高位靠近阻力可减仓或轻仓空单。中长期投资者应等待价格突破0.100或跌破0.0985确认趋势后再布局，以降低不确定性风险，保持资金灵活性。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "DOGE/USD currently shows a subtle bearish drift, trading just below the 20-period simple moving average of $0.09942. The price has remained tightly range-bound between $0.0987 and $0.09899 over the last 24 hours, signaling consolidation. This sideways behavior near a key SMA often suggests market indecision, with neither buyers nor sellers able to assert dominance. Traders should watch for a decisive break above or below this narrow range to confirm the next directional bias.  \n\nThe MACD reading of approximately -0.000058 suggests mild bearish momentum, although the lack of a signal line limits definitive interpretation. The absence of RSI data complicates overbought or oversold assessments, but the current horizontal price action implies a market that’s neither strongly trending nor stretched. If momentum indicators align in the near term, a small downward drift might persist, but a sudden pickup in buying pressure could quickly push the price above $0.0995.  \n\nSupport is likely near $0.0987, reinforced by the recent intraday low. This level has acted as a short-term floor, and a break below it could open the way to $0.0984 or lower. Resistance is concentrated around $0.0995, near the SMA(20), and a successful breach above this level could target $0.1000–$0.1010. Traders may consider scaling into long positions cautiously if the price consolidates above the SMA with rising volume. Conversely, failure to hold support could favor short-term short setups with tight stop-losses.  \n\nFor tactical trading, range traders might capitalize on the tight band between $0.0987–$0.0995, buying near support and selling near resistance. Trend-followers should wait for confirmation of a breakout in either direction before committing to larger positions. Given the low volatility, risk management is crucial; stop-losses just beyond recent highs or lows can protect against sudden spikes, while careful monitoring of broader crypto market sentiment can provide early clues for directional shifts."
+    }
+  }
+}

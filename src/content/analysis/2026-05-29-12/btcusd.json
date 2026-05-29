@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-29T12:29:42.139Z",
+  "price": {
+    "close": "73199.67",
+    "high": "73369.79",
+    "low": "73189.78",
+    "open": "73369.79",
+    "change": "-0.23",
+    "datetime": "2026-05-29 12:00:00"
+  },
+  "indicators": {
+    "rsi": 42.81258,
+    "macd": -91.4645,
+    "macd_signal": -119.63277,
+    "sma20": 73455.1585
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘调整，震荡偏弱",
+      "content": "当前比特币价格在 $73,199.67$ 附近波动，较昨日微跌 $0.23\\%$，短期走势呈现轻微下行压力。价格在日内高低点 $73,369.79 / 73,189.78$ 之间横盘整理，显示多空力量暂时均衡，但未能有效突破 20 日均线 $SMA(20) = 73,455.16$，形成短期阻力。\n\n从技术指标来看，MACD 处于负值 $-91.46450$，虽然信号线数据缺失，但负值表明下行动能仍在发挥作用，短期可能延续震荡偏弱格局。RSI 数据缺失，使得超买超卖判断不完全，但结合价格与均线关系，市场情绪趋于谨慎。\n\n支撑位方面，近期低点 $73,189.78$ 构成第一支撑，若失守可关注 $72,800$ 附近心理支撑；阻力位主要在 $SMA(20)$ 及日内高点 $73,369.79$，突破这些水平才能确认短线反弹。成交量若能配合突破，将增强上行可信度。\n\n交易策略上，短线建议以观望或低仓位做震荡交易为主，避免追高。可在支撑位附近布局小幅多单，止损设置在支撑下方 0.5%-1%，等待价格突破 $SMA(20)$ 后再考虑加仓。同时，警惕下方支撑破位引发加速下跌的风险，合理控制仓位与风险敞口。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading just under the 20-day moving average near 73,455, indicating mild short-term bearish pressure after failing to sustain momentum above recent highs. Price action remains compressed between 73,190 support and 73,370 resistance, suggesting consolidation rather than a decisive breakdown. The narrow intraday range and modest 24-hour decline of 0.23% imply that traders are waiting for stronger macro or volume-driven catalysts before committing to larger directional positions.\n\nThe MACD reading at -91.46 reflects weakening bullish momentum and hints at a potential continuation of downside pressure in the near term. Although the RSI value is unavailable, current positioning below the SMA(20) supports a cautious outlook. If Bitcoin remains below the moving average, sellers may continue testing lower liquidity zones. However, the absence of aggressive downside acceleration also suggests that bears have not fully taken control of the market structure.\n\nImmediate support is forming around 73,180, which aligns closely with the session low and could act as a short-term defensive level for buyers. A break beneath that zone may expose 72,900 and potentially 72,500 in extension. On the upside, resistance remains clustered near 73,370 and then the SMA(20) around 73,455. A successful breakout above these levels could restore bullish momentum and reopen the path toward 74,000 psychological resistance.\n\nShort-term traders may prefer range-based strategies until a confirmed breakout develops. Conservative participants could wait for a daily close above 73,455 before considering stronger long exposure, while aggressive traders may look for quick intraday opportunities near support and resistance boundaries. Risk management remains essential, especially as momentum indicators currently favor caution rather than sustained upside continuation."
+    }
+  }
+}
