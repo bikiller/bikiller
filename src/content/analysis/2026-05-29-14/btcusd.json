@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-29T14:53:26.625Z",
+  "price": {
+    "close": "72908.05",
+    "high": "73083.47",
+    "low": "72364.13",
+    "open": "73023.84",
+    "change": "-0.16",
+    "datetime": "2026-05-29 14:00:00"
+  },
+  "indicators": {
+    "rsi": 37.94693,
+    "macd": -146.11147,
+    "macd_signal": -124.93822,
+    "sma20": 73402.4055
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱，关键阻力受压",
+      "content": "当前比特币价格略低于20日均线73402.41美元，显示短期上行动能受限。MACD为-146.11，呈现空头动能，虽幅度不大，但反映买方压力不足。价格在72364.13美元附近曾获得支撑，形成短期底部区域。\n\n技术指标显示短期内市场情绪偏中性偏弱。缺乏RSI数据，但从价格与SMA20的关系可判断，若价格持续低于均线，将加大下行风险。MACD负值表明空方仍有主动权，需关注零轴附近能否出现反转信号。\n\n关键阻力位在73400美元附近，若突破可能带动反弹；支撑位在72350-72400美元区间，跌破则可能引发进一步回调。投资者应关注价格在支撑位的稳定性以及量能配合情况，以判断趋势延续性。\n\n交易策略上，建议保持观望为主，短线可考虑区间波段操作。突破阻力可适度跟进多单，跌破支撑需控制仓位或考虑轻仓止损。总体来看，短期市场仍以震荡偏弱格局为主，需耐心等待明确趋势信号再做布局。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 72,908, holding within a relatively narrow intraday range between 72,364 and 73,083. The short-term structure remains mildly bearish as price continues to trade below the 20-period simple moving average at 73,402. This suggests that momentum has weakened after recent advances, with sellers maintaining control on rallies. The modest 24-hour decline of 0.16% reflects consolidation rather than aggressive selling pressure, but upside conviction remains limited.\n\nTechnical indicators also lean cautious. The MACD value of -146.11 indicates negative momentum and suggests that bearish pressure persists in the near term. While the RSI reading is unavailable, the combination of a negative MACD and price trading below the 20-day average points to a market lacking strong bullish momentum. Traders should monitor whether price can reclaim the SMA(20), as this would improve the short-term technical outlook and potentially attract renewed buying interest.\n\nKey support is located around the session low near 72,364, with additional downside interest likely emerging around the psychological 72,000 level. A decisive break below these areas could expose deeper retracement risk toward the 71,000 region. On the upside, immediate resistance is found near 73,083, followed by the SMA(20) around 73,402. A sustained move above these levels would signal improving sentiment and could open the path toward higher resistance zones.\n\nFrom a trading perspective, conservative participants may prefer to wait for confirmation before establishing new positions. Bullish traders could look for a breakout and close above 73,400 to confirm renewed upward momentum, while bearish traders may focus on rejection patterns near resistance or a breakdown below 72,300. Given the current mixed-to-bearish technical backdrop, disciplined risk management and clearly defined stop-loss levels remain essential until a stronger directional trend emerges."
+    }
+  }
+}
