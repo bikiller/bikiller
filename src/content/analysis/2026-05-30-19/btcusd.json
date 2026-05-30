@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-30T19:52:24.880Z",
+  "price": {
+    "close": "73943.67",
+    "high": "73966.34",
+    "low": "73854.35",
+    "open": "73929.53",
+    "change": "0.02",
+    "datetime": "2026-05-30 19:00:00"
+  },
+  "indicators": {
+    "rsi": 61.78638,
+    "macd": 113.14177,
+    "macd_signal": 66.07493,
+    "sma20": 73616.4875
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理偏多趋势",
+      "content": "当前比特币价格在 $73,943.67$ 附近徘徊，短线波动幅度有限，显示市场处于震荡整理阶段。从均线来看，SMA(20) 位于 $73,616.49$，价格略高于均线，提示短期偏多，但涨势动力有限，需要观察进一步突破情况。MACD 当前值为 $113.14$，虽然信号线缺失，但正值表明多头仍占优，市场尚未出现明显反转迹象。\n\n支撑位上，短期关注 $73,600$ 附近，若价格跌破此区域，则可能触发回调压力；阻力位在 $74,000$ 附近，多次冲高未能站稳，若突破则可能打开上涨空间。高低点差值较小，暗示市场买卖力量相对均衡，震荡整理特征明显。\n\n结合技术指标，短期交易策略可倾向于逢低做多，但需严格控制止损。若价格突破阻力位 $74,000$，可适度加仓做多；若跌破支撑位 $73,600$，应及时减仓或观望，防止快速下行造成损失。震荡区间操作更适合中短线交易者，避免追高或盲目重仓。\n\n整体来看，比特币当前处于震荡偏多的技术格局，短线多头情绪尚存，但缺乏明显趋势突破信号。关注关键支撑阻力位的反复试探，将有助于把握下一波较为明确的市场方向。风险管理仍需严格执行，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a marginally bullish posture, trading just above its 20-period simple moving average (SMA20) of 73,616.49, indicating mild upward momentum. Price action is consolidating in a narrow range between 73,854.35 and 73,966.34, reflecting low volatility over the last 24 hours. This tight trading band suggests a potential buildup before a directional move, with traders likely monitoring for a breakout above resistance or a breakdown below support to signal the next trend phase.\n\nThe MACD reading of 113.14, although lacking a current signal line for direct crossover analysis, implies ongoing bullish momentum relative to prior periods. Without the RSI available, overbought or oversold conditions remain uncertain, so traders should exercise caution. The price hovering above the SMA20 provides additional confirmation that short-term buyers maintain control, although the negligible 0.02% change highlights a market in equilibrium with neither side strongly dominating.\n\nKey support levels are identified at 73,854, marking the lower boundary of the recent range and a potential buy zone on dips. Resistance near 73,966 represents the immediate ceiling that, if breached, could accelerate upward movement toward the next psychological level around 74,200. Intraday traders may watch for volume confirmation to validate any breakout above this resistance, while risk-averse positions could employ tight stop-losses just below the SMA20 to limit downside exposure.\n\nStrategically, cautious long positions may be justified above the SMA20 with a target toward the upper range, while short-term traders might consider fade strategies near resistance if momentum fails to strengthen. Overall, the market reflects consolidation with a mild bullish tilt, favoring trend-following trades above 73,616 and defensive setups if price slips below support. Monitoring volatility expansion will be key to capturing a meaningful directional move."
+    }
+  }
+}
