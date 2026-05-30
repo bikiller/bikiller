@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-30T16:58:29.423Z",
+  "price": {
+    "close": "73821.02",
+    "high": "73873.89",
+    "low": "73761.99",
+    "open": "73811.8",
+    "change": "0.01",
+    "datetime": "2026-05-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 58.53389,
+    "macd": 74.31751,
+    "macd_signal": 30.0019283,
+    "sma20": 73529.9455
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整偏多",
+      "content": "目前BTC/USD价格在73821附近小幅波动，短线走势表现为盘整偏多。日内波动幅度有限，高低点在73873与73761之间，显示市场多空力量相对均衡，但价格略高于SMA(20)73529，暗示多头仍占轻微优势。\n\nMACD处于正值74.31751，但缺乏信号线数据，提示动能偏强但尚未形成明确趋势突破。若未来MACD与信号线形成金叉，将进一步确认上行动力；反之若死叉出现，则需警惕短线回调风险。\n\n支撑位可参考73760附近，若跌破则可能测试73600关口；阻力位在73870-73900区域，突破后短线有望触及74050。交易上建议保持谨慎，短线可低位逢低布局，但需控制仓位，并关注关键支撑的破位信号。\n\n综合来看，当前市场属于高位震荡偏多格局，投资者可关注SMA及MACD动能的变化作为参考，同时结合支撑阻力位制定入场和止盈策略，以降低操作风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading at 73,821.02, holding near the upper end of the session range between 73,761.99 and 73,873.89. The price remains above the 20-period simple moving average at 73,529.95, indicating that short-term momentum continues to favor buyers. The modest 24-hour change of 0.01% suggests a period of consolidation rather than a decisive directional move, with market participants waiting for a catalyst before committing to a stronger trend.\n\nThe moving average structure supports a mildly bullish outlook as long as price remains above the 73,530 area. MACD stands at 74.32, a positive reading that generally reflects underlying upward momentum. However, the absence of a signal-line value limits confirmation of trend strength. Likewise, the unavailable RSI reading prevents assessment of overbought or oversold conditions. Even so, current price action above the SMA suggests buyers maintain control of the near-term market structure.\n\nKey support is located around 73,530, corresponding to the 20-period SMA, with additional support near the session low of 73,762. A break below these levels could expose a deeper retracement toward the 73,300–73,400 zone. On the upside, immediate resistance is found near the session high of 73,874. A sustained move above that barrier would strengthen bullish sentiment and could open the path toward the psychologically important 74,000 level and potentially higher targets.\n\nFrom a trading perspective, momentum-oriented traders may consider maintaining a bullish bias while price remains above the moving average support. Conservative participants may prefer waiting for a confirmed breakout above 73,874 before initiating new long positions. Risk management remains essential, with protective stops placed below key support zones. Short-selling opportunities appear less attractive at present unless price decisively breaks below the SMA and confirms a shift toward bearish momentum."
+    }
+  }
+}
