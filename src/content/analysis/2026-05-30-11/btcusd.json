@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-30T11:57:29.256Z",
+  "price": {
+    "close": "73493.47",
+    "high": "73551.35",
+    "low": "73454.27",
+    "open": "73549.55",
+    "change": "-0.08",
+    "datetime": "2026-05-30 11:00:00"
+  },
+  "indicators": {
+    "rsi": 50.32797,
+    "macd": -0.59599022,
+    "macd_signal": -12.40889,
+    "sma20": 73494.1215
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘整理趋势",
+      "content": "当前比特币价格围绕73490美元上下震荡，整体走势呈现短期横盘整理特征。尽管24小时内价格变化幅度仅为-0.08%，但高点与低点的微小差异显示市场缺乏明确方向，多空力量暂时均衡。\n\n从技术指标来看，20日简单移动平均线(SMA20)位于73494附近，与当前价格基本重合，显示价格在均线附近得到支撑。MACD值为-0.596，尚未形成明显金叉或死叉，暗示短期内动能偏弱，投资者需关注动能指标变化以捕捉趋势信号。RSI未提供，但可通过价格波动幅度判断市场暂未超买或超卖。\n\n关键支撑位可关注73450一线，若跌破该水平可能引发短期回调压力。阻力位在73550附近，多次尝试突破未果，形成明显压力区域。若价格稳步突破阻力位，将可能开启新一轮上涨空间，反之则继续在区间内震荡。\n\n交易策略上，短线投资者可采取区间操作，低位买入、高位减仓以控制风险。中长线投资者建议保持观望，等待价格突破关键阻力或支撑位后再做布局，同时密切关注市场成交量与动能变化，以判断趋势延续或反转。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading in an exceptionally tight range near 73,493, with price action hovering almost exactly at the 20-period simple moving average around 73,494. This alignment suggests a neutral short-term structure, where neither buyers nor sellers currently control momentum decisively. The minimal 24-hour decline of 0.08% reinforces a consolidation phase, often seen before volatility expansion or a directional breakout.\n\nIndicator readings offer a cautiously bearish undertone but remain incomplete. The MACD value of -0.596 points to fading upside momentum, although the absence of a signal line limits confirmation of a stronger bearish crossover. Meanwhile, price trading marginally below the SMA(20) indicates mild short-term weakness rather than a confirmed trend reversal. Without RSI data, overbought or oversold conditions cannot be reliably assessed, increasing the importance of price behavior near key technical zones.\n\nImmediate support appears near the session low at 73,454, followed by a broader defensive area around 73,400 if selling pressure increases. On the upside, resistance is clustered around 73,550–73,600, aligned with the recent high and psychological short-term ceiling. A sustained break above resistance could invite renewed bullish momentum, while a failure to hold support may trigger a deeper retracement toward lower intraday demand levels.\n\nTraders may consider a range-based approach until a clearer directional signal emerges. Conservative participants could wait for confirmation through a breakout above 73,600 or a breakdown beneath 73,450 before initiating positions. Short-term traders might favor tight risk management, using nearby support and resistance for entries and exits. Given compressed price action and weakening momentum signals, disciplined position sizing remains essential in the current BTC/USD environment."
+    }
+  }
+}
