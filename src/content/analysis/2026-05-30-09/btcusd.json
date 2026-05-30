@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-30T09:03:44.583Z",
+  "price": {
+    "close": "73407.85",
+    "high": "73420.83",
+    "low": "73401.76",
+    "open": "73417.92",
+    "change": "-0.01",
+    "datetime": "2026-05-30 09:00:00"
+  },
+  "indicators": {
+    "rsi": 48.39548,
+    "macd": -18.88823,
+    "macd_signal": -20.47639,
+    "sma20": 73469.2225
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线偏弱震荡整理",
+      "content": "当前BTC/USD报73407.85，24小时基本持平，但价格运行于20日均线73469.22下方，显示短线多头动能有所减弱。日内波动区间极窄，高低点仅相差约19美元，市场处于观望状态，趋势以震荡偏弱为主。\n\n从技术指标来看，MACD值为-18.89，位于零轴下方，反映空头力量略占优势。由于RSI数据缺失，难以判断超买或超卖状态，但价格跌破SMA(20)后，短期均线压制作用开始显现，市场情绪趋于谨慎。\n\n关键支撑位可关注73400附近，该位置接近日内低点，若失守可能进一步下探73350至73280区域。上方阻力位首先位于73470一线，即20日均线位置，突破后有望测试73520至73600区域压力。\n\n交易策略方面，短线投资者宜采取区间交易思路，在支撑位附近观察企稳信号后低吸，在阻力区域分批减仓。激进交易者可关注73470突破情况，若放量站稳则顺势跟进；若持续受压，则以高位做空思路为主，并严格设置止损控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin's price action around $73,407 shows a market in a tight consolidation phase. The negligible 24-hour change of -0.01% reflects hesitation among traders, suggesting neither strong bullish nor bearish conviction. Price has been oscillating narrowly between $73,401 and $73,420, indicating a low-volatility environment. Short-term trend analysis reveals a potential equilibrium around the 20-period simple moving average at $73,469, which currently acts as a slight overhead resistance. Momentum appears subdued, implying traders are waiting for decisive market cues.\n\nThe MACD reading of -18.88823 signals a bearish undertone, despite the lack of a signal line for confirmation. This divergence below zero suggests that downward momentum might dominate if price breaks the current support. The absence of a valid RSI limits the ability to gauge overbought or oversold conditions, but the narrow range and small price movement point to a neutral stance. Traders should be cautious, as any sudden spike in volume could rapidly shift market sentiment.\n\nImmediate support is identified around $73,400, which has held in recent price action. Resistance lies near $73,470, aligned closely with the 20-period SMA, providing a barrier to short-term upside. Should price break above this SMA convincingly, it could open a path toward $73,600. Conversely, a decisive break below support could trigger a retest of lower levels around $73,200, highlighting the importance of observing candlestick patterns and volume at these key levels.\n\nFor trading strategy, a range-bound approach may be most suitable in the current environment. Traders could consider buying near support with tight stop-loss orders and targeting the upper resistance. Conversely, short positions may be justified if the price fails to hold $73,400, with the MACD suggesting potential for downward continuation. Overall, patience is critical, and monitoring for breakout signals with volume confirmation will likely offer the safest entries."
+    }
+  }
+}
