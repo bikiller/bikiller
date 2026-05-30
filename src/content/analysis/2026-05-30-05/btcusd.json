@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-30T05:02:00.331Z",
+  "price": {
+    "close": "73292.94",
+    "high": "73485.41",
+    "low": "73107.24",
+    "open": "73426.56",
+    "change": "-0.18",
+    "datetime": "2026-05-30 04:00:00"
+  },
+  "indicators": {
+    "rsi": 46.17093,
+    "macd": -35.37614,
+    "macd_signal": -30.44177,
+    "sma20": 73424.963
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线偏弱震荡整理",
+      "content": "当前BTC/USD报价73292.94，24小时微跌0.18%，价格运行于73107至73485区间内，整体呈现窄幅震荡格局。现价低于20日均线73424.96，显示短期多头动能有所减弱，市场处于方向选择阶段。\n\n从技术指标来看，MACD值为-35.38，处于零轴下方，反映短线空方略占优势。不过跌幅有限，且价格未出现明显加速下行，说明卖压尚未形成强烈趋势。由于RSI数据缺失，需结合后续成交量变化进一步确认动能方向。\n\n关键支撑位关注73100附近，该位置与日内低点接近，若有效跌破，可能进一步测试72800至72500区域。上方首要阻力位位于73425附近的20日均线，其次关注73500至73800区域，突破后有望重新吸引买盘进场。\n\n交易策略方面，短线投资者宜保持谨慎，等待价格突破区间后顺势跟进。激进交易者可在73100支撑附近轻仓试多，并严格设置止损；若价格反弹站稳73425上方，则有望打开进一步上行空间，否则仍以震荡偏弱思路对待。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 73,293, holding slightly below its 20-period simple moving average at 73,425. This positioning suggests a mildly bearish short-term bias, particularly as price continues to struggle beneath nearby dynamic resistance. The narrow trading range between 73,107 and 73,485 indicates consolidation rather than a strong directional move. While the 24-hour decline of 0.18% is modest, it reflects persistent selling pressure preventing a meaningful recovery above recent highs.\n\nMomentum indicators reinforce this cautious outlook. The MACD value of -35.38 points to weakening bullish momentum and suggests that sellers currently retain a slight advantage. Although RSI data is unavailable, price action relative to the SMA and the negative MACD reading imply limited upside momentum in the immediate term. Traders should watch for confirmation through either a decisive break above the moving average or a stronger downside extension before committing to aggressive directional positions.\n\nKey support is located around 73,100, corresponding closely to the session low. A break below this level could expose the market to further declines toward the 72,800–72,600 region, where additional buying interest may emerge. On the upside, resistance is evident near 73,425–73,500, aligned with the SMA(20) and recent intraday highs. A sustained move above this zone would improve sentiment and potentially open a path toward 74,000 and higher.\n\nFrom a trading perspective, range-based strategies remain appropriate while price remains trapped between support and resistance. Conservative traders may wait for a confirmed breakout above 73,500 before considering long positions, targeting higher resistance zones with disciplined risk management. Conversely, a breakdown below 73,100 could present short-selling opportunities. Given the current consolidation and mixed signals, maintaining tight stop-loss levels and avoiding oversized positions is advisable until clearer directional momentum develops."
+    }
+  }
+}
