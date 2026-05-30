@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-30T10:55:05.319Z",
+  "price": {
+    "close": "73534.25",
+    "high": "73583.99",
+    "low": "73488.25",
+    "open": "73514.01",
+    "change": "0.03",
+    "datetime": "2026-05-30 10:00:00"
+  },
+  "indicators": {
+    "rsi": 51.48086,
+    "macd": -3.37667,
+    "macd_signal": -15.60638,
+    "sma20": 73503.408
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏强，短线维持整理格局",
+      "content": "当前BTC/USD报价73534.25美元，24小时涨幅仅0.03%，整体波动区间较窄。从价格运行看，现价稳于20日均线73503附近，显示短期多头仍占据一定优势，但上涨动能暂未明显放大，市场处于高位震荡整理阶段。\n\n技术指标方面，SMA(20)向价格形成支撑，表明中短期趋势保持稳定。MACD数值为-3.37667，位于零轴附近偏弱区域，暗示短线动能略显不足，多空双方仍在拉锯。由于RSI数据缺失，超买超卖状态暂时无法进一步确认。\n\n关键价位上，73500美元附近构成第一支撑区域，与20日均线形成共振支撑。若跌破该位置，下方关注73488美元日内低点；进一步支撑位可参考73400美元区域。上方阻力首先位于73584美元日内高点，突破后有望测试73700至73800美元区间。\n\n交易策略方面，短线交易者可关注73500美元附近的支撑有效性，在支撑确认后顺势布局多单；若价格放量突破73584美元，可考虑追随突破行情。若跌破73488美元并持续走弱，则需警惕回调风险，适当控制仓位并设置止损。整体来看，当前市场仍偏向震荡偏多思路。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering just above its 20-period simple moving average (SMA20) at $73,503, indicating a relatively neutral short-term trend. Price consolidation between $73,488 and $73,584 over the past 24 hours suggests a period of indecision among market participants. The negligible 0.03% change reinforces this sideways movement, signaling that momentum is currently weak and neither bulls nor bears are asserting strong control.\n\nThe MACD value of -3.37667 hints at mild bearish pressure despite the tight price range. The absence of the signal line and RSI data limits the depth of momentum analysis, but the MACD being negative suggests the recent price action favors sellers slightly. Traders should watch for MACD convergence or divergence with price as a potential early indicator of a breakout or breakdown.\n\nImmediate support lies near the recent low of $73,488, while resistance is found at the recent high of $73,584. A breach above this resistance could trigger short-term bullish momentum, whereas a break below support might open a pathway toward $73,400 or lower. These levels can act as key entry or exit points, especially for intraday or swing traders monitoring tight ranges.\n\nGiven the current range-bound dynamics, a cautious trading approach is recommended. Short-term traders might consider scalping opportunities near support and resistance levels, while more conservative traders could wait for a confirmed breakout above $73,584 or a breakdown below $73,488. Monitoring volume spikes and subsequent MACD shifts will provide additional confirmation for entering or exiting positions, minimizing risk in a low-momentum environment."
+    }
+  }
+}
