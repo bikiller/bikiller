@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-31T11:10:33.802Z",
+  "price": {
+    "close": "73813.98",
+    "high": "73839.99",
+    "low": "73791.01",
+    "open": "73791.02",
+    "change": "0.03",
+    "datetime": "2026-05-31 11:00:00"
+  },
+  "indicators": {
+    "rsi": 50.88254,
+    "macd": 42.63987,
+    "macd_signal": 73.34642,
+    "sma20": 73879.3515
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏弱整理",
+      "content": "当前BTC/USD报价73813.98，24小时涨幅仅0.03%，价格运行于日内区间73839.99至73791.01之间，波动明显收窄。短线呈现高位横盘整理格局，多空双方力量相对均衡，市场暂时缺乏明确方向性突破信号。\n\n从技术指标看，现价低于20周期均线73879.35，说明短期走势略偏弱势。MACD主线位于42.64附近且保持正值，显示中期多头动能尚未完全消退，但由于缺少信号线数据，动能持续性仍需进一步确认。RSI数据缺失，短线超买超卖状态暂难判断。\n\n关键价位方面，73791附近构成短线第一支撑，若跌破该位置，可能进一步测试73750甚至73680区域。上方阻力首先关注73840一线，突破后有望挑战73900至74000整数关口，届时市场情绪或明显改善。\n\n交易策略上，建议以区间交易思路为主，激进投资者可关注支撑位附近低吸机会，严格设置止损。稳健投资者则等待价格有效突破73840并站稳均线后再考虑顺势跟进。当前成交动能有限，追涨杀跌风险相对较高。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Bitcoin vs US Dollar (BTC/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 73813.98\\n- 24h Change: 0.03%\\n- High/Low: 73839.99 / 73791.01\\n- RSI(14): N/A\\n- MACD: 42.63987, Signal: N/A\\n- SMA(20): 73879.35150\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBTC/USD is currently hovering around **$73,800**, showing a very tight range over the past 24 hours between **$73,791 and $73,839**. This suggests near-term consolidation after recent moves, with neither buyers nor sellers exerting clear control. The minimal 0.03% change underscores muted volatility. From a price action perspective, the trend remains **neutral to mildly bullish**, as prices sit very close to short‑term averages without decisive breakout momentum.\n\nLooking at key indicators, the **SMA(20)** at **$73,879** is just slightly above the current price, acting as an immediate dynamic resistance. The fact that price is below this short‑term average hints at subtle downside pressure. The **MACD** reading of **42.64** (with no signal line available) indicates some positive momentum remains, but without confirmatory signal data, we should be cautious in interpreting strength. The missing **RSI(14)** limits overbought/oversold insights, so the focus stays on price structure.\n\nIn terms of support and resistance, the most immediate **support** sits near **$73,700–$73,750**, where recent intraday lows have clustered. A break below this could expose **$73,500** or even **$73,300** as the next buyers’ zones. On the upside, reclaiming and holding above **$73,880–$73,900** would shift the short‑term bias back into buyers’ favor, opening room toward **$74,200** and beyond. These levels are critical for validating directional conviction.\n\nFor traders, a **range‑focused approach** seems prudent: consider scale‑in entries near the lower support band with tight stops just below, and look for confirmation above the SMA for bullish continuation. Given the tight range, avoid chasing moves without volume expansion. If broader markets pick up volatility, watch for a breakout from this consolidation before increasing position size."
+    }
+  }
+}
