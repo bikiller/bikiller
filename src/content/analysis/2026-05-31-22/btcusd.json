@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-31T22:17:27.250Z",
+  "price": {
+    "close": "73820.95",
+    "high": "73885.42",
+    "low": "73571.91",
+    "open": "73782.14",
+    "change": "0.05",
+    "datetime": "2026-05-31 22:00:00"
+  },
+  "indicators": {
+    "rsi": 54.75659,
+    "macd": -28.10847,
+    "macd_signal": -30.92504,
+    "sma20": 73736.357
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，压力谨慎观察",
+      "content": "目前比特币价格徘徊在73820附近，接近20日均线73736.36，显示价格在短期均线附近盘整。日内波动幅度有限，整体短期趋势偏多，但缺乏明显突破信号。价格与均线的贴近提示市场正处于观望阶段，多空力量暂时平衡。  \n\nMACD指标显示为-28.11，虽然未给出信号线数据，但负值表明短期空头动能仍存在压力，价格可能承压于前高73885一线。RSI数据缺失，但结合价格与均线位置，可推测多空能量分布均衡，需关注成交量变化以判断后续动向。  \n\n支撑位上关注73570附近前低及20日均线位置，若跌破则短线可能加速下行至73000整数关口；阻力位则在73885高点及74000心理关口，若突破则有望测试74500-75000区间。短线交易建议以逢低做多为主，但严格控制止损，防止快速回调风险。  \n\n综合来看，当前比特币短期呈震荡偏多格局，操作上应关注均线支撑及前高阻力，同时结合MACD动能变化和成交量确认突破方向，保持灵活的仓位管理策略以应对突发波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action shows a relatively neutral intraday pattern, hovering near $73,820. The small 24-hour change of 0.05% and tight high-low range ($73,885–$73,572) suggest consolidation after recent volatility. This pause could indicate market indecision, with buyers and sellers in equilibrium. The price sitting just above the 20-day SMA at $73,736 suggests a slight bullish bias, but momentum indicators like MACD at -28.11 hint at underlying weakness that traders should monitor carefully.\n\nThe MACD being negative indicates that the short-term momentum is weaker than the longer-term trend, even if the actual price remains above the SMA. Without a clear MACD signal line or RSI, momentum assessment relies on price relative to moving averages and recent support/resistance levels. The market may be susceptible to minor retracements if bearish pressure increases, but the current consolidation suggests any move is likely to be measured rather than explosive.\n\nSupport around $73,570 aligns with the recent intraday low, providing a floor for potential pullbacks. Resistance near $73,885, coinciding with the daily high, represents a ceiling for upward attempts. Breaking either level decisively could trigger a more pronounced directional move, potentially attracting short-term traders. Monitoring volume near these key levels would provide confirmation for breakout or breakdown scenarios.\n\nGiven the current setup, a cautious trading approach is recommended. Short-term traders might consider range-bound strategies between the identified support and resistance. Trend-following traders should wait for a confirmed break above $73,885 for bullish entries or below $73,570 for bearish positions. Patience is key, as the market currently favors careful observation over aggressive positioning, with confirmation from momentum indicators necessary before committing to significant trades."
+    }
+  }
+}

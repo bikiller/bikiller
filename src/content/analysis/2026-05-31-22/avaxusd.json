@@ -1,0 +1,30 @@
+{
+  "symbol": "AVAX/USD",
+  "name": "Avalanche vs US Dollar",
+  "nameCn": "雪崩币/美元",
+  "timestamp": "2026-05-31T22:23:12.936Z",
+  "price": {
+    "close": "8.937",
+    "high": "8.9771",
+    "low": "8.911",
+    "open": "8.936",
+    "change": "-0.04",
+    "datetime": "2026-05-31 22:00:00"
+  },
+  "indicators": {
+    "rsi": 50.60644,
+    "macd": -0.017482175,
+    "macd_signal": -0.013816874,
+    "sma20": 8.94813
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 雪崩币/美元(AVAX/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 8.937\\n- 24小时变化: -0.04%\\n- 高点/低点: 8.9771 / 8.911\\n- RSI(14): N/A\\n- MACD: -0.017482175, Signal: N/A\\n- SMA(20): 8.94813\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"雪崩币/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "雪崩币/美元技术分析：短期震荡偏弱整理\n\n当前价格围绕$8.94上下波动，短线震荡特征明显。最新价格略低于20日均线$8.948，表明多空平衡略偏空头，短期趋势仍在整理区间内运行，需要关注能否回到均线之上确认多头动能。\n\n技术指标上，MACD为负值且未见明显回转，显示下行动能仍存。虽然RSI数据缺失，但从价格区间波动来看，买卖双方力量接近，暂时无明显超买或超卖信号，指标整体偏中性至略弱。\n\n关键支撑位初步看$8.90附近，其次是心理关口$8.80；阻力位在$9.00上方，进一步关注$9.15-$9.20区域。短线若跌破主要支撑，则可能加速下探，否则在支撑附近可能出现反弹。\n\n交易建议上，短线偏向谨慎观望，若价格稳守支撑并伴随成交放量，可考虑小仓位多单；若失守主要支撑，则宜等待回调结束再择机入场。止损设置合理控制风险。"
+    },
+    "en": {
+      "title": "Avalanche vs US Dollar Technical Analysis",
+      "content": "AVAX/USD is trading near 8.94, holding in a narrow intraday range after mild selling pressure emerged across the broader altcoin market. Price action remains slightly bearish in the short term, as the token continues trading marginally below the 20-day simple moving average at 8.948. The limited 24-hour decline of 0.04% suggests sellers are losing momentum, although buyers have not yet generated enough strength to trigger a decisive rebound above near-term resistance.\n\nThe MACD reading at -0.017 indicates weak negative momentum remains active, reinforcing the cautious tone visible on the daily chart. However, the absence of a sharp divergence between price and moving averages implies the market may be approaching a stabilization phase rather than accelerating into a stronger downtrend. Since RSI data is unavailable, traders should rely more heavily on price structure and volume confirmation to assess momentum shifts during upcoming sessions.\n\nImmediate support is forming around 8.91, which aligns closely with the session low and recent consolidation activity. A breakdown beneath this zone could expose AVAX to additional downside toward the 8.75 region. On the upside, resistance appears near 8.98, followed by the psychologically important 9.00 level. A sustained close above that area would improve short-term sentiment and potentially open the door for a move toward 9.20 in the near term.\n\nShort-term traders may prefer a cautious range-trading strategy while volatility remains compressed. Buying near support with tight risk controls and taking profits close to resistance may offer favorable setups until a clearer breakout develops. Momentum traders should wait for confirmation above 9.00 before initiating aggressive long positions. Conversely, failure to hold above 8.91 could encourage further defensive positioning, particularly if broader cryptocurrency sentiment weakens during the next trading cycle."
+    }
+  }
+}

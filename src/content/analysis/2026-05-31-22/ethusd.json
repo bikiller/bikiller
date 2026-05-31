@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-05-31T22:18:10.923Z",
+  "price": {
+    "close": "2015.19",
+    "high": "2015.55",
+    "low": "2006.87",
+    "open": "2013.58",
+    "change": "0.09",
+    "datetime": "2026-05-31 22:00:00"
+  },
+  "indicators": {
+    "rsi": 46.86445,
+    "macd": -4.21011,
+    "macd_signal": -3.46036,
+    "sma20": 2018.2975
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡偏弱，短线承压整理",
+      "content": "当前ETH/USD报2015.19，24小时涨幅仅0.09%，价格运行于2015附近，接近日内高点2015.55。整体来看，市场波动有限，多空双方处于拉锯状态，短期维持震荡整理格局，但均线压制仍然存在。\n\n从技术指标观察，价格低于SMA(20)均线2018.30，显示短线趋势略偏空。MACD值为-4.21，处于零轴下方，表明空头动能尚未完全消退。由于RSI数据缺失，暂时无法确认超买或超卖状态，需结合后续价格表现判断。\n\n关键位置方面，短线支撑位关注2007附近，即日内低点区域；若失守，则可能进一步测试2000整数关口。上方阻力位首先位于2018至2020区域，对应20日均线压力；突破后有望挑战2030附近更强阻力。\n\n交易策略上，建议以区间交易思路为主。激进交易者可关注2007附近企稳后的短线做多机会，目标2018至2025区域；稳健交易者则等待价格有效站稳20日均线后再顺势跟进。若跌破2007支撑，应警惕空头进一步扩大优势。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum’s price action around $2015 indicates a market in a narrow consolidation phase, with minimal 24-hour movement. The intraday range of $2006.87–$2015.55 suggests short-term equilibrium between buyers and sellers. The 20-period SMA at $2018.30 slightly above the current price indicates mild downward pressure, hinting that the market could retest support levels near $2000 if selling intensifies. Traders should observe volume spikes as confirmation of directional moves to avoid false breakouts.\n\nAlthough the RSI(14) is currently unavailable, the MACD shows a negative value of -4.21, which points to ongoing bearish momentum in the medium term. The absence of a signal line reading limits precise crossover interpretation, but the negative MACD implies that sellers have the upper hand. If a crossover occurs above the zero line, it could signal a shift toward bullish sentiment. Until then, momentum favors cautious positioning with a bias toward short-term support tests.\n\nKey technical levels to watch include immediate support at $2005–$2000 and resistance at $2020–$2025, coinciding with recent highs and the SMA zone. A decisive break above $2025 could open a path toward $2050, while failure to hold $2000 may accelerate downside risk to $1980. Traders should consider using tight stop-loss orders around these pivot points to manage risk, especially given the low intraday volatility that can amplify sudden moves.\n\nFor trading strategy, a conservative approach would involve range-bound trades between the established support and resistance, waiting for confirmation of trend continuation or reversal. Aggressive traders could look for short entries near resistance and long positions near support, with MACD and volume signals as confirmations. Maintaining disciplined position sizing and closely monitoring global crypto sentiment will help navigate this equilibrium environment without overexposing to sudden volatility."
+    }
+  }
+}
