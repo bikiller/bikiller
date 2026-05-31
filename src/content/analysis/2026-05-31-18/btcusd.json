@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-05-31T18:19:09.547Z",
+  "price": {
+    "close": "73504.41",
+    "high": "73612.56",
+    "low": "73504.26",
+    "open": "73612.54",
+    "change": "-0.15",
+    "datetime": "2026-05-31 18:00:00"
+  },
+  "indicators": {
+    "rsi": 41.46404,
+    "macd": -56.24903,
+    "macd_signal": -6.80772,
+    "sma20": 73783.2745
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，偏弱下行压力",
+      "content": "目前比特币价格徘徊在 $73504 附近，短期波动幅度有限。与 20 日简单移动平均线 $73783 相比，价格略低，显示多头动能不足，市场短线呈现整理状态，尚未出现明确反转信号。MACD 负值表明空头压力存在，但缺乏信号线确认，提示趋势可能延续弱势震荡。\n\n技术指标方面，RSI 数据缺失限制了超买超卖判断，但结合价格与 SMA 的关系，可推测市场略偏弱。短期支撑位在 $73500 附近，若跌破可能触发进一步回调，阻力位在 $73800-74000 区间，多头若要介入需突破此区域确认趋势反转。\n\n操作策略上，短线投资者可考虑在支撑位附近观察买入机会，同时保持严格止损控制，防止快速下破。若价格成功站稳 SMA 并突破阻力区，可考虑顺势加仓，趋势交易者可以回调低点作为布局参考，关注成交量变化以确认持续性。\n\n总体而言，比特币当前处于横盘震荡格局，短期偏弱但未形成明确下跌趋势。投资者需关注关键支撑与阻力，结合价格动能与成交量信号灵活调整仓位，谨慎操作以降低风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 73,504, hovering just above the session low of 73,504.26 and remaining below the 20-period simple moving average at 73,783.27. This positioning suggests a mildly bearish short-term structure, with sellers maintaining control after recent weakness. The narrow daily range indicates reduced volatility and a temporary equilibrium between buyers and sellers, though the inability to reclaim the moving average points to lingering downward pressure.\n\nThe SMA(20) continues to act as a dynamic resistance zone, and price would need a sustained move above 73,780–73,850 to improve near-term sentiment. The MACD reading of -56.25 reflects negative momentum, indicating that bearish forces remain present despite the relatively modest 24-hour decline of 0.15%. While RSI data is unavailable, the combination of a negative MACD and price trading below the moving average favors caution rather than aggressive long positioning.\n\nFrom a technical perspective, immediate support is located around the current intraday low near 73,500. A decisive break below this level could expose additional downside toward 73,200 and potentially 72,800. On the upside, resistance is concentrated near 73,800, followed by the psychologically important 74,000 region. A breakout above these levels would weaken the bearish bias and could attract renewed buying interest.\n\nFor traders, the current setup favors patience and confirmation. Conservative participants may prefer waiting for a clear recovery above the SMA(20) before considering long exposure. Short-term bearish traders could monitor rallies into resistance for potential selling opportunities, provided downside momentum remains intact. Risk management remains essential, as the compressed trading range suggests that a volatility expansion could occur soon, producing a stronger directional move in either direction."
+    }
+  }
+}
