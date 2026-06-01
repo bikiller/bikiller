@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-06-01T23:14:35.883Z",
+  "price": {
+    "close": "81.26",
+    "high": "81.36",
+    "low": "81.11",
+    "open": "81.29",
+    "change": "-0.04",
+    "datetime": "2026-06-01 23:00:00"
+  },
+  "indicators": {
+    "rsi": 51.77811,
+    "macd": -0.22167424,
+    "macd_signal": -0.36786124,
+    "sma20": 80.786
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 81.26\\n- 24小时变化: -0.04%\\n- 高点/低点: 81.36 / 81.11\\n- RSI(14): N/A\\n- MACD: -0.22167424, Signal: N/A\\n- SMA(20): 80.78600\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短期盘整震荡偏多\n\n当前价格围绕 81.26 附近波动，短线趋势表现为窄幅震荡，价格在 SMA(20) 80.786 附近获得支撑。这表明多空既有试探又缺乏明确方向，多头略占优势但动力不足。若价格持续站稳均线上方，有望延续温和上行。\n\n从技术指标看，MACD 处于负值区且尚未形成金叉，暗示上行动能仍显不足，震荡整固可能延续。虽然 RSI 数据缺失，但结合波动区间及均线位置，市场短线情绪偏中性偏多，等待更明显信号确认趋势。\n\n支撑位首先关注 80.50 附近，其次是 79.00 关键水平；阻力在 82.50 上方逐步承压，若突破 83.50 则可能开启新一轮上涨。价格若跌破主要支撑则可能转为区间下探，短线风险需控制。\n\n交易建议上，激进者可在回踩支撑附近分批买入，止损置于 79.00 下方，目标看向 82.50–83.50。保守者建议等待突破确认后跟进，避免在振荡高位追涨，做好仓位控制与风险管理。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 81.26\\n- 24h Change: -0.04%\\n- High/Low: 81.36 / 81.11\\n- RSI(14): N/A\\n- MACD: -0.22167424, Signal: N/A\\n- SMA(20): 80.78600\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSOL/USD is showing a relatively balanced intraday profile, with the latest price hovering around **81.26** and very modest 24‑hour movement. The narrow high‑low range (81.36 / 81.11) suggests ebbing volatility and short‑term equilibrium between buyers and sellers. From a trend perspective, this looks like a consolidation phase following recent directional moves. Bulls have not relinquished control, but upside conviction remains muted until a clearer breakout emerges.\n\nThe moving average landscape slightly favors bullish bias, with the **20‑period simple moving average at 80.79** sitting just below the current price. This implies that short‑term momentum still edges upward, albeit slowly. The negative MACD reading of **‑0.2217** indicates that recent price momentum has softened, possibly reflecting fading bullish energy or distribution. Without a confirmed signal line, interpret MACD cautiously: it warns of potential momentum divergence rather than outright reversal at this point.\n\nKey technical levels to watch are concentrated around the recent consolidation band. On the upside, **resistance lies near the 82.00–82.50 zone**, where prior swing highs and psychological round numbers cluster. A clean break and close above this area would suggest renewed bullish interest and could accelerate gains toward 85.00. Conversely, **support rests near 80.00**, with a deeper cushion around **78.50** from prior demand areas. Breaking below these supports could hasten bearish pressure and invite further downside exploration.\n\nFrom a trading standpoint, consider a cautious range‑based approach while price remains in the current band. Long positions might be favored on dips near defined support, with stops just beneath to manage risk. A breakout strategy could involve initiating on a strong close above 82.50, targeting incremental gains with tight profit management. If downside momentum strengthens, short exposure at lower highs with protective stops may capture renewed bearish swings."
+    }
+  }
+}

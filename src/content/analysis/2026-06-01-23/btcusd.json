@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-01T23:12:24.122Z",
+  "price": {
+    "close": "71281.63",
+    "high": "71325.04",
+    "low": "71217.93",
+    "open": "71305.87",
+    "change": "-0.03",
+    "datetime": "2026-06-01 23:00:00"
+  },
+  "indicators": {
+    "rsi": 34.32112,
+    "macd": -572.91404,
+    "macd_signal": -547.085509,
+    "sma20": 71996.0985
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线偏空震荡整理",
+      "content": "当前BTC/USD报价71281.63美元，24小时跌幅仅0.03%，整体维持窄幅震荡格局。从价格表现看，日内高低点区间仅约107美元，多空双方均缺乏明确突破动能，市场处于观望状态，短线趋势偏弱但尚未出现加速下跌迹象。\n\n从技术指标来看，价格运行于20日简单移动平均线71996附近下方，显示中期趋势仍承受一定压力。MACD数值为-572.91，处于负值区域，表明空头动能依然占优。由于RSI数据缺失，暂时无法确认市场是否进入超卖区间，但均线与MACD组合偏向空头信号。\n\n关键价位方面，71200美元附近构成短线第一支撑，若失守则可能进一步测试70800至70500美元区域。上方阻力首先关注71400美元，其次为72000美元附近的20日均线压力位。只有有效突破并站稳72000美元，市场情绪才有望明显改善。\n\n交易策略上，短线投资者宜保持谨慎，优先关注71200美元支撑得失。激进交易者可等待价格突破区间后顺势跟进，避免在当前低波动环境中过度追涨杀跌。中线投资者则需关注价格能否重新收复20日均线，以确认趋势转强信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 71,282, holding within a very narrow intraday range between 71,218 and 71,325. The price remains below the 20-period simple moving average at 71,996, indicating that short-term momentum is still tilted to the downside. Although the 24-hour change is nearly flat, the inability to reclaim the moving average suggests buyers are struggling to regain control after recent weakness, keeping the broader near-term trend cautiously bearish.\n\nThe MACD reading of -572.91 reinforces this view, reflecting negative momentum and a market that remains under selling pressure. While the signal line is unavailable, the deeply negative MACD value suggests bearish conditions are still dominant. The absence of RSI data limits confirmation of overbought or oversold conditions, making price action and trend-following indicators more important for assessing market direction in the current environment.\n\nImmediate support is located around the session low near 71,218. A decisive break below this area could expose additional downside toward the psychologically important 71,000 level, followed by deeper support around 70,500. On the upside, resistance appears near 71,325, with stronger resistance at the 20-day SMA around 71,996. A sustained move above the moving average would improve sentiment and potentially open the path toward the 72,500–73,000 region.\n\nFor traders, a cautious approach remains appropriate while price trades below the 20-period SMA and MACD stays negative. Short-term participants may favor selling rallies into resistance until bullish confirmation emerges. More conservative traders could wait for either a confirmed breakout above 71,996 or a clear support rebound before initiating new long positions. Risk management remains essential, with stop-loss levels placed beyond key support and resistance zones to protect against sudden volatility."
+    }
+  }
+}
