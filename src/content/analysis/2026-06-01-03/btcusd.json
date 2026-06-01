@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-01T03:35:40.087Z",
+  "price": {
+    "close": "73852.8",
+    "high": "73914.01",
+    "low": "73679.07",
+    "open": "73679.07",
+    "change": "0.23",
+    "datetime": "2026-06-01 03:00:00"
+  },
+  "indicators": {
+    "rsi": 53.84438,
+    "macd": -25.019565,
+    "macd_signal": -34.93612,
+    "sma20": 73654.8895
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘整理偏强",
+      "content": "当前比特币价格在$73852.8附近小幅震荡，24小时变化仅0.23%，显示市场多空力量暂时均衡。从短期均线来看，SMA(20)位于$73654.89下方，价格略高于均线，暗示短期多头略占优势，但趋势并不明朗，需关注后续能否突破近期高点$73914。\n\nMACD指标显示为-25.02，处于零轴下方且未形成明显金叉或死叉，说明当前动能偏弱，多空能量仍在博弈中。RSI未提供数据，但结合价格震荡及均线情况，市场仍可能在高位整理，短线波动可能受成交量影响较大。\n\n支撑位主要参考近期低点$73679及SMA(20)附近区域，若跌破可能触发短线回调。阻力位关注近期高点$73914及心理整数关口$74000，如能有效突破，则短线多头动能可能增强，形成新的上行趋势。\n\n交易上建议采取低位轻仓布局策略，等待明确突破信号再加仓，同时可在支撑附近考虑短线多单尝试，但需严格设置止损。短期内高位追涨风险较大，保持观望或分批建仓更为稳健。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading at 73,852.8, holding slightly above its 20-period simple moving average of 73,654.9. This positioning suggests the short-term trend remains mildly constructive, with buyers maintaining control despite limited momentum. The narrow trading range between 73,679 and 73,914 indicates consolidation near local highs rather than aggressive directional movement. The modest 24-hour gain of 0.23% reinforces a market environment characterized by stability and cautious accumulation rather than strong bullish expansion.\n\nTechnical indicators present a mixed picture. While the RSI(14) reading is unavailable, the MACD value of -25.02 points to lingering bearish momentum beneath the surface. However, the absence of a signal line prevents confirmation of a clear bearish crossover. Given that price remains above the SMA(20), the negative MACD may reflect weakening downside pressure rather than the beginning of a stronger decline. Traders should therefore monitor whether momentum begins to improve as price continues to hold above key moving-average support.\n\nImmediate support is located around 73,650, closely aligned with the 20-period SMA and the lower end of the recent trading range. A break below this zone could expose 73,500 and potentially trigger additional selling pressure. On the upside, resistance is evident near 73,900–74,000, where recent advances have stalled. A decisive breakout above this area would strengthen the bullish outlook and increase the probability of a move toward higher psychological levels.\n\nFrom a trading perspective, trend-following participants may consider maintaining a cautiously bullish bias while price remains above 73,650. Conservative traders could wait for a confirmed breakout above 74,000 before initiating new long positions. Conversely, a sustained move below support would signal deteriorating market structure and favor defensive positioning. Given the current consolidation phase and mixed momentum signals, disciplined risk management and close monitoring of volume and price action remain essential."
+    }
+  }
+}
