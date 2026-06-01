@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-06-01T16:31:40.063Z",
+  "price": {
+    "close": "0.228115",
+    "high": "0.228184",
+    "low": "0.226372",
+    "open": "0.227498",
+    "change": "0.44",
+    "datetime": "2026-06-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 34.049724,
+    "macd": -0.0019469801,
+    "macd_signal": -0.0014212518,
+    "sma20": 0.2325272
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期震荡偏空",
+      "content": "当前艾达币价格略低于20日均线0.2325，显示短期均线压制，市场处于轻微下行压力中。价格在0.226-0.228区间震荡，尚未形成明确突破信号，短期趋势倾向于震荡偏空，但整体跌幅受限。  \n\nMACD指标显示负值，虽然信号线数据缺失，但当前动能偏弱，买卖力量相对均衡，缺乏强烈上涨动力。RSI未提供数据，需关注未来超买或超卖区间形成，以辅助判断潜在反弹或回调。  \n\n支撑位初步在0.2263附近，如跌破可能进一步测试0.2240-0.2250区域；阻力位在0.2325及近期高点0.2340附近。价格若稳住支撑，可等待反弹确认，否则下行风险仍存。  \n\n交易策略上，短线可考虑低位轻仓入场，设置止损于0.2250下方，目标关注0.2320附近。中长线投资者建议耐心观望，等待MACD与RSI形成明确多头信号，再布局，以降低震荡带来的风险。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "Cardano is currently showing a mild consolidation phase around $0.2281. Price movement has been relatively narrow, oscillating between $0.2264 and $0.2282 in the past 24 hours, signaling low volatility. The trend appears slightly bearish in the short term, as the current price remains below the 20-period simple moving average at $0.2325. This indicates sellers still have slight control, though the minor 0.44% gain suggests that buying pressure is attempting to stabilize the market.\n\nFrom an indicator perspective, the MACD is negative at -0.00195, which reinforces the presence of downward momentum, though it is close to zero, implying a potential for trend reversal or flattening. The lack of a visible RSI and MACD signal line makes overbought or oversold conditions harder to confirm, but the current price hovering under the SMA20 points to caution for bullish entries. Traders might watch for a MACD crossover above zero or a strong break above the SMA20 to validate upward momentum.\n\nKey support levels are around $0.2260–$0.2264, which have held in recent sessions, providing a base for potential bounces. Resistance is encountered near the $0.2325 SMA and psychological $0.2350 zone. A break above these levels could trigger short-term bullish moves, while a decisive drop below support could see ADA testing $0.2230–$0.2240, highlighting the importance of risk management for active positions.\n\nFor trading, short-term strategies could focus on range-bound movements, buying near support with tight stops and taking profits near resistance. Longer-term positions may benefit from waiting for confirmation above SMA20 and increasing MACD momentum before committing to larger entries. Overall, cautious optimism is warranted, with emphasis on monitoring key technical triggers and managing exposure given the current low volatility environment."
+    }
+  }
+}
