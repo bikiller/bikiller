@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-02T07:11:50.526Z",
+  "price": {
+    "close": "69875.13",
+    "high": "70051.1",
+    "low": "69635",
+    "open": "70000",
+    "change": "-0.18",
+    "datetime": "2026-06-02 07:00:00"
+  },
+  "indicators": {
+    "rsi": 24.46937,
+    "macd": -675.69201,
+    "macd_signal": -610.8313,
+    "sma20": 71047.8955
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期承压整理，关键支撑待测试",
+      "content": "当前比特币价格位于69875附近，日内波动有限，显示市场短期处于承压整理状态。尽管价格接近20日均线(SMA20)71047，但尚未突破，短期上行动能不足，趋势呈现轻微下行压力。\n\nMACD指标显示-675左右，虽然信号线未提供，但负值表明空头动能占优，市场可能延续震荡偏弱格局。缺乏RSI数据限制了超买超卖判断，但结合均线与价格接近高位回调，可视为短期谨慎信号。\n\n支撑位关注69635和前低69500附近，若跌破可能引发更深调整；阻力位则在70050至71050区间，多次测试未能有效突破提示卖压明显。投资者应关注成交量变化以确认趋势延续。\n\n交易策略上，可考虑短线逢高减仓或观望，止损设置在支撑下方2-3%区间，突破阻力可择机轻仓追涨。总体而言，短期市场整理为主，操作宜谨慎，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action around $69,875 reflects a brief consolidation phase after hovering near the $70,000 psychological mark. The market shows a mild short-term bearish bias, as indicated by the 24-hour change of -0.18% and a high near $70,051 failing to sustain. Price currently trades below the 20-period simple moving average at $71,047, signaling that momentum is slightly tilted toward sellers, although the absence of a strong trend confirms market indecision at this level.\n\nThe MACD at -675.69201 suggests that downward pressure is still present, but the lack of a signal line makes it challenging to confirm a strong crossover for momentum confirmation. Traders should exercise caution until more definitive readings emerge. Without RSI data, it’s harder to judge overbought or oversold conditions, but the flattening near $69,800 indicates that buying interest may stabilize if support holds, preventing a sharper decline.\n\nKey support levels to monitor include $69,600 and $69,200, which historically have acted as short-term price floors. Resistance is concentrated at $70,050 and the SMA(20) around $71,050. A clear break above these points could invite renewed bullish interest, potentially triggering a retest of $72,000. Conversely, a breach below support levels may open the path to $68,500, where buyers may re-enter to absorb selling pressure.\n\nTrading strategies could involve range-bound tactics, buying near $69,600-69,700 with tight stops below support, or waiting for a confirmed breakout above $71,000 for a trend-following long. Short-term traders may consider scalping around minor intraday levels while keeping an eye on macro factors that influence Bitcoin volatility. Patience and disciplined risk management remain essential given the current mixed signals in momentum and trend indicators."
+    }
+  }
+}

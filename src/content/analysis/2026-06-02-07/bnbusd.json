@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-06-02T07:13:53.698Z",
+  "price": {
+    "close": "683.14",
+    "high": "683.82",
+    "low": "680.54",
+    "open": "683.31",
+    "change": "-0.02",
+    "datetime": "2026-06-02 07:00:00"
+  },
+  "indicators": {
+    "rsi": 41.67138,
+    "macd": -3.78455,
+    "macd_signal": -3.63557,
+    "sma20": 688.2365
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：震荡偏弱整理",
+      "content": "当前BNB/USD整体处于高位震荡后的回调整理阶段，价格持续运行在688均线下方，短线动能偏弱，多空博弈加剧，但尚未出现趋势性破位信号。\n\n技术指标显示价格已跌破20日均线688.24附近，短期均线压制明显；MACD柱值为负，空头动能占优；RSI缺失但从结构看仍偏中性偏弱。\n\n下方支撑关注680整数关口及近期低点，若跌破或测试675区域；上方阻力位688及690，建议区间内高抛低吸，控制杠杆短。\n\n整体来看BNB仍处于均线下方的弱势整理结构，若放量突破688可视为短线反弹信号，否则维持震荡偏空思路，等待方向确认为主。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 683.14\\n- 24h Change: -0.02%\\n- High/Low: 683.82 / 680.54\\n- RSI(14): N/A\\n- MACD: -3.78455, Signal: N/A\\n- SMA(20): 688.23650\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s price action recently reflects a market in mild consolidation after a prior uptrend. The latest price at **$683.14** hugging the session’s high/low range suggests limited directional conviction from traders. With the 20‑period simple moving average around **$688.24**, BNB sits just below this near‑term gauge, indicating slight short‑term bearish pressure. The absence of a clear RSI reading complicates momentum judgment, but price behavior around key levels underscores cautious positioning.\n\nLooking deeper into indicators, the **MACD at –3.7845** shows bearish bias on decreasing momentum, even without a provided signal line. This negative divergence often points to slowing buying strength after a rally, and traders should watch for any crossover below the MACD line as a potential acceleration of downside pressure. Convergence back toward zero would signal momentum recovery. Meanwhile, price’s oscillation around the SMA(20) highlights a tug‑of‑war between buyers defending prior gains and sellers looking for a lower base.\n\nFrom a structural standpoint, **immediate resistance lies near the $690–$700 zone**, where recent consolidation phases stalled, and where the 20‑period average resides. A clean break above **$700** with follow‑through volume could re‑energize bulls toward the **$720–$740** corridor. On the downside, **support near $670** is crucial; a breach there might invite sellers targeting **$650** and lower, as stops beneath recent swing lows get triggered. Traders should monitor these key thresholds alongside volume and momentum cues.\n\nIn terms of practical trading guidance, a neutral outlook favors range‑responsive strategies until momentum clarifies. Consider **scalped long entries near support with tight stops** under $670, while limit short setups could be placed near resistance with careful risk controls. For trend traders, waiting for a **decisive breakout above $700** or breakdown below **$670** could reduce whipsaw risk and improve entry timing."
+    }
+  }
+}
