@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-02T18:25:08.988Z",
+  "price": {
+    "close": "67309.17",
+    "high": "67539.16",
+    "low": "67288.93",
+    "open": "67356.4",
+    "change": "-0.07",
+    "datetime": "2026-06-02 18:00:00"
+  },
+  "indicators": {
+    "rsi": 17.086729,
+    "macd": -1158.32463,
+    "macd_signal": -980.31021,
+    "sma20": 69399.4545
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期承压，震荡偏弱",
+      "content": "比特币当前价格接近$67309.17，较SMA(20) $69399.45 显著偏低，显示短期均线承压明显，多头动能不足。MACD处于-1158.32的负值区间，暗示市场空头力量仍占主导，但尚未形成极端超卖，价格可能在支撑区附近维持震荡。  \n\n日内高低点分别为$67539.16与$67288.93，表明价格区间窄幅波动，短期支撑可参考$67250–$67300附近，而上方阻力集中在$67600–$69400区间，突破SMA20才可能引发反弹。缺失RSI数据使得超买/超卖判断不完全，但MACD负值可辅助空头趋势判断。  \n\n交易策略上，短线投资者应谨慎操作，可考虑在接近支撑位轻仓买入，设置严格止损以防下行突破；若价格回到SMA20附近或突破阻力位，可关注中线反弹机会。高波动环境下，避免追高，保持仓位管理。  \n\n整体来看，比特币处于承压整理阶段，市场趋势偏弱，建议以低位逢低吸纳、稳健观望为主，等待关键均线或阻力位确认突破信号后再做方向性布局。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering near $67,309, consolidating just below its 20-day simple moving average (SMA) of $69,399. This suggests short-term weakness, as the price remains under a key dynamic resistance. Recent intraday swings between $67,288 and $67,539 indicate a tight trading range, signaling market indecision. Overall, the trend appears slightly bearish in the short term, though longer-term momentum may remain intact if prices hold above psychological support levels near $66,800–$67,000.\n\nThe MACD reading at -1,158 with no confirmed signal line indicates persistent downside momentum, though the lack of a signal line prevents a clear crossover confirmation. Traders should be cautious as the momentum oscillator suggests sellers currently dominate, but oversold conditions might be approaching. The absence of RSI data limits the precision of overbought/oversold signals, leaving reliance primarily on price action and moving averages to gauge potential turning points.\n\nKey support lies at $66,800 and $66,500, where previous accumulation zones could buffer further declines. Resistance is firm at the 20-day SMA around $69,400 and a minor barrier near $68,000, which has recently capped upward attempts. Breaking above these levels could open a path toward $70,000, while failure to hold current support may prompt a retest of the $66,500–$66,300 range. Monitoring volume near these levels will be critical to validate any breakout or breakdown.\n\nFor traders, a cautious approach is advised. Short-term sellers may consider positions near the SMA with tight stop losses above $69,500. Conversely, buyers could wait for confirmation of support around $66,800 before entering, ideally with intraday signals confirming momentum reversal. Range-bound strategies may also be effective, capitalizing on swings between $67,000 and $68,000 until a decisive trend emerges. Overall, risk management and clear entry-exit rules remain essential in this delicate market phase."
+    }
+  }
+}
