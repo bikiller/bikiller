@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-02T06:03:56.013Z",
+  "price": {
+    "close": "70239.32",
+    "high": "70280",
+    "low": "70150.62",
+    "open": "70159.03",
+    "change": "0.11",
+    "datetime": "2026-06-02 06:00:00"
+  },
+  "indicators": {
+    "rsi": 28.5681,
+    "macd": -629.089767,
+    "macd_signal": -590.79791,
+    "sma20": 71185.743
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏空",
+      "content": "当前BTC/USD价格在70239.32附近盘整，日内涨幅有限，仅0.11%，显示多空力量暂时均衡。价格低于SMA(20)71185.74，短期均线呈下行压力，暗示上行动能有限，但整体仍维持在高位区间，短线可能延续震荡整理。\n\nMACD为-629.09，显示空头动能仍占优势，虽然信号线未提供，但负值幅度表明卖压明显，短期多头需谨慎入场。若价格突破均线且MACD出现正向背离，可能形成短线反弹机会，否则仍需防范回落风险。\n\n关键支撑位在70150附近，为日内低点及心理整数位，一旦跌破，可能触发进一步回调至70000整数关口。阻力位集中在70280与SMA(20)附近，突破这些阻力则有望挑战70500甚至更高。\n\n综合来看，短期操作建议以观望或区间交易为主，低位可考虑小幅接多，设好止损；高位或靠近阻力位应控制仓位，避免追涨。交易者应密切关注价格对SMA(20)的反应及MACD动能变化，捕捉潜在反转信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently holding near $70,239, showing a very modest 0.11% increase in the past 24 hours. Price action has been tight, oscillating between $70,150 and $70,280, suggesting short-term consolidation. The broader trend still leans bullish when considering longer-term patterns, but the inability to break above the 20-day SMA at $71,185 highlights persistent resistance overhead. Momentum appears muted, indicating traders may be waiting for a decisive move before committing to large positions.  \n\nThe MACD reading at -629 with the signal line unavailable points to a prevailing short-term bearish momentum, although the slight upward drift in price suggests this is weakening. The absence of an RSI makes it harder to gauge overbought or oversold conditions, but the narrow daily range implies equilibrium between buyers and sellers. Investors should watch for either a MACD crossover or a strong SMA breach to confirm a trend continuation or reversal.  \n\nImmediate support lies around $70,000, a psychological level reinforced by recent intraday lows. A drop below this could expose a secondary support near $69,500. Resistance is clearly defined by the 20-day SMA at $71,185, followed by $72,000 if bullish momentum accelerates. Traders should monitor volume patterns closely; a breakout above $71,185 on higher volume would signal potential upward continuation, while a failure to breach may lead to a pullback.  \n\nFor trading strategy, cautious participants could consider small long positions near support with tight stop-losses around $69,900, aiming for the SMA as the first target. Aggressive traders might wait for a confirmed breakout above $71,185 before scaling in, reducing the risk of getting trapped in sideways price action. Overall, BTC/USD is in a delicate balance, and technical signals suggest waiting for confirmation before large directional bets."
+    }
+  }
+}
