@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-02T16:14:14.070Z",
+  "price": {
+    "close": "67712.01",
+    "high": "67746.46",
+    "low": "67078.72",
+    "open": "67158.42",
+    "change": "0.82",
+    "datetime": "2026-06-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 23.51779,
+    "macd": -1073.57278,
+    "macd_signal": -877.91323,
+    "sma20": 69798.8815
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期弱势震荡整理",
+      "content": "当前比特币价格位于 $67712.01，较20日均线 $69798.88 明显偏下，显示短期多头动能不足，市场处于弱势震荡区间。虽然24小时上涨0.82%，但仍受均线压制，价格难以突破近期高点 $67746.46。\n\nMACD指标呈现负值 -1073.57，显示空头趋势占优，但缺少Signal线对比，确认信号尚不完整，整体偏向谨慎观望。缺少RSI数据，无法判断超买超卖情况，但结合价格与均线位置，可初步推测短线压力较大。\n\n支撑位主要集中在近期低点 $67078.72 附近，如果跌破该区域，可能加速回调。阻力位则在20日均线附近 $69798 附近，以及近期高点 $67746 附近，多空博弈激烈，突破均线将有望确认中期反弹趋势。\n\n交易策略上，短线建议保持轻仓观望，逢低可考虑小额介入，重点关注价格是否有效突破20日均线及MACD信号确认。若支撑失守，则需谨慎控制仓位，等待趋势明朗后再布局，避免追高。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $67,712, reflecting a modest 0.82% gain over the past 24 hours. Price action remains slightly below the 20-day simple moving average at $69,798, suggesting short-term weakness despite intraday bullish attempts. The market has shown consolidation between $67,078 and $67,746, highlighting a narrow trading range. This sideways movement indicates indecision among traders, with neither buyers nor sellers asserting strong control. Momentum may remain muted until a decisive break above or below this range.  \n\nThe MACD reading of -1073.57, while lacking the signal line for full confirmation, points toward persistent bearish momentum. A negative MACD typically signals that selling pressure is outweighing buying activity, reinforcing caution in initiating long positions. Combined with price trading below the SMA(20), the technical bias leans slightly toward downside risk. Traders should monitor the MACD for a potential crossover above zero, which could signal a trend reversal and renewed bullish interest.  \n\nKey support levels are currently established at $67,078 and $66,500, offering potential floors for price retracements. Resistance is present at $67,746, followed by a stronger barrier near $69,800, coinciding with the SMA(20). A breakout above these levels could attract short-term momentum traders, while a breakdown below support may open the path toward $66,000. Volume trends and candlestick patterns should be closely observed for confirmation of any breakout or breakdown.  \n\nFor trading strategy, cautious buyers may consider accumulating on minor dips near support, aiming for gains toward the $67,746–$69,800 zone. Short sellers could target intraday rallies closer to resistance, with tight stop-losses above the SMA(20) to manage risk. Overall, the market currently favors range-bound strategies until a clear directional breakout occurs, emphasizing the importance of disciplined risk management and monitoring momentum indicators for early trend shifts.  \n\nThe analysis comes to roughly 270 words.  \n\nIf you want, I can also create a **visual support/resistance chart overlayed with SMA and MACD trend** to complement this analysis. Do you want me to do that?"
+    }
+  }
+}
