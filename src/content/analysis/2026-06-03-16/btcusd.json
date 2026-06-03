@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-03T16:30:12.641Z",
+  "price": {
+    "close": "65497.25",
+    "high": "66266.16",
+    "low": "65440",
+    "open": "65970.62",
+    "change": "-0.72",
+    "datetime": "2026-06-03 16:00:00"
+  },
+  "indicators": {
+    "rsi": 29.6407,
+    "macd": -600.67796,
+    "macd_signal": -636.7341,
+    "sma20": 66705.6745
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "目前比特币价格位于65497.25美元，较昨日略有下跌，显示短期卖压存在，但整体趋势尚未形成明确的单边走势。20日均线在66705美元之上，价格仍低于均线，暗示市场仍偏向空头压力。\n\nMACD指标显示负值-600.68，未提供信号线参考，但数值偏低说明空方动能仍存在，短期反弹动力有限。结合价格接近低点65440美元，可关注能否守住此支撑，否则可能出现进一步下行。\n\n阻力位方面，近期高点66266美元构成明显压力，突破该价位或带来反弹确认。支撑位则在65440美元附近，如果价格持续下探且MACD维持低位，则短期卖盘可能增强，需谨慎控制仓位。\n\n交易上建议，短线投资者可在支撑位附近关注低吸机会，同时严格设置止损。若价格回升突破20日均线并伴随动能增强，可考虑适度跟进多单，保持仓位轻量化，避免在震荡区间盲目追涨杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a subtle bearish tilt after trading near $65,500, slightly below its 20-period simple moving average at $66,705. The price recently touched a high of $66,266 but failed to maintain momentum, suggesting that sellers are testing resistance levels. While the short-term trend shows minor weakness, the market remains in a broader uptrend since major support around $64,000 has historically held during pullbacks, providing a safety buffer for cautious buyers.\n\nThe negative MACD reading around -600 indicates that downward momentum is present, even though the signal line isn’t available for full confirmation. Without the RSI to gauge overbought or oversold conditions, traders should rely on price action and SMA crossovers. A close below $65,000 could accelerate bearish pressure toward the next support near $64,000, while a reclaim of the SMA-20 zone could allow for renewed bullish attempts toward the recent high.\n\nSupport and resistance are key for intraday strategies. Immediate support sits around $65,400–$65,500, with stronger backing near $64,000. Resistance ranges from $66,200 to $66,700, representing the upper SMA and prior high levels. Price behavior around these zones will be critical: a rejection at resistance may signal short-term selling, while a breakout above could attract momentum-driven buyers targeting $67,000–$67,500.\n\nFor traders, a cautious approach is advised. Short-term sellers may consider entering on failed retests near resistance with tight stop-losses, while conservative buyers might wait for a confirmed rebound off the $64,000–$65,000 support area. Volatility is moderate, so scalping around support/resistance levels or employing risk-managed swing positions aligns well with current conditions, balancing potential upside against downside risk."
+    }
+  }
+}
