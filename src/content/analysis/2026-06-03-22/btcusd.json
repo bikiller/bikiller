@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-03T22:26:33.689Z",
+  "price": {
+    "close": "65132.57",
+    "high": "65749.93",
+    "low": "64896",
+    "open": "65672.75",
+    "change": "-0.82",
+    "datetime": "2026-06-03 22:00:00"
+  },
+  "indicators": {
+    "rsi": 33.2556,
+    "macd": -699.73165,
+    "macd_signal": -657.4572,
+    "sma20": 66337.372
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期承压震荡整理",
+      "content": "当前比特币价格在 $65132.57$ 附近震荡，较日内高点 $65749.93$ 下跌约 $0.82\\%$，显示短期多头力量有所减弱。价格低于 $20$ 日简单移动平均线 $SMA(20) = 66337.37$，表明近期趋势偏弱，市场存在一定回调压力。  \n\nMACD 指标为 $-699.73$，且低于零轴，暗示空头动能仍占主导，短期内反弹可能受阻。由于 RSI 数据缺失，无法准确判断超买超卖状态，但结合价格与均线关系，整体偏向震荡下行，需警惕回撤风险。  \n\n支撑位方面，可关注 $64896$ 日内低点以及 $64500$ 附近心理关口，若跌破可能进一步测试 $64000$。阻力位主要集中在 $65750$ 以及 $SMA(20)$ 附近，突破则有望吸引短线买盘，但需确认成交量配合。  \n\n交易策略上，建议短线交易者保持谨慎，逢高可考虑部分减仓或观望，低位可布局小额多单以控制风险。中长期投资者应关注关键支撑确认后的反弹信号，结合仓位管理逐步介入，避免追高操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing subtle signs of consolidation around $65,132, slightly below its 20-period SMA at $66,337. The market has faced mild downward pressure in the past 24 hours, with a low of $64,896 and a high of $65,749. While the absence of RSI and MACD signal data limits momentum analysis, the negative MACD value suggests that short-term bearish sentiment is prevailing, indicating a potential pullback if support levels fail to hold.\n\nKey support appears near $64,800, which has historically acted as a floor in recent trading sessions. On the upside, immediate resistance aligns with the 20-SMA at $66,337 and further near $66,750, coinciding with the recent intraday high. Price oscillation between these zones indicates a range-bound structure, signaling that aggressive long positions might face risk without confirmation of a breakout.\n\nFrom a technical perspective, traders should monitor MACD crossovers for momentum shifts. A bullish reversal may emerge if the MACD approaches zero with increasing volume. Conversely, continuation of the current negative MACD trend could see BTC retesting lower support levels. Price action near the SMA will be critical; rejection could reinforce a short-term downtrend, while a decisive break above may reignite bullish momentum.\n\nTrading strategies should remain cautious in this environment. Short-term traders could consider range-trading between $64,800 and $66,350, using tight stops to manage risk. Longer-term investors may wait for a clear breakout above $66,750 or a retest of stronger support around $64,000 before adding exposure. Overall, the market exhibits cautious sentiment, and careful attention to price reaction at the SMA and support zones is recommended for tactical entries."
+    }
+  }
+}
