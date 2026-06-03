@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-03T23:14:56.837Z",
+  "price": {
+    "close": "64534",
+    "high": "64885.99",
+    "low": "64306.58",
+    "open": "64813",
+    "change": "-0.43",
+    "datetime": "2026-06-03 23:00:00"
+  },
+  "indicators": {
+    "rsi": 29.44218,
+    "macd": -767.12064,
+    "macd_signal": -683.47881,
+    "sma20": 66264.7975
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "比特币当前价格64534美元，短期走势呈现震荡偏弱特征。价格位于20日简单移动均线SMA(20)下方，显示多头动力不足，市场仍存在一定抛压。从日内高低点64885.99/64306.58来看，价格短期承压区接近64880美元，支撑初步落在64300美元附近。  \n\nMACD指标显示为-767.12，且信号线未完全形成，暗示空头趋势尚未完全被消化，价格可能延续小幅下行整理。若MACD逐步靠近零轴并形成金叉，则可能出现反弹机会。目前缺乏RSI数据，但结合价格与均线关系，可视作短期超买压力有限。  \n\n支撑位方面，关键短期支撑在64300美元，若跌破则下行空间可能延伸至64000美元附近；阻力位初步在64880美元，突破后才可能触及65200美元。价格区间仍以震荡为主，建议关注关键支撑与阻力的反复测试。  \n\n交易策略上，短线交易者可采取高抛低吸策略，控制仓位避免追涨杀跌；中长线投资者建议等待价格站稳SMA(20)以上，并伴随MACD金叉确认后再考虑加仓。风险管理方面，设置止损在支撑下方300-500美元区间，可有效控制波动带来的潜在损失。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing signs of consolidation after testing the upper $64k range. The latest price of $64,534 sits below the 20-period SMA of $66,264, indicating that the short-term momentum is slightly bearish. The daily high of $64,885.99 and low of $64,306.58 suggest a narrow trading range, which could signal indecision among market participants. Overall, the trend appears to be in a minor pullback within a broader uptrend, as the price remains above key psychological support near $64,000.\n\nFrom an indicator standpoint, the MACD reading of -767.12 indicates that bearish momentum is currently prevailing, even though the signal line is unavailable for confirmation. The lack of an RSI value limits overbought or oversold assessment, but the negative MACD coupled with the price trading below the SMA points to cautious positioning. Traders should note that the downward momentum is mild, and the market may be seeking a catalyst to resume upward movement or continue sideways consolidation.\n\nSupport levels are observed around $64,000 and $63,500, which could act as buffers in case of further downside. On the upside, resistance is likely near $65,000 and $66,200, corresponding with the recent high and the 20-period SMA. Breaching these levels with strong volume would be required to confirm a bullish continuation. Short-term traders should be attentive to price action near these zones, as they could define potential reversal or breakout points.\n\nFor trading considerations, a cautious approach is advisable. Buyers may consider entering near $64,000 with tight stops below $63,500, targeting a move toward $65,000 if bullish momentum returns. Conversely, sellers could look for short-term opportunities if the price fails to reclaim the SMA, with targets near $64,000. Overall, risk management is crucial, given the narrow range and prevailing mild bearish signals, suggesting limited but actionable opportunities for both directions."
+    }
+  }
+}
