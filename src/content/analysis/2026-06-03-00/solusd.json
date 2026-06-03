@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-06-03T00:18:16.172Z",
+  "price": {
+    "close": "74.67",
+    "high": "74.77",
+    "low": "73.91",
+    "open": "74.13",
+    "change": "0.74",
+    "datetime": "2026-06-03 00:00:00"
+  },
+  "indicators": {
+    "rsi": 31.63817,
+    "macd": -1.54388,
+    "macd_signal": -1.29508,
+    "sma20": 77.229
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 74.67\\n- 24小时变化: 0.74%\\n- 高点/低点: 74.77 / 73.91\\n- RSI(14): N/A\\n- MACD: -1.54388, Signal: N/A\\n- SMA(20): 77.229\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：窄幅整理偏弱趋势\n\n目前SOL价格在$74.67附近震荡，短期价格低于20周期简单移动平均线SMA(20) $77.23，表明短线多头动力不足，价格结构偏向整理偏弱。日内微涨0.74%但高低点波动有限，显示买卖双方处于博弈状态，未出现明显突破。\n\n指标解读上看，现有MACD值为-1.54388且位于零轴下方，暗示空头动能略占优势；RSI未提供但结合价格与均线关系预期处于低位区域，上行动能受阻。目前趋势不明朗但偏弱震荡格局明显，因此需关注动能指标回升以确认多头重启。\n\n从支撑与阻力角度，短线支撑可关注临近的心理价位附近$70-$73区域，该区域若守住可短暂止跌；阻力位看向SMA(20) $77及上方$80左右，突破这些水平有望形成反弹。更远阻力位在前更重要水平（如$90以上）方可能带来趋势反转信号。\n\n交易建议上，若价格跌破$70支撑，趋势可能继续下探，应保持谨慎并考虑短线空头节奏；若价格重新站上$77并稳固，可考虑小仓位做多，并设置严格止损。对波段交易者而言，等待明确突破信号再配置仓位更为稳妥。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "SOL/USD is trading at 74.67, remaining below its 20-period simple moving average of 77.23, which indicates that the broader short-term trend remains bearish despite the modest 0.74% daily gain. Price action has stabilized near the session high of 74.77 after finding support around 73.91, suggesting that selling pressure may be easing. However, the inability to reclaim the SMA(20) keeps momentum tilted slightly in favor of sellers until a stronger breakout develops.\n\nThe moving average structure continues to signal weakness, as the market is trading approximately 3.3% below the SMA(20). Meanwhile, the MACD reading of -1.54388 reflects negative momentum and confirms that bearish forces remain present beneath the surface. Although the absence of a signal line limits deeper MACD analysis, the negative value alone suggests that upward moves may face resistance unless buying volume strengthens and momentum indicators begin to improve.\n\nFrom a technical perspective, immediate support is located near 73.90, the recent intraday low. A break below this level could expose the market to additional downside toward the 72.50–73.00 region. On the upside, initial resistance appears near 74.80, followed by the more significant barrier around the SMA(20) at 77.23. A sustained move above this moving average would improve sentiment and could trigger a broader recovery phase.\n\nTraders may consider maintaining a cautious stance while the price remains below the 20-period average. Short-term bullish opportunities could emerge on a confirmed breakout above 74.80, particularly if accompanied by increasing volume. More conservative participants may prefer waiting for a decisive close above 77.23 before adopting a stronger bullish outlook. Conversely, failure to hold the 73.90 support zone would increase the probability of renewed selling pressure and favor defensive risk management."
+    }
+  }
+}
