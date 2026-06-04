@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-04T17:34:45.286Z",
+  "price": {
+    "close": "63021.69",
+    "high": "63636.3",
+    "low": "63008.6",
+    "open": "63471.57",
+    "change": "-0.71",
+    "datetime": "2026-06-04 17:00:00"
+  },
+  "indicators": {
+    "rsi": 39.53734,
+    "macd": -623.61211,
+    "macd_signal": -754.32639,
+    "sma20": 63547.183
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期回调趋势明显，整体震荡偏多",
+      "content": "目前比特币价格报 $63,021.69，较前日下跌 0.71%，日内高低波动区间在 $63,008.6 至 $63,636.3。短期均线 SMA(20) 位于 $63,547.18，上方形成一定阻力，而下方 $63,000 附近可能成为关键支撑，整体呈现轻微回调整理态势。\n\nMACD 指标显示当前快线低于零轴，数值 -623.61，暗示短期空头压力仍在，但信号线未提供明确指引，表明市场缺乏强势趋势确认。价格受阻 SMA(20) 后若持续下探，可关注支撑位是否有效支撑。\n\n短期交易策略上，建议谨慎跟进，非必要避免追高。可考虑在支撑位附近低吸，或在阻力附近分批减仓，控制仓位并设置止损，防止回调扩大。若价格突破 SMA(20) 并稳定在高位，可重新评估多头介入机会。\n\n综合来看，比特币短期走势偏弱震荡，但长期仍维持上行结构。投资者需关注关键支撑与阻力区域，以及 MACD 后续变化，结合资金管理和风险控制进行稳健操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has recently shown a slight retracement after hovering near $63,636, indicating a short-term consolidation. The current price of $63,021 positions it just below the 20-period simple moving average at $63,547, suggesting minor bearish pressure. Although the price dipped, the overall structure remains within an upward bias as higher lows continue to form. Traders should watch for either a bounce above the SMA for continuation or a drop below the recent low to signal deeper correction.  \n\nThe MACD reading at -623.61, despite the absence of the signal line, reflects lingering bearish momentum. The negative value indicates that downward pressure could dominate in the near term, although a crossover or narrowing of the histogram could shift sentiment. The lack of RSI data limits overbought or oversold insights, but price action near support zones will provide clearer signals. Monitoring MACD convergence will be critical for confirming trend reversals or momentum exhaustion.  \n\nImmediate support is visible near $63,000, reinforced by the intraday low of $63,008.6, offering a potential entry for buyers seeking a conservative risk point. Resistance is defined around $63,636, marking the recent swing high. A decisive break above this level could pave the way for retesting $64,000, while a failure to hold support might expose $62,500 as the next key level. These zones create defined risk/reward ratios for both short-term scalpers and swing traders.  \n\nFor trading strategy, cautious long positions could be considered near support with tight stops, anticipating a bounce toward the SMA and overhead resistance. Conversely, aggressive traders may watch for a break below $63,000 to initiate short trades, targeting $62,500. Overall, the market currently favors a wait-and-watch approach, focusing on confirmation from price action and MACD behavior before committing to larger positions, balancing the thin line between short-term retracement and the prevailing bullish trend."
+    }
+  }
+}
