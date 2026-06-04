@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-04T23:49:24.433Z",
+  "price": {
+    "close": "63643.99",
+    "high": "63778.02",
+    "low": "63298.87",
+    "open": "63657.99",
+    "change": "-0.03",
+    "datetime": "2026-06-04 23:00:00"
+  },
+  "indicators": {
+    "rsi": 45.87518,
+    "macd": -389.85008,
+    "macd_signal": -527.85257,
+    "sma20": 63555.194
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理，短期承压]",
+      "content": "当前比特币价格为63643.99美元，24小时内微幅下跌0.03%。高点和低点分别为63778.02和63298.87，显示出市场在此区间内震荡整理。短期内，BTC/USD面临一定的阻力，未能突破63780美元的心理关口，显示出多头动能不足。\n\n技术指标方面，虽然RSI(14)数据缺失，但MACD指标显示出-389.85008的值，表明当前市场情绪偏向于空头，买方力量较弱。SMA(20)为63555.194，价格略高于该均线，可能意味着短期内有反弹的机会，但整体趋势依然偏弱。\n\n支撑位方面，63298.87美元是重要的支撑区间，若跌破则可能加大下行风险。相对的，63780美元则是关键的阻力位，突破后可能引发进一步上涨。投资者需密切关注这些关键价位的变动，以制定相应的策略。\n\n建议短期内保持谨慎，考虑在支撑位附近寻找买入机会，若价格突破阻力位可适当加仓。同时，设置止损以控制风险，确保在波动较大的市场中保护资本。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin against the US Dollar stands at $63,643.99, showing a slight decline of 0.03% over the past 24 hours. The price has oscillated between a high of $63,778.02 and a low of $63,298.87, indicating a relatively tight trading range. This stability suggests a consolidation phase, with market participants assessing the next significant move. Given the current price action, traders should closely monitor for potential breakouts above $63,800 or breakdowns below $63,300, which could set the tone for the next trend.\n\nIn terms of technical indicators, the absence of a current RSI value makes it challenging to gauge overbought or oversold conditions. However, the MACD reading of -389.85 indicates bearish momentum, suggesting that selling pressure may be dominating the market. A crossover of the MACD line with the signal line could provide insight into potential reversals or continuation patterns. As for the 20-period Simple Moving Average (SMA) at $63,555.19, it offers a dynamic support level that traders may use to assess short-term trends.\n\nSupport is observed at the recent low of $63,298.87, which is critical for maintaining bullish sentiment. If this level holds, it could attract buyers looking for value. Conversely, resistance is present near the recent high of $63,778.02. A breakout above this level could signal renewed bullish interest, potentially leading to a retest of the $64,000 threshold. Traders should watch these levels closely to make informed decisions.\n\nFor trading suggestions, a cautious approach is advisable given the current market conditions. A buy position could be considered if Bitcoin breaks above $63,800 with strong volume, confirming bullish momentum. Alternatively, a sell position may be warranted if the price closes below $63,300, indicating a possible bearish reversal. Incorporating stop-loss orders around these critical levels can help manage risk effectively in this volatile environment."
+    }
+  }
+}

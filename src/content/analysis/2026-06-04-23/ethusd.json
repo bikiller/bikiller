@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-04T23:50:05.517Z",
+  "price": {
+    "close": "1769",
+    "high": "1777.99",
+    "low": "1760.53",
+    "open": "1770.53",
+    "change": "-0.09",
+    "datetime": "2026-06-04 23:00:00"
+  },
+  "indicators": {
+    "rsi": 43.036417,
+    "macd": -13.73824,
+    "macd_signal": -17.11168,
+    "sma20": 1774.398
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：[震荡整理阶段]",
+      "content": "当前以太坊/美元(ETH/USD)的价格为1769，24小时变化仅为-0.09%，表明市场情绪偏向平稳。最近的高点1777.99和低点1760.53显示出价格在一个相对狭窄的区间内波动，暗示短期内可能处于震荡整理阶段。\n\n从技术指标来看，MACD显示为负值(-13.73824)，这暗示着短期内卖压可能存在。然而，由于RSI数据缺失，无法准确判断超买或超卖的状态。20日简单移动平均线(SMA)在1774.398，目前价格略低于该水平，可能进一步作为阻力位。\n\n在支撑位方面，1760.53附近形成了较强的支撑，而1777.99则是关键阻力位。如果价格能够突破1777.99，可能会重新恢复上涨趋势。反之，若跌破1760.53，则可能会引发更大的下行压力。\n\n建议投资者在此阶段保持观望，等待价格突破关键支撑或阻力位后再做出决策。在市场波动较小的情况下，避免盲目追入，以降低风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "The current price of Ethereum (ETH) against the US Dollar (USD) stands at 1769, reflecting a slight decrease of 0.09% over the last 24 hours. The price has oscillated between a high of 1777.99 and a low of 1760.53, indicating relatively tight trading ranges. This consolidation suggests that the market is currently indecisive, with potential for breakout movements in either direction. Traders should monitor these levels closely, as a decisive breakout above 1780 could signal renewed bullish momentum, while a drop below 1760 would indicate bearish sentiment.\n\nIn terms of technical indicators, the lack of an available RSI(14) hinders a detailed momentum analysis; however, the MACD at -13.73824 indicates a bearish momentum phase. A negative MACD reading suggests that selling pressure is currently dominating the market. Traders should consider this alongside the SMA(20), which is positioned at 1774.398. The price trading below the SMA also aligns with the bearish outlook, reinforcing the idea that the path of least resistance remains downward unless a significant rally occurs.\n\nSupport and resistance levels are critical in determining potential price movements. Immediate support is found at 1760, which, if breached, could lead to further declines towards 1740. Conversely, resistance is evident at the psychological level of 1780, which traders should watch for potential selling pressure. A breakout above this level could provide a buying opportunity, as it may attract buyers looking to capitalize on upward momentum. \n\nIn light of the current market conditions, a cautious trading strategy is advisable. Day traders might consider short positions near resistance levels around 1775-1780 with stop-loss orders just above this range. Conversely, long positions may be warranted if the price firmly breaks above 1780, targeting initial resistance at 1800. Monitoring volume alongside price action will be crucial for validating these potential trades."
+    }
+  }
+}
