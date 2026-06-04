@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-04T16:30:47.566Z",
+  "price": {
+    "close": "63636.73",
+    "high": "63848.37",
+    "low": "63544.93",
+    "open": "63813.58",
+    "change": "-0.28",
+    "datetime": "2026-06-04 16:00:00"
+  },
+  "indicators": {
+    "rsi": 43.75431,
+    "macd": -605.34916,
+    "macd_signal": -784.36977,
+    "sma20": 63689.079
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱",
+      "content": "当前比特币价格位于$63636.73，日内微幅下跌0.28%，显示市场多空力量接近平衡，但短线承压明显。日内高低点分别为$63848.37和$63544.93，整体呈现横盘整理格局，短期趋势偏弱。价格略低于20日均线$63689.08，意味着多头略显疲软，需警惕回调风险。  \n\nMACD指标显示当前值为-605.35，仍处于负值区间，暗示下行动能占优，但信号线数据缺失，需结合价格行为确认趋势延续性。虽然RSI暂不可用，但结合价格与均线位置，短期空头压力存在，市场可能在$63500附近寻求支撑。阻力位则在$63850附近，如突破需观察成交量配合。  \n\n支撑与阻力布局显示，下方$63544为近期低点支撑，若跌破可能触发进一步回调至$63300区域。上方阻力位在$63850至$63900区间，若放量突破，可视为短期反弹信号。交易者需关注成交量与均线交叉情况，以判断潜在趋势转折点。  \n\n综合来看，短线策略上宜以逢低布局为主，控制仓位，止损设置在$63500下方；反弹确认突破$63850可尝试轻仓追多。保持灵活操作，避免追高或情绪化交易，同时关注市场消息面及比特币相关链上数据变化，提升交易决策的准确性。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 63,636.73, slightly below its 20-period simple moving average at 63,689.08, indicating a mildly bearish short-term bias. The narrow trading range between 63,544.93 and 63,848.37 over the last 24 hours reflects consolidation rather than aggressive directional movement. With price hovering close to the moving average, the market appears to be searching for momentum, and traders should monitor whether BTC can reclaim and hold above the SMA to signal renewed strength.\n\nMomentum indicators present a cautious outlook. The MACD reading of -605.35 remains in negative territory, suggesting bearish momentum continues to influence price action. However, the absence of a signal line and RSI reading limits confirmation of trend strength. Even so, a deeply negative MACD often indicates that buyers have not yet regained full control. Unless momentum improves, upside advances may face resistance from sellers looking to capitalize on short-term rebounds.\n\nKey technical levels are becoming increasingly important. Immediate support is located near the recent low of 63,545, with a deeper support zone around 63,000 if selling pressure intensifies. On the upside, resistance emerges near 63,850, followed by the psychologically significant 64,000 level. A decisive break above resistance could encourage a move toward higher short-term targets, while a failure to hold support may trigger additional downside volatility.\n\nFrom a trading perspective, patience is warranted while the market remains range-bound. Conservative traders may wait for a confirmed breakout above 63,850–64,000 before considering bullish positions. Conversely, a breakdown below 63,545 could favor short-term bearish strategies targeting lower support areas. Risk management remains essential, with stop-loss placement around key technical levels helping to protect against sudden cryptocurrency market swings."
+    }
+  }
+}
