@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-04T08:16:50.950Z",
+  "price": {
+    "close": "63284",
+    "high": "63833.24",
+    "low": "63258.47",
+    "open": "63531.01",
+    "change": "-0.39",
+    "datetime": "2026-06-04 08:00:00"
+  },
+  "indicators": {
+    "rsi": 35.53186,
+    "macd": -932.77335,
+    "macd_signal": -942.5777,
+    "sma20": 64692.214
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：弱势震荡偏空整理",
+      "content": "当前BTC/USD价格运行在63284附近，日内小幅下跌，整体呈现弱势震荡格局，价格持续承压于均线下方，短期趋势偏空。运行延续\n\nMACD指标为-932.77显示动能持续走弱，空头动能占优。价格明显低于SMA20均线64692，说明中期趋势仍偏弱。延续中\n\n支撑位63250附近，若跌破可能下探63000心理关口；上方阻力63800及64692，反弹需放量确认。\n\n操作建议以反弹做空或高位减仓为主，若站稳64692上方则短线转为观望，控制风险严格止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin remains under short-term bearish pressure, with the latest price at 63,284 trading below the 20-period simple moving average of 64,692. This positioning suggests that sellers currently maintain control of market momentum. The narrow trading range between 63,258 and 63,833 during the recent session reflects consolidation near local lows, indicating a lack of strong buying conviction. Unless price can reclaim the SMA(20), the broader near-term trend is likely to remain tilted to the downside.\n\nMomentum indicators reinforce this cautious outlook. The MACD reading of -932.77 is deeply negative, signaling persistent bearish momentum and confirming that downward pressure remains dominant. While the RSI value is unavailable, the negative MACD suggests that any recovery attempts could face resistance from sellers. Traders should monitor whether MACD begins to flatten or move toward a bullish crossover, as that would provide an early indication that downside momentum is weakening.\n\nFrom a price structure perspective, immediate support is located near 63,250, corresponding closely to the session low. A decisive break below this level could expose additional downside toward the psychological 63,000 area, followed by 62,500. On the upside, initial resistance appears near 63,850, with stronger resistance around 64,700, where the SMA(20) currently sits. A sustained move above that moving average would improve sentiment and potentially open the path toward higher resistance zones near 65,500.\n\nFor trading purposes, conservative participants may prefer to wait for confirmation before establishing new positions. Bullish traders could look for a breakout above 64,700 accompanied by improving momentum signals, while bearish traders may favor rallies into resistance as potential selling opportunities. Given the current trend and indicator configuration, risk management remains essential, with disciplined stop-loss placement and position sizing helping to navigate continued market volatility."
+    }
+  }
+}
