@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-04T22:49:55.479Z",
+  "price": {
+    "close": "1764.15",
+    "high": "1769.95",
+    "low": "1756",
+    "open": "1762.53",
+    "change": "0.09",
+    "datetime": "2026-06-04 22:00:00"
+  },
+  "indicators": {
+    "rsi": 41.044589,
+    "macd": -14.925,
+    "macd_signal": -18.056832,
+    "sma20": 1776.146
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡整理偏弱",
+      "content": "目前以太坊价格在1764.15美元附近徘徊，较日内高点1769.95和低点1756波动幅度有限，显示市场短线多空力量相对均衡。价格低于20日均线1776.15，表明短期仍处于弱势整理阶段，缺乏明显上行动力。\n\nMACD处于-14.925，且信号线未明确，显示下行动能占优，但强势空头尚未完全形成。缺少RSI数据限制了超买超卖判断，但结合均线和价格区间来看，多头在此位置受到抑制，价格可能在支撑附近震荡。\n\n关键支撑位关注1750-1756区域，如跌破将加速下探至1725附近；阻力位在1775-1780附近，多头需突破此区间确认反弹延续。短线操作建议谨慎，以区间交易为主，避开追涨杀跌。\n\n交易策略上，可在接近支撑位置尝试小额低风险做多，止损设在1748以下；若价格突破阻力并伴随成交量放大，可考虑顺势加仓做多。整体建议保持观望，等待明确趋势信号出现，再进行方向性布局。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently trading at $1764.15, showing minimal net movement over the past 24 hours. The price has remained in a tight $1756–$1769.95 range, suggesting consolidation after the recent rally. Short-term momentum appears muted as the 20-period simple moving average (SMA20) sits slightly above the current price at $1776.15, implying mild resistance. Overall, the market is in a neutral to slightly bearish phase, with neither strong buying nor selling pressure dominating.\n\nFrom a technical indicator standpoint, the MACD is at -14.925, signaling lingering bearish momentum. The absence of an RSI reading limits insight into overbought or oversold conditions, but the negative MACD indicates that recent downward pressure may persist unless countered by a bullish reversal. Traders should be cautious of sudden spikes or dips, as the consolidation zone suggests low volatility but potential for a breakout once key levels are tested.\n\nKey support lies near $1755, representing the lower end of the recent trading range, while immediate resistance is at the SMA20 around $1776 and further near $1780–$1785 if bullish momentum returns. A sustained move above these resistance levels could reignite buying interest, whereas a break below support may accelerate short-term downside. Monitoring volume in tandem with price action will be crucial for confirming the strength of any breakout or breakdown.\n\nFor trading strategies, short-term traders may consider range-bound tactics, buying near support and taking profits near resistance, with tight stop-losses to manage risk. Momentum traders should wait for a confirmed breakout above $1776 with increased volume to enter long positions, or below $1755 for shorts. Overall, ETH/USD appears poised for cautious trading, with an emphasis on monitoring key technical thresholds to guide entry and exit decisions."
+    }
+  }
+}
