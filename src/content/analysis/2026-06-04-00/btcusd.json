@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-04T00:18:44.121Z",
+  "price": {
+    "close": "64124",
+    "high": "64338.28",
+    "low": "64015.47",
+    "open": "64036.42",
+    "change": "0.13",
+    "datetime": "2026-06-04 00:00:00"
+  },
+  "indicators": {
+    "rsi": 27.986,
+    "macd": -866.86731,
+    "macd_signal": -727.59765,
+    "sma20": 66127.7485
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整、潜在回调风险",
+      "content": "当前比特币价格维持在64124美元附近，短期波动幅度有限，日内高低点为64338.28与64015.47，显示价格在短期均线附近震荡。20日简单移动平均线(SMA20)位于66127.75上方，价格偏离均线显示一定回调压力，但未出现明显趋势逆转信号。  \n\nMACD指标处于负值区间（-866.87），暗示市场多头动能有限，趋势偏向弱势整理。RSI数据缺失，但结合价格与均线位置，市场可能处于超买区域的回落预警阶段。当前走势偏中性，短线上涨动力不足，投资者需注意趋势确认。  \n\n支撑位在64000附近，若跌破可能引发进一步回调至63750美元区域。阻力位在64350及64500附近，若价格突破则短期多头可能重新活跃。成交量需关注，如量能不足，突破可信度有限。  \n\n交易建议方面，短线投资者可考虑在支撑位附近逢低布局，设置止损于63900美元以下；激进交易者可等待价格突破64350上方确认后再行介入。中长线持有者应保持观望，等待明确趋势信号，以防短期震荡带来的回撤风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $64,124, slightly below its 20-day simple moving average of $66,127, signaling mild short-term weakness. The price has consolidated between $64,015 support and $64,338 resistance over the past 24 hours, suggesting indecision in the market. The lack of strong momentum and minimal 24-hour price change of 0.13% indicates a pause after recent bullish attempts, highlighting a cautious environment for traders.\n\nThe MACD shows a negative reading of -866.87, implying that bearish momentum still has a presence despite the sideways movement. Without a MACD signal line available, the trend cannot be fully confirmed, but the negative divergence relative to price indicates potential underlying weakness. Traders should watch for a MACD crossover toward the upside as a potential bullish trigger or continued negative divergence for further downside risk.\n\nKey support lies around $64,000, where buyers may step in if prices test this area. Resistance remains near $64,350, and a decisive break above $65,000 would reinforce a bullish continuation. Price oscillation within this range suggests short-term trading strategies, such as range-bound buying near support and cautious profit-taking near resistance, may be effective until a clearer trend emerges.\n\nGiven the current setup, traders should remain cautious and avoid aggressive long positions until bullish confirmation occurs. A pullback toward $64,000 could offer lower-risk entries, while a break below this level may target the next support around $63,500. Monitoring volume alongside these technical levels will be crucial to assess the strength of any breakout or breakdown, ensuring disciplined risk management in a relatively neutral market."
+    }
+  }
+}
