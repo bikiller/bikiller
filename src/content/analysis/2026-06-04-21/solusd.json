@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-06-04T21:31:51.581Z",
+  "price": {
+    "close": "68.25",
+    "high": "68.98",
+    "low": "68.16",
+    "open": "68.73",
+    "change": "-0.71",
+    "datetime": "2026-06-04 21:00:00"
+  },
+  "indicators": {
+    "rsi": 36.11922,
+    "macd": -0.94574591,
+    "macd_signal": -1.044926,
+    "sma20": 69.482
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 68.25\\n- 24小时变化: -0.71%\\n- 高点/低点: 68.98 / 68.16\\n- RSI(14): N/A\\n- MACD: -0.94574591, Signal: N/A\\n- SMA(20): 69.482\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线承压向下整固\n\n当前SOL价格位于68.25附近，较短期SMA(20) 69.482偏下，显示短线承压走势。价格未能有效站上20日均线，表明多头动能有限，倾向区间震荡或进一步下探支撑区域。整体短线趋势偏弱，但尚未出现明显破位。\n\n技术指标方面，MACD Histogram为-0.9457，虽未提供Signal值，但负值区间说明空头动能占优。RSI数据缺失，但结合价格动作来看买兴略显不足。若指标继续扩散下行，可能加剧抛压；反之若逐步收敛，可观察潜在反弹机会。\n\n关键支撑位关注66.50-67.00区间，该处为近期低点集结区，跌破将打开更深回调空间。阻力位则首看69.50附近，进一步上行受制于20日均线及70整数关口压力。短线交易应以震荡区间操作为主，避免追高。\n\n建议若在支撑附近出现明显反转信号，可小幅布局多单；如跌破支撑则考虑减仓或适度空单参与；止损设置在关键支撑下方，以控制风险。注意随时关注市场情绪与成交量变化。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "Solana is trading in a modestly bearish short-term structure, with price at 68.25 sitting below the 20-day SMA at 69.482. The 24-hour decline of 0.71% suggests sellers remain in control, though the move is not aggressive. With the day’s range tight between 68.16 and 68.98, momentum appears subdued rather than decisively trending. This often signals market indecision, where traders are waiting for a catalyst before committing to a stronger directional move.\n\nThe MACD reading at -0.94574591 reinforces the bearish bias, indicating momentum has weakened relative to recent sessions. Even without the signal line and RSI reading, the negative MACD value below neutral supports the view that upside momentum is currently lacking. Price trading under the short-term moving average also suggests that rallies may face selling pressure unless SOL can reclaim and hold above 69.48. Until that happens, the broader near-term tone remains cautious.\n\nImmediate support is clustered around 68.16, the current session low, followed by the psychological 68.00 level. A break below that area could expose deeper downside toward the mid-67s, where buyers may attempt to stabilize the market. On the upside, initial resistance sits near 68.98, and more importantly at 69.48, the 20-day SMA. A clean break above this zone would be a constructive signal that short-term selling pressure is easing.\n\nFor traders, the current setup favors patience and risk discipline. Short-term bears may look for failed rebounds near 68.98 to 69.48, while bulls should wait for confirmation above the SMA before considering long entries. Range traders may prefer buying near support only if price shows clear rejection and volume confirmation. In the absence of stronger momentum signals, SOL/USD remains vulnerable to sideways-to-lower movement until it reclaims the moving average."
+    }
+  }
+}
