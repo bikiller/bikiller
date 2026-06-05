@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-06-05T03:02:10.527Z",
+  "price": {
+    "close": "0.08609",
+    "high": "0.08788",
+    "low": "0.08601",
+    "open": "0.08783",
+    "change": "-1.99",
+    "datetime": "2026-06-05 02:00:00"
+  },
+  "indicators": {
+    "rsi": 33.14353,
+    "macd": -0.0010453052,
+    "macd_signal": -0.0009368287,
+    "sma20": 0.0882745
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期偏弱震荡",
+      "content": "当前狗狗币价格位于$0.08609附近，较日内高点$0.08788有所回落，显示短期内空方略占优势。MACD指标为负值，暗示下行动能存在，但信号线数据缺失，需要谨慎观察趋势确认。价格低于20日均线$0.08827，说明多头短期力量不足，整体偏向震荡下行。  \n\n支撑位初步锁定在近期低点$0.086附近，如跌破此位置可能触发进一步调整；阻力位则在$0.088至$0.089区域，多次未突破提示空方压力明显。短线交易者可关注价格对均线的测试情况，结合成交量判断反转信号的有效性。  \n\n技术指标显示，尽管RSI数据缺失，但结合价格走势及均线关系，可判定市场仍处于弱势震荡格局。投资者需警惕追高风险，短线波段操作宜以逢低吸纳为主，避免在阻力位附近盲目建仓。  \n\n交易建议上，若价格维持在$0.086-0.088区间，可采取低多高空策略；若出现跌破支撑或突破阻力的明显信号，可考虑顺势跟进。严格设置止损于支撑下方，合理控制仓位以降低风险。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently exhibiting a modest bearish tendency against the US Dollar. The latest price of $0.08609 sits just below the 20-period simple moving average at $0.08827, indicating that short-term momentum is favoring sellers. The recent high of $0.08788 and low of $0.08601 suggest a narrowing trading range, reflecting consolidation after the recent downward moves. Traders should note this range as a prelude to potential breakout or breakdown scenarios.  \n\nThe MACD reading of -0.0010453 signals negative momentum, although the lack of a signal line value limits precision. In the absence of the RSI, momentum interpretation relies heavily on moving averages and price action. The price failing to reclaim the SMA(20) reinforces the idea of sustained short-term weakness, suggesting that bearish pressure may persist unless buyers intervene to push the price above this key technical level.  \n\nImmediate support can be identified around $0.08600, closely aligned with recent intraday lows. Resistance is likely near the SMA(20) at $0.08827 and the recent high of $0.08788. A break below support could trigger further declines toward the next psychological level near $0.08400. Conversely, a successful breach above resistance could signal the beginning of a short-term rebound, attracting momentum-driven traders to push prices higher.  \n\nFor trading strategy, cautious traders may prefer waiting for a decisive breakout above $0.0883 before entering long positions, while more aggressive participants could explore shorting near resistance with tight stops. Monitoring volume and confirming MACD crossover patterns will be crucial for validating entry points. Overall, the market presents a consolidation phase with a slight bearish bias, emphasizing the importance of disciplined risk management in positioning."
+    }
+  }
+}
