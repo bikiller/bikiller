@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-05T06:52:47.108Z",
+  "price": {
+    "close": "1662.34",
+    "high": "1692.15",
+    "low": "1650",
+    "open": "1688.14",
+    "change": "-1.44",
+    "datetime": "2026-06-05 06:00:00"
+  },
+  "indicators": {
+    "rsi": 23.98,
+    "macd": -26.24948,
+    "macd_signal": -18.97386,
+    "sma20": 1756.445
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期回调趋势",
+      "content": "当前以太坊价格位于1662.34美元，较24小时内下跌1.44%，显示市场短期承压。日内高低点在1692.15至1650美元之间，价格持续低于20日均线（SMA20=1756.45），暗示多头动能不足，短期趋势偏弱，可能延续回调整理格局。\n\n技术指标方面，MACD值为-26.25且低于信号线，进一步确认空头压力增强。尽管RSI未提供具体数值，但结合价格低于短期均线和MACD走势，可推测市场处于超卖或弱势状态，投资者应谨慎操作，防止追空或过早加仓。\n\n支撑位初步关注1650美元区域，该位置近期多次出现买盘支撑，如若跌破，则下方支撑可延伸至1620美元附近。阻力位在1690-1700美元区间，若价格突破并稳住，可短期形成反弹契机，但仍需观察成交量配合确认。\n\n交易策略上，可考虑在支撑区域低位轻仓布局，止损设在1645美元以下；短线追涨者应待价格突破1700美元并站稳后再介入。同时，密切关注市场整体情绪及比特币走势，以动态调整仓位，降低回调风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum remains under clear bearish pressure, trading at 1662.34 after a 1.44% decline over the last 24 hours. The price is significantly below the 20-period simple moving average at 1756.45, indicating that sellers continue to dominate the medium-term trend. The inability to recover above recent intraday highs near 1692 suggests weak buying momentum, while the lower end of the daily range around 1650 is being repeatedly tested.\n\nMomentum indicators reinforce the cautious outlook. Although RSI data is unavailable, the MACD reading of -26.25 points to persistent negative momentum and confirms that bearish sentiment remains in control. A deeply negative MACD typically reflects sustained downside pressure, particularly when price trades below key moving averages. Until momentum indicators begin to stabilize or show bullish divergence, rallies may face selling pressure from traders looking to exit positions.\n\nFrom a technical perspective, immediate support is located near 1650, the recent session low. A decisive break below this level could expose ETH/USD to further weakness toward the 1600 psychological area, with additional downside risk if broader market sentiment deteriorates. On the upside, initial resistance appears around 1692, followed by the more significant barrier represented by the SMA(20) near 1756. A move above these levels would be required to signal improving market structure.\n\nFor traders, a defensive approach remains appropriate while price stays below major resistance. Short-term participants may look for confirmation of support around 1650 before considering long exposure, while aggressive bearish traders could monitor breakdown opportunities beneath that level. Risk management remains essential, as cryptocurrency markets can experience rapid reversals. A sustained recovery above 1692 and especially above 1756 would strengthen the case for a broader bullish correction and reduce immediate downside concerns."
+    }
+  }
+}

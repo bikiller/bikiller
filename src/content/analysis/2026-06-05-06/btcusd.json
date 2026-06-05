@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-05T06:51:57.532Z",
+  "price": {
+    "close": "61844.88",
+    "high": "62568",
+    "low": "61082.33",
+    "open": "62262.01",
+    "change": "-0.67",
+    "datetime": "2026-06-05 06:00:00"
+  },
+  "indicators": {
+    "rsi": 35.84884,
+    "macd": -512.81864,
+    "macd_signal": -455.57151,
+    "sma20": 63296.8285
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期弱势震荡",
+      "content": "目前比特币价格位于61844.88美元，短期表现偏弱，较SMA(20) 63296.83美元明显偏低，显示短期下行压力仍在。价格自日内高点62568美元回落，表明多头动力有限，多空双方仍处于拉锯阶段，整体趋势倾向震荡调整。\n\nMACD处于-512.82的负值区间，显示下行动能较强，但信号线数据缺失，需关注后续是否形成金叉或死叉以判断转势。RSI未提供，但结合价格与均线关系，可初步判定市场偏向超买回落后的修正状态，短线交易应谨慎控制仓位。\n\n关键支撑位在61082.33美元附近，若跌破可能进一步探底至60500美元左右；阻力位则在当前SMA(20)及近期高点62568美元一线，多头若能有效突破，可能带动反弹上行。盘面波动性较高，短线可关注支撑反弹或阻力回落的机会。\n\n交易策略上，偏向短线操作为主，建议在支撑附近小幅布局多单，并设置严格止损，同时在接近阻力位或均线附近考虑获利了结。稳健者可保持观望，等待更明确的趋势信号后再入场，以降低市场波动风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting mild short-term bearish pressure as it trades slightly below the 20-day simple moving average (SMA) at $63,296, sitting at $61,844.88. This indicates a minor downward drift despite recent recovery attempts. The 24-hour high of $62,568 and low of $61,082.33 suggest consolidation within a narrow range. While longer-term trends remain bullish, near-term momentum favors cautious positioning, particularly given that MACD is negative at -512.82, signaling that selling momentum may be gaining traction.\n\nKey support is forming around the $61,000 level, which aligns with recent intraday lows. A decisive break below this level could trigger a deeper retracement toward $60,000, potentially opening a test of the psychological floor. On the upside, resistance remains stiff near the 20-day SMA and the recent high at $62,568. Traders may look for bullish confirmations only if the price clears these levels with strong volume, suggesting the market could resume an upward trend.\n\nTechnical indicators paint a mixed picture. Although the Relative Strength Index (RSI) is currently unavailable, the negative MACD implies short-term bearish pressure. Price trading below the SMA adds to the cautionary outlook. In such scenarios, range-bound strategies or partial profit-taking may be prudent. Momentum traders might await clearer signals, such as a MACD crossover or an RSI reading above 50, to validate potential entries for bullish continuation.\n\nFrom a trading standpoint, conservative participants may consider holding positions near support while setting stop losses slightly below $61,000. Aggressive traders could explore short-term shorts if the market fails to reclaim the SMA. Overall, the technical landscape suggests a neutral-to-bearish sentiment in the short term, with crucial levels at $61,000 for support and $62,568 for resistance serving as benchmarks for trading decisions."
+    }
+  }
+}

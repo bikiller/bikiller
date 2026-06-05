@@ -1,0 +1,30 @@
+{
+  "symbol": "BNB/USD",
+  "name": "Binance Coin vs US Dollar",
+  "nameCn": "币安币/美元",
+  "timestamp": "2026-06-05T06:53:40.232Z",
+  "price": {
+    "close": "575.9",
+    "high": "585.42",
+    "low": "575.9",
+    "open": "584.55",
+    "change": "-1.48",
+    "datetime": "2026-06-05 06:00:00"
+  },
+  "indicators": {
+    "rsi": 28.71191,
+    "macd": -7.10576,
+    "macd_signal": -5.80993,
+    "sma20": 600.4775
+  },
+  "analysis": {
+    "zh": {
+      "title": "币安币/美元技术分析：短期弱势整理，潜在支撑测试",
+      "content": "当前BNB/USD处于575.9美元，低于20日均线600.48美元，显示短期下行压力仍存。价格未能突破高点585.42，整体呈现弱势整理格局。短期趋势偏空，但尚未出现明显超卖信号，市场情绪谨慎观望。\n\nMACD处于-7.10576的负值区间，表明空头动能占优，尚未出现明显的反转迹象。由于缺乏RSI数据，需要依赖价格和均线判断短期走势。若价格继续回落，有望测试近期支撑575和570美元区域，支撑稳固将决定是否止跌反弹。\n\n阻力方面，首要关注600美元关口，若突破则可能开启中期反弹；次级阻力在610美元附近，突破难度较大。当前价格接近支撑区，短线可考虑低位逢低布局，但需设置严格止损，以防下破支撑导致加速下跌。\n\n交易策略建议：短期以观望和低位分批建仓为主，避免追高操作。若价格回升突破20日均线且MACD形成金叉，可考虑增加多头仓位。若支撑575美元失守，应快速减仓或止损，保持资金灵活性以应对高波动行情。"
+    },
+    "en": {
+      "title": "Binance Coin vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Binance Coin vs US Dollar (BNB/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 575.9\\n- 24h Change: -1.48%\\n- High/Low: 585.42 / 575.9\\n- RSI(14): N/A\\n- MACD: -7.10576, Signal: N/A\\n- SMA(20): 600.47750\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nBinance Coin’s short‑term price action shows a **mild bearish tilt** as the pair struggles below its recent range high. After hitting a 24‑hour high near **585.4**, BNB has retraced toward **575.9**, indicating sellers still have control near resistance. The inability to reclaim the 20‑period simple moving average around **600.48** suggests momentum has softened. Unless buying pressure returns above this level, the trend remains biased to the downside.\n\nMomentum indicators paint a **mixed picture** with limited clarity. The MACD at **‑7.10576** (with no confirmed signal line crossover available) hints at bearish momentum, but without a signal line, interpretation should be cautious. The absence of a valid RSI number prevents gauging overbought or oversold conditions at this exact snapshot, but the price’s recent inability to sustain higher levels implies caution for aggressive longs. Traders should watch for MACD divergence or a potential turnaround above key averages.\n\nNear‑term **support and resistance** levels are critical for next moves. Initial support lies at the daily low **575–570 zone**, with secondary support around **560**, a level that has previously acted as a swing pivot. Immediate resistance is stubbornly clustered between **585 and 600**, with broader resistance near the 20‑period SMA around **600.48**. A break above 600 would open the door to higher targets near **620–640**, while failure here may prompt deeper pullbacks.\n\nGiven current dynamics, a **cautious trading approach** is advisable. Long positions might be considered only after a decisive break and close above **600**, coupled with improving momentum readings. Shorter‑term traders could look for fade opportunities near the **585–600 resistance band**, with tight risk management and targets near support levels. Using stop‑losses just beyond these key zones can help manage volatility and unexpected swings."
+    }
+  }
+}
