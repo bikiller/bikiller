@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-05T08:04:16.291Z",
+  "price": {
+    "close": "1677.72",
+    "high": "1682.16",
+    "low": "1676.35",
+    "open": "1680.35",
+    "change": "-0.16",
+    "datetime": "2026-06-05 08:00:00"
+  },
+  "indicators": {
+    "rsi": 29.7522,
+    "macd": -30.33524,
+    "macd_signal": -22.73564,
+    "sma20": 1747.802
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱整理",
+      "content": "目前以太坊价格在 $1677.72$ 附近徘徊，较前日小幅下跌 $0.16\\%$，显示短线承压迹象。日内高低点区间窄，反映市场交投谨慎，多空力量暂时平衡。价格远低于 20 日简单移动均线 SMA(20) $1747.80$，短期趋势偏空，存在下行压力。\n\nMACD 指标显示主线位于 $-30.34$，处于零轴下方，虽然信号线缺失，但趋势判断倾向空头。缺乏 RSI 数据，需关注成交量及价格波动幅度确认超卖或超买情况。技术面综合来看，多头暂未形成强力反弹信号，短线仍需谨慎观望。\n\n支撑位初步关注 $1670$ 附近，若跌破则可能测试 $1650$ 附近关键心理位。阻力位则在 $1700$ 与 SMA(20) $1747$ 附近，若能有效突破，短线有望反弹至 $1750$ 附近。价格在当前区间震荡，波动幅度有限，操作空间相对收窄。\n\n交易建议方面，短线可考虑低位观望或轻仓做空，重点关注支撑反弹和突破信号。中长线投资者可继续关注 SMA 与 MACD 的背离情况，等待趋势确认再入场，以降低回调风险和提高风险收益比。风险控制仍为首要策略。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently trading in a compressed range around 1677, showing minimal volatility and a slight bearish bias after failing to sustain levels above the short-term moving average. Price action remains subdued, with repeated rejection near 1682 indicating weakening upside momentum. The broader structure suggests consolidation after a prior downtrend, with the market struggling to reclaim lost ground. Until volatility expands, directional conviction remains limited, favoring a cautious stance.\n\nFrom an indicator perspective, the SMA(20) at 1747.80 sits significantly above current price, reinforcing a bearish medium-term structure and acting as dynamic resistance. MACD is negative at -30.33, confirming downside momentum is still present, although flattening price action suggests weakening momentum rather than strong continuation. With RSI unavailable, momentum confirmation relies more heavily on moving averages and MACD, both of which currently favor sellers.\n\nKey support is forming near 1675–1670, where price has repeatedly stabilized during intraday dips, making it a critical short-term floor. A breakdown below this zone could expose deeper levels toward 1650 and potentially accelerate bearish continuation. On the upside, immediate resistance sits at 1682, followed by psychological 1700, while the SMA(20) near 1747 remains the major structural resistance level that would need to be reclaimed to shift trend bias.\n\nTrading conditions favor range-bound or breakout strategies rather than trend-following setups. Short positions may be considered on sustained rejection below 1682 with confirmation, targeting 1670 and below, while protective stops above 1685 help manage risk. Long setups remain counter-trend and should only be considered on a decisive breakout above 1700, ideally with volume expansion, targeting a move back toward the 1740–1750 region."
+    }
+  }
+}
