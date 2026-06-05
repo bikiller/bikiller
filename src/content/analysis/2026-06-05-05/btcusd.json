@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-05T05:50:22.872Z",
+  "price": {
+    "close": "62731.99",
+    "high": "63616.06",
+    "low": "62556.76",
+    "open": "63542.46",
+    "change": "-1.28",
+    "datetime": "2026-06-05 05:00:00"
+  },
+  "indicators": {
+    "rsi": 41.47623,
+    "macd": -404.31889,
+    "macd_signal": -433.77807,
+    "sma20": 63347.134
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线偏空震荡下行",
+      "content": "当前BTC/USD报62731.99美元，24小时跌幅1.28%，价格运行于20日均线63347附近下方，显示短期趋势仍偏弱。日内高低点区间收窄至63616至62557美元，市场观望情绪有所升温，空头暂时占据主动。\n\n从技术指标观察，MACD值为-404.32，处于零轴下方，反映中短期动能依然偏空，卖压尚未完全释放。虽然RSI数据暂缺，但结合价格跌破20日均线的表现来看，市场尚未形成明确的反转信号，弱势格局延续概率较高。\n\n关键支撑位关注62550美元附近，该位置接近日内低点，若失守可能进一步测试62000美元整数关口。上方首要阻力位位于63350美元附近，对应20日均线压力，其后阻力关注63600至64000美元区域。\n\n交易策略方面，短线投资者宜保持谨慎，可采取反弹做空思路，重点观察63350美元附近的突破情况。若价格重新站稳均线并放量突破63600美元，则有望打开反弹空间；反之跌破62550美元，需防范进一步下探风险并严格设置止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing signs of a short-term consolidation around the $62,700–$63,600 zone. The latest price at $62,731 indicates a minor retracement from the recent high of $63,616. Price action suggests sellers are slightly dominant in the near term, with downward pressure observed in the 24-hour change of -1.28%. Overall, the market remains within a range-bound environment, oscillating around the 20-day simple moving average at $63,347, which is currently acting as a dynamic resistance.  \n\nThe MACD value at -404.32, without a signal line crossover yet, points to bearish momentum building. While the lack of an RSI reading limits overbought/oversold insights, the negative MACD and price trading below SMA(20) imply a cautious bias. Traders should watch for a MACD convergence or divergence as confirmation before taking long positions. A sustained dip below $62,500 could accelerate downside movement, whereas reclaiming the $63,350–$63,400 range might signal a short-term recovery attempt.  \n\nSupport levels to monitor include $62,500 and $61,800, which could provide a floor for price action if selling intensifies. Resistance lies at $63,350–$63,600 and higher at $64,000, levels that have historically capped upward momentum. Breaking above these resistances with strong volume would likely shift sentiment bullish, whereas repeated rejection might reinforce consolidation or lead to further retracement toward the $61,000–$61,500 zone.  \n\nTrading strategies should be guided by risk management and confirmation signals. Short-term traders could consider selling near resistance zones and setting stop-loss slightly above $63,600. Long positions might be more appropriate once BTC/USD confirms a move above SMA(20) with positive MACD momentum. Range-bound strategies may also work, buying near support and selling near resistance, until a decisive breakout clarifies the next directional trend."
+    }
+  }
+}
