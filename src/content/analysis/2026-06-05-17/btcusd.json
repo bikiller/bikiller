@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-05T17:02:19.801Z",
+  "price": {
+    "close": "61388.07",
+    "high": "61461.9",
+    "low": "61336.21",
+    "open": "61342.99",
+    "change": "0.06",
+    "datetime": "2026-06-05 17:00:00"
+  },
+  "indicators": {
+    "rsi": 41.69619,
+    "macd": -719.078739,
+    "macd_signal": -637.49167,
+    "sma20": 62307.936
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期承压整理，潜在支撑测试",
+      "content": "目前BTC/USD价格在61388附近波动，短期涨幅有限，整体呈现横盘整理态势。价格低于20日均线(SMA20)62307，显示短期多头动能略显不足，趋势偏弱。成交量需关注是否出现突破信号，否则横盘可能继续维持。\n\nMACD指标仍为负值(-719.08)，暗示空方压力存在，但由于Signal线数据缺失，需要谨慎解读。若MACD出现回升并向零轴靠近，可视为短期反弹信号。RSI数据缺失，暂无法评估超买超卖状态，但结合价格区间，可预计短期或在支撑区域获得承接。\n\n支撑位重点关注61336低点及61000整数关口，若跌破可能引发进一步回调；阻力位在61460及62000附近，突破后有望开启新的反弹波段。短期波动偏窄，投资者需关注关键支撑和阻力的守破情况。\n\n交易策略上，建议短线谨慎操作，可在支撑区尝试低吸，止损设于61000下方；若价格站稳62000上方，可考虑顺势追多。整体保持轻仓、分批入场为宜，避免在横盘中追高带来的风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently hovering near $61,388, showing minimal volatility over the past 24 hours with a slight increase of 0.06%. The price action suggests a consolidation phase, as it remains below the 20-period simple moving average at $62,308. This indicates a short-term bearish bias, with sellers controlling momentum around the SMA. Traders should note that attempts to push higher may face resistance near $61,460, the recent intraday high, which aligns with the upper boundary of this consolidation range.  \n\nThe MACD reading of -719 suggests that bearish momentum is still present, though the absence of a signal line makes precise crossover analysis impossible. The negative MACD value implies that downward pressure could persist if buying interest fails to increase. Traders might watch for a MACD trend reversal as a key confirmation for potential upward moves. In addition, the RSI being unavailable limits insight into overbought or oversold conditions, so reliance on price structure and moving averages becomes more critical in this scenario.  \n\nSupport levels appear solid near $61,336, coinciding with the recent intraday low. A breach below this level could trigger deeper corrective movement, potentially testing $60,900 as a secondary support zone. Conversely, breaking above the $61,460 resistance could open a path toward the SMA at $62,308, where sellers may defend their positions. These levels create a well-defined range for short-term traders seeking to exploit oscillations between support and resistance.  \n\nGiven the current indicators, a cautious trading approach is recommended. Short-term traders might consider range-bound strategies, buying near support and selling near resistance, while setting tight stop-losses below $61,300 to mitigate risk. Longer-term investors should remain patient, observing whether Bitcoin can reclaim and sustain levels above the 20-period SMA to signal renewed bullish momentum, potentially extending the upside toward $63,000. Monitoring volume and MACD for trend confirmation will be essential before committing to significant positions."
+    }
+  }
+}
