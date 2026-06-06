@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-06T15:55:43.693Z",
+  "price": {
+    "close": "60724.04",
+    "high": "60899.1",
+    "low": "60356.84",
+    "open": "60763.53",
+    "change": "-0.06",
+    "datetime": "2026-06-06 15:00:00"
+  },
+  "indicators": {
+    "rsi": 45.26816,
+    "macd": -277.74132,
+    "macd_signal": -350.40094,
+    "sma20": 60959.8505
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整震荡迹象明显",
+      "content": "目前比特币价格在60724附近震荡，日内波动幅度有限，仅微幅下跌0.06%，显示短线买卖力量较为均衡。价格接近20日均线SMA(20)60959，短期上行动能略显不足，整体仍维持震荡格局。\n\nMACD指标呈负值-277.74，但信号线数据缺失，暗示市场下行压力存在，但尚未形成明确趋势。RSI指标不可用，无法评估超买或超卖状态，但从近期高低点60899/60356来看，多空力量接近均衡，震荡概率增加。\n\n支撑位关注60350附近的日低位置，如果下破可能引发进一步回调；阻力位在60950-61000区间，突破该区域则有望重新测试61050-61200高点。短线交易者可在支撑附近逢低布局，阻力位减仓或谨慎开空。\n\n综合来看，短期比特币走势以横盘震荡为主，趋势不明朗。建议关注均线和关键支撑/阻力的突破信号，结合仓位控制进行短线操作，避免追涨杀跌，同时保持风险管理，灵活应对市场波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading at 60,724.04, showing a marginal 24-hour decline of 0.06% and remaining confined within a relatively narrow intraday range between 60,356.84 and 60,899.10. Price action currently reflects a mild bearish bias, as BTC remains below the 20-period simple moving average at 60,959.85. This positioning suggests that short-term momentum has weakened and buyers have not yet regained sufficient control to re-establish an upward trend.\n\nThe moving average acts as an immediate technical barrier, with the area around 60,950–61,000 serving as the first resistance zone. A sustained move above this region would improve sentiment and could encourage a retest of higher levels. On the downside, the session low near 60,350 provides initial support. If selling pressure intensifies, the market could test the psychologically important 60,000 level, which is likely to attract increased trading activity and liquidity.\n\nMomentum indicators provide a cautious outlook. The MACD reading of -277.74 indicates negative momentum remains present, suggesting that bearish forces still have a slight advantage in the short term. While the RSI value is unavailable, the negative MACD and the price trading below the 20-day average collectively point toward consolidation with a downside tilt rather than a strong directional breakout. Traders should therefore remain attentive to confirmation signals before assuming a trend reversal.\n\nFrom a trading perspective, conservative participants may prefer to wait for a decisive break above 61,000 before considering bullish positions, as such a move would signal improving momentum and trend strength. More aggressive traders could monitor support around 60,350 and 60,000 for potential rebound opportunities, provided price action shows evidence of stabilization. Risk management remains essential, as a breakdown below support could accelerate selling pressure and shift the market toward a deeper corrective phase."
+    }
+  }
+}
