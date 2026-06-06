@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-06T17:07:43.099Z",
+  "price": {
+    "close": "60698",
+    "high": "60818.66",
+    "low": "60660.37",
+    "open": "60754.12",
+    "change": "-0.09",
+    "datetime": "2026-06-06 17:00:00"
+  },
+  "indicators": {
+    "rsi": 44.95302,
+    "macd": -254.48135,
+    "macd_signal": -317.15615,
+    "sma20": 60871.179
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线偏弱震荡整理",
+      "content": "当前BTC/USD报60698，24小时跌幅0.09%，价格运行于SMA20均线60871下方，显示短线走势偏弱。虽然跌幅有限，但价格持续受制于均线压制，多头动能暂未明显恢复，市场整体处于震荡偏空格局。\n\n从技术指标来看，MACD数值为-254.48，位于零轴下方，表明空头力量仍占据一定优势。RSI数据暂缺，无法进一步确认超买超卖状态，但结合均线位置与MACD表现，短期趋势仍以谨慎看待为主。\n\n关键支撑位关注60660附近，即日内低点区域。若跌破该位置，可能进一步测试60500甚至60000整数关口。上方阻力首先位于60820附近，其次是SMA20所在的60870-60900区域，突破后有望打开反弹空间。\n\n交易策略方面，短线交易者可采取区间思路，在支撑位附近观察企稳信号后轻仓试多；若价格反弹至60870上方受阻，则可关注回落机会。当前趋势尚未形成明确反转信号，建议控制仓位并严格设置止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a tight consolidation around 60,700, showing a slight intraday bias to the downside. Price action remains compressed within a narrow range between 60,660 and 60,818, suggesting market indecision after recent volatility. The broader structure leans mildly bearish as price sits below short-term moving average pressure, indicating limited upside momentum and a cautious environment for breakout traders. Participants are waiting for clearer directional catalysts.\n\nMomentum indicators reinforce a weakening short-term outlook. The MACD reading at -254.48 signals persistent bearish momentum, suggesting sellers currently dominate recent price action. With RSI unavailable, momentum confirmation is limited, but price trading below the 20-period SMA at 60,871 highlights resistance pressure overhead. This alignment typically indicates a corrective phase or sideways-to-down drift unless strong volume reclaims the moving average. Overall sentiment remains cautious rather than decisive for short-term traders.\n\nImmediate support is defined by the session low near 60,660, which has so far held firm during intraday testing. A break below this level would expose the 60,500 psychological zone as the next downside target. On the upside, resistance begins at 60,818, followed closely by the 20-SMA at 60,871. This cluster forms a significant ceiling that bulls must reclaim to regain control. Volume confirmation is required for any breakout attempt.\n\nGiven the current compression and bearish momentum signals, traders may favor range-bound strategies over aggressive breakout positioning. Selling near resistance around 60,800–60,870 with tight risk control remains preferable unless price decisively reclaims the SMA. Alternatively, scalping long positions near support around 60,660 can be considered, but only with strict stops. Overall risk management is critical in this low-volatility environment. Patience is preferred until clearer directional momentum emerges in market structure."
+    }
+  }
+}
