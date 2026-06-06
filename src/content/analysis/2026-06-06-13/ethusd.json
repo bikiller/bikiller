@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-06T13:23:45.550Z",
+  "price": {
+    "close": "1571.42",
+    "high": "1574.13",
+    "low": "1567.53",
+    "open": "1574.13",
+    "change": "-0.08",
+    "datetime": "2026-06-06 13:00:00"
+  },
+  "indicators": {
+    "rsi": 42.85363,
+    "macd": -24.92849,
+    "macd_signal": -30.68735,
+    "sma20": 1575.952
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱",
+      "content": "目前以太坊价格在$1571.42附近微幅下行，距离20日均线$1575.95略有偏低，显示短期多头动能不足。价格波动区间较窄，全天高低点$1574.13/$1567.53表明市场仍处于震荡整理阶段，短线趋势偏向弱势盘整。\n\n技术指标方面，MACD为-24.92849且信号线尚未提供，表明空头动能略占优势，但没有形成明显背离或加速趋势。RSI数据缺失，无法确认超买超卖状态，但从价格与均线关系来看，多空力量处于均衡偏空格局，需要警惕突发性波动。\n\n支撑位关注$1567附近，该区域短期内可能提供买盘支撑。阻力位则在20日均线附近$1575-1576，如果价格无法有效突破，可能延续区间震荡格局。突破阻力或支撑将决定下一阶段方向，交易者需谨慎布局。\n\n操作建议上，短线可考虑逢低轻仓介入，止损设置在$1565以下以控制风险；激进者可在价格突破$1576时尝试顺势做多，但需密切关注成交量与后续指标确认，以避免假突破造成损失。整体策略以防守为主，等待明确趋势信号再加仓。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is currently showing a subdued price action around $1571, suggesting a period of consolidation after recent volatility. The 24-hour change of -0.08% indicates market indecision, with price oscillating narrowly between the high of $1574.13 and the low of $1567.53. The proximity to the 20-day simple moving average (SMA) at $1575.95 suggests that ETH is hovering just below short-term average resistance, hinting that buyers may need stronger momentum to push the price higher.\n\nThe negative MACD reading of -24.93, without a corresponding signal line, points to underlying bearish momentum. While the lack of a full MACD signal reduces precision, the current trend indicates that downward pressure may persist if the price fails to reclaim SMA support. Traders should watch for divergence between MACD and price action, as it could signal potential reversal points or confirm continued weakness.\n\nSupport is likely to be encountered near $1567, marking the recent intraday low and providing a short-term buffer against further decline. Resistance is concentrated around $1575-$1580, coinciding with the 20-day SMA and previous swing highs. A sustained breakout above this range could invite renewed buying interest, while failure to hold $1567 could trigger deeper retracement toward $1550-$1555 levels.\n\nFrom a trading perspective, cautious strategies are advisable. Short-term traders might consider range-bound tactics, buying near support and trimming positions near resistance. Swing traders should wait for a decisive breakout with volume confirmation to enter long positions, while those seeking short exposure might watch for MACD confirmation of bearish continuation. Overall, ETH/USD currently displays a balanced setup, with neither bulls nor bears asserting clear control."
+    }
+  }
+}
