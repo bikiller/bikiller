@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-06-06T21:02:02.544Z",
+  "price": {
+    "close": "61.81",
+    "high": "61.91",
+    "low": "61.34",
+    "open": "61.6",
+    "change": "0.32",
+    "datetime": "2026-06-06 20:00:00"
+  },
+  "indicators": {
+    "rsi": 41.37073,
+    "macd": -0.7815214,
+    "macd_signal": -0.87956194,
+    "sma20": 62.248
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短期盘整偏弱趋势",
+      "content": "当前SOL/USD价格在61.81附近徘徊，短线波动幅度有限。价格低于20日简单移动平均线(SMA20=62.25)，显示多头动能不足，短期存在一定回落压力。日内高低点61.91/61.34表明市场短期震荡明显，但尚未形成明确突破。\n\nMACD指标为-0.7815，处于零轴下方，显示空头仍占主导，但信号线数据缺失，需要谨慎解读。RSI数据不可用，暂无法通过超买超卖水平判断行情强弱。整体技术指标暗示市场短期偏弱，投资者应关注价格能否有效站上SMA20以确认反弹可能。\n\n关键支撑位在61.30附近，若跌破可能进一步探底至60.80或更低。阻力位则在62.25及63.00区域，突破后可能打开上行空间。结合当前震荡特征，短线交易宜以逢低尝试多单为主，同时设置严格止损以防突发回调。\n\n交易建议：保持谨慎，短期以观望或小仓位操作为主。可关注价格站稳SMA20并伴随MACD转正的信号再考虑加仓做多，否则避免追高。同时密切关注支撑位失守的风险，合理控制仓位和止损。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 61.81\\n- 24h Change: 0.32%\\n- High/Low: 61.91 / 61.34\\n- RSI(14): N/A\\n- MACD: -0.78152140, Signal: N/A\\n- SMA(20): 62.24800\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nAt the **current price of $61.81**, SOL/USD is trading slightly below its **20‑period simple moving average (~62.25)**, suggesting short‑term downward pressure and a lack of clear bullish conviction. The modest 24‑hour change (+0.32%) and tight intraday range indicate consolidation around this level rather than strong directional momentum. Given the negative MACD reading (‑0.78) with no available signal line to confirm a crossover, momentum seems tilted toward sellers, and traders should interpret the current trend as **neutral to mildly bearish**, awaiting confirmation from broader market activity and indicator alignment.\n\nThough the **RSI (14)** isn’t provided, typically readings below mid‑range hint at limited buying strength, and combining this with SOL trading under its 20‑SMA suggests sellers retain short‑term control. In broader market analyses, SOL has been noted to remain constrained within **range structures**, with repeated susceptibility to downward pressure unless key resistance levels are reclaimed with conviction. A sustained break above the SMA20 could reduce bearish skew and open room for recovery attempts, whereas failure to clear this level reinforces caution. Traders should also watch volume; low volume in consolidation often precedes expanded moves following breakout or breakdown.\n\nFor support and resistance, consider **immediate support near recent lows**, where buyers previously stepped in, and **psychological or structural resistance at the SMA** and above. If SOL dips below its current trading band with increasing volume, a fall toward stronger support levels may occur. Conversely, a rally that clears a cluster of moving averages would signal improved risk sentiment among technical traders. These levels serve as useful anchors for **risk management and trade placement**, especially in a market lacking decisive trend direction.\n\nIn terms of practical suggestions, conservative traders may benefit from waiting for clearer directional confirmation, such as solid closes above the 20‑period SMA or a decisive break below recent support with accompanying volume. Aggressive traders could explore range bound plays with tight risk parameters: buying nearer defined support and scaling out near dynamic resistance. Regardless of strategy, aligning entries with momentum confirmation and setting protective stop‑losses around key levels is advisable given the current structural ambiguity."
+    }
+  }
+}

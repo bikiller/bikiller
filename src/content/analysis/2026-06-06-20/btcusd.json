@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-06T20:59:53.830Z",
+  "price": {
+    "close": "60665.65",
+    "high": "60728.26",
+    "low": "60485",
+    "open": "60562.05",
+    "change": "0.17",
+    "datetime": "2026-06-06 20:00:00"
+  },
+  "indicators": {
+    "rsi": 45.28163,
+    "macd": -239.53433,
+    "macd_signal": -286.1442,
+    "sma20": 60765.544
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线整理震荡趋势",
+      "content": "当前BTC/USD价格在60665.65美元附近小幅波动，日内涨幅仅0.17%，整体呈现短线整理态势。价格接近20日简单移动平均线(SMA20)60765.54美元，表明多空力量在当前价位存在均衡，短期趋势不明朗，但高点60728.26形成明显阻力，低点60485美元为关键支撑。\n\n技术指标显示MACD为-239.53，处于零轴下方，暗示空头略占优势，但缺乏信号线数据，趋势确认仍需谨慎。RSI暂不可用，但结合均线和价格行为，短期内可能延续震荡整理格局，投资者应关注突破或回调的力度，以决定入场时机。\n\n支撑与阻力方面，关键支撑在60485美元，若跌破可能触发进一步下行压力；上方阻力位在60728至60765美元区间，突破则有望延续上行动力。价格在均线附近反复试探，短线操作宜以区间策略为主，避免追高。\n\n交易建议上，激进者可在支撑位附近尝试低吸，止损设于60450美元以下；保守者可等待明确突破上方阻力或跌破支撑后再介入。整体策略偏向短线震荡交易，结合量能和突破确认可提高操作安全性与胜率。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently moving in a narrow consolidation range around 60,665 USD, reflecting indecision after a muted 24-hour performance of 0.17%. Price action remains tightly compressed between 60,485 and 60,728, indicating low volatility and equilibrium between buyers and sellers. Despite this stability, the market is trading slightly below the 20-period SMA, suggesting short-term exhaustion in bullish momentum and a potential early shift toward a corrective phase unless buyers reclaim higher levels soon.\n\nMomentum signals show early bearish pressure, with MACD printing a negative value at -239.53, indicating that downside momentum has recently outweighed upside attempts. While RSI is not provided, price positioning below the SMA(20) reinforces weakening short-term trend strength. The lack of a MACD signal line prevents full crossover confirmation, but the divergence suggests fading bullish energy and increasing probability of continued range-bound or slightly bearish movement.\n\nImmediate support is identified near the session low at 60,485 USD, with a secondary cushion around the psychological 60,000 level if selling pressure intensifies. On the upside, resistance is clustered around the SMA(20) at 60,765, which also aligns closely with recent highs near 60,728, creating a tight overhead supply zone. A sustained break above this band would be required to restore bullish structure and open path toward higher resistance zones.\n\nGiven the current compression and weak momentum, traders may favor a range-bound strategy, selling near resistance around 60,700–60,800 and considering long entries closer to support near 60,500 with tight risk control. A breakout above 60,800 would invalidate short-term bearish bias and could trigger momentum-driven buying toward 61,200. Conversely, a breakdown below 60,485 may accelerate downside toward 60,000, making risk management and stop placement essential in this low-volatility environment."
+    }
+  }
+}
