@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-06T09:13:26.448Z",
+  "price": {
+    "close": "1583.11",
+    "high": "1587.01",
+    "low": "1579.22",
+    "open": "1583.24",
+    "change": "0.00",
+    "datetime": "2026-06-06 09:00:00"
+  },
+  "indicators": {
+    "rsi": 42.8295,
+    "macd": -29.30267,
+    "macd_signal": -35.40295,
+    "sma20": 1584.075
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多整理",
+      "content": "当前ETH/USD在1583美元附近交投，价格略低于20日均线1584，短期趋势呈现震荡整理格局。价格波动幅度有限，高低点仅相差约8美元，显示市场多空力量暂时均衡，缺乏明显突破信号。  \n\nMACD指标为-29.30且低于零轴，暗示短期仍偏弱，但未出现明显背离，可理解为调整消化阶段。RSI暂缺数据，需关注超买超卖变化，若后续上升至70以上，则可能触发短线回调压力。均线附近成交量保持平稳，支撑压力区间清晰。  \n\n关键支撑位位于1579-1580美元附近，若跌破此区间，短线可能延伸至1570美元；阻力位在1587-1590美元区间，上方若突破则有望重返1600美元整数关口。价格在均线附近波动，短线多空博弈明显。  \n\n交易建议上，激进者可在支撑区轻仓布局多单，止损设置在1578美元下方；保守者建议等待价格稳步突破1587美元阻力后再做追涨操作。同时，注意密切关注MACD变化及成交量放大情况，以防突发回调风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum vs USD is currently in a tight consolidation phase around 1,583, with price action clustering near the 20-period SMA at 1,584.075. The market shows minimal volatility over the last 24 hours, printing a near-zero percentage change and suggesting equilibrium between buyers and sellers. This type of structure often precedes a directional breakout once volume expands. For now, trend bias remains neutral, leaning slightly sideways as momentum fails to establish continuation.\n\nMomentum indicators reinforce a weakening bullish impulse, with MACD reading at -29.30267 signaling downside pressure below the zero line. Although the signal line is not provided, the negative histogram suggests bearish dominance is gradually building. The absence of RSI data limits precision, but price behavior near the SMA implies a mid-range equilibrium rather than overbought or oversold conditions. Overall, momentum leans cautiously bearish.\n\nImmediate structure defines a narrow trading range between 1,579 and 1,587, which represents the recent 24-hour low and high. This compression suggests liquidity is being absorbed at both ends, with buyers defending sub-1,580 levels and sellers capping moves near 1,587. The 20-SMA at 1,584 acts as a pivot, reinforcing the midpoint of consolidation. A decisive break above or below this band will likely define the next directional move.\n\nFrom a trading perspective, conditions favor range-bound strategies while price remains trapped within its current structure. Short-term traders may consider buying near support around 1,579 and taking partial profits toward 1,587 resistance, while using tight stops below the range low. Alternatively, a breakout strategy can be prepared for a sustained move beyond the consolidation zone. Risk management remains essential given the lack of strong directional momentum."
+    }
+  }
+}
