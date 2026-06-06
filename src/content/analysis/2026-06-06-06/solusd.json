@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-06-06T06:19:18.836Z",
+  "price": {
+    "close": "62.85",
+    "high": "63.05",
+    "low": "62.55",
+    "open": "62.58",
+    "change": "0.43",
+    "datetime": "2026-06-06 06:00:00"
+  },
+  "indicators": {
+    "rsi": 42.20921,
+    "macd": -1.21409,
+    "macd_signal": -1.17911,
+    "sma20": 64.058
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 62.85\\n- 24小时变化: 0.43%\\n- 高点/低点: 63.05 / 62.55\\n- RSI(14): N/A\\n- MACD: -1.21409, Signal: N/A\\n- SMA(20): 64.058000\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏弱整理\n\n当前SOL价格62.85美元，价格在20日均线下方运行，表明短期多头动力不足。日内区间震荡明显，未能有效上破近期阻力区，整体趋势偏向震荡整理，而非趋势性上涨。\n\n技术指标方面，MACD仍在零线下方运行，表明动能弱于历史均值；RSI未提供数据但从价格结构看动能不足。20日均线64.06附近对多头构成压制，短期多头承压较大。\n\n主要支撑位关注61.50–62.00美元区间，该区域为短线买方活跃区域；阻力位在64.00–64.50美元，上破该区域有望引发更高波动。若向下破位61.00，则可能开启更深调整。\n\n交易建议上，倾向于区间策略，偏好在支撑附近轻仓多、在阻力附近短线减仓。激进者可等待突破确认再顺势操作，注意控制仓位与止损，避免单边突发性波动带来的风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "SOL/USD is trading at 62.85, remaining slightly below its 20-period simple moving average at 64.06, which suggests the broader short-term trend remains mildly bearish despite the modest 0.43% daily gain. Price action is confined within a narrow intraday range between 62.55 and 63.05, indicating limited momentum and a market that is currently consolidating. Until buyers reclaim the SMA(20), upside advances may continue to face selling pressure near recent resistance zones.\n\nThe available momentum indicators provide a cautious outlook. The MACD value of -1.214 suggests bearish momentum remains present beneath the surface, even though the pace of downside pressure may be stabilizing. The absence of RSI data limits confirmation of overbought or oversold conditions, making price behavior around key technical levels particularly important. Traders should monitor whether SOL can sustain closes above 63.00, as this would improve the likelihood of a recovery toward higher resistance levels.\n\nFrom a technical perspective, immediate support is located near 62.55, the session low, followed by a stronger support zone around 62.00. A decisive break below these levels could expose additional downside risk and potentially accelerate bearish sentiment. On the upside, initial resistance appears around 63.05, while the more significant barrier remains near the SMA(20) at 64.06. A sustained move above 64.06 would signal improving market structure and could attract renewed buying interest.\n\nFor trading considerations, conservative participants may prefer waiting for confirmation before entering new positions. Bullish traders could look for a breakout and close above 64.06 as evidence of strengthening momentum, targeting higher resistance areas while maintaining disciplined risk management. Bearish traders may view rallies toward resistance as potential selling opportunities if momentum remains weak. Given the current consolidation and negative MACD reading, position sizing and stop-loss placement remain especially important until a clearer directional trend emerges."
+    }
+  }
+}
