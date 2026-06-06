@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-06T05:06:51.994Z",
+  "price": {
+    "close": "59877.53",
+    "high": "60085.91",
+    "low": "59596.68",
+    "open": "60076.86",
+    "change": "-0.33",
+    "datetime": "2026-06-06 05:00:00"
+  },
+  "indicators": {
+    "rsi": 37.29156,
+    "macd": -598.85658,
+    "macd_signal": -586.053644,
+    "sma20": 60976.179
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏弱，潜在下探压力",
+      "content": "当前比特币价格在59877.53附近，较20日均线60976略低，显示短期承压迹象。价格未能有效站上近期高点60085，呈现小幅回落态势，市场多空分歧仍存在，短期趋势偏向震荡偏弱。\n\nMACD处于-598.86的负值区间，显示空头动能仍占优势，但未出现明显的加速下跌信号。缺乏RSI参考限制了超买超卖的判断，但从均线与MACD组合来看，多头追高风险较高，短线谨慎操作为宜。\n\n支撑位可关注59596附近的近期低点，以及59100整数关口，这些区域可能提供短线承接。阻力位主要在60085及20日均线60976附近，多头若突破这些阻力，则可能触发反弹，但需观察成交量配合力度。\n\n交易上，短线投资者可考虑低位试探支撑的轻仓做多，止损设置略低于59500；对于趋势跟随者，等待价格稳健站上60085或20日均线确认反弹再布局，以降低追高风险。总体策略以防守为主，顺势操作、控制仓位是关键。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading at 59,877.53, remaining under pressure after a modest 24-hour decline of 0.33%. The price action is confined to a relatively narrow range between 59,596.68 and 60,085.91, suggesting a period of consolidation following previous weakness. A key concern for bulls is that BTC remains below the 20-period simple moving average at 60,976.18, indicating that short-term momentum continues to favor sellers and that recovery attempts may face resistance.\n\nThe moving average structure points to a bearish near-term trend, as the market is trading roughly 1.8% beneath the SMA(20). Additionally, the MACD reading of -598.86 reflects negative momentum and confirms that downside pressure remains present. Although the signal line and RSI values are unavailable, the negative MACD alone suggests that buyers have not yet regained sufficient strength to establish a convincing reversal. Traders should therefore remain cautious about assuming a sustained upward move without confirmation.\n\nFrom a technical perspective, immediate support is located near the session low of 59,600. A decisive break below this area could expose the market to additional selling pressure toward the psychological 59,000 level, followed by potential support around 58,500. On the upside, initial resistance appears near 60,100, while the SMA(20) around 60,976 serves as a more significant barrier. A successful move above that level would improve the short-term outlook and could attract renewed buying interest.\n\nFor trading purposes, conservative participants may prefer to wait for either a confirmed breakout above 60,100–60,975 or a breakdown below 59,600 before initiating new positions. Momentum traders could look for long opportunities only after BTC reclaims the moving average, while bearish traders may favor rallies into resistance zones as long as price remains below the SMA(20). Effective risk management, including disciplined stop-loss placement, remains essential in the current environment of mixed but slightly bearish market conditions."
+    }
+  }
+}
