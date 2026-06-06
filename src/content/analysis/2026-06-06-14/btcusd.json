@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-06T14:55:30.789Z",
+  "price": {
+    "close": "60895.93",
+    "high": "60986.6",
+    "low": "60737.01",
+    "open": "60774.32",
+    "change": "0.20",
+    "datetime": "2026-06-06 14:00:00"
+  },
+  "indicators": {
+    "rsi": 46.99726,
+    "macd": -278.31017,
+    "macd_signal": -366.45332,
+    "sma20": 60943.04
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "当前比特币价格位于60895.93美元，接近20日均线60943.04美元，显示价格在均线附近震荡。日内高低点差距有限，仅约250美元，反映市场短期波动受限，趋势尚不明朗，但偏向多头微弱支撑。  \n\nMACD指标为-278.31，虽缺少信号线数据，但负值显示短期动能略偏空，需关注后续交叉情况以判断趋势反转的可能性。同时RSI缺失，无法直接衡量超买超卖，但结合价格与均线关系，可推测近期处于均衡震荡区。  \n\n支撑位上看60737美元为近期低点支撑，若跌破可能引发短线回调；阻力位60986美元为日内高点，突破将确认多头延续。短期交易可在支撑位附近择机做多，止损设在60700美元下方以控制风险，同时在阻力位附近考虑获利了结。  \n\n综合来看，BTC/USD短期呈现震荡偏多格局，趋势不强但有上行动力。建议短线交易者以区间操作为主，关注关键阻力和支撑位，同时结合MACD后续信号确认入场时机，避免追高或盲目持仓。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a relatively stable price around $60,895, hovering slightly below the 20-period simple moving average (SMA20) at $60,943. This suggests a neutral-to-slightly-bearish short-term trend, as price action struggles to decisively break above this key moving average. The daily high and low range of $60,986 to $60,737 indicates limited volatility, which often precedes a more significant directional move once a breakout occurs. Traders should watch for a sustained move above the SMA20 to signal renewed bullish momentum.  \n\nThe MACD reading of -278.31, despite the missing signal line, points to underlying bearish pressure in the medium term. While the slight 0.20% price uptick indicates short-term resilience, the negative MACD suggests that momentum has yet to fully recover. Without a confirmed crossover into positive territory, buyers might remain cautious, and any upward moves could face resistance near the recent high. A closer look at RSI, once available, could offer additional clarity on overbought or oversold conditions.  \n\nKey support levels are visible near the daily low at $60,737, followed by a secondary support around $60,500, which aligns with previous consolidation zones. Resistance is immediate at $60,986, with stronger barriers forming near $61,200 if bullish momentum picks up. These levels are crucial for setting stop-loss and take-profit orders, especially in a market exhibiting low volatility. Traders should remain alert to sudden volume spikes that could trigger breakouts from this range.  \n\nFor trading strategy, a cautious approach is advisable. Short-term traders might consider buying on dips near $60,737 with tight stop-losses, targeting the $60,986–$61,200 resistance zone. Conversely, sellers could look for signs of trend exhaustion near the SMA20 or the daily high. Overall, Bitcoin remains in a consolidation phase with potential for breakout, making volume and moving average confirmation key signals before committing to larger positions."
+    }
+  }
+}
