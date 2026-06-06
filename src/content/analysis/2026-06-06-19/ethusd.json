@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-06T19:59:05.609Z",
+  "price": {
+    "close": "1559.07",
+    "high": "1564.93",
+    "low": "1557.12",
+    "open": "1560.03",
+    "change": "-0.00",
+    "datetime": "2026-06-06 19:00:00"
+  },
+  "indicators": {
+    "rsi": 41.33447,
+    "macd": -19.019963,
+    "macd_signal": -23.46847,
+    "sma20": 1566.6475
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线偏弱震荡整理",
+      "content": "当前ETH/USD价格运行于1559附近，24小时波动极为有限，显示市场处于观望状态。从价格与20周期均线位置来看，现价低于SMA(20)的1566.65，短线趋势仍偏空，整体维持弱势震荡格局。\n\n技术指标方面，MACD数值为-19.02，处于零轴下方，表明空头动能依然占据优势。不过由于价格跌幅有限且波动收窄，空头力量较前期有所减弱。RSI数据暂缺，因此市场超买超卖状态仍需结合后续走势确认。\n\n关键价位方面，短线支撑位关注1557一线，该位置接近当日低点，若有效跌破，可能进一步测试1545至1535区域。上方阻力位首先关注1565附近，其次为1575至1585区间，突破后有望改善短期技术结构。\n\n交易策略上，建议以区间交易思路为主。激进交易者可关注1557附近支撑的企稳信号尝试低吸，目标看向1565至1575区域；若价格跌破支撑并放量下行，则应顺势跟随空头。风险控制方面，建议严格设置止损，避免震荡行情中的假突破风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently showing a cautious sideways pattern near $1,559, reflecting a market that is consolidating after recent movements. The price remains slightly below the 20-day simple moving average of $1,566.65, indicating mild short-term weakness. The small intraday range between $1,557 and $1,565 suggests limited volatility, with buyers and sellers closely matched. Overall, the trend is neutral with a slight bearish bias, awaiting a decisive breakout or breakdown to signal the next directional move.  \n\nThe MACD reading at -19.02 points toward ongoing downward momentum, although the absence of a signal line prevents a clear crossover confirmation. Traders should interpret this cautiously, as negative momentum indicates that sellers still have influence. Meanwhile, the unreported RSI leaves a gap in momentum analysis, but the proximity to the SMA hints that ETH is not yet oversold, keeping the potential for short-term bounces intact. A sustained move above the SMA could trigger renewed bullish sentiment.  \n\nKey support is found around $1,557, marking the recent low and providing a floor for intraday corrections. Resistance is evident near $1,565, coinciding with both the recent high and the 20-day SMA. A breach above $1,565 may pave the way for a run toward $1,575-$1,580, while a drop below $1,557 could open the path to $1,545 or lower. Traders should monitor volume and momentum indicators closely to confirm any directional shift.  \n\nFor trading strategies, cautious range-bound tactics are advisable until a clear trend emerges. Short-term traders could consider buying near support with tight stop losses below $1,555, while targeting resistance levels around $1,565. Conversely, aggressive sellers may wait for a confirmed break below support before entering positions. Overall, ETH/USD remains in a consolidation phase, making risk management and confirmation signals essential for both intraday and swing trades."
+    }
+  }
+}
