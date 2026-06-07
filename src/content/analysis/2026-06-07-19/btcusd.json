@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-07T19:59:50.084Z",
+  "price": {
+    "close": "61297.96",
+    "high": "62008.42",
+    "low": "61146.42",
+    "open": "61998.26",
+    "change": "-1.13",
+    "datetime": "2026-06-07 19:00:00"
+  },
+  "indicators": {
+    "rsi": 43.86313,
+    "macd": 153.36927,
+    "macd_signal": 235.94117,
+    "sma20": 61927.788
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，压力略偏上行",
+      "content": "近期比特币价格在61,100至62,000美元区间震荡，形成短期盘整格局。当前价格低于20日均线（SMA20=61,927.79），显示短线承压，市场多空力量存在拉锯，短期趋势偏中性略看空。\n\n技术指标方面，MACD主线位于153.37附近，但信号线缺失，需谨慎观察动能变化。RSI指标暂无数据，无法确认超买或超卖状态，但价格接近日内低点，短线可能存在支撑反弹的机会。\n\n支撑位方面，可关注61,146美元附近的短线支撑，以及60,800美元附近的心理关口。阻力位主要在62,000美元及62,500美元区间，如价格有效突破，可打开上行空间，但若受阻，则可能继续震荡回落。\n\n交易策略上，建议短线投资者以区间交易为主，高抛低吸，控制仓位；中长期投资者可耐心等待回调确认支撑后介入，设置止损在关键支撑下方以防下破，谨慎布局以应对价格波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently navigating a mildly bearish short-term trend as its price hovers around $61,297.96, slightly below the 20-period simple moving average of $61,927.79. This signals that recent momentum is losing strength and buyers are hesitant to push higher. The intraday range of $61,146 to $62,008 shows that the market is experiencing consolidation, suggesting that volatility may continue to be limited until a decisive breakout occurs.\n\nThe MACD reading of 153.37, while lacking a signal line for full confirmation, suggests underlying bullish pressure, though the recent 1.13% decline implies a potential slowdown. Without the RSI value, caution is warranted as overbought or oversold conditions cannot be confirmed. Traders should monitor the MACD histogram closely for any crossovers, as these could provide early indications of trend reversals or renewed momentum in either direction.\n\nKey support levels are near $61,150 and $60,800, where prior buying interest has been observed. Resistance appears around $62,000 to $62,100, representing a ceiling that the market has struggled to surpass in the last 24 hours. A sustained move above $62,100 could open the door to higher targets near $63,000, while a breakdown below $61,150 may accelerate selling pressure toward $60,500.\n\nFor traders, a cautious approach is advisable given the mixed signals. Short-term buyers may consider entering on dips near $61,150 with tight stop-losses, while sellers might wait for confirmation below key support levels before initiating positions. Those looking for trend confirmation should watch for MACD crossovers and potential SMA alignment to ensure more favorable risk-reward setups. Overall, patience and careful position sizing are critical in the current environment."
+    }
+  }
+}
