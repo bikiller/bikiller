@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-07T21:07:39.922Z",
+  "price": {
+    "close": "61745.49",
+    "high": "61903",
+    "low": "61664.32",
+    "open": "61838.9",
+    "change": "-0.15",
+    "datetime": "2026-06-07 21:00:00"
+  },
+  "indicators": {
+    "rsi": 50.14711,
+    "macd": 119.13334,
+    "macd_signal": 197.67591,
+    "sma20": 61999.204
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线偏弱震荡，关注关键支撑",
+      "content": "当前BTC/USD报61745.49，价格位于20日均线61999附近下方运行，24小时微跌0.15%。从短线结构观察，市场处于高位震荡整理阶段，多头动能有所放缓，但整体跌幅有限，暂未形成明显趋势性下跌信号。\n\n技术指标方面，MACD数值为119.13，仍处于零轴上方，表明中期趋势尚未完全转弱。不过价格持续运行于SMA(20)下方，显示短线卖压占优。由于RSI数据缺失，当前超买超卖状态暂无法确认，需结合后续成交量变化判断。\n\n关键价位方面，61664附近构成短期第一支撑，若跌破则可能测试61500至61200区域。上方阻力位首先关注61900至62000区间，进一步阻力位位于62300附近。价格若重新站稳62000上方，将有助于恢复多头信心。\n\n交易策略上，建议以区间交易思路为主。激进投资者可关注61650附近支撑反弹机会，并严格设置止损；稳健投资者则等待价格有效突破62000后再考虑顺势做多。若跌破关键支撑，应防范短线回调风险，控制仓位并做好风险管理。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently holding a neutral to slightly bearish short-term trend as it hovers around $61,745. The recent price action shows minor intraday consolidation between $61,664 and $61,903, suggesting the market is indecisive near the 20-day SMA at $61,999. The small 24-hour decline of -0.15% reinforces this sideways movement, indicating that buyers and sellers are nearly balanced. Observing the price in relation to the SMA, a decisive break below $61,664 could signal renewed bearish momentum, while holding above this level may sustain the neutral zone.\n\nThe MACD, with a value of 119.13, lacks a corresponding signal line at the moment, making momentum interpretation incomplete. Nevertheless, the elevated MACD suggests bullish pressure in recent sessions, albeit with the risk of slowing momentum due to the minor price dip. Traders should watch for a cross of the MACD above a future signal line, which could confirm a resumption of upward momentum. Without the RSI, overbought or oversold conditions remain unclear, so short-term swings might be driven more by price structure than classic momentum extremes.\n\nSupport is clearly defined near $61,664, aligning with the intraday low and psychological levels. Resistance sits around $61,999, closely matching the SMA(20) and the recent high of $61,903. These levels form a tight trading range, where range-bound strategies could be viable. A sustained breakout above $62,000 may attract additional buying, while a breakdown below $61,600 could invite sellers targeting the next psychological support near $61,200. Volume spikes around these levels would confirm any directional shift.\n\nFor trading strategy, cautious traders might favor short-term scalps within the current range, buying near support and trimming positions near SMA resistance. Trend-following traders could wait for confirmation of either a breakout above $62,000 for a bullish entry or a breakdown below $61,600 for bearish opportunities. Risk management should remain tight, with stop-losses just outside the range to prevent exposure to false breakouts, as volatility can quickly erode small gains in Bitcoin’s current indecisive phase."
+    }
+  }
+}
