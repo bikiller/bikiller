@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-06-07T22:34:46.143Z",
+  "price": {
+    "close": "65.86",
+    "high": "67.9",
+    "low": "64.49",
+    "open": "64.61",
+    "change": "1.97",
+    "datetime": "2026-06-07 22:00:00"
+  },
+  "indicators": {
+    "rsi": 61.427,
+    "macd": 0.40995003,
+    "macd_signal": 0.39979668,
+    "sma20": 64.763
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 65.86\\n- 24小时变化: 1.97%\\n- 高点/低点: 67.9 / 64.49\\n- RSI(14): N/A\\n- MACD: 0.40995003, Signal: N/A\\n- SMA(20): 64.763\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线震荡偏多但量能不足\n\n目前SOL/USD在65.86附近震荡，价格略高于20日简单移动平均线64.763，显示短期多头仍有支撑，但上涨动能有限。日内高点67.9与低点64.49反映出买卖双方在区间内反复博弈，趋势并不明朗，偏向窄幅震荡上扬。\n\n技术指标方面，MACD主线处于正区但无信号线数据，意味着趋势有向上空间但未确认明确交叉；RSI缺失使动量判断受限，不过从价格与SMA位置看，买盘压力存在但不强。若未来MACD扩散并形成金叉，可进一步确认多头延续。\n\n关键支撑位首先看20日均线64.7附近，其次是前日低点64.49；若跌破这些支撑，则可能回测更下方心理整数位62.00附近。阻力方面，短期关注67.9、68.5区间阻力，突破后或试探70关口。\n\n交易建议上，短线交易者可在回调到65.0-64.5附近考虑轻仓布局多头，止损设在下破64附近以控制风险；若上破68.0确认上行动能，可追加多单。激进者可待价格稳住在67.9上方再跟进，但须警惕波动与成交量不足导致假突破风险，做好资金管理。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 65.86\\n- 24h Change: 1.97%\\n- High/Low: 67.9 / 64.49\\n- RSI(14): N/A\\n- MACD: 0.40995003, Signal: N/A\\n- SMA(20): 64.763\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana’s recent price behavior suggests a cautiously bullish near‑term trend. With the latest price at **$65.86** and the **20‑period simple moving average (SMA) at 64.763**, the market is respecting this shorter‑term average as dynamic support, indicating buyers at slightly lower levels. The **24‑hour range (64.49–67.9)** shows that volatility is present but contained, with higher lows forming. If the price consistently trades above the SMA(20), it signals continuation of upward momentum, though broader trend confirmation awaits longer moving average alignments.\n\nLooking at momentum tools, the **MACD histogram at +0.4099** (with no signal line provided) points to positive directional pressure, implying that bullish forces are slightly stronger than bearish ones right now. Without a current **RSI(14)** reading, it’s harder to judge overbought/oversold extremes, but the recovery from recent lows and the lift above short‑term average underscores strengthening buyer conviction. Traders should watch for MACD convergence or divergence with price; sustained positive divergence would reinforce a bullish thesis, while a weakening histogram could presage consolidation.\n\nKey levels to monitor include **support near $64.50–$64.75** — around the intraday low and the SMA(20) — and a more significant floor near **$62.00** from prior swing lows. On the upside, initial resistance sits around **$68.00–$69.00**, with a break above **$70.00** opening the door to higher targets from earlier supply zones. A failure to hold the support band could invite deeper retracement, potentially towards the **$60.00** psychological level, where stronger buying interest may reemerge.\n\nFor traders, nimble strategies make sense in this environment. Short‑term longs could be considered on pullbacks near the SMA with tight risk controls below $64.50, targeting the $68–$70 zone. More conservative participants might await a clear breakout above $70 before scaling in. Risk management remains crucial given crypto’s inherent volatility."
+    }
+  }
+}
