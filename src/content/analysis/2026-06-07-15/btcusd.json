@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-07T15:03:29.579Z",
+  "price": {
+    "close": "61809.13",
+    "high": "61876.27",
+    "low": "61805.78",
+    "open": "61870.71",
+    "change": "-0.10",
+    "datetime": "2026-06-07 15:00:00"
+  },
+  "indicators": {
+    "rsi": 51.83804,
+    "macd": 244.35749,
+    "macd_signal": 266.36355,
+    "sma20": 61679.975
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏强整理",
+      "content": "当前BTC在61800附近高位震荡，整体维持窄幅整理结构，多头动能略占优势但缺乏突破力度，市场观望情绪较浓，短期仍待方向选择。\n\n均线方面价格略高于SMA20（61679），短期仍偏多结构；MACD维持正值但动能柱收敛，显示上涨动能有所放缓。RSI暂无数据，需结合价格行为判断。\n\n当前价格紧贴日内高位61876形成短期阻力，上方若有效突破或打开上行空间；下方SMA20附近61680构成初步支撑，跌破则转弱。\n\n操作上建议保持区间交易思路，高位不追涨，回踩支撑分批低吸；若放量突破阻力再顺势跟进，并严格控制止损，以风险管理为主，避免频繁交易。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s recent price action around $61,809 shows a market in mild consolidation. The small 24-hour decline of 0.10% reflects a lack of directional momentum, with prices oscillating narrowly between the intraday high of $61,876 and low of $61,805. The short-term trend, as suggested by the 20-period simple moving average at $61,679, is slightly bullish, indicating buyers retain control above this level. Price staying above the SMA suggests support is intact, but the range-bound movement hints at indecision.\n\nMomentum indicators provide a mixed view. Although the RSI is unavailable, the MACD value of 244.36, without its signal line, suggests upward momentum is still present, but caution is warranted. The MACD above zero typically signals bullish sentiment, yet the lack of a recent crossover may indicate the current strength is fragile. Traders should watch for MACD histogram shifts or eventual signal line interaction for confirmation of trend continuation or a potential reversal.\n\nKey support levels can be identified near $61,680 and $61,500, where previous consolidations and SMA alignment provide buying interest. Resistance lies at $61,875 and more decisively at $62,000, representing psychological barriers and prior highs. Breaking above these levels could accelerate bullish movement, while a breakdown under the SMA support might invite short-term selling pressure and test lower support bands near $61,400.\n\nFrom a trading perspective, cautious buyers might consider entering near the SMA or confirmed support, using tight stop-losses just below $61,500. Momentum traders should wait for MACD confirmation or a breakout above $62,000 to reduce risk. Conversely, aggressive short positions may target a breach below SMA support, but the tight range suggests limited immediate downside, emphasizing the importance of disciplined risk management in this slightly choppy environment."
+    }
+  }
+}
