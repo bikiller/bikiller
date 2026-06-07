@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-07T12:12:05.831Z",
+  "price": {
+    "close": "62265.46",
+    "high": "62622.96",
+    "low": "62175.25",
+    "open": "62600.03",
+    "change": "-0.53",
+    "datetime": "2026-06-07 12:00:00"
+  },
+  "indicators": {
+    "rsi": 58.70273,
+    "macd": 390.69833,
+    "macd_signal": 268.060513,
+    "sma20": 61518.6455
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡整理，潜在上行机会",
+      "content": "目前比特币价格在62265美元附近波动，略低于24小时高点62622美元，但仍高于20日均线61518美元，显示短期仍有一定支撑。价格在高位震荡，市场情绪谨慎，整体呈现整理态势，需关注突破信号以判断后续方向。\n\nMACD指标显示主线位于390.7，尚未给出明确金叉或死叉信号，暗示多空双方力量接近平衡。尽管RSI数据缺失，但结合价格与均线位置可推测市场暂未过热或超卖，短期波动主要受盘整影响。\n\n支撑位方面，下方关键支撑位在61500-61600美元区域，如跌破该区间，可能触发短期回调压力。阻力位则集中在62600-62700美元，突破后有望测试63000美元整数关口，对多头构成心理激励。\n\n交易策略上，建议短线投资者可关注低位逢低承接机会，设立合理止损以控制风险。中长线投资者可保持观望或分批布局，等待价格明确突破阻力确认趋势再加仓，以避免在震荡中被套。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near $62,265, showing minor consolidation after testing the recent intraday high of $62,622. The market is in a short-term sideways phase, hovering slightly above the 20-period SMA at $61,518, which is providing a gentle support floor. This indicates that while selling pressure has emerged, bullish sentiment remains intact. The lack of an RSI reading makes momentum assessment challenging, but price action near the SMA suggests a balanced tug-of-war between buyers and sellers.\n\nThe MACD reading of 390.69833, though missing the signal line, hints at underlying bullish momentum, as the positive value typically reflects upward pressure in recent trading sessions. The convergence near the SMA implies that a break above $62,622 could catalyze a more aggressive upward move, while a decline below the 20-SMA may open a retest of immediate support near $61,500. Traders should monitor for a MACD crossover or divergence confirmation to validate either continuation or reversal signals.\n\nSupport and resistance levels are key to planning entries and exits. Immediate support is positioned around $61,500, with stronger support near $61,000 if selling intensifies. Resistance is observed at the recent high of $62,622, followed by psychological barriers at $63,000. Price behavior around these levels will dictate near-term trend direction, and careful observation of volume spikes can provide early warning of a breakout or breakdown scenario.\n\nFor trading strategies, a conservative approach favors waiting for confirmation above the $62,600–$62,700 resistance for long positions or a break below $61,500 for short positions. Scalpers may exploit minor swings between the SMA and intraday highs, while swing traders should keep an eye on broader technical indicators for trend validation. Overall, Bitcoin’s current posture suggests cautious optimism with a bias toward continuation if key resistance is breached."
+    }
+  }
+}
