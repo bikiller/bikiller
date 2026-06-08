@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-08T17:38:31.910Z",
+  "price": {
+    "close": "63388.56",
+    "high": "63625.57",
+    "low": "63263.44",
+    "open": "63488.71",
+    "change": "-0.16",
+    "datetime": "2026-06-08 17:00:00"
+  },
+  "indicators": {
+    "rsi": 55.54948,
+    "macd": 385.78664,
+    "macd_signal": 404.70675,
+    "sma20": 63291.833
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，注意关键支撑位",
+      "content": "当前比特币价格在63388美元附近震荡，短期走势呈现小幅调整。价格徘徊于20日简单移动平均线(SMA20)上方，显示短期均线支撑有效，但涨幅受限，高低波动幅度有限，整体偏向区间整理，趋势仍偏多。  \n\nMACD指标显示多头动能存在，但缺少信号线对比，动能强弱尚不明确。日内价格未出现明显背离，暗示市场多空力量相对均衡，短线可能继续围绕当前区间震荡，等待更明确的趋势信号。  \n\n支撑位方面，近期低点63263附近形成短线支撑，若跌破可能触发进一步回调；阻力位在日内高点63625附近，多头若突破该位置，将有望打开上行空间。关注成交量变化可判断突破可靠性。  \n\n交易策略上，短线可考虑低多高空策略，逢支撑尝试小幅建多单，止损设置在63250下方；若价格站稳阻力位，可考虑顺势加仓做多。风险管理仍应严格执行，防止震荡区间带来的假突破。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action has shown a slight consolidation around the $63,300–$63,600 range, reflecting a temporary equilibrium between bullish and bearish forces. The latest price of $63,388 suggests limited directional momentum, as the 24-hour change is marginally negative. Traders should note the proximity to the 20-period simple moving average at $63,292, which is currently acting as a near-term support. The market appears cautious, with buyers defending lower levels and sellers reluctant to push significantly lower.  \n\nThe MACD reading of 385.79, though lacking a corresponding signal line for full confirmation, hints at a mildly bullish momentum in the short term. Without a signal line crossover, the trend remains inconclusive, emphasizing the need for additional confirmation from volume and price behavior. In this environment, short-term traders may prioritize monitoring momentum shifts, especially around key moving averages, while long-term investors can treat this as a holding phase unless a breakout occurs.  \n\nCritical support lies near $63,200–$63,300, corresponding to the 20-period SMA and recent intraday lows. On the upside, resistance is present around $63,600–$63,650, marked by recent intraday highs. A sustained break above this range could trigger further upside toward $64,000, while a breakdown below support may expose lower levels near $62,800. These zones provide clear reference points for stop-loss placement and position sizing.  \n\nFor traders, a cautious approach is recommended. Long positions could be considered above the $63,300 support, targeting $63,600–$64,000, while short positions may be viable on a confirmed breakdown below the SMA, targeting $62,800. The tight consolidation suggests low volatility, favoring range-bound strategies like short-term scalping or swing trading rather than aggressive directional bets. Maintaining risk discipline remains essential in this balanced market."
+    }
+  }
+}
