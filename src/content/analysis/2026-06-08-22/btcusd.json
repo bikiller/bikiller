@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-08T22:52:49.026Z",
+  "price": {
+    "close": "63314.25",
+    "high": "63701.76",
+    "low": "63188.68",
+    "open": "63701.76",
+    "change": "-0.61",
+    "datetime": "2026-06-08 22:00:00"
+  },
+  "indicators": {
+    "rsi": 52.59226,
+    "macd": 274.1549,
+    "macd_signal": 341.75439,
+    "sma20": 63361.765
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱，关注关键支撑",
+      "content": "当前BTC/USD报63314.25，24小时跌幅0.61%，价格运行于63188.68至63701.76区间内。从走势看，市场暂未形成明确单边趋势，价格略低于20日均线63361.77，显示短线动能偏弱，但整体仍维持高位震荡结构。\n\n技术指标方面，MACD数值为274.15，仍处于零轴上方，表明中期趋势尚未转空。不过由于Signal数据缺失，难以确认金叉或死叉状态。RSI暂未提供，因此超买超卖信号不足，需结合后续价格行为进行判断。\n\n关键位置上，下方首要支撑位位于63188附近，若跌破则可能进一步测试62800至62500区域；上方阻力位关注63700附近，高于该位置则有望挑战64000整数关口。当前价格处于均线附近，多空力量相对均衡。\n\n交易策略方面，激进交易者可关注63188支撑区域的企稳机会，配合成交量放大进行短线布局；稳健投资者则建议等待突破63700后顺势跟进。若价格有效跌破支撑，应严格设置止损，控制仓位风险，避免震荡行情中的反复消耗。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 63,314, holding slightly below its 20-day simple moving average at 63,362. The modest 24-hour decline of 0.61% suggests a market that remains under mild short-term selling pressure rather than experiencing aggressive liquidation. Price action has been confined to a relatively narrow intraday range between 63,189 and 63,702, indicating consolidation and a temporary balance between buyers and sellers after recent volatility.\n\nThe relationship between price and the 20-day moving average points to a neutral-to-slightly-bearish short-term trend. While the difference is small, sustained trading below the moving average can signal weakening momentum unless buyers reclaim that level decisively. The MACD value remains positive at 274.15, which implies that the broader underlying trend still retains constructive characteristics. However, the absence of a signal-line reading limits confirmation of whether bullish momentum is strengthening or fading.\n\nFrom a technical perspective, immediate support is located around the session low near 63,190. A break below this area could expose additional downside pressure and potentially accelerate profit-taking. On the upside, resistance is developing around 63,700, with the 20-day moving average acting as an intermediate barrier. A successful move above both levels would improve the short-term outlook and increase the probability of a continuation toward higher resistance zones.\n\nFor active traders, patience may be appropriate while price remains trapped between support and resistance. Bullish strategies become more attractive on a confirmed breakout above 63,700 accompanied by improving momentum signals. Conversely, a decisive breakdown beneath 63,190 would favor a more defensive stance and could create short-term selling opportunities. Risk management remains essential, with stop-loss placement near key technical levels helping to control exposure in a market that can shift direction rapidly."
+    }
+  }
+}
