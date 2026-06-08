@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-08T07:16:11.671Z",
+  "price": {
+    "close": "63038.69",
+    "high": "63153.94",
+    "low": "62762.81",
+    "open": "62953.68",
+    "change": "0.14",
+    "datetime": "2026-06-08 07:00:00"
+  },
+  "indicators": {
+    "rsi": 58.73875,
+    "macd": 352.31224,
+    "macd_signal": 346.63329,
+    "sma20": 62451.0815
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多",
+      "content": "近期比特币价格在63000美元附近维持震荡，整体呈现温和上行趋势。尽管24小时涨幅仅0.14%，但价格仍高于SMA(20)62451美元，显示中短期均线支撑有效，多头仍占据一定优势。日内高低点63153.94/62762.81反映出市场波动有限，短期趋势偏向震荡整理。\n\nMACD指标为正值352.31，虽然缺少Signal线参考，但正值暗示多头动能存在，价格有继续试探上行的潜力。若RSI可用，将进一步确认超买或超卖状态，目前需关注成交量配合以判断趋势持续性。技术上，多头力量尚未显著衰退，但上涨动力有限。\n\n关键支撑位在SMA(20)附近62450美元，一旦跌破可能引发短线回调。阻力位主要集中在日内高点63150美元及前期平台区63500美元，突破后有望进一步打开上行空间。交易者可根据支撑与阻力进行区间操作，设置止损以控制风险。\n\n综合来看，短线可偏多操作，但需警惕高位承压导致回调。建议关注日内关键均线支撑和阻力突破信号，结合资金管理策略灵活调整仓位，保持稳健的交易节奏，以应对价格的震荡波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing signs of a mild bullish trend as it hovers around $63,038.69, slightly above its 20-period simple moving average at $62,451.08. The narrow 24-hour price range of $62,762.81 to $63,153.94 suggests consolidation, indicating market participants are waiting for clearer directional cues. A breach above the daily high near $63,154 could trigger short-term bullish momentum, while holding above the SMA reinforces a generally positive bias.\n\nThe MACD reading of 352.31, without a signal line provided, suggests upward pressure, but the lack of the signal line and RSI data limits the precision of momentum interpretation. Traders should note that sustained gains above the SMA could attract buyers, but a failure to maintain this level may invite short-term corrective moves. Monitoring intraday volume could provide additional insight into the strength of these micro-trends.\n\nKey support is evident near $62,450, closely aligned with the 20-period SMA, providing a reasonable floor for risk management. Resistance levels are apparent at $63,150 and further near $64,000, marking zones where selling pressure may intensify. A sustained move above these thresholds could open a path toward a new swing high, while a break below support could signal consolidation or mild pullback scenarios.\n\nFor trading considerations, short-term buyers may consider entering near the SMA with tight stop-loss placement slightly below $62,450, targeting the $63,150–$64,000 range. Conversely, aggressive traders might watch for a breakout above $63,150 for momentum entries. Given current consolidation, cautious traders may prefer to wait for a clear breakout or retest of support to confirm trend direction before committing significant capital."
+    }
+  }
+}
