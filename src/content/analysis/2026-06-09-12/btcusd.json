@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-09T12:19:05.494Z",
+  "price": {
+    "close": "62723.68",
+    "high": "62862.87",
+    "low": "62654.37",
+    "open": "62673.29",
+    "change": "0.08",
+    "datetime": "2026-06-09 12:00:00"
+  },
+  "indicators": {
+    "rsi": 44.54412,
+    "macd": -73.75234,
+    "macd_signal": 3.23046,
+    "sma20": 63076.0555
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：区间震荡偏弱整理",
+      "content": "当前BTC/USD处于窄幅震荡偏弱格局，价格围绕62700附近整理，整体略低于20日均线，短线动能不足，需等待方向选择信号出现。\n\nMACD指标仍处于零轴下方并维持负值，显示空头动能占优，价格受制于20日均线压制，反弹力度有限，短期或继续震荡下行，风险偏空为主。\n\n下方支撑位关注62650一线，若跌破可能测试62500区域；上方阻力位在63000至63100附近，突破需放量确认。\n\n短线建议以区间交易为主，未有效站上63000前避免追多，可在62650附近低吸，严格设置止损控制风险，等待确认再加仓信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has maintained a relatively stable posture around the $62,700–$62,800 range, showing minimal 24-hour movement of 0.08%. The short-term trend appears neutral, with the price slightly below the 20-period simple moving average at $63,076, indicating mild bearish pressure. The daily high of $62,862 and low of $62,654 suggest consolidation within a narrow band, highlighting market indecision as bulls and bears struggle for dominance.\n\nThe MACD reading of -73.75, though lacking a corresponding signal line, suggests underlying downward momentum, reinforcing a cautious outlook. While the absence of an RSI limits overbought or oversold confirmation, the proximity to SMA(20) emphasizes the importance of this moving average as a dynamic resistance level. Traders should monitor whether the MACD begins to converge with a signal line or crosses above zero, which could indicate a shift toward bullish sentiment.\n\nKey support is identified near $62,500, which has held in recent sessions, while resistance lies at $63,100–$63,200, slightly above the SMA(20). A decisive break above this resistance could attract buyers and confirm a short-term uptrend, whereas a breach below $62,500 may accelerate selling toward $62,200. Volume and volatility indicators, though not provided, would offer additional confirmation of trend strength and potential breakout sustainability.\n\nFor trading strategies, a conservative approach would favor waiting for clear confirmation above $63,100 before entering long positions, while short-term traders might consider range-bound scalps between $62,500 and $63,100. Risk management is crucial given the narrow trading range and mixed signals. Position sizing and stop-loss placement around support and resistance levels can help mitigate downside risk while allowing for upside capture if the market confirms a breakout."
+    }
+  }
+}
