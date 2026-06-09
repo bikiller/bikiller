@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-09T14:39:56.530Z",
+  "price": {
+    "close": "61483.05",
+    "high": "62355.37",
+    "low": "61360.4",
+    "open": "62232.18",
+    "change": "-1.20",
+    "datetime": "2026-06-09 14:00:00"
+  },
+  "indicators": {
+    "rsi": 28.26338,
+    "macd": -224.69926,
+    "macd_signal": -64.94365,
+    "sma20": 62902.3455
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期回调压力明显，趋势震荡偏弱",
+      "content": "当前比特币价格报61483.05美元，较24小时内高点62355.37美元回落，显示市场短期承压。整体来看，价格低于20日简单移动平均线SMA(20)62902.35美元，提示上行动能受限，多头动能有所减弱，短线可能呈现震荡整理格局。\n\nMACD指标为-224.70，显示空头力量占优，但缺少信号线参考，需要关注潜在反弹能否形成交叉信号。若RSI能够回补，超卖区域的出现可能提示技术性反弹机会，但当前仍需谨慎，避免追高操作。\n\n支撑位方面，近期低点61360美元构成短期支撑，若跌破可能加速回落至61000美元附近。阻力位在SMA(20)及前高62355美元附近，多头若突破该区间，则可能重启上升趋势，值得关注成交量配合情况。\n\n交易策略上，短期建议以观望为主，待价格接近支撑并出现反弹信号时，可考虑小幅多单布局，止损控制在支撑下方1-2%。若价格回升突破SMA(20)并伴随成交量放大，可适度加仓，但需严格风险管理，避免在震荡区间追高造成损失。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "BTC/USD remains under short-term bearish pressure after slipping to 61,483, trading well below the 20-period SMA at 62,902. The rejection from the 62,355 area and the inability to reclaim the moving average suggest sellers continue to control momentum. With the session low near 61,360, the market is testing an important demand zone. Unless buyers can push price back above the 62,000–63,000 region, the broader near-term bias remains tilted to the downside.\n\nMomentum indicators also lean negative. The MACD reading of -224.70 indicates bearish momentum remains active, reflecting a widening gap between short-term and longer-term price action. While the RSI value is unavailable, recent price behavior points to weakening buying interest. Traders should monitor for any bullish divergence or stabilization in momentum indicators, as these could provide early signals of a potential reversal or consolidation phase.\n\nFrom a technical perspective, immediate support is located around 61,360, the current session low. A decisive break below this level could expose the psychological 61,000 mark, followed by the 60,000 area as the next significant support zone. On the upside, resistance is seen near 62,355, with stronger resistance around the 20-day SMA at approximately 62,900. A sustained move above these levels would improve sentiment and potentially trigger short-covering activity.\n\nFor trading purposes, conservative participants may prefer to wait for confirmation before entering new positions. Bullish traders could look for a recovery above 62,355 and ideally above 62,900 to validate renewed upward momentum. Bearish traders may view rallies into resistance as potential selling opportunities while price remains below the moving average. Given the recent decline and negative MACD structure, disciplined risk management and carefully placed stop-loss orders remain essential in the current environment."
+    }
+  }
+}
