@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-10T17:43:42.701Z",
+  "price": {
+    "close": "61634.82",
+    "high": "62310.63",
+    "low": "61599.54",
+    "open": "62169.99",
+    "change": "-0.86",
+    "datetime": "2026-06-10 17:00:00"
+  },
+  "indicators": {
+    "rsi": 47.29146,
+    "macd": -34.339,
+    "macd_signal": -152.74216,
+    "sma20": 61612.0205
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理格局",
+      "content": "当前BTC/美元整体呈现震荡偏弱格局，价格围绕61600附近窄幅整理，市场多空分歧明显，上行动能不足，短线进入盘整阶段。\n\nMACD指标持续处于零轴下方并出现负值扩张，显示空头动能略占优势，RSI缺失但结合走势判断动量偏弱，缺乏趋势性突破信号。\n\n下方关键支撑位于61599一线，若跌破可能测试61000区域，上方阻力集中在62310及62000附近，短期区间压缩明显。\n\n操作上建议以区间交易为主，低位轻仓试多，高位谨慎做空，严格设置止损，等待成交量放大后再跟随趋势方向。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s recent price action around $61,634 suggests a market in mild consolidation after testing the recent high near $62,310. The slight 0.86% decline in the last 24 hours points to short-term selling pressure, but the overall trend remains close to neutral-to-bullish as prices hover around the 20-day SMA at $61,612. This moving average appears to be acting as a dynamic support, preventing sharper declines and signaling that buyers remain interested in this level.\n\nThe MACD reading of -34.339 indicates bearish momentum is present, albeit not sharply oversold. Without the signal line for confirmation, the negative divergence hints at caution for aggressive long positions. Traders should watch for MACD convergence toward zero, which could indicate a potential recovery in bullish momentum. The missing RSI also means overbought/oversold conditions are unclear, so relying on price action and SMA support/resistance levels becomes more important for trade decisions.\n\nImmediate support is found near $61,600, slightly below the SMA, while resistance clusters around $62,310 and then $62,500. A strong break above these levels could signal renewed upside potential, targeting $63,000 and beyond. Conversely, a decisive move below the $61,600 zone would expose lower support around $60,800, suggesting a deeper correction is possible. Monitoring volume at these key levels will provide confirmation of the strength behind either move.\n\nFor traders, a cautious approach is recommended. Long positions can be considered near SMA support with tight stops just below $61,500, aiming for the $62,300–$62,500 resistance range. Short-term traders may look for pullback entries if the MACD and price action indicate momentum exhaustion. Maintaining flexibility and managing risk through position sizing remains critical, given the subtle bearish signals amid an otherwise range-bound market."
+    }
+  }
+}

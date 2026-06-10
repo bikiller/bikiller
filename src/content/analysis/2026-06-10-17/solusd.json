@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-06-10T17:45:59.226Z",
+  "price": {
+    "close": "63.7",
+    "high": "64.91",
+    "low": "63.58",
+    "open": "64.56",
+    "change": "-1.32",
+    "datetime": "2026-06-10 17:00:00"
+  },
+  "indicators": {
+    "rsi": 40.95193,
+    "macd": -0.24929103,
+    "macd_signal": -0.34131213,
+    "sma20": 64.38
+  },
+  "analysis": {
+    "zh": {
+      "title": "> search(\"你是专业的数字货币交易分析师。请对 Solana/美元(SOL/USD) 进行技术分析。\\n\\n当前市场数据：\\n- 最新价格: 63.7\\n- 24小时变化: -1.32%\\n- 高点/低点: 64.91 / 63.58\\n- RSI(14): N/A\\n- MACD: -0.24929103, Signal: N/A\\n- SMA(20): 64.38000\\n\\n要求：\\n1. 第一行：完整的中文标题，格式：\\\"Solana/美元技术分析：[趋势描述]\\\"\\n2. 然后空一行\\n3. 正文3-4段，每段60-80字，总共250-300字\\n4. 包含：趋势判断、技术指标解读、支撑/阻力位、交易建议\\n5. 使用专业术语但易于理解\\n6. 不要添加任何标签或额外说明\\n\\n立即开始（第一行就是标题）：\")",
+      "content": "Solana/美元技术分析：短线承压调整，区间震荡为主\n\n当前价格承压于短期均线下方，走势显示短线偏弱但尚未明显崩跌。日内高点64.91未能突破20日均线（64.38）后回落，低点触及63.58附近，多空力量在此区间反复博弈，短期趋势仍以震荡调整为主。\n\n从技术指标看，虽然RSI数据不可用，但价格位于20日简单移动均线之下且MACD柱线为负，表明下行动能略占优势。MACD主线处于0轴下方但未显著扩大，说明空头力度有限，多头可能在支撑位筑底。\n\n关键支撑位初步关注63.0区域，如失守则下看62.0/60.5附近。阻力位首先在64.4附近的20日均线，其次是前高65.0。若价格持续在支撑与阻力之间震荡，将形成窄幅区间格局，可等待明确破位信号确认趋势方向。\n\n交易方面，短线交易者可考虑在63.0~63.5区间多单布局，止损设在62.8以下，目标可定在64.4~65.0之间；激进者可在65.0上方确认突破后跟进多头。长期投资者建议耐心等待更明确趋势确认再加仓，以控制回撤风险。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "> search(\"You are a professional cryptocurrency analyst. Provide technical analysis for Solana vs US Dollar (SOL/USD).\\n\\nCurrent Market Data:\\n- Latest Price: 63.7\\n- 24h Change: -1.32%\\n- High/Low: 64.91 / 63.58\\n- RSI(14): N/A\\n- MACD: -0.24929103, Signal: N/A\\n- SMA(20): 64.38000\\n\\nRequirements:\\n1. Write 3-4 paragraphs, 60-80 words each, total 250-300 words\\n2. Include: trend analysis, indicator interpretation, support/resistance levels, trading suggestions\\n3. Use professional but accessible language\\n4. No labels, no meta-commentary\\n5. Start immediately with the content (no title needed)\\n\\nBegin:\")\n\nSolana is currently trading slightly below its short‑term average, signaling mild bearish pressure. The latest price at **63.7 USD** is under the **20‑period SMA (64.38)**, which suggests sellers have the upper hand in the very short term. With the **24‑hour range** showing limited volatility (64.91 high vs 63.58 low), momentum appears subdued. The absence of a clear RSI reading complicates strength assessment, but the weak price action hints at slowing upside interest.\n\nThe **MACD value of –0.2493** reflects bearish momentum, even without a published signal line. A negative MACD in this context often implies that recent price movements are lagging behind the longer‑term trend average, which can be a signal that downward pressure persists. Traders may interpret this as confirmation of a short‑term downtrend unless a strong catalyst pushes prices above the SMA. Watch for any MACD cross toward positive territory for early signs of reversal.\n\nKey technical levels remain important. Initial support can be found near **62.00**, where buyers historically stepped in during prior pullbacks. A break below this zone could open a slide toward **60.00–59.50**, which may offer a deeper value area for larger buyers. On the upside, immediate resistance aligns with the SMA at **64.38**, followed by a psychological barrier around **66.00**. Strength above these levels would help neutralize near‑term bearish bias.\n\nFor traders, a cautious approach makes sense in the current environment. Short‑term traders might consider scaling into long positions closer to established support, keeping tight stops in case volatility picks up. Conversely, breakout traders could watch for a move above **64.50–65.00** to confirm renewed bullish momentum. Risk management with clearly defined stop‑loss levels remains essential given the current lack of strong directional conviction."
+    }
+  }
+}
