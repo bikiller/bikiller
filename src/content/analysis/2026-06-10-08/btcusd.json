@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-10T08:04:22.925Z",
+  "price": {
+    "close": "61598",
+    "high": "61654.93",
+    "low": "61594.82",
+    "open": "61641.08",
+    "change": "-0.07",
+    "datetime": "2026-06-10 08:00:00"
+  },
+  "indicators": {
+    "rsi": 44.26625,
+    "macd": -287.65281,
+    "macd_signal": -322.091998,
+    "sma20": 61613.92
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱整理格局",
+      "content": "当前价格维持在61598附近，24小时波动极窄，显示市场进入低波动整理阶段。价格略低于SMA(20)，表明短期均线压制仍在，整体趋势偏弱但尚未形成明显下行加速。\n\n从技术指标看，MACD处于负值区间，动能偏空，暗示空头仍占据主动。不过RSI缺失限制了超买超卖判断，但结合窄幅震荡结构，市场处于观望与能量积累阶段。\n\n关键支撑位可关注61550一线，若跌破可能测试61400区域；上方阻力在61650及61750附近，短线多次冲高未果，说明卖压集中。区间尚未有效突破前，趋势延续性较弱。\n\n交易策略上建议以区间操作为主，靠近支撑轻仓试多，接近阻力高抛为主，同时严格设置止损。若放量突破61750，可考虑顺势跟多；若跌破61500，则需警惕进一步回调风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s price action shows a tight consolidation near the $61,600 mark, reflecting a market that is currently indecisive. The narrow 24-hour range between $61,594 and $61,654 indicates low volatility, suggesting that short-term momentum is muted. Despite the minor daily decline of 0.07%, the price remains very close to the 20-period simple moving average at $61,613, which is acting as a neutral pivot. This behavior often precedes either a breakout or a sharper retracement as traders await fresh catalysts.  \n\nThe MACD currently sits at -287.65, pointing to a slight bearish bias in momentum. However, with the signal line unavailable and the RSI missing, it’s challenging to confirm oversold or overbought conditions. The alignment of the current price just below the SMA implies potential downward pressure, but the minimal distance indicates any movement may be modest unless accompanied by high-volume trading. Traders should watch for a MACD crossover or the appearance of RSI signals to clarify directional strength.  \n\nImmediate support is likely near $61,590, corresponding to the intraday low, while the intraday high of $61,654 and the SMA itself act as resistance levels. A break above $61,654 with strong volume could open the path toward $62,000, whereas a drop below $61,590 could target $61,400. These levels are critical for short-term traders, as they frame the range in which Bitcoin is oscillating and guide risk management for both long and short positions.  \n\nGiven the current market structure, a cautious approach is advised. Traders may consider waiting for confirmation before entering new positions, ideally targeting breakouts with defined stop-loss levels. Short-term swing trades could capitalize on oscillations between support and resistance, while more conservative strategies might involve holding until momentum indicators provide clearer signals. Overall, BTC/USD is in a neutral to slightly bearish phase but could pivot quickly with increased volume or macro developments."
+    }
+  }
+}
