@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-10T19:46:24.261Z",
+  "price": {
+    "close": "61953.01",
+    "high": "62007.64",
+    "low": "61606.52",
+    "open": "61818.9",
+    "change": "0.22",
+    "datetime": "2026-06-10 19:00:00"
+  },
+  "indicators": {
+    "rsi": 51.39423,
+    "macd": -2.40675,
+    "macd_signal": -97.41895,
+    "sma20": 61646.1725
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘偏多震荡",
+      "content": "当前BTC/USD维持在$61953.01附近，价格略高于20日均线SMA(20) $61646，显示短期仍有支撑。MACD为-2.40675且无信号线参考，暗示多空力量略偏空，但未出现明显拐点，行情处于盘整状态，短线趋势仍偏多震荡。\n\n支撑位方面，短期关注$61600附近的心理关口及SMA(20)支撑，如失守可能加速回调至$61200附近。阻力位则在$62000至$62200区间，若价格突破此区，可能带动短线上攻至$62500。整体波动幅度收窄，显示多空双方暂时均未掌控主导权。\n\n技术指标方面，RSI数据缺失，无法直接判断超买超卖情况，但结合MACD与均线，可判断市场买盘略强于卖盘。若后续MACD转正并配合价格站上$62200阻力位，则趋势有望转向短线多头。\n\n交易建议上，短线可在$61650附近布局多单，止损放在$61400，下方遇支撑可加仓；上方突破$62200可考虑顺势追多，若价格回落至支撑下方则应谨慎减仓或观望，避免追高带来的风险。整体策略以区间震荡为主，关注关键均线和阻力支撑的反应。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has maintained a mildly bullish stance, trading around $61,953 with a 24-hour gain of 0.22%. Price action remains constrained within a tight range, marked by a high of $62,007 and a low of $61,606, suggesting consolidation near the short-term 20-period SMA at $61,646. This SMA alignment implies the market is hovering near its recent equilibrium, and momentum is limited. Traders should watch for a breakout above $62,100 to confirm bullish continuation, while support near $61,600 remains critical.\n\nThe MACD reading of -2.40675 indicates slight bearish pressure, though the absence of a signal line limits conclusive trend confirmation. Price hovering above the SMA despite negative MACD hints at a potential divergence, suggesting buyers are stepping in around support levels. Once a MACD crossover occurs, either above zero for bullish validation or further downward for confirmation of weakness, clearer directional guidance will emerge.\n\nSupport is concentrated around $61,600, reinforced by the SMA and previous intraday lows, while immediate resistance lies near $62,000–$62,100, forming a narrow trading band. A failure to breach resistance could result in retesting support, making $61,600 a decisive level for risk management. Traders should consider tight stop-loss placement below this support to mitigate downside risk while scaling into positions on confirmation of strength.\n\nShort-term trading strategies favor measured long entries on pullbacks toward $61,600 with upside targets toward $62,000–$62,100. Conservative traders may await a breakout above resistance for clearer bullish validation before initiating fresh positions. Conversely, a breakdown below SMA support could signal an opportunity for tactical shorts, with careful monitoring of intraday price dynamics to manage volatility and preserve capital. Overall, market behavior suggests cautious optimism with limited near-term directional conviction."
+    }
+  }
+}
