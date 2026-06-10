@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-10T21:14:13.005Z",
+  "price": {
+    "close": "1617.66",
+    "high": "1630.93",
+    "low": "1617.53",
+    "open": "1630.75",
+    "change": "-0.83",
+    "datetime": "2026-06-10 21:00:00"
+  },
+  "indicators": {
+    "rsi": 38.81665,
+    "macd": -5.43168,
+    "macd_signal": -5.040034,
+    "sma20": 1633.324
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短线偏空震荡下行",
+      "content": "当前ETH/USD报1617.66，价格位于20日均线1633.32下方，显示短期趋势仍偏弱。过去24小时跌幅为0.83%，且价格接近当日低点1617.53，说明空头力量在盘中占据主导，市场情绪相对谨慎。\n\n从技术指标来看，MACD数值为-5.43，处于零轴下方，表明市场动能仍偏空。虽然RSI数据暂缺，但结合价格持续运行于均线下方以及MACD负值状态判断，当前尚未出现明确的趋势反转信号，空头结构仍需重点关注。\n\n关键价位方面，短线支撑位位于1617附近，若跌破该区域，可能进一步测试1600整数关口。上方首个阻力位关注1630-1633区域，即日内高点与20日均线重合位置；若有效突破，则有望向1650附近展开反弹。\n\n交易策略上，激进交易者可关注反弹至1630-1635区域后的压力表现，寻找顺势做空机会；稳健投资者则建议等待价格重新站稳20日均线后再考虑布局多单。当前市场处于弱势整理阶段，应严格控制仓位，并设置合理止损以防波动放大。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum has been trading in a mild short-term downtrend, currently hovering around $1617.66, just below its 20-period SMA at $1633.32. The slight dip from the 24-hour high of $1630.93 suggests resistance near the SMA is holding for now. Price action remains range-bound, with the immediate support at $1617.50 acting as a short-term floor. Traders should watch for a decisive break above the SMA to signal potential bullish continuation, or a drop below support for a bearish extension.\n\nThe MACD reading of -5.43 indicates bearish momentum is still present, though the absence of a signal line limits full confirmation. This negative divergence signals sellers are exerting more influence than buyers in the current session. Given the RSI is unavailable, caution is advised for overbought/oversold interpretations, but the downward MACD momentum suggests that consolidation or a pullback phase may persist before any strong recovery.\n\nKey support levels to monitor include the recent low at $1617.50, with secondary support around $1600, providing a potential entry point for buyers seeking lower-risk positions. Resistance is currently near $1633 and extends to $1650, which aligns with prior swing highs and the SMA. A break above these levels could trigger short-term bullish momentum, whereas failure to breach resistance may reinforce the current consolidation zone.\n\nFor trading strategies, short-term traders might consider cautious long positions near support, with tight stops just below $1615 to manage downside risk. Momentum traders could look for a confirmed MACD crossover or SMA breakout before initiating positions. Overall, ETH/USD is in a delicate balance between minor bearish pressure and potential bullish reversal, emphasizing careful position sizing and risk management in the current environment."
+    }
+  }
+}

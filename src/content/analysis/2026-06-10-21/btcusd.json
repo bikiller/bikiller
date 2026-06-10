@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-10T21:13:27.825Z",
+  "price": {
+    "close": "61463.62",
+    "high": "61740.81",
+    "low": "61456.03",
+    "open": "61738.38",
+    "change": "-0.45",
+    "datetime": "2026-06-10 21:00:00"
+  },
+  "indicators": {
+    "rsi": 44.24115,
+    "macd": -43.54736,
+    "macd_signal": -74.30652,
+    "sma20": 61625.2955
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期横盘偏弱震荡",
+      "content": "当前BTC/USD价格徘徊在61463.62美元附近，较24小时微跌0.45%，显示市场短期缺乏明确方向。日内高低点差距不大，表明买卖双方力量相对均衡，但整体呈现轻微下行压力。价格略低于20日均线SMA(20)=61625.30美元，暗示短线偏弱。  \n\nMACD指标处于-43.55，虽然信号线数据缺失，但负值显示空方动能占优。RSI未提供，但结合价格走势与均线位置，可推测超买风险不大，市场处于调整期。当前价格在SMA附近可能出现支撑，但若跌破61450美元，可能触发进一步下探。  \n\n短线支撑位主要关注61450和61200美元，阻力位则在61740和62000美元附近。若价格站稳61740上方，有望回测62000至62200美元区间，但若连续跌破支撑，则下行空间可能延伸至61000美元。投资者需留意关键支撑压力位的反应。  \n\n交易策略上，建议短线操作以区间震荡为主，逢低轻仓买入，逢高可考虑减仓或止盈。中线投资者应等待明确突破信号后再入场，避免追高或逆势加仓，控制仓位与风险敞口，保持资金灵活性以应对行情波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a mildly bearish bias in the short term, hovering just below the 20-day SMA at $61,625. The slight drop of 0.45% over the last 24 hours, coupled with the high/low range of $61,456–$61,740, suggests market indecision. Price action indicates consolidation near a key support zone, hinting at potential accumulation before a decisive move. Traders should monitor the $61,400–$61,450 area as initial support, while $61,750–$61,800 acts as immediate resistance.\n\nThe MACD value of -43.54736 signals that bearish momentum is prevailing, despite the absence of the signal line for confirmation. While the RSI is unavailable, the current price position relative to the SMA indicates a mild downward pressure. The negative divergence in momentum suggests cautious positioning; buyers may wait for a more concrete bullish signal, whereas sellers might target short-term retracements.\n\nSupport levels are crucial around $61,450 and further down near $61,200, providing potential entry points for buyers if the price tests these zones. Resistance near $61,750–$61,800 could trigger profit-taking or short-term pullbacks. A breakout above this resistance with volume could signal a bullish resumption, whereas a break below support might extend the corrective phase toward $61,000.\n\nIn terms of trading strategy, short-term traders could adopt a range-bound approach, capitalizing on swings between support and resistance. Conservative investors may wait for confirmation above the 20-day SMA and a MACD crossover before initiating long positions. Stop-loss orders around $61,200–$61,400 would help manage downside risk, while targeting the upper $61,700–$61,800 zone for potential upside moves aligns with current technical conditions."
+    }
+  }
+}
