@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-10T14:00:49.441Z",
+  "price": {
+    "close": "1652.28",
+    "high": "1667.83",
+    "low": "1632.51",
+    "open": "1635.46",
+    "change": "1.03",
+    "datetime": "2026-06-10 13:00:00"
+  },
+  "indicators": {
+    "rsi": 54.4526,
+    "macd": -6.8677,
+    "macd_signal": -9.029253,
+    "sma20": 1638.3215
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏多趋势",
+      "content": "近期以太坊价格在1632.51至1667.83区间波动，最新报1652.28，显示市场仍处于短期震荡状态。虽然价格略高于20日简单移动平均线(SMA20=1638.32)，表明多头力量存在，但涨幅有限，行情偏向盘整修正。\n\nMACD指标为-6.8677且信号线数据缺失，提示多空动能仍偏弱，多头尚未完全启动。缺乏RSI数值使超买超卖判断不明确，但从价格和均线关系看，短线仍有支撑，尤其是1638附近SMA20，可视为第一支撑位。\n\n阻力方面，近期高点1667.83构成明显压力，如果突破此位并伴随成交量放大，行情有望进一步上探1680~1700附近。若价格回落，短线支撑可关注1640及1625区域，以防止回调过深。\n\n综合来看，短线交易策略可采取低位逢低多、控制仓位为主，同时关注高点阻力的突破信号。谨防行情快速反转，建议设好止损在1630下方，以降低风险并把握短期多头机会。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum (ETH) is currently trading at $1,652.28, showing a moderate upward movement of 1.03% over the past 24 hours. The intraday range between $1,632.51 and $1,667.83 indicates a relatively tight consolidation, suggesting that buyers are gradually stepping in near the $1,632 support. Short-term momentum appears cautiously bullish, with price holding above the 20-period SMA at $1,638.32, a key indicator that the immediate trend favors accumulation over liquidation.\n\nThe MACD value of -6.86770, while negative, shows potential for a gradual recovery if momentum builds, as the histogram nears a flattening zone. Although the signal line is not available, the price trading above the 20-day SMA adds a bullish tilt. Market sentiment remains tentative, and traders should monitor for a crossover or acceleration in MACD to confirm a more robust upward move. RSI data absence limits overbought or oversold interpretation, so relying on price-action support and resistance becomes essential.\n\nKey support lies at $1,632, reinforced by both the recent low and the SMA acting as dynamic support. Immediate resistance is near $1,668, aligning with the daily high and short-term consolidation ceiling. A sustained breakout above this level could open a path toward $1,680–$1,690, while a failure to hold $1,632 might expose ETH to further downside toward $1,620–$1,615. These levels are critical for managing risk and setting strategic entry or exit points.\n\nFor traders, a cautious long bias may be appropriate, favoring positions above $1,638 with stop-loss near $1,632 to manage downside risk. Short-term scalpers could target $1,668–$1,675, while conservative investors may wait for clearer MACD confirmation and a breakout beyond resistance. Monitoring intraday volume and price behavior around these technical thresholds will provide early signals for trend continuation or reversal, helping to optimize entries and exits in the current consolidation phase."
+    }
+  }
+}
