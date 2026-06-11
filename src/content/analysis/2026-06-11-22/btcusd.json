@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-11T23:00:24.361Z",
+  "price": {
+    "close": "63483.3",
+    "high": "63617.75",
+    "low": "63395.58",
+    "open": "63464.01",
+    "change": "0.03",
+    "datetime": "2026-06-11 22:00:00"
+  },
+  "indicators": {
+    "rsi": 62.58045,
+    "macd": 351.47195,
+    "macd_signal": 313.34343,
+    "sma20": 62976.656
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：价格维持盘整，短期多空均衡",
+      "content": "近期比特币价格在$63,483附近小幅波动，日内涨幅仅0.03%，显示市场短期缺乏明确方向。高低点区间$63,395–$63,617反映出多空力量暂时均衡，整体呈现窄幅整理格局。\n\n技术指标方面，20日简单移动均线(SMA20)位于$62,976，价格高于均线，暗示短期偏多；MACD为正值351.47，但缺乏信号线确认，短期趋势尚不明朗；RSI未提供，无法判定超买超卖状态，需关注后续动能变化。\n\n支撑位初步在$63,000附近，若跌破可能加速回调至$62,500；阻力位在$63,600–$63,700区间，突破将有望挑战$64,000关口。投资者应关注价格与均线的互动，以及MACD后续交叉信号，以捕捉潜在趋势反转。\n\n交易策略上，短线可考虑区间震荡操作，低位可适度建多，临近阻力位减仓或获利了结；中长线投资者宜耐心等待趋势确认后再加仓，同时控制仓位与设置止损，防范快速回撤风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing a cautious consolidation around $63,483, with price action tightly bound between the daily high of $63,617 and low of $63,395. The short-term trend remains bullish, as the price sits above the 20-period simple moving average at $62,976, signaling buyers retain modest control. The narrow daily range suggests reduced volatility, possibly reflecting a temporary equilibrium between bulls and bears ahead of broader market direction.\n\nThe MACD value of 351.47, though lacking a signal line comparison, indicates underlying bullish momentum. Without a full MACD histogram, it is difficult to gauge the strength of the trend, but the positive divergence from the SMA supports a continuation bias. Traders should monitor any crossover events if the signal line data becomes available, as such moves often precede acceleration or reversal phases in BTC/USD.\n\nSupport levels are evident near $62,975–$63,000, coinciding with the SMA zone and previous intraday lows. Resistance is immediately at the $63,600–$63,650 range, where sellers previously capped upward moves. Breaching this area decisively could open the path to $64,000, while a breakdown below the SMA support may test $62,500. These zones can serve as tactical entry or exit points for swing traders managing risk.\n\nGiven current conditions, short-term traders might adopt a cautious long stance, leveraging dip-buying opportunities near the SMA while maintaining tight stops below support. More aggressive traders could await a breakout above $63,650 to confirm bullish continuation. Overall, the market exhibits subdued volatility, suggesting patient positioning with a focus on risk management until a clearer directional bias emerges."
+    }
+  }
+}
