@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-11T12:56:33.311Z",
+  "price": {
+    "close": "62883.94",
+    "high": "63126.56",
+    "low": "62437.51",
+    "open": "63043.99",
+    "change": "-0.25",
+    "datetime": "2026-06-11 12:00:00"
+  },
+  "indicators": {
+    "rsi": 61.31514,
+    "macd": 308.39416,
+    "macd_signal": 221.95078,
+    "sma20": 62262.231
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，关注支撑与压力测试",
+      "content": "当前比特币价格徘徊于62883.94美元附近，较24小时内微幅下跌0.25%，短期呈现震荡整理态势。价格仍高于20日均线SMA(20)=62262.23美元，显示多头仍占主导，但上行动能略显不足，需关注价格是否能稳住均线支撑。\n\nMACD值为308.39，虽缺乏信号线对比，但正值表明整体多头偏强，但考虑近期涨幅已较大，潜在背离风险存在。若RSI可用，可进一步验证超买或超卖状态，辅助判断短期反转可能性。\n\n技术上，短期支撑位可参考62437.51美元附近的低点，若跌破可能引发短线回调；阻力位在63126.56美元高点，突破将有望打开上行空间。均线及关键支撑位形成的区域震荡，提示市场短期仍以区间操作为主。\n\n交易策略上，建议投资者关注低位支撑附近的轻仓布局机会，止损设置略低于62400美元；若价格突破前高，可考虑适量加仓以捕捉上行空间。短线交易者应注意波动风险，避免追涨杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 62,884, holding above its 20-day simple moving average at 62,262. This positioning suggests that the short-term trend remains constructive despite the modest 24-hour decline. The market has recently fluctuated between 62,438 and 63,127, indicating consolidation rather than a decisive directional move. As long as price remains above the SMA(20), buyers retain a slight advantage, although momentum appears to be moderating after previous gains.\n\nThe available MACD reading of 308.39 remains firmly positive, which generally reflects bullish underlying momentum and supports the view that the broader trend has not yet reversed. However, without the accompanying signal line and RSI data, confirmation of momentum strength is somewhat limited. Even so, a positive MACD at this magnitude typically indicates that medium-term buyers remain active and that pullbacks may continue to attract demand rather than trigger aggressive selling.\n\nFrom a technical perspective, immediate support is located around 62,400, corresponding closely to the recent session low. A deeper support zone can be identified near the SMA(20) around 62,260. On the upside, resistance appears near 63,100–63,150, where recent advances stalled. A sustained breakout above this area could open the path toward higher psychological targets, while a breakdown below 62,250 would weaken the current bullish structure and increase the probability of a broader corrective move.\n\nFor traders, patience may be preferable while price remains trapped within the current range. Conservative participants could look for bullish confirmation on a close above 63,150 before targeting higher levels. More aggressive traders may consider buying near support zones with disciplined risk management below recent lows. Conversely, short positions become more attractive only if Bitcoin decisively loses the 62,250 area, signaling that sellers are gaining control of short-term market direction."
+    }
+  }
+}
