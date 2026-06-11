@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-11T17:04:08.816Z",
+  "price": {
+    "close": "1640.26",
+    "high": "1642.28",
+    "low": "1640.25",
+    "open": "1640.6",
+    "change": "-0.02",
+    "datetime": "2026-06-11 17:00:00"
+  },
+  "indicators": {
+    "rsi": 45.54011,
+    "macd": 1.25307,
+    "macd_signal": 2.99615,
+    "sma20": 1647.8705
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：短期震荡偏弱整理",
+      "content": "当前以太坊价格位于$1640.26，较24小时微幅下跌0.02%，显示短期内多空力量相对均衡。从SMA(20) $1647.87来看，价格位于均线下方，短线偏弱，但跌幅有限，暗示市场处于震荡整理阶段。\n\nMACD数值1.25307表明多头略有力量，但由于信号线未提供，趋势确认不足。若MACD进一步走强并突破信号线，可视为上行动能增强。RSI缺失使超买超卖判断不明确，因此需结合价格行为观察短期支撑压力。\n\n关键支撑位初步落在$1640附近的日内低点，而阻力位则在SMA(20) $1647-1650区间。若价格跌破支撑，则可能进一步测试$1635-1630；反之，突破阻力则有望挑战$1655以上。\n\n交易策略上，短线投资者可考虑低位小幅做多、严格设置止损，避免追高；中长线投资者则可保持观望，等待明确趋势信号后再介入，以控制风险并提高入场成功率。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is currently exhibiting a compressed, low-volatility structure around 1640, with price action hugging the session low. The negligible 24-hour change reflects equilibrium between buyers and sellers. However, trading below the 20-period SMA at 1647.87 suggests a mild bearish bias, with momentum lacking conviction for a sustained upside move. Market participants appear to be awaiting a catalyst for directional expansion from this tight consolidation range.\n\nIndicator signals remain mixed, though slightly constructive. MACD at 1.25307 suggests residual bullish momentum, yet absence of a signal line limits confirmation of trend strength. Without RSI, momentum gauging is incomplete, but price behavior implies neutral-to-weak conditions. The divergence between MACD positivity and price trading below SMA20 indicates fading upward pressure and potential for continued consolidation or mild retracement unless volume increases decisively.\n\nImmediate support is established near 1640, aligning with the current session low and psychological floor. A break below may expose 1635 and subsequently 1620 as the next liquidity zones. On the upside, initial resistance sits at 1647.87, the 20-period SMA, followed by stronger barriers near 1655 and 1660. Price remains tightly compressed between support and short-term moving average resistance, reinforcing a range-bound structure.\n\nTrading strategy favors range-bound approaches until breakout confirmation emerges. Long positions may be considered near 1640 support with tight risk controls, targeting a move toward 1647–1655 resistance. Conversely, short setups could be explored if price rejects the SMA20 and fails to reclaim 1645. A decisive break above 1650 would signal renewed bullish momentum, while sustained loss of 1640 would shift bias bearish."
+    }
+  }
+}
