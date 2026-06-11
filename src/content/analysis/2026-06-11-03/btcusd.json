@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-11T03:31:02.603Z",
+  "price": {
+    "close": "62039.42",
+    "high": "62113.99",
+    "low": "61929.8",
+    "open": "62066.99",
+    "change": "-0.04",
+    "datetime": "2026-06-11 03:00:00"
+  },
+  "indicators": {
+    "rsi": 53.83194,
+    "macd": 12.37929,
+    "macd_signal": -45.89007,
+    "sma20": 61736.9535
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理偏多趋势",
+      "content": "目前BTC/USD价格维持在62000美元附近，短期内呈现横向整理格局。价格略高于20日简单移动平均线SMA(20)=61736.95，显示市场仍保持轻微多头倾向，但24小时价格变动仅-0.04%，表明短期动力不足，震荡整理特征明显。\n\nMACD指标为12.37929，尽管信号线数据不可用，但MACD数值正向，暗示中短期多头动能尚存，但缺乏明确交叉信号，需关注潜在趋势反转的风险。相对强弱指数RSI暂不可用，短线超买超卖状况需等待进一步数据确认。\n\n支撑位可参考近期低点61929.8，若价格跌破此位置，短期多头或受压制；阻力位位于高点62113.99附近，如能有效突破，可能引发进一步上攻。SMA20支撑仍在61700附近，为短线调整提供缓冲。\n\n交易策略上，建议以短线震荡区间操作为主，多头可在接近支撑位时考虑低吸，止损控制在61800以下；高位阻力附近可适度减仓，等待确认突破后再追多。整体来看，市场偏多但谨慎，控制仓位和风险管理是关键。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 62,039, holding modestly above its 20-period simple moving average at 61,737. This positioning suggests a mildly bullish short-term structure despite the negligible 24-hour decline of 0.04%. Price action remains compressed within a narrow intraday range between 61,930 and 62,114, indicating a period of consolidation rather than a decisive directional move. As long as BTC remains above the SMA(20), buyers retain a slight technical advantage.\n\nMomentum indicators provide a cautiously constructive outlook. The available MACD value of 12.38 remains positive, which generally reflects underlying bullish momentum and suggests that upward pressure has not fully dissipated. However, without the accompanying signal line and RSI reading, confirmation is limited. The lack of strong volatility and the narrow trading band imply that traders are waiting for a catalyst before committing to a larger directional move.\n\nFrom a technical perspective, immediate support is located near the session low around 61,930, followed by stronger support in the 61,700–61,750 region where the SMA(20) is positioned. A sustained break below these levels could expose BTC to additional downside pressure. On the upside, resistance is evident near 62,114, with a more significant breakout zone around 62,300–62,500. A decisive move above resistance could attract momentum buyers and accelerate gains.\n\nFor traders, patience may be warranted while the market remains range-bound. Conservative participants may look for confirmation through a breakout above resistance before initiating long positions. Aggressive traders could consider buying near support with tight risk controls, targeting a move toward higher resistance zones. Conversely, a breakdown below the moving average would weaken the current structure and may justify a more defensive stance. Risk management remains essential, as consolidation phases often precede sharp volatility expansions."
+    }
+  }
+}
