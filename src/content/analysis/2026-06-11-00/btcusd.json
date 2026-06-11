@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-11T00:03:43.496Z",
+  "price": {
+    "close": "61558.01",
+    "high": "61558.01",
+    "low": "61449.47",
+    "open": "61449.47",
+    "change": "0.18",
+    "datetime": "2026-06-11 00:00:00"
+  },
+  "indicators": {
+    "rsi": 46.84938,
+    "macd": -98.17998,
+    "macd_signal": -85.9574,
+    "sma20": 61632.513
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡整理，关注支撑反弹",
+      "content": "当前比特币价格在$61558附近横盘整理，短线涨跌幅度有限，仅0.18%，显示市场多空力量暂时平衡。价格略低于20日均线SMA(20)61632.5，短期均线呈微弱压制态势，表明上行动力略显不足，但仍有反弹空间。\n\nMACD指标为-98.18，显示空方力量仍存在，但未出现明显拐点。由于RSI未提供，超买超卖情况暂不明确，但结合价格维持高位震荡，可视为市场谨慎态度。投资者应留意MACD零轴附近可能的反转信号。\n\n支撑位方面，短线关注61450附近的前低支撑区，如价格跌破该水平，下方可能寻求更低支撑61800至61000区间。阻力位主要在61650-61700，若突破则有望向62000尝试。整体结构仍呈区间整理，短线操作应谨慎。\n\n交易建议：保持短线观望为主，区间低吸高抛策略为宜。可在支撑附近适量布局多单，止损控制在支撑下方50-100美元。若价格有效突破阻力位，可考虑顺势加仓，但需警惕假突破风险，严格设置止盈和止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is showing signs of near-term consolidation after hovering around $61,558. The price has remained tightly bound between a daily low of $61,449 and the current level, suggesting limited volatility and potential equilibrium in market sentiment. The slight positive 24-hour change of 0.18% indicates cautious bullishness, although the inability to decisively breach the 20-day simple moving average at $61,632 signals sellers are active near this resistance.\n\nTechnical indicators provide a mixed view. The MACD at -98.18 suggests bearish momentum is still present, though without a corresponding signal line value, the exact trend shift timing is unclear. The absence of an RSI reading prevents a definitive overbought or oversold assessment, yet the price hovering just below the SMA(20) hints at mild resistance and the potential for either a retracement or sideways drift until buying pressure strengthens.\n\nKey support lies near $61,450, with secondary support around $61,200, forming a zone where buyers may re-enter to stabilize the market. Resistance is concentrated at $61,632, followed by a more significant barrier near $61,800. Traders should watch for a breakout above these levels for confirmation of bullish momentum or a breakdown below support for a deeper correction. Intraday strategies may favor range-bound trading while momentum indicators remain inconclusive.\n\nIn terms of trading suggestions, cautious participants might consider waiting for a clearer directional signal or a close above the SMA(20) before committing to long positions. Short-term traders could exploit minor swings between support and resistance, employing tight stops to manage risk. Longer-term investors may focus on accumulating on dips closer to $61,200–$61,450, balancing potential upside against the risk of short-term volatility. Patience and disciplined risk management remain crucial in this environment."
+    }
+  }
+}
