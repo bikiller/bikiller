@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-11T15:51:13.005Z",
+  "price": {
+    "close": "62579.99",
+    "high": "62819.99",
+    "low": "62467.14",
+    "open": "62657.76",
+    "change": "-0.12",
+    "datetime": "2026-06-11 15:00:00"
+  },
+  "indicators": {
+    "rsi": 53.44732,
+    "macd": 256.8646,
+    "macd_signal": 252.59427,
+    "sma20": 62396.2245
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整，关注关键支撑与阻力",
+      "content": "当前比特币价格在62579.99美元附近微幅下跌0.12%，日内波动幅度有限，显示市场短期处于盘整状态。价格接近20日简单移动平均线(SMA20)62396.22美元，短期均线支撑明显，说明多头仍具一定防守能力，但上行动能有限。\n\nMACD当前值为256.86，未提供信号线对比，提示短期趋势判断需谨慎。若MACD持续高位震荡，则市场可能延续横盘整固特征；若出现背离，则可能预示短期调整风险增加。RSI数据缺失，需要关注后续动能变化，以辅助超买或超卖判断。\n\n技术面上，近期支撑位主要集中在62300-62400美元附近，若失守该区域，可能触发进一步下探至62000美元的弱支撑。阻力位则位于62800-63000美元上方，突破后有望测试近期高点63500美元。成交量需持续关注，量能放大突破阻力更具有效性。\n\n交易策略上，建议短线交易者关注支撑区域的买入机会，同时在接近阻力区可考虑减仓或观望。中长线投资者可保持仓位，但需设好止损，控制风险。总体来看，市场短期偏向盘整，操作应以灵活应变为主，避免追高或盲目加仓。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a relatively neutral trend near the $62,580 mark, with the 24-hour price change indicating minimal downward movement. The latest high and low, $62,820 and $62,467 respectively, suggest that BTC/USD is consolidating within a tight range, highlighting short-term indecision. The price hovering just above the 20-period simple moving average at $62,396 provides a mild support reference, indicating that buyers may step in if the market tests this level.\n\nThe MACD reading at 256.86 suggests some bullish momentum, although the absence of a signal line value limits a complete interpretation. In general, a positive MACD points to potential upward pressure, but confirmation via trend-following or momentum indicators like RSI would help clarify strength. Traders should monitor for MACD crossovers or divergence patterns for early signs of trend shifts, especially in a consolidating market.\n\nSupport levels are currently observed near $62,400, aligning with the 20-period SMA, while resistance resides around $62,820, coinciding with the recent intraday high. A breakout above this resistance could open the door to higher targets in the mid-$63,000 range, whereas a breach below the SMA may expose BTC to a retest of $62,200 and possibly $62,000, which are psychologically significant levels.\n\nFrom a trading perspective, cautious range-bound strategies may be optimal in the current environment. Short-term traders might consider buying near support with tight stop-losses below the SMA and targeting recent highs, while breakout traders could await a confirmed move above $62,820. Given the minimal daily movement, risk management remains crucial, as sudden volatility could challenge positions in either direction."
+    }
+  }
+}
