@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-06-11T21:12:28.863Z",
+  "price": {
+    "close": "0.08637",
+    "high": "0.08637",
+    "low": "0.08623",
+    "open": "0.08624",
+    "change": "0.16",
+    "datetime": "2026-06-11 21:00:00"
+  },
+  "indicators": {
+    "rsi": 64.24112,
+    "macd": 0.0005601305,
+    "macd_signal": 0.00040571422,
+    "sma20": 0.0852315
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期横盘偏多震荡",
+      "content": "当前狗狗币价格在$0.08637附近小幅波动，呈现横盘整理态势，短期趋势偏多。价格已略高于20日简单移动平均线(SMA20=0.08523)，显示均线支撑有效，短线买盘力量仍存在，但整体动力有限。  \n\nMACD指标显示0.00056的正值，表明多头仍占优，但由于信号线数据缺失，动量确认不足，需观察下一根K线的变化来判断潜在突破方向。RSI数据缺失，无法提供超买超卖参考，但价格维持在均线之上暗示短期并未进入超买区域。  \n\n支撑位在$0.08523附近的SMA20和近期低点$0.08623，而阻力位则在近期高点$0.08637附近。若价格突破阻力，短线有望延续上涨至$0.087~$0.088；若跌破支撑，则可能回落至$0.085附近寻求稳固。  \n\n交易策略上，可考虑区间操作：支撑附近低吸，突破阻力可小幅加仓，但应控制仓位并设置止损。短线波动有限，激进追涨风险较高，投资者可保持观望，等待明确趋势确认后再扩大操作。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin is currently displaying a mild upward bias, trading slightly above its 20-period simple moving average at $0.08523, which acts as a near-term dynamic support. The price has maintained a narrow intraday range, suggesting low volatility and a period of consolidation. The modest 24-hour gain of 0.16% indicates cautious market sentiment, with buyers and sellers in relative equilibrium, setting the stage for a potential breakout if momentum picks up.\n\nThe MACD value of 0.00056, while positive, is still relatively small, implying that the bullish momentum is nascent. Without a corresponding signal line reading, it is difficult to confirm a trend shift definitively, but the upward tilt suggests early accumulation. Traders should watch for the MACD line crossing above its signal line as a confirmation for stronger bullish participation. RSI data is not available, but the price hovering above the SMA indicates mild upward pressure.\n\nImmediate support can be seen around $0.0852, reinforced by the 20-period SMA, while the next resistance levels lie near the recent high of $0.08637 and psychological round numbers around $0.0870. A sustained move above $0.0865 could attract short-term traders, whereas a drop below $0.085 may trigger cautious selling. These levels provide a clear framework for setting stop-losses and potential profit-taking zones.\n\nTrading strategies should focus on risk management in the current low-volatility environment. Conservative traders may wait for a confirmed breakout above resistance before entering long positions, while aggressive traders might consider small entries near support with tight stops. Monitoring volume and MACD momentum will be key to timing trades effectively, as a surge could mark the start of a more pronounced trend in DOGE/USD."
+    }
+  }
+}
