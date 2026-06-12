@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-12T20:55:55.909Z",
+  "price": {
+    "close": "63392.77",
+    "high": "63667.54",
+    "low": "63349.4",
+    "open": "63552.05",
+    "change": "-0.25",
+    "datetime": "2026-06-12 20:00:00"
+  },
+  "indicators": {
+    "rsi": 49.98588,
+    "macd": 155.85179,
+    "macd_signal": 193.5294,
+    "sma20": 63494.2405
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：窄幅震荡偏弱整理",
+      "content": "当前BTC价格围绕63390附近运行，整体处于高位回落后的窄幅震荡格局。价格略低于20日均线，短线动能偏弱，多空博弈加剧。\n\n技术指标方面，MACD仍保持正值，显示中期多头动能未完全消退，但缺乏信号线配合，动能有所衰减。均线压制明显，市场进入整理阶段。\n\n支撑位关注63350一线低点，若跌破可能下探63000整数关口。上方阻力集中在63500及63670前高区域，突破需放量确认。\n\n操作上建议短线区间思路，高抛低吸为主。接近支撑可轻仓试多，跌破则止损离场；反弹至阻力区逐步止盈，整体保持风控优先。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a narrow consolidation phase around 63.3K, reflecting a mild loss of directional momentum over the past 24 hours. Price action remains compressed between intraday highs and lows, indicating reduced volatility. The market is hovering slightly below its 20-period SMA, suggesting short-term hesitation. Overall structure shows a sideways-to-slightly-bearish tone as buyers fail to sustain pushes above recent local highs, keeping the broader trend in a neutral corrective posture.\n\nMACD remains positive at 155.85, indicating that underlying momentum is still marginally bullish, though the lack of a confirmed signal line reading reduces confidence in trend continuation. With price trading just under the SMA(20) at 63,494, short-term momentum is gradually weakening. Without RSI input, overbought or oversold conditions cannot be fully assessed, but price behavior suggests equilibrium, where neither buyers nor sellers have decisive control over direction.\n\nImmediate support is established near the session low at 63,349, a level repeatedly defended during recent trading and likely acting as a short-term floor. A breakdown below this zone could expose the psychological 63,000 region. On the upside, resistance is first encountered at the SMA(20) around 63,494, followed by the intraday high near 63,667. A sustained break above these levels would be required to reestablish upward momentum.\n\nIn the current environment, range-bound strategies are more suitable than directional positioning. Traders may consider buying near support with tight stops or fading moves into resistance until a confirmed breakout emerges. A decisive move above 63,700 would suggest renewed bullish expansion toward higher resistance zones, while a drop below 63,300 would likely shift momentum toward deeper corrective pressure. Careful risk management is essential given the compressed volatility regime."
+    }
+  }
+}
