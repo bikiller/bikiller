@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-12T21:29:09.809Z",
+  "price": {
+    "close": "63493.61",
+    "high": "63597.86",
+    "low": "63401.25",
+    "open": "63409.66",
+    "change": "0.13",
+    "datetime": "2026-06-12 21:00:00"
+  },
+  "indicators": {
+    "rsi": 51.512,
+    "macd": 139.40956,
+    "macd_signal": 182.90071,
+    "sma20": 63501.965
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏中性",
+      "content": "当前BTC/USD报价63493.61，价格围绕20日均线63501.97附近运行，24小时波动区间仅196美元左右，显示市场短线处于窄幅整理状态。整体来看，多空双方暂时均未形成明显突破力量，趋势偏向震荡。\n\n从技术指标观察，现价略低于SMA(20)，表明短期动能有所放缓。MACD数值为139.41，仍处于正值区域，说明中期上涨结构尚未被破坏。不过RSI数据缺失，市场超买或超卖状态暂时无法进一步确认。\n\n关键位置方面，63400附近构成短线第一支撑，若失守则可能回测63200至63000区域。上方阻力首先关注63600一线，突破后有望挑战64000整数关口。当前价格正处于支撑与阻力之间的平衡区域。\n\n交易策略上，激进交易者可关注区间突破机会，站稳63600后顺势看多；若跌破63400则需警惕短线回调风险。稳健投资者宜等待方向明确后再介入，同时严格设置止损，控制仓位风险，避免震荡行情中的频繁交易。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin against the US dollar is currently in a tight consolidation phase following a period of muted volatility. Price action is compressed between 63400 and 63600, indicating equilibrium between buyers and sellers. The lack of directional expansion suggests the market is waiting for a catalyst. Short-term structure remains neutral, with neither bulls nor bears in clear control, while intraday swings continue to shrink around the current midpoint.\n\nBitcoin momentum indicators show a mildly constructive bias, with MACD reading positive at 139.41, suggesting underlying bullish pressure remains intact despite fading strength. However, the absence of a signal line limits confirmation. Price trading slightly below the 20-period SMA at 63501 indicates rejection near short-term average, reinforcing a mean-reversion tone. Overall momentum is flat to slightly bullish, lacking decisive follow-through.\n\nBitcoin faces immediate resistance at 63500–63600, aligned with the 20-SMA and recent intraday highs. A sustained break above 63600 could open room toward 64000. On the downside, initial support sits at 63400, followed by stronger demand near 63200 and psychological support at 63000. The tight range suggests liquidity buildup, making breakout levels particularly important for confirming the next directional move.\n\nBitcoin is best approached with a range-trading mindset until a clear breakout confirms direction. Long positions may be considered near 63400 support with tight stops below 63200, targeting the 63600 resistance zone. Conversely, short setups could emerge on rejection around 63600 with confirmation of failure to hold above SMA20. Risk management remains critical given low volatility, as false breakouts are more likely in compressed market conditions."
+    }
+  }
+}
