@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-12T16:29:31.399Z",
+  "price": {
+    "close": "63813.49",
+    "high": "63952.47",
+    "low": "63460.13",
+    "open": "63552",
+    "change": "0.41",
+    "datetime": "2026-06-12 16:00:00"
+  },
+  "indicators": {
+    "rsi": 57.32798,
+    "macd": 199.91701,
+    "macd_signal": 203.73378,
+    "sma20": 63468.916
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期偏强震荡趋势",
+      "content": "当前比特币价格报63813.49美元，较24小时波动0.41%，显示市场短线保持温和上扬。价格略高于20日简单移动均线SMA(20)=63468.92，表明短期多头力量占优，但整体涨幅有限，行情仍在震荡整理阶段。\n\nMACD指标目前数值为199.92，虽缺少信号线对比，但指数增幅显示多头动能仍在积累。若MACD柱线延续放大，暗示上涨动力可持续，反之若出现回落则可能触发短期调整。缺少RSI数据，需结合成交量和支撑位判断超买超卖状态。\n\n支撑位初步锁定在63460附近，若跌破该区域，可能引发回撤至63200-63000区域；阻力位短期关注63950及64200美元水平，突破后有望挑战64500附近高点。均线结构呈多头排列，短线操作可适度跟随趋势。\n\n交易策略建议：保持短线多单优先，入场可考虑回调至支撑位附近布局，止损控制在63350下方。激进交易者可在突破阻力位时加仓，但需警惕高位震荡风险，合理配置仓位以防快速回撤。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently maintaining a mildly bullish momentum around $63,813, slightly above the 20-period simple moving average at $63,468. This suggests short-term support is holding, and recent price consolidation indicates a potential continuation of the upward trend. Traders should watch for breakouts above the 24-hour high of $63,952, which could signal further upside, whereas a drop below the 24-hour low at $63,460 may trigger short-term corrective pressure.\n\nThe MACD reading of 199.917 points toward bullish sentiment, though the absence of a signal line limits a precise crossover analysis. Typically, a positive MACD aligns with upward momentum, hinting that buyers retain the edge. Despite this, the lack of a Relative Strength Index makes it difficult to gauge overbought or oversold conditions, so price action alone will be key for near-term decision-making. Observing candle patterns and volume spikes could provide additional confirmation.\n\nKey support levels to monitor include $63,468 and $63,000, while resistance sits near $63,950 and $64,200. These zones are crucial for intraday traders seeking tactical entries. A close above resistance with sustained volume could open the door for continued bullish advances, whereas a failure to hold support may encourage profit-taking or short-term selling, particularly if it coincides with broader market volatility.\n\nFor trading, cautious long positions near support, with tight stop losses, could be considered, aiming for incremental gains toward resistance. Conversely, traders might wait for a confirmed breakout above $63,950 before initiating larger long positions. Risk management remains essential, given Bitcoin’s typical volatility, and traders should consider scaling exposure gradually rather than committing fully at a single price level, keeping an eye on global macro factors that could sway market direction."
+    }
+  }
+}
