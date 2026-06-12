@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-12T12:35:38.806Z",
+  "price": {
+    "close": "63458.68",
+    "high": "63697.91",
+    "low": "63369.93",
+    "open": "63685.17",
+    "change": "-0.36",
+    "datetime": "2026-06-12 12:00:00"
+  },
+  "indicators": {
+    "rsi": 54.71475,
+    "macd": 202.90823,
+    "macd_signal": 226.55683,
+    "sma20": 63440.4495
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏多，关注关键支撑与阻力",
+      "content": "当前比特币价格在63458美元附近波动，短期呈现轻微下跌趋势，但整体仍维持在20日均线63440美元之上，显示多头仍占据一定优势。价格在高点63697与低点63369之间波动，暗示市场短期内可能延续区间整理格局。\n\nMACD值为202.91，显示上行动能存在，但未提供信号线数据，需警惕可能的背离。RSI指标缺失，使得超买超卖状态难以判断，但结合价格维持在SMA20上方，可视为多头支撑有效。投资者应关注短期动能是否增强或减弱，以判断趋势延续性。\n\n支撑位可初步设在63370美元附近，如跌破该水平，可能进一步回落至63200美元区域；阻力位在63700美元附近，如突破则有望测试64000美元上方整数关口。该区间震荡特征明显，市场波动幅度有限。\n\n交易建议上，短线可在支撑位附近考虑轻仓多单，止损控制在支撑下方100美元左右；激进投资者可等待阻力位突破确认上行趋势后入场。整体策略偏向顺势操作，警惕短期回调风险，同时关注价格对SMA20的支撑情况。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin’s recent price action around $63,458 suggests a subtle consolidation phase after minor downward pressure. The 24-hour change of -0.36% and a tight high/low range indicate low volatility, with the market likely weighing macro factors and liquidity levels. While the short-term trend appears slightly bearish, the price remaining close to the 20-period SMA at $63,440 reflects a near-equilibrium, hinting at potential sideways movement unless a breakout occurs.\n\nThe MACD at 202.91, although lacking a full signal line for precise crossover interpretation, still implies bullish momentum as long as it remains positive. The RSI is unavailable, but the minimal downward movement suggests Bitcoin isn’t in oversold territory, limiting strong selling pressure. Traders should watch for divergence between price and MACD or sudden swings that could indicate a shift from consolidation into a directional trend.\n\nKey support is likely near $63,370, aligned with the day’s low and the SMA buffer, offering a floor for intraday pullbacks. Resistance resides around $63,700, the recent high, which could challenge bulls attempting to reclaim upward momentum. Breaching this level with volume may open the door to higher targets in the $64,000–$64,300 zone, while a breakdown below support could test lower ranges near $62,900–$63,000.\n\nFrom a trading perspective, a cautious approach is warranted. Range-bound traders could capitalize on the $63,370–$63,700 corridor with tight stops, while trend-followers may await a confirmed breakout or breakdown for entry. Risk management remains crucial, as low volatility can precede sudden spikes. Position sizing should reflect the moderate uncertainty, balancing potential upside with the current consolidative market environment."
+    }
+  }
+}
