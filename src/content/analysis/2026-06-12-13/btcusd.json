@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-12T13:49:52.383Z",
+  "price": {
+    "close": "63100.87",
+    "high": "63457.58",
+    "low": "62964",
+    "open": "63388.3",
+    "change": "-0.45",
+    "datetime": "2026-06-12 13:00:00"
+  },
+  "indicators": {
+    "rsi": 48.19736,
+    "macd": 157.20098,
+    "macd_signal": 211.78736,
+    "sma20": 63413.1005
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期盘整偏空震荡",
+      "content": "当前比特币价格徘徊于63100美元附近，日内小幅下跌0.45%，呈现短期震荡格局。价格位于20日SMA下方，显示短期压力仍在高位，突破63450阻力前，多头动力有限，市场整体偏向观望。\n\nMACD指标显示多空分化仍在延续，主线为157.20，但信号线数据缺失，难以形成明确交叉信号。若价格继续承压SMA20并回落至63000附近，短线空方压力可能加强，投资者需关注趋势延续性与动能衰减。\n\n支撑位方面，下方关键关注62960及62800美元区域，这里曾形成日内低点与短线支撑；阻力位集中在63450与63650美元附近，突破需成交量配合。价格在支撑与阻力区间震荡，短期波动幅度有限。\n\n交易策略上，可考虑在支撑位附近轻仓布局多单，止损控制在62800以下；若价格上破SMA20并稳住在阻力上方，可逐步增加仓位。短线震荡行情中，切勿追高，保持严格风控，关注突破信号确认趋势方向。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating near the $63,100 level after a mild retracement from the recent high of $63,457. The short-term trend remains cautiously bullish as the price hovers above key psychological support levels, although the slight negative movement of -0.45% suggests momentum is weakening. Traders should note that this sideways action could indicate accumulation, with buyers and sellers establishing equilibrium near the 20-period SMA, currently at $63,413, which may act as dynamic resistance.\n\nFrom a technical indicator perspective, the MACD is positive at 157.20, signaling underlying bullish momentum, even though the signal line is not currently provided. The absence of a readable RSI complicates overbought/oversold interpretation, but the proximity to the 20-period SMA suggests limited immediate upside. If the price holds above the mid-$62,900 range, buyers could attempt to push toward the previous high, while a breach below $62,900 might trigger a short-term pullback toward stronger support around $62,500.\n\nKey support and resistance levels are defined clearly by recent intraday action. Immediate support is near $62,964, representing the latest low, while significant resistance is near the daily high at $63,457. A sustained break above this resistance could open a path toward $64,000, whereas a breakdown below support may expose lower ranges around $62,500 to $62,200. Monitoring volume and candle patterns near these levels can provide confirmation for potential trend continuation or reversal.\n\nFor trading considerations, conservative participants may prefer to wait for a decisive breakout above $63,450 before entering long positions, with tight stop-losses around $62,900. Aggressive traders might capitalize on bounces from support, aiming for intraday scalps with a risk-reward favoring 1:2 or 1:3 setups. Overall, the market remains in a cautious bullish mode with consolidation signaling potential short-term volatility, making risk management and adherence to support/resistance levels crucial."
+    }
+  }
+}
