@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-12T19:25:04.200Z",
+  "price": {
+    "close": "63660.01",
+    "high": "63746.69",
+    "low": "63602.01",
+    "open": "63647.98",
+    "change": "0.02",
+    "datetime": "2026-06-12 19:00:00"
+  },
+  "indicators": {
+    "rsi": 54.21088,
+    "macd": 194.91791,
+    "macd_signal": 204.80478,
+    "sma20": 63509.1525
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏强，维持短线多头格局",
+      "content": "当前BTC/USD报价63660美元附近，24小时波动极为有限，价格持续运行于20日均线63509上方，显示市场仍保持温和上升结构。虽然短期动能有所放缓，但多头暂未失去主导权，整体呈现高位整理特征。\n\n从技术指标来看，MACD数值194.92处于正值区域，表明中期趋势依然偏多。不过由于Signal数据缺失，暂无法确认金叉或死叉状态。RSI数据暂未提供，因此超买超卖情况无法判断，需结合后续价格行为观察。\n\n关键位置方面，短线支撑位关注63500美元附近，该区域与20日均线重合，具有较强技术意义；进一步支撑位位于63600美元一线。上方阻力首先关注63750美元附近，若有效突破，则有机会向64000美元整数关口发起挑战。\n\n交易策略上，当前更适合顺势思路操作。激进交易者可等待价格回踩63500美元区域企稳后考虑低吸；稳健投资者则建议关注63750美元突破确认情况再跟进。若价格跌破63500美元并持续走弱，则需警惕短线回调风险，控制仓位并严格设置止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading at 63,660.01, holding slightly above its 20-period simple moving average at 63,509.15. This positioning suggests a modest bullish bias in the near term, as buyers continue to defend higher price levels. The extremely narrow 24-hour range between 63,602.01 and 63,746.69 indicates a period of consolidation, with market participants awaiting a stronger catalyst before committing to a directional move. Price stability above the moving average remains a constructive signal for trend continuation.\n\nMomentum indicators present a cautiously positive outlook. The MACD value of 194.92 remains in positive territory, reflecting underlying bullish momentum and suggesting that buying pressure still exceeds selling pressure. While the signal line is unavailable, the positive MACD reading generally supports the case for gradual upside development. The absence of RSI data limits overbought or oversold assessment, making price action and moving-average behavior more important for short-term decision-making.\n\nKey support is located near 63,500, reinforced by the SMA(20), with additional support around the session low of 63,602 and a deeper defensive zone near 63,300. On the upside, immediate resistance appears near 63,750, corresponding to the recent high. A decisive break above this level could open the path toward 64,000 and potentially higher resistance zones. Failure to overcome resistance may keep BTC/USD confined within its current consolidation range.\n\nFor traders, a cautious bullish approach appears reasonable while price remains above the 20-period moving average. Momentum-oriented participants may consider long positions on a confirmed breakout above 63,750, targeting higher psychological levels. More conservative traders could wait for pullbacks toward support areas and seek evidence of renewed buying interest before entering. Risk management remains essential, as the current low-volatility environment could precede a stronger directional move in either direction."
+    }
+  }
+}
