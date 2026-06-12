@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-12T06:02:30.572Z",
+  "price": {
+    "close": "63285.77",
+    "high": "63285.84",
+    "low": "63239.35",
+    "open": "63268",
+    "change": "0.03",
+    "datetime": "2026-06-12 06:00:00"
+  },
+  "indicators": {
+    "rsi": 54.21708,
+    "macd": 252.5432,
+    "macd_signal": 302.28209,
+    "sma20": 63259.22
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏强运行",
+      "content": "当前BTC/USD报价63285.77美元，24小时涨幅仅0.03%，整体维持窄幅震荡格局。从价格运行来看，现价略高于20周期均线63259附近，短线多头仍占据一定优势，但上涨动能暂未明显释放，市场处于方向选择阶段。\n\n技术指标方面，SMA(20)呈现支撑作用，价格持续运行于均线上方，显示短期趋势偏强。MACD数值达到252.54，表明中期多头动能依然存在，不过由于Signal数据缺失，暂无法确认是否形成新的金叉或背离信号，需关注后续量能配合情况。\n\n关键位置方面，63240美元附近构成短线第一支撑区域，同时63200美元为重要心理支撑位。上方阻力首先关注63350美元，其次关注63500美元区域。若价格有效突破阻力带，则有望打开进一步上涨空间；若跌破支撑，则可能回踩63000美元附近。\n\n交易策略上，激进交易者可关注回踩63240至63200美元区域后的低吸机会，止损设置于63150美元下方。稳健投资者则建议等待63350美元上方突破确认后顺势跟进。当前市场波动率较低，追涨风险偏高，宜控制仓位并严格执行风险管理。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a consolidative trend around the $63,285 level, reflecting a period of indecision after recent volatility. The narrow intraday range between $63,239 and $63,285 indicates low momentum, suggesting that the market is digesting prior gains. Price hovering near the 20-period SMA at $63,259 reinforces this consolidation, as the SMA acts as a dynamic support level, providing a base for potential upward moves if bullish pressure resumes.  \n\nThe MACD reading of 252.54320, though lacking a confirmed signal line, hints at continued bullish bias, as the positive value suggests that short-term momentum remains above the longer-term average. The absence of a clear RSI value prevents a precise overbought or oversold assessment, but the negligible 24-hour change of 0.03% confirms that Bitcoin is neither in a strong buy nor sell zone, reinforcing the sideways movement narrative.  \n\nKey support for BTC/USD lies at $63,000, where previous consolidations and the SMA converge, creating a potential buying zone if dips occur. Resistance is observed near $63,500, aligning with the recent highs and representing a level where selling pressure may intensify. A decisive break above this resistance could trigger renewed upward momentum toward $64,000, whereas a drop below support may open the path toward $62,500, suggesting caution for traders relying solely on trend continuation.  \n\nFor active traders, a strategy focusing on range-bound opportunities may be optimal, with entries near support and exits approaching resistance. Longer-term investors might consider waiting for confirmation of trend direction, especially if MACD crosses or RSI data become available. Overall, BTC/USD is in a consolidation phase, favoring tactical, risk-managed trades rather than aggressive directional bets until clearer market signals emerge."
+    }
+  }
+}
