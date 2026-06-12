@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-12T22:50:43.044Z",
+  "price": {
+    "close": "63481.19",
+    "high": "63629.22",
+    "low": "63430",
+    "open": "63435.97",
+    "change": "0.07",
+    "datetime": "2026-06-12 22:00:00"
+  },
+  "indicators": {
+    "rsi": 51.43493,
+    "macd": 120.0014687,
+    "macd_signal": 169.63572,
+    "sma20": 63496.5985
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理偏强",
+      "content": "当前BTC/USD处于高位窄幅震荡结构，价格围绕63500附近整理，多空力量均衡，短期缺乏明确方向，整体呈现盘整偏强格局。\n\n技术指标方面，价格略低于20日均线63496，短线承压但未破位；MACD维持正值动能，显示多头仍有支撑，但信号线缺失，趋势确认有限。\n\n下方支撑关注63430及63200一带，上方阻力位63630与64000附近，若突破63630则有望延续上行，否则仍以区间震荡为主。\n\n操作上建议短线以高抛低吸为主，控制杠杆仓位，等待突破方向确认；若跌破支撑则需及时止损，避免震荡行情放大风险。保持纪律执行。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a tight consolidation phase after a modest 24-hour movement, with price action hovering around 63,481 and remaining close to the 20-period simple moving average near 63,497. The structure suggests equilibrium between buyers and sellers, with no clear directional breakout. Intraday highs and lows remain compressed, indicating declining volatility and a potential buildup phase for a larger move once range boundaries are tested.\n\nMomentum indicators present a cautiously constructive but incomplete picture. The MACD reading at 120 suggests underlying bullish momentum persists; however, absence of a clear signal line value limits confirmation of trend strength. With RSI unavailable, momentum confirmation relies primarily on price structure and MACD behavior. Overall, indicators imply a mildly bullish bias that has not yet translated into decisive directional expansion or sustained breakout confirmation.\n\nImmediate support is identified near the session low at 63,430, with deeper support likely around 63,200 if selling pressure increases. On the upside, resistance is concentrated near 63,629, which coincides with the recent high and acts as a short-term ceiling. A sustained break above this level could open a path toward 64,000, while failure to hold current levels may trigger continued range-bound movement.\n\nFrom a trading perspective, conditions favor range-bound strategies until a clear breakout confirms direction. Scalpers may consider buying near support and taking profits near resistance, while breakout traders should wait for a decisive close above 63,629 or below 63,430 with volume confirmation. Risk management remains critical due to compressed volatility, as false breakouts are more likely in low momentum environments."
+    }
+  }
+}
