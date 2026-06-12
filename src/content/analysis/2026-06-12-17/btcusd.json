@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-12T17:26:45.869Z",
+  "price": {
+    "close": "63741.31",
+    "high": "64082.8",
+    "low": "63723.44",
+    "open": "63942.81",
+    "change": "-0.32",
+    "datetime": "2026-06-12 17:00:00"
+  },
+  "indicators": {
+    "rsi": 55.59773,
+    "macd": 209.8372,
+    "macd_signal": 206.60454,
+    "sma20": 63489.245
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期震荡偏强",
+      "content": "当前比特币价格位于63741.31美元，较昨日小幅下跌0.32%，显示市场短线承压但整体趋势仍偏强。价格略高于20日简单移动平均线(SMA20)63489.25，表明短期均线支撑有效，仍维持多头基调，但需关注回调风险。\n\nMACD指标处于209.84，未提供信号线，显示趋势仍具上行动能，但缺乏明确交叉信号。若后续MACD柱延续放大，则可能推动价格突破近期高点64082.8美元；反之，若出现顶部背离，则短线可能承压回落至SMA20附近支撑。\n\n关键支撑位在63489-63723美元区间，若跌破此区，可能触发进一步下探至63000美元。阻力位则在64080-64300美元附近，突破该区域可激发新一轮多头行情。交易者可关注高低点及均线配合，结合量能变化作策略调整。\n\n交易建议上，短线投资者可逢低布局，设置合理止损于63400美元下方；中长线投资者仍可维持持仓，关注突破阻力后的加仓机会，同时警惕快速回撤。整体策略偏向稳健多头，但须警惕短期震荡风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin has been consolidating near the $63,700–$64,000 range, showing mild bearish pressure over the last 24 hours with a slight 0.32% drop. The market remains close to its 20-period simple moving average at $63,489, which is acting as dynamic support. Price action around this level suggests traders are cautious, with short-term momentum lacking clear directional bias. The intraday high of $64,082 marks a local resistance, creating a narrow trading channel.\n\nThe MACD reading at 209.837 indicates some bullish momentum, but the absence of a signal line comparison limits definitive crossover interpretation. RSI data is unavailable, but given the small price retracement and proximity to the SMA(20), the market does not appear overbought or oversold. Overall, the technical indicators suggest consolidation, with potential for either a breakout above $64,000 or a retest of support around $63,400–$63,500.\n\nKey levels to monitor include support at $63,400 and $63,200, which coincide with recent swing lows and the SMA(20) buffer zone. On the upside, resistance zones are $64,000 and $64,300, representing recent highs and psychological round numbers. Traders should watch for sustained movement beyond these levels to confirm trend continuation. Volume spikes accompanying a breakout would reinforce directional confidence, while low volume may indicate a false breakout or further sideways action.\n\nFor trading strategy, short-term traders may consider range-bound tactics, buying near support and taking profits around resistance, while keeping stop-losses slightly below $63,200 to manage risk. Momentum traders should await a confirmed break above $64,100 with strong MACD follow-through for bullish entries, or a breakdown under $63,400 for potential short positions. Given the current consolidation, patience and discipline are key before committing to larger positions."
+    }
+  }
+}
