@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-13T16:03:57.850Z",
+  "price": {
+    "close": "64234.03",
+    "high": "64268.93",
+    "low": "64205.13",
+    "open": "64258.02",
+    "change": "-0.04",
+    "datetime": "2026-06-13 16:00:00"
+  },
+  "indicators": {
+    "rsi": 64.79104,
+    "macd": 197.43486,
+    "macd_signal": 151.5071,
+    "sma20": 63773.1535
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位窄幅震荡偏多整理",
+      "content": "当前比特币价格围绕64200附近窄幅震荡，整体运行在63773的20日均线上方，短线维持高位整理结构，多空力量暂时均衡，但下方承接仍较稳固，未出现明显破位信号。\n\nMACD指标维持197.43正值区域，显示多头动能仍在，但信号线缺失限制判断精度。RSI暂无参考，短期动能更多表现为横盘中的弱偏多状态，缺乏强趋势突破。\n\n上方短期阻力集中在64280及64500一带，若放量突破则有望延续上行。下方关键支撑位于63773均线与63500区域，跌破将转入震荡回撤结构。\n\n建议短线维持区间交易思路，高位不追涨，低位靠近支撑分批布局。若MACD继续走强可顺势跟随突破行情，否则以震荡高抛低吸为主，控制仓位为优先。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin continues to trade in a narrow consolidation band around 64.2k, showing reduced volatility after a mild upward drift. The price remains above the 20-day SMA at 63,773, indicating that the short-term trend structure is still mildly bullish. However, the flat intraday movement suggests market participants are waiting for a catalyst before committing to a directional breakout. Overall momentum remains constructive but lacks strong expansion.\n\nThe MACD reading of 197.43 reflects positive momentum, though the absence of a visible signal line limits precise crossover interpretation. Still, the elevated value suggests buyers retain slight control over recent sessions. With RSI unavailable, price behavior and structure imply a neutral-to-slightly-overbought condition, consistent with consolidation near recent highs. The compressed range between high and low reinforces declining volatility rather than trend exhaustion.\n\nImmediate resistance is located at 64,268, the current session high, followed by a psychological zone near 64,500 and then 65,000 if breakout strength builds. On the downside, initial support sits at 64,205, with stronger structural support at the 20-day SMA near 63,773. A decisive break below this level could shift sentiment toward a deeper retracement phase.\n\nFrom a trading perspective, conditions favor short-term range strategies, with entries near support and exits close to resistance. Aggressive traders may consider breakout positions above 64,300 targeting liquidity toward 64,500 and 65,000, while maintaining protective stops below 63,700. Failure to hold above SMA support would weaken the bullish structure. Given low volatility, patience and disciplined risk management are essential to avoid whipsaw movements."
+    }
+  }
+}
