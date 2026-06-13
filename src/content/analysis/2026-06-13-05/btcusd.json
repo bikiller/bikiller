@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-13T05:48:12.064Z",
+  "price": {
+    "close": "63533.39",
+    "high": "63567.06",
+    "low": "63452.3",
+    "open": "63472.44",
+    "change": "0.10",
+    "datetime": "2026-06-13 05:00:00"
+  },
+  "indicators": {
+    "rsi": 51.35287,
+    "macd": 72.57125,
+    "macd_signal": 108.83581,
+    "sma20": 63580.875
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位窄幅震荡偏中性整理",
+      "content": "当前BTC价格围绕63500附近窄幅震荡，整体呈横盘整理结构，略低于20日均线，短线多空力量均衡，但上方压力逐渐显现，趋势偏中性略弱。\n\n技术指标方面，MACD仍处正值区间显示一定动能，但信号线缺失使趋势确认不足，RSI未提供导致超买超卖判断受限，动能整体偏温和。\n\n支撑位集中在63450及整数关63300附近，上方阻力主要在20日均线63580及前高63567区域，若突破或回踩将决定短期方向延续性。\n\n操作上建议以区间交易为主，未有效突破63580前避免追涨，若跌破63450需警惕回调延伸，突破上方则可顺势轻仓跟进并设紧止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "BTC/USD is currently exhibiting a tight consolidation phase after a period of muted volatility, with price action hovering around 63,533. The market shows little directional conviction as candles remain compressed within a narrow intraday band. Despite the slight 0.10% gain, momentum appears neutral, suggesting participants are waiting for a catalyst. The broader short-term structure leans mildly sideways with a slight bearish undertone due to price trading just below a key moving average.\n\nIndicator readings reinforce a lack of strong directional momentum. MACD is positive at 72.57125, but without a corresponding signal line value, confirmation of trend strength remains limited. This leaves momentum interpretation incomplete and cautious. RSI data is unavailable, which further reduces clarity on overbought or oversold conditions. Overall, indicators suggest equilibrium conditions where buyers and sellers are largely balanced, with no decisive edge emerging in the short term.\n\nImmediate support is located near the intraday low around 63,452, with a secondary cushion developing near the psychological 63,400 zone. On the upside, initial resistance aligns closely with the SMA(20) at 63,580.875, followed by the recent high at 63,567.06, which is now acting as a short-term ceiling. Price is effectively trapped between these levels, reinforcing a well-defined range-bound structure for now.\n\nFrom a trading perspective, the current environment favors range-bound strategies rather than breakout positioning. Traders may consider buying near support at 63,450 with tight risk controls, while taking partial profits near resistance around 63,580. A confirmed breakout above the SMA(20) could signal renewed bullish momentum toward higher highs, whereas a breakdown below 63,400 may expose deeper downside risk. Until then, disciplined risk management remains essential."
+    }
+  }
+}
