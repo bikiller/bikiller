@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-13T12:14:18.072Z",
+  "price": {
+    "close": "63917.38",
+    "high": "63925.74",
+    "low": "63877.6",
+    "open": "63923.41",
+    "change": "-0.01",
+    "datetime": "2026-06-13 12:00:00"
+  },
+  "indicators": {
+    "rsi": 59.10368,
+    "macd": 122.99401,
+    "macd_signal": 107.40246,
+    "sma20": 63649.1095
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏多整理",
+      "content": "当前BTCUSD处于高位横盘整理结构，价格围绕63900附近窄幅波动，整体仍维持在SMA20之上，短线多头趋势未被破坏，但动能明显趋缓，进入震荡修正阶段。\n\n技术指标方面，MACD维持正值约123，说明多头仍占优势，但信号线缺失使动量判断略有滞后；均线系统呈现价格贴合SMA20运行，反映趋势强度中性偏多。\n\n支撑与阻力结构显示，下方短期支撑位于63800至63650区间，对应SMA20附近；上方压力集中在64000与前高63925一带，突破前需放量确认。\n\n交易策略建议维持区间思路，在63650附近分批低吸，目标上看64000及突破延伸空间；若跌破63600则需止损观望，避免震荡行情中的假突破风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating within a very tight intraday range around 63,900, showing minimal volatility and a clear equilibrium between buyers and sellers. Despite the lack of directional expansion, price remains slightly above the 20-period simple moving average at 63,649, which suggests a mild underlying bullish bias. The broader structure continues to resemble a sideways accumulation phase following recent stabilization, with no confirmed breakout in either direction yet.\n\nMomentum readings are mixed but still leaning slightly positive. The MACD value at 122.99 indicates that bullish momentum is present, although the absence of a visible signal line prevents a full crossover assessment. With RSI unavailable, price action becomes the primary guide, and current compression suggests weakening volatility rather than strong trend continuation. Overall, momentum appears to be pausing rather than reversing, supporting a neutral-to-slightly-bullish interpretation.\n\nImmediate resistance is defined by the recent intraday high near 63,925, followed closely by the psychological 64,000 level, which may act as a liquidity magnet if upward pressure builds. On the downside, initial support sits at the 20-period moving average around 63,649, with stronger defense likely near 63,500 if selling accelerates. The extremely narrow range highlights an impending volatility expansion phase once either boundary is broken.\n\nGiven the compressed structure, range trading strategies remain most effective in the short term, favoring mean reversion between support and resistance boundaries. Conservative traders may wait for a confirmed breakout above 64,000 or below 63,500 before committing to directional positions. Risk management is critical due to potential sudden volatility expansion, with tight stops recommended. Overall positioning should remain flexible, as the market is coiling for its next decisive move."
+    }
+  }
+}
