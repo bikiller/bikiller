@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-13T18:48:35.642Z",
+  "price": {
+    "close": "64212.02",
+    "high": "64259.01",
+    "low": "63933.39",
+    "open": "63933.39",
+    "change": "0.44",
+    "datetime": "2026-06-13 18:00:00"
+  },
+  "indicators": {
+    "rsi": 61.19172,
+    "macd": 173.69527,
+    "macd_signal": 155.39295,
+    "sma20": 63822.5205
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏多",
+      "content": "当前BTC/USD维持高位震荡格局，价格运行在64200附近，整体偏多但动能趋缓，短线进入整理阶段。多空博弈加剧，短期方向待确认。\n\nMACD指标维持正值173附近，显示多头动能仍占优，但信号线缺失限制进一步确认，趋势强度中等偏上。短期仍偏多结构运行中。\n\n短期支撑位集中在63930及63820（SMA20）附近，一旦失守可能回踩63600区域，形成关键防守带。\n\n操作上建议以区间震荡思路为主，高位谨慎追多，等待突破64260后再顺势跟进，否则以回踩低吸为主。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin price action shows  maintaining a mild bullish consolidation after a modest 0.44% 24-hour gain, trading near 64,212. The structure reflects tight intraday compression between 63,933 and 64,259, suggesting equilibrium between buyers and sellers. Price remains positioned above the 20-period SMA at 63,822, indicating short-term trend support and a constructive bias, though momentum expansion has yet to fully develop.\n\nMomentum indicators show a predominantly bullish tilt, with MACD reading at 173.69527, signaling positive momentum continuation above the zero line. Although the signal line value is unavailable, the histogram context implies sustained upward pressure. With RSI(14) not provided, overbought or oversold conditions cannot be confirmed, but price stability near recent highs suggests controlled bullish momentum rather than exhaustion or reversal conditions forming.\n\nImmediate support is defined by the SMA(20) at 63,822, reinforced by the intraday low at 63,933, forming a short-term demand zone. A break below this region would expose deeper support around 63,500, where prior consolidation occurred. On the upside, resistance is clearly set at the session high of 64,259, with a breakout potentially opening a path toward 64,500 and 64,800 as next extension targets.\n\nCurrent structure favors a range-trading approach with a bullish breakout bias. Traders may consider accumulating near support between 63,900 and 63,800 with protective stops below 63,500 to manage downside risk. On strength, a decisive break above 64,260 could confirm continuation momentum, offering long entries targeting 64,500 to 64,800. Risk management remains critical given low volatility compression and potential for sudden expansion in the near term outlook."
+    }
+  }
+}

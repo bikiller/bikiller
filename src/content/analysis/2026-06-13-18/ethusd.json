@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-13T18:49:33.602Z",
+  "price": {
+    "close": "1681.08",
+    "high": "1682.88",
+    "low": "1674.9",
+    "open": "1674.9",
+    "change": "0.37",
+    "datetime": "2026-06-13 18:00:00"
+  },
+  "indicators": {
+    "rsi": 57.16793,
+    "macd": 3.065356,
+    "macd_signal": 2.67641,
+    "sma20": 1673.757
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡偏多整理",
+      "content": "当前ETH价格运行在1680附近，高位窄幅震荡明显，日内波动收敛，整体处于温和上行后的整理阶段，多头仍占主导但动能趋缓。\n\n技术指标方面，价格稳站20日均线上方1673，MACD维持正值3.06，显示多头动能仍在延续，但RSI缺失限制短线超买判断。\n\n支撑位关注1673一线及1670区域，若跌破则可能回测1655；上方阻力在1683前高，突破后有望上看1695及1710区间。\n\n交易策略建议以区间偏多思路为主，未破1683前可高抛低吸；有效突破后顺势追多，止损设置于1670下方以控制风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is currently in a tight consolidation phase around 1681, showing minimal intraday volatility after a modest 0.37% gain. Price action is compressing between the recent low near 1674 and high around 1683, suggesting market indecision. Despite the lack of strong momentum, the structure remains mildly constructive as higher lows have been maintained over the short term, indicating underlying accumulation rather than distribution.\n\nMomentum signals are limited, with RSI unavailable, but MACD reading at 3.065 suggests a mild bullish bias, though confirmation from the signal line is missing. Price trading above the 20-period SMA at 1673.757 reinforces a short-term upward tilt. However, the narrow spread between price and moving average indicates weak trend strength, implying the market is still in a neutral-to-slightly bullish equilibrium phase.\n\nKey support is located near the 20-SMA at 1673, with additional downside protection around 1665 and 1650 if selling pressure increases. On the upside, immediate resistance sits at 1683, the recent local high, followed by a psychological barrier near 1700. A decisive breakout above resistance could signal continuation, while a breakdown below support may shift bias toward deeper retracement.\n\nTrading conditions favor range-bound strategies until a clear breakout is confirmed. Short-term traders may consider accumulating near support zones with tight risk controls, while breakout traders should wait for a sustained move above 1683 before entering longs. Given subdued volatility, position sizing should remain conservative, and stop-loss levels should be respected to manage potential false breakouts effectively. Overall bias remains cautiously neutral in the absence of strong directional momentum."
+    }
+  }
+}
