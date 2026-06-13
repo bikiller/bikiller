@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-13T06:42:54.384Z",
+  "price": {
+    "close": "1667.32",
+    "high": "1667.53",
+    "low": "1664.42",
+    "open": "1665.35",
+    "change": "0.12",
+    "datetime": "2026-06-13 06:00:00"
+  },
+  "indicators": {
+    "rsi": 50.16021,
+    "macd": -0.099607227,
+    "macd_signal": 0.34280715,
+    "sma20": 1667.654
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡偏弱整理",
+      "content": "当前ETH/USD整体处于窄幅震荡整理结构，价格围绕1667一线运行，略低于20日均线，显示短期动能偏弱，但尚未形成明确趋势破位信号。\n\n技术指标方面，MACD仍处于轻微负值区间，空头动能占优但力度有限；RSI缺失导致动量判断不完整，整体呈现震荡收敛特征。短期仍偏谨慎\n\n下方支撑关注1664附近，若跌破则可能回测1658区域；上方阻力位于1668至1672区间，突破需成交量配合。整体结构偏震荡\n\n操作策略建议以区间交易为主，未有效突破前保持观望或轻仓高抛低吸，严格设置止损控制风险。避免追涨杀跌关注信号变化"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is currently trading in a tight consolidation phase around 1667, showing minimal volatility after a prolonged equilibrium near its short-term average. The price action is hovering almost directly on the 20-period SMA, indicating market indecision and balance between buyers and sellers. With a 24-hour change near flat, momentum remains subdued, and directional conviction is lacking. This environment typically precedes either a breakout or continued sideways rotation.\n\nMACD readings show a slight negative bias, suggesting weakening bullish momentum and a mild tendency toward bearish pressure in the very short term. Although RSI is unavailable, price behavior near equilibrium implies a neutral-to-soft structure rather than an overbought or oversold condition. The close proximity to the 20-SMA reinforces the idea of compression, where market participants are awaiting a catalyst. Lack of strong momentum signals keeps risk skew balanced but fragile.\n\nImmediate support is located around 1664.4, corresponding to the recent session low, with a deeper support zone near 1660 where buyers may attempt to defend the range. On the upside, resistance is concentrated at 1667.7 to 1668, aligned with the SMA20 and intraday highs. A sustained breakout above this area could open the path toward 1675 and potentially 1680, while failure to hold support may trigger a retest of lower consolidation levels.\n\nFrom a trading perspective, the market is best approached as a range-bound environment until a decisive breakout confirms direction. Short-term traders may consider buying near support with tight stops below 1664, targeting a rotation back toward the upper boundary. Alternatively, a breakout above 1668 would validate bullish continuation setups, while a breakdown below support would shift bias bearish and open room for deeper retracement toward lower liquidity zones."
+    }
+  }
+}
