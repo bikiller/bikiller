@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-14T12:28:32.917Z",
+  "price": {
+    "close": "64438.84",
+    "high": "64530.08",
+    "low": "64422.18",
+    "open": "64513.84",
+    "change": "-0.12",
+    "datetime": "2026-06-14 12:00:00"
+  },
+  "indicators": {
+    "rsi": 57.061816,
+    "macd": 147.060652,
+    "macd_signal": 168.14195,
+    "sma20": 64382.884
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：窄幅震荡偏多但缺乏突破",
+      "content": "当前BTC/USD维持极窄区间震荡，价格围绕64400附近整理，日内波动收窄，整体缺乏明确方向，但短线仍略偏多，尚未出现破位信号。\n\nSMA(20)位于64382附近，现价略上方运行，说明短期均线提供支撑；MACD柱值为正147，动能仍偏多，但信号线缺失，趋势确认不足。\n\n下方支撑关注64380一线及64220低点区域，上方阻力集中在64530历史高点附近，若有效突破或打开进一步上行空间，否则继续盘整。\n\n操作上建议以区间思路为主，高抛低吸，激进者可在支撑附近轻仓做多，跌破64200需谨慎止损，等待方向选择后再顺势跟进。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "is currently trading in a very tight consolidation phase around 64,438, showing limited volatility after a mild 24-hour decline of -0.12%. Price action is hovering just above the 20-period SMA at 64,382, indicating a neutral-to-slightly bullish short-term structure. The market is effectively compressing within a narrow intraday band, suggesting equilibrium between buyers and sellers rather than a directional breakout attempt at this stage.\n\nFrom an indicator perspective, momentum signals remain cautiously constructive. The MACD reading at 147.06 suggests underlying bullish momentum is still present, though the absence of a visible signal line limits confirmation strength. With RSI unavailable, momentum interpretation leans more heavily on price structure and moving averages. The proximity to the SMA(20) implies price is in a decision zone where continuation or rejection could form quickly depending on volume expansion.\n\nKey support is anchored at 64,380, aligned with the SMA(20), followed by stronger structural support near 64,220, which corresponds to the intraday low. On the upside, immediate resistance sits at 64,530, the session high, with a potential breakout trigger above 64,650 that could open room for continuation toward higher short-term liquidity zones. The compressed range suggests that any breakout may be sharp once volatility returns.\n\nTrading conditions favor range-bound strategies in the short term, with mean-reversion setups between 64,220 and 64,530 until a decisive breakout occurs. Scalpers may look for rejection signals near resistance or bounce confirmations at support. For breakout traders, waiting for a clean move above 64,650 with volume confirmation is preferable, while stop placement should remain tight due to the current low-volatility environment and risk of false breakouts."
+    }
+  }
+}
