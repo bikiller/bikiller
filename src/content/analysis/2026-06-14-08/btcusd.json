@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-14T08:12:10.176Z",
+  "price": {
+    "close": "64420.6",
+    "high": "64420.6",
+    "low": "64350.34",
+    "open": "64396.53",
+    "change": "0.04",
+    "datetime": "2026-06-14 08:00:00"
+  },
+  "indicators": {
+    "rsi": 59.28219,
+    "macd": 156.61238,
+    "macd_signal": 185.84734,
+    "sma20": 64305.502
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位窄幅震荡偏强",
+      "content": "当前BTC/USD呈现高位窄幅震荡结构，价格围绕64420附近运行，波动极低，多空暂时均衡但略偏多头控制。市场缺乏明确方向突破信号。\n\nMACD指标维持正值156附近，显示短期动能仍偏多，但信号线缺失导致趋势确认不足，需等待二次交叉验证。同时均线系统略呈多头排列。\n\n下方支撑位关注64300附近，对应20日均线附近区域；上方阻力位在64500至64650区间，突破需成交量配合。否则易维持震荡。\n\n交易策略建议以区间操作为主，低位轻仓试多，高位逐步止盈，避免追涨杀跌，严格控制风险仓位。关注突破后的顺势跟进机会。谨慎操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a tight consolidation range around 64,420, showing extremely compressed volatility after a minor 24-hour change. Price action hovering near the session high suggests buyers are defending elevated levels, but momentum lacks expansion. The broader short-term structure remains mildly bullish as price holds above the 20-period SMA, indicating that the market is stabilizing after a recent impulse move and waiting for a directional catalyst.\n\nThe MACD reading at 156.61 indicates that bullish momentum is still present, although the absence of a signal line value limits full confirmation of trend strength convergence. Price trading above the SMA(20) at 64,305 reinforces a supportive dynamic, with short-term trend alignment favoring buyers. However, the lack of RSI data prevents assessment of overbought conditions, making momentum confirmation partially incomplete at current levels.\n\nImmediate support is established near the SMA(20) at 64,305, with a secondary floor at 64,350 and a deeper liquidity zone around 64,000 psychological level. On the upside, resistance is forming near 64,500, followed by a more significant barrier between 64,800 and 65,000 where previous supply has likely emerged. The tight range suggests a breakout setup is building as volatility compresses.\n\nGiven the compressed structure, traders may favor range-bound strategies in the very short term, buying near support around 64,300–64,000 with tight risk controls, while taking partial profits near 64,500. A breakout strategy becomes relevant only on a sustained close above 64,800 or below 64,000, which could signal expansion in volatility. Until then, disciplined position sizing and avoidance of over-leverage are essential in this low-volatility environment."
+    }
+  }
+}
