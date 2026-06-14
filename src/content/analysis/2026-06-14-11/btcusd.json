@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-14T11:38:38.484Z",
+  "price": {
+    "close": "64598.86",
+    "high": "64605.26",
+    "low": "64420.84",
+    "open": "64486.45",
+    "change": "0.17",
+    "datetime": "2026-06-14 11:00:00"
+  },
+  "indicators": {
+    "rsi": 62.79393,
+    "macd": 163.95155,
+    "macd_signal": 174.76888,
+    "sma20": 64364.445
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：偏多震荡上行结构",
+      "content": "当前处于高位窄幅震荡结构，价格运行在64.4k上方并逼近前高，整体趋势偏多但动能进入整理阶段，多空进入短线博弈。\n\n技术指标方面，价格稳站SMA20之上，短期均线呈上行斜率，MACD维持正值但动能柱未明显扩张，说明上涨动能仍在但缺乏加速，市场等待方向选择。\n\n支撑位关注64360一线与64200区域，一旦失守或回测64000；上方阻力集中在64600-64620前高区域，若有效突破有望打开65000上行空间。\n\n操作上建议短线以区间思路为主，未突破前高可高抛低吸，突破64620后可顺势做多，止损设在64350下方，控制风险等待趋势延伸确认。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating in a very tight intraday range around 64.6k, reflecting equilibrium between buyers and sellers after a mild upward drift. The 24h change remains nearly flat, suggesting low volatility and a potential compression phase. Price action above the 20-period SMA indicates a short-term bullish bias, but the lack of directional expansion signals the market is waiting for a catalyst or breakout confirmation.\n\nMomentum indicators show a cautiously constructive setup, with MACD reading positive at 163.95, implying underlying bullish momentum despite the absence of a visible signal line. Without RSI data, overbought or oversold conditions cannot be confirmed, but price stability above the 20-SMA suggests buyers are defending recent gains. However, the weak volatility expansion indicates that momentum is not yet strong enough to initiate a sustained trend continuation.\n\nImmediate support lies at the session low around 64,420, followed closely by the 20-SMA at 64,364, which acts as dynamic support. A breakdown below this zone could expose the 64,000 psychological level. On the upside, resistance is defined by the recent high at 64,605, with a breakout potentially opening a move toward 65,000. The current tight range suggests liquidity buildup near both boundaries.\n\nShort-term traders may favor range-bound strategies, buying near support and taking profits toward resistance while volatility remains compressed. A confirmed breakout above 64,605 could justify long positions targeting 65,000 with protective stops below 64,300. Conversely, a breakdown under 64,360 would shift bias bearish toward 64,000. Risk management is essential due to the low-volatility environment, which often precedes sharp directional expansion."
+    }
+  }
+}
