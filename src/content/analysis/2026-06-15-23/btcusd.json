@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-15T23:12:44.630Z",
+  "price": {
+    "close": "66220.79",
+    "high": "66259.29",
+    "low": "66134.25",
+    "open": "66156",
+    "change": "0.10",
+    "datetime": "2026-06-15 23:00:00"
+  },
+  "indicators": {
+    "rsi": 54.73139,
+    "macd": 358.63561,
+    "macd_signal": 462.32736,
+    "sma20": 66261.7895
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位窄幅震荡整理",
+      "content": "当前BTC价格围绕66200附近窄幅波动，整体呈高位横盘结构，多空拉锯明显，方向未明确突破信号。市场观望情绪较浓，短线缺乏趋势延续动力。\n\nSMA20位于66261附近，现价略低于均线，短线承压但未破位；MACD柱值为正，动能仍偏多但趋于收敛；缺乏RSI辅助，信号需谨慎验证。\n\n下方短期支撑关注66130一线，上方阻力位在66260至66280区间，价格贴近阻力震荡，突破前仍以区间对待。短线空间收窄。\n\n操作上建议保持低杠杆区间交易思路，未有效突破前避免追涨杀跌，可在支撑附近分批吸纳，阻力区逐步减仓锁定利润。控制风险波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a tight consolidation phase around the 66,200 USD region, with extremely compressed intraday volatility. The 24-hour range between 66,134 and 66,259 suggests equilibrium between buyers and sellers after a recent directional move. Overall trend structure appears neutral to slightly bullish on higher timeframes, but short-term momentum is flattening, indicating market indecision and potential buildup for an impending breakout in either direction.\n\nThe 20-period simple moving average at 66,261 is acting as a near-term resistance level, with price currently trading slightly below it, signaling mild short-term weakness. MACD remains positive at 358.6, suggesting underlying bullish momentum is still present, although fading. With RSI unavailable, momentum confirmation is limited, increasing reliance on price action and moving average behavior to gauge continuation or rejection signals.\n\nImmediate resistance is located at 66,260, aligned with both intraday highs and the 20-SMA. A sustained break above this zone could open a path toward 66,500 and potentially higher liquidity pockets. Support is established near 66,130, with a deeper floor around 66,000 psychological level. Traders may consider range strategies for now, buying dips near support and taking profits near resistance until breakout confirmation occurs.\n\nGiven the compressed volatility, risk management is critical as false breakouts are more likely in this environment. Position sizing should remain conservative, with stop-losses placed just beyond key levels, particularly below 66,000 for longs or above 66,300 for shorts. Until momentum indicators align more clearly, traders should avoid over-leveraging and focus on confirmation-based entries rather than anticipating directional moves prematurely."
+    }
+  }
+}
