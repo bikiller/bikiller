@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-15T20:35:25.246Z",
+  "price": {
+    "close": "66562.72",
+    "high": "66620.73",
+    "low": "66462.86",
+    "open": "66582.95",
+    "change": "-0.02",
+    "datetime": "2026-06-15 20:00:00"
+  },
+  "indicators": {
+    "rsi": 62.73155,
+    "macd": 516.45445,
+    "macd_signal": 523.75261,
+    "sma20": 66171.862
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏强整理",
+      "content": "趋势判断：BTC/USD当前在66500附近高位横盘整理，整体仍维持震荡偏多结构，上涨动能放缓但未出现明确反转信号，短期或延续震荡走势。\n\n技术指标显示，价格运行在20日均线66171上方，短期均线支撑有效，MACD柱体为516.45维持正值，动能偏多但有收敛迹象。\n\n上方阻力关注66620一线，若突破有望进一步测试67000区域；下方支撑在66460及66170附近，回踩仍可视为低吸区间。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin vs US Dollar is currently consolidating after a mild upward push, with price action hovering near 66.5k and showing extremely tight intraday compression. The 24-hour range is narrow, indicating equilibrium between buyers and sellers. Despite the lack of strong volatility, price remains structurally above short-term averages, suggesting the broader trend is still mildly constructive rather than bearish. Momentum is cooling but not reversing yet.\n\nThe SMA20 at 66,171 sits just below current price, reinforcing a short-term bullish bias as price holds above the dynamic average. The MACD at 516.45 remains positive, indicating persistent momentum, although the absence of a signal line reading limits crossover clarity. Overall, momentum is supportive but not accelerating, implying consolidation within a broader uptrend structure rather than a breakout phase. Traders should monitor for compression breakout signals.\n\nImmediate support is forming around 66,450, aligning closely with intraday lows, while stronger structural support sits near the SMA20 at 66,171. A breakdown below this zone could expose 65,800 as the next liquidity pocket. On the upside, resistance is defined at 66,620, and a clean break above this level could open a path toward 67,000. Market participants may watch volume confirmation for validation.\n\nGiven the current compression, range-trading strategies remain favorable, with dip-buying near support offering better risk-reward than chasing highs. Stops should be placed below 66,171 to avoid whipsaw risk, while partial profit-taking can be considered near resistance. A breakout above 66,620 would shift bias toward continuation, favoring momentum entries rather than mean-reversion setups. Risk management remains essential in low volatility conditions."
+    }
+  }
+}
