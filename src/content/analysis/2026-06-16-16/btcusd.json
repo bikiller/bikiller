@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-16T16:42:42.791Z",
+  "price": {
+    "close": "65745.74",
+    "high": "65899.3",
+    "low": "65638",
+    "open": "65807.97",
+    "change": "-0.09",
+    "datetime": "2026-06-16 16:00:00"
+  },
+  "indicators": {
+    "rsi": 44.15122,
+    "macd": -16.034111,
+    "macd_signal": 93.92915,
+    "sma20": 66169.381
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理格局",
+      "content": "当前BTC处于高位回调后的横盘整理结构，价格运行在66169的20日均线下方，短期趋势偏弱但尚未形成单边下行，整体以低波动震荡为主，多空暂时进入均衡状态，方向选择仍在酝酿中。\n\nMACD指标持续位于零轴下方且动能柱收缩，显示空头优势仍在但力度有限，短线缺乏强劲反弹驱动。由于RSI数据缺失，超买超卖信号不完整，使得当前判断更多依赖价格结构与均线压制。\n\n下方关键支撑集中在65600至65400区域，该区间若被有效跌破可能进一步指向65000整数关口。上方阻力位于66150及66500一带，只有放量突破20日均线才可能扭转短线弱势结构。\n\n操作上建议保持区间思路应对，未有效突破均线前避免追涨行为，可在支撑区域分批轻仓试多，同时严格设置止损；若跌破支撑则顺势短线做空，控制风险为核心。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin vs US Dollar is currently consolidating in a narrow range after a mild intraday drift lower, with price action hovering just above short-term support. The market structure suggests a sideways-to-slightly bearish phase as momentum weakens under the 20-day simple moving average. Recent candles show limited directional conviction, indicating traders are waiting for a clearer catalyst before committing to a sustained breakout or breakdown.\n\nMomentum indicators lean bearish, with MACD reading at -16.03 signaling downside pressure and fading bullish momentum. Although RSI data is unavailable, price behavior beneath the 20-day SMA implies subdued buying strength. The absence of strong bullish divergence suggests continuation risk to the downside unless momentum improves. Short-term volatility compression indicates the market may be coiling before a directional move, likely triggered by a breakout of key levels.\n\nImmediate support is observed at 65,638, aligning with the recent intraday low, while a deeper psychological floor sits near 65,000 if selling intensifies. On the upside, resistance is forming at 65,899, followed by a more significant barrier at the 20-day SMA near 66,169. Price remains compressed between these levels, reflecting indecision and a potential breakout zone developing as volatility tightens.\n\nTrading conditions favor a cautious approach, with range-bound strategies preferred until a decisive breakout confirms direction. Short-term traders may consider buying near support with tight stop-losses below 65,600, while bearish setups could be explored on rejection near 65,900–66,200. Confirmation via MACD stabilization or a break above the 20-day SMA would strengthen bullish conviction, whereas failure to hold support increases downside continuation risk."
+    }
+  }
+}
