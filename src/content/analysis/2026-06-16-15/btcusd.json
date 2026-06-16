@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-16T15:33:16.220Z",
+  "price": {
+    "close": "65794.28",
+    "high": "65861.86",
+    "low": "65550",
+    "open": "65601.17",
+    "change": "0.29",
+    "datetime": "2026-06-16 15:00:00"
+  },
+  "indicators": {
+    "rsi": 44.82171,
+    "macd": 15.39096,
+    "macd_signal": 121.21687,
+    "sma20": 66205.8295
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏弱",
+      "content": "当前BTC/美元短线呈高位震荡回落结构，价格略低于20日均线，整体动能偏弱但未破关键区间，多空博弈明显。\n\nMACD仍保持正值但信号线缺失，动能释放有限，短期上涨力度减弱，均线系统压制价格上行空间。\n\n上方阻力关注66200附近20日均线，其次66800区域；下方支撑在65550，失守则看向65000一线。\n\n操作上建议以区间思路为主，未有效突破均线前避免追多，反弹受阻可轻仓高抛，等待方向确认。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating in a tight intraday range around 65.7K, reflecting a balance between short-term buying pressure and overhead supply. The 24-hour gain of 0.29% shows mild positive sentiment, but price action remains constrained between 65.55K and 65.86K. Importantly, trading below the 20-period SMA at 66.2K keeps the short-term structure slightly bearish, suggesting that recent upside attempts are still struggling to establish a sustained trend reversal.\n\nMomentum signals are mixed but leaning neutral. The MACD reading at 15.39 indicates that bullish momentum is present in the background, but without a confirmed signal line value, it is difficult to validate a strong continuation signal. In practice, this often reflects early-stage momentum that has not fully translated into directional follow-through. With RSI unavailable, price behavior and moving averages take greater weight, reinforcing a consolidation-driven environment rather than a trending phase.\n\nFrom a structural perspective, immediate support is located near 65.55K, aligning with the recent session low and acting as the first defensive zone for buyers. A break below this level would expose downside risk toward the psychological 65.0K area and potentially deeper liquidity near 64.2K. On the upside, resistance is firm at 65.86K, followed by the more significant barrier at 66.2K, where the 20-SMA sits and where prior upside attempts have stalled.\n\nTrading conditions favor a range-bound strategy until a decisive breakout occurs. Short-term traders may consider buying near support with tight risk controls and scaling out near resistance, while breakout traders should wait for a confirmed close above 66.2K for bullish continuation signals. Conversely, sustained rejection below resistance could reinforce bearish pressure and shift momentum back toward lower support zones."
+    }
+  }
+}
