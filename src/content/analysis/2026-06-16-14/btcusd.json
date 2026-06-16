@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-16T14:28:41.030Z",
+  "price": {
+    "close": "65640.99",
+    "high": "66214.99",
+    "low": "65460.6",
+    "open": "65989.47",
+    "change": "-0.52",
+    "datetime": "2026-06-16 14:00:00"
+  },
+  "indicators": {
+    "rsi": 41.87576,
+    "macd": 54.51271,
+    "macd_signal": 148.30881,
+    "sma20": 66246.978
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡回调偏弱整理",
+      "content": "短线震荡偏弱，价格自66200上方回落至65600附近运行，整体处于回调结构中，但未破前低，趋势进入高位整理后的回撤阶段，空头略占优势\n\n技术指标方面，价格跌破SMA20=66246，短期均线压制明显；MACD仍为正值54.5，但动能柱收敛，说明上涨动能减弱，市场进入多空博弈阶段\n\n关键支撑位在65460附近，若失守可能下探65000区域；上方阻力集中在66214及66246均线位置，突破后才有望重新打开上行空间\n\n操作上建议短线以区间思路为主，未有效突破66200前偏谨慎做多，可在支撑附近轻仓试多，跌破65460则需止损观望，等待方向确认"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Price action is currently showing a mild corrective structure after failing to sustain levels above the short-term moving average. Trading remains below the 20-period SMA, which sits near 66246, suggesting that upside momentum has temporarily weakened. The market is oscillating within a tight intraday range between roughly 65460 and 66200, indicating consolidation. Overall structure leans slightly bearish in the short term, with repeated rejections near the upper boundary.\n\nMomentum indicators are mixed but tilting toward neutrality. The MACD reading remains positive at 54.51, yet without a visible signal line value it is difficult to confirm a strong bullish crossover, and momentum appears to be flattening. The absence of RSI data limits precision, but price behavior below the SMA implies reduced bullish strength rather than active bearish acceleration. This typically reflects a cooling phase where neither buyers nor sellers have full control.\n\nKey resistance is concentrated around 66200–66300, aligning closely with both the recent high and the 20-SMA, making it a critical breakout zone. A sustained move above this area could open the path toward 67000 and potentially higher continuation levels. On the downside, immediate support sits at 65450, followed by a psychological level near 65000, with deeper support around 64200 if selling pressure expands.\n\nFrom a trading perspective, the current environment favors range-bound strategies over breakout chasing. Buying near support zones with tight risk control may offer favorable risk-reward if price continues to respect the lower boundary. Alternatively, short setups near resistance could be considered if rejection signals appear. A decisive break beyond either boundary would likely define the next directional trend."
+    }
+  }
+}
