@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-16T03:38:41.899Z",
+  "price": {
+    "close": "66007.57",
+    "high": "66027.48",
+    "low": "65607.54",
+    "open": "65704.97",
+    "change": "0.46",
+    "datetime": "2026-06-16 03:00:00"
+  },
+  "indicators": {
+    "rsi": 50.047612,
+    "macd": 185.94095,
+    "macd_signal": 333.12676,
+    "sma20": 66334.2465
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理偏弱",
+      "content": "当前BTC/USD整体呈震荡整理结构，价格围绕66000附近窄幅波动，上方受20日均线压制，短线多空拉锯明显，市场进入盘整阶段但未破区间。\n\n技术指标方面，MACD维持在185附近，显示动能仍偏多，但柱体可能收敛。价格跌破/略低于20日均线66334，说明短期均线压制有效，RSI缺失使超买判断受限。\n\n支撑位关注65600附近前低区域，若跌破可能下探更低区间。阻力集中在66300-66500及20日均线附近，突破需放量确认。\n\n交易策略建议以区间操作为主，未有效突破均线前谨慎追多，可在支撑位分批低吸，接近阻力区逐步止盈并控制仓位并注意风险管理灵活调整。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a tight consolidation phase around 66,000 after a modest 24-hour gain of 0.46%. Price action shows limited directional conviction, with intraday highs barely exceeding the current level. The market structure suggests a short-term neutral-to-slightly bullish tone, but momentum is weakening as repeated failures to sustain moves above nearby resistance indicate hesitation among buyers.\n\nBitcoin remains slightly below the 20-day SMA at 66,334, indicating short-term bearish pressure despite recent gains. The MACD reading at 185 suggests underlying positive momentum; however, without a confirmed signal line, strength is ambiguous. This divergence between price and moving average highlights indecision. Momentum appears to be fading as price struggles to reclaim the short-term trend baseline.\n\nKey support is found near 65,600, aligning with the recent 24-hour low, followed by a stronger psychological zone at 65,000. On the upside, immediate resistance sits at the 20-day SMA around 66,334, with a secondary barrier near 67,000. A sustained break above resistance would signal renewed bullish momentum, while a breakdown below support could accelerate short-term downside pressure.\n\nTraders may favor a range-bound strategy, buying near support zones and taking profits near resistance. A confirmed breakout above 66,334 could open room toward 67,000 and beyond, while a breakdown under 65,600 may trigger short positions targeting 65,000. Risk management remains critical due to compressed volatility, with stop-losses placed just outside key support and resistance boundaries."
+    }
+  }
+}
