@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-17T19:32:17.100Z",
+  "price": {
+    "close": "64403.93",
+    "high": "65612.01",
+    "low": "64300",
+    "open": "65454.8",
+    "change": "-1.60",
+    "datetime": "2026-06-17 19:00:00"
+  },
+  "indicators": {
+    "rsi": 35.92152,
+    "macd": -150.38312,
+    "macd_signal": -157.58918,
+    "sma20": 65383.0695
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理趋势]",
+      "content": "当前比特币/美元(BTC/USD)的价格为64403.93，较24小时前下跌1.60%。从价格走势来看，比特币近期处于震荡整理状态，最高点达到65612.01，而最低点为64300，显示出市场在此区间内存在一定的抑制与支撑力量。投资者需关注价格能否突破当前区间。\n\n在技术指标方面，RSI(14)数据缺失，但从MACD来看，其值为-150.38312，表明市场可能处于弱势状态。当前的SMA(20)为65383.069500，价格低于该均线，显示出短期内看跌的趋势。总体来看，市场情绪偏向谨慎，投资者需保持警惕。\n\n支撑位方面，64300是重要的心理关口，一旦跌破可能引发进一步的卖盘压力。阻力位则在65600附近，突破该位置有望重新向上反弹。建议投资者关注这些关键价位，灵活调整仓位，避免在震荡市场中遭受较大损失。\n\n综上所述，当前比特币市场呈现震荡整理的格局，投资者应密切关注技术指标和支撑阻力位，以便在适当时机进出市场。短期内谨慎操作，待市场趋势明朗后再做进一步的决策。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin vs US Dollar is currently exhibiting a short-term bearish structure, with price action drifting below the 20-day SMA at 65383 and consolidating near the lower end of the intraday range around 64300. The rejection from 65612 highlights a failed breakout attempt, where sellers stepped in aggressively. This shift suggests weakening bullish momentum, with price now struggling to reclaim lost ground and showing signs of distribution near recent highs.\n\nMomentum indicators reinforce this downside pressure. The MACD at -150.38 signals sustained bearish momentum, with no clear sign of a bullish crossover developing. Although RSI is not available, the price behavior itself suggests elevated downside pressure rather than oversold reversal conditions. Trading consistently below the SMA20 indicates that short-term trend control has shifted away from buyers, with rallies likely facing selling interest rather than continuation strength.\n\nKey support is concentrated at 64300, aligning with the recent 24-hour low and acting as the immediate defensive level for bulls. A breakdown below this zone could expose the market to further downside toward the psychological 64000 region, with additional liquidity pockets potentially extending lower. On the upside, initial resistance is firmly placed at the SMA20 around 65383, while stronger supply remains at 65612 where previous rejection occurred.\n\nFrom a trading perspective, conditions favor a cautious, range-to-bearish approach. Short positions may be considered on failed recovery attempts below the SMA20, ideally with confirmation of momentum continuation. Long setups remain higher risk and should only be considered if price reclaims 65383 with convincing volume expansion. Risk management is critical, with stops above 65600 for shorts or below 64300 for any counter-trend longs, as volatility may expand near these thresholds."
+    }
+  }
+}
