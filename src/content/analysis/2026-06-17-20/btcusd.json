@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-17T20:54:42.101Z",
+  "price": {
+    "close": "64228.99",
+    "high": "64432",
+    "low": "64101.52",
+    "open": "64241.65",
+    "change": "-0.02",
+    "datetime": "2026-06-17 20:00:00"
+  },
+  "indicators": {
+    "rsi": 34.098422,
+    "macd": -237.055673,
+    "macd_signal": -175.98489,
+    "sma20": 65302.482
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线偏弱震荡整理",
+      "content": "当前BTC价格运行于65302均线下方，短期均线压制明显，整体呈现偏弱震荡结构。多空在64100-64430区间拉锯，趋势尚未形成明确方向突破。\n\nMACD柱值为负且继续放大，空头动能占优，但缺乏RSI参考，说明超卖与否不清晰，当前下跌动能仍在延续，但持续性仍需观察。\n\n下方关键支撑位于64100一线，若跌破可能下探63500区域；上方压力集中在64500及65300均线位置，需放量突破才有反转空间。\n\n操作上建议维持区间思路，高位靠近压力位可轻仓试空，低位支撑附近分批布局多单，严格设置止损，等待趋势选择后再顺势跟进。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin continues to trade in a mild corrective phase, hovering just under the short-term moving average. Price action around 64,228 reflects consolidation after repeated rejections near the 64,400 region. The market structure suggests indecision, with lower volatility and a tightening range between 64,101 and 64,432. Trading remains subdued as bulls struggle to reclaim momentum above the SMA20 level, currently acting as dynamic resistance.\n\nMomentum indicators continue to lean bearish, with MACD reading at -237.05 reinforcing downside pressure in the short term. While RSI data is unavailable, price behavior suggests neither strong overbought nor oversold conditions, aligning with a neutral-to-weak momentum profile. Signal confirmation remains limited due to incomplete oscillator data, leaving MACD as the primary directional cue for traders, suggesting cautious positioning until clearer confirmation emerges across intraday timeframes.\n\nKey support is established near 64,100, aligning with the session low and recent liquidity cluster. A break below this level could expose 63,500 as the next downside target, where buyers may re-emerge. On the upside, immediate resistance sits at 64,432, followed by the SMA20 near 65,302, which remains critical. A sustained move above 65,300 would be required to shift short-term structure bullish.\n\nTrading conditions favor range-bound strategies, with price compressing between well-defined intraday boundaries. Long positions may be considered near support with tight risk control, while breakout traders should wait for confirmation above resistance or below support. Overall bias remains neutral to slightly bearish until momentum indicators improve and price reclaims the SMA20 convincingly. Risk management is essential given the compressed volatility environment."
+    }
+  }
+}
