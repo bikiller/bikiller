@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-17T15:17:27.605Z",
+  "price": {
+    "close": "1758.04",
+    "high": "1758.18",
+    "low": "1750",
+    "open": "1754",
+    "change": "0.24",
+    "datetime": "2026-06-17 15:00:00"
+  },
+  "indicators": {
+    "rsi": 37.81034,
+    "macd": -8.085513,
+    "macd_signal": -4.20881,
+    "sma20": 1781.448
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡偏弱下行",
+      "content": "当前价格运行在1758附近，持续位于20日均线1781之下，整体呈现均线压制格局。短线结构偏弱，但下行动能并不强烈，更多表现为低波动整理。价格在1750至1758区间反复震荡，市场暂未形成有效方向突破，整体偏向弱势整理行情。\n\n技术指标方面，MACD维持在零轴下方且数值为-8.08，说明空头动能仍占主导，但下行动能释放有限。由于RSI数据缺失，可结合价格行为判断，目前市场处于弱势均衡状态，缺乏趋势性加速信号，动能修复仍需时间确认。\n\n支撑位方面，1750为近期关键短线支撑，一旦跌破可能下探1720甚至1700区域。上方阻力集中在1780至1785区间，进一步强阻力位于1820附近。当前价格被压制在均线下方，反弹空间受限，需关注突破确认情况。\n\n交易策略上建议保持谨慎，短线以区间思路为主，未有效站上1780之前不宜过度看多。若反弹至阻力区可考虑轻仓试空，止损设在突破1785上方；若跌破1750则顺势跟进空单，同时注意控制仓位与波动风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum continues to trade in a tight consolidation around 1758 USD, showing limited directional conviction after repeated failures to hold above the 1780 region. The short-term structure is mildly bearish as price remains positioned below the 20-day simple moving average at 1781.45. This setup indicates that upward momentum is still capped, while buyers are only managing to stabilize price within a narrow equilibrium zone near recent lows.\n\nThe MACD reading at -8.08 reinforces weakening momentum, indicating that bearish pressure has not fully dissipated despite the lack of strong directional volatility. With no RSI value provided, momentum confirmation is limited, but price stability near current levels suggests equilibrium between buyers and sellers. The absence of expansion in volatility typically aligns with continuation of sideways movement unless a breakout catalyst emerges soon.\n\nImmediate support is located at 1750, which has been repeatedly tested in the current micro-range, with a deeper support zone near 1735 if downside pressure increases. On the upside, resistance is concentrated at 1781, aligned with the 20-day SMA, followed by stronger resistance around 1800. Price reaction at these levels will likely define whether ETH transitions into recovery or extends consolidation.\n\nFrom a trading perspective, ETH is best approached as a range-bound asset in the short term. Long positions are more favorable near 1750 with tight risk control below 1735, while breakout traders may wait for a confirmed close above 1785 to target 1800 and higher. Until momentum strengthens, disciplined position sizing and avoidance of premature breakout chasing remain essential overall. Momentum confirmation remains key before any sustained trend continuation is assumed."
+    }
+  }
+}

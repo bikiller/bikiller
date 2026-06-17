@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-17T15:16:23.867Z",
+  "price": {
+    "close": "65130.6",
+    "high": "65162",
+    "low": "64926.22",
+    "open": "65047.02",
+    "change": "0.13",
+    "datetime": "2026-06-17 15:00:00"
+  },
+  "indicators": {
+    "rsi": 43.59383,
+    "macd": -244.71258,
+    "macd_signal": -229.17768,
+    "sma20": 65410.906
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱整理格局",
+      "content": "当前价格运行在65130附近，整体处于高位横盘震荡状态。K线结构显示上冲动能有限，价格多次受制于65200上方压力区域，短周期走势偏向整理而非单边趋势，市场情绪谨慎，缺乏明确方向选择。\n\n技术指标方面，价格已略低于20日均线65410，显示短线承压。MACD为负值-244.71，说明空头动能仍占优势，但下行动能未显著放大，存在趋缓迹象。由于RSI缺失，动量判断更多依赖均线与MACD结构。\n\n支撑位重点关注64920一带的日内低点，该位置为近期密集成交区；若跌破可能下探64500心理支撑。上方阻力集中在65400至65500区间，突破则有望打开至65800的反弹空间，但需成交量配合。\n\n操作上建议以区间思路为主，未有效突破前避免追涨杀跌。激进策略可在65400附近尝试短空，止损设于65600上方；稳健策略等待跌破64900确认弱势延续或放量突破65410后再顺势跟随。风险控制优先。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin trades near 65,130 with a modest 0.13% intraday increase, yet price action remains capped below the 20-period SMA at 65,410. This positioning reflects a mild bearish bias within a broader sideways consolidation. Market structure shows reduced volatility and compressed price movement, suggesting equilibrium between buyers and sellers. Current conditions indicate indecision, with the market likely preparing for a directional breakout once volume expands.\n\nBitcoin’s MACD at -244.71 signals persistent bearish momentum, although downside pressure is not accelerating sharply. The absence of RSI data limits confirmation, but price behavior suggests buyers are struggling to reclaim mid-range levels. Momentum remains weak, and without a sustained move above the SMA20, upside continuation is unlikely in the short term, keeping the market vulnerable to further consolidation or mild downside drift.\n\nImmediate support sits at 64,900 near the session low of 64,926, with deeper support around 64,500 if selling intensifies. Resistance is concentrated at 65,410 SMA20, followed by 65,800 and 66,200. This creates a tight decision zone where price compression often precedes expansion. A decisive break above or below these levels will likely define the next intraday trend direction.\n\nStrategy favors range trading discipline. Short setups are preferred on rejection near 65,400–65,800 with stops above resistance, targeting 64,900 and potentially lower. Long positions require confirmation of support holding above 64,900 with clear reversal signals before entry. Given low volatility, breakout risk is elevated, so traders should prioritize risk control and avoid premature entries until direction is confirmed by volume expansion."
+    }
+  }
+}
