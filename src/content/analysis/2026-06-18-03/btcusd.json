@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-18T03:30:02.978Z",
+  "price": {
+    "close": "64272.45",
+    "high": "64617.61",
+    "low": "64270.89",
+    "open": "64617.61",
+    "change": "-0.53",
+    "datetime": "2026-06-18 03:00:00"
+  },
+  "indicators": {
+    "rsi": 38.28634,
+    "macd": -329.84933,
+    "macd_signal": -294.76738,
+    "sma20": 64835.4895
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：弱势震荡偏空趋势",
+      "content": "当前BTC价格围绕64272附近运行，处于日内低位区间，整体走势明显弱于20周期均线64835。价格持续承压于均线下方，说明短线仍以空头主导为主。虽然波动幅度不大，但高点不断受限，市场缺乏有效上攻动能，结构上更偏向弱势震荡整理后的下行延续。\n\n从指标来看，MACD数值为-329，显示空头动能占据明显优势，市场仍处于负动能扩散阶段。由于RSI缺失，需结合价格行为判断，目前反弹力度不足且持续受压回落，说明多头承接意愿较弱。整体动能结构未出现明显背离信号，短期反转条件尚不成熟。\n\n支撑方面，64200附近为即时关键支撑，一旦跌破可能进一步下探64000整数关口。上方阻力首先在64600，其次是关键趋势分界线64835均线位置，该区域是多空分水岭，未有效突破前反弹空间受限，行情仍以承压为主。\n\n交易策略上，短线可考虑在64600至64800区间逢高试空，止损放在均线上方以防突破风险。激进多单需等待价格重新站稳64835并伴随放量确认，否则不宜提前抄底。当前环境更适合高抛低吸或顺势短空操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently showing a mild corrective structure after failing to sustain levels above the short-term moving average. Price action remains compressed near the lower end of its 24-hour range, suggesting indecision but with a slight bearish tilt. The inability to reclaim the 20-period SMA indicates weakening short-term momentum, while repeated tests of recent lows show sellers maintaining control in the near term.\n\nMomentum indicators reinforce this cautious outlook, with MACD firmly in negative territory, signaling persistent downside pressure. Although RSI is not provided, the overall behavior of price suggests subdued buying strength. The divergence between flat intraday movement and declining momentum hints that any recovery attempts may face immediate resistance unless volume expands significantly in favor of buyers.\n\nKey support is observed near 64270, aligning closely with the current intraday low, making it a critical level to defend. A breakdown could expose the psychological 64000 zone. On the upside, initial resistance sits at 64617, followed by the 20-SMA near 64835, which acts as a dynamic ceiling. A break above this cluster would be needed to restore bullish structure.\n\nIn this environment, traders may favor range-bound strategies, buying near support and taking profits into resistance while maintaining tight risk controls. Breakout traders should wait for a decisive move above 64835 or below 64000 to confirm direction. Until then, volatility compression suggests patience, as false moves remain likely within the current consolidation band."
+    }
+  }
+}
