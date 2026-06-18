@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-18T12:33:51.691Z",
+  "price": {
+    "close": "64101.77",
+    "high": "64188",
+    "low": "63853.68",
+    "open": "63901.93",
+    "change": "0.31",
+    "datetime": "2026-06-18 12:00:00"
+  },
+  "indicators": {
+    "rsi": 42.11392,
+    "macd": -315.3616,
+    "macd_signal": -330.56415,
+    "sma20": 64370.3295
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理格局",
+      "content": "当前比特币价格围绕64100附近窄幅震荡，整体呈现震荡偏弱结构。多空力量均衡但上方抛压略占优势，短线缺乏明确突破方向，市场进入整理阶段。\n\n技术指标方面，价格已略低于20日均线64370附近，MACD维持负值动能，空头动能仍占主导，但尚未出现加速下跌信号。\n\n下方支撑关注63850一线及63500附近，上方阻力集中在64370均线与64800区域，若放量突破则有望转强阶段。\n\n短线建议以区间思路为主，高抛低吸控制仓位，若跌破支撑需及时止损，突破站稳均线后再考虑顺势跟进，避免追涨杀跌，耐心等待确认信号操作为宜。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 64,102, holding within a relatively narrow intraday range between 63,854 and 64,188. The price remains slightly below the 20-period simple moving average at 64,370, suggesting that short-term momentum is still tilted to the downside despite the modest 24-hour gain of 0.31%. This positioning indicates that buyers have managed to stabilize the market, but they have not yet regained enough strength to confirm a sustained bullish reversal.\n\nThe moving average acts as an important reference point for trend direction. As long as BTC/USD remains below the 20-period SMA, rallies may encounter selling pressure near overhead resistance zones. The MACD reading of -315.36 reflects lingering bearish momentum, although the absence of signal-line data limits confirmation of whether downside pressure is accelerating or beginning to fade. The lack of RSI information also means overbought and oversold conditions cannot be fully assessed at this stage.\n\nFrom a price-structure perspective, immediate support is located around 63,850, which aligns with the recent session low. A break below this area could expose the market to further weakness toward the psychological 63,000 level. On the upside, resistance appears near the SMA at 64,370, followed by a stronger barrier around 64,800–65,000. A decisive move above these levels would improve the technical outlook and potentially attract additional momentum-driven buying.\n\nFor traders, a cautious approach remains appropriate while price trades below the moving average. Short-term participants may look for confirmation of strength through a sustained break above 64,370 before considering bullish positions. Conversely, failure to hold 63,850 could favor defensive or short-biased strategies. Risk management remains essential, with stop-loss placement below key support for long positions and above resistance for short positions to account for Bitcoin’s typically elevated volatility."
+    }
+  }
+}
