@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-18T08:41:24.276Z",
+  "price": {
+    "close": "64521.07",
+    "high": "64586.15",
+    "low": "64319.27",
+    "open": "64438.54",
+    "change": "0.13",
+    "datetime": "2026-06-18 08:00:00"
+  },
+  "indicators": {
+    "rsi": 46.63254,
+    "macd": -317.6964,
+    "macd_signal": -338.44877,
+    "sma20": 64659.491
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏弱整理",
+      "content": "当前BTC/USD整体处于高位横盘震荡结构，价格在64500附近窄幅运行，波动明显收敛。短期来看，行情未能有效站上20日均线64659一带，显示上方抛压仍存。整体趋势偏向震荡整理，略带弱势特征，缺乏明确单边动能，市场进入观望阶段。\n\n从技术指标来看，MACD维持在负值区域且数值走扩，说明短线动能仍偏空，反弹力度不足。由于RSI缺失，但结合价格长期贴近均线下方判断，市场情绪偏中性略弱，多空暂未形成一致方向，动能结构更倾向于修复或继续盘整。\n\n支撑与阻力方面，下方关键支撑集中在64300一线，若失守可能进一步回撤至64000整数关口。上方阻力则在64600至64660区域，若有效突破将有望测试65000心理关口，该区域同时也是短期多空分界线。\n\n交易策略上，建议以区间思路为主，高抛低吸更具性价比。在未突破64660前不宜追多，可关注64300附近企稳后的短线反弹机会。若放量跌破64000，则需转为偏空思路，控制仓位并严格设置止损应对波动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "BTC/USD is currently moving in a tight consolidation around 64.5k after a modest 0.13% daily change, indicating market indecision. Price action remains capped below the 20-period SMA at 64659, suggesting short-term bearish pressure despite lack of strong momentum. The narrow intraday range highlights reduced volatility and a balance between buyers and sellers, with neither side gaining decisive control over the prevailing trend.\n\nThe MACD reading at -317.70 signals weakening momentum and a persistent bearish bias, although the absence of a signal line limits crossover confirmation. With RSI unavailable, overbought or oversold conditions cannot be directly assessed, increasing reliance on price structure. The 20-day SMA at 64659 now functions as immediate resistance, reinforcing the view that bullish attempts are currently being rejected near this moving average level.\n\nImmediate support is located near the intraday low of 64319, with a secondary buffer around 64200 and a stronger psychological floor at 64000. On the upside, resistance is clustered at the 64659 SMA and the recent high of 64586, forming a tight ceiling. A sustained break above 64660 would be required to shift momentum bullish, while failure to hold 64300 risks accelerating short-term downside pressure.\n\nGiven the current compression, traders may favor range-bound strategies while volatility remains subdued. Short positions could be considered on rejection near 64600–64660 with protective stops above 64750. Alternatively, a confirmed breakout above 64660 may open room toward 65000 and beyond. Until a decisive break occurs, tight risk management and reduced position sizing are advisable to navigate the ongoing consolidation phase."
+    }
+  }
+}
