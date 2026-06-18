@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-06-18T06:17:29.080Z",
+  "price": {
+    "close": "0.08432",
+    "high": "0.08437",
+    "low": "0.08405",
+    "open": "0.08413",
+    "change": "0.21",
+    "datetime": "2026-06-18 06:00:00"
+  },
+  "indicators": {
+    "rsi": 34.34472,
+    "macd": -0.00060146084,
+    "macd_signal": -0.0004310784,
+    "sma20": 0.08591
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短线弱势震荡，关注反弹确认信号",
+      "content": "从当前价格表现来看，DOGE/USD运行于0.08432附近，24小时涨幅仅0.21%，整体处于窄幅震荡格局。价格低于20日均线0.08591，说明短期趋势依旧偏弱，多头尚未重新掌控市场，市场情绪以观望为主。\n\n技术指标方面，MACD数值为-0.000601，仍位于零轴下方，空头动能尚未完全衰减。由于RSI数据缺失，暂时无法判断超买超卖状态，但结合均线位置来看，当前仍属于反弹受压阶段，趋势偏向弱势整理而非强势上攻。\n\n关键位置上，0.08405可视为第一支撑位，若跌破则可能进一步测试0.08350区域；上方阻力首先关注0.08437日内高点，其次是20日均线所在的0.08590附近。只有有效站稳0.08600上方，才能确认短线趋势开始改善。\n\n交易策略上，激进投资者可等待回踩0.08400附近企稳后轻仓试多，严格设置止损；稳健投资者则建议等待价格重新突破并站稳0.08590后再考虑顺势跟进。目前不宜追涨，仓位控制在总资金的10%至20%以内，以防震荡行情带来反复亏损。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin vs US Dollar is trading in a very tight intraday range around 0.08432, indicating short-term consolidation with minimal volatility. Price action remains slightly below the 20-day simple moving average at 0.08591, suggesting a mild bearish bias in the near term. The inability to reclaim the moving average reflects weak bullish momentum, while repeated tests of the lower range hint at distribution rather than accumulation. Overall structure is neutral-to-soft.\n\nMomentum indicators show a cautious setup, with MACD reading at -0.00060146084 signaling persistent bearish pressure. The absence of RSI data limits overbought or oversold confirmation, but price behavior suggests weak buying interest. Histogram dynamics implied by negative MACD indicate that downside momentum is still dominant, even if not accelerating sharply. Traders should interpret this as a slow-grind environment rather than a trending breakout phase.\n\nImmediate support is observed near the session low at 0.08405, which has so far contained downside attempts. A break below this level could expose weaker liquidity zones, though no deeper levels are provided in current data. On the upside, initial resistance aligns with the intraday high at 0.08437, followed by stronger resistance at the 20-day SMA near 0.08591, which acts as a key pivot for trend recovery.\n\nGiven the compressed range and weak momentum, short-term traders may prefer range-bound strategies, buying near support and taking profits near resistance. Breakout traders should wait for a decisive move above the SMA20 to confirm bullish continuation, or below 0.08405 for bearish acceleration. Risk management is essential, as low volatility conditions can produce sudden fakeouts and rapid reversals. Position sizing should remain conservative until volatility expands."
+    }
+  }
+}
