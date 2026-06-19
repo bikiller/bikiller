@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-19T06:32:35.479Z",
+  "price": {
+    "close": "62804.47",
+    "high": "62819.48",
+    "low": "62661.99",
+    "open": "62675.82",
+    "change": "0.21",
+    "datetime": "2026-06-19 06:00:00"
+  },
+  "indicators": {
+    "rsi": 41.2835,
+    "macd": -397.38824,
+    "macd_signal": -444.078678,
+    "sma20": 62987.497
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏弱整理",
+      "content": "趋势判断：BTC当前在62800附近窄幅震荡，短线价格略低于SMA20，整体仍处于高位整理结构，动能偏弱，缺乏明确突破方向。\n\n指标解读：MACD数值为负，显示空头动能仍占优但开始收敛，RSI缺失无法判断超买超卖，短期动能偏弱但未加速下行存在震荡修复可能。\n\n支撑阻力：上方62980-63000为SMA20压制区，若无法突破则维持震荡；下方62650-62600为短线支撑，跌破将转弱。\n\n交易建议：当前以区间交易为主，接近62650可分批试多，62980上方谨慎追涨并考虑止盈，跌破支撑应及时止损控制风险为宜。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently moving in a narrow consolidation phase around 62.8k, reflecting reduced volatility after a mild intraday recovery. Price action remains slightly capped below the 20-day simple moving average, suggesting that short-term momentum is still struggling to reclaim bullish structure. The overall trend is neutral-to-slightly bearish, with buyers defending lower levels but lacking strong conviction for a breakout above recent highs.\n\nMomentum indicators lean bearish, with MACD reading significantly below zero at -397.39, indicating persistent downside pressure despite the recent stabilization in price. The absence of a confirmed signal line limits clarity, but divergence suggests weakening bullish attempts. Without RSI data, confirmation is incomplete, yet price trading under SMA(20) reinforces that short-term trend strength remains fragile and recovery attempts may face immediate selling pressure.\n\nImmediate support is forming near the recent session low around 62,660, with a stronger support zone extending toward 62,500 where buyers previously stepped in. On the upside, resistance is aligned with the 20-day SMA near 62,987, followed by a key psychological barrier around 63,200. A sustained break above resistance would be required to shift momentum back toward a bullish short-term structure.\n\nFrom a trading perspective, the market favors a cautious range-trading approach until a clear breakout occurs. Short-term traders may look for scalping opportunities between support and resistance zones, while waiting for confirmation above the SMA(20) for bullish continuation. Alternatively, failure to hold support could open downside pressure toward lower liquidity zones. Risk management remains critical given the lack of strong directional momentum in place."
+    }
+  }
+}
