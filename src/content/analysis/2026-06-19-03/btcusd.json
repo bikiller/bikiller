@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-19T03:52:28.026Z",
+  "price": {
+    "close": "62645.87",
+    "high": "62962.78",
+    "low": "62303.37",
+    "open": "62929.99",
+    "change": "-0.45",
+    "datetime": "2026-06-19 03:00:00"
+  },
+  "indicators": {
+    "rsi": 35.19844,
+    "macd": -429.69993,
+    "macd_signal": -470.10225,
+    "sma20": 63216.398
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理",
+      "content": "当前价格62645附近，位于20日均线63216下方，整体偏弱震荡，短线反弹力度有限，趋势以整理下行\n\nMACD为-429显示空头动能占优，短线下行动能延续，缺乏明显反转信号，市场情绪偏谨慎\n\n支撑关注62300日内低点，失守或下看61800；上方阻力63200及63000形成压制区域\n\n操作建议区间思路为主，未站上63200不追多，跌破62300可顺势做空并严格止损"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently in a mild corrective structure after failing to sustain momentum above recent intraday highs. Price action remains capped below the 20-day simple moving average, suggesting short-term bearish pressure. The structure shows compressed volatility with repeated rejection near local highs, indicating sellers are gradually absorbing demand. Overall, the market leans slightly bearish while still maintaining a broader consolidation range rather than a decisive downtrend.\n\nMomentum indicators reinforce weakening upside strength as MACD remains in negative territory at -429.70, signaling persistent bearish momentum. Although RSI is not provided, price behavior below the SMA(20) implies reduced bullish participation. The absence of strong bullish divergence suggests limited recovery strength. Market sentiment appears cautious, with traders likely favoring range trading or short-term mean reversion strategies rather than breakout positioning.\n\nPivotal support is identified near the recent low at 62303, which aligns closely with psychological support at 62000. A break below this zone could expose deeper downside toward 61000. On the upside, immediate resistance sits at 62960, followed by the 20-day SMA around 63216. A sustained move above this cluster would be required to shift momentum back toward a bullish recovery phase.\n\nGiven the current structure, traders may consider a cautious, range-focused approach. Short positions near resistance levels around 62960–63216 may offer favorable risk-reward setups if rejection continues. Alternatively, long entries should be reserved for confirmed rebounds above SMA20 with strong volume confirmation. Tight risk management is essential, with stops placed below 62300 to guard against breakdown acceleration and unexpected volatility spikes."
+    }
+  }
+}
