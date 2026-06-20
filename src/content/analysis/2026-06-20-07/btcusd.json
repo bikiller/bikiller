@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-20T07:47:28.880Z",
+  "price": {
+    "close": "63677.31",
+    "high": "63738.18",
+    "low": "63535.3",
+    "open": "63678.42",
+    "change": "-0.00",
+    "datetime": "2026-06-20 07:00:00"
+  },
+  "indicators": {
+    "rsi": 60.72663,
+    "macd": 145.87968,
+    "macd_signal": 76.46138,
+    "sma20": 63269.3435
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏多格局",
+      "content": "当前BTC/USD呈窄幅震荡走势，价格围绕63600一线整理，整体仍维持在短期均线上方，显示多头结构未被破坏，但上行动能略显不足，市场进入整理阶段。\n\nMACD指标维持正值145.88，动能柱略有放大，短期多头仍占优势；但缺乏RSI数据，需结合价格行为判断，当前属于中性偏强结构。\n\n支撑位关注63500及SMA20（63269），若回踩不破仍具支撑意义；上方阻力集中于63750与64000整数关口，突破需量能配合确认有效。\n\n建议以区间交易为主，63500上方可轻仓试多，止损63200下方；若放量突破63750，可顺势追多目标64000以上，严格控制风险。的"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin trades near 63,677 in a tight consolidation after a nearly flat 24h session. Price is compressed between 63,535 and 63,738, signaling short-term equilibrium. Structure remains mildly bullish as price holds above the 20-period SMA. However momentum is fading, suggesting indecision and preparation for a volatility expansion rather than a sustained directional move.\n\nMACD at 145.87 indicates positive momentum, though absence of a signal line limits crossover analysis. RSI is unavailable, reducing oscillator confirmation. Price above SMA20 at 63,269 maintains a constructive bias. Still, lack of follow-through suggests weakening impulse strength and growing likelihood of sideways rotation unless volume increases.\n\nSupport sits at 63,535, then SMA20 near 63,269. A deeper level is around 62,800 where prior liquidity may exist. Resistance is 63,738, with a breakout above 64,000 opening extension potential toward 64,500. Price remains trapped between these boundaries, reflecting compressed volatility and balanced order flow.\n\nRange strategies are preferred while price remains inside this structure. Long entries near 63,300–63,500 with stops below 63,200 offer controlled risk. Breakout confirmation above 63,750 favors upside continuation toward higher resistance. A breakdown below 63,200 would weaken structure and likely trigger a move toward 62,800 support zone."
+    }
+  }
+}
