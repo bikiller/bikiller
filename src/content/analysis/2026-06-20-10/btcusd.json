@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-20T10:30:04.690Z",
+  "price": {
+    "close": "63592",
+    "high": "63710.55",
+    "low": "63570.8",
+    "open": "63667.08",
+    "change": "-0.12",
+    "datetime": "2026-06-20 10:00:00"
+  },
+  "indicators": {
+    "rsi": 56.30528,
+    "macd": 137.016545,
+    "macd_signal": 103.2535,
+    "sma20": 63343.787
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位窄幅整理偏强震荡",
+      "content": "当前BTC/美元处于高位窄幅整理结构，价格运行在63570至63710区间内反复震荡，整体走势仍偏向多头控制，但短线动能有所收敛，暂未形成明确方向突破信号，市场进入整理阶段。\n\n技术指标方面，MACD维持正值且处于高位区域，说明多头动能仍在但扩张速度减弱；价格稳定运行在SMA20均线63343上方，均线支撑有效，但RSI缺失使超买情况需谨慎评估。\n\n支撑与阻力结构清晰，下方关键支撑在63340一带的SMA20与63500整数关口，上方压力集中于63710近期高点，一旦有效突破，短线有望延伸至64000整数心理区域。\n\n交易策略建议以区间操作为主，在未突破前高之前避免追涨，倾向高抛低吸思路；若回踩63340附近可轻仓布局多单，若跌破支撑则需警惕回调加深风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a tight consolidation range around 63,592 after a marginal 24-hour decline of -0.12%. Price action remains relatively stable, oscillating just below the intraday high of 63,710 and slightly above the low of 63,570. This compression suggests market indecision, but the structure still leans mildly bullish as price holds above the 20-day SMA at 63,343, indicating underlying support from the short-term trend baseline.\n\nFrom a trend perspective, BTC/USD is in a mild upward bias but lacking strong momentum. The proximity of price to the 20-day SMA suggests equilibrium between buyers and sellers, with no clear breakout yet. The higher lows formed in recent sessions hint at accumulation, though volume confirmation is absent. If bulls maintain control above 63,300, the broader structure favors continuation toward a retest of recent highs near 63,700.\n\nIndicator interpretation remains mixed but slightly constructive. The MACD reading at 137.01 suggests positive momentum is still present, although the lack of a visible signal line limits confirmation of trend strength. Without RSI data, momentum overextension cannot be assessed precisely, but current price stability near resistance implies neutrality rather than exhaustion or strong breakout conditions.\n\nKey support is located at 63,343 (20-day SMA), followed by a stronger demand zone near 63,000. Resistance is immediate at 63,710, with a potential breakout target toward 64,200 if momentum expands. Short-term trading favors range strategies: buying near support with tight stops or waiting for a decisive breakout above 63,710 before initiating long positions. Caution is warranted due to compressed volatility."
+    }
+  }
+}
