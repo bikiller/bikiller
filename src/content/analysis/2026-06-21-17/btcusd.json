@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-21T17:25:01.227Z",
+  "price": {
+    "close": "64075",
+    "high": "64140",
+    "low": "64030.63",
+    "open": "64065.58",
+    "change": "0.01",
+    "datetime": "2026-06-21 17:00:00"
+  },
+  "indicators": {
+    "rsi": 52.65308,
+    "macd": 81.63794,
+    "macd_signal": 118.10749,
+    "sma20": 64147.2245
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：窄幅震荡偏弱整理",
+      "content": "当前BTC/USD处于窄幅震荡整理结构，最新价格64075，整体围绕64100一线反复拉锯，多空力量暂时均衡但略偏弱，短线缺乏明确突破动能。\n\n均线方面，价格运行在SMA20 64147下方，短线形成压制结构；MACD虽为正值81.63但缺少信号线确认，动能延续性存疑，指标整体偏中性略弱。\n\n支撑位关注64030附近低点，一旦失守可能下探更低区间；阻力集中在64140-64150区域，该区同时对应近期高点与均线压制带，突破难度较大。\n\n交易策略上建议以区间思路为主，高抛低吸为核心，在64030上方轻仓试多，接近64140-64150区域可考虑短空，等待有效放量突破后再顺势跟进。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin vs US Dollar is currently in a tight consolidation phase following an extremely narrow 24-hour range, indicating reduced volatility and market indecision. Price action remains pinned just below the short-term moving average, suggesting mild bearish pressure. Despite the lack of directional breakout, the market structure remains balanced, with neither buyers nor sellers establishing clear dominance, often a precursor to an imminent volatility expansion move.\n\nMomentum indicators present a mixed picture, with MACD remaining positive at 81.64, signaling underlying bullish momentum, but the absence of a visible signal line reading limits confirmation strength. The price sitting slightly below the 20-period SMA reinforces short-term resistance pressure. Without RSI data, overbought or oversold conditions cannot be confirmed, leaving traders reliant on price structure and moving average behavior for directional bias.\n\nImmediate support is located near the session low at 64030, a level that has been tested repeatedly within the current range. Resistance is defined by the session high around 64140, closely aligned with the 20-SMA, strengthening its significance as a dynamic barrier. A breakout above this zone could open room toward higher liquidity pockets, while failure to hold support risks renewed downside pressure.\n\nShort-term traders may consider range-bound strategies, buying near support and taking profits near resistance, given the compressed volatility environment. Breakout traders should wait for a decisive close above 64150 or below 64030 to confirm directional momentum before committing. Risk management remains essential, with tight stops recommended due to the unusually narrow trading range and potential for sudden expansion."
+    }
+  }
+}
