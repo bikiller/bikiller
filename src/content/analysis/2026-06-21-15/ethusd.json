@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-21T15:20:10.156Z",
+  "price": {
+    "close": "1729.42",
+    "high": "1732.15",
+    "low": "1727.15",
+    "open": "1728.44",
+    "change": "0.10",
+    "datetime": "2026-06-21 15:00:00"
+  },
+  "indicators": {
+    "rsi": 50.43871,
+    "macd": 0.32859773,
+    "macd_signal": 1.68897,
+    "sma20": 1732.926
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡偏弱整理",
+      "content": "以太坊当前报价1729.42美元，价格运行于20日均线1732.93美元下方，短线呈现震荡偏弱格局。过去24小时波动区间仅为1727.15至1732.15美元，显示多空双方均较为谨慎。均线压制尚未有效突破，市场暂时缺乏明确方向，整体仍以区间整理为主。\n\n从技术指标来看，MACD数值为0.3286，虽然仍处于零轴上方，表明中期趋势尚未完全转空，但动能较弱，显示上涨驱动力不足。由于RSI数据缺失，难以进一步确认超买或超卖状态，因此短线判断需更多参考价格结构与成交量变化。\n\n关键支撑位首先关注1727美元附近，该位置对应日内低点区域，若失守则可能进一步下探1720美元甚至1710美元。上方阻力位集中在1732至1735美元区间，恰好与20日均线重合；若成功突破并站稳，则有机会挑战1745美元至1750美元区域。\n\n操作策略方面，激进交易者可关注1727至1730美元区域的支撑有效性，寻找低吸机会；稳健投资者则建议等待价格重新站上1735美元并确认突破后再考虑顺势做多。若跌破1727美元，则应控制仓位并设置止损，以防震荡行情演变为进一步下跌走势。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "Ethereum is trading at 1729.42 USD with a minimal 24-hour change of 0.10%, reflecting a low-volatility consolidation phase. Price remains tightly bounded between 1727.15 and 1732.15, indicating equilibrium between buyers and sellers. However, trading slightly below the SMA(20) at 1732.93 suggests mild short-term weakness. Overall structure remains neutral to slightly bearish, with no confirmed breakout or breakdown signal currently present in price action.\n\nMACD at 0.3286 indicates residual bullish momentum, but the absence of a signal line limits confirmation strength and reduces reliability of trend continuation signals. Without RSI data, overbought or oversold conditions cannot be assessed, though the compressed price range implies balanced market conditions. Failure to reclaim the SMA(20) suggests fading upward momentum, while low volatility points toward ongoing consolidation ahead of a potential breakout.\n\nImmediate support is located at 1727.15, aligned with the recent 24-hour low and acting as the key short-term defensive level. A breakdown below this area could expose the 1715–1720 region as the next liquidity zone. Resistance is positioned at 1732.15, reinforced by the SMA(20) at 1732.93, forming a tight overhead ceiling. A sustained move above this cluster may open the path toward 1740, where prior supply pressure is expected.\n\nIn this environment, range-bound strategies remain most effective. Long positions near 1727 support with tight stops below 1725 offer potential rotation back toward 1732–1740 resistance. Short setups may be considered on rejection at the SMA(20), particularly if momentum weakens at the upper boundary. Breakout traders should wait for confirmed expansion beyond 1733 or below 1727 with volume support before committing to directional trades."
+    }
+  }
+}
