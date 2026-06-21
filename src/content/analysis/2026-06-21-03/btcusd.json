@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-21T03:40:09.262Z",
+  "price": {
+    "close": "64352.22",
+    "high": "64397.1",
+    "low": "64146.06",
+    "open": "64157.98",
+    "change": "0.30",
+    "datetime": "2026-06-21 03:00:00"
+  },
+  "indicators": {
+    "rsi": 66.18136,
+    "macd": 225.66719,
+    "macd_signal": 199.61118,
+    "sma20": 63878.064
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏强整理",
+      "content": "短期趋势呈温和震荡上行结构，价格持续贴近日内高位，突破后回踩幅度有限，多空博弈集中在64000上方区域，整体维持偏强整理格局。当前市场动能仍偏向多头，但上攻节奏略有放缓，进入高位盘整阶段。  \n\n技术指标方面，MACD维持在零轴上方且动能柱为正值225，显示多头动能占优，但RSI暂缺，需观察是否出现超买钝化。SMA20位于63878附近形成动态支撑，对短线回调提供明显承接作用。  \n\n支撑位重点关注63880一线与63600区域，若跌破将削弱短期结构；上方阻力集中在64400至64500区间，突破后有望打开新一轮上行空间。整体区间收敛，波动率下降。  \n\n交易策略建议以区间偏多思路为主，未突破前可低吸高抛；若放量突破64400可顺势追多，止损设于63850下方，控制回撤风险，同时注意假突破风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a tight consolidation around 64,352, holding a mild bullish bias after a modest 0.30% daily gain. Price action remains compressed within a narrow intraday range between 64,146 and 64,397, suggesting equilibrium between buyers and sellers. Importantly, price is sitting above the 20-day SMA at 63,878, which indicates the short-term trend is still leaning upward, though momentum lacks strong conviction.\n\nFrom an indicator standpoint, the MACD reading at 225.67 reflects underlying positive momentum, but the absence of a signal line limits confirmation of trend strength. Without RSI data, momentum must be inferred from structure and volatility, which currently points to a low-volatility consolidation phase. This typically precedes expansion, but direction remains uncertain until a clear breakout or breakdown occurs beyond the current compression zone.\n\nKey support is clustered near 64,150, aligning with the recent session low, followed by a stronger structural base at the 64,000 psychological level. A deeper safety net sits at the 20-day SMA around 63,878, which would be critical for maintaining bullish structure if tested. On the upside, immediate resistance is positioned at 64,397, with a breakout above this level opening room toward 64,650–64,800.\n\nTrading conditions favor range strategies in the short term, with dip-buying near support offering favorable risk-reward as long as stops are kept below 63,850 to protect against SMA breakdown. Alternatively, a breakout above 64,400 with volume expansion could signal continuation of the uptrend. Until then, cautious positioning and tight risk management are essential due to compressed volatility."
+    }
+  }
+}
