@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-22T06:42:37.667Z",
+  "price": {
+    "close": "63980.88",
+    "high": "64245.14",
+    "low": "63910.41",
+    "open": "64164.81",
+    "change": "-0.29",
+    "datetime": "2026-06-22 06:00:00"
+  },
+  "indicators": {
+    "rsi": 50.021454,
+    "macd": 18.08927,
+    "macd_signal": 12.33105,
+    "sma20": 63993.991
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理略偏弱",
+      "content": "当前BTC/USD整体处于高位窄幅震荡结构，价格围绕64000附近反复整理。短线在64245一线受压后回落，显示上方抛压仍存，但下方63910支撑尚未失守，市场多空暂时均衡。24小时波动收窄，动能释放有限，整体更偏向震荡整理格局，趋势上略带轻微偏弱的整理特征。\n\n从技术指标看，MACD仍维持在18附近的正值区域，说明中期动能尚未完全转弱，但缺乏进一步放大迹象，动能边际减弱。价格略低于SMA20均线63993，显示短期均线支撑转为压力，结构偏弱。由于RSI缺失，需结合价格行为判断，目前更接近中性偏弱的震荡状态。\n\n支撑方面，63910构成当前关键短期防线，一旦跌破可能进一步下探至63700区域寻求流动性支撑。阻力方面，64245为近期高点压力，若有效突破则有望打开上行空间至64500上方。当前价格夹在区间中部运行，说明市场缺乏趋势突破信号，更适合区间交易思路。\n\n交易策略上，当前更适合高抛低吸的区间思路。在接近63910支撑区域可考虑轻仓试多，并严格设置止损；若反弹至64200上方遇阻，可尝试短线做空。若价格放量突破64245，则需顺势跟随多头；反之跌破支撑则应及时止损并等待新结构确认。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading in a tight consolidation around 63,980 after a mild 0.29% decline, reflecting a market in short-term balance between buyers and sellers. Price action is compressing within a narrow intraday band, which typically signals indecision and potential energy buildup for a directional breakout. The broader structure remains neutral, though the inability to sustain upward momentum above recent highs introduces a slight intraday bearish tilt.\n\nFrom an indicator perspective, the MACD reading at 18.09 suggests that underlying momentum still leans mildly positive, even if it is not strong enough to confirm a sustained uptrend. With price sitting almost exactly on the 20-period SMA near 63,994, the market is effectively orbiting its short-term equilibrium level. The missing RSI data limits precision on overbought or oversold conditions, but price behavior around the moving average continues to reflect consolidation rather than trend expansion.\n\nKey support is located at 63,910, which marks the current session low and the immediate line of defense for bulls. A breakdown below this area could expose 63,800 as the next psychological support zone, followed by deeper cushioning near 63,500. On the upside, resistance is clearly defined at 64,245, with a break above this level potentially opening a path toward 64,500–64,800 as the next liquidity pocket.\n\nTrading conditions favor patience and range-based execution in the near term. Buying near support with tight risk control below 63,800 can be considered, while profit-taking near resistance remains logical given the compressed volatility. Breakout traders should wait for a confirmed close beyond either 64,245 or 63,900 to reduce false signal exposure, as current price action remains vulnerable to whipsaws in this low-volatility environment."
+    }
+  }
+}
