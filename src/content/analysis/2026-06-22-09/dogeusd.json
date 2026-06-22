@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-06-22T09:51:40.618Z",
+  "price": {
+    "close": "0.08368",
+    "high": "0.08368",
+    "low": "0.08346",
+    "open": "0.08349",
+    "change": "0.22",
+    "datetime": "2026-06-22 09:00:00"
+  },
+  "indicators": {
+    "rsi": 56.4862,
+    "macd": 0.000034647357,
+    "macd_signal": -0.000041747196,
+    "sma20": 0.083183
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：窄幅震荡偏强",
+      "content": "当前狗狗币/美元处于窄幅震荡偏强结构，价格在0.0835上方整理，多头略占优势但未形成突破，市场进入蓄势阶段，方向选择临近。\n\n技术指标方面，MACD微幅为正显示动能轻度改善，价格运行在SMA20之上，短期均线提供支撑，但RSI缺失使超买超卖判断不完整，需结合量能观察。\n\n支撑位关注0.0832与0.0830区间，若跌破可能回测震荡下沿；阻力位在0.0838及0.0845附近，突破需放量确认，否则仍以区间波动为主。\n\n交易策略建议以区间低吸高抛为主，未放量突破前不宜追涨。激进者可在支撑附近轻仓试多，止损设于0.0830下方，等待方向选择。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "DOGE/USD is currently exhibiting a tight consolidation phase, with price action confined to an extremely narrow intraday range between 0.08346 and 0.08368. The structure suggests market indecision following a prior equilibrium state. Despite the muted volatility, price holding slightly above the 20-day SMA indicates a mild short-term bullish bias. However, lack of directional expansion implies traders are awaiting a catalyst before committing to a breakout in either direction.\n\nThe MACD reading remains marginally positive at 0.0000346, reflecting weak but constructive momentum in favor of buyers. Although the signal line is not provided, the histogram behavior suggests limited bearish pressure and a gradual shift toward accumulation. The absence of RSI data reduces precision in momentum confirmation; however, price stability above the SMA(20) at 0.083183 reinforces near-term support and suggests consolidation rather than trend reversal or exhaustion.\n\nImmediate support is anchored at the 20-day SMA near 0.08318, with additional downside protection around 0.08300 and 0.08280 if selling pressure intensifies. On the upside, resistance is concentrated at the intraday high of 0.08368, followed by psychological and structural resistance near 0.08400. A decisive break above this zone could open the path toward short-term bullish continuation, while failure to hold SMA support risks a return to range lows.\n\nTrading conditions favor a range-bound strategy, with scalpers potentially buying near SMA support and taking profits into resistance. Conservative traders may wait for a confirmed breakout above 0.08400 or breakdown below 0.08300 to establish directional positions. Risk management remains critical due to low volatility and frequent fakeouts in compressed ranges. Stop-loss levels should be tightly placed below 0.08280 for longs, while short setups require confirmation of failed breakout attempts."
+    }
+  }
+}
