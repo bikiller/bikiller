@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-06-22T22:06:39.876Z",
+  "price": {
+    "close": "0.08268",
+    "high": "0.08277",
+    "low": "0.08259",
+    "open": "0.0826",
+    "change": "0.11",
+    "datetime": "2026-06-22 22:00:00"
+  },
+  "indicators": {
+    "rsi": 41.85533,
+    "macd": -0.00015196628,
+    "macd_signal": -0.00001045111,
+    "sma20": 0.0833705
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：窄幅震荡偏弱整理",
+      "content": "当前价格0.08268，运行于SMA20下方，短线维持极窄区间震荡，动能偏弱，整体呈整理下行结构。市场缺乏方向性突破信号明显\n\nMACD处于负值区间且动能柱缩减，说明空头略占优势但力度有限；价格低于SMA20，均线压制明显，短期反弹需量能配合为主谨慎观\n\n支撑位关注0.0825附近，若跌破或进一步测试0.0820；上方阻力在0.0828及0.0834（SMA20），突破需放量确认\n\n短线建议以区间交易为主，靠近支撑可轻仓试多，反弹至阻力分批止盈；若跌破0.0820应及时止损观望，等待趋势确认为宜操作纪律严格"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "DOGE/USD is currently consolidating in an extremely tight range around 0.0827, indicating low volatility and indecision in the market. Price action remains slightly below the 20-period SMA at 0.08337, suggesting a mild bearish bias in the short term. Despite the minimal 24-hour change, the inability to reclaim the moving average reflects ongoing selling pressure. Overall structure points to sideways-to-soft bearish momentum.\n\nMACD currently prints a negative value at -0.00015196628, reinforcing weakening momentum and a lack of bullish follow-through. Although the signal line is not provided, the histogram behavior implied by the negative reading suggests sellers still have slight control. RSI data is unavailable; however, price compression near the range low typically aligns with neutral-to-slightly bearish momentum conditions in low-volatility environments such as this current consolidation phase.\n\nDOGE/USD immediate support is established at 0.08259, marking the session low and the primary defense zone for buyers. A break below this level could expose downside pressure toward 0.08250 or lower micro-support regions. On the upside, resistance is first encountered at the 20-period SMA near 0.08337, followed by a stronger barrier around 0.08400, where prior supply has historically emerged during intraday rallies.\n\nTrading conditions favor range-bound strategies due to compressed volatility and lack of directional confirmation. Long entries may be considered near 0.0826 support with tight stops below 0.0824, targeting a rebound toward 0.0833–0.0840 resistance. Conversely, a decisive breakout above the SMA would shift bias bullish, while a breakdown below support would confirm continuation of bearish momentum and open deeper downside targets. Patience is required in this low-volatility environment."
+    }
+  }
+}
