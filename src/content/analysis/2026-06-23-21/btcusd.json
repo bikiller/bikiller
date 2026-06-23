@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-23T21:29:11.469Z",
+  "price": {
+    "close": "62450.01",
+    "high": "62536.93",
+    "low": "62388.98",
+    "open": "62388.98",
+    "change": "0.10",
+    "datetime": "2026-06-23 21:00:00"
+  },
+  "indicators": {
+    "rsi": 38.47092,
+    "macd": -408.64362,
+    "macd_signal": -446.94074,
+    "sma20": 62667.841
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线偏弱震荡整理",
+      "content": "当前BTC/USD报62450.01，24小时波动极为有限，价格运行于62388.98至62536.93区间内，显示市场观望情绪较浓。从趋势结构看，现价低于20日简单移动平均线62667.84，短线仍处于弱势整理格局，多头暂未形成有效突破。\n\n技术指标方面，MACD数值为-408.64，位于零轴下方，反映中期动能仍偏空，空头力量尚未完全释放。RSI数据暂缺，无法确认超买或超卖状态，但结合价格表现来看，市场缺乏明显方向性驱动，震荡特征较为突出。\n\n关键位置上，62380附近构成短线第一支撑，若跌破则可能进一步测试62000整数关口。上方阻力首先关注62670一线，即20日均线所在区域；若成功站稳其上，则有机会向63000关口发起挑战，打开进一步反弹空间。\n\n交易策略方面，短线投资者可采取区间交易思路，在支撑附近关注低吸机会，在阻力区域适当减仓。激进交易者可等待价格有效突破62670后顺势跟进；若失守62380，则需警惕空头扩大优势，并严格设置止损控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating around 62450 after a very muted 24-hour session, reflecting a balance between buyers and sellers with no strong directional conviction. Price action is compressed within a narrow intraday range between 62388 and 62536, signaling low volatility and potential energy buildup. Despite this stability, trading remains slightly pressured as price holds below the 20-day SMA at 62667, indicating that short-term momentum is leaning cautiously bearish.\n\nMomentum signals reinforce this mild downside bias. The MACD reading at -408.64 suggests weakening bullish momentum and persistent negative pressure, even though the lack of a visible RSI limits overbought or oversold confirmation. In this context, price structure becomes more important, and BTC’s inability to reclaim the SMA(20) highlights that sellers still have marginal control. However, the narrow range suggests this is not a strong trend, but rather a consolidation phase.\n\nKey support is found at the session low near 62388, which acts as the first line of defense for bulls. If this level breaks, attention shifts toward the psychological zone around 62000, where deeper liquidity may sit. On the upside, immediate resistance aligns with the 20-day SMA at 62667, followed by a stronger barrier near 63000. A clean breakout above the SMA would be an early signal of renewed bullish recovery potential.\n\nFrom a trading perspective, current conditions favor range-bound strategies rather than trend-following setups. Short-term traders may look to fade moves between 62388 support and 62667 resistance, while keeping stops tight due to potential volatility expansion. Breakout traders should wait for a decisive close outside this range, as premature entries risk whipsaws in this low-conviction environment."
+    }
+  }
+}
