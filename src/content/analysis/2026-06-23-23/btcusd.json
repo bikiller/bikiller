@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-23T23:39:54.276Z",
+  "price": {
+    "close": "62567.95",
+    "high": "62604.79",
+    "low": "62413.85",
+    "open": "62509.96",
+    "change": "0.09",
+    "datetime": "2026-06-23 23:00:00"
+  },
+  "indicators": {
+    "rsi": 41.035572,
+    "macd": -340.061127,
+    "macd_signal": -412.8314,
+    "sma20": 62517.93
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：窄幅震荡偏强",
+      "content": "当前BTC/USD呈现窄幅震荡偏强格局，价格围绕62500一线运行，整体波动收敛，多空力量暂时均衡，市场处于短期整理阶段，尚未形成明确方向突破信号。\n\n技术指标方面，价格略高于20日均线62517，短线结构仍具一定支撑，但MACD为-340显示空头动能仍在占优，不过下行动能出现边际减弱迹象。\n\n支撑位关注62400及62350区域，一旦失守可能引发回踩延伸；上方阻力集中在62600至62650区间，突破需成交量配合，否则仍维持震荡。\n\n交易策略以区间操作为主，靠近支撑可轻仓试多并设置止损，下行跌破62350需及时离场；接近阻力区域分批止盈，避免假突破造成回撤风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading around 62567 after a very tight 24-hour range between 62413 and 62604, indicating clear short-term consolidation. Price action remains compressed just above the 20-period SMA at 62517, reflecting equilibrium between buyers and sellers. The broader intraday structure is neutral, with neither bulls nor bears establishing dominance. This kind of low-volatility environment often signals market indecision ahead of a potential expansion phase.\n\nThe MACD reading at -340 suggests lingering bearish momentum from prior sessions, though its impact appears to be fading as price stabilizes near the moving average. Without RSI data, momentum confirmation is limited, but price behavior near the SMA20 suggests mid-range balance rather than extreme conditions. Overall, technical signals point to consolidation with a slight bearish undertone unless momentum begins to recover.\n\nKey support is located near 62400, aligned with the session low, followed by a stronger zone around 62200 where demand has previously emerged. On the upside, immediate resistance sits at 62600, which coincides with the recent high and upper boundary of the current range. A sustained break above this level could open the path toward 62800, while failure to hold support may trigger a quick rotation lower within the broader range structure.\n\nFrom a trading perspective, range-bound strategies remain favorable in the current environment. Long positions may be considered near 62400 with tight risk controls below 62200, targeting a move back toward 62600–62800. Alternatively, traders may wait for confirmation of a breakout: above 62600 for bullish continuation or below 62400 for downside momentum. Given the compressed volatility, disciplined stop placement is essential to avoid whipsaw moves."
+    }
+  }
+}
