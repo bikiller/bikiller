@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-22T23:54:29.837Z",
+  "price": {
+    "close": "63903.54",
+    "high": "63980.32",
+    "low": "63798.76",
+    "open": "63889.99",
+    "change": "0.02",
+    "datetime": "2026-06-22 23:00:00"
+  },
+  "indicators": {
+    "rsi": 42.97389,
+    "macd": 10.30985,
+    "macd_signal": 106.68771,
+    "sma20": 64376.384
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理格局",
+      "content": "短线整体呈震荡偏弱结构，价格围绕63900附近整理，未能站上64376均线压制，多空动能趋于平衡市场等待方向选择信号偏弱\n\nMACD指标维持正值约10.31但动能减弱，RSI缺失导致超买超卖难以确认，短期趋势参考性下降需结合均线过滤信号确认偏弱\n\n下方支撑集中于63798低点及63500整数关口，上方64376为均线阻力，突破前仍以区间震荡为主关注成交量放大确认偏弱\n\n操作建议以区间交易为主，靠近支撑分批试多，接近均线压力减仓，若放量突破则顺势跟进严格止损控制风险避免追涨杀跌等待确认偏弱"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a tight consolidation around 63,900, reflecting very low volatility and indecision across the short-term timeframe. Price action has been compressed between 63,798 and 63,980, showing a lack of directional commitment after recent movement. The broader intraday structure remains slightly weak as price continues to hold below the 20-period SMA, suggesting that upside attempts are still being capped by overhead supply despite stable price behavior.\n\nFrom an indicator perspective, momentum signals are mixed but leaning neutral. The MACD reading at 10.31 suggests there is still some positive momentum present, but without a visible signal line, confirmation of strength or a clean crossover cannot be validated. RSI is unavailable, limiting overbought/oversold interpretation. However, trading consistently below the SMA(20) at 64,376 maintains a mild bearish bias, indicating that trend recovery has not yet been established.\n\nKey resistance is located immediately at 63,980, followed by the psychological 64,000 level and more structurally important resistance at the SMA(20) around 64,376. On the downside, initial support sits at 63,798, which aligns with the recent session low. Below that, minor demand zones appear near 63,500, with stronger structural support around the 63,000 region, which would likely attract higher buying interest if tested.\n\nTrading conditions favor range-bound strategies in the short term, with opportunities to fade moves near support and resistance levels while maintaining tight risk control. Breakout traders should wait for a decisive close above 64,400 to confirm bullish continuation, or a breakdown below 63,700 to signal bearish expansion. Given the compressed volatility, position sizing should remain conservative until a clear directional move is confirmed by volume and follow-through."
+    }
+  }
+}
