@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-23T17:03:14.537Z",
+  "price": {
+    "close": "62424.94",
+    "high": "62467.43",
+    "low": "62420.42",
+    "open": "62463.65",
+    "change": "-0.06",
+    "datetime": "2026-06-23 17:00:00"
+  },
+  "indicators": {
+    "rsi": 33.76888,
+    "macd": -468.73978,
+    "macd_signal": -451.11181,
+    "sma20": 63012.1105
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱，短线承压",
+      "content": "当前BTC/USD报62424.94，几乎贴近日内低点，且低于20日均线63012.11，说明短线反弹力度不足。24小时跌幅仅-0.06%，但价格运行在均线下方，市场仍以弱势震荡为主。\n\nMACD为-468.74，快慢线处于零轴下方，空头动能尚未完全衰减。RSI暂缺，无法精确判断超买超卖，但结合窄幅波动看，短期更像在低位整理，等待方向选择。\n\n下方支撑先看62420附近的即时低点，失守后关注62000整数位与61500区域；上方阻力位在63000一线，若放量收复，则有机会进一步测试63500与64000附近。\n\n操作上宜以观望或轻仓为主，激进者可在支撑位企稳后做短多，止损放在62000下方；若价格反弹至63000上方并伴随成交放大，再考虑顺势跟进。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading around 62,424, showing an extremely tight intraday range and mild bearish pressure with a slight 24h decline. Price action remains compressed near the session low, indicating indecision but with a subtle downside bias. The market is consolidating after recent movement, lacking strong directional conviction. Overall structure suggests a short-term pause within a broader corrective phase rather than a decisive trend continuation.\n\nFrom a trend perspective, BTC remains below the 20-day SMA at 63,012, signaling that short-term momentum is still weak. This positioning below a key moving average typically reflects bearish control unless reclaimed decisively. The MACD reading of -468.74 reinforces downside momentum, suggesting sellers still have marginal dominance. With RSI unavailable, momentum confirmation relies more heavily on price structure and moving average behavior.\n\nImmediate support is forming around 62,400–62,200, which aligns closely with the current trading zone and recent intraday lows. A break below this area could expose 62,000 as the next psychological level, followed by a deeper support band near 61,500. On the upside, initial resistance is seen at 62,600, with stronger barriers at 63,000 where the SMA20 sits, acting as a key dynamic resistance level.\n\nFor trading strategy, the current environment favors range-bound or mean-reversion approaches rather than breakout positioning. Short-term traders may look for scalping opportunities between 62,200 support and 62,600 resistance, while more conservative participants should wait for a clear break above 63,000 to confirm bullish recovery. Conversely, a breakdown below 62,200 could justify momentum-based short entries targeting lower support zones."
+    }
+  }
+}
