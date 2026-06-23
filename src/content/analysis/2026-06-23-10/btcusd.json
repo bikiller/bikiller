@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-23T10:59:12.959Z",
+  "price": {
+    "close": "62226.99",
+    "high": "62500.01",
+    "low": "62158.31",
+    "open": "62298.01",
+    "change": "-0.11",
+    "datetime": "2026-06-23 10:00:00"
+  },
+  "indicators": {
+    "rsi": 23.31042,
+    "macd": -484.3984,
+    "macd_signal": -269.34086,
+    "sma20": 63734.6285
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期弱势震荡偏空",
+      "content": "当前BTC短期结构偏弱，价格持续运行在20日均线63734下方，反弹力度明显不足，整体维持震荡下行格局，低点不断靠近区间下沿，市场动能偏弱。\n\nMACD指标持续位于零轴下方且数值为-484，空头动能占据主导；RSI虽未给出，但结合价格表现来看，多头缺乏持续承接，市场情绪整体偏谨慎。\n\n下方短期支撑关注62150及62000整数关口，一旦有效跌破可能触发进一步回撤；上方压力位集中在63700及64500区域，需成交量配合才能有效突破。\n\n操作上建议以反弹遇阻做空为主，未站稳20日均线前不宜盲目追多，可等待低位企稳信号再考虑分批介入，同时严格设置止损控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a short-term corrective phase, with price action hovering near 62,226 after a mild 24-hour decline of -0.11%. The market remains compressed within a tight intraday range between 62,158 and 62,500, suggesting low volatility but increasing directional pressure. Trading below the 20-period SMA at 63,734 indicates that momentum has shifted to a bearish bias in the short term.\n\nMACD currently shows a bearish reading at -484.398, reinforcing downside momentum as sellers maintain control. With the signal line not provided, divergence confirmation is limited, but the negative histogram suggests continued pressure. RSI data is unavailable; however, price behavior near the lower boundary of the range implies mild oversold conditions may be developing. Overall, momentum indicators lean cautiously bearish without signs of reversal yet.\n\nImmediate support is located at 62,158, the current intraday low, with a break potentially exposing the psychological 62,000 level. A deeper decline could target 61,500 as the next liquidity zone. On the upside, resistance sits at 62,500, followed by stronger supply near the 20-period SMA at 63,734. Price rejection below this moving average confirms sellers are defending overhead structure effectively.\n\nShort-term traders may consider selling rallies toward resistance levels, particularly near 62,500 and 63,700, while maintaining tight risk controls due to compressed volatility. A breakdown below 62,158 could offer continuation short opportunities toward 62,000 and below. Conversely, bullish entries are only favored if price reclaims and holds above the 20-SMA, signaling a potential momentum shift back toward 64,000. Risk management remains essential in this range-bound environment."
+    }
+  }
+}
