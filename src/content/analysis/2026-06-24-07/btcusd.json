@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-24T07:37:02.441Z",
+  "price": {
+    "close": "62613.84",
+    "high": "62755.55",
+    "low": "62572",
+    "open": "62691.85",
+    "change": "-0.12",
+    "datetime": "2026-06-24 07:00:00"
+  },
+  "indicators": {
+    "rsi": 44.96947,
+    "macd": -132.12405,
+    "macd_signal": -210.38599,
+    "sma20": 62518.3135
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏强整理",
+      "content": "当前BTC/美元处于窄幅震荡格局，价格围绕62600附近运行，略高于20日均线，整体呈整理偏强结构，多空暂时均衡，市场方向尚未明确选择。\n\nMACD指标仍处于负值区域但柱体收敛，说明下行动能减弱，短期可能进入震荡修复阶段，RSI缺失但推测接近中性区间，缺乏明显趋势信号。\n\n下方关键支撑位于62500一线，进一步支撑在62000附近，上方阻力集中在62750及63000整数关口，突破需放量确认，短线波动空间收窄。\n\n操作建议以区间交易为主，可在支撑附近轻仓试多，跌破62000止损；若放量突破63000则顺势追多，避免在震荡区追涨杀跌。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "BTC/USD is currently consolidating after a mild 24-hour decline of -0.12%, with price action holding tightly around 62,600. The market structure suggests a short-term sideways trend following recent volatility compression. Buyers are attempting to stabilize price above the 20-period SMA, while momentum remains subdued. Overall, the pair is transitioning between a minor corrective phase and range-bound behavior rather than establishing a clear directional breakout.\n\nMomentum indicators are reflecting weakening bearish pressure, with MACD currently in negative territory at -132.12, signaling that downside momentum persists but is losing intensity. The absence of RSI data limits overbought/oversold confirmation, yet price stability above the 20-SMA at 62,518 indicates underlying support. Short-term momentum remains neutral-to-slightly bearish, suggesting caution for aggressive directional positioning. Market participants appear to be waiting for a breakout catalyst.\n\nImmediate support is forming around 62,500, closely aligned with the 20-period SMA, making it a key intraday pivot. A break below this level could expose downside liquidity near 62,000 and potentially 61,600. On the upside, resistance is seen near 62,750, followed by 63,200 where prior rejection occurred. Price is currently compressed within a narrow intraday range. This compression often precedes an expansion phase in volatility.\n\nGiven the current consolidation and mixed momentum signals, traders may consider range-based strategies rather than trend-following approaches. Buying near support around 62,500 with tight risk control below 62,000 may offer favorable risk-reward, while short positions near 62,750 resistance could be considered for scalping opportunities. A confirmed breakout above 63,200 or below 62,000 would be required to validate stronger directional bias."
+    }
+  }
+}
