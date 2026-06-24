@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-24T08:36:05.265Z",
+  "price": {
+    "close": "62696.7",
+    "high": "62709.89",
+    "low": "62504.01",
+    "open": "62564.7",
+    "change": "0.22",
+    "datetime": "2026-06-24 08:00:00"
+  },
+  "indicators": {
+    "rsi": 47.6057,
+    "macd": -121.79019,
+    "macd_signal": -193.33615,
+    "sma20": 62542.3735
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏多整理",
+      "content": "当前BTC价格围绕62700一线窄幅震荡，24小时波动极小，多空力量暂时均衡，整体呈高位整理结构，尚未形成明确突破方向。\n\nMACD指标仍处于负值区间但斜率收敛，空头动能减弱迹象出现。SMA20位于62542附近形成短线支撑，价格略高于均线显示结构偏强。RSI缺失但从价格表现看未进入超买区。\n\n下方关键支撑集中在62500至62540区域，若跌破或回测62000整数关口。上方阻力关注62710前高，突破后有望延伸至62850至63000区间。\n\n短线建议维持区间交易思路，高抛低吸为主，避免追涨杀跌。若放量突破62710可顺势跟多，否则等待回踩均线附近再择机介入，并严格设置止损控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "BTC/USD is currently consolidating near 62,700 after a mild 0.22% gain over 24 hours, reflecting low volatility and equilibrium between buyers and sellers. Price action remains compressed within a tight intraday range between 62,504 and 62,709, suggesting market indecision. Despite this, the structure maintains a slightly bullish bias as price holds above short-term moving averages and avoids deeper retracement levels.\n\nMomentum indicators present a mixed picture, with MACD reading at -121.79 indicating persistent bearish momentum, although the lack of a signal line limits confirmation of trend strength. The price trading above the 20-period SMA at 62,542 suggests short-term support is intact. Absence of RSI data reduces overbought/oversold clarity, reinforcing a neutral-to-cautious bias among traders. Overall momentum remains range-bound rather than trending decisively.\n\nImmediate support is located near 62,500, aligning closely with the session low and reinforced by the 20-SMA at 62,542. A secondary support zone sits around 62,000, which may act as a psychological floor. On the upside, resistance is concentrated at 62,709, with a breakout potentially targeting 63,000 and beyond if volume expands. Price acceptance above this level would signal renewed bullish momentum.\n\nFrom a trading perspective, range-bound strategies remain favorable, with buy-the-dip approaches near 62,500 and tight risk management below 62,000. Aggressive traders may consider breakout positions above 62,709, targeting 63,000 with confirmation from rising volume. Given mixed momentum signals, position sizing should remain conservative, and traders should avoid overexposure until a clearer directional trend emerges. Patience is key in the current consolidation phase."
+    }
+  }
+}
