@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-24T21:20:13.794Z",
+  "price": {
+    "close": "60664.17",
+    "high": "60932.1",
+    "low": "60566.15",
+    "open": "60869.52",
+    "change": "-0.34",
+    "datetime": "2026-06-24 21:00:00"
+  },
+  "indicators": {
+    "rsi": 41.10281,
+    "macd": -705.38493,
+    "macd_signal": -607.38272,
+    "sma20": 61568.9475
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线承压、震荡偏弱",
+      "content": "当前BTC/USD位于20日均线下方，且日内回落至60664附近，说明短线仍受压于均线系统。24小时跌幅不大，但高低点区间收窄，市场以震荡偏弱为主。\n\nMACD柱体为负值，动能仍偏空，说明反弹缺乏持续性。RSI数据缺失，无法确认超买超卖，但在价格未重新站上61568一线前，多头优势仍不足。\n\n下方支撑先看60566一线，若失守，60000整数关口将成为关键防线。上方阻力位于60932附近，其次是20日均线61568，若放量突破，才有望重回强势区间。\n\n操作上建议以观望或轻仓为主，未有效站上61568前不宜追多。稳健者可等待放量突破后跟进；激进者若在支撑附近试多，应严格设止损于60000下方，控制回撤。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "<think>**Drafting market analysis**\n\nI need to craft an analyst report that’s 250-300 words in total, split into 3-4 paragraphs of about 60-80 words each. I'll include current market data right away without any titles or labels. The report should focus on trend analysis, indicator interpretation, support and resistance, along with trading suggestions. I want to make sure it's professional yet accessible. I'll work on getting this draft to around 265 words while keeping it cohesive and informative.</think>\n\nBitcoin is trading just above 60,600, with a slight 24-hour decline of 0.34%, which keeps the short-term tone cautious rather than decisively bearish. Price is still below the 20-day simple moving average at 61,568, suggesting that momentum has not yet fully recovered from the recent pullback. The tight daily range between 60,566 and 60,932 also shows consolidation, with buyers and sellers currently balanced and waiting for a catalyst.\n\nThe MACD reading at -705.38 indicates bearish momentum remains in place, even though the market is not showing a sharp breakdown. A negative MACD typically signals that downside pressure is still dominant, but the lack of a signal value limits confirmation strength. RSI is unavailable, so overbought or oversold conditions cannot be verified directly. In this environment, price action and moving-average behavior matter more than momentum exhaustion signals.\n\nNear term, immediate support sits around 60,566, the session low, followed by the psychological 60,000 level. If that area fails, downside pressure could accelerate as stop-loss orders are triggered. On the upside, initial resistance is near 60,932, then 61,569 at the 20-day SMA. A stronger recovery would likely need a clean break above 61,600 to improve the short-term structure and attract momentum buyers.\n\nFor traders, the current setup favors patience and confirmation. Conservative participants may wait for a daily close back above the 20-day SMA before considering long exposure, ideally with improving momentum. Short-term traders can look for range-bound opportunities between support and resistance, but should keep stops tight because volatility may expand quickly. If 60,000 breaks, defensive positioning becomes more appropriate until the market stabilizes."
+    }
+  }
+}
