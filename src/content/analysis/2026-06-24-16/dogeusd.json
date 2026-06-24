@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-06-24T17:01:16.450Z",
+  "price": {
+    "close": "0.07415",
+    "high": "0.07556",
+    "low": "0.07351",
+    "open": "0.07466",
+    "change": "-0.68",
+    "datetime": "2026-06-24 16:00:00"
+  },
+  "indicators": {
+    "rsi": 16.38441,
+    "macd": -0.0011012532,
+    "macd_signal": -0.00069229808,
+    "sma20": 0.0782375
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：短期承压震荡偏弱",
+      "content": "当前DOGE价格运行在0.07415附近，整体仍处于均线下方，SMA20位于0.07823明显压制走势，说明短期趋势偏空。24小时小幅下跌，价格在0.0735至0.0755区间反复震荡，反弹动能不足，结构呈现弱势整理特征。\n\n技术指标方面，MACD已处于零轴下方并持续为负值，显示空头动能占优且下行动能仍未衰减。由于RSI缺失，但结合价格持续低于均线判断，市场情绪偏谨慎，缺乏明显趋势性买盘支撑，短线反弹多为技术修复。\n\n支撑位关注0.0735一线，若跌破可能进一步下探0.0720区域；上方阻力首先看0.0755高点，其次是0.0782的SMA20强压区。当前区间内波动更偏向震荡下行结构。\n\n操作策略上建议以反弹做空思路为主，未有效站稳0.0755前不宜追多。若出现放量突破SMA20，可视为短期趋势转强信号。交易上需严格控制止损，防止区间假突破带来的快速回撤风险。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "Dogecoin against the US Dollar is currently showing a short-term bearish structure, with price at 0.07415 trading below the 20-period simple moving average at 0.07824. This positioning suggests sellers remain in control following recent rejection from higher levels. The 24-hour range between 0.07351 and 0.07556 indicates tight consolidation with downward bias, as upward momentum continues to weaken rather than expand.\n\nMomentum indicators reinforce the cautious outlook. The MACD reading at -0.00110 remains in negative territory, implying sustained bearish momentum and limited bullish crossover potential in the short term. Although RSI is not provided, price behavior below the SMA20 typically aligns with sub-50 RSI conditions, suggesting weakening buying pressure and a lack of strong accumulation from market participants overall sentiment remains subdued.\n\nKey support is established at 0.07351, the recent 24-hour low, with a breakdown potentially exposing 0.07200 and the psychological 0.07000 level. On the upside, immediate resistance lies at 0.07556, followed by the SMA20 at 0.07824, which now acts as a dynamic ceiling. A sustained move above this level would be required to neutralize the current bearish structure and restore bullish momentum.\n\nGiven the prevailing bearish momentum, traders may favor a cautious or range-bound approach rather than trend-following longs. Short positions could be considered on failed rallies near 0.0755–0.0782, while protective stops should remain tight above resistance to manage volatility. Alternatively, breakout traders may wait for a confirmed close above the SMA20 before entering longs, while breakdown below 0.0735 would signal continuation toward lower supports. Risk management remains essential in the current low-volatility environment."
+    }
+  }
+}
