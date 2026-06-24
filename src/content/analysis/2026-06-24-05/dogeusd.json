@@ -1,0 +1,30 @@
+{
+  "symbol": "DOGE/USD",
+  "name": "Dogecoin vs US Dollar",
+  "nameCn": "狗狗币/美元",
+  "timestamp": "2026-06-24T05:19:12.500Z",
+  "price": {
+    "close": "0.07915",
+    "high": "0.07921",
+    "low": "0.079",
+    "open": "0.07909",
+    "change": "0.09",
+    "datetime": "2026-06-24 05:00:00"
+  },
+  "indicators": {
+    "rsi": 42.73114,
+    "macd": -0.00050784117,
+    "macd_signal": -0.0007028312,
+    "sma20": 0.0789365
+  },
+  "analysis": {
+    "zh": {
+      "title": "狗狗币/美元技术分析：震荡整理偏弱",
+      "content": "当前DOGE/USD维持极窄幅震荡结构，价格运行在0.079附近，多空博弈有限，市场波动率显著收缩。24小时涨跌接近持平，显示资金暂未形成明确方向选择。短线结构更偏向横盘整理，等待新的成交量或驱动因素打破区间。\n\n从技术指标来看，MACD为负且动能柱偏弱，显示短线仍存在轻微下行压力。然而价格仍稳定在SMA20均线上方，说明短期支撑尚未失守，趋势尚未转为空头。RSI缺失但结合结构判断，整体处于中性区间，暂无极端超买或超卖信号。\n\n支撑位方面，第一支撑位于0.0789附近（SMA20），若跌破则可能下探0.0785区域。阻力位在0.0792高点，进一步上方为0.0795至0.080心理关口。当前价格紧贴阻力运行，突破与否将决定短线方向。\n\n交易策略以区间思路为主，未突破前不宜追涨杀跌。在0.0789附近可关注低吸机会，止损设于0.0785下方；若放量突破0.0792，则可顺势跟进短多。整体仍以震荡行情对待，等待趋势确认信号。"
+    },
+    "en": {
+      "title": "Dogecoin vs US Dollar Technical Analysis",
+      "content": "DOGE/USD is currently exhibiting a tight consolidation phase around 0.07915, with price action compressed within an extremely narrow 24-hour range between 0.07900 and 0.07921. This indicates low volatility and a market in equilibrium, where neither buyers nor sellers have clear control. Despite a slight attempt to hold above the 20-day SMA, momentum remains weak, suggesting the broader trend is still directionless rather than decisively bullish or bearish.\n\nFrom an indicator standpoint, the MACD reading of -0.0005078 signals mild bearish momentum, though the magnitude is small enough to suggest weakening downside pressure rather than a strong sell-off. With RSI unavailable, price behavior relative to the 20-day SMA becomes more important; currently, DOGE is hovering just above 0.07894, which acts as a short-term dynamic support. Overall, momentum indicators lean slightly bearish but remain close to neutral conditions.\n\nKey support is established near 0.07900, reinforced by the SMA20 zone around 0.07894, forming a critical floor for intraday structure. A breakdown below this region could expose downside levels near 0.07850. On the upside, immediate resistance sits at 0.07920–0.07925, with a stronger barrier at the psychological 0.08000 level. A clean break above 0.080 would be needed to signal renewed bullish expansion.\n\nFor trading approaches, range-bound strategies remain most appropriate given the current compression. Scalpers may exploit micro-movements between 0.07900 and 0.07920, while swing traders should wait for a confirmed breakout above 0.0800 or breakdown below 0.0789 before committing. Risk management is essential, as false breakouts are common in low-volatility environments like this consolidation phase."
+    }
+  }
+}
