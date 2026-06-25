@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-25T05:16:59.651Z",
+  "price": {
+    "close": "61550.21",
+    "high": "61650",
+    "low": "61173.32",
+    "open": "61251.24",
+    "change": "0.49",
+    "datetime": "2026-06-25 05:00:00"
+  },
+  "indicators": {
+    "rsi": 53.33762,
+    "macd": -292.074581,
+    "macd_signal": -458.38726,
+    "sma20": 60898.1765
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏强整理格局",
+      "content": "当前BTC/USD维持在61500附近窄幅震荡，整体呈现高位整理结构。价格在24小时内小幅上行0.49%，但上方动能有限，尚未形成明确趋势突破。短期结构仍以区间波动为主，市场情绪偏谨慎，多空在61500-61650区间反复博弈，趋势倾向震荡偏强但未确认单边行情。\n\n从技术指标来看，价格位于20日均线60898上方，显示短线仍具支撑，但MACD柱体为-292，说明动能仍偏弱，反弹缺乏持续性。RSI未提供但结合走势判断大概率处于中性区域。均线支撑与动能背离并存，表明当前属于技术性修复阶段。\n\n支撑位方面，首先关注61170日内低点，其次为60890附近20日均线关键支撑，一旦失守可能回测60000心理关口。阻力位集中在61650近期高点，若有效突破则有望测试62000-62500区间，上方存在一定抛压。整体仍处于箱体震荡结构。\n\n交易策略上建议以区间操作为主，高抛低吸思路更为稳健。在61650未有效突破前不宜追多，可在回踩61150-60900区域分批布局多单，并设置跌破60800止损。若放量突破61650，可顺势跟随短线突破行情，但需警惕假突破风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading around 61,550, showing a modest 0.49% daily gain while holding above the short-term SMA(20) at 60,898. This positioning suggests a mild bullish bias in the near term, as price remains above its immediate trend baseline. However, the tight daily range between 61,173 and 61,650 reflects consolidation, indicating market indecision after recent directional movement rather than a strong breakout phase.\n\nFrom a momentum perspective, the MACD reading at -292 indicates underlying bearish momentum is still present despite the price holding higher levels. The lack of RSI data limits overbought/oversold confirmation, but price behavior suggests neither extreme condition is currently active. The negative MACD divergence versus price stability often signals weakening upward strength, implying that buyers are defending support rather than initiating strong continuation.\n\nKey resistance is forming near 61,650, which aligns with the current daily high and acts as an immediate ceiling for further upside attempts. A sustained breakout above this level could open room toward the 62,200–62,800 zone. On the downside, initial support sits at 61,173, with stronger structural support around the SMA(20) at 60,898, which remains a critical pivot for short-term trend validation.\n\nTrading conditions favor a cautious range strategy. Traders may consider scalping between support and resistance while waiting for confirmation of breakout or breakdown. A bullish continuation setup would require a clean break above 61,650 with volume confirmation, while failure to hold 60,900 would increase downside risk toward the 60,200 region. Until then, momentum remains neutral-to-slightly bullish but fragile."
+    }
+  }
+}
