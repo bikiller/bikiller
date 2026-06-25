@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-25T22:51:13.929Z",
+  "price": {
+    "close": "59666.94",
+    "high": "60113.98",
+    "low": "59639.43",
+    "open": "60113.94",
+    "change": "-0.74",
+    "datetime": "2026-06-25 22:00:00"
+  },
+  "indicators": {
+    "rsi": 43.69634,
+    "macd": -482.68171,
+    "macd_signal": -476.3508,
+    "sma20": 60365.234
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：弱势震荡偏空",
+      "content": "当前BTC价格围绕59600附近震荡，短线承压于60300一线下方，整体偏弱整理格局，反弹动能有限，多空博弈加剧，需关注突破方向。\n\n技术指标显示价格已跌破SMA20均线60365附近，MACD为负值扩大，动能偏空，RSI缺失但弱势明显，空头占优结构延续。\n\n下方支撑位关注59600及59500区域，若失守或下探59000；上方阻力集中60300与60600一带，突破前仍承压。\n\n操作建议偏谨慎，短线可等待反弹至60300附近做空机会，或跌破59600顺势跟空，严格设置止损控制风险，注意仓位管理与波动为主短线交易为主。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Price action shows a mild bearish bias as BTC/USD continues to trade below the 20-period SMA at 60365. The latest price around 59666 reflects persistent weakness after failing to reclaim higher ground earlier in the session. With a 24-hour decline of 0.74%, momentum remains subdued, and the market appears to be consolidating near local lows rather than building bullish continuation strength.\n\nMomentum indicators reinforce this view. The MACD reading at -482.68 signals sustained negative momentum, suggesting sellers are still in control of short-term direction. Although RSI is unavailable, price behavior relative to the SMA and intraday range indicates weakening upside pressure. The absence of a confirmed MACD signal line makes it harder to spot reversal cues, but overall structure leans bearish.\n\nKey support is forming near the session low around 59639, a level that is being tested repeatedly and could act as immediate short-term floor. A breakdown below this zone would expose the psychological 59000 area as the next downside target. On the upside, initial resistance sits at 60100, followed by stronger supply near the 60365 SMA20, which remains a critical pivot.\n\nFrom a trading perspective, conditions favor caution and selective positioning. Short-term traders may consider selling into rebounds toward 60000–60300 while maintaining tight risk controls above resistance. A confirmed breakout above the SMA20 would be required to shift bias toward recovery. Conversely, a decisive break below 59600 could accelerate downside momentum and open room for continuation trades."
+    }
+  }
+}
