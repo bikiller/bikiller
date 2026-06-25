@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-25T11:59:18.676Z",
+  "price": {
+    "close": "61159.01",
+    "high": "61328.31",
+    "low": "60965.4",
+    "open": "61178",
+    "change": "-0.03",
+    "datetime": "2026-06-25 11:00:00"
+  },
+  "indicators": {
+    "rsi": 46.95797,
+    "macd": -73.33666,
+    "macd_signal": -190.74171,
+    "sma20": 60844.096
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏多整理趋势",
+      "content": "当前BTC价格维持在61159附近，整体结构仍处于震荡上行通道，短线多头占优但动能有所放缓，市场进入整理阶段之中运行。\n\nMACD指标为-73显示空头动能仍存，但价格仍站稳20日均线60844上方，说明中期趋势未破坏整体维持震荡格局运行中。\n\n上方阻力关注61328前高区域，下方支撑在60965及60844均线附近，区间结构明显。\n\n建议短线以震荡交易为主，回踩60844附近可分批布局多单，跌破60965则需谨慎控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "(BTC/USD) is currently consolidating around 61,159, showing minimal 24h change of -0.03%, indicating market indecision after recent volatility. Price action remains tightly compressed between 60,965 and 61,328, forming a short-term equilibrium zone. Despite flat momentum, the structure remains slightly constructive as price holds above the 20-day SMA at 60,844, suggesting buyers are still defending the mid-range trend.\n\nMACD reading of -73.34 indicates lingering bearish momentum, though the absence of a clear signal line value limits confirmation of strong downside continuation. With RSI unavailable, momentum assessment relies on price behavior, which currently reflects neutrality rather than directional conviction. The market appears to be coiling, with declining volatility suggesting a potential expansion move once price breaks out of the current range.\n\nImmediate support is located at 60,965, followed by stronger confluence at the 20-day SMA near 60,844. A breakdown below this zone could expose the psychological 60,000 level, where larger buy-side interest may emerge. On the upside, resistance sits at 61,328, with a breakout potentially targeting 61,800 to 62,000. This compression highlights the importance of monitoring range edges for directional confirmation.\n\nTrading conditions favor range strategies in the short term, with potential long entries near support zones and tight risk controls below 60,800. Conversely, breakout traders may wait for a sustained move above 61,350 to confirm bullish continuation. Given subdued volatility and mixed momentum signals, disciplined position sizing and confirmation-based entries are essential to avoid false breakouts in either direction."
+    }
+  }
+}
