@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-25T15:48:36.319Z",
+  "price": {
+    "close": "59241.06",
+    "high": "59456.81",
+    "low": "58761.38",
+    "open": "59374.19",
+    "change": "-0.22",
+    "datetime": "2026-06-25 15:00:00"
+  },
+  "indicators": {
+    "rsi": 36.24544,
+    "macd": -480.44835,
+    "macd_signal": -287.34006,
+    "sma20": 60819.9615
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短期弱势震荡下的区间整理格局",
+      "content": "当前处于短期弱势震荡，价格59241跌破20日均线60820附近，整体趋势由多转弱但未形成单边下跌，市场进入整理修复阶段，方向仍待确认。\n\nMACD指标持续为负且动能柱扩张有限，说明下行动能仍在但缺乏加速。RSI未提供但结合价格结构来看，市场偏中性偏弱，反弹力度有限，资金观望情绪较浓。\n\n下方支撑关注58760低点与58500整数关口，若失守可能进一步回撤。上方阻力在59460短期高点，强阻力位于60820均线区域，需放量突破才能扭转弱势结构。\n\n操作上建议以区间思路为主，高位不过分追多，靠近支撑轻仓试多，反弹至阻力区分批止盈，并严格设置58500下方止损以控制风险，等待趋势明朗再加仓。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently exhibiting a short-term bearish bias after failing to sustain momentum above the 60,000 psychological zone. Price action around 59,241 suggests continued pressure following a rejection from recent highs near 59,456. The broader structure shows lower highs forming intraday, indicating sellers are gradually regaining control. However, the market is still consolidating within a relatively tight range, which suggests indecision rather than a strong trending breakdown.\n\nFrom an indicator standpoint, the MACD reading at -480.45 confirms bearish momentum is already in place, with downside pressure outweighing bullish recovery attempts. Although RSI is not available, price trading well below the 20-period SMA at 60,819 reinforces a weakening short-term trend. The gap between current price and SMA20 signals that Bitcoin remains in a corrective phase unless buyers reclaim higher levels quickly.\n\nKey support is located at the recent low of 58,761, which represents the immediate downside threshold. A break below this level could expose deeper support around 58,000 and potentially the 57,500 region. On the upside, immediate resistance sits at 59,456, followed by the psychological 60,000 level and the dynamic resistance of the SMA20 near 60,819. These levels define a clear range where rejection or breakout will likely determine next direction.\n\nFor trading strategy, caution is warranted in the current environment due to bearish momentum and weak recovery signals. Short-term traders may consider selling rallies toward 59,400–60,000 with tight risk control above 60,800. Conversely, aggressive buyers should wait for a confirmed reclaim of the SMA20 before considering long positions, ideally supported by improving MACD momentum. Until then, range-bound or slightly bearish strategies remain more favorable."
+    }
+  }
+}
