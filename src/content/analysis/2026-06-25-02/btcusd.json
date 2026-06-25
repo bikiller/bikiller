@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-25T02:49:29.410Z",
+  "price": {
+    "close": "60706.25",
+    "high": "60869.05",
+    "low": "60625.71",
+    "open": "60822.57",
+    "change": "-0.19",
+    "datetime": "2026-06-25 02:00:00"
+  },
+  "indicators": {
+    "rsi": 42.079186,
+    "macd": -475.26296,
+    "macd_signal": -553.53813,
+    "sma20": 61116.34
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：弱势震荡偏空",
+      "content": "短期走势偏弱，价格围绕60700附近震荡，整体处于均线下方运行，空头略占优势，但下跌动能未明显放大，市场进入低位整理阶段。\n\nMACD维持较深负值，显示空头动能仍在释放，但斜率趋缓；价格持续低于20日均线61116，说明反弹仍受压制，短线缺乏趋势反转信号。\n\n下方支撑关注60625一线低点，若跌破或下探60000整数关口；上方阻力在61116均线，进一步压力位于61500附近，多空分界清晰。\n\n操作上以区间思路为主，未突破均线前反弹偏空思路，可在61000附近尝试短空；接近60600支撑可轻仓试多，严格设置止损控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near **60,706.25 USD**, reflecting a modest 24-hour decline of **0.19%** and remaining below the **20-day simple moving average at 61,116.34**. This positioning suggests the short-term trend still favors sellers, although the narrow daily range between **60,625.71** and **60,869.05** indicates reduced volatility and a temporary balance between buying and selling pressure. Unless price reclaims the moving average, upside momentum is likely to remain constrained.\n\nTechnical indicators present a cautious outlook. The **MACD value of -475.26296** remains in negative territory, implying bearish momentum is still influencing price action despite the absence of a signal line for confirmation. Meanwhile, the **RSI(14)** is unavailable, preventing a clear assessment of overbought or oversold conditions. Even so, the combination of a negative MACD and trading below the 20-day average generally points toward continued weakness unless stronger buying interest emerges.\n\nFrom a price structure perspective, the immediate **support** lies around **60,625**, matching the session low and serving as the first level buyers may attempt to defend. A decisive break below this area could expose psychological support near **60,000**. On the upside, **60,870** represents the first resistance, while the **61,116** region, aligned with the 20-day SMA, forms a more significant barrier. A sustained move above that level would improve the short-term technical picture and could encourage renewed bullish participation.\n\nTraders may prefer a disciplined approach while the market remains below key resistance. Conservative participants could wait for a confirmed breakout above the moving average before considering fresh long positions, ideally accompanied by stronger momentum indicators. Short-term bearish traders may continue favoring rallies into resistance while maintaining strict risk management. Given the relatively compressed trading range, careful position sizing and well-defined stop-loss levels remain essential until a clearer directional trend develops."
+    }
+  }
+}
