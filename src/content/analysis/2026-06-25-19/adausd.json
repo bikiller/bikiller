@@ -1,0 +1,30 @@
+{
+  "symbol": "ADA/USD",
+  "name": "Cardano vs US Dollar",
+  "nameCn": "艾达币/美元",
+  "timestamp": "2026-06-25T19:24:00.646Z",
+  "price": {
+    "close": "0.141136",
+    "high": "0.142344",
+    "low": "0.141022",
+    "open": "0.142003",
+    "change": "-0.61",
+    "datetime": "2026-06-25 19:00:00"
+  },
+  "indicators": {
+    "rsi": 37.29607,
+    "macd": -0.0016753942,
+    "macd_signal": -0.0011546167,
+    "sma20": 0.1463534
+  },
+  "analysis": {
+    "zh": {
+      "title": "艾达币/美元技术分析：短期弱势震荡偏空",
+      "content": "当前ADA/USD处于明显的弱势震荡结构，价格运行在0.141附近，持续低于0.1463的20日均线，说明中期趋势仍偏空。近24小时小幅下跌，且高低点空间极窄，显示市场动能不足，多空均未形成有效突破。\n\n技术指标方面，MACD为负值且快线持续位于零轴下方，说明空头动能仍在占优。RSI未给出但结合价格结构推断，大概率处于中低位区间，缺乏超买压力，但也缺乏反弹驱动，整体偏弱整理格局。\n\n支撑位方面，当前0.1410为短期关键支撑，一旦跌破可能下探0.1400整数关口甚至前低区域。上方阻力首先在0.1423日内高点，其次是0.1463的20日均线，只有站稳该位置才可能扭转短期结构。\n\n交易策略上建议以反弹做空为主思路，未站稳0.1463前谨慎追多。若价格跌破0.141支撑，可考虑顺势短空；若出现放量突破0.1425，则需警惕短线反弹修复，但整体仍以弱势反弹对待。"
+    },
+    "en": {
+      "title": "Cardano vs US Dollar Technical Analysis",
+      "content": "ADA/USD is currently exhibiting a weak bearish structure as price trades near 0.141136, remaining below the 20-day SMA at 0.1463534. This positioning suggests that sellers maintain short-term control, with the market unable to reclaim prior support-turned-resistance levels. The 24-hour range is extremely compressed between 0.142344 and 0.141022, indicating low volatility and potential accumulation or continuation of downward pressure. Overall structure remains tilted toward continuation unless price reclaims SMA20.\n\nMomentum indicators reinforce bearish bias. The MACD sits at -0.001675, signaling negative momentum, while the absence of a clear signal line value limits confirmation but still leans downward. Price trading below the SMA20 further confirms trend weakness. Lack of RSI data reduces overbought/oversold clarity, yet structure implies sellers dominate rallies and bullish recoveries are being consistently rejected, supporting continuation of the bearish trend.\n\nImmediate support is located at 0.1410, a level that has been repeatedly tested in the current session. A breakdown below this zone could expose psychological support near 0.1400 and potentially extend losses toward lower liquidity pockets. On the upside, resistance is first seen at 0.1423, followed by the 20-day SMA at 0.14635, which represents the key dynamic resistance barrier for any recovery attempt.\n\nTrading conditions favor a cautious, bearish-to-neutral stance. Short-term traders may consider selling rallies near 0.1423 with tight risk controls above 0.1463. Breakout traders should wait for confirmation below 0.1410 before targeting 0.1400 or lower. Conversely, a sustained move above the SMA20 would invalidate bearish momentum and open room for mean reversion toward 0.1480. Until volatility expands, position sizing should remain conservative."
+    }
+  }
+}
