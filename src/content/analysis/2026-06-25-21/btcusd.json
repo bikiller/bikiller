@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-25T21:28:28.654Z",
+  "price": {
+    "close": "59578.25",
+    "high": "59605.73",
+    "low": "59345",
+    "open": "59354.88",
+    "change": "0.37",
+    "datetime": "2026-06-25 21:00:00"
+  },
+  "indicators": {
+    "rsi": 41.92616,
+    "macd": -548.039577,
+    "macd_signal": -483.31518,
+    "sma20": 60389.9495
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理格局",
+      "content": "当前BTC/USD整体处于震荡偏弱结构，价格在59600附近横盘整理，短线反弹但未脱离下行压力区，市场情绪偏谨慎为主。\n\nSMA20位于60389上方，价格持续运行其下方，表明中期均线压制明显；MACD为负值，动能仍偏空，缺乏上行确认信号，偏弱。\n\n关键支撑位关注59345一线，若跌破或进一步下探59000区域；上方阻力位在59600及60300附近，突破需放量确认。\n\n交易策略建议以区间思路为主，未突破60300前以高空为主，接近59350可短线博反弹，严格控制仓位与止损为宜。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading around 59,578, showing a marginal 24-hour gain of 0.37% but still lacking strong directional conviction. Price action remains compressed near the session high, suggesting short-term consolidation rather than a breakout. However, the broader intraday structure leans slightly bearish as price continues to trade below the 20-period SMA, indicating that upward momentum has not yet reclaimed trend control.\n\nMomentum indicators reinforce this cautious outlook. The MACD reading is significantly negative at -548, reflecting persistent downside pressure and weak bullish follow-through. With RSI data unavailable, price-based structure becomes more important, and it currently shows reduced strength after failing to sustain levels above the short-term moving average. Overall momentum remains fragile, with sellers still exerting moderate control despite the recent stabilization.\n\nFrom a structure standpoint, immediate support is established at the session low near 59,345, which has already been tested and held. A breakdown below this level could open the door toward deeper retracement zones. On the upside, initial resistance is seen at 59,605, followed by a more significant barrier at the 20-SMA near 60,390, which aligns with a key dynamic resistance zone that bulls must reclaim to regain control.\n\nTrading conditions favor a cautious, range-bound approach until a decisive breakout occurs. Short-term traders may consider buying near support with tight risk controls, targeting resistance levels, while avoiding aggressive longs below the SMA. Alternatively, failure to hold 59,345 could justify short positions toward lower liquidity zones. Risk management remains essential given the compressed volatility and lack of confirmed trend direction."
+    }
+  }
+}
