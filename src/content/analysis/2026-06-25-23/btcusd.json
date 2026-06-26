@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-25T23:57:41.444Z",
+  "price": {
+    "close": "59713.76",
+    "high": "60100.5",
+    "low": "59700",
+    "open": "59748.74",
+    "change": "-0.06",
+    "datetime": "2026-06-25 23:00:00"
+  },
+  "indicators": {
+    "rsi": 44.035357,
+    "macd": -450.68395,
+    "macd_signal": -470.17338,
+    "sma20": 60315.8995
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：弱势震荡偏空整理",
+      "content": "当前BTC短线呈弱势震荡结构，价格运行在59700附近，整体跌破SMA20均线60315，显示多头动能衰减，市场进入整理偏空阶段。\n\nMACD柱值为-450.68，空头动能明显占优，但信号线缺失，RSI未提供，短期动量偏弱但未极端超卖仍需观察反弹确认结构。\n\n下方支撑位关注59700与59000整数关口，上方阻力60300及61000，当前价格贴近下沿，波动收敛明显需警惕破位方向选择。\n\n建议短线以观望或高空低多区间交易为主，若反弹至60300附近承压可轻仓做空，跌破59700则顺势跟空并严格止损控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading slightly below the 60,000 level after a modest 24-hour decline, reflecting short-term exhaustion following repeated attempts to reclaim higher ground. Price action is currently compressed near the lower boundary of its intraday range, signaling indecision between buyers and sellers. The inability to hold above 60,000 suggests weakening bullish momentum, while the broader structure still reflects consolidation rather than a confirmed breakdown.\n\nPrice remains below the 20-period SMA at 60,315, reinforcing a short-term bearish bias as the market trades under a key dynamic trend marker. The MACD reading of -450.68 confirms growing downward momentum, indicating that sellers currently maintain control. Without RSI data for confirmation, momentum assessment relies more heavily on price structure and MACD behavior, both of which point toward continued corrective pressure unless reversal signals emerge.\n\nImmediate resistance is positioned between 60,100 and 60,315, aligning with recent highs and the 20-period moving average, creating a dense supply zone. A decisive break above this area would be required to restore bullish structure. On the downside, initial support is seen at 59,700, with a secondary level around 59,500 acting as a psychological and structural floor. A break below these levels could accelerate downside continuation.\n\nIn the short term, traders may favor range-bound strategies until a clear breakout confirms direction. Long positions are better considered only on a sustained move above 60,315 with supporting volume, while short setups gain stronger validity if price rejects resistance and breaks below 59,700. Given the tight consolidation, disciplined risk management is essential, as volatility spikes may occur once price escapes the current range."
+    }
+  }
+}
