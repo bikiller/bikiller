@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-26T16:34:35.586Z",
+  "price": {
+    "close": "60043.14",
+    "high": "60492.32",
+    "low": "59871.36",
+    "open": "60226.92",
+    "change": "-0.31",
+    "datetime": "2026-06-26 16:00:00"
+  },
+  "indicators": {
+    "rsi": 51.30754,
+    "macd": -100.13704,
+    "macd_signal": -191.64794,
+    "sma20": 59726.0165
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理",
+      "content": "BTC当前处于60000附近震荡整理，价格略弱但未破关键支撑，短线仍以横盘结构为主，方向选择待确认。\n\nMACD柱体为负且动能减弱，短期空头略占优势；RSI缺失但从价格结构看偏中性略弱，反弹动能有限。\n\n下方支撑关注59870及SMA20约59726，一旦跌破可能进一步回测59000；上方阻力60490至60500区域。\n\n操作上建议区间思路为主，靠近支撑轻仓试多并设止损59700下方，突破60500则顺势跟进上看61000。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating around the 60,000 level after a slight intraday decline of -0.31%. Price action remains compressed within a narrow range between 59,871 and 60,492, suggesting market indecision rather than a directional breakout. The broader structure leans neutral to mildly bearish in the short term, as repeated failures to sustain levels above 60,500 indicate weakening upward momentum and a gradual shift into range-bound behavior.\n\nFrom an indicator standpoint, momentum signals are softening. The MACD reading of -100.13704 confirms bearish momentum is still present, though not aggressively accelerating. Without RSI data, momentum must be inferred from price behavior and MACD, both of which suggest weakening bullish pressure. The 20-period SMA at 59,726 is currently acting as a dynamic support zone, with price trading only slightly above it, indicating that buyers are defending but not strongly extending gains.\n\nKey support sits at 59,871, aligned closely with the recent low, followed by stronger structural support around the SMA20 at 59,726. A breakdown below this region could expose downside pressure toward the psychological 59,000 area. On the upside, immediate resistance is located at 60,492, with a more meaningful barrier near 60,500–61,000 where repeated rejection has occurred. A clean break above this zone would be needed to re-establish bullish continuation.\n\nIn the current environment, a range-trading approach is more favorable than trend-following. Long positions may be considered near the 59,700–59,900 support area with tight risk controls below 59,600. Conversely, short setups require confirmation of rejection near 60,500 rather than anticipation. Until volatility expands, disciplined position sizing and avoidance of overleveraged trades remain essential, as price continues to oscillate within a tight consolidation band."
+    }
+  }
+}
