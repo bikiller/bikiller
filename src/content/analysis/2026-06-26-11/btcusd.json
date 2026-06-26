@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-26T11:57:12.997Z",
+  "price": {
+    "close": "59240.24",
+    "high": "59492.51",
+    "low": "59171.03",
+    "open": "59226.29",
+    "change": "0.02",
+    "datetime": "2026-06-26 11:00:00"
+  },
+  "indicators": {
+    "rsi": 43.3528,
+    "macd": -223.90804,
+    "macd_signal": -258.059905,
+    "sma20": 59616.3535
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理",
+      "content": "当前BTC/USD呈现窄幅震荡偏弱结构，价格徘徊在59200附近，多空暂时均衡但略偏空头，短期动能不足需关注方向选择信号。\n\n技术指标方面，MACD持续为负值-223显示空头动能占优，价格低于SMA20均线59616，短期均线压制明显。\n\n支撑在59170附近，跌破或下探59000；上方59490及SMA20(59616)构成主要压力带。\n\n交易策略上建议以区间思路为主，未突破59616前偏反弹做空，跌破59170可顺势跟空止损控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "is currently trading in a tight consolidation range around 59,240, showing minimal 24-hour movement and suggesting market indecision. Price action remains compressed between 59,171 and 59,492, indicating short-term equilibrium. The broader structure leans slightly bearish as price trades below the 20-day SMA. Overall momentum appears muted, with participants awaiting a catalyst for directional expansion either above resistance or below near-term support.\n\nMomentum indicators suggest a cautious bearish bias, with MACD at -223.91 reflecting downside pressure despite signs of potential stabilization. The absence of RSI data limits precision, but price trading below the 20-day SMA reinforces short-term weakness. However, the relatively flat 24-hour range indicates weakening selling momentum rather than strong continuation. This often precedes either a breakout attempt or continued sideways consolidation near current levels.\n\nImmediate support is established near 59,170, aligning with the session low and acting as a critical short-term floor. A break below this zone could expose deeper retracement levels toward the 59,000 psychological area. On the upside, resistance is seen at 59,490, followed closely by the 20-day SMA near 59,616. These levels define a tight range where liquidity is likely concentrated.\n\nTrading conditions favor range-bound strategies until a clear breakout confirms direction. Long positions may be considered near 59,170 with tight risk control below 59,000, targeting resistance at 59,490 and 59,616. Alternatively, short setups near resistance could be viable if rejection signals appear. Given low volatility and neutral momentum, risk management remains essential, as false breakouts are common in compressed market structures overall outlook neutral."
+    }
+  }
+}
