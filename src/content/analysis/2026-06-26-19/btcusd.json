@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-26T19:11:06.653Z",
+  "price": {
+    "close": "59735.98",
+    "high": "59779.93",
+    "low": "59510.88",
+    "open": "59566",
+    "change": "0.29",
+    "datetime": "2026-06-26 19:00:00"
+  },
+  "indicators": {
+    "rsi": 48.73837,
+    "macd": -93.60399,
+    "macd_signal": -144.77151,
+    "sma20": 59715.463
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理偏弱",
+      "content": "当前BTC/USD围绕59700附近窄幅震荡，价格在日内高低区间内持续收敛，整体结构仍以横盘整理为主，短线略有上行倾向但缺乏明确突破动能。\n\n均线结构上价格略高于SMA20的59715，显示短线支撑尚存，但MACD仍处负值区间，说明下行动能未完全消散，市场多空力量处于均衡拉锯状态。\n\n下方关键支撑位集中在59500一线，进一步走弱可能下探59200区域；上方阻力则在59800附近，若突破则需关注60000整数关口的有效性。\n\n交易策略上建议以区间思路为主，高抛低吸更为稳健，等待方向选择信号出现；若放量突破60000可顺势做多，跌破59500则需转向防守或短空布局。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a narrow consolidation range around 59,735, reflecting a short-term equilibrium between buyers and sellers after a modest 0.29% 24-hour gain. Price action remains tightly compressed between 59,510 and 59,780, suggesting low volatility. The broader intraday structure is neutral to slightly bullish as price holds above the 20-period SMA, indicating underlying demand, though momentum has not yet expanded into a decisive breakout direction.\n\nMomentum indicators present a mixed picture. The MACD remains negative at -93.60, implying that bearish momentum has not fully dissipated, even though price stability suggests weakening downside pressure. With RSI unavailable, momentum confirmation relies on price structure and moving averages. The proximity of price to the SMA(20) at 59,715 indicates equilibrium, where neither bulls nor bears have clear dominance, increasing the likelihood of range-bound behavior in the short-term.\n\nImmediate resistance is located near the recent high at 59,780, with a psychological extension toward 60,000 if bullish momentum strengthens. On the downside, initial support sits at 59,510, followed by a more critical zone around 59,400 where short-term structure could break down if selling intensifies. The tight trading band highlights compression, often preceding volatility expansion, making these levels important for breakout or breakdown confirmation. A decisive break above resistance could trigger momentum toward higher liquidity zones.\n\nTrading conditions favor patience as the market remains in consolidation. Short-term traders may consider range strategies, buying near support around 59,510 and taking profits near 59,780, while maintaining tight risk controls. Breakout traders should wait for a confirmed move above 60,000 or below 59,400 before entering directional positions. Volume confirmation will be critical, as current low volatility suggests potential for abrupt expansion in either direction. Stop-loss discipline remains essential in both scenarios."
+    }
+  }
+}
