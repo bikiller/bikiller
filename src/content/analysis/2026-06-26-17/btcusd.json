@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-26T17:44:21.670Z",
+  "price": {
+    "close": "59894.01",
+    "high": "60193.03",
+    "low": "59847.48",
+    "open": "59939.28",
+    "change": "-0.08",
+    "datetime": "2026-06-26 17:00:00"
+  },
+  "indicators": {
+    "rsi": 50.020403,
+    "macd": -87.64663,
+    "macd_signal": -172.17304,
+    "sma20": 59711.5265
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理偏弱",
+      "content": "当前价格围绕59894震荡，位于SMA20上方但动能偏弱，整体呈高位盘整结构，短线缺乏明确方向。MACD维持负值区间，反弹力度有限阶段\n\nMACD柱线持续为负，空头动能仍占优，但斜率放缓，短期或进入修复性反抽阶段。RSI缺失参考动能偏中性，市场等待方向选择确认\n\n下方支撑关注59711及59847区域，上方阻力位于60193一线，突破需放量确认。跌破则回测均线支撑概率加大风险上升\n\n建议短线以区间交易为主，靠近支撑分批低吸，反弹至阻力区逐步减仓控制风险。严格止损在59700下方，避免追涨杀跌保持纪律执行"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading around 59894, showing minimal daily change and reflecting a consolidation phase after recent volatility. Price action remains compressed between intraday high near 60193 and low around 59847, suggesting equilibrium between buyers and sellers. The broader structure appears range-bound, with slight bearish pressure due to repeated failure to sustain levels above 60000, keeping momentum neutral in short term sessions.\n\nMomentum indicators suggest a cautious bias. The MACD reading at -87.64663 remains in negative territory, indicating bearish momentum is still present, although the magnitude suggests potential slowing downside pressure. Price is currently hovering slightly above the 20-period SMA at 59711, which acts as a short-term dynamic support. RSI is unavailable, limiting overbought/oversold confirmation overall suggesting consolidation with downside risk still dominant.\n\nKey resistance is observed near 60193, which aligns with the recent intraday high and continues to cap upward attempts. A psychological barrier also exists around 60000, where price has repeatedly struggled to hold momentum. On the downside, immediate support is found at 59711, the 20-period SMA, followed by 59847 as recent swing low support and deeper levels near 59500 and 59000. Volume remains muted, reinforcing consolidation conditions.\n\nGiven the current range-bound structure, a mean-reversion strategy is favored over breakout positioning. Long positions may be considered near the 59700–59850 support zone with protective stops below 59500 to manage downside risk. Profit targets can be staged toward 60000 and 60193. Alternatively, short entries may be considered on rejection near resistance, targeting a return toward mid-range support levels depending on confirmation signals."
+    }
+  }
+}
