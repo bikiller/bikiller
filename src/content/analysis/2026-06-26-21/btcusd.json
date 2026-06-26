@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-26T21:15:46.486Z",
+  "price": {
+    "close": "59640.49",
+    "high": "59679.18",
+    "low": "59578.21",
+    "open": "59620.5",
+    "change": "0.03",
+    "datetime": "2026-06-26 21:00:00"
+  },
+  "indicators": {
+    "rsi": 47.84231,
+    "macd": -101.37653,
+    "macd_signal": -130.12363,
+    "sma20": 59717.5815
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：低波动横盘偏弱整理",
+      "content": "当前BTC/USD处于极窄区间震荡结构，价格围绕59640附近运行，24小时波动极小，显示市场多空暂时均衡但动能不足。整体走势偏向横盘整理，并略带轻微空头压制特征，短线缺乏明确方向，市场进入蓄势阶段，等待突破驱动。\n\n技术指标方面，MACD为负值-101.37，说明短期动能仍偏空，空头动能略占优势。价格持续运行在SMA20下方59717附近，均线形成短压制结构。RSI虽缺失，但结合价格窄幅震荡判断，整体动量偏中性偏弱。\n\n支撑与阻力结构清晰。下方即时支撑位在59578附近，一旦跌破可能测试59500整数关口；上方首要阻力为SMA20的59717，其次为59800及60000心理关口。当前区间收敛明显，突破概率正在累积。\n\n交易策略上建议以区间思路为主，59580-59720之间高抛低吸为主。若放量突破59720可短多跟随，止损设在59600下方；若跌破59580则顺势短空，关注回撤延续性。整体需控制仓位，等待方向选择后再加码。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading around 59,640 after a period of extremely tight consolidation, with the 24-hour range compressed between 59,578 and 59,679. Price action suggests a sideways market lacking directional conviction. The slight positioning below the 20-period SMA indicates a mild bearish tilt, but overall structure remains neutral, reflecting equilibrium between buyers and sellers in low volatility conditions environment with continued consolidation pressure.\n\nMACD at -101.37653 shows negative momentum persisting, though the lack of a signal line value limits crossover confirmation. This suggests weak bearish momentum without strong follow-through. RSI is unavailable, but price behavior implies mid-range equilibrium rather than overbought or oversold conditions. The 20-period SMA near 59,717 now acts as dynamic resistance, capping upward attempts and limiting breakout probability in the short term.\n\nImmediate support is found near the session low at 59,578, which aligns with the lower boundary of the recent consolidation range. A break below this level could expose downside toward 59,400 and then 59,200 as minor structural supports. On the upside, resistance sits at 59,717 followed by 59,800, with psychological resistance at 60,000 remaining the key threshold for bullish continuation.\n\nGiven the current low-volatility environment, range-bound strategies are favored over breakout positioning. Traders may consider buying near support around 59,600–59,580 with tight stops below 59,500, targeting the upper resistance zone near 59,800 to 60,000. Alternatively, rejection trades near the SMA resistance can offer short opportunities, but confirmation is essential due to weak momentum and lack of trend strength across intraday timeframes."
+    }
+  }
+}
