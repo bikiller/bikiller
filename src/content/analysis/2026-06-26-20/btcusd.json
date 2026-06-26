@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-26T20:23:01.145Z",
+  "price": {
+    "close": "59687.73",
+    "high": "59904.01",
+    "low": "59581.26",
+    "open": "59668.5",
+    "change": "0.05",
+    "datetime": "2026-06-26 20:00:00"
+  },
+  "indicators": {
+    "rsi": 48.29583,
+    "macd": -96.96765,
+    "macd_signal": -136.23795,
+    "sma20": 59702.8195
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理格局",
+      "content": "当前BTC处于窄幅震荡整理阶段，价格围绕59600-59900区间反复波动，整体多空力量均衡但略偏弱，短线缺乏明确方向，市场观望情绪较为浓厚，波动收敛明显。\n\nMACD指标持续运行在零轴下方并维持负值扩展，显示空头动能仍占主导；价格略低于20日均线，短期均线形成压制，反弹持续性不足，技术面偏弱震荡结构。\n\n下方支撑关注59580一线及前期低点区域，若跌破可能下探59200附近；上方阻力集中在59900及60200区间，需有效放量突破才能打开进一步上行空间。\n\n操作上建议保持区间思路，高抛低吸为主，避免追涨杀跌；在未突破59900或跌破59580前以震荡策略应对，严格控制仓位与止损风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "BTC/USD is currently consolidating after a brief intraday range expansion, with price holding near 59,687. The market structure remains neutral to slightly bearish as momentum has failed to extend above the 59,900 region. Price action shows tight compression between the daily high and low, indicating equilibrium between buyers and sellers. Overall trend on lower timeframes suggests sideways movement within a narrow consolidation band rather than a sustained directional breakout.\n\nIndicator readings reinforce a lack of strong momentum. The MACD value at -96.97 suggests bearish pressure persists, although the absence of a signal line limits crossover interpretation. Price trading marginally below the 20-period SMA near 59,703 indicates short-term weakness and rejection from equilibrium. With RSI unavailable, momentum confirmation is incomplete, but overall signals lean toward a mildly corrective or range-bound bias.\n\nImmediate support is established near the session low at 59,581, with stronger psychological support around 59,500 if downside pressure extends. On the upside, resistance is concentrated at 59,900, followed by a key psychological barrier at 60,000. The narrow daily range suggests liquidity is building around these levels, increasing the likelihood of short-term reversals or false breakouts within the current consolidation structure.\n\nTrading strategy favors a range-bound approach until a clear breakout occurs. Long positions may be considered near 59,500–59,600 with tight stop-losses below support, while short opportunities could emerge near 59,900–60,000 on rejection signals. Breakout confirmation above 60,000 would shift bias bullish, whereas a breakdown below 59,500 would increase downside risk. Risk management remains essential given compressed volatility and potential false breakouts."
+    }
+  }
+}
