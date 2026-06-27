@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-27T20:58:15.272Z",
+  "price": {
+    "close": "60183.99",
+    "high": "60234.73",
+    "low": "60073.92",
+    "open": "60077.65",
+    "change": "0.18",
+    "datetime": "2026-06-27 20:00:00"
+  },
+  "indicators": {
+    "rsi": 48.61294,
+    "macd": 95.51091,
+    "macd_signal": 130.57506,
+    "sma20": 60321.675
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱",
+      "content": "当前比特币/美元维持窄幅震荡，最新价格60183.99，仍运行于20日均线60321.68下方，说明短线多头动能略显不足。24小时涨幅仅0.18%，价格波动有限，市场整体仍以观望情绪为主，趋势暂未形成明确突破方向。\n\n从技术指标来看，MACD数值保持正值，显示中期趋势尚未完全转空，但由于Signal及RSI数据缺失，动能确认仍显不足。价格持续受压于20日均线，意味着上方存在一定抛压，若后续成交量无法有效放大，反弹空间可能受到限制。\n\n支撑方面，可重点关注60070附近区域，若失守则可能进一步测试60000整数关口；阻力首先关注60320附近20日均线，其次为60235至60400区域。只有有效突破并站稳均线，市场才有望重新打开上行空间，提升短线做多信心。\n\n交易策略上，建议采取谨慎操作思路，激进投资者可等待放量突破60320后顺势跟进，稳健投资者则宜继续观望，待趋势进一步明确。若价格跌破关键支撑，应严格设置止损，控制仓位，避免震荡行情带来的反复风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading in a tight consolidation around 60,183, showing minimal volatility with a slight 0.18% intraday gain. Price action remains compressed between 60,073 and 60,234, indicating equilibrium between buyers and sellers. The broader short-term structure appears neutral to mildly bearish as BTC continues to trade just below the 20-period simple moving average at 60,321, suggesting overhead pressure and a lack of decisive momentum overall. Traders remain cautious for direction.\n\nBitcoin momentum indicators show mixed signals. The MACD reading at 95.51 suggests positive underlying momentum, but the absence of a signal line limits confirmation of trend strength or crossover validity. With RSI unavailable, overbought or oversold conditions cannot be assessed, reducing short-term clarity. Overall momentum appears mildly constructive but lacks confirmation, implying consolidation is more likely than a sustained directional breakout at present levels in the near term. bias neutral.\n\nKey resistance is clustered at 60,234, aligning with the intraday high, followed by stronger resistance at the 20-day SMA near 60,321. A sustained break above this zone would signal renewed bullish control. On the downside, immediate support sits at 60,074, with deeper protection near psychological 60,000. A break below 60,000 could expose further downside pressure toward recent consolidation lows here conditions. Volume confirmation would be required for any breakout move.\n\nTrading strategy favors range-bound approaches while price remains between 60,074 and 60,234. Scalpers may consider buying near support with tight stops below 60,000, while short positions could be considered near resistance with confirmation of rejection. A breakout above the SMA20 would shift bias bullish, targeting higher liquidity zones. Until then, risk management is critical due to low volatility and potential false breakouts wait for confirmation before entering trades decisively cautiously."
+    }
+  }
+}
