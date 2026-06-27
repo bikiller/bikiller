@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-27T08:08:12.789Z",
+  "price": {
+    "close": "60367.96",
+    "high": "60451.65",
+    "low": "60355.44",
+    "open": "60451.64",
+    "change": "-0.14",
+    "datetime": "2026-06-27 08:00:00"
+  },
+  "indicators": {
+    "rsi": 56.23752,
+    "macd": 118.30282,
+    "macd_signal": 47.49003,
+    "sma20": 59996.6335
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位窄幅震荡偏多整理",
+      "content": "当前比特币美元整体处于高位窄幅震荡结构，价格运行在60000上方并略高于20日均线，短线多空趋于均衡，但整体仍偏向温和偏多整理走势。\n\nMACD维持正值118附近显示多头动能尚存，但缺乏信号线配合说明趋势未完全发散，同时RSI缺失下需观察动能是否逐步衰减，短线节奏偏震荡。\n\n下方支撑关注60000整数关口与20日均线粘合区域，当前低点60350附近为短期微支撑，上方压力集中在60450至60500区间，突破需放量确认。\n\n操作上建议以区间交易为主，未有效突破60500前避免追多，若跌破60000需警惕回调加深，可等待回踩均线附近低吸或突破确认信号。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading around 60367 with an extremely tight 24-hour range, reflecting consolidation after a modest upward phase. The price holding slightly above the 20-day SMA near 59996 maintains a mild bullish structure, but momentum is clearly flattening. The small negative daily change suggests hesitation, as buyers fail to extend gains beyond the intraday ceiling around 60450. Overall, structure remains range-bound with slight bullish tilt.\n\nMomentum indicators are mixed. MACD reading at 118.30 indicates positive underlying momentum, but absence of a signal line limits confirmation of trend strength or crossover context. With RSI unavailable, overbought or oversold conditions cannot be assessed. The price remaining above the 20-day SMA reinforces short-term support, though flattening price action suggests weakening directional conviction and potential for continued consolidation. This setup often precedes a breakout or breakdown phase.\n\nImmediate support sits around the psychological 60000 level, closely aligned with the 20-day SMA near 59996, making this zone critical for maintaining short-term bullish structure. A break below could expose 59800 as the next downside area. On the upside, resistance is concentrated near 60450, with a sustained breakout potentially opening room toward 60600 and short-term liquidity above recent highs. Market reaction at these levels will likely define near-term direction.\n\nShort-term traders may prefer range strategies, buying near 60000 support and taking profits near 60450 resistance, while waiting for confirmation of breakout for trend-following positions. Stop-losses should be placed just below 59800 for longs. A clean break above resistance could justify momentum longs toward 60600, whereas failure to hold SMA support would favor cautious or short-biased positioning. Risk management remains essential in this low-volatility environment."
+    }
+  }
+}
