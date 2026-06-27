@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-06-27T11:09:34.036Z",
+  "price": {
+    "close": "71.8",
+    "high": "71.98",
+    "low": "71.76",
+    "open": "71.91",
+    "change": "-0.17",
+    "datetime": "2026-06-27 11:00:00"
+  },
+  "indicators": {
+    "rsi": 56.36549,
+    "macd": 0.56339563,
+    "macd_signal": 0.72312354,
+    "sma20": 72.001
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：短线震荡偏弱，等待方向确认",
+      "content": "SOL/USD当前围绕72美元窄幅波动，价格略低于SMA(20)的72.001，24小时回落幅度很小，说明空头并未明显扩张，但多头接力不足，短线仍以震荡偏弱看待。\n\nMACD为0.56339563且未给出Signal，提示动能仍在正区间，但缺少信号线验证，难以确认趋势延续。RSI缺失，需结合价格行为观察是否出现超买或超卖修复。\n\n下方首要支撑在71.76附近，失守后关注71.50与71.00整数关口；上方阻力先看72.00，其后是72.50和73.20。当前高低点极窄，突破前更像箱体整理。\n\n激进者可在71.76上方轻仓试多，止损放在71.50下方；若放量站稳72.00并收于其上，可顺势看向72.50-73.20。未确认突破前，追涨杀跌性价比不高。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "Solana against the US dollar is currently trading in a tight consolidation around 71.8, reflecting a market in pause after recent directional attempts. Price action remains slightly below the 20-period simple moving average near 72.0, suggesting a mild bearish bias in the short term. However, the extremely narrow daily range indicates declining volatility and equilibrium between buyers and sellers. This environment often precedes a breakout rather than continuation of trend.\n\nThe MACD reading at 0.56 suggests that underlying momentum remains marginally positive, though the absence of a signal line limits confirmation of trend strength. Without RSI data, overbought or oversold conditions cannot be fully assessed, increasing reliance on price structure. The slight divergence between price and the 20-SMA hints at fading bullish pressure, with momentum flattening as the market transitions into sideways behavior.\n\nSupport and resistance are currently tightly compressed due to the low volatility regime. Immediate support is forming near 71.6, with stronger downside protection around 71.0 if selling pressure accelerates. On the upside, the key resistance remains the 72.0 psychological level aligned with the 20-SMA, followed by 72.3 to 72.5 where prior intraday rejections have likely occurred. A breakout beyond this band would likely define next directional impulse.\n\nIn the current environment, range-bound strategies are favored, with traders potentially buying near support and taking profits near resistance while maintaining tight risk controls. Breakout traders should wait for a decisive close above 72.0 or below 71.6 to confirm direction before entering positions. Given muted volatility, position sizing should remain conservative to avoid whipsaw risk and false breakouts common in consolidation phases."
+    }
+  }
+}

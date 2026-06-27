@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-27T11:06:41.609Z",
+  "price": {
+    "close": "60337.3",
+    "high": "60349.71",
+    "low": "60300.36",
+    "open": "60317.99",
+    "change": "0.03",
+    "datetime": "2026-06-27 11:00:00"
+  },
+  "indicators": {
+    "rsi": 55.59096,
+    "macd": 125.99018,
+    "macd_signal": 84.41504,
+    "sma20": 60052.8375
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏强整理",
+      "content": "当前BTC价格运行在60337附近，略高于20日均线60052，整体呈现高位窄幅震荡结构，多头优势仍在但上涨动能有所放缓。\n\nMACD指标维持125上方正值，短线仍偏多，但信号线缺失显示趋势确认不足；RSI未给出，但从结构看处于中性偏强区域。\n\n下方关键支撑位于60050（20日均线）与59800区域，一旦跌破可能回踩震荡区间；上方阻力集中在60350及60500整数关口。\n\n操作上建议以区间交易为主，突破60500可顺势做多，回落跌破60000需谨慎；止损可设在59800下方控制风险。短线观察"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a tight consolidation band around 60,337, reflecting a short-term equilibrium between buyers and sellers. Price action remains largely flat with minimal 24-hour movement, suggesting market indecision. However, holding above the 20-period simple moving average indicates a mild underlying bullish structure. The broader trend is still range-bound, but with a slight upward bias as buyers defend intraday dips consistently in the short term.\n\nMACD reading at 125.99 indicates positive momentum, reinforcing the idea of underlying bullish pressure despite the lack of RSI data. Market volatility remains compressed, as price oscillates within a narrow intraday range. This type of structure often precedes expansionary moves. Traders should note that momentum is gradually building, but confirmation is still required before any sustained breakout can be validated pending broader confirmation signals.\n\nImmediate support is located near the session low at 60,300, followed closely by the 20-SMA around 60,052, which serves as a key dynamic support zone. On the upside, immediate resistance is seen at 60,349, the recent high, with further extension potential toward the 60,500 psychological level. Price compression between these boundaries highlights a classic consolidation structure awaiting directional resolution breakout.\n\nFrom a trading perspective, the current environment favors range-bound strategies, with traders looking to buy near support and take profits near resistance. Breakout traders should wait for a decisive move above 60,349 or below 60,300 with volume confirmation. Risk management remains critical given the low volatility regime, and tight stop losses are recommended around key levels to avoid whipsaw movements."
+    }
+  }
+}

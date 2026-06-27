@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-27T11:07:39.829Z",
+  "price": {
+    "close": "1582.14",
+    "high": "1585",
+    "low": "1582.14",
+    "open": "1584.24",
+    "change": "-0.14",
+    "datetime": "2026-06-27 11:00:00"
+  },
+  "indicators": {
+    "rsi": 52.96665,
+    "macd": 2.70619,
+    "macd_signal": 1.85943,
+    "sma20": 1579.3555
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理偏弱",
+      "content": "当前ETH价格维持在1582附近，日内波动极窄，整体呈高位横盘整理结构。短期走势偏弱但未破关键支撑，市场处于多空均衡阶段。\n\n从指标来看，MACD维持小幅正值2.70附近，说明动能仍有支撑但上行动力有限。均线方面，价格略高于SMA20（1579），趋势偏多但缺乏突破。\n\n下方支撑关注1578与1565区域，上方阻力集中在1588及1600整数关口。若跌破支撑可能回测1550，而突破阻力则打开短线上行空间。\n\n操作上建议以区间震荡思路为主，低位分批布局多单，高位谨慎减仓。若放量突破1600可顺势跟进，否则以短线波段为主。控制风险严格止损"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "is currently in a low-volatility consolidation phase, with price action hovering around 1582 after a marginal 24-hour decline of 0.14%. The market structure remains relatively balanced, with price compressed just beneath the recent intraday high near 1585. This tight trading range suggests indecision, as neither buyers nor sellers have established clear dominance, keeping momentum subdued and range conditions intact.\n\nThe price remains just above the 20-period simple moving average at 1579.36, which acts as immediate dynamic support. MACD at 2.70619 is positive, implying underlying bullish momentum, although the absence of a signal line limits confirmation of trend strength. With RSI unavailable, momentum assessment relies on price structure, which still favors a mild upward bias as long as ETH sustains above the SMA20 region.\n\nImmediate support is identified near 1579, aligned with the SMA20, followed by a deeper buffer around 1570 and then 1550 if selling pressure accelerates. On the upside, ETH faces short-term resistance at 1585, the recent intraday high. A sustained break above this level could open a path toward 1600, a key psychological zone that may attract profit-taking and increased volatility.\n\nTrading conditions favor range-bound strategies while price remains between 1579 and 1585, with breakout confirmation required before trend continuation positioning. Scalpers may look for long entries near SMA20 support with tight risk control below 1570, while breakout traders should wait for a clean move above 1585. Risk management remains critical due to compressed volatility and potential false breakouts conditions persist."
+    }
+  }
+}
