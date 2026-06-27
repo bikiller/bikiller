@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-27T22:32:26.724Z",
+  "price": {
+    "close": "60083.86",
+    "high": "60102.49",
+    "low": "59765.1",
+    "open": "60102.49",
+    "change": "-0.03",
+    "datetime": "2026-06-27 22:00:00"
+  },
+  "indicators": {
+    "rsi": 46.46038,
+    "macd": 47.75332,
+    "macd_signal": 104.80587,
+    "sma20": 60330.6165
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱，关注关键支撑区域",
+      "content": "当前比特币/美元维持窄幅震荡格局，价格运行于60000美元关口附近，24小时波动有限。从趋势结构来看，现价低于20日简单移动均线60330美元，显示短期多头动能有所减弱，市场暂处于偏空震荡阶段，需关注后续方向选择。\n\n技术指标方面，MACD指标仍保持正值，说明中期趋势尚未完全转弱，但由于缺乏信号线数据，暂无法确认金叉或死叉状态。RSI指标暂未提供，限制了超买超卖判断。不过，价格持续运行于SMA20下方，暗示短线存在进一步回调压力。\n\n关键价位方面，59750美元附近构成第一支撑区域，若有效跌破，则可能下探59500美元甚至59000美元整数关口；上方阻力位集中于60100美元至60330美元区间，只有重新站稳20日均线，才能增强市场反弹预期。\n\n交易策略上，建议短线交易者以区间交易思路为主，在59750美元附近关注支撑有效性，跌破则顺势控制风险；稳健投资者可等待价格重新突破60330美元并确认站稳后再考虑布局多单，当前阶段应保持谨慎仓位管理。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near 60,084, hovering just below the 20-period simple moving average at 60,331. This positioning suggests that short-term momentum remains slightly bearish, with price action struggling to reclaim a key dynamic resistance level. The narrow trading range between 59,765 and 60,102 indicates a period of consolidation following recent volatility, and traders should monitor for a decisive breakout to establish the next directional move.\n\nFrom a technical indicator perspective, the available MACD reading of 47.75 remains positive, implying that underlying momentum has not fully deteriorated despite recent price weakness. However, the absence of a signal line limits confirmation of bullish continuation. Meanwhile, with the RSI unavailable, price behavior around moving averages and key support zones becomes increasingly important. The fact that Bitcoin remains below the 20-day SMA suggests that sellers retain a modest near-term advantage.\n\nKey support appears near the recent intraday low around 59,765, with a more significant psychological support zone emerging around 59,500. A breakdown below these levels could expose downside risk toward the 58,800-59,000 region. On the upside, immediate resistance is located near the 20-period SMA at 60,331, followed by stronger resistance around 60,800 and the psychologically important 61,000 threshold. A sustained move above these levels would improve the short-term technical outlook considerably.\n\nFor active traders, the current environment favors a cautious, range-trading approach rather than aggressive trend-following positions. Long entries may be considered on confirmed rebounds from support with disciplined stop-loss placement below 59,500. Conversely, short-term bearish positions could be explored if price repeatedly fails to recover above 60,300. Given the compressed trading range and mixed momentum signals, waiting for a confirmed breakout or breakdown may offer a more favorable risk-reward profile."
+    }
+  }
+}
