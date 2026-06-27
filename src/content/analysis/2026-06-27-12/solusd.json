@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-06-27T12:04:14.411Z",
+  "price": {
+    "close": "71.69",
+    "high": "71.74",
+    "low": "71.66",
+    "open": "71.69",
+    "change": "-0.01",
+    "datetime": "2026-06-27 12:00:00"
+  },
+  "indicators": {
+    "rsi": 55.1435,
+    "macd": 0.50530335,
+    "macd_signal": 0.67828315,
+    "sma20": 71.961
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：窄幅震荡偏弱",
+      "content": "当前SOL/USD围绕71.69附近横盘，24小时波动几乎为零，说明市场短线观望情绪浓厚。价格略低于SMA(20)的71.961，表明中期均线压制仍在，趋势暂未转强，短线更偏向弱势整理。\n\nMACD为0.5053且处于正值区间，说明多头动能并未完全消失，但缺少Signal线参考，交叉信号尚不明确。RSI(14)缺失，无法直接判断超买超卖，因此更适合结合价格结构与均线位置确认方向。\n\n下方支撑先看71.60一线，若失守，71.20附近可能成为下一道防线；上方阻力首先是71.96，其次是72.50区域。若价格能放量站稳SMA(20)上方，才有望打开进一步反弹空间。\n\n操作上建议以区间思路为主，未有效突破72.00前不宜追多。激进交易者可在71.60附近轻仓试探，止损放在71.20下方；稳健者等待突破并回踩确认后再介入，控制仓位更重要。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "SOL/USD is trading in a very tight range around 71.69, and the near-flat 24-hour change suggests the market is in a consolidation phase rather than a strong directional move. Price is sitting just below the 20-day simple moving average at 71.96, which keeps the short-term bias slightly cautious. Until SOL can reclaim that average with conviction, upside momentum looks limited, while downside pressure remains contained.\n\nThe technical picture is mixed. The MACD value at 0.5053 is still positive, which hints that the broader trend has not fully rolled over, but the missing signal reading makes confirmation incomplete. RSI is unavailable, so momentum strength cannot be judged directly. In this setting, traders should treat the current move as neutral-to-slightly-bearish in the short term, with momentum waiting for a clearer breakout or breakdown.\n\nImmediate support is clustered around 71.66, followed by the psychological 71.50 area and then 71.00 if selling accelerates. On the upside, the first resistance sits at 71.74, with stronger resistance near the 71.96 SMA and then the 72.50 zone if buyers regain control. A sustained move above the moving average would improve the near-term structure and open the door to a recovery attempt.\n\nFor traders, this is a market where patience may be rewarded. Short-term range traders can look for support bounces near 71.50-71.66 with tight risk controls, while breakout traders may prefer confirmation above 71.96 before entering long positions. If SOL fails to hold current support, a defensive stance is sensible until the price stabilizes. Overall, the setup favors cautious, level-based trading rather than chasing momentum."
+    }
+  }
+}
