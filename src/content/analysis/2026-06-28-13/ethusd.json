@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-06-28T13:28:53.541Z",
+  "price": {
+    "close": "1579.74",
+    "high": "1583.33",
+    "low": "1574.84",
+    "open": "1583.33",
+    "change": "-0.25",
+    "datetime": "2026-06-28 13:00:00"
+  },
+  "indicators": {
+    "rsi": 50.43287,
+    "macd": -0.41497211,
+    "macd_signal": -1.14426,
+    "sma20": 1577.546
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡偏弱整理",
+      "content": "当前ETH价格围绕1579附近窄幅震荡，整体呈弱势整理结构。价格略高于SMA20（1577），但动能不足，短线多空拉锯明显。MACD为负值，显示反弹动能有限。\n\nRSI缺失使超买超卖判断受限，但短周期结构偏中性偏弱。MACD仍在零轴下方运行，空头动能占优。均线粘合，显示趋势尚未明确启动。\n\n下方支撑关注1574附近低点与1570整数关口，上方阻力在1583及1588区域。当前区间极窄，突破需放量确认，否则维持震荡格局。\n\n操作上建议保持区间思路，未有效突破前以高抛低吸为主。若站稳1583上方可轻仓跟多，跌破1574则关注回踩风险并控制仓位。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is currently in a tight consolidation phase around 1579, reflecting subdued volatility after a minor 0.25% daily decline. Price action is oscillating within a narrow intraday band between 1574 and 1583, suggesting equilibrium between buyers and sellers. The broader structure remains range-bound rather than trending, with no clear breakout confirmation yet. Market participants appear cautious, awaiting stronger momentum signals before committing to directional positioning.\n\nThe SMA(20) at 1577.55 is closely aligned with current price, reinforcing a flat short-term trend with limited directional bias. However, MACD at -0.4149 indicates bearish momentum is gradually building beneath the surface, suggesting downside pressure may be increasing. With RSI unavailable, momentum confirmation is limited, leaving traders reliant on price structure and moving average behavior to gauge near-term sentiment overall outlook.\n\nImmediate support is observed near 1575, aligning with the recent session low at 1574.84, with stronger downside protection likely around 1570 and 1560 if selling pressure accelerates. On the upside, resistance is clustered at 1583, followed by a more significant barrier near 1590 and 1600, where previous liquidity has been absorbed. The tight range suggests a potential breakout setup forming.\n\nShort-term traders may consider range-bound strategies, favoring buys near support with tight risk controls and partial profit-taking near resistance. A breakout confirmation above 1583 could signal continuation toward 1590–1600, while a breakdown below 1575 would increase downside exposure toward 1570. Given muted volatility, position sizing should remain conservative, with emphasis on stop-loss discipline and avoidance of over-leveraging in uncertain momentum conditions."
+    }
+  }
+}
