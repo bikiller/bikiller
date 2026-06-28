@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-28T11:18:17.512Z",
+  "price": {
+    "close": "60051.93",
+    "high": "60177.95",
+    "low": "60027.16",
+    "open": "60075.94",
+    "change": "-0.04",
+    "datetime": "2026-06-28 11:00:00"
+  },
+  "indicators": {
+    "rsi": 47.22066,
+    "macd": -27.054975,
+    "macd_signal": -20.099793,
+    "sma20": 60147.295
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理",
+      "content": "当前BTC/USD运行于60050一带窄幅整理，价格略低于20日均线，整体结构呈震荡偏弱格局，多空拉锯明显，短线动能不足，方向仍待选择。\n\n技术指标方面，MACD柱值为负且继续下探，空头动能占优；均线系统压制明显，价格未能站稳60150上方，反弹持续性较弱，市场缺乏趋势性放量配合。\n\n支撑位关注60000整数关口及60027日内低点，一旦失守或进一步回撤；上方阻力在60150与60180区域，突破需放量确认，否则仍以区间震荡对待。\n\n交易策略上建议短线高抛低吸为主，激进者可在支撑附近轻仓试多，跌破60000则止损观望；反弹至阻力区分批减仓，等待方向明朗后再顺势跟随。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "BTC/USD is trading in a narrow consolidation band around 60051, reflecting a market pause after recent directional exhaustion. Price action remains compressed between 60027 and 60177, indicating low volatility and indecision. The broader intraday bias leans slightly bearish as price struggles to reclaim the 20-period SMA. Overall structure suggests a potential continuation of range-bound behavior unless a breakout occurs with volume expansion.\n\nMomentum indicators show weakening bullish pressure, with MACD printing a negative value at -27.05, signaling short-term bearish momentum. The absence of a clear RSI reading limits overbought/oversold confirmation, but price trading below the 20-SMA at 60147.295 reinforces mild downside pressure. This alignment suggests sellers are gradually gaining control, though conviction remains limited due to low volatility conditions overall market structure remains neutral-to-bearish in the short term.\n\nKey support is established near the session low at 60027, with psychological reinforcement at the 60000 level. Immediate resistance aligns with the 20-SMA at 60147, followed by the intraday high at 60177. A breakout above resistance could signal recovery momentum, while a breakdown below support may accelerate downside pressure due to thin liquidity within this narrow trading range. Market participants are likely waiting for confirmation before committing directionally.\n\nGiven current compression, short-term traders may consider range-bound strategies, buying near support around 60027 and taking profits near resistance at 60147–60177. Breakout traders should wait for a confirmed close above or below these levels to avoid false signals. Risk management remains critical, as low volatility conditions can quickly expand into sharp directional moves once liquidity returns. Patience is essential until momentum expands."
+    }
+  }
+}
