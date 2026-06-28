@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-28T10:24:57.577Z",
+  "price": {
+    "close": "60104.51",
+    "high": "60202.43",
+    "low": "60089.23",
+    "open": "60169.78",
+    "change": "-0.11",
+    "datetime": "2026-06-28 10:00:00"
+  },
+  "indicators": {
+    "rsi": 48.92211,
+    "macd": -20.88184,
+    "macd_signal": -17.91906,
+    "sma20": 60183.529
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理偏弱下行",
+      "content": "当前价格围绕60100窄幅震荡，日内波动收窄，整体仍处于高位盘整结构，短线动能略显疲弱，多空进入均衡状态。\n\nMACD柱值为负且继续收敛，空头动能占优但未明显放大，价格略低于20日均线60183，短期均线压制明显，RSI缺失使动量判断需谨慎。\n\n支撑位关注60089一线及60000整数关口，上方阻力在60202及20日均线附近，当前区间极窄，突破方向将决定短线延续性。\n\n操作上建议以观望为主，激进者可在区间下沿轻仓试多，上沿减仓或短空，严格止损控制风险，等待放量突破确认趋势方向。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "is currently consolidating in a tight range around 60k, reflecting a neutral-to-slightly bearish intraday structure. Price action is hovering just above the session low, while failing to reclaim the 20-period SMA, indicating limited bullish momentum. The broader trend remains sideways after recent volatility, with traders awaiting a breakout from the current compression zone near key psychological levels around 60,000.\n\nPrice at 60104 slightly below SMA(20) 60183 suggests mild bearish bias. MACD is negative at -20.88, signaling downward momentum though signal line unavailable reduces confirmation strength. RSI not provided limits overbought/oversold clarity. Overall momentum is weak with choppy conditions, suggesting indecision rather than strong trend continuation. Traders should treat signals as range-bound until clearer divergence or breakout occurs develops in the short term.\n\nKey support is seen at 60090, followed by psychological 60000 and deeper support near 59850 if selling pressure accelerates. Immediate resistance aligns with SMA(20) at 60183, then intraday high around 60202. A sustained move above 60200 could trigger short covering toward 60450. However, failure to hold above 60090 risks renewed downside pressure within the consolidation band. Volatility remains compressed, increasing the likelihood of sharp breakout moves in either direction.\n\nShort-term traders may consider range-bound strategies, buying near 60090–60000 support and taking partial profits near 60180–60200 resistance. Breakout traders should wait for a confirmed close above 60200 or below 60000 to avoid false signals in the tight consolidation. Risk management is critical given low volatility compression, with stop-losses placed just outside key range boundaries to manage sudden directional spikes accordingly."
+    }
+  }
+}
