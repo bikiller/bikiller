@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-28T12:08:37.309Z",
+  "price": {
+    "close": "60279",
+    "high": "60291.17",
+    "low": "60226.92",
+    "open": "60251.97",
+    "change": "0.04",
+    "datetime": "2026-06-28 12:00:00"
+  },
+  "indicators": {
+    "rsi": 53.82077,
+    "macd": 1.79819,
+    "macd_signal": -13.057213,
+    "sma20": 60136.1575
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏强整理",
+      "content": "当前价格60279，贴近20日均线60136，日内波动极窄，高低60291/60226，市场进入高位横盘整理格局多空僵持明显\n\nMACD为1.79819且位于零轴上方，动能柱维持正值但未扩张，短线偏多；RSI缺失情况下结合走势判断为中性偏强短期仍震荡\n\n下方支撑60100与60000整数关口，上方阻力60300及60500，区间压缩等待方向选择突破后延续性增强需确认放量\n\n建议区间交易为主，60300上破可轻仓做多，跌破60000则转空，严格止损控制风险仓位不宜过高并关注成交量确认信号变化"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a tight consolidation range, reflecting a period of low volatility and indecision. Price action around 60,279 suggests equilibrium between buyers and sellers after a modest push toward the session high. The extremely narrow distance between the day’s high and low reinforces the idea of compression. Such conditions often precede a volatility expansion, though direction is not yet confirmed.\n\nFrom an indicator standpoint, price remains slightly above the 20-period SMA at 60,136, maintaining a mild short-term bullish bias. The MACD reading at 1.798 indicates weak positive momentum, suggesting buyers still have a slight edge but lack strong follow-through. With RSI unavailable, momentum confirmation is incomplete, but overall structure implies a transition phase rather than a sustained trend.\n\nKey resistance is positioned at 60,291, which aligns closely with the recent intraday high and represents an immediate breakout barrier. Above this level, price could attempt continuation into higher liquidity zones. On the downside, initial support is located at 60,226, followed by the 20-SMA near 60,136, which acts as a dynamic support level. A breakdown below this area would shift focus toward the psychological 60,000 threshold.\n\nTrading conditions currently favor range-bound strategies until a clear breakout emerges. Buying near support with tight risk control may be viable, while breakout traders should wait for a confirmed move above resistance before entering long positions. Failure to break higher could lead to a retest of the SMA zone. Given the compressed volatility, sudden expansion moves remain likely, making disciplined risk management essential."
+    }
+  }
+}
