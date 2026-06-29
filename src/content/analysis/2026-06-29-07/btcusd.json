@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-29T07:15:10.837Z",
+  "price": {
+    "close": "59921.92",
+    "high": "59986.73",
+    "low": "59828.72",
+    "open": "59983.3",
+    "change": "-0.10",
+    "datetime": "2026-06-29 07:00:00"
+  },
+  "indicators": {
+    "rsi": 52.82979,
+    "macd": -28.2285,
+    "macd_signal": -104.34152,
+    "sma20": 59670.5865
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理偏弱反弹",
+      "content": "当前BTC/USD维持窄幅震荡格局，价格围绕60000整数关口反复整理。短线虽有反弹尝试，但整体动能不足，市场处于多空拉锯阶段，趋势仍未形成明确方向，高位盘整结构。\n\n技术指标方面，MACD处于负值区间且柱体偏弱，显示短期动能仍偏空。价格虽站上20日均线，但缺乏RSI数据确认，整体指标呈中性偏弱信号，需警惕上攻乏力后的回调风险。\n\n支撑位关注59670一线对应20日均线，进一步支撑在59500附近。上方阻力集中于60000整数关口及60200区域，若放量突破则可能打开短线上行空间。\n\n交易策略建议以区间震荡思路为主，未有效突破60000前谨慎追多，可关注回踩59670附近低吸机会。若跌破59500则需防范进一步回撤，严格控制仓位与止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "is trading in a narrow consolidation band around 59,921, showing a mild stalling of recent momentum. Price remains slightly above the 20-period SMA at 59,670, suggesting a fragile short-term bullish bias despite a flat 24-hour performance. Overall structure indicates a range-bound market rather than a trending phase, with participants waiting for a breakout to define direction. The compression in price action reflects equilibrium between buyers and sellers.\n\nMACD at -28.23 signals weakening momentum and lingering bearish pressure, although the lack of a visible signal line value limits full crossover interpretation. The flat intraday range combined with missing RSI data reinforces a low-volatility environment. Such conditions often precede directional expansion, meaning traders should be alert for volume spikes or larger-bodied candles that could confirm the next impulse move in either direction.\n\nImmediate support is clustered around the 20-SMA near 59,670, reinforced by the recent session low at 59,828, forming a relatively tight support zone. Resistance sits at 59,986, with the psychological 60,000 level acting as the key breakout threshold. A sustained move above this barrier would signal strength and potentially open room for continuation toward higher liquidity areas above current consolidation.\n\nFrom a trading perspective, range strategies remain favored while price stays contained. Buying dips near 59,650–59,700 with tight risk control may be effective, while short-term fades near 59,950–60,000 can work until a confirmed breakout occurs. A stop below 59,600 helps protect against downside expansion. Breakout traders should wait for a decisive close above 60,000 with volume confirmation before engaging long continuation positions."
+    }
+  }
+}
