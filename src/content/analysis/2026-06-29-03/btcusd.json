@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-29T03:26:56.024Z",
+  "price": {
+    "close": "59998.39",
+    "high": "60080.04",
+    "low": "59654.37",
+    "open": "59654.37",
+    "change": "0.58",
+    "datetime": "2026-06-29 03:00:00"
+  },
+  "indicators": {
+    "rsi": 54.84079,
+    "macd": -131.74131,
+    "macd_signal": -168.20365,
+    "sma20": 59730.137
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：[震荡整理趋势]",
+      "content": "当前比特币价格在59998.39美元附近震荡整理，日内波动较小，显示出市场的谨慎态度。尽管24小时变化仅为0.58%，但价格已接近60000美元的心理关口，可能引发投资者的关注。若继续维持在该水平附近，后续走势将可能受到多空力量的影响。\n\n从技术指标来看，SMA(20)位于59730.14美元，提供了一定的支撑。虽然RSI和MACD数据缺失，但MACD的负值表明短期内可能存在下行压力。投资者应关注市场情绪和成交量变化，以判断是否有反弹或下行的机会。\n\n在支撑位方面，59654.37美元是一个重要的支撑区域，若价格跌破该位，可能会引发更多的抛售情绪。另一方面，60080.04美元作为短期阻力位，突破后可能会吸引更多买盘，推动价格进一步上涨。\n\n综合来看，建议交易者在当前区间内采取谨慎态度，设定好止损与止盈点。如果价格突破60080.04美元，可考虑顺势买入；反之，若跌破59654.37美元，则应考虑适时止损，规避风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "The current price of Bitcoin (BTC) against the US Dollar (USD) is situated at $59,998.39, reflecting a marginal 24-hour change of 0.58%. This slight increase indicates a consolidation phase following recent volatility. The price has fluctuated between a high of $60,080.04 and a low of $59,654.37, suggesting that the market is currently testing the upper and lower boundaries of this range. Traders should remain vigilant as these levels will likely dictate short-term price action.\n\nFrom a technical standpoint, the Simple Moving Average (SMA) of 20 periods at $59,730.14 provides a baseline for identifying the prevailing trend. The price currently sits just above this level, which may indicate short-term bullish sentiment. However, the absence of a clear RSI value complicates momentum analysis. The MACD reading of -131.74131 suggests a bearish crossover, indicating potential downward pressure. Traders should monitor these indicators closely for any signs of trend reversal or continuation.\n\nSupport is established at the recent low of $59,654.37, while resistance is found at the high of $60,080.04. A decisive break above the resistance may open the door for further upward movement, potentially targeting psychological levels around $62,000. Conversely, if support fails, a retest of lower levels could bring the price down to the next significant support zone near $58,500. \n\nIn terms of trading strategy, a cautious approach is advisable. Traders might consider setting buy orders near support levels while simultaneously placing stop-loss orders to manage risk. Conversely, if a breakout above resistance is confirmed, entering long positions could capitalize on potential upward momentum. Staying informed of broader market trends and sentiment will also enhance decision-making in this highly volatile environment."
+    }
+  }
+}
