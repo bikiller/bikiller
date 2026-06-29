@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-29T16:44:18.931Z",
+  "price": {
+    "close": "59736.8",
+    "high": "59822.24",
+    "low": "59469.04",
+    "open": "59704.76",
+    "change": "0.05",
+    "datetime": "2026-06-29 16:00:00"
+  },
+  "indicators": {
+    "rsi": 49.49981,
+    "macd": -40.63456,
+    "macd_signal": -36.45608,
+    "sma20": 59681.114
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理格局",
+      "content": "当前BTC/USD整体处于窄幅震荡格局，价格围绕59700附近运行，日内波动有限，多空力量均衡，但短线略显偏弱，市场缺乏明确趋势突破信号。\n\n技术指标方面，价格略高于20日均线59681，短期仍有支撑，但MACD为负值显示动能偏弱，RSI缺失使超买超卖判断有限，整体信号偏震荡整理。\n\n下方支撑位关注59470及59680一带，上方阻力位59820附近，若放量突破上方压力或将打开短线反弹空间，跌破支撑则可能回测更低区间。\n\n交易策略上建议以区间操作为主，靠近支撑位可轻仓试多，上方阻力区域谨慎追涨，若MACD持续走弱需控制仓位并防范假突破风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "is currently consolidating around 59.7K after a period of low volatility, with price trading slightly above the 20-period SMA at 59,681. This positioning suggests a neutral-to-mildly bullish short-term structure, as buyers continue defending the mid-59K region. However, momentum remains muted, indicating equilibrium between buyers and sellers rather than a sustained trend. The tight 24-hour range reinforces a compression phase that often precedes a directional breakout or continuation move.\n\nMomentum indicators present a slightly bearish undertone, with MACD at -40.63 suggesting weakening upward pressure despite price stability. The absence of a visible RSI reading limits overbought/oversold confirmation, but price behavior near SMA support implies balanced sentiment. Overall, the market lacks strong directional conviction, with oscillators hinting at fading momentum. Traders should interpret this as a transitional phase where confirmation from volume or breakout signals is required before committing to directional positions.\n\nImmediate support is located near the session low at 59,469, with a stronger psychological floor around 59,000 if selling pressure increases. On the upside, resistance is defined by the recent high at 59,822, followed by the key psychological level at 60,000. The narrow range between these levels highlights a compression zone, suggesting that a breakout beyond either boundary could trigger increased volatility and short-term trend expansion.\n\nTrading conditions favor a range-bound strategy in the absence of clear momentum. Short-term traders may consider buying near support around 59,500 with tight risk controls below 59,400, while taking partial profits near 59,800–60,000 resistance. Breakout traders should wait for a confirmed move above 60,000 or below 59,400 to avoid false signals. Position sizing should remain conservative due to compressed volatility and unclear directional bias."
+    }
+  }
+}
