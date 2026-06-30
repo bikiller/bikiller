@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-30T07:50:41.702Z",
+  "price": {
+    "close": "59420.1",
+    "high": "59536.28",
+    "low": "59331.16",
+    "open": "59494",
+    "change": "-0.12",
+    "datetime": "2026-06-30 07:00:00"
+  },
+  "indicators": {
+    "rsi": 41.31886,
+    "macd": -95.56922,
+    "macd_signal": -19.72399,
+    "sma20": 59841.139
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：弱势震荡偏空整理",
+      "content": "当前BTC/USD维持弱势震荡偏空结构，价格运行于59841均线下方，短线多头动能减弱，整体进入整理偏空阶段。需警惕下行延续\n\nMACD指标维持负值-95.56，空头动能占优但未显著扩散，RSI缺失但结合价格弱反弹失败，说明市场缺乏买盘支撑。\n\n短期支撑关注59330附近低点区域，若跌破可能测试59000整数关口；上方阻力59840与59536形成密集压制带。需观察突破方向\n\n操作上建议以区间思路为主，反弹至59500上方可轻仓试空，跌破59330顺势跟空，严格控制止损防止假突破。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Price action in BTC/USD shows a mild intraday bearish bias with the market trading slightly below the 20-period SMA at 59,841. The latest price near 59,420 reflects a tight consolidation range after a small 24-hour decline of 0.12%. Overall structure suggests a short-term pause following recent weakness rather than a decisive breakdown, with volatility compressing between 59,331 and 59,536.\n\nMomentum indicators lean cautiously bearish. The MACD reading of -95.57 confirms downside momentum remains present, although the lack of a signal line value limits full crossover interpretation. With RSI unavailable, momentum confirmation relies more heavily on price behavior and moving average positioning. The inability to reclaim the SMA(20) signals that buyers have not yet regained short-term control.\n\nKey support is forming at 59,330, aligning closely with the session low and acting as the first defensive level. A sustained break below this zone could expose the psychological 59,000 level, where deeper liquidity may be tested. On the upside, immediate resistance sits at the SMA(20) around 59,841, followed by a stronger barrier near 60,000, which remains a key psychological pivot.\n\nFor trading strategy, the market favors range-bound or reactive setups rather than aggressive trend-following entries. Short positions may be considered on failed rallies toward 59,800–60,000 with tight risk control above resistance. Conversely, long entries require confirmation of support holding above 59,300 and a clear rebound in momentum, ideally with a reclaim of the 20-SMA to signal stabilization."
+    }
+  }
+}
