@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-30T02:53:27.299Z",
+  "price": {
+    "close": "59925.82",
+    "high": "59944",
+    "low": "59633.96",
+    "open": "59846.86",
+    "change": "0.13",
+    "datetime": "2026-06-30 02:00:00"
+  },
+  "indicators": {
+    "rsi": 49.68869,
+    "macd": 53.071627,
+    "macd_signal": 68.35574,
+    "sma20": 59952.1965
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱，短线等待方向选择",
+      "content": "当前价格59925.82，略低于20日均线59952.20，显示短线仍处震荡整理格局。24小时涨幅仅0.13%，价格运行于日内区间上沿附近，但尚未形成有效突破，整体趋势偏中性略弱，市场观望情绪较浓。\n\n技术指标方面，MACD数值为53.07，表明多头动能仍有一定支撑，但由于缺少Signal线数据，暂难确认金叉或死叉信号。RSI数据缺失，无法进一步判断超买超卖状态，因此应结合价格与成交量变化综合观察，避免单一指标误判。\n\n支撑方面，可重点关注59630附近的日内低点区域，若跌破则可能进一步测试59500一线；阻力则位于59950至60000区域，同时整数关口60000具有较强心理压力，若有效站稳，其后有望打开新的上涨空间。\n\n交易策略上，建议短线投资者耐心等待价格突破60000并放量确认后再顺势跟进；若跌破59630，则应控制仓位并设置止损。当前震荡区间较窄，不宜盲目追涨杀跌，可采用区间交易思路，严格执行风险管理。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near **59,925.82**, holding almost flat over the last 24 hours with a modest **0.13%** gain. Price has remained confined between **59,633.96** and **59,944**, reflecting a narrow intraday range and relatively balanced buying and selling pressure. Trading just below the **20-period simple moving average at 59,952.20** suggests the short-term trend is neutral to slightly cautious, with neither bulls nor bears demonstrating convincing control.\n\nThe available technical indicators present a mixed picture. The **MACD value of 53.07** remains positive, implying underlying bullish momentum has not completely faded, although the absence of a signal line limits confirmation of trend strength. Likewise, the unavailable **RSI(14)** prevents assessment of overbought or oversold conditions, making price action and moving average behavior more important for current analysis. A sustained move above the 20-period average would strengthen the short-term outlook.\n\nImmediate support is located near the session low around **59,634**, with additional psychological support close to **59,500** if selling pressure increases. Initial resistance sits near **59,944**, followed by the significant **60,000** level, where sellers may become more active. A decisive breakout above resistance could encourage momentum-driven buying toward higher price targets, while a failure to hold support may invite a deeper retracement before renewed demand emerges.\n\nFor active traders, patience may be more effective than anticipating a breakout before confirmation appears. A close above **60,000** supported by expanding volume would provide stronger evidence for bullish continuation, while a break below **59,634** could favor short-term defensive positioning or carefully managed bearish trades. Conservative investors may prefer waiting for clearer confirmation from momentum indicators, while maintaining disciplined risk management through appropriate position sizing and predefined stop-loss levels."
+    }
+  }
+}
