@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-30T12:32:31.471Z",
+  "price": {
+    "close": "58725.19",
+    "high": "59082.46",
+    "low": "58656.57",
+    "open": "59076.82",
+    "change": "-0.60",
+    "datetime": "2026-06-30 12:00:00"
+  },
+  "indicators": {
+    "rsi": 30.46451,
+    "macd": -227.77367,
+    "macd_signal": -127.18991,
+    "sma20": 59708.9945
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：偏弱震荡下行",
+      "content": "短期趋势偏弱，价格运行在59708的20日均线下方，整体呈现震荡下行结构。当前价接近日内低点，反弹力度有限，空头仍占主导，但未出现加速下跌信号。\n\n指标方面MACD持续为负且低于信号线，空头动能占优但尚未放大。RSI缺失但结合价格贴近低位，说明短线卖压较重，市场处于弱势整理阶段。\n\n支撑位关注58600附近及58500强支撑区间，若跌破可能进一步下探58000。上方阻力集中在59700均线与60000整数关口，突破前难以转强。\n\n操作上建议反弹不过60000可逢高试空，若放量站稳则观望或轻仓跟多。当前波动收敛，需等待方向确认后再顺势交易并严格控制止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading near 58,725 after a mild 24-hour decline, reflecting a short-term corrective phase within a broader consolidation structure. Price remains below the 20-period SMA at 59,708, signaling that short-term momentum is tilted slightly in favor of sellers. The market is compressing between 58,656 and 59,082, indicating indecision and a lack of strong conviction from either bulls or bears.\n\nThe MACD reading at -227.77 confirms that bearish momentum is still present, even if not aggressively expanding. With RSI unavailable, momentum assessment relies primarily on price structure and moving average positioning. The negative MACD suggests downside pressure dominates, but the tight trading range implies that selling strength may be stabilizing rather than accelerating, often a precursor to either continuation or reversal.\n\nImmediate support is clearly defined at 58,650, aligning closely with the recent intraday low. A breakdown below this level would expose the psychological 58,000 area, where stronger buyer interest may emerge. On the upside, resistance is first seen at 59,080, followed by the more significant barrier at the 20-SMA near 59,700. A break above this zone would be required to neutralize current bearish bias.\n\nFrom a trading perspective, the structure favors a cautious range-trading approach while price remains compressed between support and resistance. Short-term sellers may continue to have a slight edge below the 20-SMA, particularly on failed rallies. However, a confirmed breakout above 59,700 would shift momentum toward recovery targets near 60,500. Until then, disciplined risk management is essential due to potential volatility expansion."
+    }
+  }
+}
