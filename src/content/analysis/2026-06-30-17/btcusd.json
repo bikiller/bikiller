@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-30T17:50:05.593Z",
+  "price": {
+    "close": "58267.41",
+    "high": "58517.28",
+    "low": "58231.99",
+    "open": "58391.34",
+    "change": "-0.21",
+    "datetime": "2026-06-30 17:00:00"
+  },
+  "indicators": {
+    "rsi": 31.71184,
+    "macd": -406.04037,
+    "macd_signal": -293.66969,
+    "sma20": 59211.5905
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线承压震荡偏弱",
+      "content": "当前BTC处于高位回落后的窄幅整理结构，价格运行在59211的20日均线下方，整体趋势由震荡转为弱势偏空。短周期动能不足，多头未能有效延续上攻，市场进入高位消化阶段，需警惕进一步回撤风险，但尚未形成单边趋势。\n\n技术指标方面，MACD为-406显示空头动能占优，空方量能释放但未完全衰竭。RSI未给出但结合价格结构推测接近中性偏弱区域。均线系统压制明显，短期反弹缺乏成交量配合，动能修复仍需时间确认。\n\n支撑位方面，58200为当前关键短线支撑，跌破可能下探58000甚至前低区域。阻力位首先关注58500附近，进一步强阻力位于59200均线区域，该位置也是多空分水岭，突破前难以确认反转结构。\n\n交易策略建议以反弹做空或区间交易为主，未突破59200前不宜激进做多。若反抽至58500附近遇阻，可轻仓布局空单，并设置58650上方止损；若跌破58200则顺势跟空，注意控制杠杆与仓位风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin vs USD is currently exhibiting a short-term bearish consolidation phase, trading slightly below the 20-period simple moving average at 59,211.59. Price action remains compressed within a narrow intraday range between 58,231.99 and 58,517.28, suggesting indecision. Despite limited volatility, repeated failures to reclaim higher levels indicate weakening bullish momentum and a gradual shift toward downside pressure rather than a strong directional trend.\n\nMACD readings at -406.04 reinforce bearish momentum, reflecting sustained selling pressure and a lack of immediate bullish crossover signals. With the signal line not provided, confirmation is incomplete, yet the histogram implication remains negative. The price trading beneath the SMA(20) further supports a bearish bias, as short-term averages act as dynamic resistance. Momentum structure suggests rallies may be corrective rather than trend-reversing.\n\nImmediate support is located near 58,231.99, aligning with the recent intraday low, followed by psychological support at 58,000 and a deeper zone around 57,500 if selling accelerates. On the upside, resistance is first seen at 58,517.28, with stronger barriers near the SMA(20) at 59,211.59. A sustained break above this level would be required to neutralize current bearish pressure and restore bullish structure.\n\nFrom a trading perspective, the prevailing setup favors cautious positioning. Short-term traders may look for continuation short opportunities on rejection near resistance zones, while swing traders should wait for a confirmed breakout above the SMA(20) before considering long exposure. Risk management remains critical, with tight stops above 59,300 for shorts and below 58,000 for longs. Volatility compression suggests potential for expansion in the near term."
+    }
+  }
+}
