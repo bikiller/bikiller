@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-06-30T16:53:35.443Z",
+  "price": {
+    "close": "58308.5",
+    "high": "58526",
+    "low": "58133.79",
+    "open": "58267.51",
+    "change": "0.07",
+    "datetime": "2026-06-30 16:00:00"
+  },
+  "indicators": {
+    "rsi": 31.17995,
+    "macd": -395.41843,
+    "macd_signal": -266.89868,
+    "sma20": 59313.624
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱下行",
+      "content": "当前价格运行于58300附近，整体仍处于短线震荡区间内，但价格明显承压于20日均线下方，显示中期趋势偏弱。日内波动幅度较窄，说明多空双方处于博弈阶段，市场缺乏明确方向，偏向弱势整理格局。\n\n技术指标方面，MACD处于负值区间且未见明显收敛，表明空头动能仍在延续；SMA20位于59300上方形成压制，短期均线系统呈现空头排列迹象。RSI数据缺失，但从价格结构判断，动能偏弱。\n\n关键支撑位关注58100一线，若有效跌破，可能进一步测试57500区域；上方阻力位集中在58500及59300区间，其中59300为重要趋势分水岭，若无法突破，反弹空间将受限。\n\n交易策略上，建议以高空为主、低多为辅，短线在阻力位附近逢高做空，严格控制仓位与止损；若价格放量突破59300，则可考虑顺势跟多，否则维持区间震荡思路操作。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading in a mild corrective structure after failing to sustain gains above the short-term moving average. Price action remains compressed between 58133 and 58526, reflecting low-volatility consolidation. Trading below the SMA(20) at 59313.62 reinforces a short-term bearish bias, indicating sellers still control momentum. Despite limited downside follow-through, the broader intraday structure remains tilted downward unless price reclaims the moving average decisively in the near term.\n\nMACD at -395.41 confirms negative momentum and sustained downside pressure, though without strong acceleration. With RSI unavailable, price behavior suggests weak momentum rather than deeply oversold conditions. The absence of bullish divergence implies buyers have not regained meaningful control. Market sentiment remains cautious, and intraday rebounds are more likely corrective than trend-reversing unless accompanied by expanding volume and a clear break above key resistance zones in current conditions.\n\nImmediate support sits near 58130, aligned with recent lows, followed by the psychological 58000 level where liquidity may cluster. A breakdown below this zone could extend downside movement further. Resistance is firmly positioned at 58500, with stronger supply near the SMA20 around 59313. A break above this moving average would be required to shift structure back toward a neutral or bullish stance in the near term market.\n\nTraders may consider a short-biased approach while price remains below SMA20, targeting breakdown continuation or range fades near resistance. However, given tight consolidation, breakout strategies are preferable: longs above 59300 with confirmation, or shorts below 58130 with stops above the range high. Risk management is critical due to low-volatility compression often preceding sharp expansion moves across intraday sessions and swing setups."
+    }
+  }
+}
