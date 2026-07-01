@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-01T16:58:49.431Z",
+  "price": {
+    "close": "59820.94",
+    "high": "60201.52",
+    "low": "59797.66",
+    "open": "60087.71",
+    "change": "-0.44",
+    "datetime": "2026-07-01 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.52305,
+    "macd": 144.20306,
+    "macd_signal": -13.10432,
+    "sma20": 58930.7165
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏多整理",
+      "content": "短线呈高位震荡格局，价格围绕五万九千八百附近整理，日内波动收窄，市场缺乏明确方向，多空暂时均衡。但趋势仍偏多头结构未破坏。\n\n技术指标方面，价格运行于SMA20上方（58930附近），中期均线支撑有效。MACD柱状值144为正，动能仍偏多，但缺乏RSI确认，短线动能略有钝化。\n\n下方支撑位在59700至59800区域，若失守则回测58930均线支撑。上方阻力位于60200一线，突破后有望上看61000整数关口。\n\n交易策略建议以区间操作为主，未有效突破60200前不宜追高。回踩59700附近可轻仓试多，跌破58930则需止损观望，控制风险为主。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading around 59,820 after a mild 0.44% decline, reflecting a short-term consolidation phase following recent volatility. Price action remains compressed within a narrow intraday range between 59,797 and 60,201, indicating equilibrium between buyers and sellers. Despite the slight pullback, structure still leans neutral, with buyers defending dips near the lower boundary while resistance caps upside momentum just above the 60k psychological level.\n\nMomentum indicators suggest underlying bullish bias despite short-term hesitation. The MACD reading at 144.20 remains positive, implying sustained upward momentum on higher timeframes, even though a signal line is unavailable for crossover confirmation. Price holding above the 20-day SMA at 58,930 reinforces a medium-term uptrend structure. However, lack of RSI data limits precision in overbought assessment, keeping caution warranted near resistance.\n\nImmediate support is found near 59,800, aligning closely with the intraday low at 59,797, while stronger structural support sits at the 20-day SMA around 58,930. On the upside, initial resistance is positioned at the psychological 60,000 level, followed by a more significant barrier near 60,200, which marks the recent intraday high. A breakout above this zone could trigger continuation momentum.\n\nTraders may consider range-bound strategies while price remains trapped between 59.8k and 60.2k. Buying dips near support with tight risk management may be favorable, while aggressive longs should wait for a confirmed breakout above 60,200 for continuation. Conversely, failure to hold 59,800 could invite short-term downside toward the 58,900 SMA. Overall positioning remains cautious, favoring flexibility over conviction until directional breakout occurs short term outlook."
+    }
+  }
+}
