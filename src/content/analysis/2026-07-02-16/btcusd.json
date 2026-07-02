@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-02T16:26:45.440Z",
+  "price": {
+    "close": "61420.26",
+    "high": "61687.3",
+    "low": "61365.99",
+    "open": "61543.79",
+    "change": "-0.20",
+    "datetime": "2026-07-02 16:00:00"
+  },
+  "indicators": {
+    "rsi": 62.057631,
+    "macd": 519.61457,
+    "macd_signal": 466.59727,
+    "sma20": 60779.7275
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏弱整理",
+      "content": "当前比特币/美元整体维持高位震荡偏弱格局，价格在61600附近受压回落，但仍未跌破短期均线支撑，市场多空博弈加剧，短线趋势略偏整理。\n\n技术指标方面，MACD显示多头动能仍在但柱状开始收敛，短期上涨动能减弱；价格运行于20日均线之上，说明中期结构仍偏多，但缺乏强势突破信号。\n\n下方关键支撑位关注61360与60780附近，一旦失守可能回测60000整数关口；上方阻力位在61680及62000区域，突破需放量确认。\n\n交易策略上建议维持区间操作思路，未突破阻力前高抛低吸为主，激进者可在回踩支撑区分批布局多单，并设置严格止损控制风险执行。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating near 61,420 after a mild 24-hour decline of 0.20%, reflecting a balanced but slightly pressured market structure. Price action remains contained within a tight intraday range between 61,365 and 61,687, suggesting short-term indecision. Despite the minor pullback, the broader structure still shows resilience as BTC continues to hold above its 20-period simple moving average, indicating that the prevailing trend remains cautiously constructive rather than bearish.\n\nFrom an indicator perspective, momentum signals are mixed but lean slightly positive. The MACD reading at 519.61 suggests underlying bullish momentum, although the absence of a visible signal line limits confirmation of a clear crossover context. With RSI unavailable, momentum strength must be inferred from price behavior, which shows stabilization above short-term support. Holding above the SMA(20) at 60,779 reinforces a neutral-to-bullish bias, though upside conviction remains moderate rather than strong.\n\nKey support is established at the recent swing low of 61,365, followed closely by a more structurally significant level at the 20-SMA near 60,780. A deeper breakdown would expose the psychological 60,000 zone, which aligns with prior demand interest. On the upside, immediate resistance sits at 61,687, with a breakout above this level opening room toward 62,000 and potentially 62,500 if momentum accelerates. The current compression suggests an imminent directional move.\n\nTrading conditions favor a range-aware approach until confirmation emerges. Long positions may be considered on sustained holds above 60,800 with confirmation from bullish momentum expansion, while breakout traders can watch for a clean move above 61,700 with volume support. Conversely, failure to hold 61,300 would weaken structure and increase downside risk toward the 60,000 area. Patience is key in this low-volatility consolidation phase."
+    }
+  }
+}
