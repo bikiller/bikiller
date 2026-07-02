@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-02T18:51:45.635Z",
+  "price": {
+    "close": "61778.6",
+    "high": "61813.39",
+    "low": "61600.89",
+    "open": "61604.62",
+    "change": "0.28",
+    "datetime": "2026-07-02 18:00:00"
+  },
+  "indicators": {
+    "rsi": 66.58274,
+    "macd": 529.17513,
+    "macd_signal": 491.15204,
+    "sma20": 60899.4535
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位震荡偏强整理格局",
+      "content": "当前BTC维持61700上方高位震荡，日内涨幅0.28%，整体结构偏多但上行动能减弱。价格接近前高区域，显示多头主导但进入整理阶段。\n\nMACD处于正值区间，动能柱维持扩张，说明多头趋势仍在延续。价格运行在SMA20（60899）上方，中期趋势保持上行，但RSI缺失使超买强度判断受限。\n\n下方关键支撑关注61600与SMA20附近60900区域，一旦跌破可能回测60000整数关口。上方阻力位于61813前高，突破后有望冲击62000上方。\n\n操作上建议以区间震荡思路为主，未放量突破前不宜追高。若回踩支撑企稳可轻仓做多，突破前高则顺势跟进，严格设置止损控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently trading in a tight consolidation range around 61,778 after a modest 24-hour gain. Price action remains structurally bullish as it holds above the 20-day SMA near 60,899, indicating buyers are still defending trend support. The market shows reduced volatility with repeated tests of intraday highs and lows, suggesting accumulation rather than distribution. Overall momentum is neutral-to-positive within a short-term sideways structure, with no clear breakdown in trend integrity.\n\nIndicator signals suggest a cautiously bullish bias. The MACD reading at 529.17 remains positive, implying underlying upward momentum despite the lack of a visible signal line for crossover confirmation. While RSI data is unavailable, sustained trading above the SMA20 reinforces trend strength. The compressed trading range reflects declining volatility, often preceding a directional expansion. Traders should remain alert for momentum confirmation as price pressure builds near local highs.\n\nImmediate support is located at the session low near 61,600, followed by stronger structural support at the 20-day SMA around 60,900. A break below this zone would weaken the bullish structure and expose deeper retracement risk. On the upside, resistance sits at 61,813, the recent high, with a breakout potentially targeting the 62,000–62,500 liquidity zone. Price is currently coiling between these levels, indicating an imminent volatility expansion.\n\nTrading strategy favors a breakout-oriented approach in the current environment. Long positions may be considered on sustained moves above 61,813 with confirmation, targeting higher resistance zones. Alternatively, range traders can accumulate near support between 61,600 and 60,900 with tight risk control. Protective stops below the SMA20 help manage downside risk effectively. Until a decisive breakout occurs, disciplined patience remains essential in this low-volatility consolidation phase."
+    }
+  }
+}
