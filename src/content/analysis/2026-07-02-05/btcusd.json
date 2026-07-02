@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-02T05:11:15.411Z",
+  "price": {
+    "close": "60678.66",
+    "high": "60716.85",
+    "low": "60567.78",
+    "open": "60707.99",
+    "change": "-0.05",
+    "datetime": "2026-07-02 05:00:00"
+  },
+  "indicators": {
+    "rsi": 62.56998,
+    "macd": 415.81115,
+    "macd_signal": 344.1436,
+    "sma20": 59921.2065
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：高位窄幅震荡中的多空拉锯",
+      "content": "当前价格围绕60678震荡，整体呈现高位横盘整理结构。24小时波动极小，显示市场短期多空力量趋于均衡。价格维持在近期高点附近运行，但未能有效突破60716一线，说明上方抛压仍然存在，短线趋势偏震荡偏强。\n\n技术指标方面，MACD维持在415上方，动能柱仍支持多头结构，但缺乏进一步扩张信号，显示上涨动能趋缓。SMA20位于59921下方并持续上行，对价格形成动态支撑。由于RSI缺失，需结合价格结构判断，目前更接近高位整理而非单边趋势。\n\n支撑与阻力结构清晰。短期支撑集中在60560附近，跌破后将回测59920均线关键位；上方阻力则在60716前高，突破后有望打开至61000整数关口空间。整体区间收敛，预示即将选择方向，波动可能放大。\n\n交易策略上，建议以区间交易与突破策略结合为主。未突破60716前可高抛低吸，靠近60560分批布局多单并严格止损；若放量突破60716，可顺势追多看向61000上方。需警惕高位假突破风险，控制仓位与杠杆强度。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently in a short-term consolidation phase around 60,678, following a modest pullback but holding above its 20-day simple moving average at 59,921. Price action shows compressed volatility with a narrow 24-hour range, suggesting equilibrium between buyers and sellers. Despite the flat daily performance, the structure remains mildly bullish as BTC continues to trade above key short-term trend support, indicating underlying demand remains intact.\n\nMomentum signals are mixed but leaning positive. The MACD reading of 415.81 indicates that bullish momentum is still present, although the absence of a signal line prevents a full crossover assessment. RSI data is unavailable, limiting overbought/oversold evaluation. However, price stability near session highs suggests buyers are defending dips. Overall momentum appears neutral-to-bullish, with no strong evidence yet of trend reversal or breakdown pressure.\n\nKey support is established at the 20-day SMA near 59,921, followed by the session low around 60,567 as immediate intraday support. On the upside, resistance is clearly defined at the recent high of 60,716, which is the first barrier to bullish continuation. A sustained breakout above this level could open the path toward the psychological 61,000–61,500 zone, where prior supply may emerge and slow upward progress.\n\nFor trading strategy, range-bound approaches remain favorable while price stays between 60,567 and 60,716. Scalpers may consider buying near support with tight stops below 59,900, targeting the upper boundary of the range. Breakout traders should wait for a confirmed close above 60,716 before entering long positions. Conversely, failure to break resistance could trigger short-term mean reversion trades back toward the SMA20, emphasizing disciplined risk management in this compressed volatility environment."
+    }
+  }
+}
