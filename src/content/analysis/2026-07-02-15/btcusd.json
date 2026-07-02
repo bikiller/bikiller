@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-02T15:35:41.071Z",
+  "price": {
+    "close": "61658",
+    "high": "61784",
+    "low": "61347.04",
+    "open": "61634.28",
+    "change": "0.04",
+    "datetime": "2026-07-02 15:00:00"
+  },
+  "indicators": {
+    "rsi": 66.063131,
+    "macd": 543.8578,
+    "macd_signal": 455.16557,
+    "sma20": 60717.914
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏强，上行趋势延续",
+      "content": "当前价格运行于61658附近，高于20日均线60717.91，说明中期趋势仍保持偏多格局。24小时涨幅仅0.04%，显示短线多空力量相对均衡，市场进入震荡整理阶段，但整体结构依然有利于多头延续。\n\n从技术指标观察，MACD数值维持543.86，反映中期动能仍偏向积极，不过由于缺少Signal与RSI数据，暂时无法确认金叉强度及超买超卖状态。因此，现阶段更应结合价格突破情况判断趋势持续性，而非单一依赖指标信号。\n\n短线支撑可重点关注61350附近，其次关注20日均线60720区域；若失守上述位置，调整空间可能进一步扩大。上方阻力首先位于61780附近，若有效突破并站稳，则有望继续挑战62000至62500区域，市场情绪预计将进一步改善。\n\n交易策略方面，建议以顺势交易为主，等待价格突破阻力后跟随做多，或回踩支撑企稳后分批布局。若价格跌破关键支撑，应严格执行止损，避免震荡行情中的假突破风险，同时合理控制仓位，提高资金管理效率。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading around 61,658, holding close to the upper end of the latest 24-hour range between 61,347 and 61,784 after a nearly unchanged daily performance. Despite the muted short-term movement, price remains above the 20-day simple moving average at 60,717.91, indicating that the broader near-term trend still favors buyers. Maintaining this position above the moving average suggests underlying demand remains intact, although momentum appears measured rather than aggressive.\n\nThe available technical indicators present a cautiously constructive picture. The MACD value of 543.86 remains positive, implying bullish momentum is still present, even though the absence of the signal line limits confirmation of crossover strength. Likewise, the unavailable RSI prevents assessing whether Bitcoin is approaching overbought or oversold territory. With incomplete momentum data, traders should place greater emphasis on price action, volume behavior, and reactions around key technical levels before committing to larger positions.\n\nImmediate support can be identified near the recent session low around 61,350, with secondary support emerging closer to the 20-day moving average near 60,718. A sustained move below these areas could encourage additional selling pressure and expose lower retracement levels. On the upside, resistance is clustered near the recent high around 61,784. A decisive breakout above that level, supported by increasing trading volume, would strengthen the bullish case and improve the probability of extending gains toward higher resistance zones.\n\nFrom a trading perspective, maintaining a moderately bullish bias appears reasonable while Bitcoin continues trading above its 20-day moving average. Conservative traders may prefer waiting for either a confirmed breakout above resistance or a pullback toward support that produces a clear bullish reversal signal. Risk management remains essential, with appropriately placed stop-loss orders below nearby support levels. Given the limited momentum confirmation from missing RSI and MACD signal data, avoiding oversized positions until stronger confirmation develops would be a disciplined approach."
+    }
+  }
+}
