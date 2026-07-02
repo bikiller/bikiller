@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-02T23:43:59.998Z",
+  "price": {
+    "close": "61367.63",
+    "high": "61528",
+    "low": "61266.79",
+    "open": "61397.76",
+    "change": "-0.05",
+    "datetime": "2026-07-02 23:00:00"
+  },
+  "indicators": {
+    "rsi": 58.056832,
+    "macd": 384.72119,
+    "macd_signal": 450.35157,
+    "sma20": 61203.4285
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏多整理阶段",
+      "content": "当前BTC/USD价格围绕61367震荡，24小时微跌0.05%，高低区间收窄，显示短期进入整理阶段，整体仍维持在均线上方运行，趋势偏震荡略多。\n\nMACD维持384正值，说明多头动能仍在，但缺少RSI配合判断，动能略有减弱迹象。价格站稳20日均线61203上方，结构仍偏多但动能放缓。\n\n短期支撑位关注61266与61200均线区域，一旦跌破可能回测61000整数关口。上方阻力在61528，突破后或上探61800压力带。\n\n操作上建议以区间思路为主，回踩61200附近分批低吸，止损设于61000下方。若放量突破61528，可顺势跟随短多，注意控制仓位风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating in a narrow range around 61,300–61,500, reflecting a short-term equilibrium after mild intraday volatility. Price action remains slightly bullish overall as BTC holds above the 20-period SMA at 61,203. This suggests that buyers are still defending the short-term trend structure, even though momentum has paused. The market is lacking strong directional conviction, favoring range-bound trading conditions for now.\n\nFrom a momentum perspective, MACD at 384.72 indicates that bullish momentum is still present, although the absence of a signal line reading limits confirmation of trend acceleration. The flat 24-hour performance and tight high-low range suggest diminishing volatility, often a precursor to a breakout phase. Without RSI data, momentum must be inferred from price structure, which still leans modestly bullish above key moving support.\n\nKey support is established at 61,266, aligning closely with the session low, followed by stronger structural support at the 20-SMA near 61,203. A break below this zone would expose downside risk toward the 60,800–60,500 area. On the upside, immediate resistance sits at 61,528, the session high, with a stronger barrier near 62,000, which remains a psychological and technical level for breakout confirmation.\n\nTrading strategy favors patience within the current compression phase. Long positions are preferable while price holds above 61,200, ideally on pullbacks toward support with tight risk management below the SMA. Breakout traders may wait for a confirmed close above 61,528 to target higher liquidity zones. Conversely, a breakdown below 61,200 would shift bias neutral-to-bearish, opening room for deeper retracement."
+    }
+  }
+}
