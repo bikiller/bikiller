@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-07-02T22:31:32.839Z",
+  "price": {
+    "close": "1695.53",
+    "high": "1700.15",
+    "low": "1695.17",
+    "open": "1699.55",
+    "change": "-0.23",
+    "datetime": "2026-07-02 22:00:00"
+  },
+  "indicators": {
+    "rsi": 66.49939,
+    "macd": 23.83103,
+    "macd_signal": 22.89278,
+    "sma20": 1667.3845
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：高位窄幅震荡偏多格局",
+      "content": "当前ETH/美元整体维持高位窄幅震荡结构，价格围绕1695附近整理，短线波动极小但重心仍稳定在1700关口下方，市场呈现典型的多头整理蓄势形态。\n\n技术指标方面，MACD维持正值动能柱，显示多头动能仍在延续，但因RSI缺失暂无法判断超买区间；短期均线与价格偏离有限，趋势延续性较强。\n\n下方支撑关注1667附近的20日均线，一旦失守将回踩1650区域；上方阻力集中在1700整数关口及1725前高，突破需量能配合确认。\n\n交易策略建议以回踩低吸为主，1667-1675区域可分批布局多单，若放量突破1700则顺势追多，止损参考1650下方以控制风险。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is currently consolidating around 1,695 after a very tight 24-hour range, indicating low volatility and short-term indecision. Despite the slight -0.23% daily change, price structure remains marginally constructive as it trades above the 20-period SMA at 1,667.38. This positioning suggests a mild bullish bias within a broader sideways market, where momentum is pausing rather than reversing, awaiting a catalyst for directional expansion in near term.\n\nETH/USD momentum indicators show a neutral-to-slightly bullish tilt, with MACD reading at 23.83103 suggesting positive momentum, although the absence of a visible signal line limits confirmation. Price compression near recent highs typically precedes expansion, and current flat intraday movement implies weakening directional conviction. Without RSI data, momentum assessment relies on price action, which continues to hover near short-term equilibrium zone.\n\nKey resistance is concentrated at 1,700, where price has repeatedly stalled intraday, with a potential extension toward 1,710 if momentum strengthens. Immediate support is defined by the 20-period SMA at 1,667.38, which currently acts as a dynamic floor. A sustained break below this level would expose the 1,650 region, where prior consolidation suggests stronger buyer interest and potential dip accumulation.\n\nGiven the current compression, traders may favor range-bound strategies between 1,667 and 1,700, buying near support and taking partial profits near resistance. A confirmed breakout above 1,700 with rising volume would signal continuation toward 1,710 and beyond. Conversely, rejection at resistance favors mean reversion trades. Risk management remains essential, with invalidation below 1,667 or a deeper stop near 1,650 depending on risk tolerance and timeframe."
+    }
+  }
+}
