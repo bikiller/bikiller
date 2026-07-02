@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-02T07:27:40.863Z",
+  "price": {
+    "close": "60118.74",
+    "high": "60221.11",
+    "low": "60083.83",
+    "open": "60186.01",
+    "change": "-0.12",
+    "datetime": "2026-07-02 07:00:00"
+  },
+  "indicators": {
+    "rsi": 53.22291,
+    "macd": 317.71277,
+    "macd_signal": 336.82502,
+    "sma20": 60063.28
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理偏多格局",
+      "content": "当前价格围绕60100附近运行，整体维持窄幅震荡结构，短线略微站稳20日均线60063上方，市场多空拉锯但买盘略占优势，趋势偏向温和整理上行。\n\nMACD仍处于零轴上方且柱体维持正值317附近，显示多头动能尚未完全衰竭，但RSI缺失使超买/超卖判断不完整，短线动能进入盘整修复阶段。\n\n下方支撑关注60060及整数关口60000，若失守可能回踩59800区域；上方阻力集中在60220近期高点，突破后或打开60500上方空间。\n\n操作上建议以区间思路为主，未突破前高以高抛低吸为宜，突破60220可轻仓追多并设止损60000下方，跌破支撑则转为短空思路控制风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating around 60,118 after a mild 0.12% decline, showing a short-term equilibrium between buyers and sellers. Price remains slightly above the 20-period SMA at 60,063, indicating a neutral-to-slightly bullish structure. The market is compressing within a narrow intraday range, suggesting reduced volatility. Overall trend context remains sideways to marginally upward, with buyers defending the 60,000 psychological zone as immediate support.\n\nMomentum indicators suggest underlying bullish pressure despite the lack of RSI and signal line data. The MACD reading at 317.71 is positive, implying that recent upside momentum still outweighs downside pressure. However, the flattening price action near highs indicates potential exhaustion. Without a confirmed MACD signal crossover, traders should treat momentum as supportive but not yet a breakout confirmation for now.\n\nImmediate support is anchored around the 60,000 level, closely aligned with both psychological demand and the lower boundary of the current intraday range at 60,083.83. A break below could expose 59,500 as next downside interest. On the upside, resistance sits near 60,221, the session high, followed by 60,500 where selling pressure may intensify. The SMA(20) at 60,063 acts as dynamic support in the short term.\n\nTrading conditions favor a range-bound strategy with slight bullish bias. Long positions may be considered near the 60,000–60,050 support zone with tight risk control below 59,800. Profit targets can be staged at 60,220 and 60,500. Conversely, breakout traders should wait for a decisive move above 60,221 with volume confirmation before adding exposure. Until then, patience is warranted as BTC continues to consolidate within a low-volatility structure."
+    }
+  }
+}
