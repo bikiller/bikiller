@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL/USD",
+  "name": "Solana vs US Dollar",
+  "nameCn": "Solana/美元",
+  "timestamp": "2026-07-03T10:34:32.373Z",
+  "price": {
+    "close": "81",
+    "high": "81.19",
+    "low": "80.78",
+    "open": "80.93",
+    "change": "0.07",
+    "datetime": "2026-07-03 10:00:00"
+  },
+  "indicators": {
+    "rsi": 57.93994,
+    "macd": 0.49325034,
+    "macd_signal": 0.62330006,
+    "sma20": 80.803
+  },
+  "analysis": {
+    "zh": {
+      "title": "Solana/美元技术分析：窄幅震荡偏多格局",
+      "content": "当前SOL/USD处于低波动横盘整理结构，价格围绕81附近窄幅震荡，短线多空均衡但略偏多头，整体尚未形成明确突破方向。\n\n均线方面价格略高于SMA20(80.803)，短期结构偏强；MACD柱值为0.49显示动能温和扩张，但RSI缺失限制超买判断。\n\n支撑关注80.78与SMA20附近80.80区域，若跌破则回撤加深；上方阻力81.19及81.50附近，突破后有望延续上行。\n\n操作上建议以区间交易为主，低位接近80.8分批试多，高位81.2上方逐步止盈；若放量突破81.5可顺势追多，否则维持震荡策略。"
+    },
+    "en": {
+      "title": "Solana vs US Dollar Technical Analysis",
+      "content": "SOL/USD is consolidating around 81 after a prolonged low-volatility phase. Price action is tightly compressed between 80.78 and 81.19, indicating equilibrium between buyers and sellers. Despite minimal 24-hour change, the structure leans slightly constructive as price holds above the 20-period SMA near 80.80. This suggests a short-term stabilization phase that may precede directional expansion once volatility returns. Overall, momentum remains subdued but stable.\n\nMACD at 0.493 indicates underlying bullish momentum is gradually building, though the absence of a visible signal line prevents confirmation of a strong crossover. RSI is unavailable, limiting overbought or oversold context and increasing reliance on structural price behavior. Trading above the SMA(20) reinforces a mild bullish bias, but the lack of strong momentum confirmation suggests the trend is not yet firmly established and remains in an early accumulation phase.\n\nKey support is anchored at 80.80, aligned with the SMA(20), followed by the recent low at 80.78. A deeper support zone sits near 80.50, which could act as a liquidity area if selling pressure increases. Resistance is immediately found at 81.20, with further levels at 81.80 and 82.50 based on prior congestion. A decisive break above 81.20 would signal potential upside continuation, while failure to hold 80.80 risks a return to range lows.\n\nFrom a trading perspective, short-term strategies favor range-bound execution, with potential long entries near 80.80 and profit-taking into 81.20 resistance. Breakout traders should wait for a confirmed close beyond either boundary of 81.20 or 80.78 to avoid false signals in this compressed volatility environment. Risk control is essential given the high likelihood of whipsaws. The broader bias remains cautiously neutral with a slight bullish tilt while price holds above the SMA(20)."
+    }
+  }
+}
