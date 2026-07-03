@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-03T02:32:25.060Z",
+  "price": {
+    "close": "61235.97",
+    "high": "61582.74",
+    "low": "61214.61",
+    "open": "61511.47",
+    "change": "-0.45",
+    "datetime": "2026-07-03 02:00:00"
+  },
+  "indicators": {
+    "rsi": 53.40546,
+    "macd": 296.34615,
+    "macd_signal": 388.76574,
+    "sma20": 61340.3705
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理格局",
+      "content": "当前BTC价格围绕61200一线窄幅震荡运行，略低于20日均线61340，短期结构偏震荡，整体多头延续性不足。市场在高位回落后进入整理阶段，方向选择仍待确认。\n\nMACD仍处正值区域但柱体收敛，动能有所减弱，RSI缺失但结合价格表现显示中性偏弱，市场缺乏明确方向。短线买盘力量不足，反弹持续性有限。\n\n下方支撑关注61200与61000整数关口，上方阻力在61340及61580前高区域，区间收敛迹象明显。若跌破支撑，可能引发进一步回调压力。\n\n操作上建议短线高抛低吸为主，靠近支撑分批试多，跌破61000需止损，反弹至阻力区逐步止盈控制风险。中期仍需等待趋势重新放量确认。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating in a narrow intraday range around 61,200–61,500, showing a mild bearish bias after failing to sustain levels above the 20-day simple moving average at 61,340. Price action is compressing near the lower end of the 24-hour range, suggesting weakening upward momentum. The overall structure reflects a short-term sideways-to-slightly bearish trend, with buyers struggling to reclaim control above near-term averages.\n\nMomentum indicators present a mixed picture. The MACD remains positive at 296.35, indicating that broader momentum has not fully reversed, but the absence of a visible signal line reading limits confirmation of trend strength. Price trading below the SMA(20) suggests short-term weakness, while the tight range implies declining volatility. Without RSI data, momentum confirmation is incomplete, but current behavior points toward neutral-to-soft momentum conditions.\n\nKey support is forming near the session low at 61,214, which is now a critical short-term level. A breakdown below this zone could expose the psychological 61,000 area and potentially accelerate downside pressure. On the upside, immediate resistance sits at the SMA(20) around 61,340, followed by stronger resistance at 61,582, aligning with the 24-hour high and recent rejection zone.\n\nFrom a trading perspective, the market favors range-bound strategies until a clear breakout occurs. Short-term traders may consider buying near support around 61,200 with tight stops below 61,000, targeting a retest of 61,340–61,580. Alternatively, breakout traders should wait for a decisive move above 61,600 for bullish continuation or a breakdown below 61,200 for bearish momentum confirmation. Risk management remains essential given the current low-volatility compression phase."
+    }
+  }
+}
