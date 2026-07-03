@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-03T09:45:19.092Z",
+  "price": {
+    "close": "61569.95",
+    "high": "61661.59",
+    "low": "61440.7",
+    "open": "61507.04",
+    "change": "0.10",
+    "datetime": "2026-07-03 09:00:00"
+  },
+  "indicators": {
+    "rsi": 57.91945,
+    "macd": 226.60478,
+    "macd_signal": 276.82792,
+    "sma20": 61512.4925
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：窄幅震荡中的偏强整理",
+      "content": "价格在61570附近窄幅震荡，整体处于横盘整理。K线紧贴SMA20，短线多空均衡，尚未出现明确方向选择。\n\nMACD仍为正值约226，显示多头动能尚存，但缺乏进一步放大迹象。RSI缺失但结合走势，动能进入中性偏整理状态。\n\n下方支撑关注61440低点及SMA20附近61512，一旦失守或引发回踩。上方阻力在61660及62000整数关口，突破需量能配合。\n\n操作上建议短线高抛低吸为主，未突破前避免追单。若放量站稳61660上方，可顺势看多至62000区域，严格设置止损。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is currently consolidating in a very tight intraday range around 61.5k, reflecting balanced order flow and subdued volatility. Price action shows repeated testing of both sides of the 61.4k–61.6k band without decisive follow-through. Structurally, the market remains slightly constructive as price holds above the short-term 20-period SMA, but momentum is insufficient to confirm a directional breakout.\n\nThe 20-period SMA at 61512 is functioning as a near-term equilibrium level, with price oscillating just above it, suggesting a neutral-to-slightly bullish bias. MACD remains positive at 226.6, indicating underlying upward momentum, but the absence of a visible signal line limits confirmation of trend strength or crossover clarity. Without RSI data, overbought/oversold conditions cannot be assessed, increasing reliance on price structure.\n\nKey support is established at 61440, which coincides with the recent session low and represents the first critical defensive zone for buyers. A breakdown below this level could expose 61200 and potentially extend consolidation pressure. On the upside, immediate resistance sits at 61660, followed by 61800 and the psychological barrier at 62000, where stronger supply is likely to emerge.\n\nCurrent conditions favor short-term range trading strategies rather than trend-following setups. Long positions may be considered near support with tight risk controls, while partial profit-taking is logical near resistance zones. A confirmed breakout above 61660 would be required to validate bullish continuation, whereas failure to hold 61440 would shift bias toward short-term downside risk."
+    }
+  }
+}
