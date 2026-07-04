@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-04T10:05:02.502Z",
+  "price": {
+    "close": "62400.8",
+    "high": "62431.96",
+    "low": "62391.56",
+    "open": "62429.04",
+    "change": "-0.05",
+    "datetime": "2026-07-04 10:00:00"
+  },
+  "indicators": {
+    "rsi": 55.91526,
+    "macd": 193.22462,
+    "macd_signal": 248.32228,
+    "sma20": 62411.1145
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线震荡偏弱，关注均线支撑",
+      "content": "当前BTC/USD处于极窄幅震荡，最新价62400.8接近24小时高低点区间中部，说明多空力量暂时均衡。24小时涨跌近乎持平，短线趋势仍以横盘整理为主，尚未形成明确方向。\n\n技术指标方面，价格略低于SMA(20)62411.11，显示短线动能偏弱但并未失守关键均线。MACD为193.22，仍保持正值，说明中期结构未明显转空；但RSI缺失，需结合价格行为判断强弱。\n\n下方支撑关注62390附近的日内低点，若失守，进一步支撑看62350和62300一带。上方阻力先看62432附近高点，若放量突破，则有望测试62550及62700区域，打开短线上行空间。\n\n操作上建议以区间思路应对，激进者可在62390上方低吸，止损放在62350下方；稳健者等待有效突破62432后顺势跟进。若价格反复跌破SMA20，则应降低仓位并防范回撤风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading in a very tight intraday range around 62,400, with the latest price almost unchanged on the day. That suggests equilibrium between buyers and sellers rather than a decisive breakout or breakdown. The market is consolidating just above the short-term moving average, which keeps the near-term structure neutral to mildly constructive. For now, BTC/USD appears to be pausing after a prior advance and waiting for a catalyst before expanding volatility.\n\nThe SMA(20) at 62,411 is effectively aligned with spot price, reinforcing the idea of short-term balance. The MACD reading of 193.22 remains positive, which is a supportive sign for underlying momentum, even though a signal line is unavailable. RSI is also unavailable, so momentum confirmation is limited. In the absence of overbought or oversold confirmation, price action and key levels become the most important tools for judging direction.\n\nImmediate resistance is clustered near the session high at 62,432, followed by the psychological 62,500 area and then 62,800 if momentum improves. On the downside, initial support sits around 62,392, with stronger support near the 62,350 to 62,300 zone where buyers may attempt to defend the trend. A clean break above 62,432 would favor continuation, while a loss of 62,300 could invite a deeper retracement toward the low 62,000s.\n\nTrading-wise, short-term traders may prefer range strategies while price remains compressed, buying near support and reducing exposure near resistance. Breakout traders should wait for confirmation rather than anticipating a move, since the current range is extremely narrow and prone to false signals. For broader positioning, the neutral-to-positive MACD backdrop argues for caution on shorts unless support fails decisively. Risk management remains essential because small ranges can quickly expand in either direction."
+    }
+  }
+}
