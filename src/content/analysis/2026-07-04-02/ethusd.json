@@ -1,0 +1,30 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum vs US Dollar",
+  "nameCn": "以太坊/美元",
+  "timestamp": "2026-07-04T02:31:13.684Z",
+  "price": {
+    "close": "1746.55",
+    "high": "1749.29",
+    "low": "1746.4",
+    "open": "1747.02",
+    "change": "-0.06",
+    "datetime": "2026-07-04 02:00:00"
+  },
+  "indicators": {
+    "rsi": 60.11508,
+    "macd": 15.25735,
+    "macd_signal": 17.36971,
+    "sma20": 1741.7585
+  },
+  "analysis": {
+    "zh": {
+      "title": "以太坊/美元技术分析：震荡整理偏多运行",
+      "content": "当前ETH价格围绕1746附近窄幅震荡，24小时波动极小，整体呈现高位整理结构，多空拉锯明显，短线缺乏趋势性突破信号，等待方向选择确认为主。\n\nMACD维持正值动能柱，显示多头仍占优势但力度有限；价格站上SMA20均线，短期均线支撑有效，不过上行缺乏放量配合，需观察量能变化确认延续性。\n\n下方短期支撑关注1741附近SMA20位置，其次1740整数关口；上方阻力在1749近期高点，突破后有望测试1755区域，区间震荡为主。\n\n操作上建议以区间交易为主，低位靠近支撑分批轻仓做多，高位接近阻力逐步止盈，避免追涨杀跌并控制仓位风险，耐心等待突破信号再加仓确认趋势。"
+    },
+    "en": {
+      "title": "Ethereum vs US Dollar Technical Analysis",
+      "content": "ETH/USD is currently exhibiting a tight consolidation phase around 1746, with price action compressing into an extremely narrow intraday range. The negligible 24-hour change suggests market equilibrium between buyers and sellers. This behavior often precedes a volatility expansion, but direction remains undecided. Overall structure leans mildly constructive as price holds above recent short-term averages, yet lacks strong momentum confirmation signals in the short term.\n\nMomentum indicators suggest a slight bullish bias, with MACD reading positive at 15.25735, indicating underlying upward pressure despite the lack of a visible signal line value. The absence of RSI data limits overbought/oversold assessment, but price stability above the 20-period SMA at 1741.76 supports short-term trend resilience. As long as price remains above this dynamic average, buyers retain marginal control.\n\nKey technical levels show immediate resistance clustered around 1749.29 to 1750, where recent highs have repeatedly capped price advances. A sustained break above this zone could open the path toward higher liquidity pockets. On the downside, initial support sits near 1741.76 aligned with the SMA(20), followed by a secondary buffer around 1735, where deeper demand may re-emerge. Market remains range-bound until breakout confirms direction.\n\nTrading conditions favor range-based strategies while volatility remains compressed, with potential entries near support zones and profit-taking into resistance. Conservative traders may wait for confirmation above 1750 before engaging in breakout positions, while mean-reversion approaches could target rebounds from the SMA(20). Risk management is essential given the current low volatility environment, as sudden expansion may occur without warning. Adaptability is key in this phase."
+    }
+  }
+}
