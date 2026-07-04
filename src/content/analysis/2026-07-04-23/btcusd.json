@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-04T23:42:35.952Z",
+  "price": {
+    "close": "63085.41",
+    "high": "63182.56",
+    "low": "62879.83",
+    "open": "63139.99",
+    "change": "-0.09",
+    "datetime": "2026-07-04 23:00:00"
+  },
+  "indicators": {
+    "rsi": 63.24652,
+    "macd": 265.93885,
+    "macd_signal": 255.12794,
+    "sma20": 62776.8375
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡整理偏多",
+      "content": "当前BTC/USD窄幅震荡整理，价格围绕63000波动，高低区间约300美元，方向暂不明朗，但仍运行在20日均线上方，整体偏多结构未破坏。\n\nMACD为265显示多头动能仍在，但信号线未明，短线偏多。价格站稳SMA20(62776)上方，均线支撑有效，维持温和上行。RSI缺失限制超买判断。\n\n短线支撑位关注62880附近，对应日内低点62879.83；上方阻力63180及63250，突破高点63182.56后或打开小幅上行空间。区间交易特征明显。\n\n操作上建议低多思路为主，回踩63000或62880附近分批吸纳，止损设于62750下方；若放量突破63180可顺势追多，但不宜追高追涨，控制仓位为主。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 63,085 after a relatively quiet 24-hour session, with price action confined to a narrow intraday range between 62,880 and 63,183. Despite the slight daily decline, the broader short-term structure remains constructive, as the market continues to hold above the 20-period simple moving average at 62,776. This positioning suggests that buyers are still defending key technical levels, although momentum appears to be moderating following the recent advance.\n\nThe relationship between price and the 20-period moving average indicates that the prevailing short-term trend remains mildly bullish. The available MACD reading of 265.94 points to positive momentum conditions, implying that underlying buying pressure has not fully dissipated. However, without a corresponding signal line value and RSI confirmation, traders should be cautious about assuming immediate continuation. The current consolidation phase may represent either healthy price stabilization or the early stages of momentum exhaustion.\n\nFrom a technical perspective, immediate support is located near the 62,800-62,900 region, which coincides with recent intraday lows and sits just above the 20-period moving average. A sustained break below this area could expose the market to further downside toward the 62,500 level. On the upside, resistance is emerging around 63,200, with a more significant barrier near 63,500. A decisive breakout above these levels would strengthen the case for renewed bullish momentum.\n\nFor active traders, maintaining a balanced approach appears appropriate under current market conditions. Bullish positions may remain favorable while price holds above the 62,800 support zone, particularly if momentum indicators strengthen. Conservative participants may prefer waiting for either a confirmed breakout above resistance or a pullback toward support before initiating new positions. Given the relatively compressed trading range and limited directional conviction, disciplined risk management and carefully defined stop-loss levels remain essential."
+    }
+  }
+}
