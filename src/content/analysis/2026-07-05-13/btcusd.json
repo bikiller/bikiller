@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-05T13:22:09.145Z",
+  "price": {
+    "close": "62686.81",
+    "high": "62764.24",
+    "low": "62640.07",
+    "open": "62692.42",
+    "change": "-0.01",
+    "datetime": "2026-07-05 13:00:00"
+  },
+  "indicators": {
+    "rsi": 48.91722,
+    "macd": 12.51632,
+    "macd_signal": 60.36399,
+    "sma20": 62866.9495
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：短线偏弱震荡整理",
+      "content": "当前价格位于20日均线下方，整体走势呈现偏弱震荡格局，24小时波动极为有限，显示多空双方暂时维持拉锯状态。若后续无法快速收复均线，短线仍可能延续区间整理，市场方向需等待新的成交量配合确认。\n\n从技术指标观察，MACD仍保持正值，说明中期动能尚未完全转空，但缺少Signal与RSI数据，短线强弱判断存在一定局限。价格持续运行于SMA20下方，反映近期上行动能不足，反弹力度仍需进一步验证。\n\n支撑方面，可重点关注62640附近低点区域，若跌破则可能测试62550一带；上方阻力首先关注62870附近20日均线，其后留意63000整数关口。只有有效突破阻力并放量，市场才有望重新打开上涨空间。\n\n交易策略建议以谨慎为主，激进投资者可关注支撑位附近企稳后的短线低吸机会，若价格反弹至阻力区域且量能不足，可考虑分批止盈。操作过程中应严格设置止损，控制仓位，避免震荡行情带来的反复风险。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading near 62,686.81 after an almost unchanged 24-hour performance, reflecting a market that is consolidating rather than establishing a decisive directional move. The price remains slightly below the 20-period simple moving average at 62,866.95, suggesting that short-term momentum still favors sellers, although the gap is relatively small. The narrow daily range between 62,640.07 and 62,764.24 also highlights reduced volatility, often preceding a stronger directional breakout.\n\nTechnical indicators provide a mixed picture. The available MACD value of 12.52 remains positive, indicating that underlying momentum has not completely faded, although the absence of a signal line limits confirmation of whether bullish momentum is strengthening or weakening. Likewise, the unavailable RSI prevents a reliable assessment of overbought or oversold conditions. As a result, greater emphasis should be placed on price structure and moving average behavior until additional indicator confirmation becomes available.\n\nImmediate support is located around the session low near 62,640, with a more important psychological support slightly below this area if selling pressure increases. Initial resistance appears around the 20-period SMA near 62,867, followed by the recent intraday high close to 62,764 and any sustained move above the moving average that could attract additional buyers. A decisive close above resistance would improve the short-term outlook, while repeated rejection could reinforce the current consolidation phase.\n\nFrom a trading perspective, patience may offer a better risk-to-reward profile than chasing minor intraday fluctuations. Conservative traders could wait for a confirmed breakout above the moving average with expanding momentum before considering long exposure, while a clear breakdown beneath support may favor short-term bearish opportunities. Given the compressed trading range and incomplete indicator set, disciplined position sizing, predefined stop-loss levels, and close monitoring of volume remain essential for managing risk effectively."
+    }
+  }
+}
