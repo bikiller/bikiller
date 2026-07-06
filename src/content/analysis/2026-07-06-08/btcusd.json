@@ -1,0 +1,30 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin vs US Dollar",
+  "nameCn": "比特币/美元",
+  "timestamp": "2026-07-06T08:16:26.673Z",
+  "price": {
+    "close": "62986.98",
+    "high": "63177.93",
+    "low": "62936.64",
+    "open": "63024.27",
+    "change": "-0.06",
+    "datetime": "2026-07-06 08:00:00"
+  },
+  "indicators": {
+    "rsi": 49.27128,
+    "macd": 83.66579,
+    "macd_signal": 123.64002,
+    "sma20": 63039.079
+  },
+  "analysis": {
+    "zh": {
+      "title": "比特币/美元技术分析：震荡偏弱整理",
+      "content": "当前BTC/美元处于高位窄幅震荡结构，价格围绕63000附近整理，波动收窄，多空动能不足，短线方向感较弱，市场观望情绪升温。\n\nMACD指标柱体维持正值但动能有限，快慢线分化不明显，显示反弹力度不足，短期缺乏明确趋势延续信号，震荡为主。整体偏中性略弱运行。\n\n短期支撑位关注62930一线，前低62936形成密集支撑区；上方压力在63180附近与20日均线63039重合，构成强阻力带。\n\n建议短线以区间交易为主，高抛低吸，避免追涨杀跌。若跌破62930可轻仓试空，上破63180则顺势跟多并关注量能确认信号确认再行动。"
+    },
+    "en": {
+      "title": "Bitcoin vs US Dollar Technical Analysis",
+      "content": "Bitcoin is trading around 62986.98, showing a marginal -0.06% 24h change, indicating a neutral short-term market. The price action is tightly compressed between 63177.93 high and 62936.64 low, reflecting low volatility and consolidation. The market is hovering slightly below the 20-day SMA at 63039.08, suggesting mild short-term bearish pressure while still maintaining equilibrium. Overall structure remains range-bound rather than trending, with participants waiting for a directional breakout.\n\nMomentum indicators suggest a cautiously bullish bias, though confirmation is limited. MACD reads 83.66579, indicating positive momentum, but the absence of a signal line restricts full crossover interpretation. RSI (14) is unavailable, limiting overbought/oversold assessment. Price hovering near the 20-day SMA at 63039.08 reinforces equilibrium conditions. Overall momentum is flat-to-slightly positive, requiring a breakout above resistance for stronger trend confirmation.\n\nImmediate support is established near 62936.64, with a deeper psychological level around 62900 and secondary support near 62500 if selling pressure intensifies. Resistance is seen at 63177.93, followed by a stronger zone around 63500. Traders may consider range-bound strategies, buying near support and taking profits near resistance. A decisive break above 63180 could signal bullish continuation, while a drop below 62900 may trigger short-term downside momentum.\n\nShort-term traders should monitor compression around the SMA20 for a volatility expansion signal. In this low-range environment, tight risk management is essential, with stops placed below 62900 for long positions and above 63180 for shorts. A confirmed breakout with volume above resistance could open path toward 63500–64000, while failure to hold support may extend retracement toward 62500. Patience is advised until directional momentum strengthens."
+    }
+  }
+}
